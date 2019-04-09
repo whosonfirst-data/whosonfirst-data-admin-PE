@@ -1,0 +1,72 @@
+{
+  "id": 1309809261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.00497,-15.25585,-73.00497,-15.25585",
+    "geom:latitude":-15.25585,
+    "geom:longitude":-73.00497,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40803.0",
+    "gn:asciiname":"Huayrapjunco",
+    "gn:country_code":"PE",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11044044,
+    "gn:latitude":-15.25585,
+    "gn:longitude":-73.00497,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huayrapjunco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huayrapjunco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11044044
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"104dcd58ce3f4ebbe55bd444e44110af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1309809261,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1309809261,
+    "wof:lastmodified":1537676965,
+    "wof:name":"Huayrapjunco",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.00497,
+    -15.25585,
+    -73.00497,
+    -15.25585
+],
+  "geometry": {"coordinates":[-73.00497,-15.25585],"type":"Point"}
+}

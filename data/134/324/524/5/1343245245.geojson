@@ -1,0 +1,72 @@
+{
+  "id": 1343245245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82132,-6.51099,-79.82132,-6.51099",
+    "geom:latitude":-6.51099,
+    "geom:longitude":-79.82132,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Pasapera",
+    "gn:country_code":"PE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951136,
+    "gn:latitude":-6.51099,
+    "gn:longitude":-79.82132,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pasapera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pasapera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951136
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9a9e0abe70f35c07a24436c97604ad0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1343245245,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343245245,
+    "wof:lastmodified":1537676946,
+    "wof:name":"Pasapera",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82132,
+    -6.51099,
+    -79.82132,
+    -6.51099
+],
+  "geometry": {"coordinates":[-79.82132,-6.51099],"type":"Point"}
+}

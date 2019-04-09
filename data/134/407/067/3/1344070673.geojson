@@ -1,0 +1,73 @@
+{
+  "id": 1344070673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88,-6.33667,-77.88,-6.33667",
+    "geom:latitude":-6.33667,
+    "geom:longitude":-77.88,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10119.0",
+    "gn:asciiname":"Maino",
+    "gn:country_code":"PE",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3695063,
+    "gn:latitude":-6.33667,
+    "gn:longitude":-77.88,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Maino",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayno",
+        "Maino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695063
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f21999f1f02da3a1bbb88fc44811a6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1344070673,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1344070673,
+    "wof:lastmodified":1537676587,
+    "wof:name":"Maino",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88,
+    -6.33667,
+    -77.88,
+    -6.33667
+],
+  "geometry": {"coordinates":[-77.88,-6.33667],"type":"Point"}
+}

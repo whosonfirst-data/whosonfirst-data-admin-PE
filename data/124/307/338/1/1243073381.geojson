@@ -1,0 +1,69 @@
+{
+  "id": 1243073381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79385,-15.15565,-72.79385,-15.15565",
+    "geom:latitude":-15.15565,
+    "geom:longitude":-72.79385,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40802.0",
+    "gn:asciiname":"Yumasca",
+    "gn:country_code":"PE",
+    "gn:dem":3446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3955842,
+    "gn:latitude":-15.15565,
+    "gn:longitude":-72.79385,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Yumasca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3955842
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"91965770a7aca974a0681e5cdea8069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1243073381,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1243073381,
+    "wof:lastmodified":1536845196,
+    "wof:name":"Yumasca",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79385,
+    -15.15565,
+    -72.79385,
+    -15.15565
+],
+  "geometry": {"coordinates":[-72.79385000000001,-15.15565],"type":"Point"}
+}

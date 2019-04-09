@@ -1,0 +1,71 @@
+{
+  "id": 1226310589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.42875,-10.78004,-74.42875,-10.78004",
+    "geom:latitude":-10.78004,
+    "geom:longitude":-74.42875,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Pajonal Choverari",
+    "gn:country_code":"PE",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818257,
+    "gn:latitude":-10.78004,
+    "gn:longitude":-74.42875,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Pajonal Choverari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pajonal Choverari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818257
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"72b3ffcfa6f011e9f08133e77dcdcbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1226310589,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1226310589,
+    "wof:lastmodified":1537676922,
+    "wof:name":"Pajonal Choverari",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.42875,
+    -10.78004,
+    -74.42875,
+    -10.78004
+],
+  "geometry": {"coordinates":[-74.42874999999999,-10.78004],"type":"Point"}
+}

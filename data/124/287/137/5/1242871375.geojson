@@ -1,0 +1,69 @@
+{
+  "id": 1242871375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3652,-5.57449,-79.3652,-5.57449",
+    "geom:latitude":-5.57449,
+    "geom:longitude":-79.3652,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60809.0",
+    "gn:asciiname":"Tailin",
+    "gn:country_code":"PE",
+    "gn:dem":1918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761904,
+    "gn:latitude":-5.57449,
+    "gn:longitude":-79.3652,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tailin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761904
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6d9a9cac4c2398eb35dda75b48ce2880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1242871375,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1242871375,
+    "wof:lastmodified":1536639605,
+    "wof:name":"Tailin",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.3652,
+    -5.57449,
+    -79.3652,
+    -5.57449
+],
+  "geometry": {"coordinates":[-79.3652,-5.57449],"type":"Point"}
+}

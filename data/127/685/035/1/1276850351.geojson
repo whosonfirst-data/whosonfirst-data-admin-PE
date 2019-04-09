@@ -1,0 +1,69 @@
+{
+  "id": 1276850351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27423,-11.85261,-75.27423,-11.85261",
+    "geom:latitude":-11.85261,
+    "geom:longitude":-75.27423,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120207.0",
+    "gn:asciiname":"Cuchuspampa",
+    "gn:country_code":"PE",
+    "gn:dem":3813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674686,
+    "gn:latitude":-11.85261,
+    "gn:longitude":-75.27423,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cuchuspampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674686
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c20c5c1d7dae8884256c5c63ce49ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694035,
+            "locality_id":1276850351,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276850351,
+    "wof:lastmodified":1537077595,
+    "wof:name":"Cuchuspampa",
+    "wof:parent_id":1108694035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27423,
+    -11.85261,
+    -75.27423,
+    -11.85261
+],
+  "geometry": {"coordinates":[-75.27423,-11.85261],"type":"Point"}
+}

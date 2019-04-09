@@ -1,0 +1,65 @@
+{
+  "id": 1259447093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.70301,-15.66952,-69.70301,-15.66952",
+    "geom:latitude":-15.66952,
+    "geom:longitude":-69.70301,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210103.0",
+    "gn:asciiname":"Ocosuyo",
+    "gn:country_code":"PE",
+    "gn:dem":3849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934120,
+    "gn:latitude":-15.66952,
+    "gn:longitude":-69.70301,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ocosuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934120
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"091d33cd3af3fad81697dd547b801aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1259447093,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259447093,
+    "wof:lastmodified":1536911594,
+    "wof:name":"Ocosuyo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.70300999999999,
+    -15.66952,
+    -69.70300999999999,
+    -15.66952
+],
+  "geometry": {"coordinates":[-69.70300999999999,-15.66952],"type":"Point"}
+}

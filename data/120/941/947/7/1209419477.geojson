@@ -1,0 +1,63 @@
+{
+  "id": 1209419477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75806,-13.71833,-73.75806,-13.71833",
+    "geom:latitude":-13.71833,
+    "geom:longitude":-73.75806,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51107.0",
+    "gn:asciiname":"Tincocc",
+    "gn:country_code":"PE",
+    "gn:dem":3135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374683,
+    "gn:latitude":-13.71833,
+    "gn:longitude":-73.75806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tincocc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374683
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ca4a85b35b228ab691a4ccffeeed0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209419477
+        }
+    ],
+    "wof:id":1209419477,
+    "wof:lastmodified":1536287578,
+    "wof:name":"Tincocc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75806,
+    -13.718329999999998,
+    -73.75806,
+    -13.718329999999998
+],
+  "geometry": {"coordinates":[-73.75806,-13.71833],"type":"Point"}
+}

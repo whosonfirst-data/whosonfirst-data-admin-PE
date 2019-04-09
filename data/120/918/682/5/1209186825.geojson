@@ -1,0 +1,63 @@
+{
+  "id": 1209186825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22751,-13.05328,-76.22751,-13.05328",
+    "geom:latitude":-13.05328,
+    "geom:longitude":-76.22751,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150510.0",
+    "gn:asciiname":"Caltopa Alto",
+    "gn:country_code":"PE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6667286,
+    "gn:latitude":-13.05328,
+    "gn:longitude":-76.22751,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Caltopa Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6667286
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d13ed1b9a164126891f2b68d913a04a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209186825
+        }
+    ],
+    "wof:id":1209186825,
+    "wof:lastmodified":1536295071,
+    "wof:name":"Caltopa Alto",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22751,
+    -13.05328,
+    -76.22751,
+    -13.05328
+],
+  "geometry": {"coordinates":[-76.22751,-13.05328],"type":"Point"}
+}

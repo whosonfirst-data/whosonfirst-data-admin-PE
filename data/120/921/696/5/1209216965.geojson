@@ -1,0 +1,63 @@
+{
+  "id": 1209216965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41667,-10.51667,-77.41667,-10.51667",
+    "geom:latitude":-10.51667,
+    "geom:longitude":-77.41667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21410.0",
+    "gn:asciiname":"Yerbabuena",
+    "gn:country_code":"PE",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925553,
+    "gn:latitude":-10.51667,
+    "gn:longitude":-77.41667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yerbabuena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925553
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"89070da2b105a7cc5713f1de806fa4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209216965
+        }
+    ],
+    "wof:id":1209216965,
+    "wof:lastmodified":1536294098,
+    "wof:name":"Yerbabuena",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41667,
+    -10.51667,
+    -77.41667,
+    -10.51667
+],
+  "geometry": {"coordinates":[-77.41667,-10.51667],"type":"Point"}
+}

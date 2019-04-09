@@ -1,0 +1,73 @@
+{
+  "id": 1327016771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.30583,-11.14694,-74.30583,-11.14694",
+    "geom:latitude":-11.14694,
+    "geom:longitude":-74.30583,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120608.0",
+    "gn:asciiname":"Puerto Ocopa",
+    "gn:country_code":"PE",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3931465,
+    "gn:latitude":-11.14694,
+    "gn:longitude":-74.30583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puerto Ocopa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Ocapa",
+        "Puerto Ocopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931465
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df3b8ea9dc4e2d162bb71a5da56bee72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1327016771,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1327016771,
+    "wof:lastmodified":1537676721,
+    "wof:name":"Puerto Ocopa",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.30583,
+    -11.14694,
+    -74.30583,
+    -11.14694
+],
+  "geometry": {"coordinates":[-74.30583,-11.14694],"type":"Point"}
+}

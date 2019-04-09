@@ -1,0 +1,68 @@
+{
+  "id": 1209809761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.85508,-12.05553,-74.85508,-12.05553",
+    "geom:latitude":-12.05553,
+    "geom:longitude":-74.85508,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Luicho Pata",
+    "gn:country_code":"PE",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663890,
+    "gn:latitude":-12.05553,
+    "gn:longitude":-74.85508,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Luicho Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663890
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"884bc3ae810e7510c9d79c0a9aaf587b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1209809761,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1209809761,
+    "wof:lastmodified":1536386973,
+    "wof:name":"Luicho Pata",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.85508,
+    -12.05553,
+    -74.85508,
+    -12.05553
+],
+  "geometry": {"coordinates":[-74.85508,-12.05553],"type":"Point"}
+}

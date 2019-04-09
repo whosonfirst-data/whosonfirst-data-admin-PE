@@ -1,0 +1,69 @@
+{
+  "id": 1243460173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.94596,-16.4744,-71.94596,-16.4744",
+    "geom:latitude":-16.4744,
+    "geom:longitude":-71.94596,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40125.0",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"PE",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660229,
+    "gn:latitude":-16.4744,
+    "gn:longitude":-71.94596,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660229
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"76ca379566c75e8eafc29de8168fdafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1243460173,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1243460173,
+    "wof:lastmodified":1536786176,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.94596,
+    -16.4744,
+    -71.94596,
+    -16.4744
+],
+  "geometry": {"coordinates":[-71.94596,-16.4744],"type":"Point"}
+}

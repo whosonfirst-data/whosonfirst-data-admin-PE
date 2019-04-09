@@ -1,0 +1,82 @@
+{
+  "id": 1343533883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.48333,-11.68333,-76.48333,-11.68333",
+    "geom:latitude":-11.68333,
+    "geom:longitude":-76.48333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150719.0",
+    "gn:asciiname":"Pariachaca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932932,
+    "gn:latitude":-11.68333,
+    "gn:longitude":-76.48333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pariachaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaca",
+        "Pariachaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932932
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d92bb69e42bc819f42cbbfa36b7c91e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343533883,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343533883,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343533883,
+    "wof:lastmodified":1537676734,
+    "wof:name":"Pariachaca",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.48333000000002,
+    -11.68333,
+    -76.48333000000002,
+    -11.68333
+],
+  "geometry": {"coordinates":[-76.48333000000002,-11.68333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259383949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.5275,-13.75861,-73.5275,-13.75861",
+    "geom:latitude":-13.75861,
+    "geom:longitude":-73.5275,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30205.0",
+    "gn:asciiname":"Huancaray",
+    "gn:country_code":"PE",
+    "gn:dem":2917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3939494,
+    "gn:latitude":-13.75861,
+    "gn:longitude":-73.5275,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huancaray",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939494
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"65a57ffb38fe745a7cef60e111453a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1259383949,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1259383949,
+    "wof:lastmodified":1537000842,
+    "wof:name":"Huancaray",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.5275,
+    -13.75861,
+    -73.5275,
+    -13.75861
+],
+  "geometry": {"coordinates":[-73.5275,-13.75861],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326737181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.14278,-14.14028,-73.14278,-14.14028",
+    "geom:latitude":-14.14028,
+    "geom:longitude":-73.14278,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30414.0",
+    "gn:asciiname":"Tapairihua",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3927827,
+    "gn:latitude":-14.14028,
+    "gn:longitude":-73.14278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tapairihua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapayrigua",
+        "Tapairihua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421175161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927827
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"40ea03657653340a243828eade7f3858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175161,
+            "locality_id":1326737181,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1326737181,
+    "wof:lastmodified":1537676682,
+    "wof:name":"Tapairihua",
+    "wof:parent_id":421175161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14278,
+    -14.14028,
+    -73.14278,
+    -14.14028
+],
+  "geometry": {"coordinates":[-73.14278,-14.14028],"type":"Point"}
+}

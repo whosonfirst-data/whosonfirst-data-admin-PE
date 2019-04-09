@@ -1,0 +1,69 @@
+{
+  "id": 1343937289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.97884,-11.33419,-75.97884,-11.33419",
+    "geom:latitude":-11.33419,
+    "geom:longitude":-75.97884,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1205.0",
+    "gn:admin3_code":"120501.0",
+    "gn:asciiname":"Ahuituyoc",
+    "gn:country_code":"PE",
+    "gn:dem":4225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3961605,
+    "gn:latitude":-11.33419,
+    "gn:longitude":-75.97884,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ahuituyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421184147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3961605
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2c8b8d6d72e07c79f2df8cd770127b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184147,
+            "locality_id":1343937289,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343937289,
+    "wof:lastmodified":1537051346,
+    "wof:name":"Ahuituyoc",
+    "wof:parent_id":421184147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.97884,
+    -11.33419,
+    -75.97884,
+    -11.33419
+],
+  "geometry": {"coordinates":[-75.97884000000001,-11.33419],"type":"Point"}
+}

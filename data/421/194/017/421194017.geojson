@@ -1,0 +1,77 @@
+{
+  "id": 421194017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57569,-16.39444,-71.57569,-16.39444",
+    "geom:latitude":-16.39444,
+    "geom:longitude":-71.57569,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3935256,
+    "qs:gn_pop":0,
+    "qs:name":"Mariscal Castilla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887623,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":408592,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421198069,
+        85675839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935256,
+        "gp:id":408592,
+        "qs:id":887623
+    },
+    "wof:country":"PE",
+    "wof:created":1459009790,
+    "wof:geomhash":"1402e9e96c6c2712387b820596ea1224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":421194017,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421194017,
+    "wof:lastmodified":1531858724,
+    "wof:name":"Mariscal Castilla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57569,
+    -16.39444,
+    -71.57569,
+    -16.39444
+],
+  "geometry": {"coordinates":[-71.57568999999999,-16.39444],"type":"Point"}
+}

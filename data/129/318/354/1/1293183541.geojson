@@ -1,0 +1,81 @@
+{
+  "id": 1293183541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10944,-11.03917,-77.10944,-11.03917",
+    "geom:latitude":-11.03917,
+    "geom:longitude":-77.10944,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"Yunguy",
+    "gn:country_code":"PE",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940843,
+    "gn:latitude":-11.03917,
+    "gn:longitude":-77.10944,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yunguy",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo Yunguy",
+        "Yunguy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940843
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f964b88c3b98f036155e5294fd609de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1293183541,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1293183541,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293183541,
+    "wof:lastmodified":1537676810,
+    "wof:name":"Yunguy",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10944,
+    -11.03917,
+    -77.10944,
+    -11.03917
+],
+  "geometry": {"coordinates":[-77.10944000000001,-11.03917],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276290515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88118,-4.91052,-80.88118,-4.91052",
+    "geom:latitude":-4.91052,
+    "geom:longitude":-80.88118,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200505.0",
+    "gn:asciiname":"Hacienda Nomara",
+    "gn:country_code":"PE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694351,
+    "gn:latitude":-4.91052,
+    "gn:longitude":-80.88118,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hacienda Nomara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Nomara"
+    ],
+    "name:und_x_variant":[
+        "Nomara Hacienda",
+        "Nomara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694351
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ccce96f0bd21573f97d64ce5dbfc9aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1276290515,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276290515,
+    "wof:lastmodified":1537676578,
+    "wof:name":"Hacienda Nomara",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88118,
+    -4.91052,
+    -80.88118,
+    -4.91052
+],
+  "geometry": {"coordinates":[-80.88118,-4.91052],"type":"Point"}
+}

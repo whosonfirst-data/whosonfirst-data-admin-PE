@@ -1,0 +1,72 @@
+{
+  "id": 1226726485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75164,-11.43973,-75.75164,-11.43973",
+    "geom:latitude":-11.43973,
+    "geom:longitude":-75.75164,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120701.0",
+    "gn:asciiname":"Durasnioj",
+    "gn:country_code":"PE",
+    "gn:dem":3556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962117,
+    "gn:latitude":-11.43973,
+    "gn:longitude":-75.75164,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Durasnioj",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durasmioj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962117
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c98910ddf5ff36f4b2f6db436673f197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1226726485,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226726485,
+    "wof:lastmodified":1537676883,
+    "wof:name":"Durasnioj",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75164000000002,
+    -11.43973,
+    -75.75164000000002,
+    -11.43973
+],
+  "geometry": {"coordinates":[-75.75164000000002,-11.43973],"type":"Point"}
+}

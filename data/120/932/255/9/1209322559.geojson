@@ -1,0 +1,63 @@
+{
+  "id": 1209322559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99559,-9.19049,-76.99559,-9.19049",
+    "geom:latitude":-9.19049,
+    "geom:longitude":-76.99559,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20306.0",
+    "gn:asciiname":"Curva",
+    "gn:country_code":"PE",
+    "gn:dem":3406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675473,
+    "gn:latitude":-9.19049,
+    "gn:longitude":-76.99559,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Curva",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675473
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b872d6bb0ec85f486b1f7cab8b06fc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209322559
+        }
+    ],
+    "wof:id":1209322559,
+    "wof:lastmodified":1536290641,
+    "wof:name":"Curva",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99559,
+    -9.19049,
+    -76.99559,
+    -9.19049
+],
+  "geometry": {"coordinates":[-76.99559000000001,-9.19049],"type":"Point"}
+}

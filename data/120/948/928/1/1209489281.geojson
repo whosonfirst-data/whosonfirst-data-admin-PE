@@ -1,0 +1,62 @@
+{
+  "id": 1209489281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.10209,-16.85002,-70.10209,-16.85002",
+    "geom:latitude":-16.85002,
+    "geom:longitude":-70.10209,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Achacpujo",
+    "gn:country_code":"PE",
+    "gn:dem":4593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948537,
+    "gn:latitude":-16.85002,
+    "gn:longitude":-70.10209,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Achacpujo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948537
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d1baa88f285d6e4ef26fe68f3c1389e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209489281
+        }
+    ],
+    "wof:id":1209489281,
+    "wof:lastmodified":1536285537,
+    "wof:name":"Achacpujo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.10209,
+    -16.85002,
+    -70.10209,
+    -16.85002
+],
+  "geometry": {"coordinates":[-70.10209,-16.85002],"type":"Point"}
+}

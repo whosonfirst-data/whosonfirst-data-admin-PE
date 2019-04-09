@@ -1,0 +1,63 @@
+{
+  "id": 1209401705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44054,-11.75563,-75.44054,-11.75563",
+    "geom:latitude":-11.75563,
+    "geom:longitude":-75.44054,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120412.0",
+    "gn:asciiname":"Chupacucho",
+    "gn:country_code":"PE",
+    "gn:dem":3436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674755,
+    "gn:latitude":-11.75563,
+    "gn:longitude":-75.44054,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chupacucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674755
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c94b4080cb95f5a8092b9fa72fdbfed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209401705
+        }
+    ],
+    "wof:id":1209401705,
+    "wof:lastmodified":1536288125,
+    "wof:name":"Chupacucho",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44054,
+    -11.75563,
+    -75.44054,
+    -11.75563
+],
+  "geometry": {"coordinates":[-75.44054,-11.75563],"type":"Point"}
+}

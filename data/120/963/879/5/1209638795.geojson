@@ -1,0 +1,63 @@
+{
+  "id": 1209638795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21873,-15.20818,-71.21873,-15.20818",
+    "geom:latitude":-15.20818,
+    "geom:longitude":-71.21873,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40517.0",
+    "gn:asciiname":"Marcalla",
+    "gn:country_code":"PE",
+    "gn:dem":4719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935329,
+    "gn:latitude":-15.20818,
+    "gn:longitude":-71.21873,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Marcalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935329
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d2ef6de75fe599782eb8fead0283ddfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209638795
+        }
+    ],
+    "wof:id":1209638795,
+    "wof:lastmodified":1536280951,
+    "wof:name":"Marcalla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21873000000002,
+    -15.20818,
+    -71.21873000000002,
+    -15.20818
+],
+  "geometry": {"coordinates":[-71.21873000000002,-15.20818],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259378457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01351,-13.96312,-72.01351,-13.96312",
+    "geom:latitude":-13.96312,
+    "geom:longitude":-72.01351,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80702.0",
+    "gn:asciiname":"Tahuay",
+    "gn:country_code":"PE",
+    "gn:dem":3513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928086,
+    "gn:latitude":-13.96312,
+    "gn:longitude":-72.01351,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tahuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928086
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1a306979d9663fda600ba88f096b38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1259378457,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259378457,
+    "wof:lastmodified":1537008847,
+    "wof:name":"Tahuay",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01351,
+    -13.96312,
+    -72.01351,
+    -13.96312
+],
+  "geometry": {"coordinates":[-72.01351,-13.96312],"type":"Point"}
+}

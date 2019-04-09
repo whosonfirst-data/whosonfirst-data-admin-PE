@@ -1,0 +1,69 @@
+{
+  "id": 1243146505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.05361,-4.90278,-81.05361,-4.90278",
+    "geom:latitude":-4.90278,
+    "geom:longitude":-81.05361,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200504.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"PE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693310,
+    "gn:latitude":-4.90278,
+    "gn:longitude":-81.05361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693310
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"800450d5969ed724f1f6f253e97e3796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1243146505,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243146505,
+    "wof:lastmodified":1536740908,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.05360999999998,
+    -4.90278,
+    -81.05360999999998,
+    -4.90278
+],
+  "geometry": {"coordinates":[-81.05360999999998,-4.90278],"type":"Point"}
+}

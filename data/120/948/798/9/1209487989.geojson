@@ -1,0 +1,63 @@
+{
+  "id": 1209487989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88016,-10.58,-76.88016,-10.58",
+    "geom:latitude":-10.58,
+    "geom:longitude":-76.88016,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150303.0",
+    "gn:asciiname":"Auquin",
+    "gn:country_code":"PE",
+    "gn:dem":4616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962651,
+    "gn:latitude":-10.58,
+    "gn:longitude":-76.88016,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Auquin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962651
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9eeb9330cdad8874989889f26be5a5f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209487989
+        }
+    ],
+    "wof:id":1209487989,
+    "wof:lastmodified":1536285576,
+    "wof:name":"Auquin",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88016,
+    -10.58,
+    -76.88016,
+    -10.58
+],
+  "geometry": {"coordinates":[-76.88016,-10.58],"type":"Point"}
+}

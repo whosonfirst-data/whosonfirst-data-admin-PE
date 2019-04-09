@@ -1,0 +1,69 @@
+{
+  "id": 1260290339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08349,-15.37873,-72.08349,-15.37873",
+    "geom:latitude":-15.37873,
+    "geom:longitude":-72.08349,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Jancococha",
+    "gn:country_code":"PE",
+    "gn:dem":4624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937939,
+    "gn:latitude":-15.37873,
+    "gn:longitude":-72.08349,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jancococha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937939
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"51308ece638341682bd83ffa7b47cb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1260290339,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1260290339,
+    "wof:lastmodified":1536702999,
+    "wof:name":"Jancococha",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08349,
+    -15.37873,
+    -72.08349,
+    -15.37873
+],
+  "geometry": {"coordinates":[-72.08349,-15.37873],"type":"Point"}
+}

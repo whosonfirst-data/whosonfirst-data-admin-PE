@@ -1,0 +1,73 @@
+{
+  "id": 1326494239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.17027,-16.60896,-69.17027,-16.60896",
+    "geom:latitude":-16.60896,
+    "geom:longitude":-69.17027,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210407.0",
+    "gn:asciiname":"Mamarire",
+    "gn:country_code":"PE",
+    "gn:dem":3850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935498,
+    "gn:latitude":-16.60896,
+    "gn:longitude":-69.17027,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mamarire",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamanire",
+        "Mamarire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935498
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e3e4b9ff4ccd6085aa2a4b8c7dea4850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1326494239,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1326494239,
+    "wof:lastmodified":1537676759,
+    "wof:name":"Mamarire",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.17027,
+    -16.60896,
+    -69.17027,
+    -16.60896
+],
+  "geometry": {"coordinates":[-69.17027,-16.60896],"type":"Point"}
+}

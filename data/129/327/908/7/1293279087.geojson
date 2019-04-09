@@ -1,0 +1,72 @@
+{
+  "id": 1293279087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27919,-10.92091,-75.27919,-10.92091",
+    "geom:latitude":-10.92091,
+    "geom:longitude":-75.27919,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:asciiname":"Puente Perene",
+    "gn:country_code":"PE",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564127,
+    "gn:latitude":-10.92091,
+    "gn:longitude":-75.27919,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Puente Peren\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puente Peren\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564127
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2d63883fac2e63e249a8ce0c2dc199a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1293279087,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1293279087,
+    "wof:lastmodified":1537676901,
+    "wof:name":"Puente Perene",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27919,
+    -10.92091,
+    -75.27919,
+    -10.92091
+],
+  "geometry": {"coordinates":[-75.27919,-10.92091],"type":"Point"}
+}

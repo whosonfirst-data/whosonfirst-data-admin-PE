@@ -1,0 +1,68 @@
+{
+  "id": 1242667561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.67234,-12.72376,-73.67234,-12.72376",
+    "geom:latitude":-12.72376,
+    "geom:longitude":-73.67234,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Rinconada",
+    "gn:country_code":"PE",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8689224,
+    "gn:latitude":-12.72376,
+    "gn:longitude":-73.67234,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Rinconada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8689224
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"13facf39803d49dccbc775ce416d4119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1242667561,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1242667561,
+    "wof:lastmodified":1536935001,
+    "wof:name":"Rinconada",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.67234,
+    -12.72376,
+    -73.67234,
+    -12.72376
+],
+  "geometry": {"coordinates":[-73.67234000000001,-12.72376],"type":"Point"}
+}

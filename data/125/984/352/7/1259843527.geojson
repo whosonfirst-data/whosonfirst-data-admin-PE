@@ -1,0 +1,74 @@
+{
+  "id": 1259843527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.55,-14.7,-69.55,-14.7",
+    "geom:latitude":-14.7,
+    "geom:longitude":-69.55,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2110.0",
+    "gn:admin3_code":"211002.0",
+    "gn:asciiname":"Ananea",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3947908,
+    "gn:latitude":-14.7,
+    "gn:longitude":-69.55,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ananea",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poto",
+        "Ananea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947908
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8cf953ff5ba7f24f6b9e8fb0e5f201bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693921,
+            "locality_id":1259843527,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259843527,
+    "wof:lastmodified":1537676869,
+    "wof:name":"Ananea",
+    "wof:parent_id":1108693921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.55,
+    -14.7,
+    -69.55,
+    -14.7
+],
+  "geometry": {"coordinates":[-69.55,-14.7],"type":"Point"}
+}

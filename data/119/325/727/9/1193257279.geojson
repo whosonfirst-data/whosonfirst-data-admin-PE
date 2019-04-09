@@ -1,0 +1,69 @@
+{
+  "id": 1193257279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.29747,-7.87583,-79.29747,-7.87583",
+    "geom:latitude":-7.87583,
+    "geom:longitude":-79.29747,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130204.0",
+    "gn:asciiname":"Veracruz",
+    "gn:country_code":"PE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3813174,
+    "gn:latitude":-7.87583,
+    "gn:longitude":-79.29747,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Veracruz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421193361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3813174
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4fc0c376e94ced20d25183ae358fd700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193361,
+            "locality_id":1193257279,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1193257279,
+    "wof:lastmodified":1536384536,
+    "wof:name":"Veracruz",
+    "wof:parent_id":421193361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.29746999999998,
+    -7.87583,
+    -79.29746999999998,
+    -7.87583
+],
+  "geometry": {"coordinates":[-79.29746999999998,-7.87583],"type":"Point"}
+}

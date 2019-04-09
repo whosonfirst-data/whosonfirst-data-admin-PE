@@ -1,0 +1,80 @@
+{
+  "id": 1360257803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71685,-11.68977,-76.71685,-11.68977",
+    "geom:latitude":-11.68977,
+    "geom:longitude":-76.71685,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150402.0",
+    "gn:asciiname":"Pacate",
+    "gn:country_code":"PE",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646386,
+    "gn:latitude":-11.68977,
+    "gn:longitude":-76.71685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pacate",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646386
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f7c228f2baf54299df1a868282fa9f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360257803,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360257803,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1360257803,
+    "wof:lastmodified":1537676914,
+    "wof:name":"Pacate",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71685,
+    -11.68977,
+    -76.71685,
+    -11.68977
+],
+  "geometry": {"coordinates":[-76.71684999999999,-11.68977],"type":"Point"}
+}

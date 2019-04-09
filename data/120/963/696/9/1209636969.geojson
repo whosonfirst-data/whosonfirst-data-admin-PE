@@ -1,0 +1,68 @@
+{
+  "id": 1209636969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.24662,-7.60903,-78.24662,-7.60903",
+    "geom:latitude":-7.60903,
+    "geom:longitude":-78.24662,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"602.0",
+    "gn:admin3_code":"60202.0",
+    "gn:asciiname":"Algamarca",
+    "gn:country_code":"PE",
+    "gn:dem":2975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699797,
+    "gn:latitude":-7.60903,
+    "gn:longitude":-78.24662,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Algamarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algamarca Hacienda",
+        "Algamarce Hacienda",
+        "Algamarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699797
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"34d8406b12e27e1556e361024ce15fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209636969
+        }
+    ],
+    "wof:id":1209636969,
+    "wof:lastmodified":1537676647,
+    "wof:name":"Algamarca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.24662,
+    -7.60903,
+    -78.24662,
+    -7.60903
+],
+  "geometry": {"coordinates":[-78.24661999999999,-7.60903],"type":"Point"}
+}

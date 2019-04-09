@@ -1,0 +1,68 @@
+{
+  "id": 1293573995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11472,-13.86417,-72.11472,-13.86417",
+    "geom:latitude":-13.86417,
+    "geom:longitude":-72.11472,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Chunchuna",
+    "gn:country_code":"PE",
+    "gn:dem":3295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392588,
+    "gn:latitude":-13.86417,
+    "gn:longitude":-72.11472,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Chunchuna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392588
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bcb81504ac35a6790a2f4165aeb0304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693907,
+            "locality_id":1293573995,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1293573995,
+    "wof:lastmodified":1536662427,
+    "wof:name":"Chunchuna",
+    "wof:parent_id":1108693907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11471999999998,
+    -13.86417,
+    -72.11471999999998,
+    -13.86417
+],
+  "geometry": {"coordinates":[-72.11471999999998,-13.86417],"type":"Point"}
+}

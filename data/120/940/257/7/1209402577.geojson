@@ -1,0 +1,66 @@
+{
+  "id": 1209402577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16426,-13.50652,-76.16426,-13.50652",
+    "geom:latitude":-13.50652,
+    "geom:longitude":-76.16426,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110204.0",
+    "gn:asciiname":"Hacienda Santa Luisa",
+    "gn:country_code":"PE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087875,
+    "gn:latitude":-13.50652,
+    "gn:longitude":-76.16426,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Santa Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Santa Luisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087875
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"25c5af548c0f4594efbdb071a9f44385",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209402577
+        }
+    ],
+    "wof:id":1209402577,
+    "wof:lastmodified":1537676969,
+    "wof:name":"Hacienda Santa Luisa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16426,
+    -13.50652,
+    -76.16426,
+    -13.50652
+],
+  "geometry": {"coordinates":[-76.16426,-13.50652],"type":"Point"}
+}

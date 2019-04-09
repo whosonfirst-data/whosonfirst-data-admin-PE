@@ -1,0 +1,77 @@
+{
+  "id": 1310388035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56667,-11.08333,-77.56667,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":-77.56667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150810.0",
+    "gn:asciiname":"Jopto",
+    "gn:country_code":"PE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937558,
+    "gn:latitude":-11.08333,
+    "gn:longitude":-77.56667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jopto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937558
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"226e3c212f1ff7909caf49342b4b4707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1310388035,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1310388035,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310388035,
+    "wof:lastmodified":1537083265,
+    "wof:name":"Jopto",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56667,
+    -11.08333,
+    -77.56667,
+    -11.08333
+],
+  "geometry": {"coordinates":[-77.56667,-11.08333],"type":"Point"}
+}

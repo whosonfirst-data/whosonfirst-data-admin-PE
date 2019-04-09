@@ -1,0 +1,69 @@
+{
+  "id": 1226137631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.507,-7.13341,-78.507,-7.13341",
+    "geom:latitude":-7.13341,
+    "geom:longitude":-78.507,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60108.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"PE",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692255,
+    "gn:latitude":-7.13341,
+    "gn:longitude":-78.507,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Santa Barbara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421172423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692255
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b9741b80b29bd0b4972af73df349f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172423,
+            "locality_id":1226137631,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1226137631,
+    "wof:lastmodified":1537086229,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":421172423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.507,
+    -7.13341,
+    -78.507,
+    -7.13341
+],
+  "geometry": {"coordinates":[-78.50700000000001,-7.13341],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209919853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.99367,-15.36417,-72.99367,-15.36417",
+    "geom:latitude":-15.36417,
+    "geom:longitude":-72.99367,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40811.0",
+    "gn:asciiname":"Quimsacruz",
+    "gn:country_code":"PE",
+    "gn:dem":4441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930787,
+    "gn:latitude":-15.36417,
+    "gn:longitude":-72.99367,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quimsacruz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930787
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"150226ca90b52a149dd0855c7b80f658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1209919853,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1209919853,
+    "wof:lastmodified":1536369645,
+    "wof:name":"Quimsacruz",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99367,
+    -15.36417,
+    -72.99367,
+    -15.36417
+],
+  "geometry": {"coordinates":[-72.99366999999999,-15.36417],"type":"Point"}
+}

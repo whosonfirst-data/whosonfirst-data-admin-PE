@@ -1,0 +1,89 @@
+{
+  "id": 421192213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68333,-8.83333,-74.68333,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":-74.68333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:hbs_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:unk_x_variant":[
+        "Aguas Caliente"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3699835,
+    "qs:gn_pop":0,
+    "qs:name":"Aguas Calientes",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Hu\u00e1nuco",
+    "qs:photos":3344,
+    "qs:photos_1k":678,
+    "qs:photos_9k":15,
+    "qs:photos_9r":11,
+    "qs:photos_all":3344,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165419,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":396179,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":218,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699835,
+        "gp:id":396179,
+        "qs:id":1165419
+    },
+    "wof:country":"PE",
+    "wof:created":1459009729,
+    "wof:geomhash":"ce5d9698eddd46c97244047705d79865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194457,
+            "locality_id":421192213,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":421192213,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Aguas Calientes",
+    "wof:parent_id":421194457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68333,
+    -8.83333,
+    -74.68333,
+    -8.83333
+],
+  "geometry": {"coordinates":[-74.68333,-8.83333],"type":"Point"}
+}

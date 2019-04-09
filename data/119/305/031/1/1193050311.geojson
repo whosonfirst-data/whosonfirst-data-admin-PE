@@ -1,0 +1,73 @@
+{
+  "id": 1193050311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.94727,-15.45856,-72.94727,-15.45856",
+    "geom:latitude":-15.45856,
+    "geom:longitude":-72.94727,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40604.0",
+    "gn:asciiname":"Yanque",
+    "gn:country_code":"PE",
+    "gn:dem":3151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936246,
+    "gn:latitude":-15.45856,
+    "gn:longitude":-72.94727,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yanque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llanque",
+        "Yanque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936246
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8d6efee53dacf2cec841618186456345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1193050311,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1193050311,
+    "wof:lastmodified":1537676765,
+    "wof:name":"Yanque",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94726999999997,
+    -15.45856,
+    -72.94726999999997,
+    -15.45856
+],
+  "geometry": {"coordinates":[-72.94726999999997,-15.45856],"type":"Point"}
+}

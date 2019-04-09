@@ -1,0 +1,69 @@
+{
+  "id": 1327408181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61759,-5.54704,-80.61759,-5.54704",
+    "geom:latitude":-5.54704,
+    "geom:longitude":-80.61759,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:admin3_code":"200804.0",
+    "gn:asciiname":"Chutuque",
+    "gn:country_code":"PE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698046,
+    "gn:latitude":-5.54704,
+    "gn:longitude":-80.61759,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chutuque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421170341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698046
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c40ca9e6082cfc729fac15156580647c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170341,
+            "locality_id":1327408181,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1327408181,
+    "wof:lastmodified":1536716132,
+    "wof:name":"Chutuque",
+    "wof:parent_id":421170341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61759,
+    -5.54704,
+    -80.61759,
+    -5.54704
+],
+  "geometry": {"coordinates":[-80.61759000000001,-5.54704],"type":"Point"}
+}

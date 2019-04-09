@@ -1,0 +1,69 @@
+{
+  "id": 1210018767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31323,-10.18159,-77.31323,-10.18159",
+    "geom:latitude":-10.18159,
+    "geom:longitude":-77.31323,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20505.0",
+    "gn:asciiname":"Cuncapata",
+    "gn:country_code":"PE",
+    "gn:dem":3909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664665,
+    "gn:latitude":-10.18159,
+    "gn:longitude":-77.31323,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cuncapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664665
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7b1ab493ebe1e68c293188fe0252b399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1210018767,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1210018767,
+    "wof:lastmodified":1536393849,
+    "wof:name":"Cuncapata",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31323,
+    -10.18159,
+    -77.31323,
+    -10.18159
+],
+  "geometry": {"coordinates":[-77.31323,-10.18159],"type":"Point"}
+}

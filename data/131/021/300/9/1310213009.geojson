@@ -1,0 +1,72 @@
+{
+  "id": 1310213009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.08443,-10.0545,-78.08443,-10.0545",
+    "geom:latitude":-10.0545,
+    "geom:longitude":-78.08443,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"21101.0",
+    "gn:asciiname":"Hacienda Mandinga",
+    "gn:country_code":"PE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935449,
+    "gn:latitude":-10.0545,
+    "gn:longitude":-78.08443,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Mandinga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421184497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935449
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d890d532d5e35eedd039ae5347f72f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184497,
+            "locality_id":1310213009,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1310213009,
+    "wof:lastmodified":1537676759,
+    "wof:name":"Hacienda Mandinga",
+    "wof:parent_id":421184497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.08443,
+    -10.0545,
+    -78.08443,
+    -10.0545
+],
+  "geometry": {"coordinates":[-78.08443,-10.0545],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259506885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1113,-16.39715,-73.1113,-16.39715",
+    "geom:latitude":-16.39715,
+    "geom:longitude":-73.1113,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40206.0",
+    "gn:asciiname":"Huaya",
+    "gn:country_code":"PE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939019,
+    "gn:latitude":-16.39715,
+    "gn:longitude":-73.1113,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Huaya",
+        "Huaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421175159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939019
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f0d93730b6cbd3d1ee9e0b233f50dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175159,
+            "locality_id":1259506885,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259506885,
+    "wof:lastmodified":1537676790,
+    "wof:name":"Huaya",
+    "wof:parent_id":421175159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1113,
+    -16.39715,
+    -73.1113,
+    -16.39715
+],
+  "geometry": {"coordinates":[-73.1113,-16.39715],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209511835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96717,-12.89651,-73.96717,-12.89651",
+    "geom:latitude":-12.89651,
+    "geom:longitude":-73.96717,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Husnay",
+    "gn:country_code":"PE",
+    "gn:dem":3641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8689303,
+    "gn:latitude":-12.89651,
+    "gn:longitude":-73.96717,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Husnay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8689303
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ecb45bab731975ba589a1497404beed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209511835
+        }
+    ],
+    "wof:id":1209511835,
+    "wof:lastmodified":1536284857,
+    "wof:name":"Husnay",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96717,
+    -12.89651,
+    -73.96717,
+    -12.89651
+],
+  "geometry": {"coordinates":[-73.96717,-12.89651],"type":"Point"}
+}

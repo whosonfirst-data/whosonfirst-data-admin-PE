@@ -1,0 +1,74 @@
+{
+  "id": 1343275559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7374,-6.07738,-77.7374,-6.07738",
+    "geom:latitude":-6.07738,
+    "geom:longitude":-77.7374,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"Chiliquini",
+    "gn:country_code":"PE",
+    "gn:dem":2665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698317,
+    "gn:latitude":-6.07738,
+    "gn:longitude":-77.7374,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chiliquini",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiquilin",
+        "Chiliquin",
+        "Chiliquini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698317
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"389ccc111d8827a5cb909df46c110b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1343275559,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1343275559,
+    "wof:lastmodified":1537676628,
+    "wof:name":"Chiliquini",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7374,
+    -6.07738,
+    -77.7374,
+    -6.07738
+],
+  "geometry": {"coordinates":[-77.73739999999999,-6.07738],"type":"Point"}
+}

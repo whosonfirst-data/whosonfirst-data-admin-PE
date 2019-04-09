@@ -1,0 +1,69 @@
+{
+  "id": 1293005091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10448,-12.89807,-74.10448,-12.89807",
+    "geom:latitude":-12.89807,
+    "geom:longitude":-74.10448,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50508.0",
+    "gn:asciiname":"Huarmihuanuscha",
+    "gn:country_code":"PE",
+    "gn:dem":4228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8649964,
+    "gn:latitude":-12.89807,
+    "gn:longitude":-74.10448,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huarmihua\u00f1uscha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8649964
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da86e7c3fe2890efe98464695d8ec172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1293005091,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293005091,
+    "wof:lastmodified":1536984602,
+    "wof:name":"Huarmihuanuscha",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10448000000002,
+    -12.89807,
+    -74.10448000000002,
+    -12.89807
+],
+  "geometry": {"coordinates":[-74.10448000000002,-12.89807],"type":"Point"}
+}

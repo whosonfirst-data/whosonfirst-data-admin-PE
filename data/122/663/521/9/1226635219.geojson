@@ -1,0 +1,69 @@
+{
+  "id": 1226635219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20509,-12.77667,-75.20509,-12.77667",
+    "geom:latitude":-12.77667,
+    "geom:longitude":-75.20509,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90113.0",
+    "gn:asciiname":"Conchapallana",
+    "gn:country_code":"PE",
+    "gn:dem":4555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942536,
+    "gn:latitude":-12.77667,
+    "gn:longitude":-75.20509,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Conchapallana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942536
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a5e81b352133e45ec885bbb0d8a6b4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1226635219,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1226635219,
+    "wof:lastmodified":1536873660,
+    "wof:name":"Conchapallana",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20509,
+    -12.77667,
+    -75.20509,
+    -12.77667
+],
+  "geometry": {"coordinates":[-75.20509,-12.77667],"type":"Point"}
+}

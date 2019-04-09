@@ -1,0 +1,73 @@
+{
+  "id": 1243438949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07193,-13.94404,-71.07193,-13.94404",
+    "geom:latitude":-13.94404,
+    "geom:longitude":-71.07193,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80605.0",
+    "gn:asciiname":"Cayena",
+    "gn:country_code":"PE",
+    "gn:dem":4793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945139,
+    "gn:latitude":-13.94404,
+    "gn:longitude":-71.07193,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Cayena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayena Hacienda",
+        "Cayena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945139
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"56df0b695498cf80db98fdb00a341042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1243438949,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1243438949,
+    "wof:lastmodified":1537676846,
+    "wof:name":"Cayena",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07193000000002,
+    -13.94404,
+    -71.07193000000002,
+    -13.94404
+],
+  "geometry": {"coordinates":[-71.07193000000002,-13.94404],"type":"Point"}
+}

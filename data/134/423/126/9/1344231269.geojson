@@ -1,0 +1,69 @@
+{
+  "id": 1344231269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76667,-5.45,-80.76667,-5.45",
+    "geom:latitude":-5.45,
+    "geom:longitude":-80.76667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:admin3_code":"200806.0",
+    "gn:asciiname":"Dos Pueblos",
+    "gn:country_code":"PE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3697458,
+    "gn:latitude":-5.45,
+    "gn:longitude":-80.76667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Dos Pueblos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421170341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697458
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fc41c97d30782f2c0c9a9b295abdb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170341,
+            "locality_id":1344231269,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1344231269,
+    "wof:lastmodified":1536627435,
+    "wof:name":"Dos Pueblos",
+    "wof:parent_id":421170341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76666999999998,
+    -5.45,
+    -80.76666999999998,
+    -5.45
+],
+  "geometry": {"coordinates":[-80.76666999999998,-5.45],"type":"Point"}
+}

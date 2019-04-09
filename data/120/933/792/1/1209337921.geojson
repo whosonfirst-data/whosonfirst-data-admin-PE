@@ -1,0 +1,63 @@
+{
+  "id": 1209337921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98167,-16.56361,-71.98167,-16.56361",
+    "geom:latitude":-16.56361,
+    "geom:longitude":-71.98167,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40125.0",
+    "gn:asciiname":"Santa Rosa Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949134,
+    "gn:latitude":-16.56361,
+    "gn:longitude":-71.98167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santa Rosa Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949134
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0b0d869b54006ef817424f33e929f325",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209337921
+        }
+    ],
+    "wof:id":1209337921,
+    "wof:lastmodified":1536290157,
+    "wof:name":"Santa Rosa Hacienda",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98167,
+    -16.56361,
+    -71.98167,
+    -16.56361
+],
+  "geometry": {"coordinates":[-71.98166999999999,-16.56361],"type":"Point"}
+}

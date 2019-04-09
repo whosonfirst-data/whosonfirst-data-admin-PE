@@ -1,0 +1,77 @@
+{
+  "id": 1327303825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.705,-11.00694,-76.705,-11.00694",
+    "geom:latitude":-11.00694,
+    "geom:longitude":-76.705,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150809.0",
+    "gn:asciiname":"Antucrun",
+    "gn:country_code":"PE",
+    "gn:dem":4343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3967027,
+    "gn:latitude":-11.00694,
+    "gn:longitude":-76.705,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Antucrun",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967027
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d0e6b309ae5ad154f11bccdf4df8f0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1327303825,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1327303825,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327303825,
+    "wof:lastmodified":1536865261,
+    "wof:name":"Antucrun",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.705,
+    -11.00694,
+    -76.705,
+    -11.00694
+],
+  "geometry": {"coordinates":[-76.705,-11.00694],"type":"Point"}
+}

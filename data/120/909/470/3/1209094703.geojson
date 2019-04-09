@@ -1,0 +1,63 @@
+{
+  "id": 1209094703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69905,-9.83281,-76.69905,-9.83281",
+    "geom:latitude":-9.83281,
+    "geom:longitude":-76.69905,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101106.0",
+    "gn:asciiname":"Ancaratanan",
+    "gn:country_code":"PE",
+    "gn:dem":3925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666087,
+    "gn:latitude":-9.83281,
+    "gn:longitude":-76.69905,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ancaratanan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666087
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d1a42392674bd43904b26d641635d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209094703
+        }
+    ],
+    "wof:id":1209094703,
+    "wof:lastmodified":1536297925,
+    "wof:name":"Ancaratanan",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69905,
+    -9.83281,
+    -76.69905,
+    -9.83281
+],
+  "geometry": {"coordinates":[-76.69905,-9.83281],"type":"Point"}
+}

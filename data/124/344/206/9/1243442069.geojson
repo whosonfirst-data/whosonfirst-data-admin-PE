@@ -1,0 +1,69 @@
+{
+  "id": 1243442069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.11557,-13.43552,-76.11557,-13.43552",
+    "geom:latitude":-13.43552,
+    "geom:longitude":-76.11557,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:asciiname":"Condorillo Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6667491,
+    "gn:latitude":-13.43552,
+    "gn:longitude":-76.11557,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Condorillo Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6667491
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79391fabd3c3dd745c451738cf9d80db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1243442069,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1243442069,
+    "wof:lastmodified":1536811309,
+    "wof:name":"Condorillo Bajo",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.11556999999998,
+    -13.43552,
+    -76.11556999999998,
+    -13.43552
+],
+  "geometry": {"coordinates":[-76.11556999999998,-13.43552],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259772653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.79662,-13.70407,-74.79662,-13.70407",
+    "geom:latitude":-13.70407,
+    "geom:longitude":-74.79662,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Pulperayoc",
+    "gn:country_code":"PE",
+    "gn:dem":4181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931396,
+    "gn:latitude":-13.70407,
+    "gn:longitude":-74.79662,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pulperayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931396
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"87f97dd1c4fbff7245943ccaec302664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1259772653,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1259772653,
+    "wof:lastmodified":1536939496,
+    "wof:name":"Pulperayoc",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.79661999999998,
+    -13.70407,
+    -74.79661999999998,
+    -13.70407
+],
+  "geometry": {"coordinates":[-74.79661999999998,-13.70407],"type":"Point"}
+}

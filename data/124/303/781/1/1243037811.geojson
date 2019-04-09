@@ -1,0 +1,74 @@
+{
+  "id": 1243037811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.81667,-12.11667,-76.81667,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":-76.81667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150109.0",
+    "gn:asciiname":"Casa Vieja",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945298,
+    "gn:latitude":-12.11667,
+    "gn:longitude":-76.81667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Casa Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambo Viejo",
+        "Casa Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945298
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"991ddec0abc65f86c87f48a6db148e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1243037811,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1243037811,
+    "wof:lastmodified":1537676847,
+    "wof:name":"Casa Vieja",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.81667,
+    -12.11667,
+    -76.81667,
+    -12.11667
+],
+  "geometry": {"coordinates":[-76.81667,-12.11667],"type":"Point"}
+}

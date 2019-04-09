@@ -1,0 +1,77 @@
+{
+  "id": 1193251065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70806,-10.65583,-76.70806,-10.65583",
+    "geom:latitude":-10.65583,
+    "geom:longitude":-76.70806,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Cuta Mullay",
+    "gn:country_code":"PE",
+    "gn:dem":4097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962670,
+    "gn:latitude":-10.65583,
+    "gn:longitude":-76.70806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cuta Mullay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962670
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a60fdf51297210a1df0c508d596a4edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1193251065,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1193251065,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1193251065,
+    "wof:lastmodified":1536367843,
+    "wof:name":"Cuta Mullay",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70806,
+    -10.65583,
+    -76.70806,
+    -10.65583
+],
+  "geometry": {"coordinates":[-76.70806,-10.65583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293268301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.52635,-11.15596,-69.52635,-11.15596",
+    "geom:latitude":-11.15596,
+    "geom:longitude":-69.52635,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Minas",
+    "gn:country_code":"PE",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512965,
+    "gn:latitude":-11.15596,
+    "gn:longitude":-69.52635,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Minas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Minas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512965
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"20ff676171fe9df05bae1d97669e1501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1293268301,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1293268301,
+    "wof:lastmodified":1537676984,
+    "wof:name":"Minas",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.52635,
+    -11.15596,
+    -69.52635,
+    -11.15596
+],
+  "geometry": {"coordinates":[-69.52634999999999,-11.15596],"type":"Point"}
+}

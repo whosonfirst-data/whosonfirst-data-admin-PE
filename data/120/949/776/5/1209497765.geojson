@@ -1,0 +1,63 @@
+{
+  "id": 1209497765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97406,-10.86903,-76.97406,-10.86903",
+    "geom:latitude":-10.86903,
+    "geom:longitude":-76.97406,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150903.0",
+    "gn:asciiname":"Lancha",
+    "gn:country_code":"PE",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936970,
+    "gn:latitude":-10.86903,
+    "gn:longitude":-76.97406,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936970
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6e8ff853216031d2372acea5c093d3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209497765
+        }
+    ],
+    "wof:id":1209497765,
+    "wof:lastmodified":1536285281,
+    "wof:name":"Lancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97406,
+    -10.86903,
+    -76.97406,
+    -10.86903
+],
+  "geometry": {"coordinates":[-76.97405999999999,-10.86903],"type":"Point"}
+}

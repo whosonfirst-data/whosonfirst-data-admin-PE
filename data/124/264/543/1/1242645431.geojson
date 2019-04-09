@@ -1,0 +1,69 @@
+{
+  "id": 1242645431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65313,-3.97377,-80.65313,-3.97377",
+    "geom:latitude":-3.97377,
+    "geom:longitude":-80.65313,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"El Palmo",
+    "gn:country_code":"PE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697264,
+    "gn:latitude":-3.97377,
+    "gn:longitude":-80.65313,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"El Palmo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697264
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4a2f2f62c496e8b09a81fb4ca3ffae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1242645431,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1242645431,
+    "wof:lastmodified":1536966009,
+    "wof:name":"El Palmo",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65313,
+    -3.97377,
+    -80.65313,
+    -3.97377
+],
+  "geometry": {"coordinates":[-80.65313,-3.97377],"type":"Point"}
+}

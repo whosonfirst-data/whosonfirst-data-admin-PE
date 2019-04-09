@@ -1,0 +1,63 @@
+{
+  "id": 1209104589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.07642,-12.74769,-74.07642,-12.74769",
+    "geom:latitude":-12.74769,
+    "geom:longitude":-74.07642,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Uchuran",
+    "gn:country_code":"PE",
+    "gn:dem":3235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8648046,
+    "gn:latitude":-12.74769,
+    "gn:longitude":-74.07642,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Uchuran",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8648046
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"006f9afb21ec4f23e1c5a86e37a72dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209104589
+        }
+    ],
+    "wof:id":1209104589,
+    "wof:lastmodified":1536297618,
+    "wof:name":"Uchuran",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.07642,
+    -12.74769,
+    -74.07642,
+    -12.74769
+],
+  "geometry": {"coordinates":[-74.07642,-12.74769],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209671401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05822,-17.11844,-70.05822,-17.11844",
+    "geom:latitude":-17.11844,
+    "geom:longitude":-70.05822,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230406.0",
+    "gn:asciiname":"Chalchaque",
+    "gn:country_code":"PE",
+    "gn:dem":4469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944554,
+    "gn:latitude":-17.11844,
+    "gn:longitude":-70.05822,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chalchaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944554
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"087e8d81164fb52c1ea0af73b84027cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209671401
+        }
+    ],
+    "wof:id":1209671401,
+    "wof:lastmodified":1536279909,
+    "wof:name":"Chalchaque",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05821999999999,
+    -17.11844,
+    -70.05821999999999,
+    -17.11844
+],
+  "geometry": {"coordinates":[-70.05821999999999,-17.11844],"type":"Point"}
+}

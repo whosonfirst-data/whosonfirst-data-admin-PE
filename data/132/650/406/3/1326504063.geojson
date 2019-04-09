@@ -1,0 +1,69 @@
+{
+  "id": 1326504063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61361,-15.08556,-70.61361,-15.08556",
+    "geom:latitude":-15.08556,
+    "geom:longitude":-70.61361,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2108.0",
+    "gn:admin3_code":"210801.0",
+    "gn:asciiname":"Hacienda Veluyo",
+    "gn:country_code":"PE",
+    "gn:dem":4023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940288,
+    "gn:latitude":-15.08556,
+    "gn:longitude":-70.61361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hacienda Veluyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940288
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bd442a9b984538e6dc3cb09e68d6cb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187861,
+            "locality_id":1326504063,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1326504063,
+    "wof:lastmodified":1537023652,
+    "wof:name":"Hacienda Veluyo",
+    "wof:parent_id":421187861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61361,
+    -15.08556,
+    -70.61361,
+    -15.08556
+],
+  "geometry": {"coordinates":[-70.61360999999999,-15.08556],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209579575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32771,-16.28308,-69.32771,-16.28308",
+    "geom:latitude":-16.28308,
+    "geom:longitude":-69.32771,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210406.0",
+    "gn:asciiname":"Huacani",
+    "gn:country_code":"PE",
+    "gn:dem":3873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940065,
+    "gn:latitude":-16.28308,
+    "gn:longitude":-69.32771,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huacani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940065
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"abf09f7f8901ff10f6a38eb3ab848237",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209579575
+        }
+    ],
+    "wof:id":1209579575,
+    "wof:lastmodified":1536282831,
+    "wof:name":"Huacani",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32771,
+    -16.283079999999998,
+    -69.32771,
+    -16.283079999999998
+],
+  "geometry": {"coordinates":[-69.32771,-16.28308],"type":"Point"}
+}

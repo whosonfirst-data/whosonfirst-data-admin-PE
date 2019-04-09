@@ -1,0 +1,72 @@
+{
+  "id": 1343817095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.9548,-4.52558,-80.9548,-4.52558",
+    "geom:latitude":-4.52558,
+    "geom:longitude":-80.9548,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Huaynaso",
+    "gn:country_code":"PE",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696289,
+    "gn:latitude":-4.52558,
+    "gn:longitude":-80.9548,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Huaynaso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaynaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696289
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"15d6143745f6a2334d5aac09627bf7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1343817095,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343817095,
+    "wof:lastmodified":1537676602,
+    "wof:name":"Huaynaso",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9548,
+    -4.52558,
+    -80.9548,
+    -4.52558
+],
+  "geometry": {"coordinates":[-80.95480000000001,-4.52558],"type":"Point"}
+}

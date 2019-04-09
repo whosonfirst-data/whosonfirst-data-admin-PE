@@ -1,0 +1,69 @@
+{
+  "id": 1343641025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25065,-11.97147,-75.25065,-11.97147",
+    "geom:latitude":-11.97147,
+    "geom:longitude":-75.25065,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120117.0",
+    "gn:asciiname":"Hualhuas",
+    "gn:country_code":"PE",
+    "gn:dem":3264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6674616,
+    "gn:latitude":-11.97147,
+    "gn:longitude":-75.25065,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Hualhuas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674616
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c97618dbf0f13abf16d4a5e752702926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1343641025,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343641025,
+    "wof:lastmodified":1536982421,
+    "wof:name":"Hualhuas",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25065,
+    -11.97147,
+    -75.25065,
+    -11.97147
+],
+  "geometry": {"coordinates":[-75.25064999999999,-11.97147],"type":"Point"}
+}

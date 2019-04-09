@@ -1,0 +1,69 @@
+{
+  "id": 1360050409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38822,-10.49877,-76.38822,-10.49877",
+    "geom:latitude":-10.49877,
+    "geom:longitude":-76.38822,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190206.0",
+    "gn:asciiname":"Pacobamba",
+    "gn:country_code":"PE",
+    "gn:dem":4068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963702,
+    "gn:latitude":-10.49877,
+    "gn:longitude":-76.38822,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pacobamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963702
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2837fb7629f56d85a2a64a09302a37bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1360050409,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1360050409,
+    "wof:lastmodified":1536995048,
+    "wof:name":"Pacobamba",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38821999999998,
+    -10.49877,
+    -76.38821999999998,
+    -10.49877
+],
+  "geometry": {"coordinates":[-76.38821999999998,-10.49877],"type":"Point"}
+}

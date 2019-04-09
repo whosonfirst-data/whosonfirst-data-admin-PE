@@ -1,0 +1,77 @@
+{
+  "id": 1260150393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2975,-11.96694,-76.2975,-11.96694",
+    "geom:latitude":-11.96694,
+    "geom:longitude":-76.2975,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150718.0",
+    "gn:asciiname":"Chacrapata",
+    "gn:country_code":"PE",
+    "gn:dem":4028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966763,
+    "gn:latitude":-11.96694,
+    "gn:longitude":-76.2975,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacrapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966763
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3e7c7c567cc94bba3546cf3166e2131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1260150393,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1260150393,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1260150393,
+    "wof:lastmodified":1536893061,
+    "wof:name":"Chacrapata",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2975,
+    -11.96694,
+    -76.2975,
+    -11.96694
+],
+  "geometry": {"coordinates":[-76.2975,-11.96694],"type":"Point"}
+}

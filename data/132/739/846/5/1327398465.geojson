@@ -1,0 +1,73 @@
+{
+  "id": 1327398465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7076,-5.51793,-79.7076,-5.51793",
+    "geom:latitude":-5.51793,
+    "geom:longitude":-79.7076,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Hualcas",
+    "gn:country_code":"PE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696541,
+    "gn:latitude":-5.51793,
+    "gn:longitude":-79.7076,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hualcas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualcas Hacienda",
+        "Hualcas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696541
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e69a9b805c4738ac292510ddaf2a2720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1327398465,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1327398465,
+    "wof:lastmodified":1537676606,
+    "wof:name":"Hualcas",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7076,
+    -5.51793,
+    -79.7076,
+    -5.51793
+],
+  "geometry": {"coordinates":[-79.7076,-5.51793],"type":"Point"}
+}

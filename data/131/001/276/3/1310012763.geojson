@@ -1,0 +1,69 @@
+{
+  "id": 1310012763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58542,-13.84557,-73.58542,-13.84557",
+    "geom:latitude":-13.84557,
+    "geom:longitude":-73.58542,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30203.0",
+    "gn:asciiname":"Esquina",
+    "gn:country_code":"PE",
+    "gn:dem":4102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6375012,
+    "gn:latitude":-13.84557,
+    "gn:longitude":-73.58542,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Esquina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6375012
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3c19406c4875a8dddcf3b8e707a920da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1310012763,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1310012763,
+    "wof:lastmodified":1536631244,
+    "wof:name":"Esquina",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58542,
+    -13.84557,
+    -73.58542,
+    -13.84557
+],
+  "geometry": {"coordinates":[-73.58542,-13.84557],"type":"Point"}
+}

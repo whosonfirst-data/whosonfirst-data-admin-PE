@@ -1,0 +1,63 @@
+{
+  "id": 1209507017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28608,-6.97474,-78.28608,-6.97474",
+    "geom:latitude":-6.97474,
+    "geom:longitude":-78.28608,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60309.0",
+    "gn:asciiname":"Colpa",
+    "gn:country_code":"PE",
+    "gn:dem":3645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3753273,
+    "gn:latitude":-6.97474,
+    "gn:longitude":-78.28608,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Colpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3753273
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"22c21e21cb56458d0f6d3acea3154773",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209507017
+        }
+    ],
+    "wof:id":1209507017,
+    "wof:lastmodified":1536285002,
+    "wof:name":"Colpa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28608,
+    -6.97474,
+    -78.28608,
+    -6.97474
+],
+  "geometry": {"coordinates":[-78.28608,-6.97474],"type":"Point"}
+}

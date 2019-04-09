@@ -1,0 +1,73 @@
+{
+  "id": 1309864369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.87704,-15.57416,-69.87704,-15.57416",
+    "geom:latitude":-15.57416,
+    "geom:longitude":-69.87704,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210107.0",
+    "gn:asciiname":"Uquisilla",
+    "gn:country_code":"PE",
+    "gn:dem":3862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926487,
+    "gn:latitude":-15.57416,
+    "gn:longitude":-69.87704,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Uquisilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uquisilla Hacienda",
+        "Uquisilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926487
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b4d7a6ecf2429cd0038fa5b5300ce153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1309864369,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309864369,
+    "wof:lastmodified":1537676670,
+    "wof:name":"Uquisilla",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.87704000000001,
+    -15.57416,
+    -69.87704000000001,
+    -15.57416
+],
+  "geometry": {"coordinates":[-69.87704000000001,-15.57416],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276730851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.75028,-17.605,-70.75028,-17.605",
+    "geom:latitude":-17.605,
+    "geom:longitude":-70.75028,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:asciiname":"La Quebrada",
+    "gn:country_code":"PE",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394142,
+    "gn:latitude":-17.605,
+    "gn:longitude":-70.75028,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Quebrada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394142
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"12daab88088d7aa29b541f3e0bf66e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1276730851,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1276730851,
+    "wof:lastmodified":1536743047,
+    "wof:name":"La Quebrada",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.75028,
+    -17.605,
+    -70.75028,
+    -17.605
+],
+  "geometry": {"coordinates":[-70.75028,-17.605],"type":"Point"}
+}

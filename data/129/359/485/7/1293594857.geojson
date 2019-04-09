@@ -1,0 +1,69 @@
+{
+  "id": 1293594857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81927,-15.8482,-72.81927,-15.8482",
+    "geom:latitude":-15.8482,
+    "geom:longitude":-72.81927,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40602.0",
+    "gn:asciiname":"Arahuay",
+    "gn:country_code":"PE",
+    "gn:dem":3247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947396,
+    "gn:latitude":-15.8482,
+    "gn:longitude":-72.81927,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Arahuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947396
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"22d14c9b0fddc5e1cb1836a21ce11d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1293594857,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1293594857,
+    "wof:lastmodified":1536630702,
+    "wof:name":"Arahuay",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81926999999997,
+    -15.8482,
+    -72.81926999999997,
+    -15.8482
+],
+  "geometry": {"coordinates":[-72.81926999999997,-15.8482],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259555205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.17668,-7.35874,-75.17668,-7.35874",
+    "geom:latitude":-7.35874,
+    "geom:longitude":-75.17668,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1606.0",
+    "gn:asciiname":"Nuevo Sunaya",
+    "gn:country_code":"PE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196947,
+    "gn:latitude":-7.35874,
+    "gn:longitude":-75.17668,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Nuevo Sunaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Sunaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421187865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196947
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f531b5d1625b0db13e7aee4bd8633c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187865,
+            "locality_id":1259555205,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1259555205,
+    "wof:lastmodified":1537676971,
+    "wof:name":"Nuevo Sunaya",
+    "wof:parent_id":421187865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.17668,
+    -7.35874,
+    -75.17668,
+    -7.35874
+],
+  "geometry": {"coordinates":[-75.17668,-7.35874],"type":"Point"}
+}

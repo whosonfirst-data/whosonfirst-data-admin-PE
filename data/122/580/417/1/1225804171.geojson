@@ -1,0 +1,72 @@
+{
+  "id": 1225804171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67993,-4.36908,-80.67993,-4.36908",
+    "geom:latitude":-4.36908,
+    "geom:longitude":-80.67993,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"Barranco Blanco",
+    "gn:country_code":"PE",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3814829,
+    "gn:latitude":-4.36908,
+    "gn:longitude":-80.67993,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Barranco Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barranco Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814829
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7ead0ed6453805c2ee6b857161cccc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1225804171,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225804171,
+    "wof:lastmodified":1537676659,
+    "wof:name":"Barranco Blanco",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67993,
+    -4.36908,
+    -80.67993,
+    -4.36908
+],
+  "geometry": {"coordinates":[-80.67993,-4.36908],"type":"Point"}
+}

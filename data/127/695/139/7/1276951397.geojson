@@ -1,0 +1,72 @@
+{
+  "id": 1276951397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80437,-6.85487,-79.80437,-6.85487",
+    "geom:latitude":-6.85487,
+    "geom:longitude":-79.80437,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140113.0",
+    "gn:asciiname":"Ramon Changa",
+    "gn:country_code":"PE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953374,
+    "gn:latitude":-6.85487,
+    "gn:longitude":-79.80437,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ramon Changa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ramon Changa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ebc6488e52f7d96bb37d06580265e071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1276951397,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276951397,
+    "wof:lastmodified":1537676950,
+    "wof:name":"Ramon Changa",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80436999999998,
+    -6.85487,
+    -79.80436999999998,
+    -6.85487
+],
+  "geometry": {"coordinates":[-79.80436999999998,-6.85487],"type":"Point"}
+}

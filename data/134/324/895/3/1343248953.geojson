@@ -1,0 +1,69 @@
+{
+  "id": 1343248953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.70343,-11.14704,-74.70343,-11.14704",
+    "geom:latitude":-11.14704,
+    "geom:longitude":-74.70343,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120607.0",
+    "gn:asciiname":"Sombrero Shinchijaroqui",
+    "gn:country_code":"PE",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303068,
+    "gn:latitude":-11.14704,
+    "gn:longitude":-74.70343,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sombrero Shinchijaroqui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303068
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7848da6db89f92843129ebdbb0099d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1343248953,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343248953,
+    "wof:lastmodified":1537049494,
+    "wof:name":"Sombrero Shinchijaroqui",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.70343000000003,
+    -11.14704,
+    -74.70343000000003,
+    -11.14704
+],
+  "geometry": {"coordinates":[-74.70343000000003,-11.14704],"type":"Point"}
+}

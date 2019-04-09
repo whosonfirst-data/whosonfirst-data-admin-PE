@@ -1,0 +1,63 @@
+{
+  "id": 1209491845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71111,-11.35389,-74.71111,-11.35389",
+    "geom:latitude":-11.35389,
+    "geom:longitude":-74.71111,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120605.0",
+    "gn:asciiname":"Pacasmayo",
+    "gn:country_code":"PE",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302953,
+    "gn:latitude":-11.35389,
+    "gn:longitude":-74.71111,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pacasmayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302953
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8ae17f164d5fdbaf0a3821589bd2b23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209491845
+        }
+    ],
+    "wof:id":1209491845,
+    "wof:lastmodified":1536285461,
+    "wof:name":"Pacasmayo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71110999999998,
+    -11.35389,
+    -74.71110999999998,
+    -11.35389
+],
+  "geometry": {"coordinates":[-74.71110999999998,-11.35389],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277049901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25,-4.4,-80.25,-4.4",
+    "geom:latitude":-4.4,
+    "geom:longitude":-80.25,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Pampa Larga",
+    "gn:country_code":"PE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693991,
+    "gn:latitude":-4.4,
+    "gn:longitude":-80.25,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Pampa Larga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693991
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e2492472c1c31bfa0e5711df523b139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1277049901,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1277049901,
+    "wof:lastmodified":1536812651,
+    "wof:name":"Pampa Larga",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25,
+    -4.4,
+    -80.25,
+    -4.4
+],
+  "geometry": {"coordinates":[-80.25,-4.4],"type":"Point"}
+}

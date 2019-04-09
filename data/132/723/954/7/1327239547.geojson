@@ -1,0 +1,72 @@
+{
+  "id": 1327239547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03764,-9.51423,-78.03764,-9.51423",
+    "geom:latitude":-9.51423,
+    "geom:longitude":-78.03764,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:asciiname":"Hacienda Liza",
+    "gn:country_code":"PE",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076612,
+    "gn:latitude":-9.51423,
+    "gn:longitude":-78.03764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Liza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Liza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076612
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b2ead34d94761269b8018ca740d9736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1327239547,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1327239547,
+    "wof:lastmodified":1537676968,
+    "wof:name":"Hacienda Liza",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03764,
+    -9.51423,
+    -78.03764,
+    -9.51423
+],
+  "geometry": {"coordinates":[-78.03764,-9.51423],"type":"Point"}
+}

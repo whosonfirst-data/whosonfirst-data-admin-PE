@@ -1,0 +1,71 @@
+{
+  "id": 1292973571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12291,-11.96317,-77.12291,-11.96317",
+    "geom:latitude":-11.96317,
+    "geom:longitude":-77.12291,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Cana Brava",
+    "gn:country_code":"PE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891651,
+    "gn:latitude":-11.96317,
+    "gn:longitude":-77.12291,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Ca\u00f1a Brava",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1a Brava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675817,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891651
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"08ffed3fadbe44a3da5d1565ca71e419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":1292973571,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":1292973571,
+    "wof:lastmodified":1537676931,
+    "wof:name":"Cana Brava",
+    "wof:parent_id":421187933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12291,
+    -11.96317,
+    -77.12291,
+    -11.96317
+],
+  "geometry": {"coordinates":[-77.12291,-11.96317],"type":"Point"}
+}

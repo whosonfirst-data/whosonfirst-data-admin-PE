@@ -1,0 +1,116 @@
+{
+  "id": 421176495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85833,-6.51,-79.85833,-6.51",
+    "geom:latitude":-6.51,
+    "geom:longitude":-79.85833,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "T\u00facume"
+    ],
+    "name:deu_x_preferred":[
+        "Pyramiden von T\u00facume"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30af\u30e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10d9\u10e3\u10db\u10d4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043c\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00facume"
+    ],
+    "name:nor_x_preferred":[
+        "T\u00facume"
+    ],
+    "name:que_x_preferred":[
+        "Tukumi chuntukuna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043c\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00facume"
+    ],
+    "name:unk_x_variant":[
+        "Tucumo"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3691161,
+    "qs:gn_pop":7043,
+    "qs:name":"T\u00facume",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lambayeque",
+    "qs:photos":243,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":243,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1046456,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419357,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-6.51583,
+    "wd:longitude":-79.8442,
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691161,
+        "gp:id":419357,
+        "qs:id":1046456,
+        "wd:id":"Q1677131"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009110,
+    "wof:geomhash":"0b7207e58c9580c05af9d8db06c8f11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":421176495,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":421176495,
+    "wof:lastmodified":1527726477,
+    "wof:name":"T\u00facume",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:population":7043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85833,
+    -6.51,
+    -79.85833,
+    -6.51
+],
+  "geometry": {"coordinates":[-79.85833,-6.51],"type":"Point"}
+}

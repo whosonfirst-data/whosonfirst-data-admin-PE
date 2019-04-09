@@ -1,0 +1,69 @@
+{
+  "id": 1343439451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71487,-9.49682,-76.71487,-9.49682",
+    "geom:latitude":-9.49682,
+    "geom:longitude":-76.71487,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100504.0",
+    "gn:asciiname":"Ushno",
+    "gn:country_code":"PE",
+    "gn:dem":4175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675552,
+    "gn:latitude":-9.49682,
+    "gn:longitude":-76.71487,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ushno",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675552
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fc48f36ee816e690d451358d9b389c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1343439451,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343439451,
+    "wof:lastmodified":1536777190,
+    "wof:name":"Ushno",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71486999999998,
+    -9.49682,
+    -76.71486999999998,
+    -9.49682
+],
+  "geometry": {"coordinates":[-76.71486999999998,-9.49682],"type":"Point"}
+}

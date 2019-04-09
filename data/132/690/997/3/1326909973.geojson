@@ -1,0 +1,69 @@
+{
+  "id": 1326909973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.37849,-11.78593,-75.37849,-11.78593",
+    "geom:latitude":-11.78593,
+    "geom:longitude":-75.37849,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120417.0",
+    "gn:asciiname":"Masma Chicche",
+    "gn:country_code":"PE",
+    "gn:dem":3643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6674549,
+    "gn:latitude":-11.78593,
+    "gn:longitude":-75.37849,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Masma Chicche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674549
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d3a3a8c9fb6095ff50b3ff6234b5965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1326909973,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1326909973,
+    "wof:lastmodified":1536937673,
+    "wof:name":"Masma Chicche",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.37849,
+    -11.78593,
+    -75.37849,
+    -11.78593
+],
+  "geometry": {"coordinates":[-75.37849,-11.78593],"type":"Point"}
+}

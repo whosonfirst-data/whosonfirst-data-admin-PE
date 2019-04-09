@@ -1,0 +1,113 @@
+{
+  "id": 421192225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.71972,-9.11167,-77.71972,-9.11167",
+    "geom:latitude":-9.11167,
+    "geom:longitude":-77.71972,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Qarwas"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u723e\u74e6\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Carhuaz"
+    ],
+    "name:eng_x_preferred":[
+        "Carhuas"
+    ],
+    "name:fre_x_preferred":[
+        "Carhuaz"
+    ],
+    "name:ger_x_preferred":[
+        "Carhuaz"
+    ],
+    "name:ita_x_preferred":[
+        "Carhuaz"
+    ],
+    "name:lit_x_preferred":[
+        "Karuasas"
+    ],
+    "name:por_x_preferred":[
+        "Carhuaz"
+    ],
+    "name:que_x_preferred":[
+        "Qarwa"
+    ],
+    "name:spa_x_preferred":[
+        "Carhuas"
+    ],
+    "name:war_x_preferred":[
+        "Carhuaz"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6380170,
+    "qs:gn_pop":0,
+    "qs:name":"Carhu\u00e1s",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ancash",
+    "qs:photos":155,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":155,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165435,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418494,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380170,
+        "gp:id":418494,
+        "qs:id":1165435,
+        "wd:id":"Q1036082"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009729,
+    "wof:geomhash":"19b5e898ca843142d344bce249f630ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":421192225,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":421192225,
+    "wof:lastmodified":1514495100,
+    "wof:name":"Carhu\u00e1s",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.71972,
+    -9.11167,
+    -77.71972,
+    -9.11167
+],
+  "geometry": {"coordinates":[-77.71972,-9.11167],"type":"Point"}
+}

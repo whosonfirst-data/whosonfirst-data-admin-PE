@@ -1,0 +1,69 @@
+{
+  "id": 1310029077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.34406,-15.78433,-71.34406,-15.78433",
+    "geom:latitude":-15.78433,
+    "geom:longitude":-71.34406,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40519.0",
+    "gn:asciiname":"Aucasaya",
+    "gn:country_code":"PE",
+    "gn:dem":4387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3951497,
+    "gn:latitude":-15.78433,
+    "gn:longitude":-71.34406,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Aucasaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951497
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3607c240af786843c8f6d6f8a11ecab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1310029077,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310029077,
+    "wof:lastmodified":1536606439,
+    "wof:name":"Aucasaya",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.34406,
+    -15.78433,
+    -71.34406,
+    -15.78433
+],
+  "geometry": {"coordinates":[-71.34406,-15.78433],"type":"Point"}
+}

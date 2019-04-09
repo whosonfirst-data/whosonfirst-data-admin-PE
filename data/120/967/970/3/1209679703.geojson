@@ -1,0 +1,63 @@
+{
+  "id": 1209679703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4,-13.66667,-69.4,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":-69.4,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211203.0",
+    "gn:asciiname":"Paccbani",
+    "gn:country_code":"PE",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933791,
+    "gn:latitude":-13.66667,
+    "gn:longitude":-69.4,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Paccbani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933791
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"844cec3bdf6adcabc7718026cf0badc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209679703
+        }
+    ],
+    "wof:id":1209679703,
+    "wof:lastmodified":1536279621,
+    "wof:name":"Paccbani",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4,
+    -13.666670000000002,
+    -69.4,
+    -13.666670000000002
+],
+  "geometry": {"coordinates":[-69.40000000000001,-13.66667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209297095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63132,-12.02024,-76.63132,-12.02024",
+    "geom:latitude":-12.02024,
+    "geom:longitude":-76.63132,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150702.0",
+    "gn:asciiname":"Pampa Sisicaya",
+    "gn:country_code":"PE",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928564,
+    "gn:latitude":-12.02024,
+    "gn:longitude":-76.63132,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pampa Sisicaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Sisicaya"
+    ],
+    "name:spa_x_variant":[
+        "Sisicaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928564
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b6cdd1d6dc73b3b4d659fcc392fff9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209297095
+        }
+    ],
+    "wof:id":1209297095,
+    "wof:lastmodified":1537676688,
+    "wof:name":"Pampa Sisicaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63132,
+    -12.02024,
+    -76.63132,
+    -12.02024
+],
+  "geometry": {"coordinates":[-76.63132,-12.02024],"type":"Point"}
+}

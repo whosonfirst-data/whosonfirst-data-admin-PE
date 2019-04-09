@@ -1,0 +1,71 @@
+{
+  "id": 1293565235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25733,-12.46496,-69.25733,-12.46496",
+    "geom:latitude":-12.46496,
+    "geom:longitude":-69.25733,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Bajo Piedras",
+    "gn:country_code":"PE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514981,
+    "gn:latitude":-12.46496,
+    "gn:longitude":-69.25733,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Bajo Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a841e9336d6548feaa2ec92d12387f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693891,
+            "locality_id":1293565235,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1293565235,
+    "wof:lastmodified":1537676988,
+    "wof:name":"Bajo Piedras",
+    "wof:parent_id":1108693891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25733000000001,
+    -12.46496,
+    -69.25733000000001,
+    -12.46496
+],
+  "geometry": {"coordinates":[-69.25733000000001,-12.46496],"type":"Point"}
+}

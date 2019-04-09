@@ -1,0 +1,69 @@
+{
+  "id": 1242944123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0235,-8.10246,-79.0235,-8.10246",
+    "geom:latitude":-8.10246,
+    "geom:longitude":-79.0235,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"Miraflores",
+    "gn:country_code":"PE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778715,
+    "gn:latitude":-8.10246,
+    "gn:longitude":-79.0235,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421170677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778715
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cd99d22a919ace4bf87a3b2f07709943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170677,
+            "locality_id":1242944123,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1242944123,
+    "wof:lastmodified":1537031510,
+    "wof:name":"Miraflores",
+    "wof:parent_id":421170677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0235,
+    -8.10246,
+    -79.0235,
+    -8.10246
+],
+  "geometry": {"coordinates":[-79.0235,-8.10246],"type":"Point"}
+}

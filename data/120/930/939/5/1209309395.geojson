@@ -1,0 +1,63 @@
+{
+  "id": 1209309395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94483,-9.58429,-74.94483,-9.58429",
+    "geom:latitude":-9.58429,
+    "geom:longitude":-74.94483,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100905.0",
+    "gn:asciiname":"Cuto",
+    "gn:country_code":"PE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564313,
+    "gn:latitude":-9.58429,
+    "gn:longitude":-74.94483,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cuto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564313
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05346f8aa5a73ca1f47debf4c6ba5e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209309395
+        }
+    ],
+    "wof:id":1209309395,
+    "wof:lastmodified":1536291081,
+    "wof:name":"Cuto",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94483000000002,
+    -9.58429,
+    -74.94483000000002,
+    -9.58429
+],
+  "geometry": {"coordinates":[-74.94483000000002,-9.58429],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343732723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39525,-6.88153,-79.39525,-6.88153",
+    "geom:latitude":-6.88153,
+    "geom:longitude":-79.39525,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140109.0",
+    "gn:asciiname":"Hacienda Culpon",
+    "gn:country_code":"PE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697621,
+    "gn:latitude":-6.88153,
+    "gn:longitude":-79.39525,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Hacienda Culp\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culp\u00f3n",
+        "Hacienda Culp\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697621
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8b36049ff18be07a069c5584c237a231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1343732723,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343732723,
+    "wof:lastmodified":1537676619,
+    "wof:name":"Hacienda Culpon",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39525,
+    -6.88153,
+    -79.39525,
+    -6.88153
+],
+  "geometry": {"coordinates":[-79.39525,-6.88153],"type":"Point"}
+}

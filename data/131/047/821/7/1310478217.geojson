@@ -1,0 +1,69 @@
+{
+  "id": 1310478217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0571,-11.64813,-75.0571,-11.64813",
+    "geom:latitude":-11.64813,
+    "geom:longitude":-75.0571,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120206.0",
+    "gn:asciiname":"Inglispata",
+    "gn:country_code":"PE",
+    "gn:dem":3661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674846,
+    "gn:latitude":-11.64813,
+    "gn:longitude":-75.0571,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Inglispata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674846
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2cf9e42e3a42d12e80712ba329da3b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694035,
+            "locality_id":1310478217,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1310478217,
+    "wof:lastmodified":1536956342,
+    "wof:name":"Inglispata",
+    "wof:parent_id":1108694035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0571,
+    -11.64813,
+    -75.0571,
+    -11.64813
+],
+  "geometry": {"coordinates":[-75.05710000000001,-11.64813],"type":"Point"}
+}

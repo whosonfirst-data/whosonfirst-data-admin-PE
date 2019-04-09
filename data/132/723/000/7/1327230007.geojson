@@ -1,0 +1,72 @@
+{
+  "id": 1327230007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93446,-15.45771,-73.93446,-15.45771",
+    "geom:latitude":-15.45771,
+    "geom:longitude":-73.93446,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Llancama",
+    "gn:country_code":"PE",
+    "gn:dem":3474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008868,
+    "gn:latitude":-15.45771,
+    "gn:longitude":-73.93446,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llancama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llancama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008868
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0df8e6c5a5be4cc0a8424c08ead5774c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1327230007,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327230007,
+    "wof:lastmodified":1537676960,
+    "wof:name":"Llancama",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93446,
+    -15.45771,
+    -73.93446,
+    -15.45771
+],
+  "geometry": {"coordinates":[-73.93446,-15.45771],"type":"Point"}
+}

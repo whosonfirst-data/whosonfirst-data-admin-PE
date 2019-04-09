@@ -1,0 +1,72 @@
+{
+  "id": 1226620459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71448,-4.4633,-80.71448,-4.4633",
+    "geom:latitude":-4.4633,
+    "geom:longitude":-80.71448,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"La Cancha",
+    "gn:country_code":"PE",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695984,
+    "gn:latitude":-4.4633,
+    "gn:longitude":-80.71448,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Cancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695984
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f5ee95e3aa2b1d56771f068c27ff379d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1226620459,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226620459,
+    "wof:lastmodified":1537676598,
+    "wof:name":"La Cancha",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71448000000002,
+    -4.4633,
+    -80.71448000000002,
+    -4.4633
+],
+  "geometry": {"coordinates":[-80.71448000000002,-4.4633],"type":"Point"}
+}

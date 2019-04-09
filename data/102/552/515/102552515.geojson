@@ -1,0 +1,74 @@
+{
+  "id": 102552515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4663888889,-2.79611111111,-76.4663888889,-2.79611111111",
+    "geom:latitude":-2.796111,
+    "geom:longitude":-76.466389,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u0641\u0631\u0632 \u0627\u0641\u200c\u0627\u06cc\u200c\u067e\u06cc \u0627\u0644\u0641\u0631\u062f\u0648 \u0648\u0644\u0627\u06cc\u062f\u0645\u06cc\u0631 \u0633\u0627\u0631\u0627 \u0628\u0627\u0648\u0631"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Alf. FAP Alfredo Vladimir Sara Bauer"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043b\u0444\u0440\u0437 \u0443\u0444\u200c\u0438\u0439\u200c\u043f\u0438\u0439 \u043e\u043b\u0444\u0440\u0434\u0443 \u0432\u043b\u043e\u0438\u0434\u043c\u0438\u0440 \u0441\u043e\u0440\u043e \u0431\u043e\u0432\u0430\u0440"
+    ],
+    "oa:elevation_ft":"728",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424919,
+        "county_id":26805777,
+        "planet_id":1,
+        "state_id":2346483
+    },
+    "wof:belongsto":[
+        85632521,
+        85675899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515189,
+        "iata:code":"AOP",
+        "icao:code":"SPAS",
+        "oa:id":"6201",
+        "wd:id":"Q4723923"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6df151aa16321ae25f0ebc36eca77e9f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552515,
+            "country_id":85632521,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":102552515,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Andoas Airport",
+    "wof:parent_id":85675899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.466388888889,
+    -2.7961111111111,
+    -76.466388888889,
+    -2.7961111111111
+],
+  "geometry": {"coordinates":[-76.466388888889,-2.7961111111111],"type":"Point"}
+}

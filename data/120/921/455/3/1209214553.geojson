@@ -1,0 +1,63 @@
+{
+  "id": 1209214553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.25997,-16.58236,-71.25997,-16.58236",
+    "geom:latitude":-16.58236,
+    "geom:longitude":-71.25997,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40114.0",
+    "gn:asciiname":"La Apacheta de Talamolle",
+    "gn:country_code":"PE",
+    "gn:dem":3455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937384,
+    "gn:latitude":-16.58236,
+    "gn:longitude":-71.25997,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"La Apacheta de Talamolle",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937384
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2bd0000292636e3cae6fc20e8b738f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209214553
+        }
+    ],
+    "wof:id":1209214553,
+    "wof:lastmodified":1536294177,
+    "wof:name":"La Apacheta de Talamolle",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.25997,
+    -16.58236,
+    -71.25997,
+    -16.58236
+],
+  "geometry": {"coordinates":[-71.25997,-16.58236],"type":"Point"}
+}

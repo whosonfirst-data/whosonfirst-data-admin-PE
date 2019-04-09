@@ -1,0 +1,71 @@
+{
+  "id": 1293747701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.82038,-13.96617,-69.82038,-13.96617",
+    "geom:latitude":-13.96617,
+    "geom:longitude":-69.82038,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Sayacata",
+    "gn:country_code":"PE",
+    "gn:dem":3890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558917,
+    "gn:latitude":-13.96617,
+    "gn:longitude":-69.82038,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Sayacata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sayacata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558917
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"58c918a00f175249febfc2a1743d6016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183857,
+            "locality_id":1293747701,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293747701,
+    "wof:lastmodified":1537677009,
+    "wof:name":"Sayacata",
+    "wof:parent_id":421183857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.82038,
+    -13.96617,
+    -69.82038,
+    -13.96617
+],
+  "geometry": {"coordinates":[-69.82038,-13.96617],"type":"Point"}
+}

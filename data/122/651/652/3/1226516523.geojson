@@ -1,0 +1,69 @@
+{
+  "id": 1226516523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85348,-4.23034,-80.85348,-4.23034",
+    "geom:latitude":-4.23034,
+    "geom:longitude":-80.85348,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Ceresito",
+    "gn:country_code":"PE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698589,
+    "gn:latitude":-4.23034,
+    "gn:longitude":-80.85348,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ceresito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698589
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"24464a45c292242be7208fce7a3e85b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1226516523,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226516523,
+    "wof:lastmodified":1537038607,
+    "wof:name":"Ceresito",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85348,
+    -4.23034,
+    -80.85348,
+    -4.23034
+],
+  "geometry": {"coordinates":[-80.85348,-4.23034],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209216979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.63444,-9.36417,-77.63444,-9.36417",
+    "geom:latitude":-9.36417,
+    "geom:longitude":-77.63444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Irhua",
+    "gn:country_code":"PE",
+    "gn:dem":3546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380369,
+    "gn:latitude":-9.36417,
+    "gn:longitude":-77.63444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Irhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380369
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba2c533ae23102c5d449118c5a5c0cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209216979
+        }
+    ],
+    "wof:id":1209216979,
+    "wof:lastmodified":1536294098,
+    "wof:name":"Irhua",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.63444,
+    -9.36417,
+    -77.63444,
+    -9.36417
+],
+  "geometry": {"coordinates":[-77.63444,-9.36417],"type":"Point"}
+}

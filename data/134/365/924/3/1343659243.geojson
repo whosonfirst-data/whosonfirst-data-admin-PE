@@ -1,0 +1,69 @@
+{
+  "id": 1343659243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.57644,-15.00774,-71.57644,-15.00774",
+    "geom:latitude":-15.00774,
+    "geom:longitude":-71.57644,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80807.0",
+    "gn:asciiname":"Carpinto",
+    "gn:country_code":"PE",
+    "gn:dem":4185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945407,
+    "gn:latitude":-15.00774,
+    "gn:longitude":-71.57644,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Carpinto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945407
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee2ef4a52122e24ea235e55154bb103e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1343659243,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1343659243,
+    "wof:lastmodified":1536956876,
+    "wof:name":"Carpinto",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.57644,
+    -15.00774,
+    -71.57644,
+    -15.00774
+],
+  "geometry": {"coordinates":[-71.57644000000001,-15.00774],"type":"Point"}
+}

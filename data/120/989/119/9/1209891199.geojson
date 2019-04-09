@@ -1,0 +1,74 @@
+{
+  "id": 1209891199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.37959,-10.6076,-75.37959,-10.6076",
+    "geom:latitude":-10.6076,
+    "geom:longitude":-75.37959,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190301.0",
+    "gn:asciiname":"Llamaquizu",
+    "gn:country_code":"PE",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929713,
+    "gn:latitude":-10.6076,
+    "gn:longitude":-75.37959,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Llamaquiz\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamaquizu",
+        "San Francisco",
+        "Llamaquiz\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929713
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"39fcda2f15bbd77ce38d4503ac500f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1209891199,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1209891199,
+    "wof:lastmodified":1537676704,
+    "wof:name":"Llamaquizu",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.37959000000002,
+    -10.6076,
+    -75.37959000000002,
+    -10.6076
+],
+  "geometry": {"coordinates":[-75.37959000000002,-10.6076],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125942407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33119,-14.09272,-71.33119,-14.09272",
+    "geom:latitude":-14.09272,
+    "geom:longitude":-71.33119,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3593,
+    "gn:population":3593,
+    "iso:country":"PE",
+    "lbl:latitude":-14.09272,
+    "lbl:longitude":-71.33119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3952867,
+    "qs_pg:gn_pop":3593,
+    "qs_pg:name":"Cullcuyre",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1047465,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3952867,
+        "qs_pg:id":1047465
+    },
+    "wof:country":"PE",
+    "wof:created":1497297163,
+    "wof:geomhash":"6b5127ce87dfff053a8687ec537f4365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1125942407,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1125942407,
+    "wof:lastmodified":1509402153,
+    "wof:name":"Cullcuyre",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:population":3593,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33119,
+    -14.09272,
+    -71.33119,
+    -14.09272
+],
+  "geometry": {"coordinates":[-71.33119000000001,-14.09272],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276233571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1866,-15.86205,-74.1866,-15.86205",
+    "geom:latitude":-15.86205,
+    "geom:longitude":-74.1866,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40308.0",
+    "gn:asciiname":"Cali",
+    "gn:country_code":"PE",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946141,
+    "gn:latitude":-15.86205,
+    "gn:longitude":-74.1866,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Cali",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946141
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5555bec6264a424047987f24ba48aadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1276233571,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276233571,
+    "wof:lastmodified":1537676854,
+    "wof:name":"Cali",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1866,
+    -15.86205,
+    -74.1866,
+    -15.86205
+],
+  "geometry": {"coordinates":[-74.1866,-15.86205],"type":"Point"}
+}

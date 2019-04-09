@@ -1,0 +1,75 @@
+{
+  "id": 1243351229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94382,-13.72535,-75.94382,-13.72535",
+    "geom:latitude":-13.72535,
+    "geom:longitude":-75.94382,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110504.0",
+    "gn:asciiname":"Lima La Vieja",
+    "gn:country_code":"PE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936436,
+    "gn:latitude":-13.72535,
+    "gn:longitude":-75.94382,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Lima La Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lima La Vieja"
+    ],
+    "name:spa_x_variant":[
+        "Lima Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936436
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4806320e3e07918e0d95eb07157ce325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1243351229,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1243351229,
+    "wof:lastmodified":1537676767,
+    "wof:name":"Lima La Vieja",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94382,
+    -13.72535,
+    -75.94382,
+    -13.72535
+],
+  "geometry": {"coordinates":[-75.94382,-13.72535],"type":"Point"}
+}

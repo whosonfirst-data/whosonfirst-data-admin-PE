@@ -1,0 +1,70 @@
+{
+  "id": 1276941359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,-16.5,-69.1,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210407.0",
+    "gn:asciiname":"Zepita",
+    "gn:country_code":"PE",
+    "gn:dem":3832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3925327,
+    "gn:latitude":-16.5,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Zepita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925327,
+        "wk:page":"Zepita"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b8d12530c5e87cdc31cb702404931ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1276941359,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276941359,
+    "wof:lastmodified":1537570242,
+    "wof:name":"Zepita",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    -16.5,
+    -69.1,
+    -16.5
+],
+  "geometry": {"coordinates":[-69.09999999999999,-16.5],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243050007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03333,-4.55,-74.03333,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":-74.03333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160301.0",
+    "gn:asciiname":"Boognesi",
+    "gn:country_code":"PE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699268,
+    "gn:latitude":-4.55,
+    "gn:longitude":-74.03333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Boognesi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699268
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c0ea2627d9aa3078ac0627e0e59cf7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1243050007,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1243050007,
+    "wof:lastmodified":1536879282,
+    "wof:name":"Boognesi",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03333,
+    -4.55,
+    -74.03333,
+    -4.55
+],
+  "geometry": {"coordinates":[-74.03333000000001,-4.55],"type":"Point"}
+}

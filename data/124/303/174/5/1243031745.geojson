@@ -1,0 +1,69 @@
+{
+  "id": 1243031745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.44193,-3.51368,-72.44193,-3.51368",
+    "geom:latitude":-3.51368,
+    "geom:longitude":-72.44193,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160105.0",
+    "gn:asciiname":"Colonia",
+    "gn:country_code":"PE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395435,
+    "gn:latitude":-3.51368,
+    "gn:longitude":-72.44193,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Colonia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395435
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"892c6d2dd9babedc28bd06da4ec4be7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1243031745,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1243031745,
+    "wof:lastmodified":1536906683,
+    "wof:name":"Colonia",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.44193,
+    -3.51368,
+    -72.44193,
+    -3.51368
+],
+  "geometry": {"coordinates":[-72.44193,-3.51368],"type":"Point"}
+}

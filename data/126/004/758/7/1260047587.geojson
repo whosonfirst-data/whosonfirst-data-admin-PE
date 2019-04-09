@@ -1,0 +1,69 @@
+{
+  "id": 1260047587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05,-9.08333,-73.05,-9.08333",
+    "geom:latitude":-9.08333,
+    "geom:longitude":-73.05,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250104.0",
+    "gn:asciiname":"Puerto Silva",
+    "gn:country_code":"PE",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693190,
+    "gn:latitude":-9.08333,
+    "gn:longitude":-73.05,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puerto Silva",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421171957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693190
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d6417426e81a8a63cc350443a4e6f6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171957,
+            "locality_id":1260047587,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1260047587,
+    "wof:lastmodified":1537038213,
+    "wof:name":"Puerto Silva",
+    "wof:parent_id":421171957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05,
+    -9.08333,
+    -73.05,
+    -9.08333
+],
+  "geometry": {"coordinates":[-73.05,-9.08333],"type":"Point"}
+}

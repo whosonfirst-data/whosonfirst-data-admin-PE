@@ -1,0 +1,69 @@
+{
+  "id": 1309794375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3075,-10.17139,-76.3075,-10.17139",
+    "geom:latitude":-10.17139,
+    "geom:longitude":-76.3075,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100205.0",
+    "gn:asciiname":"Shiricucho",
+    "gn:country_code":"PE",
+    "gn:dem":3230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962466,
+    "gn:latitude":-10.17139,
+    "gn:longitude":-76.3075,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shiricucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962466
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"21172ca28e0f1823f649fec9e2ed7591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1309794375,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1309794375,
+    "wof:lastmodified":1536947897,
+    "wof:name":"Shiricucho",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3075,
+    -10.17139,
+    -76.3075,
+    -10.17139
+],
+  "geometry": {"coordinates":[-76.3075,-10.17139],"type":"Point"}
+}

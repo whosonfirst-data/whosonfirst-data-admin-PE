@@ -1,0 +1,77 @@
+{
+  "id": 1310088147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57333,-12.79276,-76.57333,-12.79276",
+    "geom:latitude":-12.79276,
+    "geom:longitude":-76.57333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150502.0",
+    "gn:asciiname":"Rosario de Asia",
+    "gn:country_code":"PE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930250,
+    "gn:latitude":-12.79276,
+    "gn:longitude":-76.57333,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Rosario de Asia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930250
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"382bff6ac1452b12c0e7f8ed943f879c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1310088147,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1310088147,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310088147,
+    "wof:lastmodified":1537020672,
+    "wof:name":"Rosario de Asia",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57333,
+    -12.79276,
+    -76.57333,
+    -12.79276
+],
+  "geometry": {"coordinates":[-76.57333,-12.79276],"type":"Point"}
+}

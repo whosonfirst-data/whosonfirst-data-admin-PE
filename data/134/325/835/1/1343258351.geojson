@@ -1,0 +1,68 @@
+{
+  "id": 1343258351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.85831,-12.04536,-74.85831,-12.04536",
+    "geom:latitude":-12.04536,
+    "geom:longitude":-74.85831,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Cruz Pata",
+    "gn:country_code":"PE",
+    "gn:dem":2377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663889,
+    "gn:latitude":-12.04536,
+    "gn:longitude":-74.85831,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Cruz Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663889
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b79b3f5fc20fda8170eae3ecd6e4643f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1343258351,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343258351,
+    "wof:lastmodified":1537036385,
+    "wof:name":"Cruz Pata",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.85831,
+    -12.04536,
+    -74.85831,
+    -12.04536
+],
+  "geometry": {"coordinates":[-74.85831,-12.04536],"type":"Point"}
+}

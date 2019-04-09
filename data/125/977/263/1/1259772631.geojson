@@ -1,0 +1,69 @@
+{
+  "id": 1259772631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.96128,-13.19784,-74.96128,-13.19784",
+    "geom:latitude":-13.19784,
+    "geom:longitude":-74.96128,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Sorajocha",
+    "gn:country_code":"PE",
+    "gn:dem":4509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677225,
+    "gn:latitude":-13.19784,
+    "gn:longitude":-74.96128,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sorajocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677225
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6ecd7b921a31e92667dd5b3dd3780c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1259772631,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1259772631,
+    "wof:lastmodified":1536939524,
+    "wof:name":"Sorajocha",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.96128,
+    -13.19784,
+    -74.96128,
+    -13.19784
+],
+  "geometry": {"coordinates":[-74.96128,-13.19784],"type":"Point"}
+}

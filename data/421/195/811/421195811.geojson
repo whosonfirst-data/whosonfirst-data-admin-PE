@@ -1,0 +1,79 @@
+{
+  "id": 421195811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01088,-15.949,-70.01088,-15.949",
+    "geom:latitude":-15.949,
+    "geom:longitude":-70.01088,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caracollo Hacienda"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3945584,
+    "qs:gn_pop":0,
+    "qs:name":"Caracoto",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1342489,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419472,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945584,
+        "gp:id":419472,
+        "qs:id":1342489
+    },
+    "wof:country":"PE",
+    "wof:created":1459009860,
+    "wof:geomhash":"ef60550f97a8c9f76c89be811f8cb6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":421195811,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":421195811,
+    "wof:lastmodified":1501269454,
+    "wof:name":"Caracoto",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01088,
+    -15.949,
+    -70.01088,
+    -15.949
+],
+  "geometry": {"coordinates":[-70.01088,-15.949],"type":"Point"}
+}

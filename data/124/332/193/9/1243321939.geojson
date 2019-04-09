@@ -1,0 +1,72 @@
+{
+  "id": 1243321939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3278,-6.56509,-76.3278,-6.56509",
+    "geom:latitude":-6.56509,
+    "geom:longitude":-76.3278,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2209.0",
+    "gn:admin3_code":"220908.0",
+    "gn:asciiname":"Nueva Esperanza",
+    "gn:country_code":"PE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875305,
+    "gn:latitude":-6.56509,
+    "gn:longitude":-76.3278,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nueva Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875305
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"084f964d680a9f448ac7ae8ad7673df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":1243321939,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1243321939,
+    "wof:lastmodified":1537676928,
+    "wof:name":"Nueva Esperanza",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3278,
+    -6.56509,
+    -76.3278,
+    -6.56509
+],
+  "geometry": {"coordinates":[-76.3278,-6.56509],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209699015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7971,-6.80183,-79.7971,-6.80183",
+    "geom:latitude":-6.80183,
+    "geom:longitude":-79.7971,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140118.0",
+    "gn:asciiname":"Ricardo",
+    "gn:country_code":"PE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692883,
+    "gn:latitude":-6.80183,
+    "gn:longitude":-79.7971,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ricardo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ricardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692883
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f8f0a83aec1f57687d52be32f3fc462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1209699015,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1209699015,
+    "wof:lastmodified":1537676558,
+    "wof:name":"Ricardo",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7971,
+    -6.80183,
+    -79.7971,
+    -6.80183
+],
+  "geometry": {"coordinates":[-79.7971,-6.80183],"type":"Point"}
+}

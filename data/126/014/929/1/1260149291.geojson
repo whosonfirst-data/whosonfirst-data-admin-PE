@@ -1,0 +1,72 @@
+{
+  "id": 1260149291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70582,-7.05756,-76.70582,-7.05756",
+    "geom:latitude":-7.05756,
+    "geom:longitude":-76.70582,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220405.0",
+    "gn:asciiname":"Espana",
+    "gn:country_code":"PE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544101,
+    "gn:latitude":-7.05756,
+    "gn:longitude":-76.70582,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Espa\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Espa\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544101
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"97d8ba0476c688fda128f8d10d441408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693995,
+            "locality_id":1260149291,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1260149291,
+    "wof:lastmodified":1537676909,
+    "wof:name":"Espana",
+    "wof:parent_id":1108693995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70581999999997,
+    -7.05756,
+    -76.70581999999997,
+    -7.05756
+],
+  "geometry": {"coordinates":[-76.70581999999997,-7.05756],"type":"Point"}
+}

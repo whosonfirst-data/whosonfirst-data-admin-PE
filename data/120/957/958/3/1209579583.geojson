@@ -1,0 +1,63 @@
+{
+  "id": 1209579583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58063,-14.15133,-69.58063,-14.15133",
+    "geom:latitude":-14.15133,
+    "geom:longitude":-69.58063,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211205.0",
+    "gn:asciiname":"Aricato",
+    "gn:country_code":"PE",
+    "gn:dem":2942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3965807,
+    "gn:latitude":-14.15133,
+    "gn:longitude":-69.58063,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Aricato",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3965807
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f9ec51dc8cd9dfb20daa644c0420c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209579583
+        }
+    ],
+    "wof:id":1209579583,
+    "wof:lastmodified":1536282831,
+    "wof:name":"Aricato",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58063,
+    -14.151329999999998,
+    -69.58063,
+    -14.151329999999998
+],
+  "geometry": {"coordinates":[-69.58063,-14.15133],"type":"Point"}
+}

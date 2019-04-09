@@ -1,0 +1,63 @@
+{
+  "id": 1209694241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61833,-10.1725,-76.61833,-10.1725",
+    "geom:latitude":-10.1725,
+    "geom:longitude":-76.61833,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101007.0",
+    "gn:asciiname":"Shiuruco",
+    "gn:country_code":"PE",
+    "gn:dem":3769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403366,
+    "gn:latitude":-10.1725,
+    "gn:longitude":-76.61833,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shiuruco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6ac07807358d8f73ca7b161e6019e410",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209694241
+        }
+    ],
+    "wof:id":1209694241,
+    "wof:lastmodified":1536279132,
+    "wof:name":"Shiuruco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61833,
+    -10.1725,
+    -76.61833,
+    -10.1725
+],
+  "geometry": {"coordinates":[-76.61833,-10.1725],"type":"Point"}
+}

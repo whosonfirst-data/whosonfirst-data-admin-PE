@@ -1,0 +1,69 @@
+{
+  "id": 1276216091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63818,-12.03463,-74.63818,-12.03463",
+    "geom:latitude":-12.03463,
+    "geom:longitude":-74.63818,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90707.0",
+    "gn:asciiname":"Cedro Cucho",
+    "gn:country_code":"PE",
+    "gn:dem":2802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665017,
+    "gn:latitude":-12.03463,
+    "gn:longitude":-74.63818,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cedro Cucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665017
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b07971e7d91f1582cf24e838bb325d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1276216091,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1276216091,
+    "wof:lastmodified":1536936881,
+    "wof:name":"Cedro Cucho",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63818,
+    -12.03463,
+    -74.63818,
+    -12.03463
+],
+  "geometry": {"coordinates":[-74.63818000000001,-12.03463],"type":"Point"}
+}

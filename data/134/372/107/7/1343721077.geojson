@@ -1,0 +1,75 @@
+{
+  "id": 1343721077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06924,-4.55972,-80.06924,-4.55972",
+    "geom:latitude":-4.55972,
+    "geom:longitude":-80.06924,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200210.0",
+    "gn:asciiname":"San Joaquin",
+    "gn:country_code":"PE",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692501,
+    "gn:latitude":-4.55972,
+    "gn:longitude":-80.06924,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda San Joaqu\u00edn",
+        "San Joaquin Hacienda",
+        "Hacienda Joaqu\u00edn",
+        "San Joaqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692501
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"23a842b33846f0edd3287641717b6b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1343721077,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343721077,
+    "wof:lastmodified":1537676551,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06924000000002,
+    -4.55972,
+    -80.06924000000002,
+    -4.55972
+],
+  "geometry": {"coordinates":[-80.06924000000002,-4.55972],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343844967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71776,-11.13263,-74.71776,-11.13263",
+    "geom:latitude":-11.13263,
+    "geom:longitude":-74.71776,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120607.0",
+    "gn:asciiname":"Shinchijaroqui",
+    "gn:country_code":"PE",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303069,
+    "gn:latitude":-11.13263,
+    "gn:longitude":-74.71776,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Shinchijaroqui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303069
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"771eec710349725033e3a0d636afde87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1343844967,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343844967,
+    "wof:lastmodified":1536689076,
+    "wof:name":"Shinchijaroqui",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71776,
+    -11.13263,
+    -74.71776,
+    -11.13263
+],
+  "geometry": {"coordinates":[-74.71776,-11.13263],"type":"Point"}
+}

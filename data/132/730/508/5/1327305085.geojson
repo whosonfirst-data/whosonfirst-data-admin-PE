@@ -1,0 +1,69 @@
+{
+  "id": 1327305085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93667,-7.74253,-77.93667,-7.74253",
+    "geom:latitude":-7.74253,
+    "geom:longitude":-77.93667,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1309.0",
+    "gn:admin3_code":"130901.0",
+    "gn:asciiname":"Chumaca",
+    "gn:country_code":"PE",
+    "gn:dem":3698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3744090,
+    "gn:latitude":-7.74253,
+    "gn:longitude":-77.93667,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chumaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421177079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3744090
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"47ae8f17aca3b86097931a2b88c7b4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177079,
+            "locality_id":1327305085,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1327305085,
+    "wof:lastmodified":1536863411,
+    "wof:name":"Chumaca",
+    "wof:parent_id":421177079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93666999999998,
+    -7.74253,
+    -77.93666999999998,
+    -7.74253
+],
+  "geometry": {"coordinates":[-77.93666999999998,-7.74253],"type":"Point"}
+}

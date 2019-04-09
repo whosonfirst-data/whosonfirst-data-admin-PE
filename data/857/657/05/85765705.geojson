@@ -1,0 +1,107 @@
+{
+  "id": 85765705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3771651.281374,
+    "geom:bbox":"-77.121277,-12.031261,-77.121277,-12.031261",
+    "geom:latitude":-12.031261,
+    "geom:longitude":-77.121277,
+    "gn:id":"",
+    "iso:country":"PE",
+    "lbl:latitude":-12.031261,
+    "lbl:longitude":-77.121277,
+    "mps:latitude":-12.031262,
+    "mps:longitude":-77.121284,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Castilla"
+    ],
+    "name:unk_x_variant":[
+        "Castilla"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_id":0,
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"Castilla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Provincia Constitucional del Callao",
+    "qs:name_adm2":"Provincia Constitucional del Callao",
+    "qs:name_local":"Lima",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":2346474,
+    "qs:woe_adm2":26805916,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:wordcount":302,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421187933,
+        85675817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723516,
+        "qs:id":1109742,
+        "qs_pg:id":1109742
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"24fa5a35ff9dead4c19f9d11d3b4a17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":-1,
+            "neighbourhood_id":85765705,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":85765705,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859038,
+    "wof:name":"Castilla",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.121277,
+    -12.031261,
+    -77.121277,
+    -12.031261
+],
+  "geometry": {"coordinates":[-77.12127700000001,-12.031261],"type":"Point"}
+}

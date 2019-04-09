@@ -1,0 +1,72 @@
+{
+  "id": 1226003045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2818,-6.72673,-76.2818,-6.72673",
+    "geom:latitude":-6.72673,
+    "geom:longitude":-76.2818,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220704.0",
+    "gn:asciiname":"Yanacachi",
+    "gn:country_code":"PE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763291,
+    "gn:latitude":-6.72673,
+    "gn:longitude":-76.2818,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yanacachi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yanacachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763291
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"27f976b2aa3477df833416221067363f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1226003045,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226003045,
+    "wof:lastmodified":1537676654,
+    "wof:name":"Yanacachi",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2818,
+    -6.72673,
+    -76.2818,
+    -6.72673
+],
+  "geometry": {"coordinates":[-76.2818,-6.72673],"type":"Point"}
+}

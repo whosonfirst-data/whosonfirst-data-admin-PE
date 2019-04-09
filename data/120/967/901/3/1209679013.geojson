@@ -1,0 +1,65 @@
+{
+  "id": 1209679013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7625,-10.94296,-69.7625,-10.94296",
+    "geom:latitude":-10.94296,
+    "geom:longitude":-69.7625,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Nueva Vida",
+    "gn:country_code":"PE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514828,
+    "gn:latitude":-10.94296,
+    "gn:longitude":-69.7625,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Nueva Vida",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Vida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514828
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5ca75dad068496586108ccb6292f0f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209679013
+        }
+    ],
+    "wof:id":1209679013,
+    "wof:lastmodified":1537676987,
+    "wof:name":"Nueva Vida",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7625,
+    -10.94296,
+    -69.7625,
+    -10.94296
+],
+  "geometry": {"coordinates":[-69.7625,-10.94296],"type":"Point"}
+}

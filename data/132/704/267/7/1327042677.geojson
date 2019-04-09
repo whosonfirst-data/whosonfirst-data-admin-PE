@@ -1,0 +1,69 @@
+{
+  "id": 1327042677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79478,-9.22217,-76.79478,-9.22217",
+    "geom:latitude":-9.22217,
+    "geom:longitude":-76.79478,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21013.0",
+    "gn:asciiname":"Canto Corral",
+    "gn:country_code":"PE",
+    "gn:dem":3575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675465,
+    "gn:latitude":-9.22217,
+    "gn:longitude":-76.79478,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Canto Corral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675465
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee1370f493bdc4dae3877c2728ca9e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187851,
+            "locality_id":1327042677,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1327042677,
+    "wof:lastmodified":1536745259,
+    "wof:name":"Canto Corral",
+    "wof:parent_id":421187851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79478,
+    -9.22217,
+    -76.79478,
+    -9.22217
+],
+  "geometry": {"coordinates":[-76.79478,-9.22217],"type":"Point"}
+}

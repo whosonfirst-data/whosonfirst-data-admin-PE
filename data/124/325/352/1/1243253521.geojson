@@ -1,0 +1,69 @@
+{
+  "id": 1243253521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31088,-15.10073,-71.31088,-15.10073",
+    "geom:latitude":-15.10073,
+    "geom:longitude":-71.31088,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80801.0",
+    "gn:asciiname":"Ojraya",
+    "gn:country_code":"PE",
+    "gn:dem":4590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934072,
+    "gn:latitude":-15.10073,
+    "gn:longitude":-71.31088,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ojraya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934072
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"81cdc96b7e9342d567b2d6470a6785a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1243253521,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1243253521,
+    "wof:lastmodified":1537080501,
+    "wof:name":"Ojraya",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31088000000003,
+    -15.10073,
+    -71.31088000000003,
+    -15.10073
+],
+  "geometry": {"coordinates":[-71.31088000000003,-15.10073],"type":"Point"}
+}

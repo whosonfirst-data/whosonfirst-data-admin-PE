@@ -1,0 +1,63 @@
+{
+  "id": 1209593955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26311,-10.35861,-76.26311,-10.35861",
+    "geom:latitude":-10.35861,
+    "geom:longitude":-76.26311,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100206.0",
+    "gn:asciiname":"Rodeo",
+    "gn:country_code":"PE",
+    "gn:dem":4004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963236,
+    "gn:latitude":-10.35861,
+    "gn:longitude":-76.26311,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963236
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4c1b0dfd052637a351e5df4dff9fc98c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209593955
+        }
+    ],
+    "wof:id":1209593955,
+    "wof:lastmodified":1536282386,
+    "wof:name":"Rodeo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26311,
+    -10.35861,
+    -76.26311,
+    -10.35861
+],
+  "geometry": {"coordinates":[-76.26311,-10.35861],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260255201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54618,-12.67058,-75.54618,-12.67058",
+    "geom:latitude":-12.67058,
+    "geom:longitude":-75.54618,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Cantagallo",
+    "gn:country_code":"PE",
+    "gn:dem":4679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945744,
+    "gn:latitude":-12.67058,
+    "gn:longitude":-75.54618,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Cantagallo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945744
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"790a772b5c3067a3b10da35b092e1be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1260255201,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1260255201,
+    "wof:lastmodified":1536750081,
+    "wof:name":"Cantagallo",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54618,
+    -12.67058,
+    -75.54618,
+    -12.67058
+],
+  "geometry": {"coordinates":[-75.54618000000001,-12.67058],"type":"Point"}
+}

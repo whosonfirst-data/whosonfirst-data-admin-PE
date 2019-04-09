@@ -1,0 +1,63 @@
+{
+  "id": 1209413541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85028,-14.08194,-73.85028,-14.08194",
+    "geom:latitude":-14.08194,
+    "geom:longitude":-73.85028,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50906.0",
+    "gn:asciiname":"Jochapampa",
+    "gn:country_code":"PE",
+    "gn:dem":3716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958670,
+    "gn:latitude":-14.08194,
+    "gn:longitude":-73.85028,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jochapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958670
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fc304322d569d332cb8e9248026da57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209413541
+        }
+    ],
+    "wof:id":1209413541,
+    "wof:lastmodified":1536287760,
+    "wof:name":"Jochapampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85028,
+    -14.08194,
+    -73.85028,
+    -14.08194
+],
+  "geometry": {"coordinates":[-73.85028,-14.08194],"type":"Point"}
+}

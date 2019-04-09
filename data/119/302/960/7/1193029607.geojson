@@ -1,0 +1,69 @@
+{
+  "id": 1193029607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8085,-3.08139,-77.8085,-3.08139",
+    "geom:latitude":-3.08139,
+    "geom:longitude":-77.8085,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403.0",
+    "gn:asciiname":"Subteniente Castro",
+    "gn:country_code":"PE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691702,
+    "gn:latitude":-3.08139,
+    "gn:longitude":-77.8085,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Subteniente Castro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691702
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eb6d257daf342912ea5ecef0d78ed287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694049,
+            "locality_id":1193029607,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1193029607,
+    "wof:lastmodified":1536365194,
+    "wof:name":"Subteniente Castro",
+    "wof:parent_id":1108694049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8085,
+    -3.08139,
+    -77.8085,
+    -3.08139
+],
+  "geometry": {"coordinates":[-77.8085,-3.08139],"type":"Point"}
+}

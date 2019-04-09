@@ -1,0 +1,69 @@
+{
+  "id": 1226655017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.78167,-6.72419,-77.78167,-6.72419",
+    "geom:latitude":-6.72419,
+    "geom:longitude":-77.78167,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10110.0",
+    "gn:asciiname":"Potrerillo",
+    "gn:country_code":"PE",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6379315,
+    "gn:latitude":-6.72419,
+    "gn:longitude":-77.78167,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Potrerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379315
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e81683097f28dd2918d42ba1e9406dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1226655017,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1226655017,
+    "wof:lastmodified":1536844901,
+    "wof:name":"Potrerillo",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.78166999999998,
+    -6.72419,
+    -77.78166999999998,
+    -6.72419
+],
+  "geometry": {"coordinates":[-77.78166999999998,-6.72419],"type":"Point"}
+}

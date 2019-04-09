@@ -1,0 +1,72 @@
+{
+  "id": 1209993829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68398,-14.10538,-75.68398,-14.10538",
+    "geom:latitude":-14.10538,
+    "geom:longitude":-75.68398,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:asciiname":"Los Piscontes",
+    "gn:country_code":"PE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935871,
+    "gn:latitude":-14.10538,
+    "gn:longitude":-75.68398,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Los Piscontes",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Piscontes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935871
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1fae2f76a05a6cd7aff95c2666b0f639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1209993829,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1209993829,
+    "wof:lastmodified":1537676763,
+    "wof:name":"Los Piscontes",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68398,
+    -14.10538,
+    -75.68398,
+    -14.10538
+],
+  "geometry": {"coordinates":[-75.68398000000001,-14.10538],"type":"Point"}
+}

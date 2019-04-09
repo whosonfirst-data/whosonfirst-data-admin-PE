@@ -1,0 +1,63 @@
+{
+  "id": 1209111817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78436,-15.80382,-71.78436,-15.80382",
+    "geom:latitude":-15.80382,
+    "geom:longitude":-71.78436,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40512.0",
+    "gn:asciiname":"Colihuiri",
+    "gn:country_code":"PE",
+    "gn:dem":4568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942792,
+    "gn:latitude":-15.80382,
+    "gn:longitude":-71.78436,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Colihuiri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942792
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ea6553a70781558f13a46d980f4f15a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209111817
+        }
+    ],
+    "wof:id":1209111817,
+    "wof:lastmodified":1536297382,
+    "wof:name":"Colihuiri",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78435999999998,
+    -15.803820000000002,
+    -71.78435999999998,
+    -15.803820000000002
+],
+  "geometry": {"coordinates":[-71.78435999999998,-15.80382],"type":"Point"}
+}

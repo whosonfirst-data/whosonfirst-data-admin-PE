@@ -1,0 +1,69 @@
+{
+  "id": 1226547777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.64083,-9.37639,-77.64083,-9.37639",
+    "geom:latitude":-9.37639,
+    "geom:longitude":-77.64083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Pacsac",
+    "gn:country_code":"PE",
+    "gn:dem":3656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380374,
+    "gn:latitude":-9.37639,
+    "gn:longitude":-77.64083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pacsac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421194077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4da69937725aad70bd5b9522793ad26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194077,
+            "locality_id":1226547777,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226547777,
+    "wof:lastmodified":1536994227,
+    "wof:name":"Pacsac",
+    "wof:parent_id":421194077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.64083000000002,
+    -9.37639,
+    -77.64083000000002,
+    -9.37639
+],
+  "geometry": {"coordinates":[-77.64083000000002,-9.37639],"type":"Point"}
+}

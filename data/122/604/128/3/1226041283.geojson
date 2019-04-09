@@ -1,0 +1,69 @@
+{
+  "id": 1226041283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.26667,-13.95,-74.26667,-13.95",
+    "geom:latitude":-13.95,
+    "geom:longitude":-74.26667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50303.0",
+    "gn:asciiname":"Occra",
+    "gn:country_code":"PE",
+    "gn:dem":3890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934175,
+    "gn:latitude":-13.95,
+    "gn:longitude":-74.26667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Occra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934175
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57638e8cef1bf86f68c9213f2f9eb0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693939,
+            "locality_id":1226041283,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226041283,
+    "wof:lastmodified":1536731884,
+    "wof:name":"Occra",
+    "wof:parent_id":1108693939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26666999999998,
+    -13.95,
+    -74.26666999999998,
+    -13.95
+],
+  "geometry": {"coordinates":[-74.26666999999998,-13.95],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209414775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09127,-16.09989,-71.09127,-16.09989",
+    "geom:latitude":-16.09989,
+    "geom:longitude":-71.09127,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Puro Pujio",
+    "gn:country_code":"PE",
+    "gn:dem":4162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931189,
+    "gn:latitude":-16.09989,
+    "gn:longitude":-71.09127,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Puro Pujio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931189
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf2e6174c85179b02c34b4b9e54fb814",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209414775
+        }
+    ],
+    "wof:id":1209414775,
+    "wof:lastmodified":1536287724,
+    "wof:name":"Puro Pujio",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09127,
+    -16.09989,
+    -71.09127,
+    -16.09989
+],
+  "geometry": {"coordinates":[-71.09126999999999,-16.09989],"type":"Point"}
+}

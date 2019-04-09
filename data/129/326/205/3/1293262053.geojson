@@ -1,0 +1,77 @@
+{
+  "id": 1293262053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.32528,-11.22306,-77.32528,-11.22306",
+    "geom:latitude":-11.22306,
+    "geom:longitude":-77.32528,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"La Campania",
+    "gn:country_code":"PE",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412158,
+    "gn:latitude":-11.22306,
+    "gn:longitude":-77.32528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Campania",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412158
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fa0c59e408e998e2301398f2e8119fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1293262053,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1293262053,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293262053,
+    "wof:lastmodified":1536612631,
+    "wof:name":"La Campania",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.32528,
+    -11.22306,
+    -77.32528,
+    -11.22306
+],
+  "geometry": {"coordinates":[-77.32528000000001,-11.22306],"type":"Point"}
+}

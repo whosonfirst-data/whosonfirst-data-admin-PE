@@ -1,0 +1,69 @@
+{
+  "id": 1260246391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.67677,-5.71567,-79.67677,-5.71567",
+    "geom:latitude":-5.71567,
+    "geom:longitude":-79.67677,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Chuspa",
+    "gn:country_code":"PE",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698049,
+    "gn:latitude":-5.71567,
+    "gn:longitude":-79.67677,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chuspa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698049
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"516910bf48d2c26c2c90019260aac646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1260246391,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1260246391,
+    "wof:lastmodified":1536762522,
+    "wof:name":"Chuspa",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.67676999999998,
+    -5.71567,
+    -79.67676999999998,
+    -5.71567
+],
+  "geometry": {"coordinates":[-79.67676999999998,-5.71567],"type":"Point"}
+}

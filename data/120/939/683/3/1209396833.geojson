@@ -1,0 +1,63 @@
+{
+  "id": 1209396833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.84409,-3.4486,-72.84409,-3.4486",
+    "geom:latitude":-3.4486,
+    "geom:longitude":-72.84409,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160104.0",
+    "gn:asciiname":"Yanamono",
+    "gn:country_code":"PE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278764,
+    "gn:latitude":-3.4486,
+    "gn:longitude":-72.84409,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Yanamono",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278764
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"469477186a5f7505d91f7404adab7f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209396833
+        }
+    ],
+    "wof:id":1209396833,
+    "wof:lastmodified":1536288272,
+    "wof:name":"Yanamono",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.84409000000002,
+    -3.4486,
+    -72.84409000000002,
+    -3.4486
+],
+  "geometry": {"coordinates":[-72.84409000000002,-3.4486],"type":"Point"}
+}

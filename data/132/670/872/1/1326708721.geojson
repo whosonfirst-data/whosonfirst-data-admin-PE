@@ -1,0 +1,69 @@
+{
+  "id": 1326708721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80194,-9.42459,-76.80194,-9.42459",
+    "geom:latitude":-9.42459,
+    "geom:longitude":-76.80194,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100510.0",
+    "gn:asciiname":"San Pedro de Maranon",
+    "gn:country_code":"PE",
+    "gn:dem":3338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675614,
+    "gn:latitude":-9.42459,
+    "gn:longitude":-76.80194,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Pedro de Maran\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675614
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"91d14f25e795348948ee60af047f9936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1326708721,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1326708721,
+    "wof:lastmodified":1536730054,
+    "wof:name":"San Pedro de Maranon",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80194,
+    -9.42459,
+    -76.80194,
+    -9.42459
+],
+  "geometry": {"coordinates":[-76.80194,-9.42459],"type":"Point"}
+}

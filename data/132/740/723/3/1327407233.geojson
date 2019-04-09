@@ -1,0 +1,73 @@
+{
+  "id": 1327407233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54721,-6.41329,-79.54721,-6.41329",
+    "geom:latitude":-6.41329,
+    "geom:longitude":-79.54721,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Mayascon",
+    "gn:country_code":"PE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694877,
+    "gn:latitude":-6.41329,
+    "gn:longitude":-79.54721,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Mayasc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Mayasc\u00f3n",
+        "Mayasc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694877
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0f001f659a564f972a32db894bbab590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1327407233,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327407233,
+    "wof:lastmodified":1537676585,
+    "wof:name":"Mayascon",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54720999999998,
+    -6.41329,
+    -79.54720999999998,
+    -6.41329
+],
+  "geometry": {"coordinates":[-79.54720999999998,-6.41329],"type":"Point"}
+}

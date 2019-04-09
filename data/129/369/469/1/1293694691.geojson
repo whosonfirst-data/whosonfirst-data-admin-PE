@@ -1,0 +1,69 @@
+{
+  "id": 1293694691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.63333,-9.45,-77.63333,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":-77.63333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20106.0",
+    "gn:asciiname":"Jecanga",
+    "gn:country_code":"PE",
+    "gn:dem":4333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696099,
+    "gn:latitude":-9.45,
+    "gn:longitude":-77.63333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jecanga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696099
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cc342a262c27f017a51dad0073d9736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":1293694691,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293694691,
+    "wof:lastmodified":1536984750,
+    "wof:name":"Jecanga",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.63333,
+    -9.45,
+    -77.63333,
+    -9.45
+],
+  "geometry": {"coordinates":[-77.63333,-9.45],"type":"Point"}
+}

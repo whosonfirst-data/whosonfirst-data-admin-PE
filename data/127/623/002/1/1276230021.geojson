@@ -1,0 +1,73 @@
+{
+  "id": 1276230021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17598,-8.88288,-78.17598,-8.88288",
+    "geom:latitude":-8.88288,
+    "geom:longitude":-78.17598,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21804.0",
+    "gn:asciiname":"Malley",
+    "gn:country_code":"PE",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695034,
+    "gn:latitude":-8.88288,
+    "gn:longitude":-78.17598,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Malley",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallay",
+        "Malley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695034
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1aeb149efd4e921b713b30566326eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1276230021,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276230021,
+    "wof:lastmodified":1537676587,
+    "wof:name":"Malley",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17598000000002,
+    -8.88288,
+    -78.17598000000002,
+    -8.88288
+],
+  "geometry": {"coordinates":[-78.17598000000002,-8.88288],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209878183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.45,-10.66667,-76.45,-10.66667",
+    "geom:latitude":-10.66667,
+    "geom:longitude":-76.45,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190109.0",
+    "gn:asciiname":"Pacoyan",
+    "gn:country_code":"PE",
+    "gn:dem":4387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933630,
+    "gn:latitude":-10.66667,
+    "gn:longitude":-76.45,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pacoy\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933630
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"96c022af4e7335c072776a5fab5efd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1209878183,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1209878183,
+    "wof:lastmodified":1536396266,
+    "wof:name":"Pacoyan",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.45,
+    -10.66667,
+    -76.45,
+    -10.66667
+],
+  "geometry": {"coordinates":[-76.45,-10.66667],"type":"Point"}
+}

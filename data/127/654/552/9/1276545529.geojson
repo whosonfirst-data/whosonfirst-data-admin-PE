@@ -1,0 +1,69 @@
+{
+  "id": 1276545529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23532,-13.42488,-74.23532,-13.42488",
+    "geom:latitude":-13.42488,
+    "geom:longitude":-74.23532,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203.0",
+    "gn:asciiname":"Cusibamba",
+    "gn:country_code":"PE",
+    "gn:dem":3668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941576,
+    "gn:latitude":-13.42488,
+    "gn:longitude":-74.23532,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Cusibamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941576
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6cb784483ec7229c3e4e52bec5423308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1276545529,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276545529,
+    "wof:lastmodified":1536990871,
+    "wof:name":"Cusibamba",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23532,
+    -13.42488,
+    -74.23532,
+    -13.42488
+],
+  "geometry": {"coordinates":[-74.23532,-13.42488],"type":"Point"}
+}

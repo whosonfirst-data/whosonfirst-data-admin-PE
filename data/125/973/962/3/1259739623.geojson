@@ -1,0 +1,69 @@
+{
+  "id": 1259739623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11917,-5.80028,-77.11917,-5.80028",
+    "geom:latitude":-5.80028,
+    "geom:longitude":-77.11917,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220101.0",
+    "gn:asciiname":"Nuevo Huancabamba",
+    "gn:country_code":"PE",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389374,
+    "gn:latitude":-5.80028,
+    "gn:longitude":-77.11917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Nuevo Huancabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"054afa96fc71f7434414d1a65a7d9878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694053,
+            "locality_id":1259739623,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1259739623,
+    "wof:lastmodified":1536985574,
+    "wof:name":"Nuevo Huancabamba",
+    "wof:parent_id":1108694053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11917,
+    -5.80028,
+    -77.11917,
+    -5.80028
+],
+  "geometry": {"coordinates":[-77.11917,-5.80028],"type":"Point"}
+}

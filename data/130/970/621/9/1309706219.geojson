@@ -1,0 +1,68 @@
+{
+  "id": 1309706219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89325,-9.85764,-76.89325,-9.85764",
+    "geom:latitude":-9.85764,
+    "geom:longitude":-76.89325,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Cashapata",
+    "gn:country_code":"PE",
+    "gn:dem":3770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666185,
+    "gn:latitude":-9.85764,
+    "gn:longitude":-76.89325,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Cashapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666185
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c4219ca3c7d3af219bd3a4505ff21f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1309706219,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1309706219,
+    "wof:lastmodified":1537071636,
+    "wof:name":"Cashapata",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89325,
+    -9.85764,
+    -76.89325,
+    -9.85764
+],
+  "geometry": {"coordinates":[-76.89324999999999,-9.85764],"type":"Point"}
+}

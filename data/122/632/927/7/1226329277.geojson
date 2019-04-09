@@ -1,0 +1,69 @@
+{
+  "id": 1226329277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56279,-11.74117,-75.56279,-11.74117",
+    "geom:latitude":-11.74117,
+    "geom:longitude":-75.56279,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120415.0",
+    "gn:asciiname":"Marco",
+    "gn:country_code":"PE",
+    "gn:dem":3464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3935297,
+    "gn:latitude":-11.74117,
+    "gn:longitude":-75.56279,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Marco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935297
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba0a357288e81df4d126725fd5a306b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1226329277,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226329277,
+    "wof:lastmodified":1536812669,
+    "wof:name":"Marco",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56279,
+    -11.74117,
+    -75.56279,
+    -11.74117
+],
+  "geometry": {"coordinates":[-75.56279000000001,-11.74117],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343558091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6094,-12.77419,-72.6094,-12.77419",
+    "geom:latitude":-12.77419,
+    "geom:longitude":-72.6094,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902.0",
+    "gn:asciiname":"Papelpata",
+    "gn:country_code":"PE",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6258575,
+    "gn:latitude":-12.77419,
+    "gn:longitude":-72.6094,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Papelpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6258575
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9c84e216906c5fe2491eba52a7573f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1343558091,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1343558091,
+    "wof:lastmodified":1536602251,
+    "wof:name":"Papelpata",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6094,
+    -12.77419,
+    -72.6094,
+    -12.77419
+],
+  "geometry": {"coordinates":[-72.60939999999999,-12.77419],"type":"Point"}
+}

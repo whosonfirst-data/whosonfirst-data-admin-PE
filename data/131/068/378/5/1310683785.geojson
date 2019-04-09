@@ -1,0 +1,77 @@
+{
+  "id": 1310683785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61667,-11.0,-77.61667,-11.0",
+    "geom:latitude":-11.0,
+    "geom:longitude":-77.61667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150812.0",
+    "gn:asciiname":"Miraman",
+    "gn:country_code":"PE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934873,
+    "gn:latitude":-11.0,
+    "gn:longitude":-77.61667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Miraman",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934873
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c4abb7ca65f5932e6bfa3fc3cc7a4883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1310683785,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1310683785,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310683785,
+    "wof:lastmodified":1536659795,
+    "wof:name":"Miraman",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61667,
+    -11.0,
+    -77.61667,
+    -11.0
+],
+  "geometry": {"coordinates":[-77.61667,-11.0],"type":"Point"}
+}

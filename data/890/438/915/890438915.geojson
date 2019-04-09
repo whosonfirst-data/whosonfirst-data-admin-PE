@@ -1,0 +1,101 @@
+{
+  "id": 890438915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.24944,-17.26778,-70.24944,-17.26778",
+    "geom:latitude":-17.26778,
+    "geom:longitude":-70.24944,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":3415,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u574e\u9054\u62c9\u97cb"
+    ],
+    "name:dut_x_preferred":[
+        "Candarave"
+    ],
+    "name:eng_x_preferred":[
+        "Candarave"
+    ],
+    "name:fre_x_preferred":[
+        "Candarave"
+    ],
+    "name:ita_x_preferred":[
+        "Candarave"
+    ],
+    "name:pol_x_preferred":[
+        "Candarave"
+    ],
+    "name:por_x_preferred":[
+        "Candarave"
+    ],
+    "name:que_x_preferred":[
+        "Kantarawi"
+    ],
+    "name:spa_x_preferred":[
+        "Candarave"
+    ],
+    "name:war_x_preferred":[
+        "Candarave"
+    ],
+    "qs:name":"Candarave",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"-17.27083333",
+    "wd:longitude":"-70.25166667",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945808,
+        "gp:id":418490,
+        "qs:id":1047423,
+        "wd:id":"Q3344236",
+        "wk:page":"Candarave"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052214,
+    "wof:geomhash":"d0d338715de25f1c8662a482ae47b101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":890438915,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":890438915,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Candarave",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:population":3415,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.24944,
+    -17.26778,
+    -70.24944,
+    -17.26778
+],
+  "geometry": {"coordinates":[-70.24944000000001,-17.26778],"type":"Point"}
+}

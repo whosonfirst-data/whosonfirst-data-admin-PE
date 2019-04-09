@@ -1,0 +1,67 @@
+{
+  "id": 1209307583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74462,-13.6951,-74.74462,-13.6951",
+    "geom:latitude":-13.6951,
+    "geom:longitude":-74.74462,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51012.0",
+    "gn:asciiname":"Rangracanche",
+    "gn:country_code":"PE",
+    "gn:dem":3986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930549,
+    "gn:latitude":-13.6951,
+    "gn:longitude":-74.74462,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Rangracanche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rangra Cancha",
+        "Rangracanche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930549
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"730d5e706d9a2fec890ec751d7c4144f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307583
+        }
+    ],
+    "wof:id":1209307583,
+    "wof:lastmodified":1537676713,
+    "wof:name":"Rangracanche",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74462,
+    -13.6951,
+    -74.74462,
+    -13.6951
+],
+  "geometry": {"coordinates":[-74.74462,-13.6951],"type":"Point"}
+}

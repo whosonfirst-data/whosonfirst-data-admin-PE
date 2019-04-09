@@ -1,0 +1,74 @@
+{
+  "id": 1225946515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45,-9.81667,-77.45,-9.81667",
+    "geom:latitude":-9.81667,
+    "geom:longitude":-77.45,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21702.0",
+    "gn:asciiname":"Utcuyacu",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691022,
+    "gn:latitude":-9.81667,
+    "gn:longitude":-77.45,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Utcuyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utcuyacu Hacienda",
+        "Utcuyacu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691022
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"75de00084dd8587b534541ba694b3287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202211,
+            "locality_id":1225946515,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1225946515,
+    "wof:lastmodified":1537676530,
+    "wof:name":"Utcuyacu",
+    "wof:parent_id":421202211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45,
+    -9.81667,
+    -77.45,
+    -9.81667
+],
+  "geometry": {"coordinates":[-77.45,-9.81667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209403973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.59721,-12.74476,-74.59721,-12.74476",
+    "geom:latitude":-12.74476,
+    "geom:longitude":-74.59721,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90208.0",
+    "gn:asciiname":"Concayoc",
+    "gn:country_code":"PE",
+    "gn:dem":4055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661443,
+    "gn:latitude":-12.74476,
+    "gn:longitude":-74.59721,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Concayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661443
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f441f75559e60a3d23205319d01d7818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209403973
+        }
+    ],
+    "wof:id":1209403973,
+    "wof:lastmodified":1536288055,
+    "wof:name":"Concayoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.59721,
+    -12.74476,
+    -74.59721,
+    -12.74476
+],
+  "geometry": {"coordinates":[-74.59721,-12.74476],"type":"Point"}
+}

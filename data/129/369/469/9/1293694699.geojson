@@ -1,0 +1,69 @@
+{
+  "id": 1293694699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.12405,-8.90414,-78.12405,-8.90414",
+    "geom:latitude":-8.90414,
+    "geom:longitude":-78.12405,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21802.0",
+    "gn:asciiname":"Querocancha",
+    "gn:country_code":"PE",
+    "gn:dem":2910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693053,
+    "gn:latitude":-8.90414,
+    "gn:longitude":-78.12405,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Querocancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693053
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"66d6d5a94acf2f6bba7852f56aae9105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1293694699,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293694699,
+    "wof:lastmodified":1536984740,
+    "wof:name":"Querocancha",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.12405,
+    -8.90414,
+    -78.12405,
+    -8.90414
+],
+  "geometry": {"coordinates":[-78.12405,-8.90414],"type":"Point"}
+}

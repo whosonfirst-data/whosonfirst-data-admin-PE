@@ -1,0 +1,68 @@
+{
+  "id": 1242647741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.19201,-6.83108,-79.19201,-6.83108",
+    "geom:latitude":-6.83108,
+    "geom:longitude":-79.19201,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Quepan",
+    "gn:country_code":"PE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742838,
+    "gn:latitude":-6.83108,
+    "gn:longitude":-79.19201,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Quepan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742838
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"987c2c4b29a49c7b9a9149ecc49e890f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693985,
+            "locality_id":1242647741,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1242647741,
+    "wof:lastmodified":1536962778,
+    "wof:name":"Quepan",
+    "wof:parent_id":1108693985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.19201,
+    -6.83108,
+    -79.19201,
+    -6.83108
+],
+  "geometry": {"coordinates":[-79.19201,-6.83108],"type":"Point"}
+}

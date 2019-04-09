@@ -1,0 +1,69 @@
+{
+  "id": 1259959317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55725,-11.39068,-74.55725,-11.39068",
+    "geom:latitude":-11.39068,
+    "geom:longitude":-74.55725,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120603.0",
+    "gn:asciiname":"Belen",
+    "gn:country_code":"PE",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302933,
+    "gn:latitude":-11.39068,
+    "gn:longitude":-74.55725,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302933
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d47237f6be4a4db8c3aa97783e5ec7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1259959317,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1259959317,
+    "wof:lastmodified":1536669958,
+    "wof:name":"Belen",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55725,
+    -11.39068,
+    -74.55725,
+    -11.39068
+],
+  "geometry": {"coordinates":[-74.55725,-11.39068],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209416279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11667,-14.03333,-72.11667,-14.03333",
+    "geom:latitude":-14.03333,
+    "geom:longitude":-72.11667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30505.0",
+    "gn:asciiname":"Taripaya",
+    "gn:country_code":"PE",
+    "gn:dem":3619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927760,
+    "gn:latitude":-14.03333,
+    "gn:longitude":-72.11667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Taripaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927760
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3d33471d8dd973d770b731f672b40cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209416279
+        }
+    ],
+    "wof:id":1209416279,
+    "wof:lastmodified":1536287678,
+    "wof:name":"Taripaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11667,
+    -14.03333,
+    -72.11667,
+    -14.03333
+],
+  "geometry": {"coordinates":[-72.11667,-14.03333],"type":"Point"}
+}

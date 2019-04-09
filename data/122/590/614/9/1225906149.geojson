@@ -1,0 +1,69 @@
+{
+  "id": 1225906149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42897,-11.03853,-76.42897,-11.03853",
+    "geom:latitude":-11.03853,
+    "geom:longitude":-76.42897,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190104.0",
+    "gn:asciiname":"Chacpatunac",
+    "gn:country_code":"PE",
+    "gn:dem":4584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669101,
+    "gn:latitude":-11.03853,
+    "gn:longitude":-76.42897,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacpatunac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669101
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"73ad021e7c885d96aff22be5b1d32a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1225906149,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1225906149,
+    "wof:lastmodified":1536927504,
+    "wof:name":"Chacpatunac",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42896999999998,
+    -11.03853,
+    -76.42896999999998,
+    -11.03853
+],
+  "geometry": {"coordinates":[-76.42896999999998,-11.03853],"type":"Point"}
+}

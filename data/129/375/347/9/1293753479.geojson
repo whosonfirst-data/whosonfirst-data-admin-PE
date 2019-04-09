@@ -1,0 +1,77 @@
+{
+  "id": 1293753479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.75847,-10.83729,-76.75847,-10.83729",
+    "geom:latitude":-10.83729,
+    "geom:longitude":-76.75847,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150906.0",
+    "gn:asciiname":"Patacancha",
+    "gn:country_code":"PE",
+    "gn:dem":4214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962720,
+    "gn:latitude":-10.83729,
+    "gn:longitude":-76.75847,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Patacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962720
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3cbd5188b7496f0ddbffc9ee5e71ea32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1293753479,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1293753479,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293753479,
+    "wof:lastmodified":1536900884,
+    "wof:name":"Patacancha",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.75846999999997,
+    -10.83729,
+    -76.75846999999997,
+    -10.83729
+],
+  "geometry": {"coordinates":[-76.75846999999997,-10.83729],"type":"Point"}
+}

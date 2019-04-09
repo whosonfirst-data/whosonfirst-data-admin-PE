@@ -1,0 +1,63 @@
+{
+  "id": 1209095481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68239,-12.52449,-74.68239,-12.52449",
+    "geom:latitude":-12.52449,
+    "geom:longitude":-74.68239,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90502.0",
+    "gn:asciiname":"Huanupata",
+    "gn:country_code":"PE",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661618,
+    "gn:latitude":-12.52449,
+    "gn:longitude":-74.68239,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huanupata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661618
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fbc9cc1ff2064da2d579663ee81a395",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209095481
+        }
+    ],
+    "wof:id":1209095481,
+    "wof:lastmodified":1536297900,
+    "wof:name":"Huanupata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68239,
+    -12.52449,
+    -74.68239,
+    -12.52449
+],
+  "geometry": {"coordinates":[-74.68239,-12.52449],"type":"Point"}
+}

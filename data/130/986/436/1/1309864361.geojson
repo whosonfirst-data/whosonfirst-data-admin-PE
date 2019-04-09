@@ -1,0 +1,71 @@
+{
+  "id": 1309864361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26549,-14.0039,-69.26549,-14.0039",
+    "geom:latitude":-14.0039,
+    "geom:longitude":-69.26549,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Naranjani",
+    "gn:country_code":"PE",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558286,
+    "gn:latitude":-14.0039,
+    "gn:longitude":-69.26549,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Naranjani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Naranjani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558286
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c3b1c4d5c3914b7110163dbcca9669c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1309864361,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309864361,
+    "wof:lastmodified":1537677000,
+    "wof:name":"Naranjani",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26549,
+    -14.0039,
+    -69.26549,
+    -14.0039
+],
+  "geometry": {"coordinates":[-69.26549,-14.0039],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260276351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.49479,-13.42685,-74.49479,-13.42685",
+    "geom:latitude":-13.42685,
+    "geom:longitude":-74.49479,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50114.0",
+    "gn:asciiname":"Parjaparja",
+    "gn:country_code":"PE",
+    "gn:dem":4346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668030,
+    "gn:latitude":-13.42685,
+    "gn:longitude":-74.49479,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Parjaparja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668030
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2415dd41223d5b376c9cd61de6e64520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1260276351,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260276351,
+    "wof:lastmodified":1536721870,
+    "wof:name":"Parjaparja",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.49479000000002,
+    -13.42685,
+    -74.49479000000002,
+    -13.42685
+],
+  "geometry": {"coordinates":[-74.49479000000002,-13.42685],"type":"Point"}
+}

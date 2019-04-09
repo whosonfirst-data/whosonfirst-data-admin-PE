@@ -1,0 +1,69 @@
+{
+  "id": 1327129365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44567,-14.17407,-71.44567,-14.17407",
+    "geom:latitude":-14.17407,
+    "geom:longitude":-71.44567,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80506.0",
+    "gn:asciiname":"Patac Lauri",
+    "gn:country_code":"PE",
+    "gn:dem":3836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953483,
+    "gn:latitude":-14.17407,
+    "gn:longitude":-71.44567,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Patac Lauri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953483
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d7a057bbbc7518fdb855e4268b396744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187839,
+            "locality_id":1327129365,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1327129365,
+    "wof:lastmodified":1536618355,
+    "wof:name":"Patac Lauri",
+    "wof:parent_id":421187839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44566999999998,
+    -14.17407,
+    -71.44566999999998,
+    -14.17407
+],
+  "geometry": {"coordinates":[-71.44566999999998,-14.17407],"type":"Point"}
+}

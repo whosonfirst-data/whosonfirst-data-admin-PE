@@ -1,0 +1,63 @@
+{
+  "id": 1209193951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.21662,-11.85679,-75.21662,-11.85679",
+    "geom:latitude":-11.85679,
+    "geom:longitude":-75.21662,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120128.0",
+    "gn:asciiname":"Siusa",
+    "gn:country_code":"PE",
+    "gn:dem":4372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674692,
+    "gn:latitude":-11.85679,
+    "gn:longitude":-75.21662,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Siusa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674692
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f3714635f89d5e82a0b1ebca684b032",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209193951
+        }
+    ],
+    "wof:id":1209193951,
+    "wof:lastmodified":1536294838,
+    "wof:name":"Siusa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.21661999999998,
+    -11.85679,
+    -75.21661999999998,
+    -11.85679
+],
+  "geometry": {"coordinates":[-75.21661999999998,-11.85679],"type":"Point"}
+}

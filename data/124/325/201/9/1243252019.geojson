@@ -1,0 +1,69 @@
+{
+  "id": 1243252019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39455,-9.62762,-76.39455,-9.62762",
+    "geom:latitude":-9.62762,
+    "geom:longitude":-76.39455,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100104.0",
+    "gn:asciiname":"Huallipampa",
+    "gn:country_code":"PE",
+    "gn:dem":3611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670114,
+    "gn:latitude":-9.62762,
+    "gn:longitude":-76.39455,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huallipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670114
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d138250bfaf6d0d9d7d4134d436d15ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1243252019,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1243252019,
+    "wof:lastmodified":1537082642,
+    "wof:name":"Huallipampa",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39455,
+    -9.62762,
+    -76.39455,
+    -9.62762
+],
+  "geometry": {"coordinates":[-76.39455,-9.62762],"type":"Point"}
+}

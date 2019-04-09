@@ -1,0 +1,72 @@
+{
+  "id": 1343962529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.53155,-15.22762,-73.53155,-15.22762",
+    "geom:latitude":-15.22762,
+    "geom:longitude":-73.53155,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50804.0",
+    "gn:asciiname":"Chipalloma",
+    "gn:country_code":"PE",
+    "gn:dem":3175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943717,
+    "gn:latitude":-15.22762,
+    "gn:longitude":-73.53155,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chipalloma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chipalloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943717
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ed3a74cfc6f55c5bd64e2caf8cbbbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1343962529,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343962529,
+    "wof:lastmodified":1537676833,
+    "wof:name":"Chipalloma",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.53155,
+    -15.22762,
+    -73.53155,
+    -15.22762
+],
+  "geometry": {"coordinates":[-73.53155,-15.22762],"type":"Point"}
+}

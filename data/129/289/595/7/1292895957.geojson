@@ -1,0 +1,74 @@
+{
+  "id": 1292895957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32604,-13.6336,-72.32604,-13.6336",
+    "geom:latitude":-13.6336,
+    "geom:longitude":-72.32604,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Aquillahasi",
+    "gn:country_code":"PE",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947405,
+    "gn:latitude":-13.6336,
+    "gn:longitude":-72.32604,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Aquillahasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aquillahuasi Hacienda",
+        "Aquillahuasi",
+        "Aquillahasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947405
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"54a6f264ba578de39c40dd4f2357cace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1292895957,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1292895957,
+    "wof:lastmodified":1537676866,
+    "wof:name":"Aquillahasi",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32604,
+    -13.6336,
+    -72.32604,
+    -13.6336
+],
+  "geometry": {"coordinates":[-72.32604000000001,-13.6336],"type":"Point"}
+}

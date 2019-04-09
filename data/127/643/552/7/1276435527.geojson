@@ -1,0 +1,69 @@
+{
+  "id": 1276435527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5499,-9.86454,-76.5499,-9.86454",
+    "geom:latitude":-9.86454,
+    "geom:longitude":-76.5499,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101101.0",
+    "gn:asciiname":"Hayapite",
+    "gn:country_code":"PE",
+    "gn:dem":3901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666273,
+    "gn:latitude":-9.86454,
+    "gn:longitude":-76.5499,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hayapite",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666273
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"005e8ea4a5ae35e3bfdd9f2600f5ab84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1276435527,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276435527,
+    "wof:lastmodified":1536640828,
+    "wof:name":"Hayapite",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5499,
+    -9.86454,
+    -76.5499,
+    -9.86454
+],
+  "geometry": {"coordinates":[-76.54989999999999,-9.86454],"type":"Point"}
+}

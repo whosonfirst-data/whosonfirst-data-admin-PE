@@ -1,0 +1,72 @@
+{
+  "id": 1310174067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28834,-6.73514,-76.28834,-6.73514",
+    "geom:latitude":-6.73514,
+    "geom:longitude":-76.28834,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220702.0",
+    "gn:asciiname":"Puerto Lopez",
+    "gn:country_code":"PE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763289,
+    "gn:latitude":-6.73514,
+    "gn:longitude":-76.28834,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Puerto L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763289
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"192b37e5fba175ad99d194b51334e61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1310174067,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1310174067,
+    "wof:lastmodified":1537676654,
+    "wof:name":"Puerto Lopez",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28834,
+    -6.73514,
+    -76.28834,
+    -6.73514
+],
+  "geometry": {"coordinates":[-76.28834000000001,-6.73514],"type":"Point"}
+}

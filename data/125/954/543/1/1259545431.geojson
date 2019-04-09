@@ -1,0 +1,69 @@
+{
+  "id": 1259545431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.20549,-10.44464,-76.20549,-10.44464",
+    "geom:latitude":-10.44464,
+    "geom:longitude":-76.20549,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190103.0",
+    "gn:asciiname":"Jarcahuaca",
+    "gn:country_code":"PE",
+    "gn:dem":3460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963554,
+    "gn:latitude":-10.44464,
+    "gn:longitude":-76.20549,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jarcahuaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963554
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e79b5f146b0e097752f7354801f01a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1259545431,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1259545431,
+    "wof:lastmodified":1536770326,
+    "wof:name":"Jarcahuaca",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.20549,
+    -10.44464,
+    -76.20549,
+    -10.44464
+],
+  "geometry": {"coordinates":[-76.20549,-10.44464],"type":"Point"}
+}

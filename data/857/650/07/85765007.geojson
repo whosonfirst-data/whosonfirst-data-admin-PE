@@ -1,0 +1,119 @@
+{
+  "id": 85765007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":8016976.991301,
+    "geom:bbox":"-71.543663,-16.408249,-71.543663,-16.408249",
+    "geom:latitude":-16.408249,
+    "geom:longitude":-71.543663,
+    "gn:latitude":-16.42645,
+    "gn:longitude":-71.54321,
+    "iso:country":"PE",
+    "lbl:latitude":-16.408249,
+    "lbl:longitude":-71.543663,
+    "mps:latitude":-16.416491,
+    "mps:longitude":-71.548119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Cerro Apacheta"
+    ],
+    "name:spa_x_preferred":[
+        "La Apacheta"
+    ],
+    "name:swe_x_preferred":[
+        "Cerro Apacheta"
+    ],
+    "name:unk_x_variant":[
+        "Apacheta",
+        "La Apacheta"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3947322,
+    "qs:gn_nam_loc":"Arequipa",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Apacheta",
+    "qs:local_max":8512,
+    "qs:local_sum":10013,
+    "qs:localhoods":9,
+    "qs:name":"La Apacheta",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:name_adm2":"Arequipa",
+    "qs:name_local":"Arequipa",
+    "qs:photo_max":80,
+    "qs:photo_sum":255,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":2346471,
+    "qs:woe_adm2":26805784,
+    "qs:woe_lau":0,
+    "qs:woe_local":418442,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        85675839,
+        102191577,
+        85632521,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937391,
+        "gp:id":406509,
+        "qs:id":475430
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b832414a88b6a9773cb46ca9be82403f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":85765007,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":85765007,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379398,
+    "wof:name":"La Apacheta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        1126104339
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.543663,
+    -16.408249,
+    -71.543663,
+    -16.408249
+],
+  "geometry": {"coordinates":[-71.543663,-16.408249],"type":"Point"}
+}

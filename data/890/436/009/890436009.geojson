@@ -1,0 +1,120 @@
+{
+  "id": 890436009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.44111,-5.75611,-78.44111,-5.75611",
+    "geom:latitude":-5.75611,
+    "geom:longitude":-78.44111,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":20382,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u5df4\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:eng_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:fre_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:glg_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:lit_x_preferred":[
+        "Bagva Grand\u0117"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u06af\u0648\u0622 \u06af\u0631\u0627\u0646\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:por_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:que_x_preferred":[
+        "Utkupampa"
+    ],
+    "name:rum_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Bagua Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0433\u0432\u0430 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Bagua Grande"
+    ],
+    "qs:name":"Bagua Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":440.0,
+    "wd:latitude":"-5.75722222",
+    "wd:longitude":"-78.44527778",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699484,
+        "gp:id":418481,
+        "qs:id":1046556,
+        "wd:id":"Q793765",
+        "wk:page":"Bagua Grande"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052090,
+    "wof:geomhash":"edd8ad859241fcd511b9d8c7a23a9e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":890436009,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":890436009,
+    "wof:lastmodified":1527735401,
+    "wof:name":"Bagua Grande",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:population":20382,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.44111,
+    -5.75611,
+    -78.44111,
+    -5.75611
+],
+  "geometry": {"coordinates":[-78.44110999999999,-5.75611],"type":"Point"}
+}

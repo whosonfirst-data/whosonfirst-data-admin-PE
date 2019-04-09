@@ -1,0 +1,72 @@
+{
+  "id": 1192995635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71898,-14.07132,-75.71898,-14.07132",
+    "geom:latitude":-14.07132,
+    "geom:longitude":-75.71898,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110106.0",
+    "gn:asciiname":"Quinta Mora",
+    "gn:country_code":"PE",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003686,
+    "gn:latitude":-14.07132,
+    "gn:longitude":-75.71898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Quinta Mora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quinta Mora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003686
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"278aaa8e99d611c7f3549b4b8ffa9934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1192995635,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1192995635,
+    "wof:lastmodified":1537676953,
+    "wof:name":"Quinta Mora",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71898,
+    -14.07132,
+    -75.71898,
+    -14.07132
+],
+  "geometry": {"coordinates":[-75.71898,-14.07132],"type":"Point"}
+}

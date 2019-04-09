@@ -1,0 +1,69 @@
+{
+  "id": 1309911671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.69639,-16.61361,-72.69639,-16.61361",
+    "geom:latitude":-16.61361,
+    "geom:longitude":-72.69639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40208.0",
+    "gn:asciiname":"La Pampa",
+    "gn:country_code":"PE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3936935,
+    "gn:latitude":-16.61361,
+    "gn:longitude":-72.69639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421175159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936935
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"59dd6cc9e6d06db977e5064e9e125617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175159,
+            "locality_id":1309911671,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1309911671,
+    "wof:lastmodified":1536778947,
+    "wof:name":"La Pampa",
+    "wof:parent_id":421175159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.69639000000002,
+    -16.61361,
+    -72.69639000000002,
+    -16.61361
+],
+  "geometry": {"coordinates":[-72.69639000000002,-16.61361],"type":"Point"}
+}

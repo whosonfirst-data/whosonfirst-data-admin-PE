@@ -1,0 +1,82 @@
+{
+  "id": 1243236317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80069,-10.8556,-76.80069,-10.8556",
+    "geom:latitude":-10.8556,
+    "geom:longitude":-76.80069,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150906.0",
+    "gn:asciiname":"San Martin de Taucur",
+    "gn:country_code":"PE",
+    "gn:dem":3606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927688,
+    "gn:latitude":-10.8556,
+    "gn:longitude":-76.80069,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Mart\u00edn de Taucur",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taucur",
+        "San Martin de taucur",
+        "San Mart\u00edn de Taucur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927688
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3dc284847968ee1a055e13bfd828d4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1243236317,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1243236317,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1243236317,
+    "wof:lastmodified":1537676681,
+    "wof:name":"San Martin de Taucur",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80069,
+    -10.8556,
+    -76.80069,
+    -10.8556
+],
+  "geometry": {"coordinates":[-76.80069,-10.8556],"type":"Point"}
+}

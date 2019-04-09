@@ -1,0 +1,69 @@
+{
+  "id": 1260069415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93485,-12.41613,-74.93485,-12.41613",
+    "geom:latitude":-12.41613,
+    "geom:longitude":-74.93485,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90703.0",
+    "gn:asciiname":"Pusqui",
+    "gn:country_code":"PE",
+    "gn:dem":3616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663381,
+    "gn:latitude":-12.41613,
+    "gn:longitude":-74.93485,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pusqui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663381
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"263a7a8157aaa31afe205dd2b304c4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1260069415,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1260069415,
+    "wof:lastmodified":1537007578,
+    "wof:name":"Pusqui",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93485,
+    -12.41613,
+    -74.93485,
+    -12.41613
+],
+  "geometry": {"coordinates":[-74.93485,-12.41613],"type":"Point"}
+}

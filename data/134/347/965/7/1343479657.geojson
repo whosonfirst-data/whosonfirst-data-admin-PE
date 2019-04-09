@@ -1,0 +1,68 @@
+{
+  "id": 1343479657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.51469,-13.46406,-74.51469,-13.46406",
+    "geom:latitude":-13.46406,
+    "geom:longitude":-74.51469,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Sontorhuasi",
+    "gn:country_code":"PE",
+    "gn:dem":4335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8685897,
+    "gn:latitude":-13.46406,
+    "gn:longitude":-74.51469,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Sontorhuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8685897
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"466bee8da7549aa47bad49d2df6059d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1343479657,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343479657,
+    "wof:lastmodified":1536718816,
+    "wof:name":"Sontorhuasi",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.51469,
+    -13.46406,
+    -74.51469,
+    -13.46406
+],
+  "geometry": {"coordinates":[-74.51469,-13.46406],"type":"Point"}
+}

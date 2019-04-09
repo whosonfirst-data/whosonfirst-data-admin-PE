@@ -1,0 +1,69 @@
+{
+  "id": 1310575021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17362,-16.27486,-70.17362,-16.27486",
+    "geom:latitude":-16.27486,
+    "geom:longitude":-70.17362,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210111.0",
+    "gn:asciiname":"Estancia Cumucollo",
+    "gn:country_code":"PE",
+    "gn:dem":4174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941042,
+    "gn:latitude":-16.27486,
+    "gn:longitude":-70.17362,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Estancia Cumucollo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941042
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f88e0e3c97b73eb3d40efe9848405b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1310575021,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1310575021,
+    "wof:lastmodified":1536815950,
+    "wof:name":"Estancia Cumucollo",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17362,
+    -16.27486,
+    -70.17362,
+    -16.27486
+],
+  "geometry": {"coordinates":[-70.17362,-16.27486],"type":"Point"}
+}

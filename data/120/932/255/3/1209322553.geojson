@@ -1,0 +1,63 @@
+{
+  "id": 1209322553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.77306,-9.02972,-77.77306,-9.02972",
+    "geom:latitude":-9.02972,
+    "geom:longitude":-77.77306,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"212.0",
+    "gn:admin3_code":"21201.0",
+    "gn:asciiname":"Huauya",
+    "gn:country_code":"PE",
+    "gn:dem":2721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380149,
+    "gn:latitude":-9.02972,
+    "gn:longitude":-77.77306,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huauya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380149
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"153db64289529e9b0d419ededf054f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209322553
+        }
+    ],
+    "wof:id":1209322553,
+    "wof:lastmodified":1536290642,
+    "wof:name":"Huauya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.77306,
+    -9.02972,
+    -77.77306,
+    -9.02972
+],
+  "geometry": {"coordinates":[-77.77306,-9.02972],"type":"Point"}
+}

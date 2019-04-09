@@ -1,0 +1,68 @@
+{
+  "id": 1293776995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.37272,-12.9767,-74.37272,-12.9767",
+    "geom:latitude":-12.9767,
+    "geom:longitude":-74.37272,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Chuyayaco",
+    "gn:country_code":"PE",
+    "gn:dem":3243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651448,
+    "gn:latitude":-12.9767,
+    "gn:longitude":-74.37272,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Chuyayaco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651448
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aa4003338dee87f8d9ba0711379c7272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1293776995,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293776995,
+    "wof:lastmodified":1536865489,
+    "wof:name":"Chuyayaco",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.37272,
+    -12.9767,
+    -74.37272,
+    -12.9767
+],
+  "geometry": {"coordinates":[-74.37272,-12.9767],"type":"Point"}
+}

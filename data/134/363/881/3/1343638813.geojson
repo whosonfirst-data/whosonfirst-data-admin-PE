@@ -1,0 +1,74 @@
+{
+  "id": 1343638813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1325,-14.32417,-75.1325,-14.32417",
+    "geom:latitude":-14.32417,
+    "geom:longitude":-75.1325,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110403.0",
+    "gn:asciiname":"Huambo",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940468,
+    "gn:latitude":-14.32417,
+    "gn:longitude":-75.1325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huambo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Huambo",
+        "Huambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940468
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"619b9ba9e9dc062b09319bbdc0afd0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1343638813,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1343638813,
+    "wof:lastmodified":1537676806,
+    "wof:name":"Huambo",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1325,
+    -14.32417,
+    -75.1325,
+    -14.32417
+],
+  "geometry": {"coordinates":[-75.13249999999999,-14.32417],"type":"Point"}
+}

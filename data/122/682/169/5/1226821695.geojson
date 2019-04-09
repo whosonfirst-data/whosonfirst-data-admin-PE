@@ -1,0 +1,77 @@
+{
+  "id": 1226821695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5,-11.31667,-77.5,-11.31667",
+    "geom:latitude":-11.31667,
+    "geom:longitude":-77.5,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150801.0",
+    "gn:asciiname":"Campamento",
+    "gn:country_code":"PE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945941,
+    "gn:latitude":-11.31667,
+    "gn:longitude":-77.5,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Campamento",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945941
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"13d169159783261fff5b8f3973fa6c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1226821695,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1226821695,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1226821695,
+    "wof:lastmodified":1536603142,
+    "wof:name":"Campamento",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5,
+    -11.31667,
+    -77.5,
+    -11.31667
+],
+  "geometry": {"coordinates":[-77.5,-11.31667],"type":"Point"}
+}

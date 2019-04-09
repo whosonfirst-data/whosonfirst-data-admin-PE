@@ -1,0 +1,74 @@
+{
+  "id": 1260373117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05,-11.86667,-77.05,-11.86667",
+    "geom:latitude":-11.86667,
+    "geom:longitude":-77.05,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150106.0",
+    "gn:asciiname":"Chacra Grande",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944633,
+    "gn:latitude":-11.86667,
+    "gn:longitude":-77.05,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacra Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chacra Grande Hacienda",
+        "Chacra Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944633
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d2718fc0ddcb827ad889438e1c53c6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1260373117,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1260373117,
+    "wof:lastmodified":1537676841,
+    "wof:name":"Chacra Grande",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05,
+    -11.86667,
+    -77.05,
+    -11.86667
+],
+  "geometry": {"coordinates":[-77.05,-11.86667],"type":"Point"}
+}

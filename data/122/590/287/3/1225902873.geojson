@@ -1,0 +1,71 @@
+{
+  "id": 1225902873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.44232,-14.31737,-69.44232,-14.31737",
+    "geom:latitude":-14.31737,
+    "geom:longitude":-69.44232,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Amoyo",
+    "gn:country_code":"PE",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558208,
+    "gn:latitude":-14.31737,
+    "gn:longitude":-69.44232,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Amoyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Amoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558208
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1b40aba7ebea760cf7373c281dde22b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1225902873,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1225902873,
+    "wof:lastmodified":1537676998,
+    "wof:name":"Amoyo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.44232,
+    -14.31737,
+    -69.44232,
+    -14.31737
+],
+  "geometry": {"coordinates":[-69.44232,-14.31737],"type":"Point"}
+}

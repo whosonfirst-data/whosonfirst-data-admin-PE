@@ -1,0 +1,71 @@
+{
+  "id": 1343228455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.40105,-11.41253,-69.40105,-11.41253",
+    "geom:latitude":-11.41253,
+    "geom:longitude":-69.40105,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Vivero",
+    "gn:country_code":"PE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512553,
+    "gn:latitude":-11.41253,
+    "gn:longitude":-69.40105,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Vivero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vivero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512553
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a3edfd32b8be683b7af44fdb1b8a415d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1343228455,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1343228455,
+    "wof:lastmodified":1537676981,
+    "wof:name":"Vivero",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.40105,
+    -11.41253,
+    -69.40105,
+    -11.41253
+],
+  "geometry": {"coordinates":[-69.40105,-11.41253],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1192994905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28928,-11.90098,-75.28928,-11.90098",
+    "geom:latitude":-11.90098,
+    "geom:longitude":-75.28928,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120130.0",
+    "gn:asciiname":"Alto Peru",
+    "gn:country_code":"PE",
+    "gn:dem":3405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674604,
+    "gn:latitude":-11.90098,
+    "gn:longitude":-75.28928,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alto Per\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674604
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c969bd514c8e1dca1c7af61fb82305a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1192994905,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1192994905,
+    "wof:lastmodified":1536376912,
+    "wof:name":"Alto Peru",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28928,
+    -11.90098,
+    -75.28928,
+    -11.90098
+],
+  "geometry": {"coordinates":[-75.28928000000001,-11.90098],"type":"Point"}
+}

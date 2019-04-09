@@ -1,0 +1,73 @@
+{
+  "id": 1277136035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63128,-4.86322,-80.63128,-4.86322",
+    "geom:latitude":-4.86322,
+    "geom:longitude":-80.63128,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200601.0",
+    "gn:asciiname":"Montenegro",
+    "gn:country_code":"PE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694638,
+    "gn:latitude":-4.86322,
+    "gn:longitude":-80.63128,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Montenegro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montenegro Hacienda",
+        "Montenegro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694638
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b83cbef917b43cc25f2770a0454e800d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1277136035,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1277136035,
+    "wof:lastmodified":1537676582,
+    "wof:name":"Montenegro",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63128,
+    -4.86322,
+    -80.63128,
+    -4.86322
+],
+  "geometry": {"coordinates":[-80.63128,-4.86322],"type":"Point"}
+}

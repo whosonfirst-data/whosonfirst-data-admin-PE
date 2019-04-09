@@ -1,0 +1,72 @@
+{
+  "id": 1225931677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94259,-13.72127,-75.94259,-13.72127",
+    "geom:latitude":-13.72127,
+    "geom:longitude":-75.94259,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110504.0",
+    "gn:asciiname":"Hacienda Media Luna",
+    "gn:country_code":"PE",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10865958,
+    "gn:latitude":-13.72127,
+    "gn:longitude":-75.94259,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Media Luna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Media Luna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10865958
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"373f4bed52450ee89f1f6bf45a30e553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1225931677,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1225931677,
+    "wof:lastmodified":1537676941,
+    "wof:name":"Hacienda Media Luna",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94259,
+    -13.72127,
+    -75.94259,
+    -13.72127
+],
+  "geometry": {"coordinates":[-75.94259,-13.72127],"type":"Point"}
+}

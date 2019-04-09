@@ -1,0 +1,70 @@
+{
+  "id": 1193271019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10491,-12.82646,-74.10491,-12.82646",
+    "geom:latitude":-12.82646,
+    "geom:longitude":-74.10491,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Uchuracay",
+    "gn:country_code":"PE",
+    "gn:dem":3884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8649885,
+    "gn:latitude":-12.82646,
+    "gn:longitude":-74.10491,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Uchuracay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8649885,
+        "wk:page":"Uchuraccay"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"583041d1d929438c1bc78a0bbe0ccc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1193271019,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1193271019,
+    "wof:lastmodified":1537570279,
+    "wof:name":"Uchuracay",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10491,
+    -12.82646,
+    -74.10491,
+    -12.82646
+],
+  "geometry": {"coordinates":[-74.10491,-12.82646],"type":"Point"}
+}

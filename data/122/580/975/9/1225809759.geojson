@@ -1,0 +1,69 @@
+{
+  "id": 1225809759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.445,-5.25889,-79.445,-5.25889",
+    "geom:latitude":-5.25889,
+    "geom:longitude":-79.445,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200301.0",
+    "gn:asciiname":"Pampa De Pasteo",
+    "gn:country_code":"PE",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6368469,
+    "gn:latitude":-5.25889,
+    "gn:longitude":-79.445,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pampa De Pasteo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368469
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"481805c42333b09c1e9d14769d4e4140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1225809759,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225809759,
+    "wof:lastmodified":1537062937,
+    "wof:name":"Pampa De Pasteo",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.445,
+    -5.25889,
+    -79.445,
+    -5.25889
+],
+  "geometry": {"coordinates":[-79.44499999999999,-5.25889],"type":"Point"}
+}

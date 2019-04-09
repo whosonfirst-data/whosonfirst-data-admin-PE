@@ -1,0 +1,71 @@
+{
+  "id": 1309772401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35699,-11.90247,-69.35699,-11.90247",
+    "geom:latitude":-11.90247,
+    "geom:longitude":-69.35699,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Quebrada San Antonio",
+    "gn:country_code":"PE",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511440,
+    "gn:latitude":-11.90247,
+    "gn:longitude":-69.35699,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Quebrada San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511440
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"69bbfe2def6c1d2261fbd532abb62cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693891,
+            "locality_id":1309772401,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1309772401,
+    "wof:lastmodified":1537676973,
+    "wof:name":"Quebrada San Antonio",
+    "wof:parent_id":1108693891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35699,
+    -11.90247,
+    -69.35699,
+    -11.90247
+],
+  "geometry": {"coordinates":[-69.35699,-11.90247],"type":"Point"}
+}

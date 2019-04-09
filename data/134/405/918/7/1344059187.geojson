@@ -1,0 +1,69 @@
+{
+  "id": 1344059187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.74528,-9.23583,-77.74528,-9.23583",
+    "geom:latitude":-9.23583,
+    "geom:longitude":-77.74528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"220.0",
+    "gn:admin3_code":"22002.0",
+    "gn:asciiname":"Pachanguay",
+    "gn:country_code":"PE",
+    "gn:dem":3072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380265,
+    "gn:latitude":-9.23583,
+    "gn:longitude":-77.74528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pachanguay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380265
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f87aa6f0ddb29cf166854303d3a1b6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":1344059187,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1344059187,
+    "wof:lastmodified":1536876517,
+    "wof:name":"Pachanguay",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.74528000000002,
+    -9.23583,
+    -77.74528000000002,
+    -9.23583
+],
+  "geometry": {"coordinates":[-77.74528000000002,-9.23583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260386295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28278,-5.31472,-79.28278,-5.31472",
+    "geom:latitude":-5.31472,
+    "geom:longitude":-79.28278,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"609.0",
+    "gn:admin3_code":"60907.0",
+    "gn:asciiname":"Tabaconas",
+    "gn:country_code":"PE",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3691640,
+    "gn:latitude":-5.31472,
+    "gn:longitude":-79.28278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tabaconas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabacones",
+        "Tabaconas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421177057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691640
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c2718d474f43e62e15a57fd5691f3723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177057,
+            "locality_id":1260386295,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1260386295,
+    "wof:lastmodified":1537676537,
+    "wof:name":"Tabaconas",
+    "wof:parent_id":421177057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28278,
+    -5.31472,
+    -79.28278,
+    -5.31472
+],
+  "geometry": {"coordinates":[-79.28278,-5.31472],"type":"Point"}
+}

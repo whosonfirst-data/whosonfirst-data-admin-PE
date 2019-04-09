@@ -1,0 +1,72 @@
+{
+  "id": 1193234637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26807,-6.77788,-76.26807,-6.77788",
+    "geom:latitude":-6.77788,
+    "geom:longitude":-76.26807,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220704.0",
+    "gn:asciiname":"Nuevo Mexico",
+    "gn:country_code":"PE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039813,
+    "gn:latitude":-6.77788,
+    "gn:longitude":-76.26807,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuevo M\u00e9xico",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo M\u00e9xico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039813
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c91fdcc30fad36c56f461cd59c446ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1193234637,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1193234637,
+    "wof:lastmodified":1537676961,
+    "wof:name":"Nuevo Mexico",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26807,
+    -6.77788,
+    -76.26807,
+    -6.77788
+],
+  "geometry": {"coordinates":[-76.26806999999999,-6.77788],"type":"Point"}
+}

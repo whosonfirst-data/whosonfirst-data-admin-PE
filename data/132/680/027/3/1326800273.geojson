@@ -1,0 +1,82 @@
+{
+  "id": 1326800273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03333,-10.58333,-77.03333,-10.58333",
+    "geom:latitude":-10.58333,
+    "geom:longitude":-77.03333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150303.0",
+    "gn:asciiname":"Gorgor",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3940716,
+    "gn:latitude":-10.58333,
+    "gn:longitude":-77.03333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Gorgor",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corgor",
+        "Gorgor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693949,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940716
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ef37ea4d6b7fc6c2a4cac093ccb7611c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1326800273,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1326800273,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1326800273,
+    "wof:lastmodified":1537676809,
+    "wof:name":"Gorgor",
+    "wof:parent_id":1108693949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03333,
+    -10.58333,
+    -77.03333,
+    -10.58333
+],
+  "geometry": {"coordinates":[-77.03333000000001,-10.58333],"type":"Point"}
+}

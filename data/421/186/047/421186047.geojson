@@ -1,0 +1,116 @@
+{
+  "id": 421186047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.14604,-16.577659,-69.14604,-16.577659",
+    "geom:latitude":-16.577659,
+    "geom:longitude":-69.14604,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:ces_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:deu_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:fra_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:hrv_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:ita_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:lit_x_preferred":[
+        "Desaguaderas"
+    ],
+    "name:nld_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:pol_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0441\u0430\u0433\u0443\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:swe_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0441\u0430\u0491\u0443\u0430\u0434\u0435\u0440\u043e"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Desaguadero",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1058108,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418826,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":418826,
+        "qs:id":1058108,
+        "wd:id":"Q296697"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009463,
+    "wof:geomhash":"091638a1112ee3c0e4ef448e5deb933d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":421186047,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":421186047,
+    "wof:lastmodified":1527716312,
+    "wof:name":"Desaguadero",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.14604,
+    -16.577659,
+    -69.14604,
+    -16.577659
+],
+  "geometry": {"coordinates":[-69.14604,-16.577659],"type":"Point"}
+}

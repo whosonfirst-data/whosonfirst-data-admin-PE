@@ -1,0 +1,72 @@
+{
+  "id": 1225903371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.73889,-4.60017,-80.73889,-4.60017",
+    "geom:latitude":-4.60017,
+    "geom:longitude":-80.73889,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Tierra Blanca",
+    "gn:country_code":"PE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3817016,
+    "gn:latitude":-4.60017,
+    "gn:longitude":-80.73889,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tierra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817016
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"863dfd4c38ec84ed48869d83b8a6d6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1225903371,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225903371,
+    "wof:lastmodified":1537676659,
+    "wof:name":"Tierra Blanca",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.73889,
+    -4.60017,
+    -80.73889,
+    -4.60017
+],
+  "geometry": {"coordinates":[-80.73889,-4.60017],"type":"Point"}
+}

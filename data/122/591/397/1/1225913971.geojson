@@ -1,0 +1,74 @@
+{
+  "id": 1225913971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.13403,-11.94227,-77.13403,-11.94227",
+    "geom:latitude":-11.94227,
+    "geom:longitude":-77.13403,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Marquez",
+    "gn:country_code":"PE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935251,
+    "gn:latitude":-11.94227,
+    "gn:longitude":-77.13403,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"M\u00e1rquez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1rquez Hacienda",
+        "Hacienda M\u00e3rquez",
+        "M\u00e1rquez",
+        "Pueblo Joven M\u00e1rquez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675817,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935251
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2f92298c9343417ff74d11d21ad7f215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":1225913971,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":1225913971,
+    "wof:lastmodified":1537676756,
+    "wof:name":"Marquez",
+    "wof:parent_id":421187933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.13403000000002,
+    -11.94227,
+    -77.13403000000002,
+    -11.94227
+],
+  "geometry": {"coordinates":[-77.13403000000002,-11.94227],"type":"Point"}
+}

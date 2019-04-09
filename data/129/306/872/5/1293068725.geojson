@@ -1,0 +1,74 @@
+{
+  "id": 1293068725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75227,-10.72599,-73.75227,-10.72599",
+    "geom:latitude":-10.72599,
+    "geom:longitude":-73.75227,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250201.0",
+    "gn:asciiname":"Atalaya",
+    "gn:country_code":"PE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947173,
+    "gn:latitude":-10.72599,
+    "gn:longitude":-73.75227,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Atalaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teniente Mej\u00ede",
+        "Atalaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947173,
+        "wk:page":"Atalaya%2C_Ucayali"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c0e936f3c838c307409c19b12f1225db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1293068725,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1293068725,
+    "wof:lastmodified":1537676864,
+    "wof:name":"Atalaya",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75227,
+    -10.72599,
+    -73.75227,
+    -10.72599
+],
+  "geometry": {"coordinates":[-73.75227,-10.72599],"type":"Point"}
+}

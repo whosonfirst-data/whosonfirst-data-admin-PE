@@ -1,0 +1,63 @@
+{
+  "id": 1209599265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.64929,-12.15146,-74.64929,-12.15146",
+    "geom:latitude":-12.15146,
+    "geom:longitude":-74.64929,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90717.0",
+    "gn:asciiname":"Millpohuayjo",
+    "gn:country_code":"PE",
+    "gn:dem":3914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664971,
+    "gn:latitude":-12.15146,
+    "gn:longitude":-74.64929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Millpohuayjo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664971
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a7f65c246f335b20d117b109590ad6b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209599265
+        }
+    ],
+    "wof:id":1209599265,
+    "wof:lastmodified":1536282222,
+    "wof:name":"Millpohuayjo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.64929000000002,
+    -12.15146,
+    -74.64929000000002,
+    -12.15146
+],
+  "geometry": {"coordinates":[-74.64929000000002,-12.15146],"type":"Point"}
+}

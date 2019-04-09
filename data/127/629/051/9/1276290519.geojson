@@ -1,0 +1,73 @@
+{
+  "id": 1276290519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45773,-4.19148,-80.45773,-4.19148",
+    "geom:latitude":-4.19148,
+    "geom:longitude":-80.45773,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"Puesto Cabo Cordova",
+    "gn:country_code":"PE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693175,
+    "gn:latitude":-4.19148,
+    "gn:longitude":-80.45773,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Puesto Cabo C\u00f3rdova",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabo Cordova",
+        "Puesto Cabo C\u00f3rdova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693175
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6e425ef7033ef1c0b8dde1dc1c73ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1276290519,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276290519,
+    "wof:lastmodified":1537676562,
+    "wof:name":"Puesto Cabo Cordova",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45773,
+    -4.19148,
+    -80.45773,
+    -4.19148
+],
+  "geometry": {"coordinates":[-80.45773,-4.19148],"type":"Point"}
+}

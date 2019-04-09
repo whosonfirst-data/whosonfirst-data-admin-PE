@@ -1,0 +1,69 @@
+{
+  "id": 1226206927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25653,-4.68814,-80.25653,-4.68814",
+    "geom:latitude":-4.68814,
+    "geom:longitude":-80.25653,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200111.0",
+    "gn:asciiname":"Bolognesi Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810892,
+    "gn:latitude":-4.68814,
+    "gn:longitude":-80.25653,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bolognesi Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810892
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"66670d3c6b71b584638a318f84082fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1226206927,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226206927,
+    "wof:lastmodified":1536988860,
+    "wof:name":"Bolognesi Bajo",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25653,
+    -4.68814,
+    -80.25653,
+    -4.68814
+],
+  "geometry": {"coordinates":[-80.25653,-4.68814],"type":"Point"}
+}

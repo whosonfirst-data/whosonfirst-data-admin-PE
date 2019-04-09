@@ -1,0 +1,63 @@
+{
+  "id": 1209438393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.62108,-15.64012,-71.62108,-15.64012",
+    "geom:latitude":-15.64012,
+    "geom:longitude":-71.62108,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40506.0",
+    "gn:asciiname":"Canayaque",
+    "gn:country_code":"PE",
+    "gn:dem":3583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945870,
+    "gn:latitude":-15.64012,
+    "gn:longitude":-71.62108,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Canayaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945870
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"59b45fdfb8787ab214abbdcf6cf2a987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209438393
+        }
+    ],
+    "wof:id":1209438393,
+    "wof:lastmodified":1536287032,
+    "wof:name":"Canayaque",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62108,
+    -15.64012,
+    -71.62108,
+    -15.64012
+],
+  "geometry": {"coordinates":[-71.62108000000001,-15.64012],"type":"Point"}
+}

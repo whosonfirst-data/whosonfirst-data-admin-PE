@@ -1,0 +1,73 @@
+{
+  "id": 1225846183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16085,-14.37936,-73.16085,-14.37936",
+    "geom:latitude":-14.37936,
+    "geom:longitude":-73.16085,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30406.0",
+    "gn:asciiname":"Caraybamba",
+    "gn:country_code":"PE",
+    "gn:dem":3330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945573,
+    "gn:latitude":-14.37936,
+    "gn:longitude":-73.16085,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Caraybamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caraibamba",
+        "Caraybamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421175161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945573
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c3a49f9ec5bfb8bda75f20c63c2476e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175161,
+            "locality_id":1225846183,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1225846183,
+    "wof:lastmodified":1537676850,
+    "wof:name":"Caraybamba",
+    "wof:parent_id":421175161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16085,
+    -14.37936,
+    -73.16085,
+    -14.37936
+],
+  "geometry": {"coordinates":[-73.16085,-14.37936],"type":"Point"}
+}

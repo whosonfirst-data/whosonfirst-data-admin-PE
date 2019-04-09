@@ -1,0 +1,69 @@
+{
+  "id": 1293707759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.60219,-12.74002,-74.60219,-12.74002",
+    "geom:latitude":-12.74002,
+    "geom:longitude":-74.60219,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90208.0",
+    "gn:asciiname":"Llipllina",
+    "gn:country_code":"PE",
+    "gn:dem":4025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661461,
+    "gn:latitude":-12.74002,
+    "gn:longitude":-74.60219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llipllina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661461
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a6abd55e080996492720573393ebed02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1293707759,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293707759,
+    "wof:lastmodified":1536966669,
+    "wof:name":"Llipllina",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.60219000000002,
+    -12.74002,
+    -74.60219000000002,
+    -12.74002
+],
+  "geometry": {"coordinates":[-74.60219000000002,-12.74002],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209077797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.32713,-3.82161,-73.32713,-3.82161",
+    "geom:latitude":-3.82161,
+    "geom:longitude":-73.32713,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160101.0",
+    "gn:asciiname":"Quistococha",
+    "gn:country_code":"PE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9204088,
+    "gn:latitude":-3.82161,
+    "gn:longitude":-73.32713,
+    "gn:modification_date":"2014-07-14",
+    "gn:name":"Quistococha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ceterra de Quisto Cocha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9204088
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3dd16ac72d67ed9aa0102470fc3e791e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209077797
+        }
+    ],
+    "wof:id":1209077797,
+    "wof:lastmodified":1537676922,
+    "wof:name":"Quistococha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.32713000000003,
+    -3.82161,
+    -73.32713000000003,
+    -3.82161
+],
+  "geometry": {"coordinates":[-73.32713000000003,-3.82161],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209989095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08554,-11.86867,-77.08554,-11.86867",
+    "geom:latitude":-11.86867,
+    "geom:longitude":-77.08554,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150125.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"PE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929138,
+    "gn:latitude":-11.86867,
+    "gn:longitude":-77.08554,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:und_x_variant":[
+        "Pueblo Joven Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929138
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f30c2ed243924d5eb1cca7e51ca7ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1209989095,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1209989095,
+    "wof:lastmodified":1537676693,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08554000000002,
+    -11.86867,
+    -77.08554000000002,
+    -11.86867
+],
+  "geometry": {"coordinates":[-77.08554000000002,-11.86867],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343830579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26667,-12.16667,-76.26667,-12.16667",
+    "geom:latitude":-12.16667,
+    "geom:longitude":-76.26667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150726.0",
+    "gn:asciiname":"Sangallaya",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3929670,
+    "gn:latitude":-12.16667,
+    "gn:longitude":-76.26667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sangallaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangallalla",
+        "Sangallaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929670
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"95e9190eee00c9d253cacb691414bfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343830579,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343830579,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343830579,
+    "wof:lastmodified":1537676703,
+    "wof:name":"Sangallaya",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26666999999998,
+    -12.16667,
+    -76.26666999999998,
+    -12.16667
+],
+  "geometry": {"coordinates":[-76.26666999999998,-12.16667],"type":"Point"}
+}

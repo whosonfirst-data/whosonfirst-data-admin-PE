@@ -1,0 +1,81 @@
+{
+  "id": 1225916825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12194,-11.45083,-77.12194,-11.45083",
+    "geom:latitude":-11.45083,
+    "geom:longitude":-77.12194,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"Huayan",
+    "gn:country_code":"PE",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939013,
+    "gn:latitude":-11.45083,
+    "gn:longitude":-77.12194,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huay\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huay\u00e1n Hacienda",
+        "Huay\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939013
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ccad072a2d2920a8adb1cf18068dd0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1225916825,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1225916825,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1225916825,
+    "wof:lastmodified":1537676790,
+    "wof:name":"Huayan",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12194000000002,
+    -11.45083,
+    -77.12194000000002,
+    -11.45083
+],
+  "geometry": {"coordinates":[-77.12194000000002,-11.45083],"type":"Point"}
+}

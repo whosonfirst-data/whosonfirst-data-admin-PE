@@ -1,0 +1,68 @@
+{
+  "id": 1293280741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95297,-9.92559,-76.95297,-9.92559",
+    "geom:latitude":-9.92559,
+    "geom:longitude":-76.95297,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Chiuchimachay",
+    "gn:country_code":"PE",
+    "gn:dem":3730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666160,
+    "gn:latitude":-9.92559,
+    "gn:longitude":-76.95297,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Chiuchimachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666160
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"549299d513910bc423e7834381b4799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1293280741,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293280741,
+    "wof:lastmodified":1537081912,
+    "wof:name":"Chiuchimachay",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95297,
+    -9.92559,
+    -76.95297,
+    -9.92559
+],
+  "geometry": {"coordinates":[-76.95296999999999,-9.92559],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209879911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0685,-2.36192,-73.0685,-2.36192",
+    "geom:latitude":-2.36192,
+    "geom:longitude":-73.0685,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160109.0",
+    "gn:asciiname":"Flor de Agosto",
+    "gn:country_code":"PE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697017,
+    "gn:latitude":-2.36192,
+    "gn:longitude":-73.0685,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Flor de Agosto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697017
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2790a555ee009a4b0d5697b101ed29b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1209879911,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1209879911,
+    "wof:lastmodified":1536395522,
+    "wof:name":"Flor de Agosto",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0685,
+    -2.36192,
+    -73.0685,
+    -2.36192
+],
+  "geometry": {"coordinates":[-73.0685,-2.36192],"type":"Point"}
+}

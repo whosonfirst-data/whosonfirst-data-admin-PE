@@ -1,0 +1,75 @@
+{
+  "id": 1293349523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.25897,-4.57782,-81.25897,-4.57782",
+    "geom:latitude":-4.57782,
+    "geom:longitude":-81.25897,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Villa Aeronautica",
+    "gn:country_code":"PE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747803,
+    "gn:latitude":-4.57782,
+    "gn:longitude":-81.25897,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Villa Aeron\u00e1utica",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Aeron\u00e1utica"
+    ],
+    "name:spa_x_variant":[
+        "Villa Aeronautica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747803
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"69f84fd3030e277f4d39de8525b008bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1293349523,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293349523,
+    "wof:lastmodified":1537676650,
+    "wof:name":"Villa Aeronautica",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.25896999999998,
+    -4.57782,
+    -81.25896999999998,
+    -4.57782
+],
+  "geometry": {"coordinates":[-81.25896999999998,-4.57782],"type":"Point"}
+}

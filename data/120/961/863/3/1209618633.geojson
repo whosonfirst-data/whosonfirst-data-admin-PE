@@ -1,0 +1,63 @@
+{
+  "id": 1209618633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28493,-6.29339,-78.28493,-6.29339",
+    "geom:latitude":-6.29339,
+    "geom:longitude":-78.28493,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10515.0",
+    "gn:asciiname":"Gramalote",
+    "gn:country_code":"PE",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377800,
+    "gn:latitude":-6.29339,
+    "gn:longitude":-78.28493,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gramalote",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377800
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f0b0e394a292be1f75252cb120a6d193",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209618633
+        }
+    ],
+    "wof:id":1209618633,
+    "wof:lastmodified":1536281599,
+    "wof:name":"Gramalote",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28493,
+    -6.2933900000000005,
+    -78.28493,
+    -6.2933900000000005
+],
+  "geometry": {"coordinates":[-78.28493,-6.29339],"type":"Point"}
+}

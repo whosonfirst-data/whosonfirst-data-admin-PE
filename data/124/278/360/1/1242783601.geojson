@@ -1,0 +1,75 @@
+{
+  "id": 1242783601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.30517,-15.41245,-73.30517,-15.41245",
+    "geom:latitude":-15.41245,
+    "geom:longitude":-73.30517,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Ccarpiza",
+    "gn:country_code":"PE",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945041,
+    "gn:latitude":-15.41245,
+    "gn:longitude":-73.30517,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ccarpiza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ccarpiza"
+    ],
+    "name:spa_x_variant":[
+        "Carpisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945041
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c92c65bce957794e7d8569da68cdbe91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1242783601,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1242783601,
+    "wof:lastmodified":1537676845,
+    "wof:name":"Ccarpiza",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.30516999999998,
+    -15.41245,
+    -73.30516999999998,
+    -15.41245
+],
+  "geometry": {"coordinates":[-73.30516999999998,-15.41245],"type":"Point"}
+}

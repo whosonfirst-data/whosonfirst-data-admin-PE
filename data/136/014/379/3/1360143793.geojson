@@ -1,0 +1,73 @@
+{
+  "id": 1360143793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8569,-5.05373,-79.8569,-5.05373",
+    "geom:latitude":-5.05373,
+    "geom:longitude":-79.8569,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200403.0",
+    "gn:asciiname":"Marilcas",
+    "gn:country_code":"PE",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694930,
+    "gn:latitude":-5.05373,
+    "gn:longitude":-79.8569,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Marilcas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marilcas Ciudad",
+        "Marilcas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694930
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4e4b4c265d2cc9b2d1b59631389fe0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1360143793,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1360143793,
+    "wof:lastmodified":1537676585,
+    "wof:name":"Marilcas",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8569,
+    -5.05373,
+    -79.8569,
+    -5.05373
+],
+  "geometry": {"coordinates":[-79.8569,-5.05373],"type":"Point"}
+}

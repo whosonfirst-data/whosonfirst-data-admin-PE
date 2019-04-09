@@ -1,0 +1,69 @@
+{
+  "id": 1344252273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05056,-13.84222,-72.05056,-13.84222",
+    "geom:latitude":-13.84222,
+    "geom:longitude":-72.05056,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81003.0",
+    "gn:asciiname":"Ccullune",
+    "gn:country_code":"PE",
+    "gn:dem":3589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392294,
+    "gn:latitude":-13.84222,
+    "gn:longitude":-72.05056,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ccullune",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392294
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"853455c4cdf9bd2988a22409c59af5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194639,
+            "locality_id":1344252273,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1344252273,
+    "wof:lastmodified":1537092843,
+    "wof:name":"Ccullune",
+    "wof:parent_id":421194639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05056,
+    -13.84222,
+    -72.05056,
+    -13.84222
+],
+  "geometry": {"coordinates":[-72.05056,-13.84222],"type":"Point"}
+}

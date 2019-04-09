@@ -1,0 +1,77 @@
+{
+  "id": 1277048247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76093,-10.81777,-76.76093,-10.81777",
+    "geom:latitude":-10.81777,
+    "geom:longitude":-76.76093,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150906.0",
+    "gn:asciiname":"Mishuay",
+    "gn:country_code":"PE",
+    "gn:dem":3980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962719,
+    "gn:latitude":-10.81777,
+    "gn:longitude":-76.76093,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mishuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962719
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"49cc5416be80fc4bb4a09e4c267da628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1277048247,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1277048247,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277048247,
+    "wof:lastmodified":1536814715,
+    "wof:name":"Mishuay",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76093,
+    -10.81777,
+    -76.76093,
+    -10.81777
+],
+  "geometry": {"coordinates":[-76.76093,-10.81777],"type":"Point"}
+}

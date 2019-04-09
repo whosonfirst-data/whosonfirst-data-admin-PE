@@ -1,0 +1,73 @@
+{
+  "id": 1344078433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.56157,-7.55368,-78.56157,-7.55368",
+    "geom:latitude":-7.55368,
+    "geom:longitude":-78.56157,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60104.0",
+    "gn:asciiname":"Simbron",
+    "gn:country_code":"PE",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691813,
+    "gn:latitude":-7.55368,
+    "gn:longitude":-78.56157,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Simbr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simbron Hacienda",
+        "Simbr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        1108693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691813
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d727aafe4a9854f441c77194f6de2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693887,
+            "locality_id":1344078433,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1344078433,
+    "wof:lastmodified":1537676540,
+    "wof:name":"Simbron",
+    "wof:parent_id":1108693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.56156999999997,
+    -7.55368,
+    -78.56156999999997,
+    -7.55368
+],
+  "geometry": {"coordinates":[-78.56156999999997,-7.55368],"type":"Point"}
+}

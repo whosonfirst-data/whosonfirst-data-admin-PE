@@ -1,0 +1,68 @@
+{
+  "id": 1193252311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45998,-14.02114,-69.45998,-14.02114",
+    "geom:latitude":-14.02114,
+    "geom:longitude":-69.45998,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Ccotani",
+    "gn:country_code":"PE",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11557205,
+    "gn:latitude":-14.02114,
+    "gn:longitude":-69.45998,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Ccotani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11557205
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9f8737f3cd03f8377986a93402530d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1193252311,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1193252311,
+    "wof:lastmodified":1536366825,
+    "wof:name":"Ccotani",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45998,
+    -14.02114,
+    -69.45998,
+    -14.02114
+],
+  "geometry": {"coordinates":[-69.45998,-14.02114],"type":"Point"}
+}

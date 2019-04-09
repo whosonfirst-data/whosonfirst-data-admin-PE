@@ -1,0 +1,77 @@
+{
+  "id": 1277058921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.45,-12.11667,-76.45,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":-76.45,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150711.0",
+    "gn:asciiname":"Sacsacoto",
+    "gn:country_code":"PE",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930094,
+    "gn:latitude":-12.11667,
+    "gn:longitude":-76.45,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sacsacoto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930094
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3210268ddb9d5c1d97b47a348dbf2fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1277058921,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1277058921,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277058921,
+    "wof:lastmodified":1536800995,
+    "wof:name":"Sacsacoto",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.45,
+    -12.11667,
+    -76.45,
+    -12.11667
+],
+  "geometry": {"coordinates":[-76.45,-12.11667],"type":"Point"}
+}

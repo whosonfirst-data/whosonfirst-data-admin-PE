@@ -1,0 +1,62 @@
+{
+  "id": 1209403245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2951,-8.48699,-76.2951,-8.48699",
+    "geom:latitude":-8.48699,
+    "geom:longitude":-76.2951,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Cucaracha",
+    "gn:country_code":"PE",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6394328,
+    "gn:latitude":-8.48699,
+    "gn:longitude":-76.2951,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Cucaracha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394328
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8ebacd558463a244c6f5239694b74181",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209403245
+        }
+    ],
+    "wof:id":1209403245,
+    "wof:lastmodified":1536288077,
+    "wof:name":"Cucaracha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2951,
+    -8.486989999999999,
+    -76.2951,
+    -8.486989999999999
+],
+  "geometry": {"coordinates":[-76.29510000000001,-8.48699],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421173519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27523,-10.76771,-76.27523,-10.76771",
+    "geom:latitude":-10.76771,
+    "geom:longitude":-76.27523,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Fundici\u00f3n de Tinyahuarco"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3927420,
+    "qs:gn_pop":5066,
+    "qs:name":"Tinllahuarco",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Pasco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":289747,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420588,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927420,
+        "gp:id":420588,
+        "qs:id":289747
+    },
+    "wof:country":"PE",
+    "wof:created":1459008985,
+    "wof:geomhash":"90ddfb3c062359cd55fe64eedff41837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":421173519,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":421173519,
+    "wof:lastmodified":1505340617,
+    "wof:name":"Tinllahuarco",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:population":5066,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27523,
+    -10.76771,
+    -76.27523,
+    -10.76771
+],
+  "geometry": {"coordinates":[-76.27522999999999,-10.76771],"type":"Point"}
+}

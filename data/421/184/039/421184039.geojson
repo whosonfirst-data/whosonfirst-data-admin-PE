@@ -1,0 +1,77 @@
+{
+  "id": 421184039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80181,-9.11075,-77.80181,-9.11075",
+    "geom:latitude":-9.11075,
+    "geom:longitude":-77.80181,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3693320,
+    "qs:gn_pop":0,
+    "qs:name":"Pueblo Libre",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ancash",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988333,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419162,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":536,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421170661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693320,
+        "gp:id":419162,
+        "qs:id":988333
+    },
+    "wof:country":"PE",
+    "wof:created":1459009398,
+    "wof:geomhash":"4aafd041727262962fc903a6ad6dd560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170661,
+            "locality_id":421184039,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":421184039,
+    "wof:lastmodified":1527716448,
+    "wof:name":"Pueblo Libre",
+    "wof:parent_id":421170661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80181,
+    -9.11075,
+    -77.80181,
+    -9.11075
+],
+  "geometry": {"coordinates":[-77.80181,-9.11075],"type":"Point"}
+}

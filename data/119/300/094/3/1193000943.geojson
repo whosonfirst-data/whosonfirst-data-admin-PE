@@ -1,0 +1,81 @@
+{
+  "id": 1193000943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.30769,-12.19164,-76.30769,-12.19164",
+    "geom:latitude":-12.19164,
+    "geom:longitude":-76.30769,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150709.0",
+    "gn:asciiname":"Pacomanta",
+    "gn:country_code":"PE",
+    "gn:dem":3865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933647,
+    "gn:latitude":-12.19164,
+    "gn:longitude":-76.30769,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pacomanta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pocomanta",
+        "Pacomanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933647
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"009c791e8668d6ec4764ffeaf4ff7c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1193000943,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1193000943,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1193000943,
+    "wof:lastmodified":1537676740,
+    "wof:name":"Pacomanta",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.30769000000002,
+    -12.19164,
+    -76.30769000000002,
+    -12.19164
+],
+  "geometry": {"coordinates":[-76.30769000000002,-12.19164],"type":"Point"}
+}

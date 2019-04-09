@@ -1,0 +1,72 @@
+{
+  "id": 1259685177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.77174,-13.87234,-72.77174,-13.87234",
+    "geom:latitude":-13.87234,
+    "geom:longitude":-72.77174,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30106.0",
+    "gn:asciiname":"Lanbrama",
+    "gn:country_code":"PE",
+    "gn:dem":3201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936977,
+    "gn:latitude":-13.87234,
+    "gn:longitude":-72.77174,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Lanbrama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lambrama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936977
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"11a8259f00ff3f3fbc394e274c966bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170655,
+            "locality_id":1259685177,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1259685177,
+    "wof:lastmodified":1537676772,
+    "wof:name":"Lanbrama",
+    "wof:parent_id":421170655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.77174000000002,
+    -13.87234,
+    -72.77174000000002,
+    -13.87234
+],
+  "geometry": {"coordinates":[-72.77174000000002,-13.87234],"type":"Point"}
+}

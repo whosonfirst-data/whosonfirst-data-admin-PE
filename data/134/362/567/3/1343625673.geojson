@@ -1,0 +1,69 @@
+{
+  "id": 1343625673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.51747,-17.01062,-69.51747,-17.01062",
+    "geom:latitude":-17.01062,
+    "geom:longitude":-69.51747,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Llocolloconi",
+    "gn:country_code":"PE",
+    "gn:dem":4357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392901,
+    "gn:latitude":-17.01062,
+    "gn:longitude":-69.51747,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Llocolloconi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392901
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0c387c5aa3f9fe8bdb3fd7001492e123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1343625673,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343625673,
+    "wof:lastmodified":1537004605,
+    "wof:name":"Llocolloconi",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.51746999999999,
+    -17.01062,
+    -69.51746999999999,
+    -17.01062
+],
+  "geometry": {"coordinates":[-69.51746999999999,-17.01062],"type":"Point"}
+}

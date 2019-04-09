@@ -1,0 +1,72 @@
+{
+  "id": 1225902615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55622,-7.04027,-76.55622,-7.04027",
+    "geom:latitude":-7.04027,
+    "geom:longitude":-76.55622,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220201.0",
+    "gn:asciiname":"La Cabana",
+    "gn:country_code":"PE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544122,
+    "gn:latitude":-7.04027,
+    "gn:longitude":-76.55622,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"La Caba\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Caba\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544122
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1d9cfa209f944e4cd21b13552391592e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1225902615,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1225902615,
+    "wof:lastmodified":1537676909,
+    "wof:name":"La Cabana",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55622,
+    -7.04027,
+    -76.55622,
+    -7.04027
+],
+  "geometry": {"coordinates":[-76.55622,-7.04027],"type":"Point"}
+}

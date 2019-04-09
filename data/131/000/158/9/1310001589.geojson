@@ -1,0 +1,68 @@
+{
+  "id": 1310001589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.83952,-13.48361,-74.83952,-13.48361",
+    "geom:latitude":-13.48361,
+    "geom:longitude":-74.83952,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Ramada",
+    "gn:country_code":"PE",
+    "gn:dem":4260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8678154,
+    "gn:latitude":-13.48361,
+    "gn:longitude":-74.83952,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Ramada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8678154
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9546dc053346488bb6a1415c7248336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1310001589,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310001589,
+    "wof:lastmodified":1536648657,
+    "wof:name":"Ramada",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.83952,
+    -13.48361,
+    -74.83952,
+    -13.48361
+],
+  "geometry": {"coordinates":[-74.83951999999999,-13.48361],"type":"Point"}
+}

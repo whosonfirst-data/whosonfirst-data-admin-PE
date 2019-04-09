@@ -1,0 +1,69 @@
+{
+  "id": 1276663199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39129,-15.05911,-72.39129,-15.05911",
+    "geom:latitude":-15.05911,
+    "geom:longitude":-72.39129,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40603.0",
+    "gn:asciiname":"Sonco Palca",
+    "gn:country_code":"PE",
+    "gn:dem":4559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953410,
+    "gn:latitude":-15.05911,
+    "gn:longitude":-72.39129,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sonco Palca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953410
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"18db86f384a601e1850dbb991eb3acad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1276663199,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276663199,
+    "wof:lastmodified":1536832669,
+    "wof:name":"Sonco Palca",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39129,
+    -15.05911,
+    -72.39129,
+    -15.05911
+],
+  "geometry": {"coordinates":[-72.39129,-15.05911],"type":"Point"}
+}

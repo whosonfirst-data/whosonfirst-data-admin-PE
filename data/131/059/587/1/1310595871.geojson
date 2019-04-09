@@ -1,0 +1,72 @@
+{
+  "id": 1310595871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69279,-13.34046,-75.69279,-13.34046",
+    "geom:latitude":-13.34046,
+    "geom:longitude":-75.69279,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90410.0",
+    "gn:asciiname":"Ayacuchito",
+    "gn:country_code":"PE",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947020,
+    "gn:latitude":-13.34046,
+    "gn:longitude":-75.69279,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ayacuchito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ayacuchito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947020
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0658ef8dce99de76d5e83a92b291c06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1310595871,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310595871,
+    "wof:lastmodified":1537676862,
+    "wof:name":"Ayacuchito",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69279,
+    -13.34046,
+    -75.69279,
+    -13.34046
+],
+  "geometry": {"coordinates":[-75.69279,-13.34046],"type":"Point"}
+}

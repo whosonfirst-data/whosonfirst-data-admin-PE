@@ -1,0 +1,69 @@
+{
+  "id": 1293509333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6125,-12.83651,-72.6125,-12.83651",
+    "geom:latitude":-12.83651,
+    "geom:longitude":-72.6125,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902.0",
+    "gn:asciiname":"Limonpampa",
+    "gn:country_code":"PE",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6258544,
+    "gn:latitude":-12.83651,
+    "gn:longitude":-72.6125,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Limonpampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6258544
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c8bd5edc315da3693c8b2a05ee6e453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1293509333,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1293509333,
+    "wof:lastmodified":1536755661,
+    "wof:name":"Limonpampa",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6125,
+    -12.83651,
+    -72.6125,
+    -12.83651
+],
+  "geometry": {"coordinates":[-72.6125,-12.83651],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1193106927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18851,-11.52254,-77.18851,-11.52254",
+    "geom:latitude":-11.52254,
+    "geom:longitude":-77.18851,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"Quinchita Baja",
+    "gn:country_code":"PE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873285,
+    "gn:latitude":-11.52254,
+    "gn:longitude":-77.18851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Quinchita Baja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quinchita Baja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873285
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"55118c8c144bb7b718f3122726540574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1193106927,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1193106927,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1193106927,
+    "wof:lastmodified":1537676924,
+    "wof:name":"Quinchita Baja",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18851,
+    -11.52254,
+    -77.18851,
+    -11.52254
+],
+  "geometry": {"coordinates":[-77.18850999999999,-11.52254],"type":"Point"}
+}

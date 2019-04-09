@@ -1,0 +1,75 @@
+{
+  "id": 1259746921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2491,-0.11722,-75.2491,-0.11722",
+    "geom:latitude":-0.11722,
+    "geom:longitude":-75.2491,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160114.0",
+    "gn:asciiname":"Guepi",
+    "gn:country_code":"PE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696791,
+    "gn:latitude":-0.11722,
+    "gn:longitude":-75.2491,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Guepi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boco R\u00edo G\u00fcepi",
+        "Gueipi",
+        "Guepi",
+        "G\u00fcepp\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696791
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9dc89a57ed4fd887ad1755126e8a7498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1259746921,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1259746921,
+    "wof:lastmodified":1537676609,
+    "wof:name":"Guepi",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2491,
+    -0.11722,
+    -75.2491,
+    -0.11722
+],
+  "geometry": {"coordinates":[-75.2491,-0.11722],"type":"Point"}
+}

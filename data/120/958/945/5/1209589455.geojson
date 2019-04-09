@@ -1,0 +1,63 @@
+{
+  "id": 1209589455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19426,-16.4726,-69.19426,-16.4726",
+    "geom:latitude":-16.4726,
+    "geom:longitude":-69.19426,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210407.0",
+    "gn:asciiname":"Ancopoto",
+    "gn:country_code":"PE",
+    "gn:dem":3833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947762,
+    "gn:latitude":-16.4726,
+    "gn:longitude":-69.19426,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ancopoto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947762
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a240858267c6ff2b883999a3fe90a90b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209589455
+        }
+    ],
+    "wof:id":1209589455,
+    "wof:lastmodified":1536282527,
+    "wof:name":"Ancopoto",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19426,
+    -16.4726,
+    -69.19426,
+    -16.4726
+],
+  "geometry": {"coordinates":[-69.19426,-16.4726],"type":"Point"}
+}

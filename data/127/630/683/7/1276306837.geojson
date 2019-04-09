@@ -1,0 +1,69 @@
+{
+  "id": 1276306837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.402,-5.53522,-79.402,-5.53522",
+    "geom:latitude":-5.53522,
+    "geom:longitude":-79.402,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Chitua",
+    "gn:country_code":"PE",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761889,
+    "gn:latitude":-5.53522,
+    "gn:longitude":-79.402,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chitua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761889
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79369c8ee30797c40ee373f1e9167bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1276306837,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276306837,
+    "wof:lastmodified":1536813581,
+    "wof:name":"Chitua",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.402,
+    -5.53522,
+    -79.402,
+    -5.53522
+],
+  "geometry": {"coordinates":[-79.402,-5.53522],"type":"Point"}
+}

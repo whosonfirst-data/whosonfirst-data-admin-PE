@@ -1,0 +1,63 @@
+{
+  "id": 1209588247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75545,-12.34798,-75.75545,-12.34798",
+    "geom:latitude":-12.34798,
+    "geom:longitude":-75.75545,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151018.0",
+    "gn:asciiname":"Pamparca",
+    "gn:country_code":"PE",
+    "gn:dem":4102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933199,
+    "gn:latitude":-12.34798,
+    "gn:longitude":-75.75545,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pamparca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933199
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c431e3ee6ff6d98beb8a90c3c90a3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209588247
+        }
+    ],
+    "wof:id":1209588247,
+    "wof:lastmodified":1536282562,
+    "wof:name":"Pamparca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75545,
+    -12.34798,
+    -75.75545,
+    -12.34798
+],
+  "geometry": {"coordinates":[-75.75545,-12.34798],"type":"Point"}
+}

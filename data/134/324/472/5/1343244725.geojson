@@ -1,0 +1,77 @@
+{
+  "id": 1343244725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70705,-10.9308,-76.70705,-10.9308",
+    "geom:latitude":-10.9308,
+    "geom:longitude":-76.70705,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150809.0",
+    "gn:asciiname":"Putupcagana",
+    "gn:country_code":"PE",
+    "gn:dem":4115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962761,
+    "gn:latitude":-10.9308,
+    "gn:longitude":-76.70705,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Putupcagana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962761
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e3db42f8e1360031adf094d358b0da56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343244725,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343244725,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343244725,
+    "wof:lastmodified":1537055306,
+    "wof:name":"Putupcagana",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70705,
+    -10.9308,
+    -76.70705,
+    -10.9308
+],
+  "geometry": {"coordinates":[-76.70705,-10.9308],"type":"Point"}
+}

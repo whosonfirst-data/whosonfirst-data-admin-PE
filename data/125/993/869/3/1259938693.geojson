@@ -1,0 +1,71 @@
+{
+  "id": 1259938693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04284,-13.95981,-69.04284,-13.95981",
+    "geom:latitude":-13.95981,
+    "geom:longitude":-69.04284,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Monte Sinai",
+    "gn:country_code":"PE",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528702,
+    "gn:latitude":-13.95981,
+    "gn:longitude":-69.04284,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Monte Sinai",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Sinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528702
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a5db7372a81973a4812e5674dbc1f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1259938693,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259938693,
+    "wof:lastmodified":1537676996,
+    "wof:name":"Monte Sinai",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04284,
+    -13.95981,
+    -69.04284,
+    -13.95981
+],
+  "geometry": {"coordinates":[-69.04284,-13.95981],"type":"Point"}
+}

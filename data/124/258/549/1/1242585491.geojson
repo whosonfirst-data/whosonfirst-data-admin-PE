@@ -1,0 +1,74 @@
+{
+  "id": 1242585491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14641,-8.67569,-78.14641,-8.67569",
+    "geom:latitude":-8.67569,
+    "geom:longitude":-78.14641,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21804.0",
+    "gn:asciiname":"Taquilpon",
+    "gn:country_code":"PE",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691479,
+    "gn:latitude":-8.67569,
+    "gn:longitude":-78.14641,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Taquilp\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Taquilp\u00f3n",
+        "Taquilp\u00f3n Hacienda",
+        "Taquilp\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691479
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4e416d9c71434d65ce954a660c223323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1242585491,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242585491,
+    "wof:lastmodified":1537676535,
+    "wof:name":"Taquilpon",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14641,
+    -8.67569,
+    -78.14641,
+    -8.67569
+],
+  "geometry": {"coordinates":[-78.14641,-8.67569],"type":"Point"}
+}

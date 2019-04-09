@@ -1,0 +1,72 @@
+{
+  "id": 1326936091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.42544,-16.40109,-71.42544,-16.40109",
+    "geom:latitude":-16.40109,
+    "geom:longitude":-71.42544,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40106.0",
+    "gn:asciiname":"Agua Salada",
+    "gn:country_code":"PE",
+    "gn:dem":2837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076417,
+    "gn:latitude":-16.40109,
+    "gn:longitude":-71.42544,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agua Salada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua Salada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076417
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"843860d20fc4992ec93b05dde079d5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1326936091,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1326936091,
+    "wof:lastmodified":1537676967,
+    "wof:name":"Agua Salada",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.42544000000002,
+    -16.40109,
+    -71.42544000000002,
+    -16.40109
+],
+  "geometry": {"coordinates":[-71.42544000000002,-16.40109],"type":"Point"}
+}

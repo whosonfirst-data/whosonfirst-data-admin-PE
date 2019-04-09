@@ -1,0 +1,69 @@
+{
+  "id": 1226824217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34195,-10.455,-76.34195,-10.455",
+    "geom:latitude":-10.455,
+    "geom:longitude":-76.34195,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190206.0",
+    "gn:asciiname":"Olleros",
+    "gn:country_code":"PE",
+    "gn:dem":3806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963530,
+    "gn:latitude":-10.455,
+    "gn:longitude":-76.34195,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Olleros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963530
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9fa78977b17587396be19a24f42daf79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1226824217,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1226824217,
+    "wof:lastmodified":1537096135,
+    "wof:name":"Olleros",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34195,
+    -10.455,
+    -76.34195,
+    -10.455
+],
+  "geometry": {"coordinates":[-76.34195,-10.455],"type":"Point"}
+}

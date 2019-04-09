@@ -1,0 +1,63 @@
+{
+  "id": 1209078861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66611,-12.11667,-75.66611,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":-75.66611,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151030.0",
+    "gn:asciiname":"Quimsacancha",
+    "gn:country_code":"PE",
+    "gn:dem":4523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304164,
+    "gn:latitude":-12.11667,
+    "gn:longitude":-75.66611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quimsacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304164
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b4f553fa9de91e8034d0e1ea401a3019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209078861
+        }
+    ],
+    "wof:id":1209078861,
+    "wof:lastmodified":1536298405,
+    "wof:name":"Quimsacancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66611,
+    -12.11667,
+    -75.66611,
+    -12.11667
+],
+  "geometry": {"coordinates":[-75.66611,-12.11667],"type":"Point"}
+}

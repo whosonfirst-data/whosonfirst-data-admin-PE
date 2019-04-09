@@ -1,0 +1,72 @@
+{
+  "id": 1242765433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69356,-14.08469,-75.69356,-14.08469",
+    "geom:latitude":-14.08469,
+    "geom:longitude":-75.69356,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:asciiname":"La Jirao",
+    "gn:country_code":"PE",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003717,
+    "gn:latitude":-14.08469,
+    "gn:longitude":-75.69356,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Jirao",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Jirao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003717
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c4797228fb65eace30bfc7478af3e8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1242765433,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242765433,
+    "wof:lastmodified":1537676954,
+    "wof:name":"La Jirao",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69355999999998,
+    -14.08469,
+    -75.69355999999998,
+    -14.08469
+],
+  "geometry": {"coordinates":[-75.69355999999998,-14.08469],"type":"Point"}
+}

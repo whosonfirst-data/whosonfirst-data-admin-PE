@@ -1,0 +1,71 @@
+{
+  "id": 1276618111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.54218,-13.9866,-69.54218,-13.9866",
+    "geom:latitude":-13.9866,
+    "geom:longitude":-69.54218,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Aporoma Visaga",
+    "gn:country_code":"PE",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558995,
+    "gn:latitude":-13.9866,
+    "gn:longitude":-69.54218,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Aporoma Visaga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aporoma Visaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558995
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c7d41928926eb9db1c7a8507b12e92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1276618111,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276618111,
+    "wof:lastmodified":1537677012,
+    "wof:name":"Aporoma Visaga",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.54218,
+    -13.9866,
+    -69.54218,
+    -13.9866
+],
+  "geometry": {"coordinates":[-69.54218,-13.9866],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 421180503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43806,-11.89056,-76.43806,-11.89056",
+    "geom:latitude":-11.89056,
+    "geom:longitude":-76.43806,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3966917,
+    "qs:gn_pop":0,
+    "qs:name":"Surco",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":433567,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419313,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966917,
+        "gp:id":419313,
+        "qs:id":433567
+    },
+    "wof:country":"PE",
+    "wof:created":1459009261,
+    "wof:geomhash":"06e5371495e389798689a6be6cce945b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421180503,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421180503,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421180503,
+    "wof:lastmodified":1500024364,
+    "wof:name":"Surco",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43806,
+    -11.89056,
+    -76.43806,
+    -11.89056
+],
+  "geometry": {"coordinates":[-76.43805999999999,-11.89056],"type":"Point"}
+}

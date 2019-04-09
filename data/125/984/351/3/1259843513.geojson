@@ -1,0 +1,68 @@
+{
+  "id": 1259843513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.83845,-15.98281,-70.83845,-15.98281",
+    "geom:latitude":-15.98281,
+    "geom:longitude":-70.83845,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Coline",
+    "gn:country_code":"PE",
+    "gn:dem":4740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942789,
+    "gn:latitude":-15.98281,
+    "gn:longitude":-70.83845,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Coline",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942789
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8ec103fdb85ab8dceb6f18b06662f4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1259843513,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259843513,
+    "wof:lastmodified":1536835810,
+    "wof:name":"Coline",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.83845,
+    -15.98281,
+    -70.83845,
+    -15.98281
+],
+  "geometry": {"coordinates":[-70.83844999999999,-15.98281],"type":"Point"}
+}

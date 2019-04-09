@@ -1,0 +1,68 @@
+{
+  "id": 1343231863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.14001,-10.38921,-77.14001,-10.38921",
+    "geom:latitude":-10.38921,
+    "geom:longitude":-77.14001,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Pampa Cocha",
+    "gn:country_code":"PE",
+    "gn:dem":2884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664874,
+    "gn:latitude":-10.38921,
+    "gn:longitude":-77.14001,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Pampa Cocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664874
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4fcf1d117dea65144c3b0b89657c6858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1343231863,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1343231863,
+    "wof:lastmodified":1537073266,
+    "wof:name":"Pampa Cocha",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.14001,
+    -10.38921,
+    -77.14001,
+    -10.38921
+],
+  "geometry": {"coordinates":[-77.14001,-10.38921],"type":"Point"}
+}

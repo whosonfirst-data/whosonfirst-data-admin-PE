@@ -1,0 +1,73 @@
+{
+  "id": 1293548467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.59827,-5.12619,-79.59827,-5.12619",
+    "geom:latitude":-5.12619,
+    "geom:longitude":-79.59827,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200301.0",
+    "gn:asciiname":"Payaca",
+    "gn:country_code":"PE",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693788,
+    "gn:latitude":-5.12619,
+    "gn:longitude":-79.59827,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Payaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Payaca Hacienda",
+        "Payaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693788
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"faa29a689c0ba9975693a79c8b85c987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1293548467,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293548467,
+    "wof:lastmodified":1537676571,
+    "wof:name":"Payaca",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.59827,
+    -5.12619,
+    -79.59827,
+    -5.12619
+],
+  "geometry": {"coordinates":[-79.59827,-5.12619],"type":"Point"}
+}

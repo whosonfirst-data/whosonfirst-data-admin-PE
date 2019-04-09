@@ -1,0 +1,63 @@
+{
+  "id": 1209521213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86531,-14.86889,-71.86531,-14.86889",
+    "geom:latitude":-14.86889,
+    "geom:longitude":-71.86531,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40505.0",
+    "gn:asciiname":"Illuta",
+    "gn:country_code":"PE",
+    "gn:dem":4628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957190,
+    "gn:latitude":-14.86889,
+    "gn:longitude":-71.86531,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Illuta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957190
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9d74fbe17e869b45e28b277c59f6588a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209521213
+        }
+    ],
+    "wof:id":1209521213,
+    "wof:lastmodified":1536284573,
+    "wof:name":"Illuta",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86531,
+    -14.86889,
+    -71.86531,
+    -14.86889
+],
+  "geometry": {"coordinates":[-71.86530999999999,-14.86889],"type":"Point"}
+}

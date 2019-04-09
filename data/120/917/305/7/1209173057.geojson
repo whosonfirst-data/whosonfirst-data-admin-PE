@@ -1,0 +1,63 @@
+{
+  "id": 1209173057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.63984,-4.92091,-80.63984,-4.92091",
+    "geom:latitude":-4.92091,
+    "geom:longitude":-80.63984,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200601.0",
+    "gn:asciiname":"San Juan de los Ranchos",
+    "gn:country_code":"PE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3817159,
+    "gn:latitude":-4.92091,
+    "gn:longitude":-80.63984,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Juan de los Ranchos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817159
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"25c6a282e4cb03e0d0cbe6f2e0a4fe19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209173057
+        }
+    ],
+    "wof:id":1209173057,
+    "wof:lastmodified":1536295516,
+    "wof:name":"San Juan de los Ranchos",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.63984,
+    -4.92091,
+    -80.63984,
+    -4.92091
+],
+  "geometry": {"coordinates":[-80.63984000000001,-4.92091],"type":"Point"}
+}

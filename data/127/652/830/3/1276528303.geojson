@@ -1,0 +1,74 @@
+{
+  "id": 1276528303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05,-13.46667,-76.05,-13.46667",
+    "geom:latitude":-13.46667,
+    "geom:longitude":-76.05,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110202.0",
+    "gn:asciiname":"Casa Grande",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945325,
+    "gn:latitude":-13.46667,
+    "gn:longitude":-76.05,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Casa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa Grande Hacienda",
+        "Casa Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945325
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e49d57c264f94d720e930dd737949d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1276528303,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276528303,
+    "wof:lastmodified":1537676848,
+    "wof:name":"Casa Grande",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05,
+    -13.46667,
+    -76.05,
+    -13.46667
+],
+  "geometry": {"coordinates":[-76.05,-13.46667],"type":"Point"}
+}

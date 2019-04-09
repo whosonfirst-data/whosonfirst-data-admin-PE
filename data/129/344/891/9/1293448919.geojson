@@ -1,0 +1,73 @@
+{
+  "id": 1293448919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55996,-4.68788,-79.55996,-4.68788",
+    "geom:latitude":-4.68788,
+    "geom:longitude":-79.55996,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Tipulco",
+    "gn:country_code":"PE",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691335,
+    "gn:latitude":-4.68788,
+    "gn:longitude":-79.55996,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tipulco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tipulca",
+        "Tipulco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691335
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"43cacb92b04f7a82208742f3369f55cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1293448919,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293448919,
+    "wof:lastmodified":1537676533,
+    "wof:name":"Tipulco",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55996,
+    -4.68788,
+    -79.55996,
+    -4.68788
+],
+  "geometry": {"coordinates":[-79.55996,-4.68788],"type":"Point"}
+}

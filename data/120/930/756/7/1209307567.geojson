@@ -1,0 +1,70 @@
+{
+  "id": 1209307567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94942,-15.136,-73.94942,-15.136",
+    "geom:latitude":-15.136,
+    "geom:longitude":-73.94942,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Lampalla",
+    "gn:country_code":"PE",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936983,
+    "gn:latitude":-15.136,
+    "gn:longitude":-73.94942,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Lampalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lapalla",
+        "Lampallas",
+        "Lampalla",
+        "Lampaya Hacienda",
+        "Lampaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936983
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3518aaed5d78b0a80add196933bcc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307567
+        }
+    ],
+    "wof:id":1209307567,
+    "wof:lastmodified":1537676773,
+    "wof:name":"Lampalla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94941999999998,
+    -15.136,
+    -73.94941999999998,
+    -15.136
+],
+  "geometry": {"coordinates":[-73.94941999999998,-15.136],"type":"Point"}
+}

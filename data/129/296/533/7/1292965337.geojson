@@ -1,0 +1,74 @@
+{
+  "id": 1292965337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88333,-6.11667,-80.88333,-6.11667",
+    "geom:latitude":-6.11667,
+    "geom:longitude":-80.88333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:admin3_code":"200801.0",
+    "gn:asciiname":"Salina Cerro",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692737,
+    "gn:latitude":-6.11667,
+    "gn:longitude":-80.88333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Salina Cerro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salinas Cerro",
+        "Salina Cerro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421170341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692737
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4493d9dd99f5c08c810076f7fc9b2198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170341,
+            "locality_id":1292965337,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1292965337,
+    "wof:lastmodified":1537676556,
+    "wof:name":"Salina Cerro",
+    "wof:parent_id":421170341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88333,
+    -6.11667,
+    -80.88333,
+    -6.11667
+],
+  "geometry": {"coordinates":[-80.88333,-6.11667],"type":"Point"}
+}

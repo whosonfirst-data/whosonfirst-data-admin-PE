@@ -1,0 +1,69 @@
+{
+  "id": 1344258149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58984,-13.9944,-73.58984,-13.9944",
+    "geom:latitude":-13.9944,
+    "geom:longitude":-73.58984,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30214.0",
+    "gn:asciiname":"Huaillapucro",
+    "gn:country_code":"PE",
+    "gn:dem":3827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6375059,
+    "gn:latitude":-13.9944,
+    "gn:longitude":-73.58984,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huaillapucro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6375059
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f598bf3af096bf12dc48914afbcc90e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1344258149,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1344258149,
+    "wof:lastmodified":1537084351,
+    "wof:name":"Huaillapucro",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58984,
+    -13.9944,
+    -73.58984,
+    -13.9944
+],
+  "geometry": {"coordinates":[-73.58984,-13.9944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327099435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52892,-10.33096,-76.52892,-10.33096",
+    "geom:latitude":-10.33096,
+    "geom:longitude":-76.52892,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Ayra",
+    "gn:country_code":"PE",
+    "gn:dem":4149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946954,
+    "gn:latitude":-10.33096,
+    "gn:longitude":-76.52892,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Ayra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946954
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"367802afb83b0a801a52cc9b6287fa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1327099435,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327099435,
+    "wof:lastmodified":1536663881,
+    "wof:name":"Ayra",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52892,
+    -10.33096,
+    -76.52892,
+    -10.33096
+],
+  "geometry": {"coordinates":[-76.52892,-10.33096],"type":"Point"}
+}

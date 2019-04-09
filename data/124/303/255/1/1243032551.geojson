@@ -1,0 +1,69 @@
+{
+  "id": 1243032551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54287,-4.9879,-79.54287,-4.9879",
+    "geom:latitude":-4.9879,
+    "geom:longitude":-79.54287,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"Hualanga",
+    "gn:country_code":"PE",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660926,
+    "gn:latitude":-4.9879,
+    "gn:longitude":-79.54287,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hualanga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660926
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5aa5be341b265cc37f05ed2772755730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1243032551,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243032551,
+    "wof:lastmodified":1536905485,
+    "wof:name":"Hualanga",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54287,
+    -4.9879,
+    -79.54287,
+    -4.9879
+],
+  "geometry": {"coordinates":[-79.54286999999999,-4.9879],"type":"Point"}
+}

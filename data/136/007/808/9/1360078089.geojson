@@ -1,0 +1,73 @@
+{
+  "id": 1360078089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.98268,-15.25087,-73.98268,-15.25087",
+    "geom:latitude":-15.25087,
+    "geom:longitude":-73.98268,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Vilcallama",
+    "gn:country_code":"PE",
+    "gn:dem":3005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926235,
+    "gn:latitude":-15.25087,
+    "gn:longitude":-73.98268,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Vilcallama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villcallama",
+        "Vicallama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926235
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b9e0a0bcfcdc4ccea380f1e030e412d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1360078089,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1360078089,
+    "wof:lastmodified":1537676668,
+    "wof:name":"Vilcallama",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98268,
+    -15.25087,
+    -73.98268,
+    -15.25087
+],
+  "geometry": {"coordinates":[-73.98268,-15.25087],"type":"Point"}
+}

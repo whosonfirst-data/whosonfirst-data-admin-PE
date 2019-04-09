@@ -1,0 +1,73 @@
+{
+  "id": 1327023497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2509,-10.15954,-76.2509,-10.15954",
+    "geom:latitude":-10.15954,
+    "geom:longitude":-76.2509,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100205.0",
+    "gn:asciiname":"Derepente",
+    "gn:country_code":"PE",
+    "gn:dem":2281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962452,
+    "gn:latitude":-10.15954,
+    "gn:longitude":-76.2509,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Derepente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Derepente",
+        "Derepente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962452
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5aa7190bf46d145c772afea9f106b56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1327023497,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327023497,
+    "wof:lastmodified":1537676884,
+    "wof:name":"Derepente",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2509,
+    -10.15954,
+    -76.2509,
+    -10.15954
+],
+  "geometry": {"coordinates":[-76.2509,-10.15954],"type":"Point"}
+}

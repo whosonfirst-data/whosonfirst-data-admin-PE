@@ -1,0 +1,71 @@
+{
+  "id": 890435251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28143,-11.94859,-75.28143,-11.94859",
+    "geom:latitude":-11.94859,
+    "geom:longitude":-75.28143,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":8772,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "San Jer\u00f3nimo de Tun\u00e1n"
+    ],
+    "qs:name":"San Jer\u00f3nimo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929611,
+        "gp:id":419188,
+        "qs:id":150989,
+        "wk:page":"San Jer\u00f3nimo"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052060,
+    "wof:geomhash":"142967bddc6a4b7e83607fc6e86f9f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":890435251,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":890435251,
+    "wof:lastmodified":1527793047,
+    "wof:name":"San Jer\u00f3nimo",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:population":8772,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28143,
+    -11.94859,
+    -75.28143,
+    -11.94859
+],
+  "geometry": {"coordinates":[-75.28143,-11.94859],"type":"Point"}
+}

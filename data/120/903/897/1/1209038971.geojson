@@ -1,0 +1,63 @@
+{
+  "id": 1209038971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.26267,-15.49407,-71.26267,-15.49407",
+    "geom:latitude":-15.49407,
+    "geom:longitude":-71.26267,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Ataucusi",
+    "gn:country_code":"PE",
+    "gn:dem":4470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947160,
+    "gn:latitude":-15.49407,
+    "gn:longitude":-71.26267,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ataucusi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947160
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6d679038769309de33a1b57c1ac01a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209038971
+        }
+    ],
+    "wof:id":1209038971,
+    "wof:lastmodified":1536299606,
+    "wof:name":"Ataucusi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.26267,
+    -15.49407,
+    -71.26267,
+    -15.49407
+],
+  "geometry": {"coordinates":[-71.26267,-15.49407],"type":"Point"}
+}

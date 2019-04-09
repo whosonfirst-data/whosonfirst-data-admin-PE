@@ -1,0 +1,63 @@
+{
+  "id": 1209188123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4446,-16.82934,-69.4446,-16.82934",
+    "geom:latitude":-16.82934,
+    "geom:longitude":-69.4446,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Sallacamana",
+    "gn:country_code":"PE",
+    "gn:dem":4133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310059,
+    "gn:latitude":-16.82934,
+    "gn:longitude":-69.4446,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sallacama\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310059
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"780b24f3a924a21594f5418d95123b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209188123
+        }
+    ],
+    "wof:id":1209188123,
+    "wof:lastmodified":1536295029,
+    "wof:name":"Sallacamana",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4446,
+    -16.82934,
+    -69.4446,
+    -16.82934
+],
+  "geometry": {"coordinates":[-69.44459999999999,-16.82934],"type":"Point"}
+}

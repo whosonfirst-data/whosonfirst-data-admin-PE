@@ -1,0 +1,69 @@
+{
+  "id": 1276312499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.55304,-11.76227,-75.55304,-11.76227",
+    "geom:latitude":-11.76227,
+    "geom:longitude":-75.55304,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120415.0",
+    "gn:asciiname":"Coricancha",
+    "gn:country_code":"PE",
+    "gn:dem":3465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671226,
+    "gn:latitude":-11.76227,
+    "gn:longitude":-75.55304,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Coricancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671226
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0b83f9256dee419fd687bac76efb11fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1276312499,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276312499,
+    "wof:lastmodified":1536806422,
+    "wof:name":"Coricancha",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55304,
+    -11.76227,
+    -75.55304,
+    -11.76227
+],
+  "geometry": {"coordinates":[-75.55304,-11.76227],"type":"Point"}
+}

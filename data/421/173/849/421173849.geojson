@@ -1,0 +1,95 @@
+{
+  "id": 421173849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,-4.45,-80.23333,-4.45",
+    "geom:latitude":-4.45,
+    "geom:longitude":-80.23333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:por_x_preferred":[
+        "Zorritos"
+    ],
+    "name:que_x_preferred":[
+        "Zorritos"
+    ],
+    "name:spa_x_preferred":[
+        "Zorritos"
+    ],
+    "name:war_x_preferred":[
+        "Zorritos"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u91cc\u6258\u65af"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3690607,
+    "qs:gn_pop":0,
+    "qs:name":"Zorritos",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Tumbes",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":300835,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418611,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-3.672667,
+    "wd:longitude":-80.653556,
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690607,
+        "gp:id":418611,
+        "qs:id":300835,
+        "wd:id":"Q3317432"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009008,
+    "wof:geomhash":"022e2cca52097e344ae10809aa7b95ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":421173849,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421173849,
+    "wof:lastmodified":1527716259,
+    "wof:name":"Zorritos",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333,
+    -4.45,
+    -80.23333,
+    -4.45
+],
+  "geometry": {"coordinates":[-80.23333,-4.45],"type":"Point"}
+}

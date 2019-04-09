@@ -1,0 +1,69 @@
+{
+  "id": 1276222333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92194,-14.55441,-71.92194,-14.55441",
+    "geom:latitude":-14.55441,
+    "geom:longitude":-71.92194,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80708.0",
+    "gn:asciiname":"Hacienda Pilluni",
+    "gn:country_code":"PE",
+    "gn:dem":3800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956449,
+    "gn:latitude":-14.55441,
+    "gn:longitude":-71.92194,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hacienda Pilluni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956449
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"83bf609b2d040ecd81832d3e323dd7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1276222333,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1276222333,
+    "wof:lastmodified":1536928358,
+    "wof:name":"Hacienda Pilluni",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92194,
+    -14.55441,
+    -71.92194,
+    -14.55441
+],
+  "geometry": {"coordinates":[-71.92194000000001,-14.55441],"type":"Point"}
+}

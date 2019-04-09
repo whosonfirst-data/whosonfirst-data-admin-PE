@@ -1,0 +1,72 @@
+{
+  "id": 1343829025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45765,-7.14788,-79.45765,-7.14788",
+    "geom:latitude":-7.14788,
+    "geom:longitude":-79.45765,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130402.0",
+    "gn:asciiname":"Nuevo Mundo",
+    "gn:country_code":"PE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007274,
+    "gn:latitude":-7.14788,
+    "gn:longitude":-79.45765,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuevo Mundo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421184599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007274
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f66a07ae1cce0d90a0e9e1a0839adad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184599,
+            "locality_id":1343829025,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1343829025,
+    "wof:lastmodified":1537676955,
+    "wof:name":"Nuevo Mundo",
+    "wof:parent_id":421184599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45765,
+    -7.14788,
+    -79.45765,
+    -7.14788
+],
+  "geometry": {"coordinates":[-79.45765,-7.14788],"type":"Point"}
+}

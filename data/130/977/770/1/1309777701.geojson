@@ -1,0 +1,69 @@
+{
+  "id": 1309777701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.10465,-4.0052,-71.10465,-4.0052",
+    "geom:latitude":-4.0052,
+    "geom:longitude":-71.10465,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160404.0",
+    "gn:asciiname":"Emilia Barcia Bonifati",
+    "gn:country_code":"PE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827880,
+    "gn:latitude":-4.0052,
+    "gn:longitude":-71.10465,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Emilia Barcia Bonifati",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827880
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"12c9e124992568892bf3b0536662e02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175219,
+            "locality_id":1309777701,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1309777701,
+    "wof:lastmodified":1536971325,
+    "wof:name":"Emilia Barcia Bonifati",
+    "wof:parent_id":421175219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.10465,
+    -4.0052,
+    -71.10465,
+    -4.0052
+],
+  "geometry": {"coordinates":[-71.10465000000001,-4.0052],"type":"Point"}
+}

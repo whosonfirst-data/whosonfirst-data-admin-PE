@@ -1,0 +1,74 @@
+{
+  "id": 1344134191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12194,-14.50417,-75.12194,-14.50417",
+    "geom:latitude":-14.50417,
+    "geom:longitude":-75.12194,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110401.0",
+    "gn:asciiname":"Hacienda La Capilla",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957494,
+    "gn:latitude":-14.50417,
+    "gn:longitude":-75.12194,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hacienda La Capilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Capilla",
+        "Hacienda La Capilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957494
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b0f61a0c43b8a72a2fec9d7b99dfea3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1344134191,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1344134191,
+    "wof:lastmodified":1537676877,
+    "wof:name":"Hacienda La Capilla",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12194000000002,
+    -14.50417,
+    -75.12194000000002,
+    -14.50417
+],
+  "geometry": {"coordinates":[-75.12194000000002,-14.50417],"type":"Point"}
+}

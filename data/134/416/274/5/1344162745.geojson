@@ -1,0 +1,69 @@
+{
+  "id": 1344162745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2325,-15.35611,-73.2325,-15.35611",
+    "geom:latitude":-15.35611,
+    "geom:longitude":-73.2325,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40809.0",
+    "gn:asciiname":"Tauria",
+    "gn:country_code":"PE",
+    "gn:dem":2886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3927683,
+    "gn:latitude":-15.35611,
+    "gn:longitude":-73.2325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tauria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927683
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a11c65820c74df9fae9c188da140b0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1344162745,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1344162745,
+    "wof:lastmodified":1536728336,
+    "wof:name":"Tauria",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2325,
+    -15.35611,
+    -73.2325,
+    -15.35611
+],
+  "geometry": {"coordinates":[-73.2325,-15.35611],"type":"Point"}
+}

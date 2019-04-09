@@ -1,0 +1,68 @@
+{
+  "id": 1293659783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26965,-5.99847,-79.26965,-5.99847",
+    "geom:latitude":-5.99847,
+    "geom:longitude":-79.26965,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Caluiache",
+    "gn:country_code":"PE",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762196,
+    "gn:latitude":-5.99847,
+    "gn:longitude":-79.26965,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Caluiache",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762196
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"805db8c5374a7f1fae6eb3adf30b5d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1293659783,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1293659783,
+    "wof:lastmodified":1537034465,
+    "wof:name":"Caluiache",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26965,
+    -5.99847,
+    -79.26965,
+    -5.99847
+],
+  "geometry": {"coordinates":[-79.26965,-5.99847],"type":"Point"}
+}

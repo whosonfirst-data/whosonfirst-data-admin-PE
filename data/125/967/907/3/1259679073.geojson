@@ -1,0 +1,69 @@
+{
+  "id": 1259679073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6184,-14.6945,-71.6184,-14.6945",
+    "geom:latitude":-14.6945,
+    "geom:longitude":-71.6184,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Palcuyo",
+    "gn:country_code":"PE",
+    "gn:dem":4013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956902,
+    "gn:latitude":-14.6945,
+    "gn:longitude":-71.6184,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Palcuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956902
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ade2d1bf8ac33cfa06b531133d1b3913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1259679073,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259679073,
+    "wof:lastmodified":1537070361,
+    "wof:name":"Palcuyo",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6184,
+    -14.6945,
+    -71.6184,
+    -14.6945
+],
+  "geometry": {"coordinates":[-71.61839999999999,-14.6945],"type":"Point"}
+}

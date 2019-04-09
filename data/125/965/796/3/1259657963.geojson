@@ -1,0 +1,72 @@
+{
+  "id": 1259657963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63595,-4.43592,-79.63595,-4.43592",
+    "geom:latitude":-4.43592,
+    "geom:longitude":-79.63595,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Samanamaca",
+    "gn:country_code":"PE",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692687,
+    "gn:latitude":-4.43592,
+    "gn:longitude":-79.63595,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Samanamaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samanamaca Hacienda",
+        "Samanamaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692687
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2031b286a2d663f1101144f9b059df74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568239,
+            "locality_id":1259657963,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1259657963,
+    "wof:lastmodified":1537676555,
+    "wof:name":"Samanamaca",
+    "wof:parent_id":1108568239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63595,
+    -4.43592,
+    -79.63595,
+    -4.43592
+],
+  "geometry": {"coordinates":[-79.63594999999999,-4.43592],"type":"Point"}
+}

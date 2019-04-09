@@ -1,0 +1,63 @@
+{
+  "id": 1209074433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.46654,-3.80058,-80.46654,-3.80058",
+    "geom:latitude":-3.80058,
+    "geom:longitude":-80.46654,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240105.0",
+    "gn:asciiname":"Loyola",
+    "gn:country_code":"PE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695141,
+    "gn:latitude":-3.80058,
+    "gn:longitude":-80.46654,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Loyola",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695141
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5db92a99b9ae40a69206d24d90e3c699",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209074433
+        }
+    ],
+    "wof:id":1209074433,
+    "wof:lastmodified":1536298541,
+    "wof:name":"Loyola",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.46654000000002,
+    -3.80058,
+    -80.46654000000002,
+    -3.80058
+],
+  "geometry": {"coordinates":[-80.46654000000002,-3.80058],"type":"Point"}
+}

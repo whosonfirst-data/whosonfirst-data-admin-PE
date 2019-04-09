@@ -1,0 +1,63 @@
+{
+  "id": 1209315763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.09667,-13.89917,-73.09667,-13.89917",
+    "geom:latitude":-13.89917,
+    "geom:longitude":-73.09667,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30415.0",
+    "gn:asciiname":"Huancarama",
+    "gn:country_code":"PE",
+    "gn:dem":2934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309267,
+    "gn:latitude":-13.89917,
+    "gn:longitude":-73.09667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huancarama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309267
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c19a89efb47aebae6f40f5ae9b9427a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209315763
+        }
+    ],
+    "wof:id":1209315763,
+    "wof:lastmodified":1536290871,
+    "wof:name":"Huancarama",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.09666999999997,
+    -13.899170000000002,
+    -73.09666999999997,
+    -13.899170000000002
+],
+  "geometry": {"coordinates":[-73.09666999999997,-13.89917],"type":"Point"}
+}

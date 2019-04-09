@@ -1,0 +1,73 @@
+{
+  "id": 1276532119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24816,-13.79523,-75.24816,-13.79523",
+    "geom:latitude":-13.79523,
+    "geom:longitude":-75.24816,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90611.0",
+    "gn:asciiname":"San Francisco de Sangayaico",
+    "gn:country_code":"PE",
+    "gn:dem":3375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929675,
+    "gn:latitude":-13.79523,
+    "gn:longitude":-75.24816,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Francisco de Sangayaico",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco de Sangaltayco",
+        "San Francisco de Sangayaico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929675
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3134fb1da821b2cc7d8e4474373a3e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1276532119,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1276532119,
+    "wof:lastmodified":1537676703,
+    "wof:name":"San Francisco de Sangayaico",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24816,
+    -13.79523,
+    -75.24816,
+    -13.79523
+],
+  "geometry": {"coordinates":[-75.24816,-13.79523],"type":"Point"}
+}

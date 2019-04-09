@@ -1,0 +1,69 @@
+{
+  "id": 1259987523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9646,-9.11566,-76.9646,-9.11566",
+    "geom:latitude":-9.11566,
+    "geom:longitude":-76.9646,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20304.0",
+    "gn:asciiname":"Agupuquio",
+    "gn:country_code":"PE",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675703,
+    "gn:latitude":-9.11566,
+    "gn:longitude":-76.9646,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Agupuquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675703
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46e0ed7392a73cdf73f0f6dcc5d8c7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694017,
+            "locality_id":1259987523,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1259987523,
+    "wof:lastmodified":1536627498,
+    "wof:name":"Agupuquio",
+    "wof:parent_id":1108694017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9646,
+    -9.11566,
+    -76.9646,
+    -9.11566
+],
+  "geometry": {"coordinates":[-76.9646,-9.11566],"type":"Point"}
+}

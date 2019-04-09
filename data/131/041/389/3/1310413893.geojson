@@ -1,0 +1,69 @@
+{
+  "id": 1310413893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61278,-9.46389,-77.61278,-9.46389",
+    "geom:latitude":-9.46389,
+    "geom:longitude":-77.61278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20106.0",
+    "gn:asciiname":"Shinuacorral",
+    "gn:country_code":"PE",
+    "gn:dem":3930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380648,
+    "gn:latitude":-9.46389,
+    "gn:longitude":-77.61278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shi\u00f1uacorral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380648
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2795d9f626b942d599dd07fd631daefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":1310413893,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1310413893,
+    "wof:lastmodified":1537047129,
+    "wof:name":"Shinuacorral",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61278,
+    -9.46389,
+    -77.61278,
+    -9.46389
+],
+  "geometry": {"coordinates":[-77.61278,-9.46389],"type":"Point"}
+}

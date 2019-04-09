@@ -1,0 +1,69 @@
+{
+  "id": 1226329269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.332,-10.99619,-75.332,-10.99619",
+    "geom:latitude":-10.99619,
+    "geom:longitude":-75.332,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:asciiname":"Nijandaris",
+    "gn:country_code":"PE",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564054,
+    "gn:latitude":-10.99619,
+    "gn:longitude":-75.332,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Nijandaris",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564054
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f005fb9c514a3aaa1cb5cf60cabf7a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1226329269,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226329269,
+    "wof:lastmodified":1536812681,
+    "wof:name":"Nijandaris",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.332,
+    -10.99619,
+    -75.332,
+    -10.99619
+],
+  "geometry": {"coordinates":[-75.33199999999999,-10.99619],"type":"Point"}
+}

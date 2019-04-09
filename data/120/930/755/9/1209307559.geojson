@@ -1,0 +1,63 @@
+{
+  "id": 1209307559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96667,-14.63333,-73.96667,-14.63333",
+    "geom:latitude":-14.63333,
+    "geom:longitude":-73.96667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50601.0",
+    "gn:asciiname":"Yauriviri",
+    "gn:country_code":"PE",
+    "gn:dem":4401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925573,
+    "gn:latitude":-14.63333,
+    "gn:longitude":-73.96667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yauriviri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925573
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ea0bd6d9bc996a673a8c48dc21a86e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307559
+        }
+    ],
+    "wof:id":1209307559,
+    "wof:lastmodified":1536291142,
+    "wof:name":"Yauriviri",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96667,
+    -14.63333,
+    -73.96667,
+    -14.63333
+],
+  "geometry": {"coordinates":[-73.96666999999999,-14.63333],"type":"Point"}
+}

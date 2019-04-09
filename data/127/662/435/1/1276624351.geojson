@@ -1,0 +1,77 @@
+{
+  "id": 1276624351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74621,-11.65819,-76.74621,-11.65819",
+    "geom:latitude":-11.65819,
+    "geom:longitude":-76.74621,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150402.0",
+    "gn:asciiname":"Orobel",
+    "gn:country_code":"PE",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646372,
+    "gn:latitude":-11.65819,
+    "gn:longitude":-76.74621,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Orobel",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646372
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"572155c9142be73930b4544288f0c315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1276624351,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1276624351,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1276624351,
+    "wof:lastmodified":1536885707,
+    "wof:name":"Orobel",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74620999999998,
+    -11.65819,
+    -76.74620999999998,
+    -11.65819
+],
+  "geometry": {"coordinates":[-76.74620999999998,-11.65819],"type":"Point"}
+}

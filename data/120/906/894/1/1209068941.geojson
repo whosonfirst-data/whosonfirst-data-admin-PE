@@ -1,0 +1,63 @@
+{
+  "id": 1209068941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3275,-16.78444,-71.3275,-16.78444",
+    "geom:latitude":-16.78444,
+    "geom:longitude":-71.3275,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180205.0",
+    "gn:asciiname":"El Pique",
+    "gn:country_code":"PE",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941237,
+    "gn:latitude":-16.78444,
+    "gn:longitude":-71.3275,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"El Pique",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941237
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"931910f0541e0e5f3881389e2403ab83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209068941
+        }
+    ],
+    "wof:id":1209068941,
+    "wof:lastmodified":1536298710,
+    "wof:name":"El Pique",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3275,
+    -16.78444,
+    -71.3275,
+    -16.78444
+],
+  "geometry": {"coordinates":[-71.3275,-16.78444],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343617599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98292,-17.27192,-70.98292,-17.27192",
+    "geom:latitude":-17.27192,
+    "geom:longitude":-70.98292,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Corpanto Ghersi",
+    "gn:country_code":"PE",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3952322,
+    "gn:latitude":-17.27192,
+    "gn:longitude":-70.98292,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Corpanto Ghersi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3952322
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d0e35b294481b3ba9e8494e284feb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1343617599,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1343617599,
+    "wof:lastmodified":1537016257,
+    "wof:name":"Corpanto Ghersi",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98292,
+    -17.27192,
+    -70.98292,
+    -17.27192
+],
+  "geometry": {"coordinates":[-70.98291999999999,-17.27192],"type":"Point"}
+}

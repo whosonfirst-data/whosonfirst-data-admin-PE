@@ -1,0 +1,77 @@
+{
+  "id": 1327304451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96065,-6.54101,-79.96065,-6.54101",
+    "geom:latitude":-6.54101,
+    "geom:longitude":-79.96065,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140306.0",
+    "gn:asciiname":"Arbol Sol",
+    "gn:country_code":"PE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699583,
+    "gn:latitude":-6.54101,
+    "gn:longitude":-79.96065,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Arbol Sol",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arbol Sol"
+    ],
+    "name:und_x_variant":[
+        "\u00c1rbol Sol",
+        "Arbol Sol Ciudad",
+        "\u00c1rbolsol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699583
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a7f15e2124f8e966988a5af23825a253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1327304451,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327304451,
+    "wof:lastmodified":1537676644,
+    "wof:name":"Arbol Sol",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96065,
+    -6.54101,
+    -79.96065,
+    -6.54101
+],
+  "geometry": {"coordinates":[-79.96065,-6.54101],"type":"Point"}
+}

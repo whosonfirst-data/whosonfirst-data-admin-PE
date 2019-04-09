@@ -1,0 +1,76 @@
+{
+  "id": 1276414565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.82208,-4.88276,-80.82208,-4.88276",
+    "geom:latitude":-4.88276,
+    "geom:longitude":-80.82208,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Ovegeria",
+    "gn:country_code":"PE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694208,
+    "gn:latitude":-4.88276,
+    "gn:longitude":-80.82208,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ovegeria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ovegeria"
+    ],
+    "name:und_x_variant":[
+        "Ovejeria Hacienda",
+        "Ovejer\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694208
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"53250450dfa2a50b93ba49de9fe84a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1276414565,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276414565,
+    "wof:lastmodified":1537676576,
+    "wof:name":"Ovegeria",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.82208,
+    -4.88276,
+    -80.82208,
+    -4.88276
+],
+  "geometry": {"coordinates":[-80.82208,-4.88276],"type":"Point"}
+}

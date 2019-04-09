@@ -1,0 +1,72 @@
+{
+  "id": 1226355049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55139,-8.9925,-78.55139,-8.9925",
+    "geom:latitude":-8.9925,
+    "geom:longitude":-78.55139,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21801.0",
+    "gn:asciiname":"Cambio Puente",
+    "gn:country_code":"PE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698991,
+    "gn:latitude":-8.9925,
+    "gn:longitude":-78.55139,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Cambio Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cambio Puente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698991
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6517f9c128a1607f3c2260b2dc043a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1226355049,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226355049,
+    "wof:lastmodified":1537676637,
+    "wof:name":"Cambio Puente",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55139,
+    -8.9925,
+    -78.55139,
+    -8.9925
+],
+  "geometry": {"coordinates":[-78.55139,-8.9925],"type":"Point"}
+}

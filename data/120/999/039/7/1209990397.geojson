@@ -1,0 +1,72 @@
+{
+  "id": 1209990397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9377,-14.05654,-68.9377,-14.05654",
+    "geom:latitude":-14.05654,
+    "geom:longitude":-68.9377,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211210.0",
+    "gn:asciiname":"Pampa Gloria",
+    "gn:country_code":"PE",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949775,
+    "gn:latitude":-14.05654,
+    "gn:longitude":-68.9377,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Pampa Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949775
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6a0ef5a95be217aac860e9a6ee9420e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1209990397,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1209990397,
+    "wof:lastmodified":1537676876,
+    "wof:name":"Pampa Gloria",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9377,
+    -14.05654,
+    -68.9377,
+    -14.05654
+],
+  "geometry": {"coordinates":[-68.93770000000001,-14.05654],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209473557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.40914,-16.2353,-69.40914,-16.2353",
+    "geom:latitude":-16.2353,
+    "geom:longitude":-69.40914,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210401.0",
+    "gn:asciiname":"Pallaymarca",
+    "gn:country_code":"PE",
+    "gn:dem":3924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933453,
+    "gn:latitude":-16.2353,
+    "gn:longitude":-69.40914,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pallaymarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933453
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cae6a9b783e6f2b689fff8b741673323",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209473557
+        }
+    ],
+    "wof:id":1209473557,
+    "wof:lastmodified":1536286006,
+    "wof:name":"Pallaymarca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.40914000000001,
+    -16.2353,
+    -69.40914000000001,
+    -16.2353
+],
+  "geometry": {"coordinates":[-69.40914000000001,-16.2353],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309875535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51174,-11.5685,-76.51174,-11.5685",
+    "geom:latitude":-11.5685,
+    "geom:longitude":-76.51174,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150712.0",
+    "gn:asciiname":"Yuracancha",
+    "gn:country_code":"PE",
+    "gn:dem":4153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646174,
+    "gn:latitude":-11.5685,
+    "gn:longitude":-76.51174,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yuracancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646174
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4d887f271a19a32d7abe582b6ed50fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1309875535,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1309875535,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1309875535,
+    "wof:lastmodified":1536829736,
+    "wof:name":"Yuracancha",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51174,
+    -11.5685,
+    -76.51174,
+    -11.5685
+],
+  "geometry": {"coordinates":[-76.51174,-11.5685],"type":"Point"}
+}

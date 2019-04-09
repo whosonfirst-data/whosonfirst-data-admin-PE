@@ -1,0 +1,63 @@
+{
+  "id": 1209169735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65837,-3.9533,-80.65837,-3.9533",
+    "geom:latitude":-3.9533,
+    "geom:longitude":-80.65837,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"Tacna Libre",
+    "gn:country_code":"PE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3818303,
+    "gn:latitude":-3.9533,
+    "gn:longitude":-80.65837,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tacna Libre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3818303
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"66cbd607c7791806e14f00f1309a0c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209169735
+        }
+    ],
+    "wof:id":1209169735,
+    "wof:lastmodified":1536295621,
+    "wof:name":"Tacna Libre",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65836999999998,
+    -3.9533,
+    -80.65836999999998,
+    -3.9533
+],
+  "geometry": {"coordinates":[-80.65836999999998,-3.9533],"type":"Point"}
+}

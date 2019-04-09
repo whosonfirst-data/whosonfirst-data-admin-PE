@@ -1,0 +1,75 @@
+{
+  "id": 1259648575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33333,-10.6,-76.33333,-10.6",
+    "geom:latitude":-10.6,
+    "geom:longitude":-76.33333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190109.0",
+    "gn:asciiname":"Alcacocha",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948196,
+    "gn:latitude":-10.6,
+    "gn:longitude":-76.33333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alcacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atacocha",
+        "Atacocha-Lalaguia",
+        "Alcacocha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948196
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a5670a35849eaf2b18202f5f743a2ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1259648575,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1259648575,
+    "wof:lastmodified":1537676871,
+    "wof:name":"Alcacocha",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33333,
+    -10.6,
+    -76.33333,
+    -10.6
+],
+  "geometry": {"coordinates":[-76.33333,-10.6],"type":"Point"}
+}

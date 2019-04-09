@@ -1,0 +1,75 @@
+{
+  "id": 1344240061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8645,-6.92351,-79.8645,-6.92351",
+    "geom:latitude":-6.92351,
+    "geom:longitude":-79.8645,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140104.0",
+    "gn:asciiname":"Puerto Eten",
+    "gn:country_code":"PE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693245,
+    "gn:latitude":-6.92351,
+    "gn:longitude":-79.8645,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Puerto Eten",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eten Puerto",
+        "Puerto de Eten",
+        "Eten",
+        "Puerto Eten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693245
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1a0bb60db3c9442b1ea0a902bbc153e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1344240061,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1344240061,
+    "wof:lastmodified":1537676564,
+    "wof:name":"Puerto Eten",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8645,
+    -6.92351,
+    -79.8645,
+    -6.92351
+],
+  "geometry": {"coordinates":[-79.86450000000001,-6.92351],"type":"Point"}
+}

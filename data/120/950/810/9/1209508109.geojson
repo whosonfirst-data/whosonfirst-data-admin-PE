@@ -1,0 +1,62 @@
+{
+  "id": 1209508109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.34885,-12.78904,-74.34885,-12.78904",
+    "geom:latitude":-12.78904,
+    "geom:longitude":-74.34885,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Jacir",
+    "gn:country_code":"PE",
+    "gn:dem":2812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650682,
+    "gn:latitude":-12.78904,
+    "gn:longitude":-74.34885,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Jacir",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650682
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"99a266c260ac41d41ac2bd69ea298215",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209508109
+        }
+    ],
+    "wof:id":1209508109,
+    "wof:lastmodified":1536284969,
+    "wof:name":"Jacir",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.34885,
+    -12.78904,
+    -74.34885,
+    -12.78904
+],
+  "geometry": {"coordinates":[-74.34885,-12.78904],"type":"Point"}
+}

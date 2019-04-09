@@ -1,0 +1,68 @@
+{
+  "id": 1343853813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.60889,-13.95111,-74.60889,-13.95111",
+    "geom:latitude":-13.95111,
+    "geom:longitude":-74.60889,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Huarcaya",
+    "gn:country_code":"PE",
+    "gn:dem":4334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365653,
+    "gn:latitude":-13.95111,
+    "gn:longitude":-74.60889,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Huarcaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365653
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ed30a08b4584f7a00140e27b9f92421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693939,
+            "locality_id":1343853813,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343853813,
+    "wof:lastmodified":1536676230,
+    "wof:name":"Huarcaya",
+    "wof:parent_id":1108693939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.60889,
+    -13.95111,
+    -74.60889,
+    -13.95111
+],
+  "geometry": {"coordinates":[-74.60889,-13.95111],"type":"Point"}
+}

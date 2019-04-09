@@ -1,0 +1,69 @@
+{
+  "id": 1292894489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60962,-10.18741,-76.60962,-10.18741",
+    "geom:latitude":-10.18741,
+    "geom:longitude":-76.60962,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101007.0",
+    "gn:asciiname":"Ticramachay",
+    "gn:country_code":"PE",
+    "gn:dem":3915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927558,
+    "gn:latitude":-10.18741,
+    "gn:longitude":-76.60962,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ticramachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927558
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ea4578e8f2061b6e94fa10ba4a3f5027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1292894489,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1292894489,
+    "wof:lastmodified":1536647521,
+    "wof:name":"Ticramachay",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60961999999998,
+    -10.18741,
+    -76.60961999999998,
+    -10.18741
+],
+  "geometry": {"coordinates":[-76.60961999999998,-10.18741],"type":"Point"}
+}

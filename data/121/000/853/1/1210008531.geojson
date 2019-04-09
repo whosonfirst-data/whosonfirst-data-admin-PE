@@ -1,0 +1,69 @@
+{
+  "id": 1210008531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.86898,-5.51435,-78.86898,-5.51435",
+    "geom:latitude":-5.51435,
+    "geom:longitude":-78.86898,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60802.0",
+    "gn:asciiname":"Elenita",
+    "gn:country_code":"PE",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762213,
+    "gn:latitude":-5.51435,
+    "gn:longitude":-78.86898,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Elenita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762213
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8d5cc8b9e30226d0941b597eec83d5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1210008531,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1210008531,
+    "wof:lastmodified":1536371042,
+    "wof:name":"Elenita",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.86898000000002,
+    -5.51435,
+    -78.86898000000002,
+    -5.51435
+],
+  "geometry": {"coordinates":[-78.86898000000002,-5.51435],"type":"Point"}
+}

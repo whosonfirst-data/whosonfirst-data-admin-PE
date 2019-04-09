@@ -1,0 +1,69 @@
+{
+  "id": 1360173059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7643,-9.83763,-76.7643,-9.83763",
+    "geom:latitude":-9.83763,
+    "geom:longitude":-76.7643,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100322.0",
+    "gn:asciiname":"Culec Grande",
+    "gn:country_code":"PE",
+    "gn:dem":3985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666064,
+    "gn:latitude":-9.83763,
+    "gn:longitude":-76.7643,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Culec Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666064
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e37f067a20a4ac1e7ce5ac07dcd68697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1360173059,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1360173059,
+    "wof:lastmodified":1536817913,
+    "wof:name":"Culec Grande",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7643,
+    -9.83763,
+    -76.7643,
+    -9.83763
+],
+  "geometry": {"coordinates":[-76.76430000000001,-9.83763],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226338919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.48761,-14.32112,-71.48761,-14.32112",
+    "geom:latitude":-14.32112,
+    "geom:longitude":-71.48761,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80501.0",
+    "gn:asciiname":"Huacura Pampa",
+    "gn:country_code":"PE",
+    "gn:dem":3923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953322,
+    "gn:latitude":-14.32112,
+    "gn:longitude":-71.48761,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huacura Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953322
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f9e769c1e907ebed42cc8c88a8562f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187839,
+            "locality_id":1226338919,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226338919,
+    "wof:lastmodified":1536799422,
+    "wof:name":"Huacura Pampa",
+    "wof:parent_id":421187839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.48761,
+    -14.32112,
+    -71.48761,
+    -14.32112
+],
+  "geometry": {"coordinates":[-71.48761,-14.32112],"type":"Point"}
+}

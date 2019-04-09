@@ -1,0 +1,63 @@
+{
+  "id": 1209410889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91442,-12.3985,-74.91442,-12.3985",
+    "geom:latitude":-12.3985,
+    "geom:longitude":-74.91442,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90703.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"PE",
+    "gn:dem":3279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664049,
+    "gn:latitude":-12.3985,
+    "gn:longitude":-74.91442,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664049
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e8873c2d136c9cd471bbcb06a042ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209410889
+        }
+    ],
+    "wof:id":1209410889,
+    "wof:lastmodified":1536287841,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91441999999998,
+    -12.3985,
+    -74.91441999999998,
+    -12.3985
+],
+  "geometry": {"coordinates":[-74.91441999999998,-12.3985],"type":"Point"}
+}

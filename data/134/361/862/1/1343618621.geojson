@@ -1,0 +1,73 @@
+{
+  "id": 1343618621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.20531,-8.69371,-74.20531,-8.69371",
+    "geom:latitude":-8.69371,
+    "geom:longitude":-74.20531,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250104.0",
+    "gn:asciiname":"Charasmama",
+    "gn:country_code":"PE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698844,
+    "gn:latitude":-8.69371,
+    "gn:longitude":-74.20531,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Charasmam\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carasmam\u00e1",
+        "Charasmam\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421171957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698844
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"576c27f3756d91d8a9e7cf07b430a0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171957,
+            "locality_id":1343618621,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1343618621,
+    "wof:lastmodified":1537676636,
+    "wof:name":"Charasmama",
+    "wof:parent_id":421171957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.20531,
+    -8.69371,
+    -74.20531,
+    -8.69371
+],
+  "geometry": {"coordinates":[-74.20531,-8.69371],"type":"Point"}
+}

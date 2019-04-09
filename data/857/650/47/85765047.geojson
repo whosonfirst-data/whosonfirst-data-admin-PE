@@ -1,0 +1,115 @@
+{
+  "id": 85765047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":20447425.630064,
+    "geom:bbox":"-71.563843,-16.343334,-71.563843,-16.343334",
+    "geom:latitude":-16.343334,
+    "geom:longitude":-71.563843,
+    "gn:latitude":-16.34756,
+    "gn:longitude":-71.55456,
+    "iso:country":"PE",
+    "lbl:latitude":-16.343334,
+    "lbl:longitude":-71.563843,
+    "mps:latitude":-16.341212,
+    "mps:longitude":-71.564298,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eus_x_preferred":[
+        "Juan Antonio Iza-Zamakola"
+    ],
+    "name:spa_x_preferred":[
+        "Zamacola",
+        "Juan Antonio de Iza Zam\u00e1cola"
+    ],
+    "name:unk_x_variant":[
+        "Zamacola"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3947322,
+    "qs:gn_nam_loc":"Arequipa",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Zamacola",
+    "qs:local_max":8512,
+    "qs:local_sum":10013,
+    "qs:localhoods":9,
+    "qs:name":"Zamacola",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:name_adm2":"Arequipa",
+    "qs:name_local":"Arequipa",
+    "qs:photo_max":24,
+    "qs:photo_sum":60,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":2346471,
+    "qs:woe_adm2":26805784,
+    "qs:woe_lau":0,
+    "qs:woe_local":418442,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675839,
+        102191577,
+        85632521,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925359,
+        "gp:id":418390,
+        "qs:id":266536
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5220491515ac6a2cd546eba54caef908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":85765047,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":85765047,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379398,
+    "wof:name":"Zamacola",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        1126060545
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.563843,
+    -16.343334,
+    -71.563843,
+    -16.343334
+],
+  "geometry": {"coordinates":[-71.56384300000001,-16.343334],"type":"Point"}
+}

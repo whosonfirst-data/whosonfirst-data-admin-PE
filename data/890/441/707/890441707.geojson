@@ -1,0 +1,91 @@
+{
+  "id": 890441707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.40167,-10.5775,-75.40167,-10.5775",
+    "geom:latitude":-10.5775,
+    "geom:longitude":-75.40167,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA2",
+    "gn:pop":8554,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:que_x_preferred":[
+        "Uqshapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:war_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u85a9\u6f58\u5e15"
+    ],
+    "qs:name":"Oxapampa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"-10.96555556",
+    "wd:longitude":"-75.67194444",
+    "wd:wordcount":471,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933874,
+        "gp:id":418562,
+        "qs:id":279917,
+        "wd:id":"Q1014523",
+        "wk:page":"Oxapampa"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1076013
+    },
+    "wof:country":"PE",
+    "wof:created":1469052334,
+    "wof:geomhash":"96949d18cc56071954d00f67113efe93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":890441707,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":890441707,
+    "wof:lastmodified":1534379396,
+    "wof:name":"Oxapampa",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:population":8554,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421186821
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.40167,
+    -10.5775,
+    -75.40167,
+    -10.5775
+],
+  "geometry": {"coordinates":[-75.40167,-10.5775],"type":"Point"}
+}

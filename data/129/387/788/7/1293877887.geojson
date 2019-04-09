@@ -1,0 +1,69 @@
+{
+  "id": 1293877887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61881,-13.09459,-74.61881,-13.09459",
+    "geom:latitude":-13.09459,
+    "geom:longitude":-74.61881,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:asciiname":"Itanapata",
+    "gn:country_code":"PE",
+    "gn:dem":4100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938119,
+    "gn:latitude":-13.09459,
+    "gn:longitude":-74.61881,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Itanapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938119
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"76600f658de35309ad355bfc552a176d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1293877887,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293877887,
+    "wof:lastmodified":1536721787,
+    "wof:name":"Itanapata",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61881,
+    -13.09459,
+    -74.61881,
+    -13.09459
+],
+  "geometry": {"coordinates":[-74.61881,-13.09459],"type":"Point"}
+}

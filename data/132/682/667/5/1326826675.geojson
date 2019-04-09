@@ -1,0 +1,69 @@
+{
+  "id": 1326826675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.19988,-13.51431,-72.19988,-13.51431",
+    "geom:latitude":-13.51431,
+    "geom:longitude":-72.19988,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80301.0",
+    "gn:asciiname":"Inquilpata",
+    "gn:country_code":"PE",
+    "gn:dem":3359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938273,
+    "gn:latitude":-13.51431,
+    "gn:longitude":-72.19988,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Inquilpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938273
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79dbe9bb7c80ba55be10dde00a457b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1326826675,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1326826675,
+    "wof:lastmodified":1537054483,
+    "wof:name":"Inquilpata",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.19988000000002,
+    -13.51431,
+    -72.19988000000002,
+    -13.51431
+],
+  "geometry": {"coordinates":[-72.19988000000002,-13.51431],"type":"Point"}
+}

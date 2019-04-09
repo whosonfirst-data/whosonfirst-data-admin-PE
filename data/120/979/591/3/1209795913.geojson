@@ -1,0 +1,69 @@
+{
+  "id": 1209795913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20889,-14.80944,-75.20889,-14.80944",
+    "geom:latitude":-14.80944,
+    "geom:longitude":-75.20889,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Usaca",
+    "gn:country_code":"PE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3955811,
+    "gn:latitude":-14.80944,
+    "gn:longitude":-75.20889,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Usaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3955811
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"abba797499f06db5fa0bf75b556cb3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1209795913,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1209795913,
+    "wof:lastmodified":1536392900,
+    "wof:name":"Usaca",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20889,
+    -14.80944,
+    -75.20889,
+    -14.80944
+],
+  "geometry": {"coordinates":[-75.20889,-14.80944],"type":"Point"}
+}

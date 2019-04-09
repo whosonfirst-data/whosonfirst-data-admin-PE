@@ -1,0 +1,69 @@
+{
+  "id": 1310310745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6325,-15.33722,-72.6325,-15.33722",
+    "geom:latitude":-15.33722,
+    "geom:longitude":-72.6325,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40607.0",
+    "gn:asciiname":"Acopucllo",
+    "gn:country_code":"PE",
+    "gn:dem":4442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3955866,
+    "gn:latitude":-15.33722,
+    "gn:longitude":-72.6325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Acopucllo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3955866
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9230786a6e91f2bba538486e5a92ae51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1310310745,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310310745,
+    "wof:lastmodified":1536700579,
+    "wof:name":"Acopucllo",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6325,
+    -15.33722,
+    -72.6325,
+    -15.33722
+],
+  "geometry": {"coordinates":[-72.63249999999999,-15.33722],"type":"Point"}
+}

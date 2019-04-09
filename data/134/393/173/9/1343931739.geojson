@@ -1,0 +1,69 @@
+{
+  "id": 1343931739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.34882,-16.26393,-69.34882,-16.26393",
+    "geom:latitude":-16.26393,
+    "geom:longitude":-69.34882,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210401.0",
+    "gn:asciiname":"Chachacomani",
+    "gn:country_code":"PE",
+    "gn:dem":3878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944681,
+    "gn:latitude":-16.26393,
+    "gn:longitude":-69.34882,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chachacomani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944681
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9de99c07a09b2c744354fa698a2168e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1343931739,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343931739,
+    "wof:lastmodified":1537058951,
+    "wof:name":"Chachacomani",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.34881999999999,
+    -16.26393,
+    -69.34881999999999,
+    -16.26393
+],
+  "geometry": {"coordinates":[-69.34881999999999,-16.26393],"type":"Point"}
+}

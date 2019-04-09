@@ -1,0 +1,69 @@
+{
+  "id": 1343785339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.90388,-15.28726,-72.90388,-15.28726",
+    "geom:latitude":-15.28726,
+    "geom:longitude":-72.90388,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40811.0",
+    "gn:asciiname":"Caravelimocco",
+    "gn:country_code":"PE",
+    "gn:dem":4259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3955854,
+    "gn:latitude":-15.28726,
+    "gn:longitude":-72.90388,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Caravelimocco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3955854
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"29740d2e45125e22d1aa58af49a6f3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1343785339,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343785339,
+    "wof:lastmodified":1536775730,
+    "wof:name":"Caravelimocco",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.90388,
+    -15.28726,
+    -72.90388,
+    -15.28726
+],
+  "geometry": {"coordinates":[-72.90388,-15.28726],"type":"Point"}
+}

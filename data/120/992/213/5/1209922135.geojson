@@ -1,0 +1,69 @@
+{
+  "id": 1209922135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.70762,-9.87558,-77.70762,-9.87558",
+    "geom:latitude":-9.87558,
+    "geom:longitude":-77.70762,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"21104.0",
+    "gn:asciiname":"Huayan",
+    "gn:country_code":"PE",
+    "gn:dem":2703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696305,
+    "gn:latitude":-9.87558,
+    "gn:longitude":-77.70762,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huay\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421184497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696305
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31cad0f694e53b51d70e060aa7487340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184497,
+            "locality_id":1209922135,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1209922135,
+    "wof:lastmodified":1536396540,
+    "wof:name":"Huayan",
+    "wof:parent_id":421184497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.70761999999998,
+    -9.87558,
+    -77.70761999999998,
+    -9.87558
+],
+  "geometry": {"coordinates":[-77.70761999999998,-9.87558],"type":"Point"}
+}

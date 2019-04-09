@@ -1,0 +1,69 @@
+{
+  "id": 1277155555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38352,-10.04879,-76.38352,-10.04879",
+    "geom:latitude":-10.04879,
+    "geom:longitude":-76.38352,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100108.0",
+    "gn:asciiname":"Pacsapata",
+    "gn:country_code":"PE",
+    "gn:dem":3962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960597,
+    "gn:latitude":-10.04879,
+    "gn:longitude":-76.38352,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pacsapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960597
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"566c81a1b8637ece847d84f6713db2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1277155555,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1277155555,
+    "wof:lastmodified":1536662775,
+    "wof:name":"Pacsapata",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38351999999998,
+    -10.04879,
+    -76.38351999999998,
+    -10.04879
+],
+  "geometry": {"coordinates":[-76.38351999999998,-10.04879],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209297111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12389,-11.15889,-77.12389,-11.15889",
+    "geom:latitude":-11.15889,
+    "geom:longitude":-77.12389,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"Tomaya",
+    "gn:country_code":"PE",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412652,
+    "gn:latitude":-11.15889,
+    "gn:longitude":-77.12389,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tomaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412652
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"005283c07924738a877de61a47e84dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209297111
+        }
+    ],
+    "wof:id":1209297111,
+    "wof:lastmodified":1536291486,
+    "wof:name":"Tomaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12389,
+    -11.15889,
+    -77.12389,
+    -11.15889
+],
+  "geometry": {"coordinates":[-77.12389,-11.15889],"type":"Point"}
+}

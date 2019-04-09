@@ -1,0 +1,72 @@
+{
+  "id": 890455377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77469,-12.40022,-76.77469,-12.40022",
+    "geom:latitude":-12.40022,
+    "geom:longitude":-76.77469,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":264,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0438\u044f-\u0434\u0435\u043b\u044c-\u041c\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Santa Mar\u00eda del Mar"
+    ],
+    "qs:name":"Playa de Santa Mar\u00eda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932048,
+        "gp:id":419710,
+        "qs:id":96823
+    },
+    "wof:country":"PE",
+    "wof:created":1469052945,
+    "wof:geomhash":"f6f69e6f7650a73bab1a25a437c9d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":890455377,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":890455377,
+    "wof:lastmodified":1505343663,
+    "wof:name":"Playa de Santa Mar\u00eda",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77469,
+    -12.40022,
+    -76.77469,
+    -12.40022
+],
+  "geometry": {"coordinates":[-76.77469000000001,-12.40022],"type":"Point"}
+}

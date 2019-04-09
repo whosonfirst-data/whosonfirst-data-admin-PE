@@ -1,0 +1,72 @@
+{
+  "id": 1260084629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11248,-13.15401,-74.11248,-13.15401",
+    "geom:latitude":-13.15401,
+    "geom:longitude":-74.11248,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50113.0",
+    "gn:asciiname":"Velasquez",
+    "gn:country_code":"PE",
+    "gn:dem":3019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940289,
+    "gn:latitude":-13.15401,
+    "gn:longitude":-74.11248,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Velasquez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Velasquez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940289
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7aee1e9c47472001ec865ac7589e455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1260084629,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260084629,
+    "wof:lastmodified":1537676803,
+    "wof:name":"Velasquez",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11248,
+    -13.15401,
+    -74.11248,
+    -13.15401
+],
+  "geometry": {"coordinates":[-74.11248000000001,-13.15401],"type":"Point"}
+}

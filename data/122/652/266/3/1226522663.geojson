@@ -1,0 +1,72 @@
+{
+  "id": 1226522663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.13764,-13.70162,-76.13764,-13.70162",
+    "geom:latitude":-13.70162,
+    "geom:longitude":-76.13764,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110508.0",
+    "gn:asciiname":"Hacienda Capa Azul",
+    "gn:country_code":"PE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945701,
+    "gn:latitude":-13.70162,
+    "gn:longitude":-76.13764,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Capa Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capa Azul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945701
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"68bc357e45c20babb1e83b53656dda09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1226522663,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226522663,
+    "wof:lastmodified":1537676851,
+    "wof:name":"Hacienda Capa Azul",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.13764,
+    -13.70162,
+    -76.13764,
+    -13.70162
+],
+  "geometry": {"coordinates":[-76.13764,-13.70162],"type":"Point"}
+}

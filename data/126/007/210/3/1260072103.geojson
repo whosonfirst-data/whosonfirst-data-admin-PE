@@ -1,0 +1,69 @@
+{
+  "id": 1260072103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00954,-6.08803,-79.00954,-6.08803",
+    "geom:latitude":-6.08803,
+    "geom:longitude":-79.00954,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60602.0",
+    "gn:asciiname":"Hacienda Queromarca",
+    "gn:country_code":"PE",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743497,
+    "gn:latitude":-6.08803,
+    "gn:longitude":-79.00954,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hacienda Queromarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743497
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9225d01e41ebf0be566d3bb6112f82f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693977,
+            "locality_id":1260072103,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1260072103,
+    "wof:lastmodified":1537003696,
+    "wof:name":"Hacienda Queromarca",
+    "wof:parent_id":1108693977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00954,
+    -6.08803,
+    -79.00954,
+    -6.08803
+],
+  "geometry": {"coordinates":[-79.00954,-6.08803],"type":"Point"}
+}

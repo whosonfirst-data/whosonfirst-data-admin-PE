@@ -1,0 +1,71 @@
+{
+  "id": 1343736165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.55339,-13.95203,-69.55339,-13.95203",
+    "geom:latitude":-13.95203,
+    "geom:longitude":-69.55339,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Putis",
+    "gn:country_code":"PE",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559003,
+    "gn:latitude":-13.95203,
+    "gn:longitude":-69.55339,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Putis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Putis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559003
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"69d1370bccd21609e96ce3dd49e5ea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1343736165,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343736165,
+    "wof:lastmodified":1537677013,
+    "wof:name":"Putis",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.55339000000001,
+    -13.95203,
+    -69.55339000000001,
+    -13.95203
+],
+  "geometry": {"coordinates":[-69.55339000000001,-13.95203],"type":"Point"}
+}

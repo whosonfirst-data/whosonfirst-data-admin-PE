@@ -1,0 +1,76 @@
+{
+  "id": 1293788429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95509,-15.40529,-73.95509,-15.40529",
+    "geom:latitude":-15.40529,
+    "geom:longitude":-73.95509,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Hacienda Larcapa",
+    "gn:country_code":"PE",
+    "gn:dem":3393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936847,
+    "gn:latitude":-15.40529,
+    "gn:longitude":-73.95509,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hacienda Larcapa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Larcapa"
+    ],
+    "name:und_x_variant":[
+        "Larcapa Hacienda",
+        "Larcapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936847
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ebb2f9f1cf98c1f114c702818a088e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293788429,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293788429,
+    "wof:lastmodified":1537676771,
+    "wof:name":"Hacienda Larcapa",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95509,
+    -15.40529,
+    -73.95509,
+    -15.40529
+],
+  "geometry": {"coordinates":[-73.95509,-15.40529],"type":"Point"}
+}

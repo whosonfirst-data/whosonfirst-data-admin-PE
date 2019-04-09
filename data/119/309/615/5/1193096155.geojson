@@ -1,0 +1,74 @@
+{
+  "id": 1193096155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46527,-5.18881,-79.46527,-5.18881",
+    "geom:latitude":-5.18881,
+    "geom:longitude":-79.46527,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200301.0",
+    "gn:asciiname":"Laumache",
+    "gn:country_code":"PE",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695469,
+    "gn:latitude":-5.18881,
+    "gn:longitude":-79.46527,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Laumache",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumache",
+        "Laumache Ciudad",
+        "Laumache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695469
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9fc225f41fbb194e52475824012f99dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1193096155,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1193096155,
+    "wof:lastmodified":1537676591,
+    "wof:name":"Laumache",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46526999999998,
+    -5.18881,
+    -79.46526999999998,
+    -5.18881
+],
+  "geometry": {"coordinates":[-79.46526999999998,-5.18881],"type":"Point"}
+}

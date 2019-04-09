@@ -1,0 +1,72 @@
+{
+  "id": 1259654163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86927,-6.79051,-79.86927,-6.79051",
+    "geom:latitude":-6.79051,
+    "geom:longitude":-79.86927,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140101.0",
+    "gn:asciiname":"Santa Elisa",
+    "gn:country_code":"PE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952826,
+    "gn:latitude":-6.79051,
+    "gn:longitude":-79.86927,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Santa Elisa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Elisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952826
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"55e54822975d59972116704ac127c789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1259654163,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1259654163,
+    "wof:lastmodified":1537676949,
+    "wof:name":"Santa Elisa",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86927,
+    -6.79051,
+    -79.86927,
+    -6.79051
+],
+  "geometry": {"coordinates":[-79.86927,-6.79051],"type":"Point"}
+}

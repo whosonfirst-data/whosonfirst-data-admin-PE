@@ -1,0 +1,63 @@
+{
+  "id": 1209504329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.57076,-12.78904,-74.57076,-12.78904",
+    "geom:latitude":-12.78904,
+    "geom:longitude":-74.57076,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90201.0",
+    "gn:asciiname":"Rumihuasi",
+    "gn:country_code":"PE",
+    "gn:dem":3867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661410,
+    "gn:latitude":-12.78904,
+    "gn:longitude":-74.57076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumihuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661410
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1610702333ca39c3fd6c927bd31267ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209504329
+        }
+    ],
+    "wof:id":1209504329,
+    "wof:lastmodified":1536285082,
+    "wof:name":"Rumihuasi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57075999999998,
+    -12.78904,
+    -74.57075999999998,
+    -12.78904
+],
+  "geometry": {"coordinates":[-74.57075999999998,-12.78904],"type":"Point"}
+}

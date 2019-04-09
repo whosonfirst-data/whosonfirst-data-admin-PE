@@ -1,0 +1,68 @@
+{
+  "id": 1310199865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39058,-5.9919,-79.39058,-5.9919",
+    "geom:latitude":-5.9919,
+    "geom:longitude":-79.39058,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Casas Quemadas",
+    "gn:country_code":"PE",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762197,
+    "gn:latitude":-5.9919,
+    "gn:longitude":-79.39058,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Casas Quemadas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762197
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3224892cb785fe4ce5533a133527ea25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1310199865,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1310199865,
+    "wof:lastmodified":1536859091,
+    "wof:name":"Casas Quemadas",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39058,
+    -5.9919,
+    -79.39058,
+    -5.9919
+],
+  "geometry": {"coordinates":[-79.39058,-5.9919],"type":"Point"}
+}

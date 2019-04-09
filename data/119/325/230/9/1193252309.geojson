@@ -1,0 +1,69 @@
+{
+  "id": 1193252309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1206,-16.45185,-70.1206,-16.45185",
+    "geom:latitude":-16.45185,
+    "geom:longitude":-70.1206,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210102.0",
+    "gn:asciiname":"Estancia Quillini",
+    "gn:country_code":"PE",
+    "gn:dem":4289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941008,
+    "gn:latitude":-16.45185,
+    "gn:longitude":-70.1206,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Estancia Quillini",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941008
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e4988041097e20668303e658c0e9d8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1193252309,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1193252309,
+    "wof:lastmodified":1536366826,
+    "wof:name":"Estancia Quillini",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1206,
+    -16.45185,
+    -70.1206,
+    -16.45185
+],
+  "geometry": {"coordinates":[-70.1206,-16.45185],"type":"Point"}
+}

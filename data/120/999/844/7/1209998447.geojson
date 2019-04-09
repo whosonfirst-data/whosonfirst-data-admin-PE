@@ -1,0 +1,69 @@
+{
+  "id": 1209998447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3,-6.25,-75.3,-6.25",
+    "geom:latitude":-6.25,
+    "geom:longitude":-75.3,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1606.0",
+    "gn:admin3_code":"160605.0",
+    "gn:asciiname":"Alianza",
+    "gn:country_code":"PE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699761,
+    "gn:latitude":-6.25,
+    "gn:longitude":-75.3,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alianza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421187865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699761
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bb15e0d4d0db9324deab2ce845c12a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187865,
+            "locality_id":1209998447,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1209998447,
+    "wof:lastmodified":1536381319,
+    "wof:name":"Alianza",
+    "wof:parent_id":421187865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3,
+    -6.25,
+    -75.3,
+    -6.25
+],
+  "geometry": {"coordinates":[-75.3,-6.25],"type":"Point"}
+}

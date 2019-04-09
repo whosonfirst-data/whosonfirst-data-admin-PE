@@ -1,0 +1,69 @@
+{
+  "id": 1226563595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.15408,-6.47877,-79.15408,-6.47877",
+    "geom:latitude":-6.47877,
+    "geom:longitude":-79.15408,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60411.0",
+    "gn:asciiname":"Chicopon",
+    "gn:country_code":"PE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743114,
+    "gn:latitude":-6.47877,
+    "gn:longitude":-79.15408,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chicopon",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743114
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"14314c7b7fb61bd84e47131ea74bd0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1226563595,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1226563595,
+    "wof:lastmodified":1536972023,
+    "wof:name":"Chicopon",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.15408000000002,
+    -6.47877,
+    -79.15408000000002,
+    -6.47877
+],
+  "geometry": {"coordinates":[-79.15408000000002,-6.47877],"type":"Point"}
+}

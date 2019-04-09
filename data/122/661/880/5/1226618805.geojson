@@ -1,0 +1,77 @@
+{
+  "id": 1226618805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.90856,-12.23126,-75.90856,-12.23126",
+    "geom:latitude":-12.23126,
+    "geom:longitude":-75.90856,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151021.0",
+    "gn:asciiname":"Quiche",
+    "gn:country_code":"PE",
+    "gn:dem":4610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930885,
+    "gn:latitude":-12.23126,
+    "gn:longitude":-75.90856,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quiche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930885
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba1432f02046b16c4e70b6bb86a0082c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1226618805,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1226618805,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1226618805,
+    "wof:lastmodified":1536898206,
+    "wof:name":"Quiche",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.90856,
+    -12.23126,
+    -75.90856,
+    -12.23126
+],
+  "geometry": {"coordinates":[-75.90855999999999,-12.23126],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209094023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.21553,-13.7025,-76.21553,-13.7025",
+    "geom:latitude":-13.7025,
+    "geom:longitude":-76.21553,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110501.0",
+    "gn:asciiname":"Playa Pisco",
+    "gn:country_code":"PE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11083171,
+    "gn:latitude":-13.7025,
+    "gn:longitude":-76.21553,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Playa Pisco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Pisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11083171
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0b6ac17863ecf414fac6b9a7d1de61ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209094023
+        }
+    ],
+    "wof:id":1209094023,
+    "wof:lastmodified":1537676968,
+    "wof:name":"Playa Pisco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.21553,
+    -13.7025,
+    -76.21553,
+    -13.7025
+],
+  "geometry": {"coordinates":[-76.21553,-13.7025],"type":"Point"}
+}

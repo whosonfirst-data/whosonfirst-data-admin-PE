@@ -1,0 +1,72 @@
+{
+  "id": 1259451835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41806,-6.95694,-76.41806,-6.95694",
+    "geom:latitude":-6.95694,
+    "geom:longitude":-76.41806,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220703.0",
+    "gn:asciiname":"Caspisapa",
+    "gn:country_code":"PE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3698675,
+    "gn:latitude":-6.95694,
+    "gn:longitude":-76.41806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Caspisapa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caspizapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698675
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7546251175f6d5a899d3591e10b5d74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1259451835,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1259451835,
+    "wof:lastmodified":1537676634,
+    "wof:name":"Caspisapa",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41806,
+    -6.95694,
+    -76.41806,
+    -6.95694
+],
+  "geometry": {"coordinates":[-76.41806,-6.95694],"type":"Point"}
+}

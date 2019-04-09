@@ -1,0 +1,72 @@
+{
+  "id": 1210009559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76238,-15.02183,-73.76238,-15.02183",
+    "geom:latitude":-15.02183,
+    "geom:longitude":-73.76238,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Huaccempampa",
+    "gn:country_code":"PE",
+    "gn:dem":3327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940042,
+    "gn:latitude":-15.02183,
+    "gn:longitude":-73.76238,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Huaccempampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaccempampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940042
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0cddc4ab3dc481792277e82f85bcc49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1210009559,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1210009559,
+    "wof:lastmodified":1537676800,
+    "wof:name":"Huaccempampa",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76238000000002,
+    -15.02183,
+    -73.76238000000002,
+    -15.02183
+],
+  "geometry": {"coordinates":[-73.76238000000002,-15.02183],"type":"Point"}
+}

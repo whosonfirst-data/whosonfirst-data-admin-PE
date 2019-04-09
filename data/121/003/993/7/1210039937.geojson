@@ -1,0 +1,72 @@
+{
+  "id": 1210039937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24779,-15.19178,-72.24779,-15.19178",
+    "geom:latitude":-15.19178,
+    "geom:longitude":-72.24779,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Collogya",
+    "gn:country_code":"PE",
+    "gn:dem":4199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953470,
+    "gn:latitude":-15.19178,
+    "gn:longitude":-72.24779,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Collogya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Collogya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953470
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"104889fc10c59bb4eaac7d1bbb4b8028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1210039937,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1210039937,
+    "wof:lastmodified":1537676877,
+    "wof:name":"Collogya",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24779000000002,
+    -15.19178,
+    -72.24779000000002,
+    -15.19178
+],
+  "geometry": {"coordinates":[-72.24779000000002,-15.19178],"type":"Point"}
+}

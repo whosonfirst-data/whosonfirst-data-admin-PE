@@ -1,0 +1,77 @@
+{
+  "id": 1243141933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61293,-11.52817,-76.61293,-11.52817",
+    "geom:latitude":-11.52817,
+    "geom:longitude":-76.61293,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150405.0",
+    "gn:asciiname":"Chacallpampa",
+    "gn:country_code":"PE",
+    "gn:dem":3667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646149,
+    "gn:latitude":-11.52817,
+    "gn:longitude":-76.61293,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chacallpampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646149
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c511b20c5ca4201ae7d9ebd946f888e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1243141933,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1243141933,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1243141933,
+    "wof:lastmodified":1536747526,
+    "wof:name":"Chacallpampa",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61293,
+    -11.52817,
+    -76.61293,
+    -11.52817
+],
+  "geometry": {"coordinates":[-76.61293000000001,-11.52817],"type":"Point"}
+}

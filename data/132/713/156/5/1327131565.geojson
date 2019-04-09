@@ -1,0 +1,69 @@
+{
+  "id": 1327131565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.99421,-5.84215,-78.99421,-5.84215",
+    "geom:latitude":-5.84215,
+    "geom:longitude":-78.99421,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60804.0",
+    "gn:asciiname":"Chunchuca",
+    "gn:country_code":"PE",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762451,
+    "gn:latitude":-5.84215,
+    "gn:longitude":-78.99421,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chunchuca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762451
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1d0078792b7ac978fede048633f36d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1327131565,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1327131565,
+    "wof:lastmodified":1536614991,
+    "wof:name":"Chunchuca",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.99421,
+    -5.84215,
+    -78.99421,
+    -5.84215
+],
+  "geometry": {"coordinates":[-78.99421,-5.84215],"type":"Point"}
+}

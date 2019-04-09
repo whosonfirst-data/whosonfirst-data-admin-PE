@@ -1,0 +1,72 @@
+{
+  "id": 1260058503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9551,-9.93697,-76.9551,-9.93697",
+    "geom:latitude":-9.93697,
+    "geom:longitude":-76.9551,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Hayras",
+    "gn:country_code":"PE",
+    "gn:dem":3787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699494,
+    "gn:latitude":-9.93697,
+    "gn:longitude":-76.9551,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Hayras",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayras",
+        "Hayras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699494
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bef811b72eeffc00846ce8d73f730e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1260058503,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1260058503,
+    "wof:lastmodified":1537676643,
+    "wof:name":"Hayras",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9551,
+    -9.93697,
+    -76.9551,
+    -9.93697
+],
+  "geometry": {"coordinates":[-76.9551,-9.93697],"type":"Point"}
+}

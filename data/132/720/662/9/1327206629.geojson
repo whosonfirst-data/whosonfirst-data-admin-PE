@@ -1,0 +1,77 @@
+{
+  "id": 1327206629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7898,-10.68705,-76.7898,-10.68705",
+    "geom:latitude":-10.68705,
+    "geom:longitude":-76.7898,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Sanya",
+    "gn:country_code":"PE",
+    "gn:dem":3293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962689,
+    "gn:latitude":-10.68705,
+    "gn:longitude":-76.7898,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sanya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962689
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e6b91dccdf5376a322b7be02e64af52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1327206629,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1327206629,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327206629,
+    "wof:lastmodified":1537006213,
+    "wof:name":"Sanya",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7898,
+    -10.68705,
+    -76.7898,
+    -10.68705
+],
+  "geometry": {"coordinates":[-76.7898,-10.68705],"type":"Point"}
+}

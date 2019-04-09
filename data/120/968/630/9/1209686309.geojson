@@ -1,0 +1,63 @@
+{
+  "id": 1209686309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83038,-6.4721,-79.83038,-6.4721",
+    "geom:latitude":-6.4721,
+    "geom:longitude":-79.83038,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140303.0",
+    "gn:asciiname":"Sanjon",
+    "gn:country_code":"PE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820141,
+    "gn:latitude":-6.4721,
+    "gn:longitude":-79.83038,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sanj\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820141
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba10808fc6a5b448d9b65c49d282fa0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209686309
+        }
+    ],
+    "wof:id":1209686309,
+    "wof:lastmodified":1536279398,
+    "wof:name":"Sanjon",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83038,
+    -6.4721,
+    -79.83038,
+    -6.4721
+],
+  "geometry": {"coordinates":[-79.83038000000001,-6.4721],"type":"Point"}
+}

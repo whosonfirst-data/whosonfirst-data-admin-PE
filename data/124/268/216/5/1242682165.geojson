@@ -1,0 +1,69 @@
+{
+  "id": 1242682165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61653,-13.56777,-74.61653,-13.56777",
+    "geom:latitude":-13.56777,
+    "geom:longitude":-74.61653,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51012.0",
+    "gn:asciiname":"Espite",
+    "gn:country_code":"PE",
+    "gn:dem":3123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941079,
+    "gn:latitude":-13.56777,
+    "gn:longitude":-74.61653,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Espite",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941079
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ddd6885b8c9f592bb708bbe9d8bea6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1242682165,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1242682165,
+    "wof:lastmodified":1536913591,
+    "wof:name":"Espite",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61653000000003,
+    -13.56777,
+    -74.61653000000003,
+    -13.56777
+],
+  "geometry": {"coordinates":[-74.61653000000003,-13.56777],"type":"Point"}
+}

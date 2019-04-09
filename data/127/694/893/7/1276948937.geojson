@@ -1,0 +1,69 @@
+{
+  "id": 1276948937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.33522,-7.74647,-78.33522,-7.74647",
+    "geom:latitude":-7.74647,
+    "geom:longitude":-78.33522,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1306.0",
+    "gn:admin3_code":"130614.0",
+    "gn:asciiname":"Callejon",
+    "gn:country_code":"PE",
+    "gn:dem":3112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699021,
+    "gn:latitude":-7.74647,
+    "gn:longitude":-78.33522,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Callejon",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421188717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699021
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7a640dab39fde75766db3e96bb3278f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188717,
+            "locality_id":1276948937,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1276948937,
+    "wof:lastmodified":1536949159,
+    "wof:name":"Callejon",
+    "wof:parent_id":421188717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.33521999999998,
+    -7.74647,
+    -78.33521999999998,
+    -7.74647
+],
+  "geometry": {"coordinates":[-78.33521999999998,-7.74647],"type":"Point"}
+}

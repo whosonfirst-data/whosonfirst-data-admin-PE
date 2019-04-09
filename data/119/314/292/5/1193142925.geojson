@@ -1,0 +1,73 @@
+{
+  "id": 1193142925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.72182,-16.02234,-72.72182,-16.02234",
+    "geom:latitude":-16.02234,
+    "geom:longitude":-72.72182,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Tocyanca",
+    "gn:country_code":"PE",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927270,
+    "gn:latitude":-16.02234,
+    "gn:longitude":-72.72182,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tocyanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tojyanca",
+        "Tocyanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927270
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"89d803071e7563959ccdc93e37866907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1193142925,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1193142925,
+    "wof:lastmodified":1537676677,
+    "wof:name":"Tocyanca",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.72182,
+    -16.02234,
+    -72.72182,
+    -16.02234
+],
+  "geometry": {"coordinates":[-72.72181999999999,-16.02234],"type":"Point"}
+}

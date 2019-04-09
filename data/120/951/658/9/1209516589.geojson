@@ -1,0 +1,64 @@
+{
+  "id": 1209516589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70667,-14.10194,-72.70667,-14.10194",
+    "geom:latitude":-14.10194,
+    "geom:longitude":-72.70667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30701.0",
+    "gn:asciiname":"Chuquibambilla",
+    "gn:country_code":"PE",
+    "gn:dem":3301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3943156,
+    "gn:latitude":-14.10194,
+    "gn:longitude":-72.70667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chuquibambilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943156,
+        "wk:page":"Chuquibambilla"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d3c92dc3f8a50919970b9ec331640a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209516589
+        }
+    ],
+    "wof:id":1209516589,
+    "wof:lastmodified":1537570264,
+    "wof:name":"Chuquibambilla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70666999999997,
+    -14.10194,
+    -72.70666999999997,
+    -14.10194
+],
+  "geometry": {"coordinates":[-72.70666999999997,-14.10194],"type":"Point"}
+}

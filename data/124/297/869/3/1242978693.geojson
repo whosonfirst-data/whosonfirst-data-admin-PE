@@ -1,0 +1,74 @@
+{
+  "id": 1242978693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23333,-9.4,-77.23333,-9.4",
+    "geom:latitude":-9.4,
+    "geom:longitude":-77.23333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21001.0",
+    "gn:asciiname":"Pumachaca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693143,
+    "gn:latitude":-9.4,
+    "gn:longitude":-77.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pumachaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomachaca",
+        "Pumachaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693143
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4296bc9adae021ff8f86a8e3faad63ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187851,
+            "locality_id":1242978693,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242978693,
+    "wof:lastmodified":1537676561,
+    "wof:name":"Pumachaca",
+    "wof:parent_id":421187851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23333000000002,
+    -9.4,
+    -77.23333000000002,
+    -9.4
+],
+  "geometry": {"coordinates":[-77.23333000000002,-9.4],"type":"Point"}
+}

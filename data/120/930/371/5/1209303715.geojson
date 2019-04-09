@@ -1,0 +1,63 @@
+{
+  "id": 1209303715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.81685,-12.66052,-74.81685,-12.66052",
+    "geom:latitude":-12.66052,
+    "geom:longitude":-74.81685,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:asciiname":"Asnapampa",
+    "gn:country_code":"PE",
+    "gn:dem":4259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662339,
+    "gn:latitude":-12.66052,
+    "gn:longitude":-74.81685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Asnapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662339
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"94fbac9df83b31dee94f89e63b553969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209303715
+        }
+    ],
+    "wof:id":1209303715,
+    "wof:lastmodified":1536291267,
+    "wof:name":"Asnapampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.81685,
+    -12.66052,
+    -74.81685,
+    -12.66052
+],
+  "geometry": {"coordinates":[-74.81685,-12.66052],"type":"Point"}
+}

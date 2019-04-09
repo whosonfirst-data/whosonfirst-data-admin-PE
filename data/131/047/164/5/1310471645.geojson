@@ -1,0 +1,77 @@
+{
+  "id": 1310471645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18639,-11.50472,-77.18639,-11.50472",
+    "geom:latitude":-11.50472,
+    "geom:longitude":-77.18639,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"Pozo Azul",
+    "gn:country_code":"PE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254816,
+    "gn:latitude":-11.50472,
+    "gn:longitude":-77.18639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pozo Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254816
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2be49bf5652d9a7a6e962df00f152dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1310471645,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1310471645,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310471645,
+    "wof:lastmodified":1536965618,
+    "wof:name":"Pozo Azul",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18639,
+    -11.50472,
+    -77.18639,
+    -11.50472
+],
+  "geometry": {"coordinates":[-77.18639,-11.50472],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309715555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50361,-6.38472,-77.50361,-6.38472",
+    "geom:latitude":-6.38472,
+    "geom:longitude":-77.50361,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10607.0",
+    "gn:asciiname":"Mariscal Benavides",
+    "gn:country_code":"PE",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383646,
+    "gn:latitude":-6.38472,
+    "gn:longitude":-77.50361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Mariscal Benavides",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383646
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e5cd9f5e801ad16085447f8bda9cde6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693897,
+            "locality_id":1309715555,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1309715555,
+    "wof:lastmodified":1537058634,
+    "wof:name":"Mariscal Benavides",
+    "wof:parent_id":1108693897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50361,
+    -6.38472,
+    -77.50361,
+    -6.38472
+],
+  "geometry": {"coordinates":[-77.50360999999999,-6.38472],"type":"Point"}
+}

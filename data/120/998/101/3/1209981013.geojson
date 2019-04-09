@@ -1,0 +1,72 @@
+{
+  "id": 1209981013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.94975,-4.35408,-80.94975,-4.35408",
+    "geom:latitude":-4.35408,
+    "geom:longitude":-80.94975,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Oyocos",
+    "gn:country_code":"PE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694201,
+    "gn:latitude":-4.35408,
+    "gn:longitude":-80.94975,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Oyocos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Oyocos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694201
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"983127bbef83ff436b7a8bbbc25ba122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1209981013,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1209981013,
+    "wof:lastmodified":1537676576,
+    "wof:name":"Oyocos",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.94975,
+    -4.35408,
+    -80.94975,
+    -4.35408
+],
+  "geometry": {"coordinates":[-80.94974999999999,-4.35408],"type":"Point"}
+}

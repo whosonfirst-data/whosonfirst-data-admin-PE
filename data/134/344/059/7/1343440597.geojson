@@ -1,0 +1,75 @@
+{
+  "id": 1343440597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8748,-10.78131,-74.8748,-10.78131",
+    "geom:latitude":-10.78131,
+    "geom:longitude":-74.8748,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120303.0",
+    "gn:asciiname":"Naciente Cuviriani",
+    "gn:country_code":"PE",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963928,
+    "gn:latitude":-10.78131,
+    "gn:longitude":-74.8748,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Naciente Cuviriani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Naciente Cuviriani"
+    ],
+    "name:spa_x_variant":[
+        "Naciente Cuvitiani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963928
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3475ea43319596a08a20d4df15c176dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1343440597,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343440597,
+    "wof:lastmodified":1537676888,
+    "wof:name":"Naciente Cuviriani",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8748,
+    -10.78131,
+    -74.8748,
+    -10.78131
+],
+  "geometry": {"coordinates":[-74.87479999999999,-10.78131],"type":"Point"}
+}

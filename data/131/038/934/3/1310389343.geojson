@@ -1,0 +1,69 @@
+{
+  "id": 1310389343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.60286,-12.15303,-74.60286,-12.15303",
+    "geom:latitude":-12.15303,
+    "geom:longitude":-74.60286,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90717.0",
+    "gn:asciiname":"Chontacancha",
+    "gn:country_code":"PE",
+    "gn:dem":3291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665070,
+    "gn:latitude":-12.15303,
+    "gn:longitude":-74.60286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chontacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665070
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"831bbf19f41aa69f3cc799356e6d0564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1310389343,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310389343,
+    "wof:lastmodified":1537081390,
+    "wof:name":"Chontacancha",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.60285999999998,
+    -12.15303,
+    -74.60285999999998,
+    -12.15303
+],
+  "geometry": {"coordinates":[-74.60285999999998,-12.15303],"type":"Point"}
+}

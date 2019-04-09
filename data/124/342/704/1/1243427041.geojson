@@ -1,0 +1,77 @@
+{
+  "id": 1243427041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.36333,-11.86472,-76.36333,-11.86472",
+    "geom:latitude":-11.86472,
+    "geom:longitude":-76.36333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150701.0",
+    "gn:asciiname":"Huillaque",
+    "gn:country_code":"PE",
+    "gn:dem":3168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3967370,
+    "gn:latitude":-11.86472,
+    "gn:longitude":-76.36333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huillaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967370
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"35894b90952506c8382ef7c189bd4a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1243427041,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1243427041,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1243427041,
+    "wof:lastmodified":1536832512,
+    "wof:name":"Huillaque",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.36333,
+    -11.86472,
+    -76.36333,
+    -11.86472
+],
+  "geometry": {"coordinates":[-76.36333,-11.86472],"type":"Point"}
+}

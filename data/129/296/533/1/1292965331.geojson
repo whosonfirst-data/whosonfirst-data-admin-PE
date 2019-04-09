@@ -1,0 +1,72 @@
+{
+  "id": 1292965331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93853,-4.58465,-80.93853,-4.58465",
+    "geom:latitude":-4.58465,
+    "geom:longitude":-80.93853,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Mogollon",
+    "gn:country_code":"PE",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694713,
+    "gn:latitude":-4.58465,
+    "gn:longitude":-80.93853,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mogoll\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mogoll\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694713
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6c4d2ac305bc1372d647337476d42dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1292965331,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1292965331,
+    "wof:lastmodified":1537676583,
+    "wof:name":"Mogollon",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93853,
+    -4.58465,
+    -80.93853,
+    -4.58465
+],
+  "geometry": {"coordinates":[-80.93853,-4.58465],"type":"Point"}
+}

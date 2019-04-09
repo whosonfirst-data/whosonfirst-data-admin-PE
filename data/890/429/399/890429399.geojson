@@ -1,0 +1,66 @@
+{
+  "id": 890429399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21627,-12.60112,-70.21627,-12.60112",
+    "geom:latitude":-12.60112,
+    "geom:longitude":-70.21627,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":255,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"San Juan Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        421170665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959426,
+        "gp:id":420478,
+        "qs:id":97046
+    },
+    "wof:country":"PE",
+    "wof:created":1469051813,
+    "wof:geomhash":"3f32b1767a6d2fc47fe02e8e6891e1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170665,
+            "locality_id":890429399,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":890429399,
+    "wof:lastmodified":1505343512,
+    "wof:name":"San Juan Grande",
+    "wof:parent_id":421170665,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21627,
+    -12.60112,
+    -70.21627,
+    -12.60112
+],
+  "geometry": {"coordinates":[-70.21626999999999,-12.60112],"type":"Point"}
+}

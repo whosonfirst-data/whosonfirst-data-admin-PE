@@ -1,0 +1,63 @@
+{
+  "id": 1209094725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7,-10.0,-76.7,-10.0",
+    "geom:latitude":-10.0,
+    "geom:longitude":-76.7,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101005.0",
+    "gn:asciiname":"Pumayan",
+    "gn:country_code":"PE",
+    "gn:dem":3629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931319,
+    "gn:latitude":-10.0,
+    "gn:longitude":-76.7,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pumayan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931319
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3467c77459c6a55e57170d1597a7e8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209094725
+        }
+    ],
+    "wof:id":1209094725,
+    "wof:lastmodified":1536297924,
+    "wof:name":"Pumayan",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7,
+    -10.0,
+    -76.7,
+    -10.0
+],
+  "geometry": {"coordinates":[-76.7,-10.0],"type":"Point"}
+}

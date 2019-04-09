@@ -1,0 +1,69 @@
+{
+  "id": 1326914221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.89777,-12.99866,-74.89777,-12.99866",
+    "geom:latitude":-12.99866,
+    "geom:longitude":-74.89777,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90106.0",
+    "gn:asciiname":"Chimpapata",
+    "gn:country_code":"PE",
+    "gn:dem":4236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663126,
+    "gn:latitude":-12.99866,
+    "gn:longitude":-74.89777,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chimpapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663126
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2b777fd7c975681410d4aaf0ee47baf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1326914221,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1326914221,
+    "wof:lastmodified":1536931512,
+    "wof:name":"Chimpapata",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.89777,
+    -12.99866,
+    -74.89777,
+    -12.99866
+],
+  "geometry": {"coordinates":[-74.89776999999999,-12.99866],"type":"Point"}
+}

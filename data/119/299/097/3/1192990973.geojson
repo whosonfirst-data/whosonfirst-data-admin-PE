@@ -1,0 +1,81 @@
+{
+  "id": 1192990973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.25888,-11.56942,-77.25888,-11.56942",
+    "geom:latitude":-11.56942,
+    "geom:longitude":-77.25888,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150605.0",
+    "gn:asciiname":"Chacarilla",
+    "gn:country_code":"PE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944717,
+    "gn:latitude":-11.56942,
+    "gn:longitude":-77.25888,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Chacarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chacarilla Hacienda",
+        "Chacarilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944717
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e7d1159a4e2760e4f4f2448df6ad73ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1192990973,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1192990973,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1192990973,
+    "wof:lastmodified":1537676842,
+    "wof:name":"Chacarilla",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.25888,
+    -11.56942,
+    -77.25888,
+    -11.56942
+],
+  "geometry": {"coordinates":[-77.25888,-11.56942],"type":"Point"}
+}

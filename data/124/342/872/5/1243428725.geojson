@@ -1,0 +1,69 @@
+{
+  "id": 1243428725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.49778,-4.61944,-80.49778,-4.61944",
+    "geom:latitude":-4.61944,
+    "geom:longitude":-80.49778,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"Huaypira Alta",
+    "gn:country_code":"PE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3754808,
+    "gn:latitude":-4.61944,
+    "gn:longitude":-80.49778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huaypira Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3754808
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f5b4b7942de70c48a00ca0066fe87ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1243428725,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243428725,
+    "wof:lastmodified":1536830091,
+    "wof:name":"Huaypira Alta",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.49778,
+    -4.61944,
+    -80.49778,
+    -4.61944
+],
+  "geometry": {"coordinates":[-80.49778000000001,-4.61944],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209099193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86169,-13.81481,-73.86169,-13.81481",
+    "geom:latitude":-13.81481,
+    "geom:longitude":-73.86169,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51102.0",
+    "gn:asciiname":"Pata Pata",
+    "gn:country_code":"PE",
+    "gn:dem":3520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932750,
+    "gn:latitude":-13.81481,
+    "gn:longitude":-73.86169,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pata Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932750
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46f57c44da3ee2ad41677c4533d936f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209099193
+        }
+    ],
+    "wof:id":1209099193,
+    "wof:lastmodified":1536297789,
+    "wof:name":"Pata Pata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86169,
+    -13.81481,
+    -73.86169,
+    -13.81481
+],
+  "geometry": {"coordinates":[-73.86169,-13.81481],"type":"Point"}
+}

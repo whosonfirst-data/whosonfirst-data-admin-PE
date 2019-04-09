@@ -1,0 +1,69 @@
+{
+  "id": 1242591295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.12146,-5.22082,-78.12146,-5.22082",
+    "geom:latitude":-5.22082,
+    "geom:longitude":-78.12146,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10205.0",
+    "gn:asciiname":"Cusuin",
+    "gn:country_code":"PE",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3817289,
+    "gn:latitude":-5.22082,
+    "gn:longitude":-78.12146,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cusu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817289
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eadd101fe6f6a64a553b92a4baa11855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693901,
+            "locality_id":1242591295,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1242591295,
+    "wof:lastmodified":1537042065,
+    "wof:name":"Cusuin",
+    "wof:parent_id":1108693901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.12146,
+    -5.22082,
+    -78.12146,
+    -5.22082
+],
+  "geometry": {"coordinates":[-78.12146,-5.22082],"type":"Point"}
+}

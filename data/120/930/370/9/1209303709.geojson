@@ -1,0 +1,63 @@
+{
+  "id": 1209303709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.00962,-12.92176,-75.00962,-12.92176",
+    "geom:latitude":-12.92176,
+    "geom:longitude":-75.00962,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90101.0",
+    "gn:asciiname":"Carhuarazo",
+    "gn:country_code":"PE",
+    "gn:dem":4537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945450,
+    "gn:latitude":-12.92176,
+    "gn:longitude":-75.00962,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Carhuarazo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945450
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a595c38160a4b8e721d825ab7fd04349",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209303709
+        }
+    ],
+    "wof:id":1209303709,
+    "wof:lastmodified":1536291267,
+    "wof:name":"Carhuarazo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.00962,
+    -12.92176,
+    -75.00962,
+    -12.92176
+],
+  "geometry": {"coordinates":[-75.00962,-12.92176],"type":"Point"}
+}

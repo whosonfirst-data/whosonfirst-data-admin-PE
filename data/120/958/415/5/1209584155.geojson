@@ -1,0 +1,63 @@
+{
+  "id": 1209584155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.18925,-17.2995,-70.18925,-17.2995",
+    "geom:latitude":-17.2995,
+    "geom:longitude":-70.18925,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:asciiname":"Mullini",
+    "gn:country_code":"PE",
+    "gn:dem":3148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934490,
+    "gn:latitude":-17.2995,
+    "gn:longitude":-70.18925,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mullini",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934490
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"259553f49a7001726ddfb7cf0e05b463",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209584155
+        }
+    ],
+    "wof:id":1209584155,
+    "wof:lastmodified":1536282691,
+    "wof:name":"Mullini",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.18925,
+    -17.2995,
+    -70.18925,
+    -17.2995
+],
+  "geometry": {"coordinates":[-70.18925,-17.2995],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292907977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45776,-13.12193,-74.45776,-13.12193",
+    "geom:latitude":-13.12193,
+    "geom:longitude":-74.45776,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Condorcancha",
+    "gn:country_code":"PE",
+    "gn:dem":4208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668224,
+    "gn:latitude":-13.12193,
+    "gn:longitude":-74.45776,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Condorcancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668224
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"38eaf6cfe9091be175148d88e06c4d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1292907977,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1292907977,
+    "wof:lastmodified":1536626547,
+    "wof:name":"Condorcancha",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45776,
+    -13.12193,
+    -74.45776,
+    -13.12193
+],
+  "geometry": {"coordinates":[-74.45775999999999,-13.12193],"type":"Point"}
+}

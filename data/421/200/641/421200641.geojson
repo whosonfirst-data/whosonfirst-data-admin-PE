@@ -1,0 +1,88 @@
+{
+  "id": 421200641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23333,-3.71667,-73.23333,-3.71667",
+    "geom:latitude":-3.71667,
+    "geom:longitude":-73.23333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Punchana"
+    ],
+    "name:eng_x_preferred":[
+        "Punchana"
+    ],
+    "name:spa_x_preferred":[
+        "Punchana"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3693134,
+    "qs:gn_pop":0,
+    "qs:name":"Punchana",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Loreto",
+    "qs:photos":1447,
+    "qs:photos_1k":293,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1447,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889991,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":412498,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693134,
+        "gp:id":412498,
+        "qs:id":889991,
+        "wd:id":"Q7259962",
+        "wk:page":"Punchana"
+    },
+    "wof:country":"PE",
+    "wof:created":1459010033,
+    "wof:geomhash":"61a0eb32ba99a573991c68700e68619b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":421200641,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":421200641,
+    "wof:lastmodified":1527716428,
+    "wof:name":"Punchana",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23333,
+    -3.71667,
+    -73.23333,
+    -3.71667
+],
+  "geometry": {"coordinates":[-73.23333,-3.71667],"type":"Point"}
+}

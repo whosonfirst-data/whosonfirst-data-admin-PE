@@ -1,0 +1,73 @@
+{
+  "id": 1209781363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67892,-16.82611,-70.67892,-16.82611",
+    "geom:latitude":-16.82611,
+    "geom:longitude":-70.67892,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180102.0",
+    "gn:asciiname":"Cambrune",
+    "gn:country_code":"PE",
+    "gn:dem":3266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945962,
+    "gn:latitude":-16.82611,
+    "gn:longitude":-70.67892,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cambrune",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambruna",
+        "Cambrune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945962
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6557c1e3cc87b5313e5e68f54121f6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1209781363,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1209781363,
+    "wof:lastmodified":1537676853,
+    "wof:name":"Cambrune",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67891999999998,
+    -16.82611,
+    -70.67891999999998,
+    -16.82611
+],
+  "geometry": {"coordinates":[-70.67891999999998,-16.82611],"type":"Point"}
+}

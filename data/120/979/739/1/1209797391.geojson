@@ -1,0 +1,71 @@
+{
+  "id": 1209797391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57306,-7.96018,-75.57306,-7.96018",
+    "geom:latitude":-7.96018,
+    "geom:longitude":-75.57306,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1606.0",
+    "gn:asciiname":"Hector",
+    "gn:country_code":"PE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197194,
+    "gn:latitude":-7.96018,
+    "gn:longitude":-75.57306,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"H\u00e9ctor",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "H\u00e9ctor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421187865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197194
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e9b4953bc970195917ab563837faaa55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187865,
+            "locality_id":1209797391,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1209797391,
+    "wof:lastmodified":1537676972,
+    "wof:name":"Hector",
+    "wof:parent_id":421187865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57306,
+    -7.96018,
+    -75.57306,
+    -7.96018
+],
+  "geometry": {"coordinates":[-75.57306,-7.96018],"type":"Point"}
+}

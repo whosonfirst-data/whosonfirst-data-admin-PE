@@ -1,0 +1,69 @@
+{
+  "id": 1226301837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80499,-5.16778,-79.80499,-5.16778",
+    "geom:latitude":-5.16778,
+    "geom:longitude":-79.80499,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200410.0",
+    "gn:asciiname":"Huarhuar",
+    "gn:country_code":"PE",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761759,
+    "gn:latitude":-5.16778,
+    "gn:longitude":-79.80499,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huarhuar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761759
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fa0c79ef339e4a585453e97f4528b63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1226301837,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226301837,
+    "wof:lastmodified":1536851847,
+    "wof:name":"Huarhuar",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80499,
+    -5.16778,
+    -79.80499,
+    -5.16778
+],
+  "geometry": {"coordinates":[-79.80499,-5.16778],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125874331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.65058,-8.9919,-78.65058,-8.9919",
+    "geom:latitude":-8.9919,
+    "geom:longitude":-78.65058,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14066,
+    "gn:population":14066,
+    "iso:country":"PE",
+    "lbl:latitude":-8.9919,
+    "lbl:longitude":-78.65058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Puerto Santa"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3693191,
+    "qs_pg:gn_pop":14066,
+    "qs_pg:name":"Puerto Santa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":150191,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693191,
+        "qs_pg:id":150191
+    },
+    "wof:country":"PE",
+    "wof:created":1497294464,
+    "wof:geomhash":"938a0eccbef481f2c36bacf90d7bf7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1125874331,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1125874331,
+    "wof:lastmodified":1509397601,
+    "wof:name":"Puerto Santa",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:population":14066,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.65058,
+    -8.9919,
+    -78.65058,
+    -8.9919
+],
+  "geometry": {"coordinates":[-78.65058000000001,-8.9919],"type":"Point"}
+}

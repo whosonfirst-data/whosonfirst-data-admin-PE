@@ -1,0 +1,69 @@
+{
+  "id": 1343853125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.35352,-9.72163,-76.35352,-9.72163",
+    "geom:latitude":-9.72163,
+    "geom:longitude":-76.35352,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100109.0",
+    "gn:asciiname":"Cutapalla",
+    "gn:country_code":"PE",
+    "gn:dem":3838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670355,
+    "gn:latitude":-9.72163,
+    "gn:longitude":-76.35352,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cutapalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670355
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8bdd8ce7d586db49ef0c020f57e93d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1343853125,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343853125,
+    "wof:lastmodified":1536677217,
+    "wof:name":"Cutapalla",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.35351999999997,
+    -9.72163,
+    -76.35351999999997,
+    -9.72163
+],
+  "geometry": {"coordinates":[-76.35351999999997,-9.72163],"type":"Point"}
+}

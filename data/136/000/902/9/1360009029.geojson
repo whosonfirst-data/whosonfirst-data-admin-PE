@@ -1,0 +1,69 @@
+{
+  "id": 1360009029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16706,-16.42574,-71.16706,-16.42574",
+    "geom:latitude":-16.42574,
+    "geom:longitude":-71.16706,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Canuma",
+    "gn:country_code":"PE",
+    "gn:dem":4408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945710,
+    "gn:latitude":-16.42574,
+    "gn:longitude":-71.16706,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ca\u00f1uma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945710
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b57ebe5a50fcc3ced93c6722c5f9363e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1360009029,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1360009029,
+    "wof:lastmodified":1537053115,
+    "wof:name":"Canuma",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16705999999998,
+    -16.42574,
+    -71.16705999999998,
+    -16.42574
+],
+  "geometry": {"coordinates":[-71.16705999999998,-16.42574],"type":"Point"}
+}

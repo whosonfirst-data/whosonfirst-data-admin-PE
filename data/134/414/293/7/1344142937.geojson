@@ -1,0 +1,69 @@
+{
+  "id": 1344142937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.32227,-7.71593,-79.32227,-7.71593",
+    "geom:latitude":-7.71593,
+    "geom:longitude":-79.32227,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130205.0",
+    "gn:asciiname":"Chumpon",
+    "gn:country_code":"PE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698096,
+    "gn:latitude":-7.71593,
+    "gn:longitude":-79.32227,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chump\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421193361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698096
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d5ebc2ea0f7c75f9f504699f0181aafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193361,
+            "locality_id":1344142937,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1344142937,
+    "wof:lastmodified":1536756733,
+    "wof:name":"Chumpon",
+    "wof:parent_id":421193361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.32226999999997,
+    -7.71593,
+    -79.32226999999997,
+    -7.71593
+],
+  "geometry": {"coordinates":[-79.32226999999997,-7.71593],"type":"Point"}
+}

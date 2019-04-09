@@ -1,0 +1,69 @@
+{
+  "id": 1226603185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34056,-5.94972,-77.34056,-5.94972",
+    "geom:latitude":-5.94972,
+    "geom:longitude":-77.34056,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2208.0",
+    "gn:admin3_code":"220804.0",
+    "gn:asciiname":"La Florida",
+    "gn:country_code":"PE",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389403,
+    "gn:latitude":-5.94972,
+    "gn:longitude":-77.34056,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421194089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389403
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c057be3d851c9dd8a74aab2e77d9eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194089,
+            "locality_id":1226603185,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226603185,
+    "wof:lastmodified":1536919594,
+    "wof:name":"La Florida",
+    "wof:parent_id":421194089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34056,
+    -5.94972,
+    -77.34056,
+    -5.94972
+],
+  "geometry": {"coordinates":[-77.34056,-5.94972],"type":"Point"}
+}

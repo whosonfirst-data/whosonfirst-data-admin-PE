@@ -1,0 +1,75 @@
+{
+  "id": 1292983991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.40861,-6.62778,-79.40861,-6.62778",
+    "geom:latitude":-6.62778,
+    "geom:longitude":-79.40861,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140102.0",
+    "gn:asciiname":"Juana Rios",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696063,
+    "gn:latitude":-6.62778,
+    "gn:longitude":-79.40861,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Juana R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciudad Juana Rios",
+        "Juana Rica",
+        "Juana R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696063
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6096f6048a9cd126763e5f2b4dc8cc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1292983991,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1292983991,
+    "wof:lastmodified":1537676599,
+    "wof:name":"Juana Rios",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.40861,
+    -6.62778,
+    -79.40861,
+    -6.62778
+],
+  "geometry": {"coordinates":[-79.40861,-6.62778],"type":"Point"}
+}

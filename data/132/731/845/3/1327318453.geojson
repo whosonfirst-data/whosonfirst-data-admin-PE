@@ -1,0 +1,73 @@
+{
+  "id": 1327318453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03722,-13.59778,-72.03722,-13.59778",
+    "geom:latitude":-13.59778,
+    "geom:longitude":-72.03722,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80102.0",
+    "gn:asciiname":"Oratea",
+    "gn:country_code":"PE",
+    "gn:dem":3594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934006,
+    "gn:latitude":-13.59778,
+    "gn:longitude":-72.03722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Oratea",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oratea Hacienda",
+        "Oratea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421172425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934006
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"623b8eb5668df99ea26dec4ec53a2837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172425,
+            "locality_id":1327318453,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1327318453,
+    "wof:lastmodified":1537676744,
+    "wof:name":"Oratea",
+    "wof:parent_id":421172425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03721999999998,
+    -13.59778,
+    -72.03721999999998,
+    -13.59778
+],
+  "geometry": {"coordinates":[-72.03721999999998,-13.59778],"type":"Point"}
+}

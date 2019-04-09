@@ -1,0 +1,67 @@
+{
+  "id": 1209495529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78233,-13.67203,-75.78233,-13.67203",
+    "geom:latitude":-13.67203,
+    "geom:longitude":-75.78233,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110503.0",
+    "gn:asciiname":"Huaya Chica",
+    "gn:country_code":"PE",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939819,
+    "gn:latitude":-13.67203,
+    "gn:longitude":-75.78233,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Huaya Chica",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualla Chica",
+        "Hualla Chico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939819
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"022437f7991f3c3988e8a371d8ff8d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209495529
+        }
+    ],
+    "wof:id":1209495529,
+    "wof:lastmodified":1537676798,
+    "wof:name":"Huaya Chica",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78233,
+    -13.67203,
+    -75.78233,
+    -13.67203
+],
+  "geometry": {"coordinates":[-75.78233,-13.67203],"type":"Point"}
+}

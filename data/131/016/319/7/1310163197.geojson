@@ -1,0 +1,64 @@
+{
+  "id": 1310163197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.81667,-3.8,-80.81667,-3.8",
+    "geom:latitude":-3.8,
+    "geom:longitude":-80.81667,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:asciiname":"Cardalito",
+    "gn:country_code":"PE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698831,
+    "gn:latitude":-3.8,
+    "gn:longitude":-80.81667,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Cardalito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698831
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"83e8b2e62c40309933f1a0e8e2cdf878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1310163197,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310163197,
+    "wof:lastmodified":1536913906,
+    "wof:name":"Cardalito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.81667,
+    -3.8,
+    -80.81667,
+    -3.8
+],
+  "geometry": {"coordinates":[-80.81667,-3.8],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259473111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.0575,-13.49,-72.0575,-13.49",
+    "geom:latitude":-13.49,
+    "geom:longitude":-72.0575,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Quellorumi",
+    "gn:country_code":"PE",
+    "gn:dem":3476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6393454,
+    "gn:latitude":-13.49,
+    "gn:longitude":-72.0575,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quellorumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6393454
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e93f9089e6fdcb6c7a53c56053af2f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1259473111,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259473111,
+    "wof:lastmodified":1536872753,
+    "wof:name":"Quellorumi",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.0575,
+    -13.49,
+    -72.0575,
+    -13.49
+],
+  "geometry": {"coordinates":[-72.0575,-13.49],"type":"Point"}
+}

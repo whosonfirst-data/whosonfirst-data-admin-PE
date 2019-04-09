@@ -1,0 +1,68 @@
+{
+  "id": 1343545129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71319,-13.78722,-74.71319,-13.78722",
+    "geom:latitude":-13.78722,
+    "geom:longitude":-74.71319,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Chanlacnioc",
+    "gn:country_code":"PE",
+    "gn:dem":4558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944371,
+    "gn:latitude":-13.78722,
+    "gn:longitude":-74.71319,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Chanlacnioc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944371
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a0cadc69ee81ff4dc1cb2af22b78dd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693939,
+            "locality_id":1343545129,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343545129,
+    "wof:lastmodified":1536622033,
+    "wof:name":"Chanlacnioc",
+    "wof:parent_id":1108693939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71319,
+    -13.78722,
+    -74.71319,
+    -13.78722
+],
+  "geometry": {"coordinates":[-74.71319,-13.78722],"type":"Point"}
+}

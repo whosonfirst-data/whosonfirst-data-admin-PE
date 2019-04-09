@@ -1,0 +1,78 @@
+{
+  "id": 421187381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05,-12.11667,-77.05,-12.11667",
+    "geom:latitude":-12.11667,
+    "geom:longitude":-77.05,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929631,
+    "qs:gn_pop":68309,
+    "qs:name":"San Isidro",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":776,
+    "qs:photos_1k":157,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":776,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1082779,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":414014,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1052,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929631,
+        "gp:id":414014,
+        "qs:id":1082779
+    },
+    "wof:country":"PE",
+    "wof:created":1459009511,
+    "wof:geomhash":"4bedc4254f87c9a2159e2e47a3b16ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "locality_id":421187381,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421187381,
+    "wof:lastmodified":1527716253,
+    "wof:name":"San Isidro",
+    "wof:parent_id":85675909,
+    "wof:placetype":"locality",
+    "wof:population":68309,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05,
+    -12.11667,
+    -77.05,
+    -12.11667
+],
+  "geometry": {"coordinates":[-77.05,-12.11667],"type":"Point"}
+}

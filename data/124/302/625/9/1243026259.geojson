@@ -1,0 +1,74 @@
+{
+  "id": 1243026259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2375,-18.01667,-70.2375,-18.01667",
+    "geom:latitude":-18.01667,
+    "geom:longitude":-70.2375,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:asciiname":"Las Vilcas",
+    "gn:country_code":"PE",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936670,
+    "gn:latitude":-18.01667,
+    "gn:longitude":-70.2375,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Las Vilcas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Vilcas Hacienda",
+        "La Vilca",
+        "Las Vilcas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936670
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"91aa4e1f874dd927050804641f311c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1243026259,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1243026259,
+    "wof:lastmodified":1537676769,
+    "wof:name":"Las Vilcas",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.2375,
+    -18.01667,
+    -70.2375,
+    -18.01667
+],
+  "geometry": {"coordinates":[-70.2375,-18.01667],"type":"Point"}
+}

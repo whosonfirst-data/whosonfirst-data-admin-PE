@@ -1,0 +1,69 @@
+{
+  "id": 1327492077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69024,-17.03513,-69.69024,-17.03513",
+    "geom:latitude":-17.03513,
+    "geom:longitude":-69.69024,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210502.0",
+    "gn:asciiname":"Tiracullo",
+    "gn:country_code":"PE",
+    "gn:dem":4190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392883,
+    "gn:latitude":-17.03513,
+    "gn:longitude":-69.69024,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tiracullo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392883
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d47462541b9fdfb720ac7f80d7e0eca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1327492077,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327492077,
+    "wof:lastmodified":1537089265,
+    "wof:name":"Tiracullo",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69024,
+    -17.03513,
+    -69.69024,
+    -17.03513
+],
+  "geometry": {"coordinates":[-69.69024,-17.03513],"type":"Point"}
+}

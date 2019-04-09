@@ -1,0 +1,69 @@
+{
+  "id": 1344221481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,-5.25,-79.95,-5.25",
+    "geom:latitude":-5.25,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200402.0",
+    "gn:asciiname":"Cerritos",
+    "gn:country_code":"PE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698579,
+    "gn:latitude":-5.25,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698579
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c34f2bc6b3bf296cae8ee5dc12d8b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1344221481,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1344221481,
+    "wof:lastmodified":1536642603,
+    "wof:name":"Cerritos",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    -5.25,
+    -79.95,
+    -5.25
+],
+  "geometry": {"coordinates":[-79.95,-5.25],"type":"Point"}
+}

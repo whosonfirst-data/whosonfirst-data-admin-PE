@@ -1,0 +1,69 @@
+{
+  "id": 890445203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34167,-15.26611,-72.34167,-15.26611",
+    "geom:latitude":-15.26611,
+    "geom:longitude":-72.34167,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":5643,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Orcopampa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933986,
+        "gp:id":419075,
+        "qs:id":1047314,
+        "wd:id":"Q3314207",
+        "wk:page":"Orcopampa District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052501,
+    "wof:geomhash":"022d3663c9a8cd32e498e5fabbf94c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":890445203,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":890445203,
+    "wof:lastmodified":1527792869,
+    "wof:name":"Orcopampa",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:population":5643,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34167,
+    -15.26611,
+    -72.34167,
+    -15.26611
+],
+  "geometry": {"coordinates":[-72.34166999999999,-15.26611],"type":"Point"}
+}

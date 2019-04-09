@@ -1,0 +1,72 @@
+{
+  "id": 1242647733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58357,-6.77121,-79.58357,-6.77121",
+    "geom:latitude":-6.77121,
+    "geom:longitude":-79.58357,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140119.0",
+    "gn:asciiname":"La Union",
+    "gn:country_code":"PE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810763,
+    "gn:latitude":-6.77121,
+    "gn:longitude":-79.58357,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810763
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f30dccb3f2098f90a3ef5c5ff8b87ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1242647733,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1242647733,
+    "wof:lastmodified":1537676656,
+    "wof:name":"La Union",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58357,
+    -6.77121,
+    -79.58357,
+    -6.77121
+],
+  "geometry": {"coordinates":[-79.58356999999999,-6.77121],"type":"Point"}
+}

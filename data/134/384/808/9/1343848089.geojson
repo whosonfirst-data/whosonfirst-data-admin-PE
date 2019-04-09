@@ -1,0 +1,73 @@
+{
+  "id": 1343848089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11,-13.33,-73.11,-13.33",
+    "geom:latitude":-13.33,
+    "geom:longitude":-73.11,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80909.0",
+    "gn:asciiname":"Ojoro",
+    "gn:country_code":"PE",
+    "gn:dem":3842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934185,
+    "gn:latitude":-13.33,
+    "gn:longitude":-73.11,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ojoro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Occoro",
+        "Ojoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934185
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d044c9fa3ed24cd51374102e581d63cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1343848089,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1343848089,
+    "wof:lastmodified":1537676746,
+    "wof:name":"Ojoro",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11,
+    -13.33,
+    -73.11,
+    -13.33
+],
+  "geometry": {"coordinates":[-73.11,-13.33],"type":"Point"}
+}

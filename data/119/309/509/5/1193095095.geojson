@@ -1,0 +1,69 @@
+{
+  "id": 1193095095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.96471,-17.86186,-70.96471,-17.86186",
+    "geom:latitude":-17.86186,
+    "geom:longitude":-70.96471,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230303.0",
+    "gn:asciiname":"Ite",
+    "gn:country_code":"PE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938113,
+    "gn:latitude":-17.86186,
+    "gn:longitude":-70.96471,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ite",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938113
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf9e72fddb2c311107670f55d1b63636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1193095095,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1193095095,
+    "wof:lastmodified":1536366627,
+    "wof:name":"Ite",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.96471,
+    -17.86186,
+    -70.96471,
+    -17.86186
+],
+  "geometry": {"coordinates":[-70.96471,-17.86186],"type":"Point"}
+}

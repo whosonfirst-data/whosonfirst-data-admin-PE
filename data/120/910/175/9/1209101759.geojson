@@ -1,0 +1,63 @@
+{
+  "id": 1209101759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47596,-13.12181,-74.47596,-13.12181",
+    "geom:latitude":-13.12181,
+    "geom:longitude":-74.47596,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90311.0",
+    "gn:asciiname":"Ccuenhuacha",
+    "gn:country_code":"PE",
+    "gn:dem":3993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944883,
+    "gn:latitude":-13.12181,
+    "gn:longitude":-74.47596,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Ccuenhuacha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944883
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d81ee967c95fbf3a86bd28f418d60da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101759
+        }
+    ],
+    "wof:id":1209101759,
+    "wof:lastmodified":1536297710,
+    "wof:name":"Ccuenhuacha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47596,
+    -13.12181,
+    -74.47596,
+    -13.12181
+],
+  "geometry": {"coordinates":[-74.47596,-13.12181],"type":"Point"}
+}

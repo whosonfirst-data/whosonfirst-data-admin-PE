@@ -1,0 +1,69 @@
+{
+  "id": 1327252205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71746,-12.59389,-74.71746,-12.59389",
+    "geom:latitude":-12.59389,
+    "geom:longitude":-74.71746,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:asciiname":"Chirampampa",
+    "gn:country_code":"PE",
+    "gn:dem":3647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662273,
+    "gn:latitude":-12.59389,
+    "gn:longitude":-74.71746,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chirampampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662273
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d78ec3c24e69efed71a3d698d2475ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1327252205,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1327252205,
+    "wof:lastmodified":1536941587,
+    "wof:name":"Chirampampa",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71746,
+    -12.59389,
+    -74.71746,
+    -12.59389
+],
+  "geometry": {"coordinates":[-74.71746,-12.59389],"type":"Point"}
+}

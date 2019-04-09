@@ -1,0 +1,72 @@
+{
+  "id": 1343530085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99856,-5.94225,-76.99856,-5.94225",
+    "geom:latitude":-5.94225,
+    "geom:longitude":-76.99856,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2201.0",
+    "gn:admin3_code":"220101.0",
+    "gn:asciiname":"Milagro",
+    "gn:country_code":"PE",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6267362,
+    "gn:latitude":-5.94225,
+    "gn:longitude":-76.99856,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Milagro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Milagro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6267362
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6fae8b1becbd0b6a416510f74077f9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694053,
+            "locality_id":1343530085,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1343530085,
+    "wof:lastmodified":1537676895,
+    "wof:name":"Milagro",
+    "wof:parent_id":1108694053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99856,
+    -5.94225,
+    -76.99856,
+    -5.94225
+],
+  "geometry": {"coordinates":[-76.99856,-5.94225],"type":"Point"}
+}

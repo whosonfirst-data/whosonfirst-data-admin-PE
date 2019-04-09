@@ -1,0 +1,73 @@
+{
+  "id": 1276252409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95104,-15.47609,-72.95104,-15.47609",
+    "geom:latitude":-15.47609,
+    "geom:longitude":-72.95104,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40604.0",
+    "gn:asciiname":"Cahuanota",
+    "gn:country_code":"PE",
+    "gn:dem":2740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946317,
+    "gn:latitude":-15.47609,
+    "gn:longitude":-72.95104,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cahuanota",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cahuanata",
+        "Cahuanota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946317
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0c243604f6ff66c732351827dbff105c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1276252409,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276252409,
+    "wof:lastmodified":1537676856,
+    "wof:name":"Cahuanota",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95104,
+    -15.47609,
+    -72.95104,
+    -15.47609
+],
+  "geometry": {"coordinates":[-72.95104000000001,-15.47609],"type":"Point"}
+}

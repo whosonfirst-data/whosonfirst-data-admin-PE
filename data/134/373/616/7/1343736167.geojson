@@ -1,0 +1,73 @@
+{
+  "id": 1343736167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68583,-13.93822,-69.68583,-13.93822",
+    "geom:latitude":-13.93822,
+    "geom:longitude":-69.68583,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103.0",
+    "gn:admin3_code":"210304.0",
+    "gn:asciiname":"Sagrario",
+    "gn:country_code":"PE",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930068,
+    "gn:latitude":-13.93822,
+    "gn:longitude":-69.68583,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Sagrario",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagraria",
+        "Sagrario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930068
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"018f5aa29707cbbed19fa395271c9c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1343736167,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343736167,
+    "wof:lastmodified":1537676708,
+    "wof:name":"Sagrario",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68583000000001,
+    -13.93822,
+    -69.68583000000001,
+    -13.93822
+],
+  "geometry": {"coordinates":[-69.68583000000001,-13.93822],"type":"Point"}
+}

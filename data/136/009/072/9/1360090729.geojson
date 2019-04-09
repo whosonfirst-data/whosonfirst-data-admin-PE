@@ -1,0 +1,69 @@
+{
+  "id": 1360090729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6358,-15.83976,-72.6358,-15.83976",
+    "geom:latitude":-15.83976,
+    "geom:longitude":-72.6358,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Huarcao",
+    "gn:country_code":"PE",
+    "gn:dem":2701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3951351,
+    "gn:latitude":-15.83976,
+    "gn:longitude":-72.6358,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huarcao",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951351
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1878d39e86dcc71d5f03a6443d613cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1360090729,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1360090729,
+    "wof:lastmodified":1536938232,
+    "wof:name":"Huarcao",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6358,
+    -15.83976,
+    -72.6358,
+    -15.83976
+],
+  "geometry": {"coordinates":[-72.6358,-15.83976],"type":"Point"}
+}

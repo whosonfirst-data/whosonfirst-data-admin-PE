@@ -1,0 +1,63 @@
+{
+  "id": 1209608169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.17893,-12.92031,-74.17893,-12.92031",
+    "geom:latitude":-12.92031,
+    "geom:longitude":-74.17893,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Huarajoyoc",
+    "gn:country_code":"PE",
+    "gn:dem":3771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8649971,
+    "gn:latitude":-12.92031,
+    "gn:longitude":-74.17893,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huarajoyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8649971
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c1fd24f4d4efbe7076125f2d2540ac2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209608169
+        }
+    ],
+    "wof:id":1209608169,
+    "wof:lastmodified":1536281938,
+    "wof:name":"Huarajoyoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.17893000000002,
+    -12.92031,
+    -74.17893000000002,
+    -12.92031
+],
+  "geometry": {"coordinates":[-74.17893000000002,-12.92031],"type":"Point"}
+}

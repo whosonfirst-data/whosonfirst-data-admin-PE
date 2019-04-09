@@ -1,0 +1,77 @@
+{
+  "id": 1310187827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91694,-12.78248,-75.91694,-12.78248",
+    "geom:latitude":-12.78248,
+    "geom:longitude":-75.91694,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151008.0",
+    "gn:asciiname":"Canchan",
+    "gn:country_code":"PE",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945840,
+    "gn:latitude":-12.78248,
+    "gn:longitude":-75.91694,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Canchan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945840
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ced42a999c7c68be9f77662702c7f57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1310187827,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1310187827,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310187827,
+    "wof:lastmodified":1536876967,
+    "wof:name":"Canchan",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91694,
+    -12.78248,
+    -75.91694,
+    -12.78248
+],
+  "geometry": {"coordinates":[-75.91694,-12.78248],"type":"Point"}
+}

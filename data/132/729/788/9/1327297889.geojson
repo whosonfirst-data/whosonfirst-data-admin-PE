@@ -1,0 +1,69 @@
+{
+  "id": 1327297889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.10851,-16.66184,-69.10851,-16.66184",
+    "geom:latitude":-16.66184,
+    "geom:longitude":-69.10851,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210402.0",
+    "gn:asciiname":"Ichocollo",
+    "gn:country_code":"PE",
+    "gn:dem":3840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938516,
+    "gn:latitude":-16.66184,
+    "gn:longitude":-69.10851,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ichocollo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938516
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5fd11e30c0a1a1ba228b0044b94f1ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1327297889,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327297889,
+    "wof:lastmodified":1536874209,
+    "wof:name":"Ichocollo",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.10851,
+    -16.66184,
+    -69.10851,
+    -16.66184
+],
+  "geometry": {"coordinates":[-69.10851,-16.66184],"type":"Point"}
+}

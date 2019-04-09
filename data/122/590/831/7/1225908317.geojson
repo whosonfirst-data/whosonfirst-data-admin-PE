@@ -1,0 +1,69 @@
+{
+  "id": 1225908317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85766,-15.18423,-69.85766,-15.18423",
+    "geom:latitude":-15.18423,
+    "geom:longitude":-69.85766,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:asciiname":"Huancho",
+    "gn:country_code":"PE",
+    "gn:dem":3831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939445,
+    "gn:latitude":-15.18423,
+    "gn:longitude":-69.85766,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huancho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939445
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c19007b1d752db0843a19693d650b765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1225908317,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1225908317,
+    "wof:lastmodified":1536924361,
+    "wof:name":"Huancho",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85766,
+    -15.18423,
+    -69.85766,
+    -15.18423
+],
+  "geometry": {"coordinates":[-69.85766,-15.18423],"type":"Point"}
+}

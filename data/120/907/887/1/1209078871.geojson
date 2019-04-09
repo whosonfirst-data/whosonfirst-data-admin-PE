@@ -1,0 +1,63 @@
+{
+  "id": 1209078871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.45139,-11.89028,-76.45139,-11.89028",
+    "geom:latitude":-11.89028,
+    "geom:longitude":-76.45139,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150732.0",
+    "gn:asciiname":"Pucchand",
+    "gn:country_code":"PE",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966914,
+    "gn:latitude":-11.89028,
+    "gn:longitude":-76.45139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pucchand",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966914
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"acf7dc15beffd8fa0e24559c1cabc960",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209078871
+        }
+    ],
+    "wof:id":1209078871,
+    "wof:lastmodified":1536298405,
+    "wof:name":"Pucchand",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.45139,
+    -11.89028,
+    -76.45139,
+    -11.89028
+],
+  "geometry": {"coordinates":[-76.45139,-11.89028],"type":"Point"}
+}

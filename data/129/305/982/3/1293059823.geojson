@@ -1,0 +1,73 @@
+{
+  "id": 1293059823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.13279,-14.87813,-70.13279,-14.87813",
+    "geom:latitude":-14.87813,
+    "geom:longitude":-70.13279,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210201.0",
+    "gn:asciiname":"Tahuacasi",
+    "gn:country_code":"PE",
+    "gn:dem":3887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928094,
+    "gn:latitude":-14.87813,
+    "gn:longitude":-70.13279,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tahuacasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tahuacasi Hacienda",
+        "Tahuacasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928094
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f5bac894dc4d4f937a1c7f6aeff9fdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1293059823,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293059823,
+    "wof:lastmodified":1537676685,
+    "wof:name":"Tahuacasi",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.13279,
+    -14.87813,
+    -70.13279,
+    -14.87813
+],
+  "geometry": {"coordinates":[-70.13279,-14.87813],"type":"Point"}
+}

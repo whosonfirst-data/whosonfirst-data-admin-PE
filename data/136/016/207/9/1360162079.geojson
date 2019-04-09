@@ -1,0 +1,74 @@
+{
+  "id": 1360162079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07389,-14.82528,-75.07389,-14.82528",
+    "geom:latitude":-14.82528,
+    "geom:longitude":-75.07389,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Hacienda Ayapana",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957614,
+    "gn:latitude":-14.82528,
+    "gn:longitude":-75.07389,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hacienda Ayapana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayapana",
+        "Hacienda Ayapana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957614
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0671897a16390f14c6d2f3952b871917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1360162079,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1360162079,
+    "wof:lastmodified":1537676878,
+    "wof:name":"Hacienda Ayapana",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07389,
+    -14.82528,
+    -75.07389,
+    -14.82528
+],
+  "geometry": {"coordinates":[-75.07389000000001,-14.82528],"type":"Point"}
+}

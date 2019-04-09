@@ -1,0 +1,74 @@
+{
+  "id": 1293566555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.13777,-13.53061,-76.13777,-13.53061",
+    "geom:latitude":-13.53061,
+    "geom:longitude":-76.13777,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110205.0",
+    "gn:asciiname":"Mensias",
+    "gn:country_code":"PE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935041,
+    "gn:latitude":-13.53061,
+    "gn:longitude":-76.13777,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Mensias",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toma de Meneses",
+        "Meneses",
+        "Mensias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935041
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"140e367739101785b2f3f4ac921e5fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1293566555,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293566555,
+    "wof:lastmodified":1537676754,
+    "wof:name":"Mensias",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.13776999999997,
+    -13.53061,
+    -76.13776999999997,
+    -13.53061
+],
+  "geometry": {"coordinates":[-76.13776999999997,-13.53061],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243145531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.33917,-6.62833,-79.33917,-6.62833",
+    "geom:latitude":-6.62833,
+    "geom:longitude":-79.33917,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Guanagal",
+    "gn:country_code":"PE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742999,
+    "gn:latitude":-6.62833,
+    "gn:longitude":-79.33917,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Guanagal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742999
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9306392d78eec62f850c0c308ee14b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1243145531,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1243145531,
+    "wof:lastmodified":1536742282,
+    "wof:name":"Guanagal",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.33917,
+    -6.62833,
+    -79.33917,
+    -6.62833
+],
+  "geometry": {"coordinates":[-79.33917,-6.62833],"type":"Point"}
+}

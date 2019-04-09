@@ -1,0 +1,69 @@
+{
+  "id": 1243071145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.27774,-6.26536,-78.27774,-6.26536",
+    "geom:latitude":-6.26536,
+    "geom:longitude":-78.27774,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10515.0",
+    "gn:asciiname":"La Playa",
+    "gn:country_code":"PE",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377793,
+    "gn:latitude":-6.26536,
+    "gn:longitude":-78.27774,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"La Playa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421170663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377793
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3aa54e87c54ee88b83c00d31512f4254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170663,
+            "locality_id":1243071145,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1243071145,
+    "wof:lastmodified":1536848424,
+    "wof:name":"La Playa",
+    "wof:parent_id":421170663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.27774000000002,
+    -6.26536,
+    -78.27774000000002,
+    -6.26536
+],
+  "geometry": {"coordinates":[-78.27774000000002,-6.26536],"type":"Point"}
+}

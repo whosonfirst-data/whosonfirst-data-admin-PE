@@ -1,0 +1,68 @@
+{
+  "id": 1326692751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.31624,-16.83287,-70.31624,-16.83287",
+    "geom:latitude":-16.83287,
+    "geom:longitude":-70.31624,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Callapa",
+    "gn:country_code":"PE",
+    "gn:dem":4563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946076,
+    "gn:latitude":-16.83287,
+    "gn:longitude":-70.31624,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Callapa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946076
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e310b834d9783da0bfda35c57ca2e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1326692751,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1326692751,
+    "wof:lastmodified":1536752725,
+    "wof:name":"Callapa",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.31624000000001,
+    -16.83287,
+    -70.31624000000001,
+    -16.83287
+],
+  "geometry": {"coordinates":[-70.31624000000001,-16.83287],"type":"Point"}
+}

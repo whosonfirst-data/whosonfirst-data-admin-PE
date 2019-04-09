@@ -1,0 +1,63 @@
+{
+  "id": 1209592249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25896,-11.75944,-75.25896,-11.75944",
+    "geom:latitude":-11.75944,
+    "geom:longitude":-75.25896,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120403.0",
+    "gn:asciiname":"Pirhuacocha",
+    "gn:country_code":"PE",
+    "gn:dem":4525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674766,
+    "gn:latitude":-11.75944,
+    "gn:longitude":-75.25896,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pirhuacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674766
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bae30366735834c7b17bf96e5bec97d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209592249
+        }
+    ],
+    "wof:id":1209592249,
+    "wof:lastmodified":1536282441,
+    "wof:name":"Pirhuacocha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25896,
+    -11.75944,
+    -75.25896,
+    -11.75944
+],
+  "geometry": {"coordinates":[-75.25896,-11.75944],"type":"Point"}
+}

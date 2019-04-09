@@ -1,0 +1,66 @@
+{
+  "id": 890433367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08774,-14.28514,-71.08774,-14.28514",
+    "geom:latitude":-14.28514,
+    "geom:longitude":-71.08774,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":4450,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mosoc Cancha",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954288,
+        "gp:id":419006,
+        "qs:id":279922
+    },
+    "wof:country":"PE",
+    "wof:created":1469051977,
+    "wof:geomhash":"3e510643b5131396fb7188f97e923fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":890433367,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":890433367,
+    "wof:lastmodified":1505343535,
+    "wof:name":"Mosoc Cancha",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:population":4450,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08774,
+    -14.28514,
+    -71.08774,
+    -14.28514
+],
+  "geometry": {"coordinates":[-71.08774,-14.28514],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343720665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58333,-16.08333,-69.58333,-16.08333",
+    "geom:latitude":-16.08333,
+    "geom:longitude":-69.58333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:asciiname":"Ocona",
+    "gn:country_code":"PE",
+    "gn:dem":3827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934154,
+    "gn:latitude":-16.08333,
+    "gn:longitude":-69.58333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Oco\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934154
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"28ab5de19e42cf94b01a077ed0717c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1343720665,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343720665,
+    "wof:lastmodified":1536867170,
+    "wof:name":"Ocona",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58333,
+    -16.08333,
+    -69.58333,
+    -16.08333
+],
+  "geometry": {"coordinates":[-69.58333,-16.08333],"type":"Point"}
+}

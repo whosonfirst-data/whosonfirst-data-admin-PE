@@ -1,0 +1,69 @@
+{
+  "id": 1276429605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64579,-9.79157,-76.64579,-9.79157",
+    "geom:latitude":-9.79157,
+    "geom:longitude":-76.64579,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101106.0",
+    "gn:asciiname":"Cuncush",
+    "gn:country_code":"PE",
+    "gn:dem":3438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666114,
+    "gn:latitude":-9.79157,
+    "gn:longitude":-76.64579,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cuncush",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666114
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5efb5a7273c251ab6478c4f8ca42be51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1276429605,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276429605,
+    "wof:lastmodified":1536649377,
+    "wof:name":"Cuncush",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64579,
+    -9.79157,
+    -76.64579,
+    -9.79157
+],
+  "geometry": {"coordinates":[-76.64579000000001,-9.79157],"type":"Point"}
+}

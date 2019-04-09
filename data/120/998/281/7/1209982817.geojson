@@ -1,0 +1,71 @@
+{
+  "id": 1209982817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.79906,-12.40461,-68.79906,-12.40461",
+    "geom:latitude":-12.40461,
+    "geom:longitude":-68.79906,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Estacion",
+    "gn:country_code":"PE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510612,
+    "gn:latitude":-12.40461,
+    "gn:longitude":-68.79906,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Estaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510612
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf43e42661ec3fa9852c87c00b5f83ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693891,
+            "locality_id":1209982817,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1209982817,
+    "wof:lastmodified":1537676973,
+    "wof:name":"Estacion",
+    "wof:parent_id":1108693891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.79906,
+    -12.40461,
+    -68.79906,
+    -12.40461
+],
+  "geometry": {"coordinates":[-68.79906,-12.40461],"type":"Point"}
+}

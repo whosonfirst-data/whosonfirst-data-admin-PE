@@ -1,0 +1,69 @@
+{
+  "id": 1293065601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.52902,-4.96232,-79.52902,-4.96232",
+    "geom:latitude":-4.96232,
+    "geom:longitude":-79.52902,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"PE",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692457,
+    "gn:latitude":-4.96232,
+    "gn:longitude":-79.52902,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692457
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1ddf698e755f8eeb2a749ab585e66ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1293065601,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293065601,
+    "wof:lastmodified":1536898432,
+    "wof:name":"San Juan",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.52901999999997,
+    -4.96232,
+    -79.52901999999997,
+    -4.96232
+],
+  "geometry": {"coordinates":[-79.52901999999997,-4.96232],"type":"Point"}
+}

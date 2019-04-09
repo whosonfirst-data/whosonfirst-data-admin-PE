@@ -1,0 +1,69 @@
+{
+  "id": 1243475897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17957,-6.47769,-78.17957,-6.47769",
+    "geom:latitude":-6.47769,
+    "geom:longitude":-78.17957,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60302.0",
+    "gn:asciiname":"Chipche",
+    "gn:country_code":"PE",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377901,
+    "gn:latitude":-6.47769,
+    "gn:longitude":-78.17957,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chipche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377901
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"500dda3ed464acd83b5ed96b88237cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":1243475897,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1243475897,
+    "wof:lastmodified":1536763406,
+    "wof:name":"Chipche",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17957,
+    -6.47769,
+    -78.17957,
+    -6.47769
+],
+  "geometry": {"coordinates":[-78.17957,-6.47769],"type":"Point"}
+}

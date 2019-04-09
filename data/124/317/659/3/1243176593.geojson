@@ -1,0 +1,68 @@
+{
+  "id": 1243176593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.39485,-13.12903,-74.39485,-13.12903",
+    "geom:latitude":-13.12903,
+    "geom:longitude":-74.39485,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Ccochahuaycco",
+    "gn:country_code":"PE",
+    "gn:dem":3079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668430,
+    "gn:latitude":-13.12903,
+    "gn:longitude":-74.39485,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Ccochahuaycco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668430
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a89f190ab11ce9a6e2f8f5343a8d5932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1243176593,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1243176593,
+    "wof:lastmodified":1536697828,
+    "wof:name":"Ccochahuaycco",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.39485,
+    -13.12903,
+    -74.39485,
+    -13.12903
+],
+  "geometry": {"coordinates":[-74.39485000000001,-13.12903],"type":"Point"}
+}

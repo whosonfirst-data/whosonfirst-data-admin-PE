@@ -1,0 +1,76 @@
+{
+  "id": 1343945703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94666,-13.0557,-75.94666,-13.0557",
+    "geom:latitude":-13.0557,
+    "geom:longitude":-75.94666,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:asciiname":"Pamoj",
+    "gn:country_code":"PE",
+    "gn:dem":2369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933328,
+    "gn:latitude":-13.0557,
+    "gn:longitude":-75.94666,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pamoj",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pamoj"
+    ],
+    "name:und_x_variant":[
+        "Pamo",
+        "Pamocc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933328
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d58c053f950dd85f93b7e901ed8f59f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1343945703,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1343945703,
+    "wof:lastmodified":1537676738,
+    "wof:name":"Pamoj",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94666,
+    -13.0557,
+    -75.94666,
+    -13.0557
+],
+  "geometry": {"coordinates":[-75.94665999999999,-13.0557],"type":"Point"}
+}

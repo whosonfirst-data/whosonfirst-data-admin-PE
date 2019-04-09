@@ -1,0 +1,71 @@
+{
+  "id": 1277005369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.362,-15.28716,-73.362,-15.28716",
+    "geom:latitude":-15.28716,
+    "geom:longitude":-73.362,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"508.0",
+    "gn:asciiname":"Tara Pata",
+    "gn:country_code":"PE",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039959,
+    "gn:latitude":-15.28716,
+    "gn:longitude":-73.362,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Tara Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tara Pata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039959
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f149ba0d4edc9509237cc235cf132f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693933,
+            "locality_id":1277005369,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1277005369,
+    "wof:lastmodified":1537676964,
+    "wof:name":"Tara Pata",
+    "wof:parent_id":1108693933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.362,
+    -15.28716,
+    -73.362,
+    -15.28716
+],
+  "geometry": {"coordinates":[-73.36199999999999,-15.28716],"type":"Point"}
+}

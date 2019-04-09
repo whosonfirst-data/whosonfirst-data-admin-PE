@@ -1,0 +1,69 @@
+{
+  "id": 1226063023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79917,-10.19472,-76.79917,-10.19472",
+    "geom:latitude":-10.19472,
+    "geom:longitude":-76.79917,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101001.0",
+    "gn:asciiname":"Cuchuna",
+    "gn:country_code":"PE",
+    "gn:dem":4246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403035,
+    "gn:latitude":-10.19472,
+    "gn:longitude":-76.79917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cuchuna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403035
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"06914c26ec6cbcb7b2082e994ce155a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1226063023,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226063023,
+    "wof:lastmodified":1536700586,
+    "wof:name":"Cuchuna",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79916999999998,
+    -10.19472,
+    -76.79916999999998,
+    -10.19472
+],
+  "geometry": {"coordinates":[-76.79916999999998,-10.19472],"type":"Point"}
+}

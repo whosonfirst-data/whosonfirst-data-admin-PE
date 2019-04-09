@@ -1,0 +1,109 @@
+{
+  "id": 421187853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.41667,-11.91667,-76.41667,-11.91667",
+    "geom:latitude":-11.91667,
+    "geom:longitude":-76.41667,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Waruchiri jisk'a suyu"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Huarochir\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Province de Huarochir\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Huarochir\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30ed\u30c1\u30ea\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10e0\u10dd\u10e9\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Huarochir\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Huarochir\u00ed"
+    ],
+    "name:que_x_preferred":[
+        "Waruchiri pruwinsya"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Huarochiri"
+    ],
+    "name:unk_x_variant":[
+        "Huarochir\u00ed"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3939153,
+    "qs:gn_pop":0,
+    "qs:name":"Huarochiri",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":120,
+    "qs:photos_1k":24,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":885,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086207,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":26805861,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939153,
+        "gp:id":26805861,
+        "qs:id":1086207,
+        "wd:id":"Q1367991",
+        "wk:page":"Huarochir\u00ed Province"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009526,
+    "wof:geomhash":"5675581c4eb352bcedd91517308fa1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187853,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421187853,
+    "wof:lastmodified":1501269447,
+    "wof:name":"Huarochiri",
+    "wof:parent_id":85675925,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41667,
+    -11.91667,
+    -76.41667,
+    -11.91667
+],
+  "geometry": {"coordinates":[-76.41667,-11.91667],"type":"Point"}
+}

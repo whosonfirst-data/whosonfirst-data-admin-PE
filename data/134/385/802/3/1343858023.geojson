@@ -1,0 +1,73 @@
+{
+  "id": 1343858023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.67121,-15.21526,-71.67121,-15.21526",
+    "geom:latitude":-15.21526,
+    "geom:longitude":-71.67121,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40505.0",
+    "gn:asciiname":"Patiquilla",
+    "gn:country_code":"PE",
+    "gn:dem":4226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932691,
+    "gn:latitude":-15.21526,
+    "gn:longitude":-71.67121,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Patiquilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patiquillo",
+        "Patiquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932691
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"64b0512c60b0620c10122816ea060908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1343858023,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343858023,
+    "wof:lastmodified":1537676732,
+    "wof:name":"Patiquilla",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.67121,
+    -15.21526,
+    -71.67121,
+    -15.21526
+],
+  "geometry": {"coordinates":[-71.67121,-15.21526],"type":"Point"}
+}

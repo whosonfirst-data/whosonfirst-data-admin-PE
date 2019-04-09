@@ -1,0 +1,76 @@
+{
+  "id": 1226241103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.73311,-15.22527,-73.73311,-15.22527",
+    "geom:latitude":-15.22527,
+    "geom:longitude":-73.73311,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50706.0",
+    "gn:asciiname":"Chillhuane",
+    "gn:country_code":"PE",
+    "gn:dem":3423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943830,
+    "gn:latitude":-15.22527,
+    "gn:longitude":-73.73311,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chillhuane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chillhuane"
+    ],
+    "name:und_x_variant":[
+        "Chilluane",
+        "Chilluani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943830
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"00c5a537546bb79c5bd76985206a3dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1226241103,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226241103,
+    "wof:lastmodified":1537676834,
+    "wof:name":"Chillhuane",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73311,
+    -15.22527,
+    -73.73311,
+    -15.22527
+],
+  "geometry": {"coordinates":[-73.73311,-15.22527],"type":"Point"}
+}

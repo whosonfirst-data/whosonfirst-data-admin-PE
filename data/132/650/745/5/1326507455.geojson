@@ -1,0 +1,73 @@
+{
+  "id": 1326507455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6974,-14.13196,-75.6974,-14.13196",
+    "geom:latitude":-14.13196,
+    "geom:longitude":-75.6974,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110107.0",
+    "gn:asciiname":"Callejon Los Espinos",
+    "gn:country_code":"PE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946054,
+    "gn:latitude":-14.13196,
+    "gn:longitude":-75.6974,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Callej\u00f3n Los Espinos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Callej\u00f3n de los Espinos",
+        "Callej\u00f3n Los Espinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946054
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e91b0497435d1365d5b42857f85b3099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1326507455,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1326507455,
+    "wof:lastmodified":1537676854,
+    "wof:name":"Callejon Los Espinos",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6974,
+    -14.13196,
+    -75.6974,
+    -14.13196
+],
+  "geometry": {"coordinates":[-75.6974,-14.13196],"type":"Point"}
+}

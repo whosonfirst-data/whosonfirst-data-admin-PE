@@ -1,0 +1,73 @@
+{
+  "id": 1343365801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.10139,-13.51056,-73.10139,-13.51056",
+    "geom:latitude":-13.51056,
+    "geom:longitude":-73.10139,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30208.0",
+    "gn:asciiname":"Pati",
+    "gn:country_code":"PE",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932715,
+    "gn:latitude":-13.51056,
+    "gn:longitude":-73.10139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pati",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pati Hacienda",
+        "Pati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932715
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fef6d3261045747045fecdbe2f738e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1343365801,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1343365801,
+    "wof:lastmodified":1537676732,
+    "wof:name":"Pati",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.10139000000002,
+    -13.51056,
+    -73.10139000000002,
+    -13.51056
+],
+  "geometry": {"coordinates":[-73.10139000000002,-13.51056],"type":"Point"}
+}

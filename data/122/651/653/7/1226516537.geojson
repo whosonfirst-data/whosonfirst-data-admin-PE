@@ -1,0 +1,73 @@
+{
+  "id": 1226516537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54201,-4.73029,-79.54201,-4.73029",
+    "geom:latitude":-4.73029,
+    "geom:longitude":-79.54201,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Sinvaca",
+    "gn:country_code":"PE",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691789,
+    "gn:latitude":-4.73029,
+    "gn:longitude":-79.54201,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sinvaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinvaca Hacienda",
+        "Sinvaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691789
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eb3c8f52ba9faef44bb638690170a9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1226516537,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226516537,
+    "wof:lastmodified":1537676539,
+    "wof:name":"Sinvaca",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54201,
+    -4.73029,
+    -79.54201,
+    -4.73029
+],
+  "geometry": {"coordinates":[-79.54201,-4.73029],"type":"Point"}
+}

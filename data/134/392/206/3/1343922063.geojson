@@ -1,0 +1,69 @@
+{
+  "id": 1343922063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.40062,-16.89913,-69.40062,-16.89913",
+    "geom:latitude":-16.89913,
+    "geom:longitude":-69.40062,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Piaque",
+    "gn:country_code":"PE",
+    "gn:dem":3988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310133,
+    "gn:latitude":-16.89913,
+    "gn:longitude":-69.40062,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Piaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310133
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a7555ecc6e434301762cb6df65d7d7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1343922063,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343922063,
+    "wof:lastmodified":1537072431,
+    "wof:name":"Piaque",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.40061999999999,
+    -16.89913,
+    -69.40061999999999,
+    -16.89913
+],
+  "geometry": {"coordinates":[-69.40061999999999,-16.89913],"type":"Point"}
+}

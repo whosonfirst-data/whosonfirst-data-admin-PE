@@ -1,0 +1,69 @@
+{
+  "id": 1243145537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.1686,-6.73727,-79.1686,-6.73727",
+    "geom:latitude":-6.73727,
+    "geom:longitude":-79.1686,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140110.0",
+    "gn:asciiname":"Telles",
+    "gn:country_code":"PE",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743050,
+    "gn:latitude":-6.73727,
+    "gn:longitude":-79.1686,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Telles",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743050
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1bd2602ce0e48d485e639be539585237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1243145537,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1243145537,
+    "wof:lastmodified":1536742273,
+    "wof:name":"Telles",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.1686,
+    -6.73727,
+    -79.1686,
+    -6.73727
+],
+  "geometry": {"coordinates":[-79.1686,-6.73727],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243245461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1585,-4.0032,-73.1585,-4.0032",
+    "geom:latitude":-4.0032,
+    "geom:longitude":-73.1585,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160103.0",
+    "gn:asciiname":"Tamshiyacu",
+    "gn:country_code":"PE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691501,
+    "gn:latitude":-4.0032,
+    "gn:longitude":-73.1585,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tamshiyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanshiyacu",
+        "Tamshiyacu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691501,
+        "wk:page":"Tamshiyacu"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aecb86757079e7d28ef60f95dd620c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1243245461,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1243245461,
+    "wof:lastmodified":1537676535,
+    "wof:name":"Tamshiyacu",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1585,
+    -4.0032,
+    -73.1585,
+    -4.0032
+],
+  "geometry": {"coordinates":[-73.1585,-4.0032],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243246195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41932,-12.9688,-76.41932,-12.9688",
+    "geom:latitude":-12.9688,
+    "geom:longitude":-76.41932,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150504.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"PE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929130,
+    "gn:latitude":-12.9688,
+    "gn:longitude":-76.41932,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Rosa Hacienda",
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929130
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"adb191eebe655801bac85147f6d8fcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1243246195,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1243246195,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1243246195,
+    "wof:lastmodified":1537676693,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41932,
+    -12.9688,
+    -76.41932,
+    -12.9688
+],
+  "geometry": {"coordinates":[-76.41932,-12.9688],"type":"Point"}
+}

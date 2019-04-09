@@ -1,0 +1,63 @@
+{
+  "id": 1209075915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76667,-10.53333,-76.76667,-10.53333",
+    "geom:latitude":-10.53333,
+    "geom:longitude":-76.76667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Raura",
+    "gn:country_code":"PE",
+    "gn:dem":4164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930503,
+    "gn:latitude":-10.53333,
+    "gn:longitude":-76.76667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Raura",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930503
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"30fe64229577e8cc214968b4e2db06a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209075915
+        }
+    ],
+    "wof:id":1209075915,
+    "wof:lastmodified":1536298495,
+    "wof:name":"Raura",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76666999999998,
+    -10.53333,
+    -76.76666999999998,
+    -10.53333
+],
+  "geometry": {"coordinates":[-76.76666999999998,-10.53333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310381149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.08442,-16.61682,-71.08442,-16.61682",
+    "geom:latitude":-16.61682,
+    "geom:longitude":-71.08442,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180203.0",
+    "gn:asciiname":"Amata",
+    "gn:country_code":"PE",
+    "gn:dem":3249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947970,
+    "gn:latitude":-16.61682,
+    "gn:longitude":-71.08442,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Amata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947970
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5ab3250f3479a1cd8a70b8455c232e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1310381149,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1310381149,
+    "wof:lastmodified":1537093191,
+    "wof:name":"Amata",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.08442,
+    -16.61682,
+    -71.08442,
+    -16.61682
+],
+  "geometry": {"coordinates":[-71.08441999999999,-16.61682],"type":"Point"}
+}

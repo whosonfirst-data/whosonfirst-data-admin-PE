@@ -1,0 +1,72 @@
+{
+  "id": 1226032647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73646,-14.07797,-75.73646,-14.07797",
+    "geom:latitude":-14.07797,
+    "geom:longitude":-75.73646,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Aguado",
+    "gn:country_code":"PE",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003659,
+    "gn:latitude":-14.07797,
+    "gn:longitude":-75.73646,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aguado",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aguado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003659
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0072b7443c1cd818014c84e46da2821a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1226032647,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226032647,
+    "wof:lastmodified":1537676952,
+    "wof:name":"Aguado",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73646,
+    -14.07797,
+    -75.73646,
+    -14.07797
+],
+  "geometry": {"coordinates":[-75.73645999999999,-14.07797],"type":"Point"}
+}

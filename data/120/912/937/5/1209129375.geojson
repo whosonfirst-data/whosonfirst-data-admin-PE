@@ -1,0 +1,63 @@
+{
+  "id": 1209129375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.35356,-15.46362,-71.35356,-15.46362",
+    "geom:latitude":-15.46362,
+    "geom:longitude":-71.35356,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Chita",
+    "gn:country_code":"PE",
+    "gn:dem":4567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957364,
+    "gn:latitude":-15.46362,
+    "gn:longitude":-71.35356,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957364
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"416851167bc5ecf8f01d0d2e551229a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209129375
+        }
+    ],
+    "wof:id":1209129375,
+    "wof:lastmodified":1536296853,
+    "wof:name":"Chita",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.35356,
+    -15.46362,
+    -71.35356,
+    -15.46362
+],
+  "geometry": {"coordinates":[-71.35356,-15.46362],"type":"Point"}
+}

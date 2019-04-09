@@ -1,0 +1,63 @@
+{
+  "id": 1209539157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28043,-15.56817,-71.28043,-15.56817",
+    "geom:latitude":-15.56817,
+    "geom:longitude":-71.28043,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Huancarlao",
+    "gn:country_code":"PE",
+    "gn:dem":4401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3951762,
+    "gn:latitude":-15.56817,
+    "gn:longitude":-71.28043,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huancarlao",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951762
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9c58c9f55335294424d8965f875ea18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209539157
+        }
+    ],
+    "wof:id":1209539157,
+    "wof:lastmodified":1536284041,
+    "wof:name":"Huancarlao",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28043000000002,
+    -15.56817,
+    -71.28043000000002,
+    -15.56817
+],
+  "geometry": {"coordinates":[-71.28043000000002,-15.56817],"type":"Point"}
+}

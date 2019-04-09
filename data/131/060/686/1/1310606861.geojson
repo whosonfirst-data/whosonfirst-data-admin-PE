@@ -1,0 +1,69 @@
+{
+  "id": 1310606861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95666,-15.47963,-72.95666,-15.47963",
+    "geom:latitude":-15.47963,
+    "geom:longitude":-72.95666,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40604.0",
+    "gn:asciiname":"Quichuana",
+    "gn:country_code":"PE",
+    "gn:dem":2689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930880,
+    "gn:latitude":-15.47963,
+    "gn:longitude":-72.95666,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quichua\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930880
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1e5d0524bf46094175418ea46fbdf686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1310606861,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310606861,
+    "wof:lastmodified":1536771193,
+    "wof:name":"Quichuana",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95666,
+    -15.47963,
+    -72.95666,
+    -15.47963
+],
+  "geometry": {"coordinates":[-72.95666,-15.47963],"type":"Point"}
+}

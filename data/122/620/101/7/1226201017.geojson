@@ -1,0 +1,71 @@
+{
+  "id": 1226201017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.07195,-14.34343,-69.07195,-14.34343",
+    "geom:latitude":-14.34343,
+    "geom:longitude":-69.07195,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Llamillami",
+    "gn:country_code":"PE",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558438,
+    "gn:latitude":-14.34343,
+    "gn:longitude":-69.07195,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Llamillami",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llamillami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558438
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3e9139023ee611805d78e1345e76ff9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1226201017,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226201017,
+    "wof:lastmodified":1537677007,
+    "wof:name":"Llamillami",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.07195,
+    -14.34343,
+    -69.07195,
+    -14.34343
+],
+  "geometry": {"coordinates":[-69.07195,-14.34343],"type":"Point"}
+}

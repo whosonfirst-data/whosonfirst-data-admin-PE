@@ -1,0 +1,73 @@
+{
+  "id": 1310560597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.09162,-4.68995,-81.09162,-4.68995",
+    "geom:latitude":-4.68995,
+    "geom:longitude":-81.09162,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200703.0",
+    "gn:asciiname":"La Brea",
+    "gn:country_code":"PE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699250,
+    "gn:latitude":-4.68995,
+    "gn:longitude":-81.09162,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"La Brea",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brea",
+        "La Brea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699250
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e416fb037993faf0be1823bbb0bd0798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1310560597,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310560597,
+    "wof:lastmodified":1537676640,
+    "wof:name":"La Brea",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.09161999999998,
+    -4.68995,
+    -81.09161999999998,
+    -4.68995
+],
+  "geometry": {"coordinates":[-81.09161999999998,-4.68995],"type":"Point"}
+}

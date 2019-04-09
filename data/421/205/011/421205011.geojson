@@ -1,0 +1,114 @@
+{
+  "id": 421205011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69332,-6.616,-76.69332,-6.616",
+    "geom:latitude":-6.616,
+    "geom:longitude":-76.69332,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "San Jusiya Sisa jisk'a t'aqa suyu"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Sisa"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de Sisa"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di San Jos\u00e9 de Sisa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10e1\u10d8\u10e1\u10d0\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "San Jose de Sisa"
+    ],
+    "name:que_x_preferred":[
+        "San Husiy Sisamanta distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de San Jos\u00e9 de Sisa"
+    ],
+    "name:unk_x_variant":[
+        "Sisa"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9 de Sisa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u897f\u85a9"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3692464,
+    "qs:gn_pop":9477,
+    "qs:name":"San Jos\u00e9 de Sisa",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"San Martin",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":251826,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":414136,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692464,
+        "gp:id":414136,
+        "qs:id":251826,
+        "wd:id":"Q11034041"
+    },
+    "wof:country":"PE",
+    "wof:created":1459010209,
+    "wof:geomhash":"076e69eb2c4b0833fb3522dd612c4a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693997,
+            "locality_id":421205011,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":421205011,
+    "wof:lastmodified":1527716220,
+    "wof:name":"San Jos\u00e9 de Sisa",
+    "wof:parent_id":1108693997,
+    "wof:placetype":"locality",
+    "wof:population":9477,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69332,
+    -6.616,
+    -76.69332,
+    -6.616
+],
+  "geometry": {"coordinates":[-76.69332,-6.616],"type":"Point"}
+}

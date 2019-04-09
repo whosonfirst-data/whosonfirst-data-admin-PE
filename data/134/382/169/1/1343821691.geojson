@@ -1,0 +1,73 @@
+{
+  "id": 1343821691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09639,-4.61889,-77.09639,-4.61889",
+    "geom:latitude":-4.61889,
+    "geom:longitude":-77.09639,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1607.0",
+    "gn:admin3_code":"160704.0",
+    "gn:asciiname":"Dos Hermanos",
+    "gn:country_code":"PE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394188,
+    "gn:latitude":-4.61889,
+    "gn:longitude":-77.09639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Dos Hermanos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "2 Hermanos",
+        "Dos Hermanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394188
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1bb2cd64e3b050cdb54b920b40bb2cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":1343821691,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343821691,
+    "wof:lastmodified":1537676897,
+    "wof:name":"Dos Hermanos",
+    "wof:parent_id":1108694051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09639,
+    -4.61889,
+    -77.09639,
+    -4.61889
+],
+  "geometry": {"coordinates":[-77.09639,-4.61889],"type":"Point"}
+}

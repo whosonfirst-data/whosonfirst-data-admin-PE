@@ -1,0 +1,73 @@
+{
+  "id": 1293456057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29651,-12.6673,-71.29651,-12.6673",
+    "geom:latitude":-12.6673,
+    "geom:longitude":-71.29651,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170201.0",
+    "gn:asciiname":"Shintuya",
+    "gn:country_code":"PE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928723,
+    "gn:latitude":-12.6673,
+    "gn:longitude":-71.29651,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Shintuya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itahuan\u00eda",
+        "Shintuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        421170665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928723
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cea0e0880e3506d9ebb1e3c547137c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170665,
+            "locality_id":1293456057,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1293456057,
+    "wof:lastmodified":1537676689,
+    "wof:name":"Shintuya",
+    "wof:parent_id":421170665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29651,
+    -12.6673,
+    -71.29651,
+    -12.6673
+],
+  "geometry": {"coordinates":[-71.29651,-12.6673],"type":"Point"}
+}

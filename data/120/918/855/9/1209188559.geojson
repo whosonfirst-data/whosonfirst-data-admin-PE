@@ -1,0 +1,69 @@
+{
+  "id": 1209188559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6,-5.45,-79.6,-5.45",
+    "geom:latitude":-5.45,
+    "geom:longitude":-79.6,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200306.0",
+    "gn:asciiname":"Huasimal",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696336,
+    "gn:latitude":-5.45,
+    "gn:longitude":-79.6,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huasimal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huasimal Hacienda",
+        "Huasimj",
+        "Huasimal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696336
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e1e124ed38675f5cacad314f470b8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209188559
+        }
+    ],
+    "wof:id":1209188559,
+    "wof:lastmodified":1537676603,
+    "wof:name":"Huasimal",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6,
+    -5.45,
+    -79.6,
+    -5.45
+],
+  "geometry": {"coordinates":[-79.59999999999999,-5.45],"type":"Point"}
+}

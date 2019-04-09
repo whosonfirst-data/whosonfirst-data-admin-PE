@@ -1,0 +1,69 @@
+{
+  "id": 1210022097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6622,-15.9854,-71.6622,-15.9854",
+    "geom:latitude":-15.9854,
+    "geom:longitude":-71.6622,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40128.0",
+    "gn:asciiname":"Quicllo",
+    "gn:country_code":"PE",
+    "gn:dem":3560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930878,
+    "gn:latitude":-15.9854,
+    "gn:longitude":-71.6622,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quicllo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930878
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6d5c5413b18c1708b5475046021f403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1210022097,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1210022097,
+    "wof:lastmodified":1536392394,
+    "wof:name":"Quicllo",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6622,
+    -15.9854,
+    -71.6622,
+    -15.9854
+],
+  "geometry": {"coordinates":[-71.6622,-15.9854],"type":"Point"}
+}

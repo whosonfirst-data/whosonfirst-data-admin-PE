@@ -1,0 +1,73 @@
+{
+  "id": 1327205147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81474,-7.61353,-77.81474,-7.61353",
+    "geom:latitude":-7.61353,
+    "geom:longitude":-77.81474,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1309.0",
+    "gn:admin3_code":"130908.0",
+    "gn:asciiname":"Marcabal",
+    "gn:country_code":"PE",
+    "gn:dem":3085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694943,
+    "gn:latitude":-7.61353,
+    "gn:longitude":-77.81474,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Marcabal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marcabal Grande",
+        "Marcabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421177079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694943
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"846f197fe7a9e2469d18b460737be3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177079,
+            "locality_id":1327205147,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1327205147,
+    "wof:lastmodified":1537676586,
+    "wof:name":"Marcabal",
+    "wof:parent_id":421177079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81474,
+    -7.61353,
+    -77.81474,
+    -7.61353
+],
+  "geometry": {"coordinates":[-77.81474,-7.61353],"type":"Point"}
+}

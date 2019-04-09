@@ -1,0 +1,69 @@
+{
+  "id": 1343442909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55996,-3.83698,-73.55996,-3.83698",
+    "geom:latitude":-3.83698,
+    "geom:longitude":-73.55996,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160101.0",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"PE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395530,
+    "gn:latitude":-3.83698,
+    "gn:longitude":-73.55996,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395530
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d0dfbfa6415319bd7e0f1222d2d0f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1343442909,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343442909,
+    "wof:lastmodified":1536772167,
+    "wof:name":"Naranjal",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55996,
+    -3.83698,
+    -73.55996,
+    -3.83698
+],
+  "geometry": {"coordinates":[-73.55996,-3.83698],"type":"Point"}
+}

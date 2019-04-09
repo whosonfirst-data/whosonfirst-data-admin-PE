@@ -1,0 +1,72 @@
+{
+  "id": 1360043699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28887,-6.64561,-76.28887,-6.64561",
+    "geom:latitude":-6.64561,
+    "geom:longitude":-76.28887,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2209.0",
+    "gn:admin3_code":"220914.0",
+    "gn:asciiname":"Campesino",
+    "gn:country_code":"PE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7540950,
+    "gn:latitude":-6.64561,
+    "gn:longitude":-76.28887,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Campesino",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campesino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7540950
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"525b6eab7258e5e4c870a500dfd646dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":1360043699,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1360043699,
+    "wof:lastmodified":1537676906,
+    "wof:name":"Campesino",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28886999999997,
+    -6.64561,
+    -76.28886999999997,
+    -6.64561
+],
+  "geometry": {"coordinates":[-76.28886999999997,-6.64561],"type":"Point"}
+}

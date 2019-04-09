@@ -1,0 +1,71 @@
+{
+  "id": 1260240117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05689,-14.08018,-69.05689,-14.08018",
+    "geom:latitude":-14.08018,
+    "geom:longitude":-69.05689,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Bajo Tuquimayo",
+    "gn:country_code":"PE",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558408,
+    "gn:latitude":-14.08018,
+    "gn:longitude":-69.05689,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Bajo Tuquimayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Tuquimayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558408
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e84c473a95459898a3d7d799be1aa10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1260240117,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260240117,
+    "wof:lastmodified":1537677006,
+    "wof:name":"Bajo Tuquimayo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05689,
+    -14.08018,
+    -69.05689,
+    -14.08018
+],
+  "geometry": {"coordinates":[-69.05689,-14.08018],"type":"Point"}
+}

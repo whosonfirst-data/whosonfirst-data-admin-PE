@@ -1,0 +1,77 @@
+{
+  "id": 1242750545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05546,-10.48235,-77.05546,-10.48235",
+    "geom:latitude":-10.48235,
+    "geom:longitude":-77.05546,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150301.0",
+    "gn:asciiname":"Shampay",
+    "gn:country_code":"PE",
+    "gn:dem":3322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664174,
+    "gn:latitude":-10.48235,
+    "gn:longitude":-77.05546,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shampay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693949,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664174
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"415a42f4c0a7aaed4c414c1a8e943815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1242750545,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1242750545,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1242750545,
+    "wof:lastmodified":1536813991,
+    "wof:name":"Shampay",
+    "wof:parent_id":1108693949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05546,
+    -10.48235,
+    -77.05546,
+    -10.48235
+],
+  "geometry": {"coordinates":[-77.05546,-10.48235],"type":"Point"}
+}

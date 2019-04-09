@@ -1,0 +1,72 @@
+{
+  "id": 1360074327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64832,-13.04845,-75.64832,-13.04845",
+    "geom:latitude":-13.04845,
+    "geom:longitude":-75.64832,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"PE",
+    "gn:dem":3771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929360,
+    "gn:latitude":-13.04845,
+    "gn:longitude":-75.64832,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro de Huacarpana",
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929360
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f7e587c8b0cbc74640a9e13258499e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1360074327,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1360074327,
+    "wof:lastmodified":1537676697,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64832,
+    -13.04845,
+    -75.64832,
+    -13.04845
+],
+  "geometry": {"coordinates":[-75.64832,-13.04845],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1277045241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2267,-12.45486,-76.2267,-12.45486",
+    "geom:latitude":-12.45486,
+    "geom:longitude":-76.2267,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151027.0",
+    "gn:asciiname":"Pilas",
+    "gn:country_code":"PE",
+    "gn:dem":2668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932288,
+    "gn:latitude":-12.45486,
+    "gn:longitude":-76.2267,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pilas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932288
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df5494748a0d7be033e2ad25dfad3020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1277045241,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1277045241,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277045241,
+    "wof:lastmodified":1536818689,
+    "wof:name":"Pilas",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2267,
+    -12.45486,
+    -76.2267,
+    -12.45486
+],
+  "geometry": {"coordinates":[-76.22669999999999,-12.45486],"type":"Point"}
+}

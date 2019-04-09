@@ -1,0 +1,69 @@
+{
+  "id": 1226653863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67611,-9.29361,-77.67611,-9.29361",
+    "geom:latitude":-9.29361,
+    "geom:longitude":-77.67611,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20601.0",
+    "gn:asciiname":"Ampu",
+    "gn:country_code":"PE",
+    "gn:dem":2924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380305,
+    "gn:latitude":-9.29361,
+    "gn:longitude":-77.67611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ampu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421194077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380305
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d43483c8474ce432b72825b5b853451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194077,
+            "locality_id":1226653863,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226653863,
+    "wof:lastmodified":1536846563,
+    "wof:name":"Ampu",
+    "wof:parent_id":421194077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67611,
+    -9.29361,
+    -77.67611,
+    -9.29361
+],
+  "geometry": {"coordinates":[-77.67610999999999,-9.29361],"type":"Point"}
+}

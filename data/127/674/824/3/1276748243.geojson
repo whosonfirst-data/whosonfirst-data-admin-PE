@@ -1,0 +1,73 @@
+{
+  "id": 1276748243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26453,-13.70046,-72.26453,-13.70046",
+    "geom:latitude":-13.70046,
+    "geom:longitude":-72.26453,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Cutucotay",
+    "gn:country_code":"PE",
+    "gn:dem":3189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941542,
+    "gn:latitude":-13.70046,
+    "gn:longitude":-72.26453,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Cutucotay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cutuctay Hacienda",
+        "Cutuctay",
+        "Cutucotay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941542
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b709baff19fb9a742f8674b4a4300a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693907,
+            "locality_id":1276748243,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1276748243,
+    "wof:lastmodified":1537676816,
+    "wof:name":"Cutucotay",
+    "wof:parent_id":1108693907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26453000000002,
+    -13.70046,
+    -72.26453000000002,
+    -13.70046
+],
+  "geometry": {"coordinates":[-72.26453000000002,-13.70046],"type":"Point"}
+}

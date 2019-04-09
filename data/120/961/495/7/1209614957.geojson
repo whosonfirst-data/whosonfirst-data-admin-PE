@@ -1,0 +1,63 @@
+{
+  "id": 1209614957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.62653,-15.32254,-72.62653,-15.32254",
+    "geom:latitude":-15.32254,
+    "geom:longitude":-72.62653,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40607.0",
+    "gn:asciiname":"Arunquipa",
+    "gn:country_code":"PE",
+    "gn:dem":4484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947261,
+    "gn:latitude":-15.32254,
+    "gn:longitude":-72.62653,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Arunquipa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947261
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"163f9bfa7be7acb167d488b80cc65821",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209614957
+        }
+    ],
+    "wof:id":1209614957,
+    "wof:lastmodified":1536281721,
+    "wof:name":"Arunquipa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.62653,
+    -15.32254,
+    -72.62653,
+    -15.32254
+],
+  "geometry": {"coordinates":[-72.62653,-15.32254],"type":"Point"}
+}

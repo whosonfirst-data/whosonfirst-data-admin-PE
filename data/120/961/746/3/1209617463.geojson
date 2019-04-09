@@ -1,0 +1,63 @@
+{
+  "id": 1209617463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15861,-8.89028,-78.15861,-8.89028",
+    "geom:latitude":-8.89028,
+    "geom:longitude":-78.15861,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21802.0",
+    "gn:asciiname":"Alizo",
+    "gn:country_code":"PE",
+    "gn:dem":3156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6368125,
+    "gn:latitude":-8.89028,
+    "gn:longitude":-78.15861,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alizo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368125
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"de2d8f8f8ea8e724a57d573d85910d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209617463
+        }
+    ],
+    "wof:id":1209617463,
+    "wof:lastmodified":1536281638,
+    "wof:name":"Alizo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15861,
+    -8.89028,
+    -78.15861,
+    -8.89028
+],
+  "geometry": {"coordinates":[-78.15861,-8.89028],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243247455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.5347,-12.74193,-74.5347,-12.74193",
+    "geom:latitude":-12.74193,
+    "geom:longitude":-74.5347,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90504.0",
+    "gn:asciiname":"Ccumpi",
+    "gn:country_code":"PE",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661431,
+    "gn:latitude":-12.74193,
+    "gn:longitude":-74.5347,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ccumpi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661431
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e31c163552b0ec0d626b4449a7b1cfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1243247455,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1243247455,
+    "wof:lastmodified":1537089175,
+    "wof:name":"Ccumpi",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.5347,
+    -12.74193,
+    -74.5347,
+    -12.74193
+],
+  "geometry": {"coordinates":[-74.5347,-12.74193],"type":"Point"}
+}

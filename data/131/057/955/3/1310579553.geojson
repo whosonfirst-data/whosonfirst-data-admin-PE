@@ -1,0 +1,69 @@
+{
+  "id": 1310579553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08514,-8.88293,-76.08514,-8.88293",
+    "geom:latitude":-8.88293,
+    "geom:longitude":-76.08514,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100604.0",
+    "gn:asciiname":"La Victoria",
+    "gn:country_code":"PE",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6672584,
+    "gn:latitude":-8.88293,
+    "gn:longitude":-76.08514,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"La Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421187925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672584
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"34dd8b66c52f6f1f29d928c85f2e77fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187925,
+            "locality_id":1310579553,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310579553,
+    "wof:lastmodified":1536809746,
+    "wof:name":"La Victoria",
+    "wof:parent_id":421187925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08514,
+    -8.88293,
+    -76.08514,
+    -8.88293
+],
+  "geometry": {"coordinates":[-76.08514,-8.88293],"type":"Point"}
+}

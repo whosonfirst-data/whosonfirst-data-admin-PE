@@ -1,0 +1,69 @@
+{
+  "id": 1226339467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05885,-7.24122,-78.05885,-7.24122",
+    "geom:latitude":-7.24122,
+    "geom:longitude":-78.05885,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61007.0",
+    "gn:asciiname":"Aguas Blanca",
+    "gn:country_code":"PE",
+    "gn:dem":3747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699836,
+    "gn:latitude":-7.24122,
+    "gn:longitude":-78.05885,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Aguas Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699836
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"84aa16419e7916bab960d2ba0cc5e427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693991,
+            "locality_id":1226339467,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1226339467,
+    "wof:lastmodified":1536798643,
+    "wof:name":"Aguas Blanca",
+    "wof:parent_id":1108693991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05885,
+    -7.24122,
+    -78.05885,
+    -7.24122
+],
+  "geometry": {"coordinates":[-78.05885000000001,-7.24122],"type":"Point"}
+}

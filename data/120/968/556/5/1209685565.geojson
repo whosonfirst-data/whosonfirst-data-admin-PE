@@ -1,0 +1,63 @@
+{
+  "id": 1209685565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56556,-12.40056,-75.56556,-12.40056",
+    "geom:latitude":-12.40056,
+    "geom:longitude":-75.56556,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151018.0",
+    "gn:asciiname":"Misme",
+    "gn:country_code":"PE",
+    "gn:dem":4590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304636,
+    "gn:latitude":-12.40056,
+    "gn:longitude":-75.56556,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Misme",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304636
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79b3c5cbb119acf1ae083d27af7e7d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209685565
+        }
+    ],
+    "wof:id":1209685565,
+    "wof:lastmodified":1536279423,
+    "wof:name":"Misme",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56555999999998,
+    -12.40056,
+    -75.56555999999998,
+    -12.40056
+],
+  "geometry": {"coordinates":[-75.56555999999998,-12.40056],"type":"Point"}
+}

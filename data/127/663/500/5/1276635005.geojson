@@ -1,0 +1,74 @@
+{
+  "id": 1276635005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44853,-11.34771,-75.44853,-11.34771",
+    "geom:latitude":-11.34771,
+    "geom:longitude":-75.44853,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120706.0",
+    "gn:asciiname":"Maraynioc",
+    "gn:country_code":"PE",
+    "gn:dem":3526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935393,
+    "gn:latitude":-11.34771,
+    "gn:longitude":-75.44853,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Maraynioc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marainico",
+        "Marainiyoc",
+        "Maraynioc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935393
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2546aaca233a2bf5eb6db3859e3c07da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1276635005,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276635005,
+    "wof:lastmodified":1537676758,
+    "wof:name":"Maraynioc",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44853,
+    -11.34771,
+    -75.44853,
+    -11.34771
+],
+  "geometry": {"coordinates":[-75.44853000000001,-11.34771],"type":"Point"}
+}

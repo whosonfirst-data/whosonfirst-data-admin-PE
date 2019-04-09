@@ -1,0 +1,105 @@
+{
+  "id": 421185675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63583,-14.47788,-70.63583,-14.47788",
+    "geom:latitude":-14.47788,
+    "geom:longitude":-70.63583,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Nu\u00f1uwa jisk'a t'aqa suyu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Nu\u00f1oa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10dc\u10d8\u10dd\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Nu\u00f1oa"
+    ],
+    "name:que_x_preferred":[
+        "Nu\u00f1uwa distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Nu\u00f1oa"
+    ],
+    "name:unk_x_variant":[
+        "\u00d1u\u00f1oa"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u5c3c\u5967\u74e6\u5340"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3934233,
+    "qs:gn_pop":4271,
+    "qs:name":"Nu\u00f1oa",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":59,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":59,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":899845,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419060,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934233,
+        "gp:id":419060,
+        "qs:id":899845,
+        "wd:id":"Q3825557",
+        "wk:page":"Nu\u00f1oa District"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009451,
+    "wof:geomhash":"398de428461931baf6f0a4d81cfff217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187861,
+            "locality_id":421185675,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":421185675,
+    "wof:lastmodified":1505340694,
+    "wof:name":"Nu\u00f1oa",
+    "wof:parent_id":421187861,
+    "wof:placetype":"locality",
+    "wof:population":4271,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63583,
+    -14.47788,
+    -70.63583,
+    -14.47788
+],
+  "geometry": {"coordinates":[-70.63583,-14.47788],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242743583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72656,-16.22929,-70.72656,-16.22929",
+    "geom:latitude":-16.22929,
+    "geom:longitude":-70.72656,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180210.0",
+    "gn:asciiname":"Exchaji",
+    "gn:country_code":"PE",
+    "gn:dem":3472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940975,
+    "gn:latitude":-16.22929,
+    "gn:longitude":-70.72656,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Exchaji",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940975
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e8244b554ca2eb9dd911e43d0914d761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1242743583,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1242743583,
+    "wof:lastmodified":1536823860,
+    "wof:name":"Exchaji",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72655999999998,
+    -16.22929,
+    -70.72655999999998,
+    -16.22929
+],
+  "geometry": {"coordinates":[-70.72655999999998,-16.22929],"type":"Point"}
+}

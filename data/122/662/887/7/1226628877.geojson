@@ -1,0 +1,77 @@
+{
+  "id": 1226628877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.84149,-10.72306,-76.84149,-10.72306",
+    "geom:latitude":-10.72306,
+    "geom:longitude":-76.84149,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Erapata",
+    "gn:country_code":"PE",
+    "gn:dem":2901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962698,
+    "gn:latitude":-10.72306,
+    "gn:longitude":-76.84149,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Erapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962698
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b734fa82e6046711654cfa5e62f6e6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1226628877,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1226628877,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1226628877,
+    "wof:lastmodified":1536883204,
+    "wof:name":"Erapata",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.84149000000002,
+    -10.72306,
+    -76.84149000000002,
+    -10.72306
+],
+  "geometry": {"coordinates":[-76.84149000000002,-10.72306],"type":"Point"}
+}

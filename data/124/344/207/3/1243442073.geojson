@@ -1,0 +1,73 @@
+{
+  "id": 1243442073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24756,-13.82702,-76.24756,-13.82702",
+    "geom:latitude":-13.82702,
+    "geom:longitude":-76.24756,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110505.0",
+    "gn:asciiname":"La Puntilla",
+    "gn:country_code":"PE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936897,
+    "gn:latitude":-13.82702,
+    "gn:longitude":-76.24756,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Puntilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Astillero",
+        "La Puntilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936897
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"80f524d156b98cd88bd4cc7355e7fbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1243442073,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1243442073,
+    "wof:lastmodified":1537676771,
+    "wof:name":"La Puntilla",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24756,
+    -13.82702,
+    -76.24756,
+    -13.82702
+],
+  "geometry": {"coordinates":[-76.24755999999999,-13.82702],"type":"Point"}
+}

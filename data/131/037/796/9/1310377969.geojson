@@ -1,0 +1,80 @@
+{
+  "id": 1310377969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19337,-11.58062,-77.19337,-11.58062",
+    "geom:latitude":-11.58062,
+    "geom:longitude":-77.19337,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150604.0",
+    "gn:asciiname":"La Caporala",
+    "gn:country_code":"PE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9873275,
+    "gn:latitude":-11.58062,
+    "gn:longitude":-77.19337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Caporala",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Caporala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873275
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3f2734e5e8d2a610be9a266d37ed0931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1310377969,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1310377969,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310377969,
+    "wof:lastmodified":1537676924,
+    "wof:name":"La Caporala",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19337,
+    -11.58062,
+    -77.19337,
+    -11.58062
+],
+  "geometry": {"coordinates":[-77.19337,-11.58062],"type":"Point"}
+}

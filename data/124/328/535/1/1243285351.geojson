@@ -1,0 +1,73 @@
+{
+  "id": 1243285351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.3382,-7.16288,-78.3382,-7.16288",
+    "geom:latitude":-7.16288,
+    "geom:longitude":-78.3382,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60108.0",
+    "gn:asciiname":"Chuchun",
+    "gn:country_code":"PE",
+    "gn:dem":3035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698127,
+    "gn:latitude":-7.16288,
+    "gn:longitude":-78.3382,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chuchun",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuchun Hacienda",
+        "Chuchun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421172423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698127
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4d1d1dea08077076228baccd68cd9c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172423,
+            "locality_id":1243285351,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1243285351,
+    "wof:lastmodified":1537676626,
+    "wof:name":"Chuchun",
+    "wof:parent_id":421172423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.3382,
+    -7.16288,
+    -78.3382,
+    -7.16288
+],
+  "geometry": {"coordinates":[-78.3382,-7.16288],"type":"Point"}
+}

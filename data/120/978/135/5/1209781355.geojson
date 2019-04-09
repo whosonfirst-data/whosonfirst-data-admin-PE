@@ -1,0 +1,69 @@
+{
+  "id": 1209781355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98333,-17.31667,-70.98333,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":-70.98333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:asciiname":"Mayorazgo",
+    "gn:country_code":"PE",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935109,
+    "gn:latitude":-17.31667,
+    "gn:longitude":-70.98333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Mayorazgo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935109
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1d192f8be0e6df069ed4493713f631e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1209781355,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1209781355,
+    "wof:lastmodified":1536373329,
+    "wof:name":"Mayorazgo",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98333000000002,
+    -17.31667,
+    -70.98333000000002,
+    -17.31667
+],
+  "geometry": {"coordinates":[-70.98333000000002,-17.31667],"type":"Point"}
+}

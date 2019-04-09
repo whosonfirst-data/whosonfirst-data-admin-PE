@@ -1,0 +1,72 @@
+{
+  "id": 1343356481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.296,-11.42694,-69.296,-11.42694",
+    "geom:latitude":-11.42694,
+    "geom:longitude":-69.296,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Arrancatoco",
+    "gn:cc2":"BO",
+    "gn:country_code":"PE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11439118,
+    "gn:latitude":-11.42694,
+    "gn:longitude":-69.296,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Arrancatoco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arrancatoco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11439118
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c2d0a6f0d016cc1135a51fe28f91a3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1343356481,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1343356481,
+    "wof:lastmodified":1537676972,
+    "wof:name":"Arrancatoco",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.296,
+    -11.42694,
+    -69.296,
+    -11.42694
+],
+  "geometry": {"coordinates":[-69.29600000000001,-11.42694],"type":"Point"}
+}

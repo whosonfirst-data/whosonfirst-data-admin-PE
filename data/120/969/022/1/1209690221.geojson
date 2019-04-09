@@ -1,0 +1,63 @@
+{
+  "id": 1209690221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.60946,-4.88275,-79.60946,-4.88275",
+    "geom:latitude":-4.88275,
+    "geom:longitude":-79.60946,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"Paredone",
+    "gn:country_code":"PE",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660892,
+    "gn:latitude":-4.88275,
+    "gn:longitude":-79.60946,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Paredone",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660892
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3fb50e35b7b9dfdcfc278a5c92f4ea0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209690221
+        }
+    ],
+    "wof:id":1209690221,
+    "wof:lastmodified":1536279269,
+    "wof:name":"Paredone",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.60946,
+    -4.88275,
+    -79.60946,
+    -4.88275
+],
+  "geometry": {"coordinates":[-79.60946,-4.88275],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343443591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.06667,-12.01667,-77.06667,-12.01667",
+    "geom:latitude":-12.01667,
+    "geom:longitude":-77.06667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150135.0",
+    "gn:asciiname":"Aliaga",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948160,
+    "gn:latitude":-12.01667,
+    "gn:longitude":-77.06667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Aliaga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aliaga Hacienda",
+        "Aliaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948160
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"99ec4a53941ec817c28beaa12bfc0e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1343443591,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1343443591,
+    "wof:lastmodified":1537676871,
+    "wof:name":"Aliaga",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.06667,
+    -12.01667,
+    -77.06667,
+    -12.01667
+],
+  "geometry": {"coordinates":[-77.06667,-12.01667],"type":"Point"}
+}

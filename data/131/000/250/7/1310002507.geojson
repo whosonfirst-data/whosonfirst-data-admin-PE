@@ -1,0 +1,69 @@
+{
+  "id": 1310002507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.03536,-15.10847,-71.03536,-15.10847",
+    "geom:latitude":-15.10847,
+    "geom:longitude":-71.03536,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80805.0",
+    "gn:asciiname":"Quisimocco",
+    "gn:country_code":"PE",
+    "gn:dem":4280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930657,
+    "gn:latitude":-15.10847,
+    "gn:longitude":-71.03536,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Quisimocco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930657
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1b5bbd365c2115155bfe2104a37bde12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1310002507,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1310002507,
+    "wof:lastmodified":1536647278,
+    "wof:name":"Quisimocco",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.03536,
+    -15.10847,
+    -71.03536,
+    -15.10847
+],
+  "geometry": {"coordinates":[-71.03536,-15.10847],"type":"Point"}
+}

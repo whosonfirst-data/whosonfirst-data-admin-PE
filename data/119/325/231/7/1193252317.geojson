@@ -1,0 +1,71 @@
+{
+  "id": 1193252317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.72895,-13.8337,-69.72895,-13.8337",
+    "geom:latitude":-13.8337,
+    "geom:longitude":-69.72895,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Huanacuri",
+    "gn:country_code":"PE",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558930,
+    "gn:latitude":-13.8337,
+    "gn:longitude":-69.72895,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Huanacuri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huanacuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558930
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0d78a381ac22cef7ba9f57c26ea576c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1193252317,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1193252317,
+    "wof:lastmodified":1537677010,
+    "wof:name":"Huanacuri",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.72895,
+    -13.8337,
+    -69.72895,
+    -13.8337
+],
+  "geometry": {"coordinates":[-69.72895,-13.8337],"type":"Point"}
+}

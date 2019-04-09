@@ -1,0 +1,73 @@
+{
+  "id": 1277109071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6399,-17.00881,-71.6399,-17.00881",
+    "geom:latitude":-17.00881,
+    "geom:longitude":-71.6399,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40702.0",
+    "gn:asciiname":"Caraquen",
+    "gn:country_code":"PE",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945547,
+    "gn:latitude":-17.00881,
+    "gn:longitude":-71.6399,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Caraquen",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cavaquen",
+        "Caraquen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421182365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945547
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cb75d1cbdb42c0cf1f0821fcd85dcb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182365,
+            "locality_id":1277109071,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1277109071,
+    "wof:lastmodified":1537676850,
+    "wof:name":"Caraquen",
+    "wof:parent_id":421182365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.6399,
+    -17.00881,
+    -71.6399,
+    -17.00881
+],
+  "geometry": {"coordinates":[-71.6399,-17.00881],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226465895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.08817,-15.86576,-74.08817,-15.86576",
+    "geom:latitude":-15.86576,
+    "geom:longitude":-74.08817,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40308.0",
+    "gn:asciiname":"Pampa Colorada",
+    "gn:country_code":"PE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933281,
+    "gn:latitude":-15.86576,
+    "gn:longitude":-74.08817,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pampa Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933281
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"94635cf854699cb357490ed54d8f32b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1226465895,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226465895,
+    "wof:lastmodified":1537676737,
+    "wof:name":"Pampa Colorada",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.08816999999998,
+    -15.86576,
+    -74.08816999999998,
+    -15.86576
+],
+  "geometry": {"coordinates":[-74.08816999999998,-15.86576],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421185251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36277,-11.82965,-75.36277,-11.82965",
+    "geom:latitude":-11.82965,
+    "geom:longitude":-75.36277,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6674673,
+    "qs:gn_pop":0,
+    "qs:name":"Miraflores",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":301,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":301,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887631,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419026,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674673,
+        "gp:id":419026,
+        "qs:id":887631
+    },
+    "wof:country":"PE",
+    "wof:created":1459009437,
+    "wof:geomhash":"18e85f6597093f63a32ed70e4534466d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":421185251,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":421185251,
+    "wof:lastmodified":1527726504,
+    "wof:name":"Miraflores",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36277,
+    -11.82965,
+    -75.36277,
+    -11.82965
+],
+  "geometry": {"coordinates":[-75.36277,-11.82965],"type":"Point"}
+}

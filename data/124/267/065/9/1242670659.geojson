@@ -1,0 +1,69 @@
+{
+  "id": 1242670659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72111,-14.27889,-73.72111,-14.27889",
+    "geom:latitude":-14.27889,
+    "geom:longitude":-73.72111,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50911.0",
+    "gn:asciiname":"Cceuquicho",
+    "gn:country_code":"PE",
+    "gn:dem":4251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944971,
+    "gn:latitude":-14.27889,
+    "gn:longitude":-73.72111,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cceuquicho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944971
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d53a2066f3cc44d94b62b66509cfb65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1242670659,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1242670659,
+    "wof:lastmodified":1536930489,
+    "wof:name":"Cceuquicho",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72111,
+    -14.27889,
+    -73.72111,
+    -14.27889
+],
+  "geometry": {"coordinates":[-73.72111,-14.27889],"type":"Point"}
+}

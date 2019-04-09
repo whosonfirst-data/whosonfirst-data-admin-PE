@@ -1,0 +1,69 @@
+{
+  "id": 1276233577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54795,-15.7259,-72.54795,-15.7259",
+    "geom:latitude":-15.7259,
+    "geom:longitude":-72.54795,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40410.0",
+    "gn:asciiname":"Ruruca",
+    "gn:country_code":"PE",
+    "gn:dem":2848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3951103,
+    "gn:latitude":-15.7259,
+    "gn:longitude":-72.54795,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ruruca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951103
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e022dca951e3818bc2a1f7b711c6a2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1276233577,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276233577,
+    "wof:lastmodified":1536912753,
+    "wof:name":"Ruruca",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54795,
+    -15.7259,
+    -72.54795,
+    -15.7259
+],
+  "geometry": {"coordinates":[-72.54795,-15.7259],"type":"Point"}
+}

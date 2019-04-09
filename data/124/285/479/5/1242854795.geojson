@@ -1,0 +1,72 @@
+{
+  "id": 1242854795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7146,-14.11093,-75.7146,-14.11093",
+    "geom:latitude":-14.11093,
+    "geom:longitude":-75.7146,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Camino Grande",
+    "gn:country_code":"PE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3945948,
+    "gn:latitude":-14.11093,
+    "gn:longitude":-75.7146,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Camino Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camino Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945948
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"486fde2cb6cd19d8a452392d71bcc68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1242854795,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242854795,
+    "wof:lastmodified":1537676853,
+    "wof:name":"Camino Grande",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7146,
+    -14.11093,
+    -75.7146,
+    -14.11093
+],
+  "geometry": {"coordinates":[-75.7146,-14.11093],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209288409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35823,-16.57601,-69.35823,-16.57601",
+    "geom:latitude":-16.57601,
+    "geom:longitude":-69.35823,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210403.0",
+    "gn:asciiname":"Jocopata",
+    "gn:country_code":"PE",
+    "gn:dem":3907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6309838,
+    "gn:latitude":-16.57601,
+    "gn:longitude":-69.35823,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jocopata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309838
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e83dee768b78be44a96c509da6afb407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209288409
+        }
+    ],
+    "wof:id":1209288409,
+    "wof:lastmodified":1536291779,
+    "wof:name":"Jocopata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35823,
+    -16.57601,
+    -69.35823,
+    -16.57601
+],
+  "geometry": {"coordinates":[-69.35823000000001,-16.57601],"type":"Point"}
+}

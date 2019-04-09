@@ -1,0 +1,73 @@
+{
+  "id": 1243362201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86667,-12.25,-73.86667,-12.25",
+    "geom:latitude":-12.25,
+    "geom:longitude":-73.86667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:asciiname":"Quimpitirique",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930795,
+    "gn:latitude":-12.25,
+    "gn:longitude":-73.86667,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Quimpitirique",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimpitirique",
+        "Quimpitirique"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930795
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"23d934e0f4d95f246c49c4def5522051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1243362201,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1243362201,
+    "wof:lastmodified":1537676715,
+    "wof:name":"Quimpitirique",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86667,
+    -12.25,
+    -73.86667,
+    -12.25
+],
+  "geometry": {"coordinates":[-73.86667,-12.25],"type":"Point"}
+}

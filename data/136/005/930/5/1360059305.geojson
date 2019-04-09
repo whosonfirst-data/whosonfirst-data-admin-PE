@@ -1,0 +1,73 @@
+{
+  "id": 1360059305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77483,-15.94564,-70.77483,-15.94564",
+    "geom:latitude":-15.94564,
+    "geom:longitude":-70.77483,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:admin3_code":"211103.0",
+    "gn:asciiname":"Hacienda Toroya",
+    "gn:country_code":"PE",
+    "gn:dem":4290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927092,
+    "gn:latitude":-15.94564,
+    "gn:longitude":-70.77483,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hacienda Toroya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toroya Hacienda",
+        "Hacienda Toroya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421167831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927092
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4dc48c7938011cedf27082d2a43aa644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421167831,
+            "locality_id":1360059305,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1360059305,
+    "wof:lastmodified":1537676676,
+    "wof:name":"Hacienda Toroya",
+    "wof:parent_id":421167831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77483000000002,
+    -15.94564,
+    -70.77483000000002,
+    -15.94564
+],
+  "geometry": {"coordinates":[-70.77483000000002,-15.94564],"type":"Point"}
+}

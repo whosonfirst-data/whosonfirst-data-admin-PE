@@ -1,0 +1,74 @@
+{
+  "id": 1293250421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.72333,-17.565,-69.72333,-17.565",
+    "geom:latitude":-17.565,
+    "geom:longitude":-69.72333,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230107.0",
+    "gn:asciiname":"Culco de Angostura",
+    "gn:country_code":"PE",
+    "gn:dem":4414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941772,
+    "gn:latitude":-17.565,
+    "gn:longitude":-69.72333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Culco de Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angostura",
+        "Culco",
+        "Culco de Angostura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941772
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"553c1a3b59d79d4ce29648b4ac7f3df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1293250421,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1293250421,
+    "wof:lastmodified":1537676817,
+    "wof:name":"Culco de Angostura",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.72333,
+    -17.565,
+    -69.72333,
+    -17.565
+],
+  "geometry": {"coordinates":[-69.72333,-17.565],"type":"Point"}
+}

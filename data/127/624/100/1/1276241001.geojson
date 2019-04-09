@@ -1,0 +1,69 @@
+{
+  "id": 1276241001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75444,-9.22917,-77.75444,-9.22917",
+    "geom:latitude":-9.22917,
+    "geom:longitude":-77.75444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"220.0",
+    "gn:admin3_code":"22002.0",
+    "gn:asciiname":"Cacapaqui",
+    "gn:country_code":"PE",
+    "gn:dem":3288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380061,
+    "gn:latitude":-9.22917,
+    "gn:longitude":-77.75444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cacapaqui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380061
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"33ecc600c443c995c1570dfb695530b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":1276241001,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276241001,
+    "wof:lastmodified":1536902409,
+    "wof:name":"Cacapaqui",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75444,
+    -9.22917,
+    -77.75444,
+    -9.22917
+],
+  "geometry": {"coordinates":[-77.75444,-9.22917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260148107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04278,-11.14583,-73.04278,-11.14583",
+    "geom:latitude":-11.14583,
+    "geom:longitude":-73.04278,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250202.0",
+    "gn:asciiname":"Sepahua",
+    "gn:country_code":"PE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3928732,
+    "gn:latitude":-11.14583,
+    "gn:longitude":-73.04278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sepahua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shepahua",
+        "Sepahua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928732
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0d8636447daea022da2a0a31f7a37849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1260148107,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1260148107,
+    "wof:lastmodified":1537676690,
+    "wof:name":"Sepahua",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04278000000002,
+    -11.14583,
+    -73.04278000000002,
+    -11.14583
+],
+  "geometry": {"coordinates":[-73.04278000000002,-11.14583],"type":"Point"}
+}

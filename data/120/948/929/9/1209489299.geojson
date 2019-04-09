@@ -1,0 +1,63 @@
+{
+  "id": 1209489299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.39262,-16.77226,-69.39262,-16.77226",
+    "geom:latitude":-16.77226,
+    "geom:longitude":-69.39262,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Chognapujo",
+    "gn:country_code":"PE",
+    "gn:dem":4206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309993,
+    "gn:latitude":-16.77226,
+    "gn:longitude":-69.39262,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chog\u00f1apujo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309993
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c933def59eec64835302981e89f9cb83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209489299
+        }
+    ],
+    "wof:id":1209489299,
+    "wof:lastmodified":1536285537,
+    "wof:name":"Chognapujo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.39262,
+    -16.77226,
+    -69.39262,
+    -16.77226
+],
+  "geometry": {"coordinates":[-69.39261999999999,-16.77226],"type":"Point"}
+}

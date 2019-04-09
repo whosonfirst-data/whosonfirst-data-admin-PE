@@ -1,0 +1,76 @@
+{
+  "id": 1327192615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25525,-15.44311,-69.25525,-15.44311",
+    "geom:latitude":-15.44311,
+    "geom:longitude":-69.25525,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210901.0",
+    "gn:asciiname":"Pacchani",
+    "gn:country_code":"PE",
+    "gn:dem":3890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933754,
+    "gn:latitude":-15.44311,
+    "gn:longitude":-69.25525,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Pacchani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacchani"
+    ],
+    "name:spa_x_variant":[
+        "Pacchani Chico",
+        "Hacienda Pacchani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933754
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"962870bc50832abde50e2c1c5017b07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1327192615,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327192615,
+    "wof:lastmodified":1537676741,
+    "wof:name":"Pacchani",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25525,
+    -15.44311,
+    -69.25525,
+    -15.44311
+],
+  "geometry": {"coordinates":[-69.25525,-15.44311],"type":"Point"}
+}

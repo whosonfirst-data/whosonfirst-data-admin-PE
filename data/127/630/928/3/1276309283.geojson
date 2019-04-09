@@ -1,0 +1,73 @@
+{
+  "id": 1276309283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.69948,-11.81637,-74.69948,-11.81637",
+    "geom:latitude":-11.81637,
+    "geom:longitude":-74.69948,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120135.0",
+    "gn:asciiname":"Halcara",
+    "gn:country_code":"PE",
+    "gn:dem":2614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939833,
+    "gn:latitude":-11.81637,
+    "gn:longitude":-74.69948,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Halcar\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualcana",
+        "Halcar\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939833
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cf95aa99b4ebb54b8a2d9d54738da2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1276309283,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276309283,
+    "wof:lastmodified":1537676798,
+    "wof:name":"Halcara",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.69948000000002,
+    -11.81637,
+    -74.69948000000002,
+    -11.81637
+],
+  "geometry": {"coordinates":[-74.69948000000002,-11.81637],"type":"Point"}
+}

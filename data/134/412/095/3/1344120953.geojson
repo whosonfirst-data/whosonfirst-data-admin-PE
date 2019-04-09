@@ -1,0 +1,70 @@
+{
+  "id": 1344120953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.09573,-16.22852,-69.09573,-16.22852",
+    "geom:latitude":-16.22852,
+    "geom:longitude":-69.09573,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2113.0",
+    "gn:admin3_code":"211301.0",
+    "gn:asciiname":"Kasani",
+    "gn:country_code":"PE",
+    "gn:dem":3851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937445,
+    "gn:latitude":-16.22852,
+    "gn:longitude":-69.09573,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kasani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421198073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937445,
+        "wk:page":"Khasani"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"47e5a41135f8ca8eeef8903b269e928b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198073,
+            "locality_id":1344120953,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1344120953,
+    "wof:lastmodified":1537570257,
+    "wof:name":"Kasani",
+    "wof:parent_id":421198073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.09573,
+    -16.22852,
+    -69.09573,
+    -16.22852
+],
+  "geometry": {"coordinates":[-69.09573,-16.22852],"type":"Point"}
+}

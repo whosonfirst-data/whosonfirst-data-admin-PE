@@ -1,0 +1,68 @@
+{
+  "id": 890445183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.92438,-14.79847,-73.92438,-14.79847",
+    "geom:latitude":-14.79847,
+    "geom:longitude":-73.92438,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":5032,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tambo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":131,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927995,
+        "gp:id":419251,
+        "qs:id":1047243,
+        "wk:page":"Tambo"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052500,
+    "wof:geomhash":"677ea647e5adaad9c975f9d52bb5ff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":890445183,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":890445183,
+    "wof:lastmodified":1527792874,
+    "wof:name":"Tambo",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:population":5032,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92438,
+    -14.79847,
+    -73.92438,
+    -14.79847
+],
+  "geometry": {"coordinates":[-73.92438,-14.79847],"type":"Point"}
+}

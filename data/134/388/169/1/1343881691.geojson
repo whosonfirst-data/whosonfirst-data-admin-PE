@@ -1,0 +1,73 @@
+{
+  "id": 1343881691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46811,-15.56978,-74.46811,-15.56978",
+    "geom:latitude":-15.56978,
+    "geom:longitude":-74.46811,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40310.0",
+    "gn:asciiname":"Lampilla",
+    "gn:country_code":"PE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936981,
+    "gn:latitude":-15.56978,
+    "gn:longitude":-74.46811,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lampilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lampilla Hacienda",
+        "Lampilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7297f452a12e3a7c4fe1ef7fc3e9c97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1343881691,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343881691,
+    "wof:lastmodified":1537676772,
+    "wof:name":"Lampilla",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46811,
+    -15.56978,
+    -74.46811,
+    -15.56978
+],
+  "geometry": {"coordinates":[-74.46811,-15.56978],"type":"Point"}
+}

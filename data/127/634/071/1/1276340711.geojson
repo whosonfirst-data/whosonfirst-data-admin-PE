@@ -1,0 +1,72 @@
+{
+  "id": 1276340711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60331,-16.00287,-73.60331,-16.00287",
+    "geom:latitude":-16.00287,
+    "geom:longitude":-73.60331,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40303.0",
+    "gn:asciiname":"Huishuipampa",
+    "gn:country_code":"PE",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3938630,
+    "gn:latitude":-16.00287,
+    "gn:longitude":-73.60331,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Huishuipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:spa_x_preferred":[
+        "Huishuipampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938630
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"315465746928782b6654412a2d2d54a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1276340711,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276340711,
+    "wof:lastmodified":1537676786,
+    "wof:name":"Huishuipampa",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60331,
+    -16.00287,
+    -73.60331,
+    -16.00287
+],
+  "geometry": {"coordinates":[-73.60330999999999,-16.00287],"type":"Point"}
+}

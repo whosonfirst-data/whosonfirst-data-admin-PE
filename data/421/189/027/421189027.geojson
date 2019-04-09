@@ -1,0 +1,93 @@
+{
+  "id": 421189027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.062202,-11.947157,-77.062202,-11.947157",
+    "geom:latitude":-11.947157,
+    "geom:longitude":-77.062202,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mar\u00eda Sabina"
+    ],
+    "name:est_x_preferred":[
+        "Mar\u00eda Sabina"
+    ],
+    "name:fra_x_preferred":[
+        "Maria Sabina"
+    ],
+    "name:ita_x_preferred":[
+        "Mar\u00eda Sabina"
+    ],
+    "name:pol_x_preferred":[
+        "Mar\u00eda Sabina"
+    ],
+    "name:spa_x_preferred":[
+        "Mar\u00eda Sabina"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Luzmila",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1109741,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":22723463,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723463,
+        "qs:id":1109741
+    },
+    "wof:country":"PE",
+    "wof:created":1459009602,
+    "wof:geomhash":"a4d5539b9ef0ce74755c76b8cbf56fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421189027,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421189027,
+    "wof:lastmodified":1500024369,
+    "wof:name":"Santa Luzmila",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.062202,
+    -11.947157,
+    -77.062202,
+    -11.947157
+],
+  "geometry": {"coordinates":[-77.062202,-11.947157],"type":"Point"}
+}

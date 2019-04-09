@@ -1,0 +1,74 @@
+{
+  "id": 1276511169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.59876,-13.77653,-69.59876,-13.77653",
+    "geom:latitude":-13.77653,
+    "geom:longitude":-69.59876,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Punto Cuatro",
+    "gn:country_code":"PE",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558974,
+    "gn:latitude":-13.77653,
+    "gn:longitude":-69.59876,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Punto Cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Punto Cuatro"
+    ],
+    "name:spa_x_variant":[
+        "Cuatro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558974
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1dab27d7871f076765813154e459fed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1276511169,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276511169,
+    "wof:lastmodified":1537677011,
+    "wof:name":"Punto Cuatro",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.59876,
+    -13.77653,
+    -69.59876,
+    -13.77653
+],
+  "geometry": {"coordinates":[-69.59876,-13.77653],"type":"Point"}
+}

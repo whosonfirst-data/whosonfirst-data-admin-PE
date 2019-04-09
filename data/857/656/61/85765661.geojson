@@ -1,0 +1,110 @@
+{
+  "id": 85765661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7256287.131759,
+    "geom:bbox":"-77.001727,-12.143701,-77.001727,-12.143701",
+    "geom:latitude":-12.143701,
+    "geom:longitude":-77.001727,
+    "gn:id":"",
+    "iso:country":"PE",
+    "lbl:latitude":-12.143701,
+    "lbl:longitude":-77.001727,
+    "mps:latitude":-12.152114,
+    "mps:longitude":-77.010854,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "San Roque"
+    ],
+    "name:spa_x_variant":[
+        "S Roque",
+        "S. Roque"
+    ],
+    "name:unk_x_variant":[
+        "San Roque"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_id":0,
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"San Roque",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:name_adm2":"Lima",
+    "qs:name_local":"Lima",
+    "qs:photo_max":28,
+    "qs:photo_sum":112,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":28358302,
+    "qs:woe_adm2":26805880,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421202549,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723506,
+        "qs:id":1061906,
+        "qs_pg:id":1061906
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"39151c6e5967c55ae7dabe37207e1fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":85765661,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":85765661,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859031,
+    "wof:name":"San Roque",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.001727,
+    -12.143701,
+    -77.001727,
+    -12.143701
+],
+  "geometry": {"coordinates":[-77.001727,-12.143701],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343844977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46707,-12.14574,-75.46707,-12.14574",
+    "geom:latitude":-12.14574,
+    "geom:longitude":-75.46707,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1209.0",
+    "gn:admin3_code":"120907.0",
+    "gn:asciiname":"Ucutuyoc",
+    "gn:country_code":"PE",
+    "gn:dem":4401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926602,
+    "gn:latitude":-12.14574,
+    "gn:longitude":-75.46707,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ucutuyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926602
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c78ff494e59dd782fc3e53337d669648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188283,
+            "locality_id":1343844977,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343844977,
+    "wof:lastmodified":1536689058,
+    "wof:name":"Ucutuyoc",
+    "wof:parent_id":421188283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46706999999998,
+    -12.14574,
+    -75.46706999999998,
+    -12.14574
+],
+  "geometry": {"coordinates":[-75.46706999999998,-12.14574],"type":"Point"}
+}

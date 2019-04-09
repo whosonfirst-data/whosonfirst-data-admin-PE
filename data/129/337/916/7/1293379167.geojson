@@ -1,0 +1,69 @@
+{
+  "id": 1293379167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8889,-13.28961,-74.8889,-13.28961",
+    "geom:latitude":-13.28961,
+    "geom:longitude":-74.8889,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Yuyo",
+    "gn:country_code":"PE",
+    "gn:dem":4710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925366,
+    "gn:latitude":-13.28961,
+    "gn:longitude":-74.8889,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Yuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da24ea9a1e3edc2571c96f375ad68a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1293379167,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293379167,
+    "wof:lastmodified":1536943708,
+    "wof:name":"Yuyo",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8889,
+    -13.28961,
+    -74.8889,
+    -13.28961
+],
+  "geometry": {"coordinates":[-74.88890000000001,-13.28961],"type":"Point"}
+}

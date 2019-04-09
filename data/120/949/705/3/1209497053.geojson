@@ -1,0 +1,63 @@
+{
+  "id": 1209497053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2,-2.41667,-76.2,-2.41667",
+    "geom:latitude":-2.41667,
+    "geom:longitude":-76.2,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160303.0",
+    "gn:asciiname":"Shiviyacu",
+    "gn:country_code":"PE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691870,
+    "gn:latitude":-2.41667,
+    "gn:longitude":-76.2,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shiviyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691870
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ff1424b13b2f4351ff4c2ed622ad3167",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209497053
+        }
+    ],
+    "wof:id":1209497053,
+    "wof:lastmodified":1536285302,
+    "wof:name":"Shiviyacu",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2,
+    -2.41667,
+    -76.2,
+    -2.41667
+],
+  "geometry": {"coordinates":[-76.2,-2.41667],"type":"Point"}
+}

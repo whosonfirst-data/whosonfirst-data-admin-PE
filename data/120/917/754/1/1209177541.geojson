@@ -1,0 +1,65 @@
+{
+  "id": 1209177541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21868,-12.30763,-69.21868,-12.30763",
+    "geom:latitude":-12.30763,
+    "geom:longitude":-69.21868,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Arenal",
+    "gn:country_code":"PE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514994,
+    "gn:latitude":-12.30763,
+    "gn:longitude":-69.21868,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arenal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514994
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"129f20cddaa68d9051c93900d414b5ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209177541
+        }
+    ],
+    "wof:id":1209177541,
+    "wof:lastmodified":1537676989,
+    "wof:name":"Arenal",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21868,
+    -12.30763,
+    -69.21868,
+    -12.30763
+],
+  "geometry": {"coordinates":[-69.21868000000001,-12.30763],"type":"Point"}
+}

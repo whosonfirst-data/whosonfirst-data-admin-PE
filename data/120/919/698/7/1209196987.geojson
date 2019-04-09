@@ -1,0 +1,63 @@
+{
+  "id": 1209196987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91417,-11.23778,-76.91417,-11.23778",
+    "geom:latitude":-11.23778,
+    "geom:longitude":-76.91417,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150606.0",
+    "gn:asciiname":"Matarcan",
+    "gn:country_code":"PE",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968281,
+    "gn:latitude":-11.23778,
+    "gn:longitude":-76.91417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Matarcan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968281
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9ca7c7f6fe0c4fe0a945175050b46056",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209196987
+        }
+    ],
+    "wof:id":1209196987,
+    "wof:lastmodified":1536294737,
+    "wof:name":"Matarcan",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91417,
+    -11.23778,
+    -76.91417,
+    -11.23778
+],
+  "geometry": {"coordinates":[-76.91417,-11.23778],"type":"Point"}
+}

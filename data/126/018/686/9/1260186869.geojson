@@ -1,0 +1,69 @@
+{
+  "id": 1260186869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72827,-13.97476,-73.72827,-13.97476",
+    "geom:latitude":-13.97476,
+    "geom:longitude":-73.72827,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50909.0",
+    "gn:asciiname":"Uchuy Huito Pampa",
+    "gn:country_code":"PE",
+    "gn:dem":3078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374742,
+    "gn:latitude":-13.97476,
+    "gn:longitude":-73.72827,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Uchuy Huito Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374742
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c2815e4a2aa37385eaa02063cb9d53af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1260186869,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260186869,
+    "wof:lastmodified":1536842228,
+    "wof:name":"Uchuy Huito Pampa",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72827,
+    -13.97476,
+    -73.72827,
+    -13.97476
+],
+  "geometry": {"coordinates":[-73.72826999999999,-13.97476],"type":"Point"}
+}

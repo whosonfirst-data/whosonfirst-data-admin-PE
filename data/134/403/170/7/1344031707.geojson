@@ -1,0 +1,69 @@
+{
+  "id": 1344031707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.86795,-17.0398,-69.86795,-17.0398",
+    "geom:latitude":-17.0398,
+    "geom:longitude":-69.86795,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210504.0",
+    "gn:asciiname":"Ajipincucho",
+    "gn:country_code":"PE",
+    "gn:dem":4535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392634,
+    "gn:latitude":-17.0398,
+    "gn:longitude":-69.86795,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ajipincucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392634
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bd34882c9442b3949ea8b7ca990acf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1344031707,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1344031707,
+    "wof:lastmodified":1536917734,
+    "wof:name":"Ajipincucho",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.86795,
+    -17.0398,
+    -69.86795,
+    -17.0398
+],
+  "geometry": {"coordinates":[-69.86794999999999,-17.0398],"type":"Point"}
+}

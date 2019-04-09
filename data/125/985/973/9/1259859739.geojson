@@ -1,0 +1,74 @@
+{
+  "id": 1259859739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66898,-14.27225,-75.66898,-14.27225",
+    "geom:latitude":-14.27225,
+    "geom:longitude":-75.66898,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110111.0",
+    "gn:asciiname":"Santa Dominguita",
+    "gn:country_code":"PE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929220,
+    "gn:latitude":-14.27225,
+    "gn:longitude":-75.66898,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Santa Dominguita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Dominguita Hacienda",
+        "Hacienda Santa Dominguita",
+        "Santa Dominguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929220
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"494bf6a4f0961845467120d68462eb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1259859739,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259859739,
+    "wof:lastmodified":1537676695,
+    "wof:name":"Santa Dominguita",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66898,
+    -14.27225,
+    -75.66898,
+    -14.27225
+],
+  "geometry": {"coordinates":[-75.66898,-14.27225],"type":"Point"}
+}

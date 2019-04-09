@@ -1,0 +1,63 @@
+{
+  "id": 1209610859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56298,-12.64222,-74.56298,-12.64222",
+    "geom:latitude":-12.64222,
+    "geom:longitude":-74.56298,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90502.0",
+    "gn:asciiname":"Manzanayoc",
+    "gn:country_code":"PE",
+    "gn:dem":3244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661497,
+    "gn:latitude":-12.64222,
+    "gn:longitude":-74.56298,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Manzanayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661497
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31a7a872875d01d7f5ed4b7d79cb9c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209610859
+        }
+    ],
+    "wof:id":1209610859,
+    "wof:lastmodified":1536281851,
+    "wof:name":"Manzanayoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56298000000002,
+    -12.64222,
+    -74.56298000000002,
+    -12.64222
+],
+  "geometry": {"coordinates":[-74.56298000000002,-12.64222],"type":"Point"}
+}

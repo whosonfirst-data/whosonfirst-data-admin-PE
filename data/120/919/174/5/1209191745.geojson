@@ -1,0 +1,70 @@
+{
+  "id": 1209191745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.19171,-13.68809,-76.19171,-13.68809",
+    "geom:latitude":-13.68809,
+    "geom:longitude":-76.19171,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110501.0",
+    "gn:asciiname":"Hacienda La Venturosa",
+    "gn:country_code":"PE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926267,
+    "gn:latitude":-13.68809,
+    "gn:longitude":-76.19171,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda La Venturosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Venturosa"
+    ],
+    "name:und_x_variant":[
+        "Venturosa Hacienda",
+        "Venturosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926267
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f8d8ac981982e0b2b560665b05a50ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209191745
+        }
+    ],
+    "wof:id":1209191745,
+    "wof:lastmodified":1537676668,
+    "wof:name":"Hacienda La Venturosa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.19171,
+    -13.68809,
+    -76.19171,
+    -13.68809
+],
+  "geometry": {"coordinates":[-76.19171,-13.68809],"type":"Point"}
+}

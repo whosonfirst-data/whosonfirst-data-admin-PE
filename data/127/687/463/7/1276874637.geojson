@@ -1,0 +1,69 @@
+{
+  "id": 1276874637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41919,-10.42375,-77.41919,-10.42375",
+    "geom:latitude":-10.42375,
+    "geom:longitude":-77.41919,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21401.0",
+    "gn:asciiname":"Membrillo",
+    "gn:country_code":"PE",
+    "gn:dem":2880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935050,
+    "gn:latitude":-10.42375,
+    "gn:longitude":-77.41919,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Membrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935050
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b38d900f1f06a8adcc506cd7347d38a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694003,
+            "locality_id":1276874637,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276874637,
+    "wof:lastmodified":1537046232,
+    "wof:name":"Membrillo",
+    "wof:parent_id":1108694003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41919,
+    -10.42375,
+    -77.41919,
+    -10.42375
+],
+  "geometry": {"coordinates":[-77.41919,-10.42375],"type":"Point"}
+}

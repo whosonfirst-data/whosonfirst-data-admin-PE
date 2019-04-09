@@ -1,0 +1,69 @@
+{
+  "id": 1326730021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47917,-15.50611,-73.47917,-15.50611",
+    "geom:latitude":-15.50611,
+    "geom:longitude":-73.47917,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Cahuacho",
+    "gn:country_code":"PE",
+    "gn:dem":3406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3946323,
+    "gn:latitude":-15.50611,
+    "gn:longitude":-73.47917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cahuacho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946323
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b23b5d4c6c87002210618b03bf625b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1326730021,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1326730021,
+    "wof:lastmodified":1536699219,
+    "wof:name":"Cahuacho",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47917,
+    -15.50611,
+    -73.47917,
+    -15.50611
+],
+  "geometry": {"coordinates":[-73.47917,-15.50611],"type":"Point"}
+}

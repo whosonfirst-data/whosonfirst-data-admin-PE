@@ -1,0 +1,69 @@
+{
+  "id": 1310309483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.27934,-13.3268,-74.27934,-13.3268",
+    "geom:latitude":-13.3268,
+    "geom:longitude":-74.27934,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50114.0",
+    "gn:asciiname":"Chaupirangra",
+    "gn:country_code":"PE",
+    "gn:dem":3905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8672426,
+    "gn:latitude":-13.3268,
+    "gn:longitude":-74.27934,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chaupirangra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8672426
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"850dbbe81792a58f6a15078b44559a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1310309483,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310309483,
+    "wof:lastmodified":1536702400,
+    "wof:name":"Chaupirangra",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.27934,
+    -13.3268,
+    -74.27934,
+    -13.3268
+],
+  "geometry": {"coordinates":[-74.27934,-13.3268],"type":"Point"}
+}

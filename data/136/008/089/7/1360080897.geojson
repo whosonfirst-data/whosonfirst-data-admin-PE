@@ -1,0 +1,69 @@
+{
+  "id": 1360080897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60522,-9.74125,-76.60522,-9.74125",
+    "geom:latitude":-9.74125,
+    "geom:longitude":-76.60522,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101104.0",
+    "gn:asciiname":"Parashapampa",
+    "gn:country_code":"PE",
+    "gn:dem":3767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665981,
+    "gn:latitude":-9.74125,
+    "gn:longitude":-76.60522,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Parashapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8f50b12b950290160237e62d26fa6fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1360080897,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1360080897,
+    "wof:lastmodified":1536951897,
+    "wof:name":"Parashapampa",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60521999999997,
+    -9.74125,
+    -76.60521999999997,
+    -9.74125
+],
+  "geometry": {"coordinates":[-76.60521999999997,-9.74125],"type":"Point"}
+}

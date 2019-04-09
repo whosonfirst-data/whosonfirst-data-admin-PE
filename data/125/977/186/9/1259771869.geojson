@@ -1,0 +1,69 @@
+{
+  "id": 1259771869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.15399,-9.92552,-76.15399,-9.92552",
+    "geom:latitude":-9.92552,
+    "geom:longitude":-76.15399,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100102.0",
+    "gn:asciiname":"Llanquipampa",
+    "gn:country_code":"PE",
+    "gn:dem":2899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670237,
+    "gn:latitude":-9.92552,
+    "gn:longitude":-76.15399,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Llanquipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670237
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f72b9a0218c07ea7c5593b7c69e0d3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1259771869,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1259771869,
+    "wof:lastmodified":1536940564,
+    "wof:name":"Llanquipampa",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15399000000002,
+    -9.92552,
+    -76.15399000000002,
+    -9.92552
+],
+  "geometry": {"coordinates":[-76.15399000000002,-9.92552],"type":"Point"}
+}

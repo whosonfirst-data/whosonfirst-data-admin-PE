@@ -1,0 +1,66 @@
+{
+  "id": 1209089045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.72271,-11.95339,-76.72271,-11.95339",
+    "geom:latitude":-11.95339,
+    "geom:longitude":-76.72271,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150118.0",
+    "gn:asciiname":"California",
+    "gn:country_code":"PE",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946129,
+    "gn:latitude":-11.95339,
+    "gn:longitude":-76.72271,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"California",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "California"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946129
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"97da66ee944cc557c24fee28a8990fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209089045
+        }
+    ],
+    "wof:id":1209089045,
+    "wof:lastmodified":1537676854,
+    "wof:name":"California",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.72270999999998,
+    -11.95339,
+    -76.72270999999998,
+    -11.95339
+],
+  "geometry": {"coordinates":[-76.72270999999998,-11.95339],"type":"Point"}
+}

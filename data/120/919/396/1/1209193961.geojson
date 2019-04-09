@@ -1,0 +1,63 @@
+{
+  "id": 1209193961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45814,-11.91486,-75.45814,-11.91486",
+    "geom:latitude":-11.91486,
+    "geom:longitude":-75.45814,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120431.0",
+    "gn:asciiname":"Toro Monya Grande",
+    "gn:country_code":"PE",
+    "gn:dem":3931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674569,
+    "gn:latitude":-11.91486,
+    "gn:longitude":-75.45814,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Toro Monya Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674569
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fa7681ca1ddf404575973bfa28aa4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209193961
+        }
+    ],
+    "wof:id":1209193961,
+    "wof:lastmodified":1536294838,
+    "wof:name":"Toro Monya Grande",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45814,
+    -11.91486,
+    -75.45814,
+    -11.91486
+],
+  "geometry": {"coordinates":[-75.45814,-11.91486],"type":"Point"}
+}

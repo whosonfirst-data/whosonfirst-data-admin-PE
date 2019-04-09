@@ -1,0 +1,63 @@
+{
+  "id": 1209028179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14934,-6.0177,-79.14934,-6.0177",
+    "geom:latitude":-6.0177,
+    "geom:longitude":-79.14934,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60808.0",
+    "gn:asciiname":"Agopampa",
+    "gn:country_code":"PE",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743444,
+    "gn:latitude":-6.0177,
+    "gn:longitude":-79.14934,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Agopampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743444
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ecf065a345bb792137853a75daf73d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209028179
+        }
+    ],
+    "wof:id":1209028179,
+    "wof:lastmodified":1536299930,
+    "wof:name":"Agopampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14934000000002,
+    -6.0177,
+    -79.14934000000002,
+    -6.0177
+],
+  "geometry": {"coordinates":[-79.14934000000002,-6.0177],"type":"Point"}
+}

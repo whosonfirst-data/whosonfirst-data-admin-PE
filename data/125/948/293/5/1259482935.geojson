@@ -1,0 +1,73 @@
+{
+  "id": 1259482935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.93631,-15.66436,-72.93631,-15.66436",
+    "geom:latitude":-15.66436,
+    "geom:longitude":-72.93631,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40608.0",
+    "gn:asciiname":"Arirahua",
+    "gn:country_code":"PE",
+    "gn:dem":3736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947304,
+    "gn:latitude":-15.66436,
+    "gn:longitude":-72.93631,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Arirahua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parirahua",
+        "Arirahua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947304
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3abc6c9d4cf422c497d805741a1e4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1259482935,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259482935,
+    "wof:lastmodified":1537676865,
+    "wof:name":"Arirahua",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93630999999998,
+    -15.66436,
+    -72.93630999999998,
+    -15.66436
+],
+  "geometry": {"coordinates":[-72.93630999999998,-15.66436],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327333279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.49634,-15.42569,-73.49634,-15.42569",
+    "geom:latitude":-15.42569,
+    "geom:longitude":-73.49634,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Abas Chacra",
+    "gn:country_code":"PE",
+    "gn:dem":3685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948640,
+    "gn:latitude":-15.42569,
+    "gn:longitude":-73.49634,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Abas Chacra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Abas Chacra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948640
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"77c2a199d3da3cb2adc8f3eb74a106bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1327333279,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1327333279,
+    "wof:lastmodified":1537676875,
+    "wof:name":"Abas Chacra",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.49634,
+    -15.42569,
+    -73.49634,
+    -15.42569
+],
+  "geometry": {"coordinates":[-73.49634,-15.42569],"type":"Point"}
+}

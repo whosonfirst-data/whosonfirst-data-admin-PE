@@ -1,0 +1,74 @@
+{
+  "id": 1259366039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9,-6.8,-79.9,-6.8",
+    "geom:latitude":-6.8,
+    "geom:longitude":-79.9,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140112.0",
+    "gn:asciiname":"La Carolina",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695966,
+    "gn:latitude":-6.8,
+    "gn:longitude":-79.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Carolina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Carolina Hacienda",
+        "La Carolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695966
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"49ea419cd8a7fc4b16b861a98b7a6ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1259366039,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1259366039,
+    "wof:lastmodified":1537676598,
+    "wof:name":"La Carolina",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9,
+    -6.8,
+    -79.9,
+    -6.8
+],
+  "geometry": {"coordinates":[-79.90000000000001,-6.8],"type":"Point"}
+}

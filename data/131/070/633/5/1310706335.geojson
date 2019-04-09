@@ -1,0 +1,72 @@
+{
+  "id": 1310706335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7749,-14.55932,-74.7749,-14.55932",
+    "geom:latitude":-14.55932,
+    "geom:longitude":-74.7749,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50613.0",
+    "gn:asciiname":"Taracucha",
+    "gn:country_code":"PE",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10454700,
+    "gn:latitude":-14.55932,
+    "gn:longitude":-74.7749,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Taracucha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Taracucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10454700
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"30b601eeb04b7350e1b2b021b09a2cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1310706335,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310706335,
+    "wof:lastmodified":1537676932,
+    "wof:name":"Taracucha",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7749,
+    -14.55932,
+    -74.7749,
+    -14.55932
+],
+  "geometry": {"coordinates":[-74.7749,-14.55932],"type":"Point"}
+}

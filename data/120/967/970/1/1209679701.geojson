@@ -1,0 +1,63 @@
+{
+  "id": 1209679701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.09862,-16.17637,-70.09862,-16.17637",
+    "geom:latitude":-16.17637,
+    "geom:longitude":-70.09862,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210111.0",
+    "gn:asciiname":"Antajave",
+    "gn:country_code":"PE",
+    "gn:dem":4022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947578,
+    "gn:latitude":-16.17637,
+    "gn:longitude":-70.09862,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Antajave",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947578
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e5d5dc47734d3738812a6ccc9fa14c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209679701
+        }
+    ],
+    "wof:id":1209679701,
+    "wof:lastmodified":1536279621,
+    "wof:name":"Antajave",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.09862,
+    -16.176370000000002,
+    -70.09862,
+    -16.176370000000002
+],
+  "geometry": {"coordinates":[-70.09862,-16.17637],"type":"Point"}
+}

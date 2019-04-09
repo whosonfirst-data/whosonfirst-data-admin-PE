@@ -1,0 +1,74 @@
+{
+  "id": 1293941519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.98778,-17.86333,-69.98778,-17.86333",
+    "geom:latitude":-17.86333,
+    "geom:longitude":-69.98778,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230106.0",
+    "gn:asciiname":"Cocane",
+    "gn:country_code":"PE",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941884,
+    "gn:latitude":-17.86333,
+    "gn:longitude":-69.98778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cocane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talorani",
+        "Cucane",
+        "Cocane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941884
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7ca877935b08358baca3186065143d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1293941519,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1293941519,
+    "wof:lastmodified":1537676818,
+    "wof:name":"Cocane",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.98778,
+    -17.86332999999999,
+    -69.98778,
+    -17.86332999999999
+],
+  "geometry": {"coordinates":[-69.98778,-17.86332999999999],"type":"Point"}
+}

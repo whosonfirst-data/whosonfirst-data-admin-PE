@@ -1,0 +1,69 @@
+{
+  "id": 1243255585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.79667,-5.71278,-78.79667,-5.71278",
+    "geom:latitude":-5.71278,
+    "geom:longitude":-78.79667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60801.0",
+    "gn:asciiname":"Morro Solar",
+    "gn:country_code":"PE",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412961,
+    "gn:latitude":-5.71278,
+    "gn:longitude":-78.79667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Morro Solar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412961
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"492a54623107a6919fb350999057f848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1243255585,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1243255585,
+    "wof:lastmodified":1537077564,
+    "wof:name":"Morro Solar",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.79666999999998,
+    -5.71278,
+    -78.79666999999998,
+    -5.71278
+],
+  "geometry": {"coordinates":[-78.79666999999998,-5.71278],"type":"Point"}
+}

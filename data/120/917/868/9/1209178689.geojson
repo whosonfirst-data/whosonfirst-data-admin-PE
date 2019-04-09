@@ -1,0 +1,67 @@
+{
+  "id": 1209178689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84748,-4.89757,-80.84748,-4.89757",
+    "geom:latitude":-4.89757,
+    "geom:longitude":-80.84748,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200603.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"PE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692374,
+    "gn:latitude":-4.89757,
+    "gn:longitude":-80.84748,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Miguel Hacienda",
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"41284e079b24761102f5c08c9bab8a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209178689
+        }
+    ],
+    "wof:id":1209178689,
+    "wof:lastmodified":1537676549,
+    "wof:name":"San Miguel",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84748,
+    -4.89757,
+    -80.84748,
+    -4.89757
+],
+  "geometry": {"coordinates":[-80.84748,-4.89757],"type":"Point"}
+}

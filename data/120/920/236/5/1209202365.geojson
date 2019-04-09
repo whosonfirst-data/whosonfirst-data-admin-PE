@@ -1,0 +1,66 @@
+{
+  "id": 1209202365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73453,-14.06569,-75.73453,-14.06569",
+    "geom:latitude":-14.06569,
+    "geom:longitude":-75.73453,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Robles",
+    "gn:country_code":"PE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003657,
+    "gn:latitude":-14.06569,
+    "gn:longitude":-75.73453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Robles",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Robles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003657
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c62995c1f20a187963d8cf7c7a743f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209202365
+        }
+    ],
+    "wof:id":1209202365,
+    "wof:lastmodified":1537676952,
+    "wof:name":"Robles",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73453,
+    -14.06569,
+    -75.73453,
+    -14.06569
+],
+  "geometry": {"coordinates":[-75.73453000000001,-14.06569],"type":"Point"}
+}

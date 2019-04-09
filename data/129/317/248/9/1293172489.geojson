@@ -1,0 +1,69 @@
+{
+  "id": 1293172489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17611,-3.9925,-71.17611,-3.9925",
+    "geom:latitude":-3.9925,
+    "geom:longitude":-71.17611,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160404.0",
+    "gn:asciiname":"Horacio Zevallos",
+    "gn:country_code":"PE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278867,
+    "gn:latitude":-3.9925,
+    "gn:longitude":-71.17611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Horacio Zevallos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278867
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4676e036338fa7eb14476983eeaa60c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175219,
+            "locality_id":1293172489,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1293172489,
+    "wof:lastmodified":1536744063,
+    "wof:name":"Horacio Zevallos",
+    "wof:parent_id":421175219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17611,
+    -3.9925,
+    -71.17611,
+    -3.9925
+],
+  "geometry": {"coordinates":[-71.17610999999999,-3.9925],"type":"Point"}
+}

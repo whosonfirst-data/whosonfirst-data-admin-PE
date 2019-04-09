@@ -1,0 +1,75 @@
+{
+  "id": 421201187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.125155,-14.693833,-75.125155,-14.693833",
+    "geom:latitude":-14.693833,
+    "geom:longitude":-75.125155,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Ingenio",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":210314,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418835,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":418835,
+        "qs:id":210314
+    },
+    "wof:country":"PE",
+    "wof:created":1459010064,
+    "wof:geomhash":"891c0dfa7c76af386b04424fd31b779b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":421201187,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421201187,
+    "wof:lastmodified":1500024476,
+    "wof:name":"El Ingenio",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.125155,
+    -14.693833,
+    -75.125155,
+    -14.693833
+],
+  "geometry": {"coordinates":[-75.12515500000001,-14.693833],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292903327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66184,-15.4522,-73.66184,-15.4522",
+    "geom:latitude":-15.4522,
+    "geom:longitude":-73.66184,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40312.0",
+    "gn:asciiname":"Maraycasa",
+    "gn:country_code":"PE",
+    "gn:dem":3363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935366,
+    "gn:latitude":-15.4522,
+    "gn:longitude":-73.66184,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Maraycasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Maraycasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a8011cb6ed2fcbfa540507261002924b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1292903327,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1292903327,
+    "wof:lastmodified":1537676758,
+    "wof:name":"Maraycasa",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66184,
+    -15.4522,
+    -73.66184,
+    -15.4522
+],
+  "geometry": {"coordinates":[-73.66184,-15.4522],"type":"Point"}
+}

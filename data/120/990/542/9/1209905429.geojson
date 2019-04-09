@@ -1,0 +1,69 @@
+{
+  "id": 1209905429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.5722,-12.74453,-74.5722,-12.74453",
+    "geom:latitude":-12.74453,
+    "geom:longitude":-74.5722,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90208.0",
+    "gn:asciiname":"Yargabamba",
+    "gn:country_code":"PE",
+    "gn:dem":3925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661437,
+    "gn:latitude":-12.74453,
+    "gn:longitude":-74.5722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yargabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661437
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"803830edbce7ef967a2108f2ba07fcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1209905429,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1209905429,
+    "wof:lastmodified":1536384376,
+    "wof:name":"Yargabamba",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.5722,
+    -12.74453,
+    -74.5722,
+    -12.74453
+],
+  "geometry": {"coordinates":[-74.5722,-12.74453],"type":"Point"}
+}

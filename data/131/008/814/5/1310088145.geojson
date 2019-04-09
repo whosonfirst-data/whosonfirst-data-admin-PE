@@ -1,0 +1,77 @@
+{
+  "id": 1310088145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65806,-11.58715,-76.65806,-11.58715",
+    "geom:latitude":-11.58715,
+    "geom:longitude":-76.65806,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150407.0",
+    "gn:asciiname":"Chunchupay",
+    "gn:country_code":"PE",
+    "gn:dem":3000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646271,
+    "gn:latitude":-11.58715,
+    "gn:longitude":-76.65806,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chunchupay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646271
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"efc63465cc7adcd06c935c0f0184b171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1310088145,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1310088145,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310088145,
+    "wof:lastmodified":1537020674,
+    "wof:name":"Chunchupay",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65805999999998,
+    -11.58715,
+    -76.65805999999998,
+    -11.58715
+],
+  "geometry": {"coordinates":[-76.65805999999998,-11.58715],"type":"Point"}
+}

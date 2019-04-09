@@ -1,0 +1,63 @@
+{
+  "id": 1209320353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71512,-15.99511,-72.71512,-15.99511",
+    "geom:latitude":-15.99511,
+    "geom:longitude":-72.71512,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40601.0",
+    "gn:asciiname":"Rayanca",
+    "gn:country_code":"PE",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930488,
+    "gn:latitude":-15.99511,
+    "gn:longitude":-72.71512,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Rayanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930488
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d0e3d8590407a6c0306b65ba62c675b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209320353
+        }
+    ],
+    "wof:id":1209320353,
+    "wof:lastmodified":1536290717,
+    "wof:name":"Rayanca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71512,
+    -15.99511,
+    -72.71512,
+    -15.99511
+],
+  "geometry": {"coordinates":[-72.71512,-15.99511],"type":"Point"}
+}

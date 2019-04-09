@@ -1,0 +1,74 @@
+{
+  "id": 1327032125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81667,-9.2,-77.81667,-9.2",
+    "geom:latitude":-9.2,
+    "geom:longitude":-77.81667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"212.0",
+    "gn:admin3_code":"21207.0",
+    "gn:asciiname":"Quishar",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692992,
+    "gn:latitude":-9.2,
+    "gn:longitude":-77.81667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quishar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quishuar",
+        "Quishar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421170661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692992
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"284902ec9573c0eb63daa24e50188198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170661,
+            "locality_id":1327032125,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1327032125,
+    "wof:lastmodified":1537676559,
+    "wof:name":"Quishar",
+    "wof:parent_id":421170661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81667,
+    -9.2,
+    -77.81667,
+    -9.2
+],
+  "geometry": {"coordinates":[-77.81667,-9.2],"type":"Point"}
+}

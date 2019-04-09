@@ -1,0 +1,69 @@
+{
+  "id": 1259573153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83722,-14.15056,-71.83722,-14.15056",
+    "geom:latitude":-14.15056,
+    "geom:longitude":-71.83722,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81006.0",
+    "gn:asciiname":"Huillcuyopata",
+    "gn:country_code":"PE",
+    "gn:dem":3314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948684,
+    "gn:latitude":-14.15056,
+    "gn:longitude":-71.83722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huillcuyopata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948684
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c14a1cc810ba053c0f56ce0c99725cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194639,
+            "locality_id":1259573153,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259573153,
+    "wof:lastmodified":1536730126,
+    "wof:name":"Huillcuyopata",
+    "wof:parent_id":421194639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83722,
+    -14.15056,
+    -71.83722,
+    -14.15056
+],
+  "geometry": {"coordinates":[-71.83722,-14.15056],"type":"Point"}
+}

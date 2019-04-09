@@ -1,0 +1,69 @@
+{
+  "id": 1343926619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32973,-8.37479,-76.32973,-8.37479",
+    "geom:latitude":-8.37479,
+    "geom:longitude":-76.32973,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2210.0",
+    "gn:admin3_code":"221005.0",
+    "gn:asciiname":"Miguel Grau",
+    "gn:country_code":"PE",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6394291,
+    "gn:latitude":-8.37479,
+    "gn:longitude":-76.32973,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Miguel Gra\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421170671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394291
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2aae74ee453512caec9c335264e9ba43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170671,
+            "locality_id":1343926619,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1343926619,
+    "wof:lastmodified":1537066036,
+    "wof:name":"Miguel Grau",
+    "wof:parent_id":421170671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32973,
+    -8.37479,
+    -76.32973,
+    -8.37479
+],
+  "geometry": {"coordinates":[-76.32973,-8.37479],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277055055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02798,-8.11175,-79.02798,-8.11175",
+    "geom:latitude":-8.11175,
+    "geom:longitude":-79.02798,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"Centro Historico Trujillo",
+    "gn:country_code":"PE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778714,
+    "gn:latitude":-8.11175,
+    "gn:longitude":-79.02798,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Centro Historico Trujillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421170677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778714
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6c67e49fb5e65b5fdb66bf41ecd264c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170677,
+            "locality_id":1277055055,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1277055055,
+    "wof:lastmodified":1536806001,
+    "wof:name":"Centro Historico Trujillo",
+    "wof:parent_id":421170677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02798,
+    -8.11175,
+    -79.02798,
+    -8.11175
+],
+  "geometry": {"coordinates":[-79.02798,-8.11175],"type":"Point"}
+}

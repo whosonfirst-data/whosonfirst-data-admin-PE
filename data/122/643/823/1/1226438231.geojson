@@ -1,0 +1,69 @@
+{
+  "id": 1226438231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94815,-12.62959,-74.94815,-12.62959",
+    "geom:latitude":-12.62959,
+    "geom:longitude":-74.94815,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90114.0",
+    "gn:asciiname":"Huaytapallana",
+    "gn:country_code":"PE",
+    "gn:dem":3483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662857,
+    "gn:latitude":-12.62959,
+    "gn:longitude":-74.94815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huaytapallana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662857
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"314ae3759d4aca0ec92ca3f88f8a89fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1226438231,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1226438231,
+    "wof:lastmodified":1536656437,
+    "wof:name":"Huaytapallana",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94815,
+    -12.62959,
+    -74.94815,
+    -12.62959
+],
+  "geometry": {"coordinates":[-74.94815,-12.62959],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85765657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14427493.664459,
+    "geom:bbox":"-76.990465,-12.154356,-76.990465,-12.154356",
+    "geom:latitude":-12.154356,
+    "geom:longitude":-76.990465,
+    "gn:id":"",
+    "iso:country":"PE",
+    "lbl:latitude":-12.154356,
+    "lbl:longitude":-76.990465,
+    "mps:latitude":-12.157212,
+    "mps:longitude":-76.983677,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Los Proceres",
+        "Pante\u00f3n de los Pr\u00f3ceres"
+    ],
+    "name:unk_x_variant":[
+        "Los Proceres"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_id":0,
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"Los Proceres",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:name_adm2":"Lima",
+    "qs:name_local":"Lima",
+    "qs:photo_max":30,
+    "qs:photo_sum":191,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":28358302,
+    "qs:woe_adm2":26805880,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421202549,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723505,
+        "qs:id":1329368,
+        "qs_pg:id":1329368
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"93a518eeae43ccfa226d7e1544616db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":85765657,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":85765657,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859030,
+    "wof:name":"Los Proceres",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.990465,
+    -12.154356,
+    -76.990465,
+    -12.154356
+],
+  "geometry": {"coordinates":[-76.990465,-12.154356],"type":"Point"}
+}

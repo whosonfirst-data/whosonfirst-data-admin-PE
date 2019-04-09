@@ -1,0 +1,63 @@
+{
+  "id": 1209216971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07611,-8.94833,-78.07611,-8.94833",
+    "geom:latitude":-8.94833,
+    "geom:longitude":-78.07611,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21802.0",
+    "gn:asciiname":"Ticlla",
+    "gn:country_code":"PE",
+    "gn:dem":2287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6368081,
+    "gn:latitude":-8.94833,
+    "gn:longitude":-78.07611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ticlla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368081
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"086a4ba1f3ae4a9771d97c275caea524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209216971
+        }
+    ],
+    "wof:id":1209216971,
+    "wof:lastmodified":1536294098,
+    "wof:name":"Ticlla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07611,
+    -8.94833,
+    -78.07611,
+    -8.94833
+],
+  "geometry": {"coordinates":[-78.07611,-8.94833],"type":"Point"}
+}

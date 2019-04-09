@@ -1,0 +1,69 @@
+{
+  "id": 1243146509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.636,-5.7632,-79.636,-5.7632",
+    "geom:latitude":-5.7632,
+    "geom:longitude":-79.636,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Curina",
+    "gn:country_code":"PE",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761288,
+    "gn:latitude":-5.7632,
+    "gn:longitude":-79.636,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Curi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761288
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fabaa8e09eeb658d1972c685e11b9c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1243146509,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243146509,
+    "wof:lastmodified":1536740903,
+    "wof:name":"Curina",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63600000000002,
+    -5.7632,
+    -79.63600000000002,
+    -5.7632
+],
+  "geometry": {"coordinates":[-79.63600000000002,-5.7632],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277038661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73525,-3.7079,-71.73525,-3.7079",
+    "geom:latitude":-3.7079,
+    "geom:longitude":-71.73525,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160402.0",
+    "gn:asciiname":"Remanso",
+    "gn:country_code":"PE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278977,
+    "gn:latitude":-3.7079,
+    "gn:longitude":-71.73525,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Remanso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278977
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b493239f75a8f8fa047ca9f6363550fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175219,
+            "locality_id":1277038661,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1277038661,
+    "wof:lastmodified":1536827437,
+    "wof:name":"Remanso",
+    "wof:parent_id":421175219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73525,
+    -3.7079,
+    -71.73525,
+    -3.7079
+],
+  "geometry": {"coordinates":[-71.73524999999999,-3.7079],"type":"Point"}
+}

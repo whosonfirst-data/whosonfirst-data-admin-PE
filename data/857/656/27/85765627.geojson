@@ -1,0 +1,106 @@
+{
+  "id": 85765627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7432035.721011,
+    "geom:bbox":"-77.050851,-12.072973,-77.050851,-12.072973",
+    "geom:latitude":-12.072973,
+    "geom:longitude":-77.050851,
+    "gn:id":"",
+    "iso:country":"PE",
+    "lbl:latitude":-12.072973,
+    "lbl:longitude":-77.050851,
+    "mps:latitude":-12.077659,
+    "mps:longitude":-77.055455,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Jesus Maria"
+    ],
+    "name:unk_x_variant":[
+        "Jesus Maria"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_id":0,
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"Jesus Maria",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:name_adm2":"Lima",
+    "qs:name_local":"Lima",
+    "qs:photo_max":1239,
+    "qs:photo_sum":4709,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":65,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":28358302,
+    "qs:woe_adm2":26805880,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421202549,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723450,
+        "qs:id":1196540,
+        "qs_pg:id":1196540
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"93dc61bd9112dae3b47a07e0bb07e4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":85765627,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":85765627,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859025,
+    "wof:name":"Jesus Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.050851,
+    -12.072973,
+    -77.050851,
+    -12.072973
+],
+  "geometry": {"coordinates":[-77.05085099999999,-12.072973],"type":"Point"}
+}

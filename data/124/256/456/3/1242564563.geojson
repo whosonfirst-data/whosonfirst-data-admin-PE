@@ -1,0 +1,72 @@
+{
+  "id": 1242564563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07314,-10.8922,-75.07314,-10.8922",
+    "geom:latitude":-10.8922,
+    "geom:longitude":-75.07314,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Alto Pucharini",
+    "gn:country_code":"PE",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564233,
+    "gn:latitude":-10.8922,
+    "gn:longitude":-75.07314,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Alto Pucharini",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Pucharini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564233
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c12b9ef449555d96a05cca91251b3fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1242564563,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1242564563,
+    "wof:lastmodified":1537676904,
+    "wof:name":"Alto Pucharini",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07314000000002,
+    -10.8922,
+    -75.07314000000002,
+    -10.8922
+],
+  "geometry": {"coordinates":[-75.07314000000002,-10.8922],"type":"Point"}
+}

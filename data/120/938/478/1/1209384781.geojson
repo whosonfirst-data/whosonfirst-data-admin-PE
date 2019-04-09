@@ -1,0 +1,66 @@
+{
+  "id": 1209384781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1006,-11.84881,-77.1006,-11.84881",
+    "geom:latitude":-11.84881,
+    "geom:longitude":-77.1006,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150125.0",
+    "gn:asciiname":"Los Alisos",
+    "gn:country_code":"PE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891514,
+    "gn:latitude":-11.84881,
+    "gn:longitude":-77.1006,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Los Alisos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alisos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891514
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b70b539716cf640326e0504d1f613e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209384781
+        }
+    ],
+    "wof:id":1209384781,
+    "wof:lastmodified":1537676930,
+    "wof:name":"Los Alisos",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1006,
+    -11.84881,
+    -77.1006,
+    -11.84881
+],
+  "geometry": {"coordinates":[-77.1006,-11.84881],"type":"Point"}
+}

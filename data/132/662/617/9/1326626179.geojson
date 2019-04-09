@@ -1,0 +1,69 @@
+{
+  "id": 1326626179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56285,-12.1533,-74.56285,-12.1533",
+    "geom:latitude":-12.1533,
+    "geom:longitude":-74.56285,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90718.0",
+    "gn:asciiname":"Jatunsihuis",
+    "gn:country_code":"PE",
+    "gn:dem":2333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664461,
+    "gn:latitude":-12.1533,
+    "gn:longitude":-74.56285,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jatunsihuis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664461
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7ed1d1ea05389c355759fddfcd47f685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1326626179,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1326626179,
+    "wof:lastmodified":1536847487,
+    "wof:name":"Jatunsihuis",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56285,
+    -12.1533,
+    -74.56285,
+    -12.1533
+],
+  "geometry": {"coordinates":[-74.56285,-12.1533],"type":"Point"}
+}

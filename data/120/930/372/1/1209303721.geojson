@@ -1,0 +1,63 @@
+{
+  "id": 1209303721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.80722,-12.51882,-74.80722,-12.51882",
+    "geom:latitude":-12.51882,
+    "geom:longitude":-74.80722,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90103.0",
+    "gn:asciiname":"Jatun Rumi",
+    "gn:country_code":"PE",
+    "gn:dem":3548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662332,
+    "gn:latitude":-12.51882,
+    "gn:longitude":-74.80722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jatun Rumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662332
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e525108dbf20216340d7a138079099fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209303721
+        }
+    ],
+    "wof:id":1209303721,
+    "wof:lastmodified":1536291267,
+    "wof:name":"Jatun Rumi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.80722,
+    -12.51882,
+    -74.80722,
+    -12.51882
+],
+  "geometry": {"coordinates":[-74.80722,-12.51882],"type":"Point"}
+}

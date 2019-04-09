@@ -1,0 +1,79 @@
+{
+  "id": 421186043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.875755,-6.912367,-79.875755,-6.912367",
+    "geom:latitude":-6.912367,
+    "geom:longitude":-79.875755,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Eten",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lambayeque",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1058064,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":402884,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":402884,
+        "qs:id":1058064
+    },
+    "wof:country":"PE",
+    "wof:created":1459009463,
+    "wof:geomhash":"e47fc2e5f4f655f517b09598ba47c01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":421186043,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":421186043,
+    "wof:lastmodified":1534379396,
+    "wof:name":"Eten",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        890454075
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.875755,
+    -6.912367,
+    -79.875755,
+    -6.912367
+],
+  "geometry": {"coordinates":[-79.875755,-6.912367],"type":"Point"}
+}

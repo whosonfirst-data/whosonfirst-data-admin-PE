@@ -1,0 +1,69 @@
+{
+  "id": 1276343133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05737,-10.16133,-77.05737,-10.16133",
+    "geom:latitude":-10.16133,
+    "geom:longitude":-77.05737,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20509.0",
+    "gn:asciiname":"Pinguash Pata",
+    "gn:country_code":"PE",
+    "gn:dem":3484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664878,
+    "gn:latitude":-10.16133,
+    "gn:longitude":-77.05737,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pinguash Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664878
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9b1ce4560b08ab5f1faaf3b5ee4461a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1276343133,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276343133,
+    "wof:lastmodified":1536765630,
+    "wof:name":"Pinguash Pata",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05736999999998,
+    -10.16133,
+    -77.05736999999998,
+    -10.16133
+],
+  "geometry": {"coordinates":[-77.05736999999998,-10.16133],"type":"Point"}
+}

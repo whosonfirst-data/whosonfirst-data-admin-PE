@@ -1,0 +1,72 @@
+{
+  "id": 1260180539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68743,-14.69351,-74.68743,-14.69351",
+    "geom:latitude":-14.69351,
+    "geom:longitude":-74.68743,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50609.0",
+    "gn:asciiname":"Pamparenda",
+    "gn:country_code":"PE",
+    "gn:dem":3100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641815,
+    "gn:latitude":-14.69351,
+    "gn:longitude":-74.68743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pamparenda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pamparenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641815
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7e261b9e43d279a923175ef46b1c7d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1260180539,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260180539,
+    "wof:lastmodified":1537676933,
+    "wof:name":"Pamparenda",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68743,
+    -14.69351,
+    -74.68743,
+    -14.69351
+],
+  "geometry": {"coordinates":[-74.68743000000001,-14.69351],"type":"Point"}
+}

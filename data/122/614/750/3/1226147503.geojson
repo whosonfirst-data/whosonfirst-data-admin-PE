@@ -1,0 +1,72 @@
+{
+  "id": 1226147503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85811,-15.19127,-73.85811,-15.19127",
+    "geom:latitude":-15.19127,
+    "geom:longitude":-73.85811,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Sacsara",
+    "gn:country_code":"PE",
+    "gn:dem":2963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930082,
+    "gn:latitude":-15.19127,
+    "gn:longitude":-73.85811,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sacsara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sacsara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930082
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"416fa5e645ee97caaeb7ee6a100d4112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1226147503,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226147503,
+    "wof:lastmodified":1537676708,
+    "wof:name":"Sacsara",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85811,
+    -15.19127,
+    -73.85811,
+    -15.19127
+],
+  "geometry": {"coordinates":[-73.85811,-15.19127],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 421194535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.598387,-14.884703,-70.598387,-14.884703",
+    "geom:latitude":-14.884703,
+    "geom:longitude":-70.598387,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":19310,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u064a\u0627\u0641\u064a\u0631\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u4e9e\u7dad\u91cc"
+    ],
+    "name:dut_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:eng_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:fre_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:pol_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:por_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:que_x_preferred":[
+        "Ayawiri"
+    ],
+    "name:spa_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:war_x_preferred":[
+        "Ayaviri"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ayaviri",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":93,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":93,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484488,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418478,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946985,
+        "gp:id":418478,
+        "qs:id":484488,
+        "wd:id":"Q3344141",
+        "wk:page":"Ayaviri"
+    },
+    "wof:concordances_alt":{
+        "qs:id":274567
+    },
+    "wof:country":"PE",
+    "wof:created":1459009811,
+    "wof:geomhash":"a96b13a40c84e220f1109cfe60f56871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187861,
+            "locality_id":421194535,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":421194535,
+    "wof:lastmodified":1534379396,
+    "wof:name":"Ayaviri",
+    "wof:parent_id":421187861,
+    "wof:placetype":"locality",
+    "wof:population":19310,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890442221
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.598387,
+    -14.884703,
+    -70.598387,
+    -14.884703
+],
+  "geometry": {"coordinates":[-70.598387,-14.884703],"type":"Point"}
+}

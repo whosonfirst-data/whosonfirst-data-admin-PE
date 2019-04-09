@@ -1,0 +1,69 @@
+{
+  "id": 1277152759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74917,-16.79187,-70.74917,-16.79187",
+    "geom:latitude":-16.79187,
+    "geom:longitude":-70.74917,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180102.0",
+    "gn:asciiname":"Patin Alto",
+    "gn:country_code":"PE",
+    "gn:dem":2979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932696,
+    "gn:latitude":-16.79187,
+    "gn:longitude":-70.74917,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Patin Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932696
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"32715e0039b8ee3db0fd58c9616aab8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1277152759,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1277152759,
+    "wof:lastmodified":1536666832,
+    "wof:name":"Patin Alto",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74916999999998,
+    -16.79187,
+    -70.74916999999998,
+    -16.79187
+],
+  "geometry": {"coordinates":[-70.74916999999998,-16.79187],"type":"Point"}
+}

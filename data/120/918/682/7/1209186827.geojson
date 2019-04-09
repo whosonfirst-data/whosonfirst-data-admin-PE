@@ -1,0 +1,67 @@
+{
+  "id": 1209186827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5442,-10.86255,-77.5442,-10.86255",
+    "geom:latitude":-10.86255,
+    "geom:longitude":-77.5442,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150204.0",
+    "gn:asciiname":"Llama Huaca",
+    "gn:country_code":"PE",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936285,
+    "gn:latitude":-10.86255,
+    "gn:longitude":-77.5442,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Llama Huaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llama Huaca Hacienda",
+        "Llama Huaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936285
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"690221e62b7725e7f97b04be04540d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209186827
+        }
+    ],
+    "wof:id":1209186827,
+    "wof:lastmodified":1537676766,
+    "wof:name":"Llama Huaca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5442,
+    -10.86255,
+    -77.5442,
+    -10.86255
+],
+  "geometry": {"coordinates":[-77.5442,-10.86255],"type":"Point"}
+}

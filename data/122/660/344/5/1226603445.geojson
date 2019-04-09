@@ -1,0 +1,71 @@
+{
+  "id": 1226603445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25987,-14.09075,-69.25987,-14.09075",
+    "geom:latitude":-14.09075,
+    "geom:longitude":-69.25987,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Chiquito Masiapo",
+    "gn:country_code":"PE",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558314,
+    "gn:latitude":-14.09075,
+    "gn:longitude":-69.25987,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Chiquito Masiapo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chiquito Masiapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558314
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f6be48dca95da7c43692d2ddbadb66d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1226603445,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226603445,
+    "wof:lastmodified":1537677002,
+    "wof:name":"Chiquito Masiapo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25986999999999,
+    -14.09075,
+    -69.25986999999999,
+    -14.09075
+],
+  "geometry": {"coordinates":[-69.25986999999999,-14.09075],"type":"Point"}
+}

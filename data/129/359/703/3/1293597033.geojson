@@ -1,0 +1,69 @@
+{
+  "id": 1293597033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.69083,-9.46417,-77.69083,-9.46417",
+    "geom:latitude":-9.46417,
+    "geom:longitude":-77.69083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20111.0",
+    "gn:asciiname":"Quince Corral",
+    "gn:country_code":"PE",
+    "gn:dem":4212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380419,
+    "gn:latitude":-9.46417,
+    "gn:longitude":-77.69083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quince Corral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380419
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6aa7db67dc76c9ce14dc81b9a49a22c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":1293597033,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293597033,
+    "wof:lastmodified":1536627344,
+    "wof:name":"Quince Corral",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.69083,
+    -9.46417,
+    -77.69083,
+    -9.46417
+],
+  "geometry": {"coordinates":[-77.69083000000001,-9.46417],"type":"Point"}
+}

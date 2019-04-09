@@ -1,0 +1,73 @@
+{
+  "id": 1326928963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.82429,-14.95184,-73.82429,-14.95184",
+    "geom:latitude":-14.95184,
+    "geom:longitude":-73.82429,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Ojoruro",
+    "gn:country_code":"PE",
+    "gn:dem":3437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934077,
+    "gn:latitude":-14.95184,
+    "gn:longitude":-73.82429,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ojoruro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojoruro Hacienda",
+        "Ojoruro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934077
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9a0df353416b412507c81c43bd99767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1326928963,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1326928963,
+    "wof:lastmodified":1537676745,
+    "wof:name":"Ojoruro",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.82429,
+    -14.95184,
+    -73.82429,
+    -14.95184
+],
+  "geometry": {"coordinates":[-73.82429,-14.95184],"type":"Point"}
+}

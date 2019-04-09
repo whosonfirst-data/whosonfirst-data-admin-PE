@@ -1,0 +1,74 @@
+{
+  "id": 1310571093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9,-12.01667,-76.9,-12.01667",
+    "geom:latitude":-12.01667,
+    "geom:longitude":-76.9,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150103.0",
+    "gn:asciiname":"La Estrella",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937183,
+    "gn:latitude":-12.01667,
+    "gn:longitude":-76.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Estrella Hacienda",
+        "La Estrella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937183
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9d543075dfa101477fd1510359f47815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1310571093,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1310571093,
+    "wof:lastmodified":1537676775,
+    "wof:name":"La Estrella",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9,
+    -12.01667,
+    -76.9,
+    -12.01667
+],
+  "geometry": {"coordinates":[-76.90000000000001,-12.01667],"type":"Point"}
+}

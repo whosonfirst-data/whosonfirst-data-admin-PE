@@ -1,0 +1,75 @@
+{
+  "id": 421174373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52533,-13.1567915,-72.52533,-13.1567915",
+    "geom:latitude":-13.156792,
+    "geom:longitude":-72.52533,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Maguina",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Cusco",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":325929,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420373,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421183001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":420373,
+        "qs:id":325929
+    },
+    "wof:country":"PE",
+    "wof:created":1459009029,
+    "wof:geomhash":"c22c81fbddece555733cacb171ffb45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183001,
+            "locality_id":421174373,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":421174373,
+    "wof:lastmodified":1500022391,
+    "wof:name":"Maguina",
+    "wof:parent_id":421183001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52533,
+    -13.1567915,
+    -72.52533,
+    -13.1567915
+],
+  "geometry": {"coordinates":[-72.52533,-13.1567915],"type":"Point"}
+}

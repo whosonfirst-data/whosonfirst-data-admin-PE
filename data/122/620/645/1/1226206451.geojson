@@ -1,0 +1,72 @@
+{
+  "id": 1226206451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.95,-14.04167,-68.95,-14.04167",
+    "geom:latitude":-14.04167,
+    "geom:longitude":-68.95,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211210.0",
+    "gn:asciiname":"Urubamba",
+    "gn:country_code":"PE",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949760,
+    "gn:latitude":-14.04167,
+    "gn:longitude":-68.95,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Urubamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Urubamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949760
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"74e0910e94112256c22bcce6fd18a0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1226206451,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226206451,
+    "wof:lastmodified":1537676875,
+    "wof:name":"Urubamba",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.95,
+    -14.04167,
+    -68.95,
+    -14.04167
+],
+  "geometry": {"coordinates":[-68.95,-14.04167],"type":"Point"}
+}

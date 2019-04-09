@@ -1,0 +1,69 @@
+{
+  "id": 1193113763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43333,-11.43333,-75.43333,-11.43333",
+    "geom:latitude":-11.43333,
+    "geom:longitude":-75.43333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120419.0",
+    "gn:asciiname":"Apaicanchilla",
+    "gn:country_code":"PE",
+    "gn:dem":3928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947454,
+    "gn:latitude":-11.43333,
+    "gn:longitude":-75.43333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Apaicanchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947454
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"48a0cfc9c669a3f73cfaea36c9cc5761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1193113763,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1193113763,
+    "wof:lastmodified":1536370426,
+    "wof:name":"Apaicanchilla",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43333,
+    -11.43333,
+    -75.43333,
+    -11.43333
+],
+  "geometry": {"coordinates":[-75.43333,-11.43333],"type":"Point"}
+}

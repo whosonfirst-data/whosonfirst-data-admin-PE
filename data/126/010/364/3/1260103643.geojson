@@ -1,0 +1,73 @@
+{
+  "id": 1260103643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45491,-16.23159,-72.45491,-16.23159",
+    "geom:latitude":-16.23159,
+    "geom:longitude":-72.45491,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40413.0",
+    "gn:asciiname":"Hacienda Cantas",
+    "gn:country_code":"PE",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945734,
+    "gn:latitude":-16.23159,
+    "gn:longitude":-72.45491,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hacienda Cantas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cantas",
+        "Hacienda Cantas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945734
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"53d6a9e7e5b06e358230d89680717fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1260103643,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1260103643,
+    "wof:lastmodified":1537676852,
+    "wof:name":"Hacienda Cantas",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45491,
+    -16.23159,
+    -72.45491,
+    -16.23159
+],
+  "geometry": {"coordinates":[-72.45491,-16.23159],"type":"Point"}
+}

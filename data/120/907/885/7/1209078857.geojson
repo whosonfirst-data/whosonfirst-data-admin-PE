@@ -1,0 +1,63 @@
+{
+  "id": 1209078857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23056,-11.4225,-77.23056,-11.4225",
+    "geom:latitude":-11.4225,
+    "geom:longitude":-77.23056,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"PE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412603,
+    "gn:latitude":-11.4225,
+    "gn:longitude":-77.23056,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santa Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412603
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4bc9c222454546dc7b09948ab657c03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209078857
+        }
+    ],
+    "wof:id":1209078857,
+    "wof:lastmodified":1536298405,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23056,
+    -11.4225,
+    -77.23056,
+    -11.4225
+],
+  "geometry": {"coordinates":[-77.23056,-11.4225],"type":"Point"}
+}

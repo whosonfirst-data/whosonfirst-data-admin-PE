@@ -1,0 +1,63 @@
+{
+  "id": 1209328181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.76851,-6.7583,-77.76851,-6.7583",
+    "geom:latitude":-6.7583,
+    "geom:longitude":-77.76851,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10110.0",
+    "gn:asciiname":"Raymipampa",
+    "gn:country_code":"PE",
+    "gn:dem":2806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6379321,
+    "gn:latitude":-6.7583,
+    "gn:longitude":-77.76851,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Raymipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379321
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af53cb2289f8cd28964d81badc7b05fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209328181
+        }
+    ],
+    "wof:id":1209328181,
+    "wof:lastmodified":1536290461,
+    "wof:name":"Raymipampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.76850999999998,
+    -6.7583,
+    -77.76850999999998,
+    -6.7583
+],
+  "geometry": {"coordinates":[-77.76850999999998,-6.7583],"type":"Point"}
+}

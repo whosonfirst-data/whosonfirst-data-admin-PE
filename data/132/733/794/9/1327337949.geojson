@@ -1,0 +1,69 @@
+{
+  "id": 1327337949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.92284,-14.55658,-73.92284,-14.55658",
+    "geom:latitude":-14.55658,
+    "geom:longitude":-73.92284,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50604.0",
+    "gn:asciiname":"Palluca",
+    "gn:country_code":"PE",
+    "gn:dem":4407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933395,
+    "gn:latitude":-14.55658,
+    "gn:longitude":-73.92284,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Palluca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933395
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e983363989bf80bf0082c528579bcefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1327337949,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327337949,
+    "wof:lastmodified":1536816372,
+    "wof:name":"Palluca",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92284000000002,
+    -14.55658,
+    -73.92284000000002,
+    -14.55658
+],
+  "geometry": {"coordinates":[-73.92284000000002,-14.55658],"type":"Point"}
+}

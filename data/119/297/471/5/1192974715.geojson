@@ -1,0 +1,72 @@
+{
+  "id": 1192974715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56408,-6.84919,-76.56408,-6.84919",
+    "geom:latitude":-6.84919,
+    "geom:longitude":-76.56408,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220205.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"PE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801101,
+    "gn:latitude":-6.84919,
+    "gn:longitude":-76.56408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801101
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b0786fc158ab4e9ffafbaea16a147f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1192974715,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1192974715,
+    "wof:lastmodified":1537676935,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56408,
+    -6.84919,
+    -76.56408,
+    -6.84919
+],
+  "geometry": {"coordinates":[-76.56408,-6.84919],"type":"Point"}
+}

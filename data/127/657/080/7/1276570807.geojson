@@ -1,0 +1,69 @@
+{
+  "id": 1276570807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.03035,-14.07108,-71.03035,-14.07108",
+    "geom:latitude":-14.07108,
+    "geom:longitude":-71.03035,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80602.0",
+    "gn:asciiname":"Yanac",
+    "gn:country_code":"PE",
+    "gn:dem":4677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954440,
+    "gn:latitude":-14.07108,
+    "gn:longitude":-71.03035,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Yanac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954440
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e022f5957d80de24a702ff67ba3a3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1276570807,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1276570807,
+    "wof:lastmodified":1536958015,
+    "wof:name":"Yanac",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.03035,
+    -14.07108,
+    -71.03035,
+    -14.07108
+],
+  "geometry": {"coordinates":[-71.03035,-14.07108],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1192990967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2075,-11.50778,-77.2075,-11.50778",
+    "geom:latitude":-11.50778,
+    "geom:longitude":-77.2075,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"El Amauta",
+    "gn:country_code":"PE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254814,
+    "gn:latitude":-11.50778,
+    "gn:longitude":-77.2075,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"El Amauta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254814
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"929a3b0f4e689dc7e7c19c737fad2cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1192990967,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1192990967,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1192990967,
+    "wof:lastmodified":1536380939,
+    "wof:name":"El Amauta",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.2075,
+    -11.50778,
+    -77.2075,
+    -11.50778
+],
+  "geometry": {"coordinates":[-77.2075,-11.50778],"type":"Point"}
+}

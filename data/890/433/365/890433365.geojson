@@ -1,0 +1,66 @@
+{
+  "id": 890433365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.19843,-14.46968,-71.19843,-14.46968",
+    "geom:latitude":-14.46968,
+    "geom:longitude":-71.19843,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":3977,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Conchopata",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953918,
+        "gp:id":418952,
+        "qs:id":279921
+    },
+    "wof:country":"PE",
+    "wof:created":1469051977,
+    "wof:geomhash":"7c947136615db6b135b7c303076c47f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187839,
+            "locality_id":890433365,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":890433365,
+    "wof:lastmodified":1505343535,
+    "wof:name":"Conchopata",
+    "wof:parent_id":421187839,
+    "wof:placetype":"locality",
+    "wof:population":3977,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19843,
+    -14.46968,
+    -71.19843,
+    -14.46968
+],
+  "geometry": {"coordinates":[-71.19843,-14.46968],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226020605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.59157,-16.99657,-70.59157,-16.99657",
+    "geom:latitude":-16.99657,
+    "geom:longitude":-70.59157,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180106.0",
+    "gn:asciiname":"Arundaya",
+    "gn:country_code":"PE",
+    "gn:dem":4343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947263,
+    "gn:latitude":-16.99657,
+    "gn:longitude":-70.59157,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Arundaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947263
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b729b4785129d8fc9bd36bcef5584b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1226020605,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1226020605,
+    "wof:lastmodified":1536761760,
+    "wof:name":"Arundaya",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.59156999999998,
+    -16.99657,
+    -70.59156999999998,
+    -16.99657
+],
+  "geometry": {"coordinates":[-70.59156999999998,-16.99657],"type":"Point"}
+}

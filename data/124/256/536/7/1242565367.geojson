@@ -1,0 +1,72 @@
+{
+  "id": 1242565367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88684,-13.18256,-75.88684,-13.18256",
+    "geom:latitude":-13.18256,
+    "geom:longitude":-75.88684,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Yacualla",
+    "gn:country_code":"PE",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866431,
+    "gn:latitude":-13.18256,
+    "gn:longitude":-75.88684,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yacualla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yacualla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866431
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e00539f259e9abe7c1d5542f5e1ba05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1242565367,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242565367,
+    "wof:lastmodified":1537676942,
+    "wof:name":"Yacualla",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88684,
+    -13.18256,
+    -75.88684,
+    -13.18256
+],
+  "geometry": {"coordinates":[-75.88684000000001,-13.18256],"type":"Point"}
+}

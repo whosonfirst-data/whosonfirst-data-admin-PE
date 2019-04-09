@@ -1,0 +1,69 @@
+{
+  "id": 1193121151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.04565,-13.43087,-75.04565,-13.43087",
+    "geom:latitude":-13.43087,
+    "geom:longitude":-75.04565,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Chaupimocco",
+    "gn:country_code":"PE",
+    "gn:dem":4480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944178,
+    "gn:latitude":-13.43087,
+    "gn:longitude":-75.04565,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chaupimocco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944178
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1f4a75c5d724788099ed8cb5b2ea47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1193121151,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1193121151,
+    "wof:lastmodified":1536364194,
+    "wof:name":"Chaupimocco",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.04565,
+    -13.43087,
+    -75.04565,
+    -13.43087
+],
+  "geometry": {"coordinates":[-75.04564999999999,-13.43087],"type":"Point"}
+}

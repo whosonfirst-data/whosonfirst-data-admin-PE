@@ -1,0 +1,72 @@
+{
+  "id": 1226730139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72962,-14.06624,-75.72962,-14.06624",
+    "geom:latitude":-14.06624,
+    "geom:longitude":-75.72962,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Palpas",
+    "gn:country_code":"PE",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003674,
+    "gn:latitude":-14.06624,
+    "gn:longitude":-75.72962,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Palpas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palpas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003674
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2b78e9047ed4b26fab4afa43aff13b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1226730139,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226730139,
+    "wof:lastmodified":1537676953,
+    "wof:name":"Palpas",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72962,
+    -14.06624,
+    -75.72962,
+    -14.06624
+],
+  "geometry": {"coordinates":[-75.72962,-14.06624],"type":"Point"}
+}

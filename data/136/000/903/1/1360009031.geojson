@@ -1,0 +1,69 @@
+{
+  "id": 1360009031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03167,-15.495,-72.03167,-15.495",
+    "geom:latitude":-15.495,
+    "geom:longitude":-72.03167,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Jallmine",
+    "gn:country_code":"PE",
+    "gn:dem":4531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948676,
+    "gn:latitude":-15.495,
+    "gn:longitude":-72.03167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jallmine",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948676
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7f80dfdf48c9402a9942fa7feefcf963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1360009031,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1360009031,
+    "wof:lastmodified":1537053112,
+    "wof:name":"Jallmine",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03166999999998,
+    -15.495,
+    -72.03166999999998,
+    -15.495
+],
+  "geometry": {"coordinates":[-72.03166999999998,-15.495],"type":"Point"}
+}

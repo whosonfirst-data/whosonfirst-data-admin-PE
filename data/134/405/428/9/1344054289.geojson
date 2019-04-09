@@ -1,0 +1,73 @@
+{
+  "id": 1344054289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43543,-6.5581,-78.43543,-6.5581",
+    "geom:latitude":-6.5581,
+    "geom:longitude":-78.43543,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60419.0",
+    "gn:asciiname":"Chontabamba",
+    "gn:country_code":"PE",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698165,
+    "gn:latitude":-6.5581,
+    "gn:longitude":-78.43543,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chontabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chontabamba Ciudad",
+        "Chontabamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698165
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0987daa843787076012865d4092ebb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1344054289,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1344054289,
+    "wof:lastmodified":1537676626,
+    "wof:name":"Chontabamba",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43543000000003,
+    -6.5581,
+    -78.43543000000003,
+    -6.5581
+],
+  "geometry": {"coordinates":[-78.43543000000003,-6.5581],"type":"Point"}
+}

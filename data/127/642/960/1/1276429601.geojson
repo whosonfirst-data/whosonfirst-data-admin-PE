@@ -1,0 +1,69 @@
+{
+  "id": 1276429601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41556,-10.03333,-76.41556,-10.03333",
+    "geom:latitude":-10.03333,
+    "geom:longitude":-76.41556,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100108.0",
+    "gn:asciiname":"Atocshaico",
+    "gn:country_code":"PE",
+    "gn:dem":3887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960587,
+    "gn:latitude":-10.03333,
+    "gn:longitude":-76.41556,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Atocshaico",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960587
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"315abfbca9c3c2a9d99ddb114af1567f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1276429601,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276429601,
+    "wof:lastmodified":1536649385,
+    "wof:name":"Atocshaico",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41556,
+    -10.03333,
+    -76.41556,
+    -10.03333
+],
+  "geometry": {"coordinates":[-76.41556,-10.03333],"type":"Point"}
+}

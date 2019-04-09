@@ -1,0 +1,62 @@
+{
+  "id": 1209065011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92733,-15.83615,-70.92733,-15.83615",
+    "geom:latitude":-15.83615,
+    "geom:longitude":-70.92733,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Llaminuyoc",
+    "gn:country_code":"PE",
+    "gn:dem":4503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936268,
+    "gn:latitude":-15.83615,
+    "gn:longitude":-70.92733,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Llami\u00f1uyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936268
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cc76e22e41e47319f8ac2d89c537bcab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209065011
+        }
+    ],
+    "wof:id":1209065011,
+    "wof:lastmodified":1536298832,
+    "wof:name":"Llaminuyoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.92733,
+    -15.83615,
+    -70.92733,
+    -15.83615
+],
+  "geometry": {"coordinates":[-70.92733,-15.83615],"type":"Point"}
+}

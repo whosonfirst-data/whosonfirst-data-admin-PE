@@ -1,0 +1,66 @@
+{
+  "id": 890429375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15599,-7.00957,-78.15599,-7.00957",
+    "geom:latitude":-7.00957,
+    "geom:longitude":-78.15599,
+    "gn:country":"PE",
+    "gn:fcode":"PPLL",
+    "gn:pop":500,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Calconga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699049,
+        "gp:id":420323,
+        "qs:id":96487
+    },
+    "wof:country":"PE",
+    "wof:created":1469051812,
+    "wof:geomhash":"8526dd73b5921390b1f289efcedafb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":890429375,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":890429375,
+    "wof:lastmodified":1505343512,
+    "wof:name":"Calconga",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15599,
+    -7.00957,
+    -78.15599,
+    -7.00957
+],
+  "geometry": {"coordinates":[-78.15599,-7.00957],"type":"Point"}
+}

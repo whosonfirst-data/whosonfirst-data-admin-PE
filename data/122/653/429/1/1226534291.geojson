@@ -1,0 +1,69 @@
+{
+  "id": 1226534291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41927,-6.87289,-78.41927,-6.87289",
+    "geom:latitude":-6.87289,
+    "geom:longitude":-78.41927,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60304.0",
+    "gn:asciiname":"China Linda",
+    "gn:country_code":"PE",
+    "gn:dem":3663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3752039,
+    "gn:latitude":-6.87289,
+    "gn:longitude":-78.41927,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"China Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752039
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c06c7dd39d8e1b817eee0c2c1d00c9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":1226534291,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1226534291,
+    "wof:lastmodified":1537013896,
+    "wof:name":"China Linda",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41927,
+    -6.87289,
+    -78.41927,
+    -6.87289
+],
+  "geometry": {"coordinates":[-78.41927,-6.87289],"type":"Point"}
+}

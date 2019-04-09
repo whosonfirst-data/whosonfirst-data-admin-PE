@@ -1,0 +1,72 @@
+{
+  "id": 1242866121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.04171,-7.34325,-79.04171,-7.34325",
+    "geom:latitude":-7.34325,
+    "geom:longitude":-79.04171,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60503.0",
+    "gn:asciiname":"Chavi",
+    "gn:country_code":"PE",
+    "gn:dem":1758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007458,
+    "gn:latitude":-7.34325,
+    "gn:longitude":-79.04171,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chavi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108694039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007458
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3ec96295750ffee8f0058dee22bd0c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694039,
+            "locality_id":1242866121,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1242866121,
+    "wof:lastmodified":1537676957,
+    "wof:name":"Chavi",
+    "wof:parent_id":1108694039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.04171,
+    -7.34325,
+    -79.04171,
+    -7.34325
+],
+  "geometry": {"coordinates":[-79.04170999999999,-7.34325],"type":"Point"}
+}

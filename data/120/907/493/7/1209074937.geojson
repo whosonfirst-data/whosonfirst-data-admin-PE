@@ -1,0 +1,63 @@
+{
+  "id": 1209074937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38477,-6.4802,-76.38477,-6.4802",
+    "geom:latitude":-6.4802,
+    "geom:longitude":-76.38477,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220507.0",
+    "gn:asciiname":"Morales",
+    "gn:country_code":"PE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694603,
+    "gn:latitude":-6.4802,
+    "gn:longitude":-76.38477,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694603
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1a5fe81dd0d1c65b4a67109c9ab8deed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209074937
+        }
+    ],
+    "wof:id":1209074937,
+    "wof:lastmodified":1536298525,
+    "wof:name":"Morales",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38476999999997,
+    -6.4802,
+    -76.38476999999997,
+    -6.4802
+],
+  "geometry": {"coordinates":[-76.38476999999997,-6.4802],"type":"Point"}
+}

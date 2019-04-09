@@ -1,0 +1,69 @@
+{
+  "id": 1293564161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54444,-10.58222,-76.54444,-10.58222",
+    "geom:latitude":-10.58222,
+    "geom:longitude":-76.54444,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190201.0",
+    "gn:asciiname":"Cchecceucro",
+    "gn:country_code":"PE",
+    "gn:dem":3959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962840,
+    "gn:latitude":-10.58222,
+    "gn:longitude":-76.54444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cchecceucro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962840
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"03ceeb9c634db364936afa1746f05de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1293564161,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1293564161,
+    "wof:lastmodified":1536676618,
+    "wof:name":"Cchecceucro",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54444000000002,
+    -10.58222,
+    -76.54444000000002,
+    -10.58222
+],
+  "geometry": {"coordinates":[-76.54444000000002,-10.58222],"type":"Point"}
+}

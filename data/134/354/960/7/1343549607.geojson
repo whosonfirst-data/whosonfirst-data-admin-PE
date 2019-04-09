@@ -1,0 +1,69 @@
+{
+  "id": 1343549607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52019,-9.98418,-76.52019,-9.98418",
+    "geom:latitude":-9.98418,
+    "geom:longitude":-76.52019,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"Pachahuari",
+    "gn:country_code":"PE",
+    "gn:dem":3408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666338,
+    "gn:latitude":-9.98418,
+    "gn:longitude":-76.52019,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pachahuari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666338
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"87c83e7802f08c9079b54c93675e0b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1343549607,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343549607,
+    "wof:lastmodified":1536615238,
+    "wof:name":"Pachahuari",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52019,
+    -9.98418,
+    -76.52019,
+    -9.98418
+],
+  "geometry": {"coordinates":[-76.52019,-9.98418],"type":"Point"}
+}

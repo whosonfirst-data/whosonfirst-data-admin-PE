@@ -1,0 +1,73 @@
+{
+  "id": 1309887703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1839,-3.71658,-73.1839,-3.71658",
+    "geom:latitude":-3.71658,
+    "geom:longitude":-73.1839,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160112.0",
+    "gn:asciiname":"Juan Velazco Alvarado",
+    "gn:country_code":"PE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827821,
+    "gn:latitude":-3.71658,
+    "gn:longitude":-73.1839,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Juan Velazco Alvarado",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juan Velasco Alvarado",
+        "Juan Velazco Alvarado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827821
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"89e40ff458e1833407a3fa934091da42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1309887703,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1309887703,
+    "wof:lastmodified":1537676661,
+    "wof:name":"Juan Velazco Alvarado",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1839,
+    -3.71658,
+    -73.1839,
+    -3.71658
+],
+  "geometry": {"coordinates":[-73.18389999999999,-3.71658],"type":"Point"}
+}

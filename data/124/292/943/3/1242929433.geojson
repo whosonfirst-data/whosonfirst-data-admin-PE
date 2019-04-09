@@ -1,0 +1,73 @@
+{
+  "id": 1242929433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.79639,-17.63444,-70.79639,-17.63444",
+    "geom:latitude":-17.63444,
+    "geom:longitude":-70.79639,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:asciiname":"Pinapata",
+    "gn:country_code":"PE",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932241,
+    "gn:latitude":-17.63444,
+    "gn:longitude":-70.79639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pi\u00f1apata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi\u00f1apa",
+        "Pi\u00f1apata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932241
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"53c7166f4b2094a6345dc478e0b5bc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1242929433,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1242929433,
+    "wof:lastmodified":1537676729,
+    "wof:name":"Pinapata",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.79639,
+    -17.63443999999999,
+    -70.79639,
+    -17.63443999999999
+],
+  "geometry": {"coordinates":[-70.79639,-17.63443999999999],"type":"Point"}
+}

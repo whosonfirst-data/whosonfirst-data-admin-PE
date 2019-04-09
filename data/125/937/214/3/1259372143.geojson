@@ -1,0 +1,72 @@
+{
+  "id": 1259372143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77687,-13.62671,-74.77687,-13.62671",
+    "geom:latitude":-13.62671,
+    "geom:longitude":-74.77687,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Rumicruz",
+    "gn:country_code":"PE",
+    "gn:dem":4065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930215,
+    "gn:latitude":-13.62671,
+    "gn:longitude":-74.77687,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Rumicruz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumi Cruz",
+        "Rumicruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930215
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bb37d31a856297749f1e84e076f00012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1259372143,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1259372143,
+    "wof:lastmodified":1537676710,
+    "wof:name":"Rumicruz",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77687,
+    -13.62671,
+    -74.77687,
+    -13.62671
+],
+  "geometry": {"coordinates":[-74.77687,-13.62671],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310411569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.70686,-15.36693,-74.70686,-15.36693",
+    "geom:latitude":-15.36693,
+    "geom:longitude":-74.70686,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40305.0",
+    "gn:asciiname":"Puente",
+    "gn:country_code":"PE",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931520,
+    "gn:latitude":-15.36693,
+    "gn:longitude":-74.70686,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931520
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f54354bc592b6645fd760f9891f2863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1310411569,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310411569,
+    "wof:lastmodified":1537676722,
+    "wof:name":"Puente",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.70685999999998,
+    -15.36693,
+    -74.70685999999998,
+    -15.36693
+],
+  "geometry": {"coordinates":[-74.70685999999998,-15.36693],"type":"Point"}
+}

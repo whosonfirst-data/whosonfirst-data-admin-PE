@@ -1,0 +1,72 @@
+{
+  "id": 1326728891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.04431,-15.62622,-74.04431,-15.62622",
+    "geom:latitude":-15.62622,
+    "geom:longitude":-74.04431,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Mollehuaca",
+    "gn:country_code":"PE",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934715,
+    "gn:latitude":-15.62622,
+    "gn:longitude":-74.04431,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mollehuaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mollehuaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934715
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e46582461fdc64b2c8ba064748bff8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1326728891,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1326728891,
+    "wof:lastmodified":1537676752,
+    "wof:name":"Mollehuaca",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.04431,
+    -15.62622,
+    -74.04431,
+    -15.62622
+],
+  "geometry": {"coordinates":[-74.04431,-15.62622],"type":"Point"}
+}

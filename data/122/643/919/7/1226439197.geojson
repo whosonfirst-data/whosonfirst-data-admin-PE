@@ -1,0 +1,69 @@
+{
+  "id": 1226439197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.225,-13.40944,-73.225,-13.40944",
+    "geom:latitude":-13.40944,
+    "geom:longitude":-73.225,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80909.0",
+    "gn:asciiname":"Choquejasa",
+    "gn:country_code":"PE",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309401,
+    "gn:latitude":-13.40944,
+    "gn:longitude":-73.225,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Choquejasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309401
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ddd49c5c8497c053a3ce8d1f429520f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1226439197,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226439197,
+    "wof:lastmodified":1536654989,
+    "wof:name":"Choquejasa",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.225,
+    -13.40944,
+    -73.225,
+    -13.40944
+],
+  "geometry": {"coordinates":[-73.22499999999999,-13.40944],"type":"Point"}
+}

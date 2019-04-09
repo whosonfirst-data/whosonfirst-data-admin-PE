@@ -1,0 +1,63 @@
+{
+  "id": 1209614947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98528,-16.56472,-71.98528,-16.56472",
+    "geom:latitude":-16.56472,
+    "geom:longitude":-71.98528,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40125.0",
+    "gn:asciiname":"La Cantera Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949133,
+    "gn:latitude":-16.56472,
+    "gn:longitude":-71.98528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Cantera Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949133
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6c707d3bc6941905307d7ca1846d14b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209614947
+        }
+    ],
+    "wof:id":1209614947,
+    "wof:lastmodified":1536281721,
+    "wof:name":"La Cantera Hacienda",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98528,
+    -16.56472,
+    -71.98528,
+    -16.56472
+],
+  "geometry": {"coordinates":[-71.98528,-16.56472],"type":"Point"}
+}

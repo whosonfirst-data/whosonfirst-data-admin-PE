@@ -1,0 +1,63 @@
+{
+  "id": 1209220333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76667,-15.56667,-74.76667,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":-74.76667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40305.0",
+    "gn:asciiname":"Los Conchales",
+    "gn:country_code":"PE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935928,
+    "gn:latitude":-15.56667,
+    "gn:longitude":-74.76667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Los Conchales",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935928
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"16f3ede9dbdbb86a8b71f6981d22414c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209220333
+        }
+    ],
+    "wof:id":1209220333,
+    "wof:lastmodified":1536293984,
+    "wof:name":"Los Conchales",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76666999999998,
+    -15.566670000000002,
+    -74.76666999999998,
+    -15.566670000000002
+],
+  "geometry": {"coordinates":[-74.76666999999998,-15.56667],"type":"Point"}
+}

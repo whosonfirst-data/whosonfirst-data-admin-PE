@@ -1,0 +1,63 @@
+{
+  "id": 1209299179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.27764,-14.21913,-71.27764,-14.21913",
+    "geom:latitude":-14.21913,
+    "geom:longitude":-71.27764,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80601.0",
+    "gn:asciiname":"Lari Puchuri",
+    "gn:country_code":"PE",
+    "gn:dem":3554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954505,
+    "gn:latitude":-14.21913,
+    "gn:longitude":-71.27764,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Lari Puchuri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954505
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"51463015d56ccae0d6cb8538ab339703",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209299179
+        }
+    ],
+    "wof:id":1209299179,
+    "wof:lastmodified":1536291417,
+    "wof:name":"Lari Puchuri",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.27764,
+    -14.219129999999998,
+    -71.27764,
+    -14.219129999999998
+],
+  "geometry": {"coordinates":[-71.27764000000001,-14.21913],"type":"Point"}
+}

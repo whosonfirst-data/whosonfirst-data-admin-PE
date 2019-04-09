@@ -1,0 +1,69 @@
+{
+  "id": 1360059303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.74086,-17.18495,-69.74086,-17.18495",
+    "geom:latitude":-17.18495,
+    "geom:longitude":-69.74086,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210502.0",
+    "gn:asciiname":"Chila",
+    "gn:country_code":"PE",
+    "gn:dem":4424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943985,
+    "gn:latitude":-17.18495,
+    "gn:longitude":-69.74086,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chila",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943985
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6fcfd2badec1b86f5ec9e928d40c4447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1360059303,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1360059303,
+    "wof:lastmodified":1536982265,
+    "wof:name":"Chila",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.74086,
+    -17.18495,
+    -69.74086,
+    -17.18495
+],
+  "geometry": {"coordinates":[-69.74086,-17.18495],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343345399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62812,-13.27219,-75.62812,-13.27219",
+    "geom:latitude":-13.27219,
+    "geom:longitude":-75.62812,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90404.0",
+    "gn:asciiname":"Camayocc",
+    "gn:country_code":"PE",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945969,
+    "gn:latitude":-13.27219,
+    "gn:longitude":-75.62812,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Camayocc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camayocc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945969
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a9ddfb6192c05854b1da7981e2e15de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1343345399,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343345399,
+    "wof:lastmodified":1537676853,
+    "wof:name":"Camayocc",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62812,
+    -13.27219,
+    -75.62812,
+    -13.27219
+],
+  "geometry": {"coordinates":[-75.62812,-13.27219],"type":"Point"}
+}

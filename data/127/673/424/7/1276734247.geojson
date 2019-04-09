@@ -1,0 +1,69 @@
+{
+  "id": 1276734247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67083,-5.07444,-75.67083,-5.07444",
+    "geom:latitude":-5.07444,
+    "geom:longitude":-75.67083,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160205.0",
+    "gn:asciiname":"Boca del Aipena",
+    "gn:country_code":"PE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736753,
+    "gn:latitude":-5.07444,
+    "gn:longitude":-75.67083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Boca del Aipena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736753
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"65a9c6c5a161157be2c8b6054ee5717f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1276734247,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1276734247,
+    "wof:lastmodified":1536738645,
+    "wof:name":"Boca del Aipena",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67083000000002,
+    -5.07444,
+    -75.67083000000002,
+    -5.07444
+],
+  "geometry": {"coordinates":[-75.67083000000002,-5.07444],"type":"Point"}
+}

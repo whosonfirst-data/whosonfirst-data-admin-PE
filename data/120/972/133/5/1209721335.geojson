@@ -1,0 +1,72 @@
+{
+  "id": 1209721335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.09632,-15.65719,-74.09632,-15.65719",
+    "geom:latitude":-15.65719,
+    "geom:longitude":-74.09632,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40309.0",
+    "gn:asciiname":"Agcochiuche",
+    "gn:country_code":"PE",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10908485,
+    "gn:latitude":-15.65719,
+    "gn:longitude":-74.09632,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agcochiuche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agcochiuche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10908485
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6da15a1203ab18ca6e8a30f510924a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1209721335,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1209721335,
+    "wof:lastmodified":1537676945,
+    "wof:name":"Agcochiuche",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.09631999999998,
+    -15.65719,
+    -74.09631999999998,
+    -15.65719
+],
+  "geometry": {"coordinates":[-74.09631999999998,-15.65719],"type":"Point"}
+}

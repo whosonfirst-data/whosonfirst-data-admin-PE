@@ -1,0 +1,72 @@
+{
+  "id": 1276455979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.098,-10.0602,-78.098,-10.0602",
+    "geom:latitude":-10.0602,
+    "geom:longitude":-78.098,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"21101.0",
+    "gn:asciiname":"Hacienda Alguay",
+    "gn:country_code":"PE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948287,
+    "gn:latitude":-10.0602,
+    "gn:longitude":-78.098,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Alguay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiguay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421184497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948287
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1fe719a5ba9cdfe39e43c3b9cf1ec12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184497,
+            "locality_id":1276455979,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276455979,
+    "wof:lastmodified":1537676872,
+    "wof:name":"Hacienda Alguay",
+    "wof:parent_id":421184497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.098,
+    -10.0602,
+    -78.098,
+    -10.0602
+],
+  "geometry": {"coordinates":[-78.098,-10.0602],"type":"Point"}
+}

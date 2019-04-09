@@ -1,0 +1,77 @@
+{
+  "id": 1343734887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55,-12.78333,-76.55,-12.78333",
+    "geom:latitude":-12.78333,
+    "geom:longitude":-76.55,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150502.0",
+    "gn:asciiname":"El Pacay",
+    "gn:country_code":"PE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941261,
+    "gn:latitude":-12.78333,
+    "gn:longitude":-76.55,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"El Pacay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941261
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e7fbc15916787185c950101e71a048bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1343734887,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1343734887,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343734887,
+    "wof:lastmodified":1536846735,
+    "wof:name":"El Pacay",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55,
+    -12.78333,
+    -76.55,
+    -12.78333
+],
+  "geometry": {"coordinates":[-76.55,-12.78333],"type":"Point"}
+}

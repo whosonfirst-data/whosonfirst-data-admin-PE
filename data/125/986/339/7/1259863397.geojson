@@ -1,0 +1,69 @@
+{
+  "id": 1259863397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55949,-12.63519,-74.55949,-12.63519",
+    "geom:latitude":-12.63519,
+    "geom:longitude":-74.55949,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90502.0",
+    "gn:asciiname":"Loma",
+    "gn:country_code":"PE",
+    "gn:dem":3612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661494,
+    "gn:latitude":-12.63519,
+    "gn:longitude":-74.55949,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661494
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"089a5614d0f42f59f8480a9c04fb4206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1259863397,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1259863397,
+    "wof:lastmodified":1536807847,
+    "wof:name":"Loma",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55949,
+    -12.63519,
+    -74.55949,
+    -12.63519
+],
+  "geometry": {"coordinates":[-74.55949,-12.63519],"type":"Point"}
+}

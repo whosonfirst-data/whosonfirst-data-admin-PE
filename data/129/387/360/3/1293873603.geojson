@@ -1,0 +1,69 @@
+{
+  "id": 1293873603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95141,-11.58279,-72.95141,-11.58279",
+    "geom:latitude":-11.58279,
+    "geom:longitude":-72.95141,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902.0",
+    "gn:asciiname":"Camisea",
+    "gn:country_code":"PE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945947,
+    "gn:latitude":-11.58279,
+    "gn:longitude":-72.95141,
+    "gn:modification_date":"2015-06-17",
+    "gn:name":"Camisea",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945947
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7863af72de1c2868e9707202a9aab018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1293873603,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1293873603,
+    "wof:lastmodified":1536727993,
+    "wof:name":"Camisea",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95141,
+    -11.58279,
+    -72.95141,
+    -11.58279
+],
+  "geometry": {"coordinates":[-72.95141,-11.58279],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243341841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87465,-9.78023,-76.87465,-9.78023",
+    "geom:latitude":-9.78023,
+    "geom:longitude":-76.87465,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100313.0",
+    "gn:asciiname":"Solis",
+    "gn:country_code":"PE",
+    "gn:dem":4097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666024,
+    "gn:latitude":-9.78023,
+    "gn:longitude":-76.87465,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Solis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666024
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"61a0355b3df0d5ada9575c1383646e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1243341841,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1243341841,
+    "wof:lastmodified":1536956491,
+    "wof:name":"Solis",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87465,
+    -9.78023,
+    -76.87465,
+    -9.78023
+],
+  "geometry": {"coordinates":[-76.87465,-9.78023],"type":"Point"}
+}

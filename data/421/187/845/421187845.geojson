@@ -1,0 +1,109 @@
+{
+  "id": 421187845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.33333,-12.75,-76.33333,-12.75",
+    "geom:latitude":-12.75,
+    "geom:longitude":-76.33333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Ka\u00f1iti jisk'a suyu"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Ca\u00f1ete"
+    ],
+    "name:fra_x_preferred":[
+        "Province de Ca\u00f1ete"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Ca\u00f1ete"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10d4\u10e2\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ca\u00f1ete"
+    ],
+    "name:por_x_preferred":[
+        "Ca\u00f1ete"
+    ],
+    "name:que_x_preferred":[
+        "Ka\u00f1iti pruwinsya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u044c\u0435\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Ca\u00f1ete"
+    ],
+    "name:unk_x_variant":[
+        "Provincia de Ca\u00f1ete"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3945799,
+    "qs:gn_pop":0,
+    "qs:name":"Ca\u00f1ete",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":542,
+    "qs:photos_1k":110,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2764,
+    "qs:photos_sr":7,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086203,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":26805805,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945799,
+        "gp:id":26805805,
+        "qs:id":1086203,
+        "wd:id":"Q1431156",
+        "wk:page":"Ca\u00f1ete Province"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009526,
+    "wof:geomhash":"8a8f441577da1093aa5fda6593cf0720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187845,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421187845,
+    "wof:lastmodified":1501269454,
+    "wof:name":"Ca\u00f1ete",
+    "wof:parent_id":85675925,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33333,
+    -12.75,
+    -76.33333,
+    -12.75
+],
+  "geometry": {"coordinates":[-76.33333,-12.75],"type":"Point"}
+}

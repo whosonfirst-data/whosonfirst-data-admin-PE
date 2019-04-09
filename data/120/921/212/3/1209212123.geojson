@@ -1,0 +1,66 @@
+{
+  "id": 1209212123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0196,-7.35238,-79.0196,-7.35238",
+    "geom:latitude":-7.35238,
+    "geom:longitude":-79.0196,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60503.0",
+    "gn:asciiname":"Espinita",
+    "gn:country_code":"PE",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007471,
+    "gn:latitude":-7.35238,
+    "gn:longitude":-79.0196,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Espinita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Espinita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007471
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9bbf9b8e1f6351861adb404abd024c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209212123
+        }
+    ],
+    "wof:id":1209212123,
+    "wof:lastmodified":1537676957,
+    "wof:name":"Espinita",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0196,
+    -7.35238,
+    -79.0196,
+    -7.35238
+],
+  "geometry": {"coordinates":[-79.0196,-7.35238],"type":"Point"}
+}

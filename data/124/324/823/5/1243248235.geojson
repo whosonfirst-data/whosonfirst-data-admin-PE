@@ -1,0 +1,68 @@
+{
+  "id": 1243248235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51266,-12.96054,-73.51266,-12.96054",
+    "geom:latitude":-12.96054,
+    "geom:longitude":-73.51266,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"809.0",
+    "gn:asciiname":"Libertadores",
+    "gn:country_code":"PE",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8689215,
+    "gn:latitude":-12.96054,
+    "gn:longitude":-73.51266,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Libertadores",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8689215
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"78c4354f8be2fc85ada1d602127c60e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1243248235,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1243248235,
+    "wof:lastmodified":1537088082,
+    "wof:name":"Libertadores",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51266,
+    -12.96054,
+    -73.51266,
+    -12.96054
+],
+  "geometry": {"coordinates":[-73.51266,-12.96054],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242944125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61068,-7.82098,-77.61068,-7.82098",
+    "geom:latitude":-7.82098,
+    "geom:longitude":-77.61068,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130809.0",
+    "gn:asciiname":"Alto Blanco",
+    "gn:country_code":"PE",
+    "gn:dem":2357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3744915,
+    "gn:latitude":-7.82098,
+    "gn:longitude":-77.61068,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Alto Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421172463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3744915
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eaed6223546f0e8fcc89f8ff638f8944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172463,
+            "locality_id":1242944125,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1242944125,
+    "wof:lastmodified":1537031507,
+    "wof:name":"Alto Blanco",
+    "wof:parent_id":421172463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61068,
+    -7.82098,
+    -77.61068,
+    -7.82098
+],
+  "geometry": {"coordinates":[-77.61068,-7.82098],"type":"Point"}
+}

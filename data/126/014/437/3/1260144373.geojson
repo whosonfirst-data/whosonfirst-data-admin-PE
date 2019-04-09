@@ -1,0 +1,69 @@
+{
+  "id": 1260144373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.75285,-15.15846,-69.75285,-15.15846",
+    "geom:latitude":-15.15846,
+    "geom:longitude":-69.75285,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:asciiname":"Isancuyomunaypa",
+    "gn:country_code":"PE",
+    "gn:dem":3857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938201,
+    "gn:latitude":-15.15846,
+    "gn:longitude":-69.75285,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Isancuyomunaypa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938201
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"73df4cd9e27c56f62c5b13bbc5dbfc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1260144373,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260144373,
+    "wof:lastmodified":1536901701,
+    "wof:name":"Isancuyomunaypa",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.75285,
+    -15.15846,
+    -69.75285,
+    -15.15846
+],
+  "geometry": {"coordinates":[-69.75285,-15.15846],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309825561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.12001,-14.3021,-71.12001,-14.3021",
+    "geom:latitude":-14.3021,
+    "geom:longitude":-71.12001,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80601.0",
+    "gn:asciiname":"Jachaypina",
+    "gn:country_code":"PE",
+    "gn:dem":4475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954256,
+    "gn:latitude":-14.3021,
+    "gn:longitude":-71.12001,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Jachaypi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954256
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"781d2e8449a63510652c63f5194e6d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1309825561,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1309825561,
+    "wof:lastmodified":1536902800,
+    "wof:name":"Jachaypina",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12001,
+    -14.3021,
+    -71.12001,
+    -14.3021
+],
+  "geometry": {"coordinates":[-71.12000999999999,-14.3021],"type":"Point"}
+}

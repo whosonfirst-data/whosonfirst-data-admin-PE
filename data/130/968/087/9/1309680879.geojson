@@ -1,0 +1,72 @@
+{
+  "id": 1309680879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26452,-6.95906,-76.26452,-6.95906",
+    "geom:latitude":-6.95906,
+    "geom:longitude":-76.26452,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220709.0",
+    "gn:asciiname":"Camboya",
+    "gn:country_code":"PE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039823,
+    "gn:latitude":-6.95906,
+    "gn:longitude":-76.26452,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Camboya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camboya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039823
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a337431f69de9bb758bc9556a76f8132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1309680879,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1309680879,
+    "wof:lastmodified":1537676961,
+    "wof:name":"Camboya",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26451999999998,
+    -6.95906,
+    -76.26451999999998,
+    -6.95906
+],
+  "geometry": {"coordinates":[-76.26451999999998,-6.95906],"type":"Point"}
+}

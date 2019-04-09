@@ -1,0 +1,69 @@
+{
+  "id": 1193129185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.01196,-6.35788,-79.01196,-6.35788",
+    "geom:latitude":-6.35788,
+    "geom:longitude":-79.01196,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60415.0",
+    "gn:asciiname":"Sanquihua",
+    "gn:country_code":"PE",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743167,
+    "gn:latitude":-6.35788,
+    "gn:longitude":-79.01196,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sanquihua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743167
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7854566a7ac2a01c76ab73a7b931865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1193129185,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1193129185,
+    "wof:lastmodified":1536377648,
+    "wof:name":"Sanquihua",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.01196,
+    -6.35788,
+    -79.01196,
+    -6.35788
+],
+  "geometry": {"coordinates":[-79.01196,-6.35788],"type":"Point"}
+}

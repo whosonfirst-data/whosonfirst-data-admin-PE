@@ -1,0 +1,66 @@
+{
+  "id": 1209288787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.26107,-4.51574,-81.26107,-4.51574",
+    "geom:latitude":-4.51574,
+    "geom:longitude":-81.26107,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Piedritas",
+    "gn:country_code":"PE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693611,
+    "gn:latitude":-4.51574,
+    "gn:longitude":-81.26107,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Piedritas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedritas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693611
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31833abcba0fbc9c3080054dcff0cb58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209288787
+        }
+    ],
+    "wof:id":1209288787,
+    "wof:lastmodified":1537676569,
+    "wof:name":"Piedritas",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.26106999999998,
+    -4.51574,
+    -81.26106999999998,
+    -4.51574
+],
+  "geometry": {"coordinates":[-81.26106999999998,-4.51574],"type":"Point"}
+}

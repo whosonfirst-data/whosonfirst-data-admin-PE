@@ -1,0 +1,69 @@
+{
+  "id": 1277068747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28784,-5.9333,-79.28784,-5.9333",
+    "geom:latitude":-5.9333,
+    "geom:longitude":-79.28784,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60807.0",
+    "gn:asciiname":"Arabiaca",
+    "gn:country_code":"PE",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762133,
+    "gn:latitude":-5.9333,
+    "gn:longitude":-79.28784,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Arabiaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762133
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"02b13623f80639f9ad7177ac1ce324da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1277068747,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1277068747,
+    "wof:lastmodified":1536788280,
+    "wof:name":"Arabiaca",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28784,
+    -5.9333,
+    -79.28784,
+    -5.9333
+],
+  "geometry": {"coordinates":[-79.28784,-5.9333],"type":"Point"}
+}

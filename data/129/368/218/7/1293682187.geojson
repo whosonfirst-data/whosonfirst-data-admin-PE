@@ -1,0 +1,72 @@
+{
+  "id": 1293682187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.01918,-15.51581,-74.01918,-15.51581",
+    "geom:latitude":-15.51581,
+    "geom:longitude":-74.01918,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Aichune",
+    "gn:country_code":"PE",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948290,
+    "gn:latitude":-15.51581,
+    "gn:longitude":-74.01918,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Aichune",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aichune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948290
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e33c1601ad251103f789435f06afda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293682187,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293682187,
+    "wof:lastmodified":1537676872,
+    "wof:name":"Aichune",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01918,
+    -15.51581,
+    -74.01918,
+    -15.51581
+],
+  "geometry": {"coordinates":[-74.01918000000001,-15.51581],"type":"Point"}
+}

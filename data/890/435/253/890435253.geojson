@@ -1,0 +1,66 @@
+{
+  "id": 890435253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.15,-13.66667,-76.15,-13.66667",
+    "geom:latitude":-13.66667,
+    "geom:longitude":-76.15,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":15815,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"San Clemente",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929768,
+        "gp:id":418458,
+        "qs:id":150991
+    },
+    "wof:country":"PE",
+    "wof:created":1469052060,
+    "wof:geomhash":"f230c0b802686e45a34c0b7bb4e52061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":890435253,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":890435253,
+    "wof:lastmodified":1505343546,
+    "wof:name":"San Clemente",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:population":15815,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15,
+    -13.66667,
+    -76.15,
+    -13.66667
+],
+  "geometry": {"coordinates":[-76.15000000000001,-13.66667],"type":"Point"}
+}

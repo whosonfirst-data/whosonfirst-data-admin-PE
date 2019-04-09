@@ -1,0 +1,72 @@
+{
+  "id": 1260289065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8424,-14.56104,-74.8424,-14.56104",
+    "geom:latitude":-14.56104,
+    "geom:longitude":-74.8424,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50613.0",
+    "gn:asciiname":"San Sebastian",
+    "gn:country_code":"PE",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929305,
+    "gn:latitude":-14.56104,
+    "gn:longitude":-74.8424,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"San Sebasti\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929305
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1a25610d0845a415d617656080543f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1260289065,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260289065,
+    "wof:lastmodified":1537676696,
+    "wof:name":"San Sebastian",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8424,
+    -14.56104,
+    -74.8424,
+    -14.56104
+],
+  "geometry": {"coordinates":[-74.8424,-14.56104],"type":"Point"}
+}

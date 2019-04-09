@@ -1,0 +1,65 @@
+{
+  "id": 1209069673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33506,-11.89975,-69.33506,-11.89975",
+    "geom:latitude":-11.89975,
+    "geom:longitude":-69.33506,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Gutierrez",
+    "gn:country_code":"PE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511441,
+    "gn:latitude":-11.89975,
+    "gn:longitude":-69.33506,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Gutierrez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gutierrez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511441
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f932bc491681b23334b7791c109a03d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209069673
+        }
+    ],
+    "wof:id":1209069673,
+    "wof:lastmodified":1537676973,
+    "wof:name":"Gutierrez",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33506,
+    -11.89975,
+    -69.33506,
+    -11.89975
+],
+  "geometry": {"coordinates":[-69.33506,-11.89975],"type":"Point"}
+}

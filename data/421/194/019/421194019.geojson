@@ -1,0 +1,76 @@
+{
+  "id": 421194019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.69417,-13.54056,-72.69417,-13.54056",
+    "geom:latitude":-13.54056,
+    "geom:longitude":-72.69417,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3948826,
+    "qs:gn_pop":0,
+    "qs:name":"Carahuasi",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Apur\u00edmac",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887624,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":398418,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948826,
+        "gp:id":398418,
+        "qs:id":887624
+    },
+    "wof:country":"PE",
+    "wof:created":1459009790,
+    "wof:geomhash":"aafb797f6b014f330e73c3615f9558fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170655,
+            "locality_id":421194019,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":421194019,
+    "wof:lastmodified":1500022065,
+    "wof:name":"Carahuasi",
+    "wof:parent_id":421170655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.69417,
+    -13.54056,
+    -72.69417,
+    -13.54056
+],
+  "geometry": {"coordinates":[-72.69417,-13.54056],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209092383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10092,-8.1004,-79.10092,-8.1004",
+    "geom:latitude":-8.1004,
+    "geom:longitude":-79.10092,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130104.0",
+    "gn:asciiname":"Huanchaquito",
+    "gn:country_code":"PE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696445,
+    "gn:latitude":-8.1004,
+    "gn:longitude":-79.10092,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huanchaquito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696445
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8b91aaa09163a97179feadba7eb868c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209092383
+        }
+    ],
+    "wof:id":1209092383,
+    "wof:lastmodified":1536297996,
+    "wof:name":"Huanchaquito",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10092,
+    -8.1004,
+    -79.10092,
+    -8.1004
+],
+  "geometry": {"coordinates":[-79.10092,-8.1004],"type":"Point"}
+}

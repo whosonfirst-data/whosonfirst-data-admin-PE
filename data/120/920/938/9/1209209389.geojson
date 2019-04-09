@@ -1,0 +1,63 @@
+{
+  "id": 1209209389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.57591,-12.79488,-74.57591,-12.79488",
+    "geom:latitude":-12.79488,
+    "geom:longitude":-74.57591,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90201.0",
+    "gn:asciiname":"Huallpahuasi",
+    "gn:country_code":"PE",
+    "gn:dem":3851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661409,
+    "gn:latitude":-12.79488,
+    "gn:longitude":-74.57591,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huallpahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661409
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d2c3627fd58e4d321d293e410d0683d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209209389
+        }
+    ],
+    "wof:id":1209209389,
+    "wof:lastmodified":1536294341,
+    "wof:name":"Huallpahuasi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57591,
+    -12.79488,
+    -74.57591,
+    -12.79488
+],
+  "geometry": {"coordinates":[-74.57590999999999,-12.79488],"type":"Point"}
+}

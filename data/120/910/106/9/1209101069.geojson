@@ -1,0 +1,63 @@
+{
+  "id": 1209101069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57959,-9.83347,-76.57959,-9.83347",
+    "geom:latitude":-9.83347,
+    "geom:longitude":-76.57959,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101101.0",
+    "gn:asciiname":"Hurianjaga",
+    "gn:country_code":"PE",
+    "gn:dem":3734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666134,
+    "gn:latitude":-9.83347,
+    "gn:longitude":-76.57959,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hurianjaga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666134
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3a8259a00f00050b233329268a3b9b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101069
+        }
+    ],
+    "wof:id":1209101069,
+    "wof:lastmodified":1536297731,
+    "wof:name":"Hurianjaga",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57959,
+    -9.83347,
+    -76.57959,
+    -9.83347
+],
+  "geometry": {"coordinates":[-76.57959,-9.83347],"type":"Point"}
+}

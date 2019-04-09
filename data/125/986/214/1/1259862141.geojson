@@ -1,0 +1,77 @@
+{
+  "id": 1259862141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51245,-11.56611,-76.51245,-11.56611",
+    "geom:latitude":-11.56611,
+    "geom:longitude":-76.51245,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150712.0",
+    "gn:asciiname":"Calera",
+    "gn:country_code":"PE",
+    "gn:dem":4225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646173,
+    "gn:latitude":-11.56611,
+    "gn:longitude":-76.51245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646173
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b37cc2ed367b5c1c0c5cb37d0b4bce40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1259862141,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1259862141,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1259862141,
+    "wof:lastmodified":1536809539,
+    "wof:name":"Calera",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51245,
+    -11.56611,
+    -76.51245,
+    -11.56611
+],
+  "geometry": {"coordinates":[-76.51245,-11.56611],"type":"Point"}
+}

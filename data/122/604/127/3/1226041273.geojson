@@ -1,0 +1,69 @@
+{
+  "id": 1226041273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35695,-14.99919,-74.35695,-14.99919",
+    "geom:latitude":-14.99919,
+    "geom:longitude":-74.35695,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50614.0",
+    "gn:asciiname":"Huaccata",
+    "gn:country_code":"PE",
+    "gn:dem":2423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940043,
+    "gn:latitude":-14.99919,
+    "gn:longitude":-74.35695,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huaccata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940043
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1ba48e4bbfbfc4c5506f7f81df4d1b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1226041273,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226041273,
+    "wof:lastmodified":1536731897,
+    "wof:name":"Huaccata",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35695,
+    -14.99919,
+    -74.35695,
+    -14.99919
+],
+  "geometry": {"coordinates":[-74.35695,-14.99919],"type":"Point"}
+}

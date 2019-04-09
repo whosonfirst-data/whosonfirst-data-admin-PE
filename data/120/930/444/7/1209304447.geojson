@@ -1,0 +1,63 @@
+{
+  "id": 1209304447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70416,-14.66335,-71.70416,-14.66335",
+    "geom:latitude":-14.66335,
+    "geom:longitude":-71.70416,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Tambone",
+    "gn:country_code":"PE",
+    "gn:dem":4678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957097,
+    "gn:latitude":-14.66335,
+    "gn:longitude":-71.70416,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tambone",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957097
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"98801f6c3287239598d259a2fc48257f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209304447
+        }
+    ],
+    "wof:id":1209304447,
+    "wof:lastmodified":1536291243,
+    "wof:name":"Tambone",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70416,
+    -14.66335,
+    -71.70416,
+    -14.66335
+],
+  "geometry": {"coordinates":[-71.70416,-14.66335],"type":"Point"}
+}

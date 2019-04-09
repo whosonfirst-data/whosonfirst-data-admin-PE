@@ -1,0 +1,69 @@
+{
+  "id": 1225802625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95556,-4.16472,-80.95556,-4.16472",
+    "geom:latitude":-4.16472,
+    "geom:longitude":-80.95556,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240203.0",
+    "gn:asciiname":"Catalinas",
+    "gn:country_code":"PE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3814524,
+    "gn:latitude":-4.16472,
+    "gn:longitude":-80.95556,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Catalinas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814524
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a5ce1b9773018d1ecc06eb4ad88f353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1225802625,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1225802625,
+    "wof:lastmodified":1537072955,
+    "wof:name":"Catalinas",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95555999999998,
+    -4.16472,
+    -80.95555999999998,
+    -4.16472
+],
+  "geometry": {"coordinates":[-80.95555999999998,-4.16472],"type":"Point"}
+}

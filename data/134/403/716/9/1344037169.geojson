@@ -1,0 +1,71 @@
+{
+  "id": 1344037169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.31226,-10.8461,-75.31226,-10.8461",
+    "geom:latitude":-10.8461,
+    "geom:longitude":-75.31226,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:asciiname":"Ramazu",
+    "gn:country_code":"PE",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564071,
+    "gn:latitude":-10.8461,
+    "gn:longitude":-75.31226,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Ramaz\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ramaz\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564071
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a04d1971023f581db68f2f297d97108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1344037169,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1344037169,
+    "wof:lastmodified":1537676900,
+    "wof:name":"Ramazu",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.31226,
+    -10.8461,
+    -75.31226,
+    -10.8461
+],
+  "geometry": {"coordinates":[-75.31225999999999,-10.8461],"type":"Point"}
+}

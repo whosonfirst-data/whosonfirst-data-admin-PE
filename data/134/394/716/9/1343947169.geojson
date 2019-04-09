@@ -1,0 +1,68 @@
+{
+  "id": 1343947169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76306,-13.87056,-74.76306,-13.87056",
+    "geom:latitude":-13.87056,
+    "geom:longitude":-74.76306,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Tatasora",
+    "gn:country_code":"PE",
+    "gn:dem":4473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365437,
+    "gn:latitude":-13.87056,
+    "gn:longitude":-74.76306,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Tatasora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365437
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8345d65abd144f8ef482b182ae25074e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693939,
+            "locality_id":1343947169,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343947169,
+    "wof:lastmodified":1537037603,
+    "wof:name":"Tatasora",
+    "wof:parent_id":1108693939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76306,
+    -13.87056,
+    -74.76306,
+    -13.87056
+],
+  "geometry": {"coordinates":[-74.76306,-13.87056],"type":"Point"}
+}

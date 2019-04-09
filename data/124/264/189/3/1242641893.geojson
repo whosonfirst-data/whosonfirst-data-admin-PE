@@ -1,0 +1,69 @@
+{
+  "id": 1242641893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.69896,-4.66195,-79.69896,-4.66195",
+    "geom:latitude":-4.66195,
+    "geom:longitude":-79.69896,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Castaya",
+    "gn:country_code":"PE",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660832,
+    "gn:latitude":-4.66195,
+    "gn:longitude":-79.69896,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Castaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660832
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f3fbf780026e075aafc2f905c908683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1242641893,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1242641893,
+    "wof:lastmodified":1536970993,
+    "wof:name":"Castaya",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.69896,
+    -4.66195,
+    -79.69896,
+    -4.66195
+],
+  "geometry": {"coordinates":[-79.69896,-4.66195],"type":"Point"}
+}

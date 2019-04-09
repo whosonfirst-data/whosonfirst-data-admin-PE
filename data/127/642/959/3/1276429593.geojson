@@ -1,0 +1,69 @@
+{
+  "id": 1276429593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.09783,-9.77663,-76.09783,-9.77663",
+    "geom:latitude":-9.77663,
+    "geom:longitude":-76.09783,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100103.0",
+    "gn:asciiname":"Tullca",
+    "gn:country_code":"PE",
+    "gn:dem":2417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670381,
+    "gn:latitude":-9.77663,
+    "gn:longitude":-76.09783,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tullca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670381
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1c8b6283a5c4138565e2916f94e5c8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1276429593,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276429593,
+    "wof:lastmodified":1536649396,
+    "wof:name":"Tullca",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.09783,
+    -9.77663,
+    -76.09783,
+    -9.77663
+],
+  "geometry": {"coordinates":[-76.09783,-9.77663],"type":"Point"}
+}

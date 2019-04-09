@@ -1,0 +1,69 @@
+{
+  "id": 1343726105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35405,-15.46268,-70.35405,-15.46268",
+    "geom:latitude":-15.46268,
+    "geom:longitude":-70.35405,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210701.0",
+    "gn:asciiname":"Jichimpille",
+    "gn:country_code":"PE",
+    "gn:dem":3850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937632,
+    "gn:latitude":-15.46268,
+    "gn:longitude":-70.35405,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jichimpille",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937632
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e8b6d8c85c8523e06e41cc25a17217d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187857,
+            "locality_id":1343726105,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343726105,
+    "wof:lastmodified":1536859215,
+    "wof:name":"Jichimpille",
+    "wof:parent_id":421187857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35405,
+    -15.46268,
+    -70.35405,
+    -15.46268
+],
+  "geometry": {"coordinates":[-70.35405,-15.46268],"type":"Point"}
+}

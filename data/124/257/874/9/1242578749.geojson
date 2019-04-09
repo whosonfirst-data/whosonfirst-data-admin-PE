@@ -1,0 +1,69 @@
+{
+  "id": 1242578749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31058,-13.8364,-73.31058,-13.8364",
+    "geom:latitude":-13.8364,
+    "geom:longitude":-73.31058,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:asciiname":"Maltaraquina",
+    "gn:country_code":"PE",
+    "gn:dem":4172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6308777,
+    "gn:latitude":-13.8364,
+    "gn:longitude":-73.31058,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Maltaraquina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308777
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5fbac343b0738f259819a51c4983d82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1242578749,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1242578749,
+    "wof:lastmodified":1537059408,
+    "wof:name":"Maltaraquina",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31058,
+    -13.8364,
+    -73.31058,
+    -13.8364
+],
+  "geometry": {"coordinates":[-73.31058,-13.8364],"type":"Point"}
+}

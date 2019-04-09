@@ -1,0 +1,73 @@
+{
+  "id": 1226318393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01667,-17.85,-71.01667,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-71.01667,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Talamolle",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928049,
+    "gn:latitude":-17.85,
+    "gn:longitude":-71.01667,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Talamolle",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talamolla",
+        "Talamolle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928049
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"135956951818b1d928ea191dac43c55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1226318393,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1226318393,
+    "wof:lastmodified":1537676684,
+    "wof:name":"Talamolle",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01666999999998,
+    -17.85,
+    -71.01666999999998,
+    -17.85
+],
+  "geometry": {"coordinates":[-71.01666999999998,-17.85],"type":"Point"}
+}

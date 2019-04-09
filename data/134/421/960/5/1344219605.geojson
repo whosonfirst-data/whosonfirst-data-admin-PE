@@ -1,0 +1,69 @@
+{
+  "id": 1344219605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.01667,-16.76306,-71.01667,-16.76306",
+    "geom:latitude":-16.76306,
+    "geom:longitude":-71.01667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:asciiname":"Pampa San Lorenzo",
+    "gn:country_code":"PE",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949412,
+    "gn:latitude":-16.76306,
+    "gn:longitude":-71.01667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pampa San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949412
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b24f4f4492614d1b4f0fd36ec87b1efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1344219605,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1344219605,
+    "wof:lastmodified":1536645562,
+    "wof:name":"Pampa San Lorenzo",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.01666999999998,
+    -16.76306,
+    -71.01666999999998,
+    -16.76306
+],
+  "geometry": {"coordinates":[-71.01666999999998,-16.76306],"type":"Point"}
+}

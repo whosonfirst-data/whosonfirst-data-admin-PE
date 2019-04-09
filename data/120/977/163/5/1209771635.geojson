@@ -1,0 +1,73 @@
+{
+  "id": 1209771635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.45965,-17.63771,-70.45965,-17.63771",
+    "geom:latitude":-17.63771,
+    "geom:longitude":-70.45965,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230105.0",
+    "gn:asciiname":"Coruca",
+    "gn:country_code":"PE",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942112,
+    "gn:latitude":-17.63771,
+    "gn:longitude":-70.45965,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Coruca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caruca",
+        "Coruca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942112
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1547ab338cdd10f569afe64bf27f2762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1209771635,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1209771635,
+    "wof:lastmodified":1537676819,
+    "wof:name":"Coruca",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.45965,
+    -17.63771000000001,
+    -70.45965,
+    -17.63771000000001
+],
+  "geometry": {"coordinates":[-70.45965,-17.63771000000001],"type":"Point"}
+}

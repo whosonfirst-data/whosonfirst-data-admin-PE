@@ -1,0 +1,77 @@
+{
+  "id": 1293766291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42472,-11.87611,-76.42472,-11.87611",
+    "geom:latitude":-11.87611,
+    "geom:longitude":-76.42472,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150732.0",
+    "gn:asciiname":"Sacrampe",
+    "gn:country_code":"PE",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3967354,
+    "gn:latitude":-11.87611,
+    "gn:longitude":-76.42472,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sacrampe",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967354
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"278232b45adafff38869d380ebd0a358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1293766291,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1293766291,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293766291,
+    "wof:lastmodified":1536881542,
+    "wof:name":"Sacrampe",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42472,
+    -11.87611,
+    -76.42472,
+    -11.87611
+],
+  "geometry": {"coordinates":[-76.42471999999999,-11.87611],"type":"Point"}
+}

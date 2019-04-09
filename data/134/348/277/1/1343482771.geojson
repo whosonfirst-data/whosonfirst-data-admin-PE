@@ -1,0 +1,72 @@
+{
+  "id": 1343482771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.13203,-6.03885,-79.13203,-6.03885",
+    "geom:latitude":-6.03885,
+    "geom:longitude":-79.13203,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60808.0",
+    "gn:asciiname":"Pucara",
+    "gn:country_code":"PE",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693343,
+    "gn:latitude":-6.03885,
+    "gn:longitude":-79.13203,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pucar\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pucara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693343
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a9325135046f8b0a48614c58b27892a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1343482771,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1343482771,
+    "wof:lastmodified":1537676565,
+    "wof:name":"Pucara",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.13203,
+    -6.03885,
+    -79.13203,
+    -6.03885
+],
+  "geometry": {"coordinates":[-79.13203,-6.03885],"type":"Point"}
+}

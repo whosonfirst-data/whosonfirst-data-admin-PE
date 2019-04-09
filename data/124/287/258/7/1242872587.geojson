@@ -1,0 +1,72 @@
+{
+  "id": 1242872587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61184,-15.173,-73.61184,-15.173",
+    "geom:latitude":-15.173,
+    "geom:longitude":-73.61184,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50706.0",
+    "gn:asciiname":"Gegeriscacucho",
+    "gn:country_code":"PE",
+    "gn:dem":3816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940772,
+    "gn:latitude":-15.173,
+    "gn:longitude":-73.61184,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Gegeriscacucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gegeriscacucho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940772
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f80419f500c8bb2dc39b282399a62143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1242872587,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1242872587,
+    "wof:lastmodified":1537676809,
+    "wof:name":"Gegeriscacucho",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61184,
+    -15.173,
+    -73.61184,
+    -15.173
+],
+  "geometry": {"coordinates":[-73.61184,-15.173],"type":"Point"}
+}

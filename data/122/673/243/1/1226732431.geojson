@@ -1,0 +1,82 @@
+{
+  "id": 1226732431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.715,-10.75472,-76.715,-10.75472",
+    "geom:latitude":-10.75472,
+    "geom:longitude":-76.715,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Yuraccorral",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962679,
+    "gn:latitude":-10.75472,
+    "gn:longitude":-76.715,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yuraccorral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuracorral",
+        "Yuraccorral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962679
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3a26f1e187d373ac07e471a0e287d3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1226732431,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1226732431,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1226732431,
+    "wof:lastmodified":1537676884,
+    "wof:name":"Yuraccorral",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.715,
+    -10.75472,
+    -76.715,
+    -10.75472
+],
+  "geometry": {"coordinates":[-76.715,-10.75472],"type":"Point"}
+}

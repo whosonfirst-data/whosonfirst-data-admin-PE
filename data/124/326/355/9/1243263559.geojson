@@ -1,0 +1,69 @@
+{
+  "id": 1243263559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6325,-15.86278,-72.6325,-15.86278",
+    "geom:latitude":-15.86278,
+    "geom:longitude":-72.6325,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40605.0",
+    "gn:asciiname":"Aco",
+    "gn:country_code":"PE",
+    "gn:dem":2419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3951356,
+    "gn:latitude":-15.86278,
+    "gn:longitude":-72.6325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Aco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951356
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3857746b6cd0b0f60e7da778edaff438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1243263559,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1243263559,
+    "wof:lastmodified":1537066271,
+    "wof:name":"Aco",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6325,
+    -15.86278,
+    -72.6325,
+    -15.86278
+],
+  "geometry": {"coordinates":[-72.63249999999999,-15.86278],"type":"Point"}
+}

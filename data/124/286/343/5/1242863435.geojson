@@ -1,0 +1,69 @@
+{
+  "id": 1242863435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.02752,-12.29845,-75.02752,-12.29845",
+    "geom:latitude":-12.29845,
+    "geom:longitude":-75.02752,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90711.0",
+    "gn:asciiname":"Mullaca",
+    "gn:country_code":"PE",
+    "gn:dem":3899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934492,
+    "gn:latitude":-12.29845,
+    "gn:longitude":-75.02752,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mullaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934492
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a4627df24fd0bfc247eb3e3a5a52127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1242863435,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1242863435,
+    "wof:lastmodified":1536651796,
+    "wof:name":"Mullaca",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.02752,
+    -12.29845,
+    -75.02752,
+    -12.29845
+],
+  "geometry": {"coordinates":[-75.02752,-12.29845],"type":"Point"}
+}

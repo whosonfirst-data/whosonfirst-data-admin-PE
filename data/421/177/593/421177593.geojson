@@ -1,0 +1,91 @@
+{
+  "id": 421177593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2275,-11.88056,-76.2275,-11.88056",
+    "geom:latitude":-11.88056,
+    "geom:longitude":-76.2275,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hbs_x_preferred":[
+        "Ventanilla"
+    ],
+    "name:spa_x_preferred":[
+        "Ventanilla"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3966840,
+    "qs:gn_pop":0,
+    "qs:name":"Ventanilla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Provincia Constitucional del Callao",
+    "qs:photos":118,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":118,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1342475,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419381,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966840,
+        "gp:id":419381,
+        "qs:id":1342475
+    },
+    "wof:country":"PE",
+    "wof:created":1459009152,
+    "wof:geomhash":"21edf20f1bb8fd11d39e135562376d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421177593,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421177593,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421177593,
+    "wof:lastmodified":1527716476,
+    "wof:name":"Ventanilla",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2275,
+    -11.88056,
+    -76.2275,
+    -11.88056
+],
+  "geometry": {"coordinates":[-76.22750000000001,-11.88056],"type":"Point"}
+}

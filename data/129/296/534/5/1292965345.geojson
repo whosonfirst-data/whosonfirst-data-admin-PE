@@ -1,0 +1,74 @@
+{
+  "id": 1292965345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6649,-5.3677,-80.6649,-5.3677",
+    "geom:latitude":-5.3677,
+    "geom:longitude":-80.6649,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200107.0",
+    "gn:asciiname":"Chato",
+    "gn:country_code":"PE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698413,
+    "gn:latitude":-5.3677,
+    "gn:longitude":-80.6649,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Chato",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chato Chico",
+        "Chato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698413,
+        "wk:page":"Chato,_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9543b1bc9dac4d954450f787b91239d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1292965345,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1292965345,
+    "wof:lastmodified":1537676630,
+    "wof:name":"Chato",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6649,
+    -5.3677,
+    -80.6649,
+    -5.3677
+],
+  "geometry": {"coordinates":[-80.6649,-5.3677],"type":"Point"}
+}

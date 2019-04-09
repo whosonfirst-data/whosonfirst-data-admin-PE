@@ -1,0 +1,63 @@
+{
+  "id": 1209484037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28333,-7.9,-77.28333,-7.9",
+    "geom:latitude":-7.9,
+    "geom:longitude":-77.28333,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220603.0",
+    "gn:asciiname":"Chiclayo",
+    "gn:country_code":"PE",
+    "gn:dem":3452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698349,
+    "gn:latitude":-7.9,
+    "gn:longitude":-77.28333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chiclayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698349
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8f4b757c0b581ac952078168b084da7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209484037
+        }
+    ],
+    "wof:id":1209484037,
+    "wof:lastmodified":1536285692,
+    "wof:name":"Chiclayo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28333,
+    -7.9,
+    -77.28333,
+    -7.9
+],
+  "geometry": {"coordinates":[-77.28333000000001,-7.9],"type":"Point"}
+}

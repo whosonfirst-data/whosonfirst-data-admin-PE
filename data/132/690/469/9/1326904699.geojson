@@ -1,0 +1,72 @@
+{
+  "id": 1326904699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.3019,-4.64336,-81.3019,-4.64336",
+    "geom:latitude":-4.64336,
+    "geom:longitude":-81.3019,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200703.0",
+    "gn:asciiname":"Draga",
+    "gn:country_code":"PE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697456,
+    "gn:latitude":-4.64336,
+    "gn:longitude":-81.3019,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Draga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Draga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697456
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"591c2fb1cda4ed19c931cc872a20d3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1326904699,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1326904699,
+    "wof:lastmodified":1537676617,
+    "wof:name":"Draga",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.3019,
+    -4.64336,
+    -81.3019,
+    -4.64336
+],
+  "geometry": {"coordinates":[-81.3019,-4.64336],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343916309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28887,-6.27538,-76.28887,-6.27538",
+    "geom:latitude":-6.27538,
+    "geom:longitude":-76.28887,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220504.0",
+    "gn:asciiname":"Convento",
+    "gn:country_code":"PE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697829,
+    "gn:latitude":-6.27538,
+    "gn:longitude":-76.28887,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Convento",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697829
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9612ed4b796f4f9bc6b6538c4799096d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694057,
+            "locality_id":1343916309,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1343916309,
+    "wof:lastmodified":1537080707,
+    "wof:name":"Convento",
+    "wof:parent_id":1108694057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28886999999997,
+    -6.27538,
+    -76.28886999999997,
+    -6.27538
+],
+  "geometry": {"coordinates":[-76.28886999999997,-6.27538],"type":"Point"}
+}

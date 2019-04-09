@@ -1,0 +1,85 @@
+{
+  "id": 421202935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26639,-11.69083,-76.26639,-11.69083",
+    "geom:latitude":-11.69083,
+    "geom:longitude":-76.26639,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3967791,
+    "qs:gn_pop":0,
+    "qs:name":"Bellavista",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Provincia Constitucional del Callao",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228673,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":397430,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":195,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967791,
+        "gp:id":397430,
+        "qs:id":228673
+    },
+    "wof:country":"PE",
+    "wof:created":1459010135,
+    "wof:geomhash":"1c70994b7755fc184e0986f85dc37abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421202935,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421202935,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421202935,
+    "wof:lastmodified":1527716209,
+    "wof:name":"Bellavista",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26639,
+    -11.69083,
+    -76.26639,
+    -11.69083
+],
+  "geometry": {"coordinates":[-76.26639,-11.69083],"type":"Point"}
+}

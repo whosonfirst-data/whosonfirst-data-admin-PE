@@ -1,0 +1,69 @@
+{
+  "id": 1276570793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44499,-14.08861,-71.44499,-14.08861",
+    "geom:latitude":-14.08861,
+    "geom:longitude":-71.44499,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80204.0",
+    "gn:asciiname":"Chilcane",
+    "gn:country_code":"PE",
+    "gn:dem":3448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943933,
+    "gn:latitude":-14.08861,
+    "gn:longitude":-71.44499,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chilcane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421192879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943933
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ad15e23a973c1b8c78e9c31352e89f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192879,
+            "locality_id":1276570793,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1276570793,
+    "wof:lastmodified":1536958039,
+    "wof:name":"Chilcane",
+    "wof:parent_id":421192879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44499,
+    -14.08861,
+    -71.44499,
+    -14.08861
+],
+  "geometry": {"coordinates":[-71.44499,-14.08861],"type":"Point"}
+}

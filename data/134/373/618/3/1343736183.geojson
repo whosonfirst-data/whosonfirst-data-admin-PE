@@ -1,0 +1,73 @@
+{
+  "id": 1343736183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.91035,-15.04917,-69.91035,-15.04917",
+    "geom:latitude":-15.04917,
+    "geom:longitude":-69.91035,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2110.0",
+    "gn:admin3_code":"211003.0",
+    "gn:asciiname":"Mayapunco",
+    "gn:country_code":"PE",
+    "gn:dem":3869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935127,
+    "gn:latitude":-15.04917,
+    "gn:longitude":-69.91035,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mayapunco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayapunco Hacienda",
+        "Mayapunco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935127
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"54a99c0edb53710abeab29f0ab6be70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693921,
+            "locality_id":1343736183,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343736183,
+    "wof:lastmodified":1537676755,
+    "wof:name":"Mayapunco",
+    "wof:parent_id":1108693921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.91035,
+    -15.04917,
+    -69.91035,
+    -15.04917
+],
+  "geometry": {"coordinates":[-69.91034999999999,-15.04917],"type":"Point"}
+}

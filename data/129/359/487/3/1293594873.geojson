@@ -1,0 +1,68 @@
+{
+  "id": 1293594873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.35494,-7.19269,-78.35494,-7.19269",
+    "geom:latitude":-7.19269,
+    "geom:longitude":-78.35494,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Bellavista",
+    "gn:country_code":"PE",
+    "gn:dem":2862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699362,
+    "gn:latitude":-7.19269,
+    "gn:longitude":-78.35494,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Bellavista",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421172423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699362
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8535bddcdd474d3a7f3875dd5d1d3cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172423,
+            "locality_id":1293594873,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1293594873,
+    "wof:lastmodified":1536630676,
+    "wof:name":"Bellavista",
+    "wof:parent_id":421172423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.35494,
+    -7.19269,
+    -78.35494,
+    -7.19269
+],
+  "geometry": {"coordinates":[-78.35494,-7.19269],"type":"Point"}
+}

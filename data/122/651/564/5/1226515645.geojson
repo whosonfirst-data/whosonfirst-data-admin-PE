@@ -1,0 +1,69 @@
+{
+  "id": 1226515645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76569,-6.2404,-79.76569,-6.2404",
+    "geom:latitude":-6.2404,
+    "geom:longitude":-79.76569,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140307.0",
+    "gn:asciiname":"El Barrosa",
+    "gn:country_code":"PE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697423,
+    "gn:latitude":-6.2404,
+    "gn:longitude":-79.76569,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"El Barrosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697423
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8e8e3d0786f06cf3f4975a6778200072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1226515645,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1226515645,
+    "wof:lastmodified":1537039837,
+    "wof:name":"El Barrosa",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76569,
+    -6.2404,
+    -79.76569,
+    -6.2404
+],
+  "geometry": {"coordinates":[-79.76569000000001,-6.2404],"type":"Point"}
+}

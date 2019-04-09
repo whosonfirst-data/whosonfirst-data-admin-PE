@@ -1,0 +1,63 @@
+{
+  "id": 1209627825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19101,-10.37976,-77.19101,-10.37976",
+    "geom:latitude":-10.37976,
+    "geom:longitude":-77.19101,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21403.0",
+    "gn:asciiname":"Conchoc",
+    "gn:country_code":"PE",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664157,
+    "gn:latitude":-10.37976,
+    "gn:longitude":-77.19101,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Conchoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664157
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3711b996ee018416357c4fe05382eb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209627825
+        }
+    ],
+    "wof:id":1209627825,
+    "wof:lastmodified":1536281294,
+    "wof:name":"Conchoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19100999999998,
+    -10.37976,
+    -77.19100999999998,
+    -10.37976
+],
+  "geometry": {"coordinates":[-77.19100999999998,-10.37976],"type":"Point"}
+}

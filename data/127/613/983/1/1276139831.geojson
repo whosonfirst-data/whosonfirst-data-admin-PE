@@ -1,0 +1,74 @@
+{
+  "id": 1276139831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01667,-8.95,-77.01667,-8.95",
+    "geom:latitude":-8.95,
+    "geom:longitude":-77.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100404.0",
+    "gn:asciiname":"Acobamba",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699872,
+    "gn:latitude":-8.95,
+    "gn:longitude":-77.01667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Acobamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acobamba Hacienda",
+        "Acobamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699872
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ad848f6644d60d7b4817dad9f8ced005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693925,
+            "locality_id":1276139831,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276139831,
+    "wof:lastmodified":1537676647,
+    "wof:name":"Acobamba",
+    "wof:parent_id":1108693925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01666999999998,
+    -8.95,
+    -77.01666999999998,
+    -8.95
+],
+  "geometry": {"coordinates":[-77.01666999999998,-8.95],"type":"Point"}
+}

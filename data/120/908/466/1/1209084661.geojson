@@ -1,0 +1,63 @@
+{
+  "id": 1209084661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51291,-10.09039,-76.51291,-10.09039",
+    "geom:latitude":-10.09039,
+    "geom:longitude":-76.51291,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"San Francisco de Llamapashillon",
+    "gn:country_code":"PE",
+    "gn:dem":4136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929679,
+    "gn:latitude":-10.09039,
+    "gn:longitude":-76.51291,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Francisco de Llamapashillon",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929679
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b780747ffdef7fab7c3a9e695fa05c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209084661
+        }
+    ],
+    "wof:id":1209084661,
+    "wof:lastmodified":1536298226,
+    "wof:name":"San Francisco de Llamapashillon",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51290999999998,
+    -10.09039,
+    -76.51290999999998,
+    -10.09039
+],
+  "geometry": {"coordinates":[-76.51290999999998,-10.09039],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209501951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.57873,-11.31818,-74.57873,-11.31818",
+    "geom:latitude":-11.31818,
+    "geom:longitude":-74.57873,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120604.0",
+    "gn:asciiname":"San Jose de Pauriali",
+    "gn:country_code":"PE",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302973,
+    "gn:latitude":-11.31818,
+    "gn:longitude":-74.57873,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"San Jos\u00e9 de Pauriali",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302973
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"487e7116b1be90c8196d5f4d97c8940b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209501951
+        }
+    ],
+    "wof:id":1209501951,
+    "wof:lastmodified":1536285154,
+    "wof:name":"San Jose de Pauriali",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57873000000002,
+    -11.31818,
+    -74.57873000000002,
+    -11.31818
+],
+  "geometry": {"coordinates":[-74.57873000000002,-11.31818],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209318067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54279,-6.30138,-77.54279,-6.30138",
+    "geom:latitude":-6.30138,
+    "geom:longitude":-77.54279,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10607.0",
+    "gn:asciiname":"Chiscabrava",
+    "gn:country_code":"PE",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383632,
+    "gn:latitude":-6.30138,
+    "gn:longitude":-77.54279,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chiscabrava",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383632
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ee2328b69844d3493ad01ebdd4e3263",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209318067
+        }
+    ],
+    "wof:id":1209318067,
+    "wof:lastmodified":1536290794,
+    "wof:name":"Chiscabrava",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54279,
+    -6.30138,
+    -77.54279,
+    -6.30138
+],
+  "geometry": {"coordinates":[-77.54279,-6.30138],"type":"Point"}
+}

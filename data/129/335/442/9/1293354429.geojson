@@ -1,0 +1,68 @@
+{
+  "id": 1293354429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41258,-16.86233,-70.41258,-16.86233",
+    "geom:latitude":-16.86233,
+    "geom:longitude":-70.41258,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Catapatja",
+    "gn:country_code":"PE",
+    "gn:dem":4582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945210,
+    "gn:latitude":-16.86233,
+    "gn:longitude":-70.41258,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Catapatja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945210
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"915295799fb56d79f791dd8276611de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1293354429,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1293354429,
+    "wof:lastmodified":1536978416,
+    "wof:name":"Catapatja",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41258,
+    -16.86233,
+    -70.41258,
+    -16.86233
+],
+  "geometry": {"coordinates":[-70.41258000000001,-16.86233],"type":"Point"}
+}

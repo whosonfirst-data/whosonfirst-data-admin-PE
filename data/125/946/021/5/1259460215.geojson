@@ -1,0 +1,72 @@
+{
+  "id": 1259460215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85211,-13.13668,-75.85211,-13.13668",
+    "geom:latitude":-13.13668,
+    "geom:longitude":-75.85211,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Chupapata",
+    "gn:country_code":"PE",
+    "gn:dem":3160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866620,
+    "gn:latitude":-13.13668,
+    "gn:longitude":-75.85211,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chupapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chupapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866620
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"474e34904fa4c4ca8c69b293ac8464f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1259460215,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259460215,
+    "wof:lastmodified":1537676943,
+    "wof:name":"Chupapata",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85211,
+    -13.13668,
+    -75.85211,
+    -13.13668
+],
+  "geometry": {"coordinates":[-75.85211,-13.13668],"type":"Point"}
+}

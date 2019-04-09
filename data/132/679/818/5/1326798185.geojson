@@ -1,0 +1,69 @@
+{
+  "id": 1326798185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.07446,-10.16443,-74.07446,-10.16443",
+    "geom:latitude":-10.16443,
+    "geom:longitude":-74.07446,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250203.0",
+    "gn:asciiname":"Floresta",
+    "gn:country_code":"PE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940915,
+    "gn:latitude":-10.16443,
+    "gn:longitude":-74.07446,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Floresta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940915
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f7b8a58c9411203927269d166c8ccb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1326798185,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1326798185,
+    "wof:lastmodified":1537094715,
+    "wof:name":"Floresta",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.07446,
+    -10.16443,
+    -74.07446,
+    -10.16443
+],
+  "geometry": {"coordinates":[-74.07446,-10.16443],"type":"Point"}
+}

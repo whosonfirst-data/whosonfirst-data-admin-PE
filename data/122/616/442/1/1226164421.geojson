@@ -1,0 +1,74 @@
+{
+  "id": 1226164421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.27009,-11.46009,-69.27009,-11.46009",
+    "geom:latitude":-11.46009,
+    "geom:longitude":-69.27009,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"PE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904899,
+    "gn:latitude":-11.46009,
+    "gn:longitude":-69.27009,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:spa_x_variant":[
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904899
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ad7b20b913069300c0961be90ab2ebe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1226164421,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1226164421,
+    "wof:lastmodified":1537676662,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.27009,
+    -11.46009,
+    -69.27009,
+    -11.46009
+],
+  "geometry": {"coordinates":[-69.27009,-11.46009],"type":"Point"}
+}

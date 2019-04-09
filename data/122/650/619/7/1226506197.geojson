@@ -1,0 +1,69 @@
+{
+  "id": 1226506197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0425,-5.24694,-77.0425,-5.24694",
+    "geom:latitude":-5.24694,
+    "geom:longitude":-77.0425,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1607.0",
+    "gn:admin3_code":"160702.0",
+    "gn:asciiname":"Cahuapanas",
+    "gn:country_code":"PE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389467,
+    "gn:latitude":-5.24694,
+    "gn:longitude":-77.0425,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cahuapanas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389467
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5a799b8df5e92ca963d68bd5711be7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":1226506197,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1226506197,
+    "wof:lastmodified":1537052906,
+    "wof:name":"Cahuapanas",
+    "wof:parent_id":1108694051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0425,
+    -5.24694,
+    -77.0425,
+    -5.24694
+],
+  "geometry": {"coordinates":[-77.0425,-5.24694],"type":"Point"}
+}

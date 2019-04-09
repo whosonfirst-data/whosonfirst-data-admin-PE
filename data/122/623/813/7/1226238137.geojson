@@ -1,0 +1,68 @@
+{
+  "id": 1226238137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76861,-13.69972,-74.76861,-13.69972",
+    "geom:latitude":-13.69972,
+    "geom:longitude":-74.76861,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Patarecanche",
+    "gn:country_code":"PE",
+    "gn:dem":4256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365334,
+    "gn:latitude":-13.69972,
+    "gn:longitude":-74.76861,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Patarecanche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365334
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"29577f4a18ae9aae4c58ec4760273ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1226238137,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226238137,
+    "wof:lastmodified":1536945063,
+    "wof:name":"Patarecanche",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76861,
+    -13.69972,
+    -74.76861,
+    -13.69972
+],
+  "geometry": {"coordinates":[-74.76861,-13.69972],"type":"Point"}
+}

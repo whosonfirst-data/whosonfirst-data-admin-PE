@@ -1,0 +1,63 @@
+{
+  "id": 1209378935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21872,-16.8218,-69.21872,-16.8218",
+    "geom:latitude":-16.8218,
+    "geom:longitude":-69.21872,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210404.0",
+    "gn:asciiname":"Iscahuerahuarani",
+    "gn:country_code":"PE",
+    "gn:dem":3937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310275,
+    "gn:latitude":-16.8218,
+    "gn:longitude":-69.21872,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Iscahuerahuarani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310275
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fca5657ead2f01654e1d19cbe7f896b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209378935
+        }
+    ],
+    "wof:id":1209378935,
+    "wof:lastmodified":1536288851,
+    "wof:name":"Iscahuerahuarani",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21871999999999,
+    -16.8218,
+    -69.21871999999999,
+    -16.8218
+],
+  "geometry": {"coordinates":[-69.21871999999999,-16.8218],"type":"Point"}
+}

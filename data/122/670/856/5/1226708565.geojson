@@ -1,0 +1,69 @@
+{
+  "id": 1226708565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58349,-16.75536,-69.58349,-16.75536",
+    "geom:latitude":-16.75536,
+    "geom:longitude":-69.58349,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210504.0",
+    "gn:asciiname":"Parcullo",
+    "gn:country_code":"PE",
+    "gn:dem":4162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932951,
+    "gn:latitude":-16.75536,
+    "gn:longitude":-69.58349,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Parcullo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932951
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"78ae18da14db4f3ba8824e80896f1e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1226708565,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226708565,
+    "wof:lastmodified":1536769813,
+    "wof:name":"Parcullo",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58349,
+    -16.75536,
+    -69.58349,
+    -16.75536
+],
+  "geometry": {"coordinates":[-69.58349,-16.75536],"type":"Point"}
+}

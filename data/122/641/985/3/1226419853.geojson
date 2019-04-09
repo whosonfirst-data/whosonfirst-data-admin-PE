@@ -1,0 +1,76 @@
+{
+  "id": 1226419853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69464,-14.07999,-75.69464,-14.07999",
+    "geom:latitude":-14.07999,
+    "geom:longitude":-75.69464,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:asciiname":"Santa Gertudiz",
+    "gn:country_code":"PE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929206,
+    "gn:latitude":-14.07999,
+    "gn:longitude":-75.69464,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Santa Gertudiz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Gertudiz"
+    ],
+    "name:und_x_variant":[
+        "Santa Gertrudiz Hacienda",
+        "Santa Gertrudis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929206
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f131494575125b0f104fc4b5ebca115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1226419853,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226419853,
+    "wof:lastmodified":1537676695,
+    "wof:name":"Santa Gertudiz",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69464,
+    -14.07999,
+    -75.69464,
+    -14.07999
+],
+  "geometry": {"coordinates":[-75.69464000000001,-14.07999],"type":"Point"}
+}

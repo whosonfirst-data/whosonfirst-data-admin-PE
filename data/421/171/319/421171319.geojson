@@ -1,0 +1,108 @@
+{
+  "id": 421171319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62622,-16.19913,-73.62622,-16.19913",
+    "geom:latitude":-16.19913,
+    "geom:longitude":-73.62622,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Ch'alla"
+    ],
+    "name:ces_x_preferred":[
+        "Chala"
+    ],
+    "name:deu_x_preferred":[
+        "Chala"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cala"
+    ],
+    "name:nld_x_preferred":[
+        "Chala"
+    ],
+    "name:que_x_preferred":[
+        "Chala"
+    ],
+    "name:spa_x_preferred":[
+        "Desierto costero del Per\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "Chaca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043b\u0430"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Chala"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3944779,
+    "qs:gn_pop":0,
+    "qs:name":"Chala",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266538,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418718,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":368,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944779,
+        "gp:id":418718,
+        "qs:id":266538,
+        "wd:id":"Q1059406"
+    },
+    "wof:country":"PE",
+    "wof:created":1459008889,
+    "wof:geomhash":"ebe8c6dfdb8c515ec845b7695b4ba369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":421171319,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421171319,
+    "wof:lastmodified":1527726498,
+    "wof:name":"Chala",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62622,
+    -16.19913,
+    -73.62622,
+    -16.19913
+],
+  "geometry": {"coordinates":[-73.62622,-16.19913],"type":"Point"}
+}

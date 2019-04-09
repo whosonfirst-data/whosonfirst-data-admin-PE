@@ -1,0 +1,63 @@
+{
+  "id": 1209101053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6208,-9.84198,-76.6208,-9.84198",
+    "geom:latitude":-9.84198,
+    "geom:longitude":-76.6208,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101101.0",
+    "gn:asciiname":"Huancayoc",
+    "gn:country_code":"PE",
+    "gn:dem":3410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666122,
+    "gn:latitude":-9.84198,
+    "gn:longitude":-76.6208,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huancayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666122
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"955b94557e8efd6686200fc559eb9ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101053
+        }
+    ],
+    "wof:id":1209101053,
+    "wof:lastmodified":1536297731,
+    "wof:name":"Huancayoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6208,
+    -9.84198,
+    -76.6208,
+    -9.84198
+],
+  "geometry": {"coordinates":[-76.6208,-9.84198],"type":"Point"}
+}

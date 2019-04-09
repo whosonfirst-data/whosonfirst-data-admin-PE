@@ -1,0 +1,74 @@
+{
+  "id": 1193124133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.96601,-11.6471,-74.96601,-11.6471",
+    "geom:latitude":-11.6471,
+    "geom:longitude":-74.96601,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120206.0",
+    "gn:asciiname":"Runatillo Pampa",
+    "gn:country_code":"PE",
+    "gn:dem":3697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930190,
+    "gn:latitude":-11.6471,
+    "gn:longitude":-74.96601,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Runatillo Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Runatullu Hacienda",
+        "Runatullo",
+        "Runatillo Pampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930190
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e42f2d58d96f00802d9c283e0b5cbb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694035,
+            "locality_id":1193124133,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1193124133,
+    "wof:lastmodified":1537676709,
+    "wof:name":"Runatillo Pampa",
+    "wof:parent_id":1108694035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.96601,
+    -11.6471,
+    -74.96601,
+    -11.6471
+],
+  "geometry": {"coordinates":[-74.96601,-11.6471],"type":"Point"}
+}

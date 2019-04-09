@@ -1,0 +1,69 @@
+{
+  "id": 1293778245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.90814,-12.86573,-74.90814,-12.86573",
+    "geom:latitude":-12.86573,
+    "geom:longitude":-74.90814,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90101.0",
+    "gn:asciiname":"Chacca",
+    "gn:country_code":"PE",
+    "gn:dem":4455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663062,
+    "gn:latitude":-12.86573,
+    "gn:longitude":-74.90814,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chacca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663062
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3d00887f38cc61c53013bc7b491bad3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1293778245,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293778245,
+    "wof:lastmodified":1536863650,
+    "wof:name":"Chacca",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.90814,
+    -12.86573,
+    -74.90814,
+    -12.86573
+],
+  "geometry": {"coordinates":[-74.90814,-12.86573],"type":"Point"}
+}

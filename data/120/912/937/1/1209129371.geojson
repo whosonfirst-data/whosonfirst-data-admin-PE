@@ -1,0 +1,63 @@
+{
+  "id": 1209129371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73274,-15.08743,-71.73274,-15.08743",
+    "geom:latitude":-15.08743,
+    "geom:longitude":-71.73274,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40505.0",
+    "gn:asciiname":"Rancho Pata",
+    "gn:country_code":"PE",
+    "gn:dem":4847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930554,
+    "gn:latitude":-15.08743,
+    "gn:longitude":-71.73274,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Rancho Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930554
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7f29b5098106dc0e20bfc8f111aded5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209129371
+        }
+    ],
+    "wof:id":1209129371,
+    "wof:lastmodified":1536296853,
+    "wof:name":"Rancho Pata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73274,
+    -15.08743,
+    -71.73274,
+    -15.08743
+],
+  "geometry": {"coordinates":[-71.73274000000001,-15.08743],"type":"Point"}
+}

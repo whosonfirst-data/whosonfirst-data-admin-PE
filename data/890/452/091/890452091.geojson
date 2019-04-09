@@ -1,0 +1,69 @@
+{
+  "id": 890452091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14519,-7.00807,-78.14519,-7.00807",
+    "geom:latitude":-7.00807,
+    "geom:longitude":-78.14519,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":100,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"La Monta\u00f1a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224857,
+        "gp:id":420323,
+        "qs:id":760110,
+        "wd:id":"Q6463955",
+        "wk:page":"La Monta\u00f1a"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052804,
+    "wof:geomhash":"a0f546bcc56cc3f54d590ea915badc36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":890452091,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":890452091,
+    "wof:lastmodified":1527734184,
+    "wof:name":"La Monta\u00f1a",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14519,
+    -7.00807,
+    -78.14519,
+    -7.00807
+],
+  "geometry": {"coordinates":[-78.14519,-7.00807],"type":"Point"}
+}

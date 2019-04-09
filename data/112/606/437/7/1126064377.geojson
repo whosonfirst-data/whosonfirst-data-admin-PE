@@ -1,0 +1,102 @@
+{
+  "id": 1126064377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16265,-12.07168,-77.16265,-12.07168",
+    "geom:latitude":-12.07168,
+    "geom:longitude":-77.16265,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-12.07168,
+    "gn:longitude":-77.16265,
+    "iso:country":"PE",
+    "lbl:latitude":-12.07168,
+    "lbl:longitude":-77.16265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Punta"
+    ],
+    "name:unk_x_variant":[
+        "La Punta"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3936902,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Punta",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Provincia Constitucional del Callao",
+    "qs_pg:photos":463,
+    "qs_pg:photos_1k":94,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":463,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165426,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":406926,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424919,
+    "woe:name_adm0":"Per\u00fa",
+    "woe:name_adm1":"Provincia Constitucional del Callao",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675817,
+        102191577,
+        85632521,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936902,
+        "gp:id":406926,
+        "qs:id":1165426,
+        "qs_pg:id":1165426,
+        "wd:id":"Q2685756",
+        "wk:page":"La Punta District"
+    },
+    "wof:country":"PE",
+    "wof:created":1497308628,
+    "wof:geomhash":"fcc86ec4a8e678b9f1234a7370948ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":-1,
+            "neighbourhood_id":1126064377,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":1126064377,
+    "wof:lastmodified":1534379398,
+    "wof:name":"La Punta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85765013
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16265,
+    -12.07168,
+    -77.16265,
+    -12.07168
+],
+  "geometry": {"coordinates":[-77.16265,-12.07168],"type":"Point"}
+}

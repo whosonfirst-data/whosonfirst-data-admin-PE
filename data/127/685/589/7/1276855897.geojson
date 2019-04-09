@@ -1,0 +1,69 @@
+{
+  "id": 1276855897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.17889,-13.27194,-72.17889,-13.27194",
+    "geom:latitude":-13.27194,
+    "geom:longitude":-72.17889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81301.0",
+    "gn:asciiname":"Yanahuara",
+    "gn:country_code":"PE",
+    "gn:dem":2963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6393685,
+    "gn:latitude":-13.27194,
+    "gn:longitude":-72.17889,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yanahuara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421183001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6393685
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e985e64094522e7e170d1ce65525c042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183001,
+            "locality_id":1276855897,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1276855897,
+    "wof:lastmodified":1537070195,
+    "wof:name":"Yanahuara",
+    "wof:parent_id":421183001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.17889,
+    -13.27194,
+    -72.17889,
+    -13.27194
+],
+  "geometry": {"coordinates":[-72.17889,-13.27194],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890435255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.25806,-17.31778,-70.25806,-17.31778",
+    "geom:latitude":-17.31778,
+    "geom:longitude":-70.25806,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":3176,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Quilahuani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930871,
+        "gp:id":419186,
+        "qs:id":151004,
+        "wd:id":"Q3824646",
+        "wk:page":"Quilahuani District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052060,
+    "wof:geomhash":"934ea79b243cfd79d433fd31105775eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":890435255,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":890435255,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Quilahuani",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:population":3176,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.25806,
+    -17.31778,
+    -70.25806,
+    -17.31778
+],
+  "geometry": {"coordinates":[-70.25806,-17.31778],"type":"Point"}
+}

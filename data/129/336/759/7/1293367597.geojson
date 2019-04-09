@@ -1,0 +1,75 @@
+{
+  "id": 1293367597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91011,-13.14869,-75.91011,-13.14869",
+    "geom:latitude":-13.14869,
+    "geom:longitude":-75.91011,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:asciiname":"Ajchi",
+    "gn:country_code":"PE",
+    "gn:dem":2861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948291,
+    "gn:latitude":-13.14869,
+    "gn:longitude":-75.91011,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ajchi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ajchi"
+    ],
+    "name:spa_x_variant":[
+        "Aichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948291
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7602f67ef0c97d4c35f4badcbde49156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1293367597,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293367597,
+    "wof:lastmodified":1537676872,
+    "wof:name":"Ajchi",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91011,
+    -13.14869,
+    -75.91011,
+    -13.14869
+],
+  "geometry": {"coordinates":[-75.91011,-13.14869],"type":"Point"}
+}

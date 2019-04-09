@@ -1,0 +1,62 @@
+{
+  "id": 1209515051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07583,-15.41722,-71.07583,-15.41722",
+    "geom:latitude":-15.41722,
+    "geom:longitude":-71.07583,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Vista Alegre",
+    "gn:country_code":"PE",
+    "gn:dem":4599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957008,
+    "gn:latitude":-15.41722,
+    "gn:longitude":-71.07583,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Vista Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957008
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1304530ab08ff34fb81f1db5c008b110",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209515051
+        }
+    ],
+    "wof:id":1209515051,
+    "wof:lastmodified":1536284760,
+    "wof:name":"Vista Alegre",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07583000000002,
+    -15.41722,
+    -71.07583000000002,
+    -15.41722
+],
+  "geometry": {"coordinates":[-71.07583000000002,-15.41722],"type":"Point"}
+}

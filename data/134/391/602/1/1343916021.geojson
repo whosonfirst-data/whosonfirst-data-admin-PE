@@ -1,0 +1,69 @@
+{
+  "id": 1343916021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36657,-17.40421,-70.36657,-17.40421",
+    "geom:latitude":-17.40421,
+    "geom:longitude":-70.36657,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230204.0",
+    "gn:asciiname":"Andabay",
+    "gn:country_code":"PE",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3952061,
+    "gn:latitude":-17.40421,
+    "gn:longitude":-70.36657,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Andabay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3952061
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"acade3868c55208d524aef904d19b66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1343916021,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1343916021,
+    "wof:lastmodified":1537081104,
+    "wof:name":"Andabay",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36657,
+    -17.40421,
+    -70.36657,
+    -17.40421
+],
+  "geometry": {"coordinates":[-70.36657,-17.40421],"type":"Point"}
+}

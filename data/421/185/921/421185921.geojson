@@ -1,0 +1,75 @@
+{
+  "id": 421185921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.384017,-9.427606,-78.384017,-9.427606",
+    "geom:latitude":-9.427606,
+    "geom:longitude":-78.384017,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Casma",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ancash",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1054331,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419170,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":419170,
+        "qs:id":1054331
+    },
+    "wof:country":"PE",
+    "wof:created":1459009458,
+    "wof:geomhash":"229749dc5b60c8775e0913c6a5781406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":421185921,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":421185921,
+    "wof:lastmodified":1500022656,
+    "wof:name":"Puerto Casma",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.384017,
+    -9.427606,
+    -78.384017,
+    -9.427606
+],
+  "geometry": {"coordinates":[-78.384017,-9.427606],"type":"Point"}
+}

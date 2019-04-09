@@ -1,0 +1,71 @@
+{
+  "id": 1243428353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05578,-13.96033,-69.05578,-13.96033",
+    "geom:latitude":-13.96033,
+    "geom:longitude":-69.05578,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Centro Azata",
+    "gn:country_code":"PE",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528701,
+    "gn:latitude":-13.96033,
+    "gn:longitude":-69.05578,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Centro Azata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Centro Azata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528701
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b2e275ed73080ee965d0cbd4f786e048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1243428353,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243428353,
+    "wof:lastmodified":1537676996,
+    "wof:name":"Centro Azata",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05578,
+    -13.96033,
+    -69.05578,
+    -13.96033
+],
+  "geometry": {"coordinates":[-69.05578,-13.96033],"type":"Point"}
+}

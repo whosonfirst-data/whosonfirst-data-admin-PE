@@ -1,0 +1,102 @@
+{
+  "id": 421197825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14139,-12.96304,-76.14139,-12.96304",
+    "geom:latitude":-12.96304,
+    "geom:longitude":-76.14139,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Lunahuan\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Lunahuan\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Lunahuan\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Lunahuan\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Lunahuan\u00e1"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3935748,
+    "qs:gn_pop":0,
+    "qs:name":"Lunahuan\u00e1",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":228,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":228,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":151059,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418986,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":345,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935748,
+        "gp:id":418986,
+        "qs:id":151059,
+        "wd:id":"Q1877336",
+        "wk:page":"Lunahuan\u00e1"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009926,
+    "wof:geomhash":"bf70a2981b8e98acbc595e7ab5629fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421197825,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421197825,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421197825,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Lunahuan\u00e1",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14139,
+    -12.96304,
+    -76.14139,
+    -12.96304
+],
+  "geometry": {"coordinates":[-76.14139,-12.96304],"type":"Point"}
+}

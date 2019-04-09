@@ -1,0 +1,68 @@
+{
+  "id": 1193141617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.36951,-12.66173,-74.36951,-12.66173",
+    "geom:latitude":-12.66173,
+    "geom:longitude":-74.36951,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Ccajena",
+    "gn:country_code":"PE",
+    "gn:dem":3479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651225,
+    "gn:latitude":-12.66173,
+    "gn:longitude":-74.36951,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Ccajena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651225
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"00e2668171271bda42452994c7d35b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1193141617,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1193141617,
+    "wof:lastmodified":1536365547,
+    "wof:name":"Ccajena",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.36950999999998,
+    -12.66173,
+    -74.36950999999998,
+    -12.66173
+],
+  "geometry": {"coordinates":[-74.36950999999998,-12.66173],"type":"Point"}
+}

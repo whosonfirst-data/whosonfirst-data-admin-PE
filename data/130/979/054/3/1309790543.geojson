@@ -1,0 +1,69 @@
+{
+  "id": 1309790543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5975,-14.68321,-71.5975,-14.68321",
+    "geom:latitude":-14.68321,
+    "geom:longitude":-71.5975,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Legutalle",
+    "gn:country_code":"PE",
+    "gn:dem":3985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956895,
+    "gn:latitude":-14.68321,
+    "gn:longitude":-71.5975,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Legutalle",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956895
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2fc644bc106c89e4b4449617bd56feba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1309790543,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1309790543,
+    "wof:lastmodified":1536953187,
+    "wof:name":"Legutalle",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5975,
+    -14.68321,
+    -71.5975,
+    -14.68321
+],
+  "geometry": {"coordinates":[-71.5975,-14.68321],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1327089737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6,-3.63333,-80.6,-3.63333",
+    "geom:latitude":-3.63333,
+    "geom:longitude":-80.6,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Boca del Charan",
+    "gn:country_code":"PE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699302,
+    "gn:latitude":-3.63333,
+    "gn:longitude":-80.6,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Boca del Char\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699302
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dfe51e1f4d145f5bd4b594b781a7bf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1327089737,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327089737,
+    "wof:lastmodified":1536677866,
+    "wof:name":"Boca del Charan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6,
+    -3.63333,
+    -80.6,
+    -3.63333
+],
+  "geometry": {"coordinates":[-80.59999999999999,-3.63333],"type":"Point"}
+}

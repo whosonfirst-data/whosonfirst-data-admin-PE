@@ -1,0 +1,69 @@
+{
+  "id": 1327025177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80367,-14.55969,-71.80367,-14.55969",
+    "geom:latitude":-14.55969,
+    "geom:longitude":-71.80367,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80708.0",
+    "gn:asciiname":"Yachuajopampa",
+    "gn:country_code":"PE",
+    "gn:dem":4247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956344,
+    "gn:latitude":-14.55969,
+    "gn:longitude":-71.80367,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Yachuajopampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956344
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a65b5767701c5258d82d95f467011d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1327025177,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1327025177,
+    "wof:lastmodified":1536771468,
+    "wof:name":"Yachuajopampa",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80367,
+    -14.55969,
+    -71.80367,
+    -14.55969
+],
+  "geometry": {"coordinates":[-71.80367,-14.55969],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243531857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67435,-13.15199,-75.67435,-13.15199",
+    "geom:latitude":-13.15199,
+    "geom:longitude":-75.67435,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:asciiname":"Tantas",
+    "gn:country_code":"PE",
+    "gn:dem":3529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927835,
+    "gn:latitude":-13.15199,
+    "gn:longitude":-75.67435,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Tantas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927835
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a53ee54d7b03077395e5b3fc538c8e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1243531857,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1243531857,
+    "wof:lastmodified":1536682425,
+    "wof:name":"Tantas",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67435,
+    -13.15199,
+    -75.67435,
+    -13.15199
+],
+  "geometry": {"coordinates":[-75.67435,-13.15199],"type":"Point"}
+}

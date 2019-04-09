@@ -1,0 +1,69 @@
+{
+  "id": 1242974319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.30028,-5.8175,-78.30028,-5.8175",
+    "geom:latitude":-5.8175,
+    "geom:longitude":-78.30028,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Quebrada Honda",
+    "gn:country_code":"PE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812019,
+    "gn:latitude":-5.8175,
+    "gn:longitude":-78.30028,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quebrada Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812019
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"23072d0534d64534c34f9ec14131f38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1242974319,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1242974319,
+    "wof:lastmodified":1536988358,
+    "wof:name":"Quebrada Honda",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.30028,
+    -5.8175,
+    -78.30028,
+    -5.8175
+],
+  "geometry": {"coordinates":[-78.30028,-5.8175],"type":"Point"}
+}

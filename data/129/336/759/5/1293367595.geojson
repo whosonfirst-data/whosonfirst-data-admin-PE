@@ -1,0 +1,75 @@
+{
+  "id": 1293367595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70407,-14.0901,-75.70407,-14.0901",
+    "geom:latitude":-14.0901,
+    "geom:longitude":-75.70407,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110103.0",
+    "gn:asciiname":"La Joya",
+    "gn:country_code":"PE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958915,
+    "gn:latitude":-14.0901,
+    "gn:longitude":-75.70407,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Joya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Joya"
+    ],
+    "name:spa_x_variant":[
+        "Fundo La Joya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958915
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"257f467bb6c82f696d0cacef6193d687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1293367595,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293367595,
+    "wof:lastmodified":1537676879,
+    "wof:name":"La Joya",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70407,
+    -14.0901,
+    -75.70407,
+    -14.0901
+],
+  "geometry": {"coordinates":[-75.70407,-14.0901],"type":"Point"}
+}

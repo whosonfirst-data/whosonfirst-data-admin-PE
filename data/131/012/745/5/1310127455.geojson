@@ -1,0 +1,69 @@
+{
+  "id": 1310127455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21139,-7.00278,-79.21139,-7.00278",
+    "geom:latitude":-7.00278,
+    "geom:longitude":-79.21139,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61102.0",
+    "gn:asciiname":"Fugonique",
+    "gn:country_code":"PE",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742788,
+    "gn:latitude":-7.00278,
+    "gn:longitude":-79.21139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Fugonique",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742788
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ffab2d0f660096c0cba716a45320b8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693985,
+            "locality_id":1310127455,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1310127455,
+    "wof:lastmodified":1536964698,
+    "wof:name":"Fugonique",
+    "wof:parent_id":1108693985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21139000000002,
+    -7.00278,
+    -79.21139000000002,
+    -7.00278
+],
+  "geometry": {"coordinates":[-79.21139000000002,-7.00278],"type":"Point"}
+}

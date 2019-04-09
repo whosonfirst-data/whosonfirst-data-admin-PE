@@ -1,0 +1,75 @@
+{
+  "id": 1310404249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84868,-14.56054,-74.84868,-14.56054",
+    "geom:latitude":-14.56054,
+    "geom:longitude":-74.84868,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50613.0",
+    "gn:asciiname":"Lucumayo",
+    "gn:country_code":"PE",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935806,
+    "gn:latitude":-14.56054,
+    "gn:longitude":-74.84868,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Lucumayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lucumayo"
+    ],
+    "name:spa_x_variant":[
+        "Lucmallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935806
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"137120bca87cab7ef4de096b0caf4088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1310404249,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310404249,
+    "wof:lastmodified":1537676762,
+    "wof:name":"Lucumayo",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84868,
+    -14.56054,
+    -74.84868,
+    -14.56054
+],
+  "geometry": {"coordinates":[-74.84868,-14.56054],"type":"Point"}
+}

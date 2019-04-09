@@ -1,0 +1,69 @@
+{
+  "id": 1309696145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34389,-13.54167,-75.34389,-13.54167",
+    "geom:latitude":-13.54167,
+    "geom:longitude":-75.34389,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90609.0",
+    "gn:asciiname":"Puca Rumi",
+    "gn:country_code":"PE",
+    "gn:dem":2996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6368692,
+    "gn:latitude":-13.54167,
+    "gn:longitude":-75.34389,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puca Rumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368692
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"643655bf2562f3c115d3f463cc9423cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1309696145,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1309696145,
+    "wof:lastmodified":1537086058,
+    "wof:name":"Puca Rumi",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34389,
+    -13.54167,
+    -75.34389,
+    -13.54167
+],
+  "geometry": {"coordinates":[-75.34389,-13.54167],"type":"Point"}
+}

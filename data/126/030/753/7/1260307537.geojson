@@ -1,0 +1,72 @@
+{
+  "id": 1260307537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00401,-7.38005,-79.00401,-7.38005",
+    "geom:latitude":-7.38005,
+    "geom:longitude":-79.00401,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60503.0",
+    "gn:asciiname":"Lluladon",
+    "gn:country_code":"PE",
+    "gn:dem":2486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007474,
+    "gn:latitude":-7.38005,
+    "gn:longitude":-79.00401,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llulad\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llulad\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108694039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007474
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e77311ec3c16a0dc3e76bdfe9fdcffb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694039,
+            "locality_id":1260307537,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1260307537,
+    "wof:lastmodified":1537676958,
+    "wof:name":"Lluladon",
+    "wof:parent_id":1108694039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00401,
+    -7.38005,
+    -79.00401,
+    -7.38005
+],
+  "geometry": {"coordinates":[-79.00400999999999,-7.38005],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421188581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.84284,-12.24291,-76.84284,-12.24291",
+    "geom:latitude":-12.24291,
+    "geom:longitude":-76.84284,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Fundo San Luis"
+    ],
+    "name:spa_x_variant":[
+        "San Luis"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929442,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Luisa",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1103295,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":22723453,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929442,
+        "gp:id":22723453,
+        "qs:id":1103295
+    },
+    "wof:country":"PE",
+    "wof:created":1459009570,
+    "wof:geomhash":"adc1e3e802415d0c2b574dd17b25af7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421188581,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421188581,
+    "wof:lastmodified":1501269293,
+    "wof:name":"Santa Luisa",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.84284,
+    -12.24291,
+    -76.84284,
+    -12.24291
+],
+  "geometry": {"coordinates":[-76.84284,-12.24291],"type":"Point"}
+}

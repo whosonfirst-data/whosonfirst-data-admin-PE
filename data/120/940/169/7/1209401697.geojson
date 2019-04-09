@@ -1,0 +1,63 @@
+{
+  "id": 1209401697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94255,-11.55067,-75.94255,-11.55067",
+    "geom:latitude":-11.55067,
+    "geom:longitude":-75.94255,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120808.0",
+    "gn:asciiname":"Santa Rosa de Saco",
+    "gn:country_code":"PE",
+    "gn:dem":3785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671381,
+    "gn:latitude":-11.55067,
+    "gn:longitude":-75.94255,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Santa Rosa de Saco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671381
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8c0dd3e18c15f01843f4f436ef2fe532",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209401697
+        }
+    ],
+    "wof:id":1209401697,
+    "wof:lastmodified":1536288126,
+    "wof:name":"Santa Rosa de Saco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94255,
+    -11.55067,
+    -75.94255,
+    -11.55067
+],
+  "geometry": {"coordinates":[-75.94255,-11.55067],"type":"Point"}
+}

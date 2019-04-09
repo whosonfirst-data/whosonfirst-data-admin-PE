@@ -1,0 +1,68 @@
+{
+  "id": 1209302299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7,-14.06667,-75.7,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":-75.7,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110106.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929197,
+    "gn:latitude":-14.06667,
+    "gn:longitude":-75.7,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Isabel Hacienda",
+        "Santa Isabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929197
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"63dac65298af5894ee63a7261c1bc5fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209302299
+        }
+    ],
+    "wof:id":1209302299,
+    "wof:lastmodified":1537676694,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7,
+    -14.06667,
+    -75.7,
+    -14.06667
+],
+  "geometry": {"coordinates":[-75.7,-14.06667],"type":"Point"}
+}

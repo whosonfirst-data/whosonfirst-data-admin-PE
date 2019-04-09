@@ -1,0 +1,69 @@
+{
+  "id": 1193149561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07278,-8.92333,-78.07278,-8.92333",
+    "geom:latitude":-8.92333,
+    "geom:longitude":-78.07278,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21802.0",
+    "gn:asciiname":"Monjas",
+    "gn:country_code":"PE",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6368153,
+    "gn:latitude":-8.92333,
+    "gn:longitude":-78.07278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Monjas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368153
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"01b9b322135abfd5c907712beac9807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1193149561,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1193149561,
+    "wof:lastmodified":1536379734,
+    "wof:name":"Monjas",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07278000000002,
+    -8.92333,
+    -78.07278000000002,
+    -8.92333
+],
+  "geometry": {"coordinates":[-78.07278000000002,-8.92333],"type":"Point"}
+}

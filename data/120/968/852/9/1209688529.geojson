@@ -1,0 +1,63 @@
+{
+  "id": 1209688529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77917,-11.37333,-76.77917,-11.37333",
+    "geom:latitude":-11.37333,
+    "geom:longitude":-76.77917,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150603.0",
+    "gn:asciiname":"Chaupis",
+    "gn:country_code":"PE",
+    "gn:dem":2868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968341,
+    "gn:latitude":-11.37333,
+    "gn:longitude":-76.77917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chaupis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968341
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df0fb743b053cbe4ef282f25b91783b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209688529
+        }
+    ],
+    "wof:id":1209688529,
+    "wof:lastmodified":1536279326,
+    "wof:name":"Chaupis",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77917,
+    -11.37333,
+    -76.77917,
+    -11.37333
+],
+  "geometry": {"coordinates":[-76.77916999999999,-11.37333],"type":"Point"}
+}

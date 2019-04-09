@@ -1,0 +1,71 @@
+{
+  "id": 1292995951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96254,-12.4508,-73.96254,-12.4508",
+    "geom:latitude":-12.4508,
+    "geom:longitude":-73.96254,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"PE",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8700827,
+    "gn:latitude":-12.4508,
+    "gn:longitude":-73.96254,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"San Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ant\u00f3nio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8700827
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7b40591a55294f10d87f94bb1caf738f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1292995951,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1292995951,
+    "wof:lastmodified":1537676919,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96254,
+    -12.4508,
+    -73.96254,
+    -12.4508
+],
+  "geometry": {"coordinates":[-73.96254,-12.4508],"type":"Point"}
+}

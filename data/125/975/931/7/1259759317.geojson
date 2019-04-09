@@ -1,0 +1,71 @@
+{
+  "id": 1259759317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37617,-11.35675,-69.37617,-11.35675",
+    "geom:latitude":-11.35675,
+    "geom:longitude":-69.37617,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Cetical",
+    "gn:country_code":"PE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511696,
+    "gn:latitude":-11.35675,
+    "gn:longitude":-69.37617,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Cetical",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cetical"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511696
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cb664e6a4b7f6430cfd685fd62cdd85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1259759317,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1259759317,
+    "wof:lastmodified":1537676980,
+    "wof:name":"Cetical",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37617,
+    -11.35675,
+    -69.37617,
+    -11.35675
+],
+  "geometry": {"coordinates":[-69.37617,-11.35675],"type":"Point"}
+}

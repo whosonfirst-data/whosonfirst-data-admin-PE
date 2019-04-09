@@ -1,0 +1,72 @@
+{
+  "id": 1327022949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81891,-15.25756,-73.81891,-15.25756",
+    "geom:latitude":-15.25756,
+    "geom:longitude":-73.81891,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Chusi",
+    "gn:country_code":"PE",
+    "gn:dem":3481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943078,
+    "gn:latitude":-15.25756,
+    "gn:longitude":-73.81891,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chusi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chusipampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943078
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5222987e406f0a6aac5e96d38c504021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1327022949,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327022949,
+    "wof:lastmodified":1537676827,
+    "wof:name":"Chusi",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81891,
+    -15.25756,
+    -73.81891,
+    -15.25756
+],
+  "geometry": {"coordinates":[-73.81891,-15.25756],"type":"Point"}
+}

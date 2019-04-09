@@ -1,0 +1,75 @@
+{
+  "id": 1310565289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.40701,-15.47934,-69.40701,-15.47934",
+    "geom:latitude":-15.47934,
+    "geom:longitude":-69.40701,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210902.0",
+    "gn:asciiname":"Caynajoni",
+    "gn:country_code":"PE",
+    "gn:dem":3827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945132,
+    "gn:latitude":-15.47934,
+    "gn:longitude":-69.40701,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Cay\u00f1ajoni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cay\u00f1ajoni"
+    ],
+    "name:spa_x_variant":[
+        "Cay\u00f1ajune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945132
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a480f351215085a6cd409541abc2f23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1310565289,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1310565289,
+    "wof:lastmodified":1537676845,
+    "wof:name":"Caynajoni",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.40701,
+    -15.47934,
+    -69.40701,
+    -15.47934
+],
+  "geometry": {"coordinates":[-69.40701,-15.47934],"type":"Point"}
+}

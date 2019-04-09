@@ -1,0 +1,69 @@
+{
+  "id": 1260154749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.05998,-15.11082,-70.05998,-15.11082",
+    "geom:latitude":-15.11082,
+    "geom:longitude":-70.05998,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210203.0",
+    "gn:asciiname":"Rucano",
+    "gn:country_code":"PE",
+    "gn:dem":3831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930238,
+    "gn:latitude":-15.11082,
+    "gn:longitude":-70.05998,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Rucano",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930238
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"129e3bfb3f2301c9ee5696528ac430f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1260154749,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260154749,
+    "wof:lastmodified":1536886972,
+    "wof:name":"Rucano",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.05998000000001,
+    -15.11082,
+    -70.05998000000001,
+    -15.11082
+],
+  "geometry": {"coordinates":[-70.05998000000001,-15.11082],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310503763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21954,-10.11282,-77.21954,-10.11282",
+    "geom:latitude":-10.11282,
+    "geom:longitude":-77.21954,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21702.0",
+    "gn:asciiname":"Ultosh",
+    "gn:country_code":"PE",
+    "gn:dem":4267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664553,
+    "gn:latitude":-10.11282,
+    "gn:longitude":-77.21954,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ultosh",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664553
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3073b2b01ecc6b0bf17a274186d0272c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202211,
+            "locality_id":1310503763,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1310503763,
+    "wof:lastmodified":1536920054,
+    "wof:name":"Ultosh",
+    "wof:parent_id":421202211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21954000000002,
+    -10.11282,
+    -77.21954000000002,
+    -10.11282
+],
+  "geometry": {"coordinates":[-77.21954000000002,-10.11282],"type":"Point"}
+}

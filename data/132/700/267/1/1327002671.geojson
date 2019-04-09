@@ -1,0 +1,77 @@
+{
+  "id": 1327002671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23333,-11.65,-76.23333,-11.65",
+    "geom:latitude":-11.65,
+    "geom:longitude":-76.23333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150705.0",
+    "gn:asciiname":"Casapalca",
+    "gn:country_code":"PE",
+    "gn:dem":4217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945309,
+    "gn:latitude":-11.65,
+    "gn:longitude":-76.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Casapalca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945309
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf0bc360e85310051d0a897330fe1150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1327002671,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1327002671,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327002671,
+    "wof:lastmodified":1536803406,
+    "wof:name":"Casapalca",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23333000000002,
+    -11.65,
+    -76.23333000000002,
+    -11.65
+],
+  "geometry": {"coordinates":[-76.23333000000002,-11.65],"type":"Point"}
+}

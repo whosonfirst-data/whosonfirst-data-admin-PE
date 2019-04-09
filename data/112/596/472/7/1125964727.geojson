@@ -1,0 +1,78 @@
+{
+  "id": 1125964727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21714,-17.4979,-70.21714,-17.4979",
+    "geom:latitude":-17.4979,
+    "geom:longitude":-70.21714,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1932,
+    "gn:population":1932,
+    "iso:country":"PE",
+    "lbl:latitude":-17.4979,
+    "lbl:longitude":-70.21714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3943699,
+    "qs_pg:gn_pop":1932,
+    "qs_pg:name":"Chipispaya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":151159,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943699,
+        "qs_pg:id":151159
+    },
+    "wof:country":"PE",
+    "wof:created":1497297929,
+    "wof:geomhash":"a0144bf5337aa14c9e6be91ee1277639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694033,
+            "locality_id":1125964727,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1125964727,
+    "wof:lastmodified":1509403564,
+    "wof:name":"Chipispaya",
+    "wof:parent_id":1108694033,
+    "wof:placetype":"locality",
+    "wof:population":1932,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21714,
+    -17.4979,
+    -70.21714,
+    -17.4979
+],
+  "geometry": {"coordinates":[-70.21714,-17.4979],"type":"Point"}
+}

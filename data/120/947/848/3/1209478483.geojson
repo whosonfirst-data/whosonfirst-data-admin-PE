@@ -1,0 +1,63 @@
+{
+  "id": 1209478483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,-11.93333,-71.31667,-11.93333",
+    "geom:latitude":-11.93333,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170201.0",
+    "gn:asciiname":"Colon",
+    "gn:country_code":"PE",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949851,
+    "gn:latitude":-11.93333,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Col\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949851
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8d33f03fc00d712f11e05961f4f440c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209478483
+        }
+    ],
+    "wof:id":1209478483,
+    "wof:lastmodified":1536285859,
+    "wof:name":"Colon",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    -11.93333,
+    -71.31667,
+    -11.93333
+],
+  "geometry": {"coordinates":[-71.31667,-11.93333],"type":"Point"}
+}

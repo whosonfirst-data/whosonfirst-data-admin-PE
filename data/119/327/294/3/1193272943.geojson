@@ -1,0 +1,69 @@
+{
+  "id": 1193272943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68776,-7.02736,-78.68776,-7.02736",
+    "geom:latitude":-7.02736,
+    "geom:longitude":-78.68776,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61204.0",
+    "gn:asciiname":"Salvia",
+    "gn:country_code":"PE",
+    "gn:dem":3123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692695,
+    "gn:latitude":-7.02736,
+    "gn:longitude":-78.68776,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Salvia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692695
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"539483f3ef58a43651ec787e4e4ce95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693981,
+            "locality_id":1193272943,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1193272943,
+    "wof:lastmodified":1536368527,
+    "wof:name":"Salvia",
+    "wof:parent_id":1108693981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68776,
+    -7.02736,
+    -78.68776,
+    -7.02736
+],
+  "geometry": {"coordinates":[-78.68776,-7.02736],"type":"Point"}
+}

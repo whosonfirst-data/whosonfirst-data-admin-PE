@@ -1,0 +1,69 @@
+{
+  "id": 1293767637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62238,-12.92142,-74.62238,-12.92142",
+    "geom:latitude":-12.92142,
+    "geom:longitude":-74.62238,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90307.0",
+    "gn:asciiname":"Chuntirca",
+    "gn:country_code":"PE",
+    "gn:dem":3744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662069,
+    "gn:latitude":-12.92142,
+    "gn:longitude":-74.62238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chuntirca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662069
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fa6e2384daf2ae1d492f5b66ccbac0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1293767637,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293767637,
+    "wof:lastmodified":1536879528,
+    "wof:name":"Chuntirca",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62238,
+    -12.92142,
+    -74.62238,
+    -12.92142
+],
+  "geometry": {"coordinates":[-74.62238000000001,-12.92142],"type":"Point"}
+}

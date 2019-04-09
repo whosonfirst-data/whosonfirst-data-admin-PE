@@ -1,0 +1,69 @@
+{
+  "id": 1259495979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93953,-9.31674,-76.93953,-9.31674",
+    "geom:latitude":-9.31674,
+    "geom:longitude":-76.93953,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Huacachi",
+    "gn:country_code":"PE",
+    "gn:dem":3517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3696605,
+    "gn:latitude":-9.31674,
+    "gn:longitude":-76.93953,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huacachi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696605
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"80fa0249bd5d84561ff59b3d6f6c15b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187851,
+            "locality_id":1259495979,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1259495979,
+    "wof:lastmodified":1536839790,
+    "wof:name":"Huacachi",
+    "wof:parent_id":421187851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93953,
+    -9.31674,
+    -76.93953,
+    -9.31674
+],
+  "geometry": {"coordinates":[-76.93953,-9.31674],"type":"Point"}
+}

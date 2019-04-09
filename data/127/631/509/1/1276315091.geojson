@@ -1,0 +1,69 @@
+{
+  "id": 1276315091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38078,-4.12616,-73.38078,-4.12616",
+    "geom:latitude":-4.12616,
+    "geom:longitude":-73.38078,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160103.0",
+    "gn:asciiname":"Varadero",
+    "gn:country_code":"PE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307796,
+    "gn:latitude":-4.12616,
+    "gn:longitude":-73.38078,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Varadero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307796
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"825feb1e34f8582d32f169302ba748e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1276315091,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1276315091,
+    "wof:lastmodified":1536803134,
+    "wof:name":"Varadero",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38078,
+    -4.12616,
+    -73.38078,
+    -4.12616
+],
+  "geometry": {"coordinates":[-73.38078,-4.12616],"type":"Point"}
+}

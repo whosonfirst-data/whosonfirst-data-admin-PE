@@ -1,0 +1,81 @@
+{
+  "id": 1310277593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41153,-13.08945,-76.41153,-13.08945",
+    "geom:latitude":-13.08945,
+    "geom:longitude":-76.41153,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150501.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"PE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929849,
+    "gn:latitude":-13.08945,
+    "gn:longitude":-76.41153,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio Hacienda",
+        "San Ant\u00f3nio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929849
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fb453a3f667ac65dfa121461db29557d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1310277593,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1310277593,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1310277593,
+    "wof:lastmodified":1537676706,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41153,
+    -13.08945,
+    -76.41153,
+    -13.08945
+],
+  "geometry": {"coordinates":[-76.41153,-13.08945],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326627071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05639,-14.07139,-71.05639,-14.07139",
+    "geom:latitude":-14.07139,
+    "geom:longitude":-71.05639,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80602.0",
+    "gn:asciiname":"Alcamarine",
+    "gn:country_code":"PE",
+    "gn:dem":4727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954437,
+    "gn:latitude":-14.07139,
+    "gn:longitude":-71.05639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alcamarine",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954437
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"650a1628a51eb59ea4e54213781a31c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1326627071,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1326627071,
+    "wof:lastmodified":1536846209,
+    "wof:name":"Alcamarine",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05639000000002,
+    -14.07139,
+    -71.05639000000002,
+    -14.07139
+],
+  "geometry": {"coordinates":[-71.05639000000002,-14.07139],"type":"Point"}
+}

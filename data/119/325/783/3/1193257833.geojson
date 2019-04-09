@@ -1,0 +1,76 @@
+{
+  "id": 1193257833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63333,-12.13333,-75.63333,-12.13333",
+    "geom:latitude":-12.13333,
+    "geom:longitude":-75.63333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:asciiname":"Negro Bueno",
+    "gn:country_code":"PE",
+    "gn:dem":4589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934314,
+    "gn:latitude":-12.13333,
+    "gn:longitude":-75.63333,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Negro Bueno",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934314
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1687f8baa5f8314b02c8bcbea22dcb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1193257833,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1193257833,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1193257833,
+    "wof:lastmodified":1536384060,
+    "wof:name":"Negro Bueno",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63333,
+    -12.13333,
+    -75.63333,
+    -12.13333
+],
+  "geometry": {"coordinates":[-75.63333,-12.13333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293390933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0837,-13.85626,-73.0837,-13.85626",
+    "geom:latitude":-13.85626,
+    "geom:longitude":-73.0837,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30107.0",
+    "gn:asciiname":"Ucrabamba",
+    "gn:country_code":"PE",
+    "gn:dem":2786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309260,
+    "gn:latitude":-13.85626,
+    "gn:longitude":-73.0837,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ucrabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309260
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b86f29e027ae5194395afda4d23fea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170655,
+            "locality_id":1293390933,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1293390933,
+    "wof:lastmodified":1536926921,
+    "wof:name":"Ucrabamba",
+    "wof:parent_id":421170655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0837,
+    -13.85626,
+    -73.0837,
+    -13.85626
+],
+  "geometry": {"coordinates":[-73.08369999999999,-13.85626],"type":"Point"}
+}

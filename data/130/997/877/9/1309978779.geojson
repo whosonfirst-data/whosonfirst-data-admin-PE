@@ -1,0 +1,82 @@
+{
+  "id": 1309978779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47444,-11.07222,-77.47444,-11.07222",
+    "geom:latitude":-11.07222,
+    "geom:longitude":-77.47444,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150806.0",
+    "gn:asciiname":"Vilcahuaura",
+    "gn:country_code":"PE",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926159,
+    "gn:latitude":-11.07222,
+    "gn:longitude":-77.47444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Vilcahuaura",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Vilcahuaura",
+        "Vilcahuaura Hacienda",
+        "Vilcahuaura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926159
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9b165b3dc384d90adfc579258b9a44ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1309978779,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1309978779,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1309978779,
+    "wof:lastmodified":1537676667,
+    "wof:name":"Vilcahuaura",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47444,
+    -11.07222,
+    -77.47444,
+    -11.07222
+],
+  "geometry": {"coordinates":[-77.47444,-11.07222],"type":"Point"}
+}

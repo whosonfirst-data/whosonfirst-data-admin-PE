@@ -1,0 +1,69 @@
+{
+  "id": 1327292853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54986,-5.83751,-79.54986,-5.83751",
+    "geom:latitude":-5.83751,
+    "geom:longitude":-79.54986,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Landuran",
+    "gn:country_code":"PE",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695710,
+    "gn:latitude":-5.83751,
+    "gn:longitude":-79.54986,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Landuran",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695710
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f12e812e53c7f9c0d4cd41e9dfce082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1327292853,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1327292853,
+    "wof:lastmodified":1536881792,
+    "wof:name":"Landuran",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54986,
+    -5.83751,
+    -79.54986,
+    -5.83751
+],
+  "geometry": {"coordinates":[-79.54986,-5.83751],"type":"Point"}
+}

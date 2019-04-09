@@ -1,0 +1,77 @@
+{
+  "id": 1327303823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.30444,-11.50639,-77.30444,-11.50639",
+    "geom:latitude":-11.50639,
+    "geom:longitude":-77.30444,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150605.0",
+    "gn:asciiname":"Candelaria Alta",
+    "gn:country_code":"PE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254795,
+    "gn:latitude":-11.50639,
+    "gn:longitude":-77.30444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Candelaria Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254795
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eda0c6dbb3bc87e96ea70ef4542b24be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1327303823,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1327303823,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327303823,
+    "wof:lastmodified":1536865265,
+    "wof:name":"Candelaria Alta",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.30444,
+    -11.50639,
+    -77.30444,
+    -11.50639
+],
+  "geometry": {"coordinates":[-77.30444,-11.50639],"type":"Point"}
+}

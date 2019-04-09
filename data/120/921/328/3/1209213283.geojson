@@ -1,0 +1,63 @@
+{
+  "id": 1209213283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93611,-14.09083,-73.93611,-14.09083",
+    "geom:latitude":-14.09083,
+    "geom:longitude":-73.93611,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51004.0",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"PE",
+    "gn:dem":3518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928025,
+    "gn:latitude":-14.09083,
+    "gn:longitude":-73.93611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928025
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"29763db559de5b835c432dc7502146a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209213283
+        }
+    ],
+    "wof:id":1209213283,
+    "wof:lastmodified":1536294217,
+    "wof:name":"Tama",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93611,
+    -14.09083,
+    -73.93611,
+    -14.09083
+],
+  "geometry": {"coordinates":[-73.93611,-14.09083],"type":"Point"}
+}

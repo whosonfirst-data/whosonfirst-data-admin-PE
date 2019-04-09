@@ -1,0 +1,69 @@
+{
+  "id": 1259778611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32972,-13.13111,-72.32972,-13.13111",
+    "geom:latitude":-13.13111,
+    "geom:longitude":-72.32972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80903.0",
+    "gn:asciiname":"Boteayoc",
+    "gn:country_code":"PE",
+    "gn:dem":3819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6393170,
+    "gn:latitude":-13.13111,
+    "gn:longitude":-72.32972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Boteayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6393170
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0fd78110a9eecebc0f2ac93832551207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1259778611,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259778611,
+    "wof:lastmodified":1536930963,
+    "wof:name":"Boteayoc",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32972,
+    -13.13111,
+    -72.32972,
+    -13.13111
+],
+  "geometry": {"coordinates":[-72.32971999999999,-13.13111],"type":"Point"}
+}

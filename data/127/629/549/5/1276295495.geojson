@@ -1,0 +1,72 @@
+{
+  "id": 1276295495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.66314,-5.88964,-76.66314,-5.88964",
+    "geom:latitude":-5.88964,
+    "geom:longitude":-76.66314,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160202.0",
+    "gn:asciiname":"Embruja",
+    "gn:country_code":"PE",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6267142,
+    "gn:latitude":-5.88964,
+    "gn:longitude":-76.66314,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Embruja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Embruja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6267142
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"abada1642be85fd90b092875fe88f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1276295495,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1276295495,
+    "wof:lastmodified":1537676894,
+    "wof:name":"Embruja",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66314,
+    -5.88964,
+    -76.66314,
+    -5.88964
+],
+  "geometry": {"coordinates":[-76.66314,-5.88964],"type":"Point"}
+}

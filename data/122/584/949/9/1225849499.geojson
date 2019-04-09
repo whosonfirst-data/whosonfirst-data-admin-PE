@@ -1,0 +1,69 @@
+{
+  "id": 1225849499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94056,-14.12556,-73.94056,-14.12556",
+    "geom:latitude":-14.12556,
+    "geom:longitude":-73.94056,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50906.0",
+    "gn:asciiname":"Illapata",
+    "gn:country_code":"PE",
+    "gn:dem":3528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958739,
+    "gn:latitude":-14.12556,
+    "gn:longitude":-73.94056,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Illapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958739
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6ad55dc0ab5517a13032388d26d27f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1225849499,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1225849499,
+    "wof:lastmodified":1537007492,
+    "wof:name":"Illapata",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94055999999998,
+    -14.12556,
+    -73.94055999999998,
+    -14.12556
+],
+  "geometry": {"coordinates":[-73.94055999999998,-14.12556],"type":"Point"}
+}

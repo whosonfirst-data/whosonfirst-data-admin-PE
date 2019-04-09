@@ -1,0 +1,73 @@
+{
+  "id": 1326701949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15129,-5.60189,-74.15129,-5.60189",
+    "geom:latitude":-5.60189,
+    "geom:longitude":-74.15129,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1605.0",
+    "gn:admin3_code":"160504.0",
+    "gn:asciiname":"San Antonio de Acuracay",
+    "gn:country_code":"PE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692622,
+    "gn:latitude":-5.60189,
+    "gn:longitude":-74.15129,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Antonio de Acuracay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio de Acuracoy",
+        "San Antonio de Acuracay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692622
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5718019b93e050fab852483c5e678bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694055,
+            "locality_id":1326701949,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1326701949,
+    "wof:lastmodified":1537676554,
+    "wof:name":"San Antonio de Acuracay",
+    "wof:parent_id":1108694055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15129,
+    -5.60189,
+    -74.15129,
+    -5.60189
+],
+  "geometry": {"coordinates":[-74.15129,-5.60189],"type":"Point"}
+}

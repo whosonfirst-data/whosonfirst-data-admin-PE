@@ -1,0 +1,63 @@
+{
+  "id": 1209065449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73852,-5.14152,-79.73852,-5.14152",
+    "geom:latitude":-5.14152,
+    "geom:longitude":-79.73852,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200410.0",
+    "gn:asciiname":"Lajos",
+    "gn:country_code":"PE",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695802,
+    "gn:latitude":-5.14152,
+    "gn:longitude":-79.73852,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Lajos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695802
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0911fcef169c8e9593b9e7da7a86fdf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209065449
+        }
+    ],
+    "wof:id":1209065449,
+    "wof:lastmodified":1536298819,
+    "wof:name":"Lajos",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73852,
+    -5.14152,
+    -79.73852,
+    -5.14152
+],
+  "geometry": {"coordinates":[-79.73851999999999,-5.14152],"type":"Point"}
+}

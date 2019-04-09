@@ -1,0 +1,63 @@
+{
+  "id": 1209592257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55306,-11.37639,-74.55306,-11.37639",
+    "geom:latitude":-11.37639,
+    "geom:longitude":-74.55306,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120603.0",
+    "gn:asciiname":"Teoria",
+    "gn:country_code":"PE",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302935,
+    "gn:latitude":-11.37639,
+    "gn:longitude":-74.55306,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Teor\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302935
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e670f7103f55e67c4db73417afac61ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209592257
+        }
+    ],
+    "wof:id":1209592257,
+    "wof:lastmodified":1536282441,
+    "wof:name":"Teoria",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55306,
+    -11.37639,
+    -74.55306,
+    -11.37639
+],
+  "geometry": {"coordinates":[-74.55306,-11.37639],"type":"Point"}
+}

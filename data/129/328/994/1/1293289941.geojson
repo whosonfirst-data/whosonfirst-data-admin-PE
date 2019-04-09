@@ -1,0 +1,69 @@
+{
+  "id": 1293289941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05465,-13.57384,-71.05465,-13.57384",
+    "geom:latitude":-13.57384,
+    "geom:longitude":-71.05465,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"812.0",
+    "gn:admin3_code":"81209.0",
+    "gn:asciiname":"Umaparco",
+    "gn:country_code":"PE",
+    "gn:dem":3742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926558,
+    "gn:latitude":-13.57384,
+    "gn:longitude":-71.05465,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Umaparco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421202209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926558
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bbd7eeb9de868b4221aabc5829130264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202209,
+            "locality_id":1293289941,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1293289941,
+    "wof:lastmodified":1537068834,
+    "wof:name":"Umaparco",
+    "wof:parent_id":421202209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05465,
+    -13.57384,
+    -71.05465,
+    -13.57384
+],
+  "geometry": {"coordinates":[-71.05465,-13.57384],"type":"Point"}
+}

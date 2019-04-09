@@ -1,0 +1,82 @@
+{
+  "id": 1343734891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65,-10.85,-76.65,-10.85",
+    "geom:latitude":-10.85,
+    "geom:longitude":-76.65,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Quimahuasi",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930811,
+    "gn:latitude":-10.85,
+    "gn:longitude":-76.65,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quimahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinahuasi",
+        "Quimahuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930811
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"249aa2daed4d05adde5d48b2beb089e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1343734891,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1343734891,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343734891,
+    "wof:lastmodified":1537676716,
+    "wof:name":"Quimahuasi",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65,
+    -10.85,
+    -76.65,
+    -10.85
+],
+  "geometry": {"coordinates":[-76.65000000000001,-10.85],"type":"Point"}
+}

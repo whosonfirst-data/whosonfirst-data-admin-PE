@@ -1,0 +1,63 @@
+{
+  "id": 1209376839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52694,-10.49833,-76.52694,-10.49833",
+    "geom:latitude":-10.49833,
+    "geom:longitude":-76.52694,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190201.0",
+    "gn:asciiname":"Chiripata",
+    "gn:country_code":"PE",
+    "gn:dem":3538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403609,
+    "gn:latitude":-10.49833,
+    "gn:longitude":-76.52694,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chiripata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403609
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d96d13a05cdb3e5f9e49a0d4216e55d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209376839
+        }
+    ],
+    "wof:id":1209376839,
+    "wof:lastmodified":1536288921,
+    "wof:name":"Chiripata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52694,
+    -10.49833,
+    -76.52694,
+    -10.49833
+],
+  "geometry": {"coordinates":[-76.52694,-10.49833],"type":"Point"}
+}

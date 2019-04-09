@@ -1,0 +1,68 @@
+{
+  "id": 1242762457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76476,-13.86287,-70.76476,-13.86287",
+    "geom:latitude":-13.86287,
+    "geom:longitude":-70.76476,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Chimboya",
+    "gn:country_code":"PE",
+    "gn:dem":4753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943810,
+    "gn:latitude":-13.86287,
+    "gn:longitude":-70.76476,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Chimboya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943810
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"816975e3f6be0031473a4a19864f5ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183857,
+            "locality_id":1242762457,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1242762457,
+    "wof:lastmodified":1536797584,
+    "wof:name":"Chimboya",
+    "wof:parent_id":421183857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76476,
+    -13.86287,
+    -70.76476,
+    -13.86287
+],
+  "geometry": {"coordinates":[-70.76476,-13.86287],"type":"Point"}
+}

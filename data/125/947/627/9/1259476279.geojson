@@ -1,0 +1,69 @@
+{
+  "id": 1259476279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,-13.9,-74.1,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51001.0",
+    "gn:asciiname":"Iscu Rumi",
+    "gn:country_code":"PE",
+    "gn:dem":4273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938169,
+    "gn:latitude":-13.9,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Iscu Rumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938169
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fb31f8e6eb40d0b872b434aac7f3f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1259476279,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1259476279,
+    "wof:lastmodified":1536868021,
+    "wof:name":"Iscu Rumi",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    -13.9,
+    -74.1,
+    -13.9
+],
+  "geometry": {"coordinates":[-74.09999999999999,-13.9],"type":"Point"}
+}

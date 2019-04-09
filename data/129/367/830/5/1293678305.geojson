@@ -1,0 +1,69 @@
+{
+  "id": 1293678305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7386,-12.11176,-74.7386,-12.11176",
+    "geom:latitude":-12.11176,
+    "geom:longitude":-74.7386,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90715.0",
+    "gn:asciiname":"Carcancha",
+    "gn:country_code":"PE",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664485,
+    "gn:latitude":-12.11176,
+    "gn:longitude":-74.7386,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Carcancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664485
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"805166d11c1e81fe6d9430acde5b63d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1293678305,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293678305,
+    "wof:lastmodified":1537008538,
+    "wof:name":"Carcancha",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7386,
+    -12.11176,
+    -74.7386,
+    -12.11176
+],
+  "geometry": {"coordinates":[-74.73860000000001,-12.11176],"type":"Point"}
+}

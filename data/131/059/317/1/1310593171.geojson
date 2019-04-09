@@ -1,0 +1,68 @@
+{
+  "id": 1310593171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.89493,-7.5926,-78.89493,-7.5926",
+    "geom:latitude":-7.5926,
+    "geom:longitude":-78.89493,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1311.0",
+    "gn:asciiname":"El Progresso",
+    "gn:country_code":"PE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697219,
+    "gn:latitude":-7.5926,
+    "gn:longitude":-78.89493,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"El Progresso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        1108693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697219
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"11a3fcff9f32bb4f9f717a0dfbdd555b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693887,
+            "locality_id":1310593171,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1310593171,
+    "wof:lastmodified":1536790906,
+    "wof:name":"El Progresso",
+    "wof:parent_id":1108693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.89493,
+    -7.5926,
+    -78.89493,
+    -7.5926
+],
+  "geometry": {"coordinates":[-78.89493,-7.5926],"type":"Point"}
+}

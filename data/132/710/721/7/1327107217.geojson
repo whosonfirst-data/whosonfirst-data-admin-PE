@@ -1,0 +1,81 @@
+{
+  "id": 1327107217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80916,-12.87432,-75.80916,-12.87432",
+    "geom:latitude":-12.87432,
+    "geom:longitude":-75.80916,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151032.0",
+    "gn:asciiname":"Picunsa",
+    "gn:country_code":"PE",
+    "gn:dem":3477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932347,
+    "gn:latitude":-12.87432,
+    "gn:longitude":-75.80916,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Picunsa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Picunza",
+        "Picunsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932347
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da73606042d651c153ce1da9e77841e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1327107217,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1327107217,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327107217,
+    "wof:lastmodified":1537676730,
+    "wof:name":"Picunsa",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80915999999998,
+    -12.87432,
+    -75.80915999999998,
+    -12.87432
+],
+  "geometry": {"coordinates":[-75.80915999999998,-12.87432],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209508113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90971,-13.5323,-73.90971,-13.5323",
+    "geom:latitude":-13.5323,
+    "geom:longitude":-73.90971,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51104.0",
+    "gn:asciiname":"Huarayocc",
+    "gn:country_code":"PE",
+    "gn:dem":3521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374345,
+    "gn:latitude":-13.5323,
+    "gn:longitude":-73.90971,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huarayocc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374345
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e80960496d82ff903f65107bd3ff474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209508113
+        }
+    ],
+    "wof:id":1209508113,
+    "wof:lastmodified":1536284969,
+    "wof:name":"Huarayocc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90971,
+    -13.5323,
+    -73.90971,
+    -13.5323
+],
+  "geometry": {"coordinates":[-73.90971,-13.5323],"type":"Point"}
+}

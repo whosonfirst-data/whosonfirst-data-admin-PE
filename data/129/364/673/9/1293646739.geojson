@@ -1,0 +1,69 @@
+{
+  "id": 1293646739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.97523,-4.11939,-80.97523,-4.11939",
+    "geom:latitude":-4.11939,
+    "geom:longitude":-80.97523,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240203.0",
+    "gn:asciiname":"Corral de Ovejas",
+    "gn:country_code":"PE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697783,
+    "gn:latitude":-4.11939,
+    "gn:longitude":-80.97523,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Corral de Ovejas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697783
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5cc6f87045ba2a0dacb24111d6f05ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1293646739,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1293646739,
+    "wof:lastmodified":1537052595,
+    "wof:name":"Corral de Ovejas",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.97523000000002,
+    -4.11939,
+    -80.97523000000002,
+    -4.11939
+],
+  "geometry": {"coordinates":[-80.97523000000002,-4.11939],"type":"Point"}
+}

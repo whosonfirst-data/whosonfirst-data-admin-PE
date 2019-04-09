@@ -1,0 +1,75 @@
+{
+  "id": 421186769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.771675,-13.986626,-75.771675,-13.986626",
+    "geom:latitude":-13.986626,
+    "geom:longitude":-75.771675,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Guadalupe",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075961,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":403207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":403207,
+        "qs:id":1075961
+    },
+    "wof:country":"PE",
+    "wof:created":1459009491,
+    "wof:geomhash":"875c9bc505ff9b27ef567dcfd8c4d950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":421186769,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421186769,
+    "wof:lastmodified":1500024473,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.771675,
+    -13.986626,
+    -75.771675,
+    -13.986626
+],
+  "geometry": {"coordinates":[-75.771675,-13.986626],"type":"Point"}
+}

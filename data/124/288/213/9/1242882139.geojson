@@ -1,0 +1,69 @@
+{
+  "id": 1242882139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56064,-10.02905,-77.56064,-10.02905",
+    "geom:latitude":-10.02905,
+    "geom:longitude":-77.56064,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21709.0",
+    "gn:asciiname":"Puca Ranca Fundo",
+    "gn:country_code":"PE",
+    "gn:dem":3775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931618,
+    "gn:latitude":-10.02905,
+    "gn:longitude":-77.56064,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Puca Ranca Fundo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931618
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9fe10cf4d1a0bcbf36e16c8f4a2efebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202211,
+            "locality_id":1242882139,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242882139,
+    "wof:lastmodified":1536622977,
+    "wof:name":"Puca Ranca Fundo",
+    "wof:parent_id":421202211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56064,
+    -10.02905,
+    -77.56064,
+    -10.02905
+],
+  "geometry": {"coordinates":[-77.56064000000001,-10.02905],"type":"Point"}
+}

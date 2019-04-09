@@ -1,0 +1,69 @@
+{
+  "id": 1209708697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.98796,-14.28038,-74.98796,-14.28038",
+    "geom:latitude":-14.28038,
+    "geom:longitude":-74.98796,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50610.0",
+    "gn:asciiname":"Sausillo",
+    "gn:country_code":"PE",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928880,
+    "gn:latitude":-14.28038,
+    "gn:longitude":-74.98796,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sausillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928880
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9051318f1acae72fc88be8db76853abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1209708697,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1209708697,
+    "wof:lastmodified":1536391677,
+    "wof:name":"Sausillo",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.98796,
+    -14.28038,
+    -74.98796,
+    -14.28038
+],
+  "geometry": {"coordinates":[-74.98796,-14.28038],"type":"Point"}
+}

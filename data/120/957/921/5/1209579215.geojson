@@ -1,0 +1,63 @@
+{
+  "id": 1209579215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35,-6.05,-73.35,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":-73.35,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1605.0",
+    "gn:admin3_code":"160511.0",
+    "gn:asciiname":"Rosachina",
+    "gn:country_code":"PE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692825,
+    "gn:latitude":-6.05,
+    "gn:longitude":-73.35,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Rosachina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692825
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ca43424ef6768b500b04066de161998c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209579215
+        }
+    ],
+    "wof:id":1209579215,
+    "wof:lastmodified":1536282842,
+    "wof:name":"Rosachina",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35,
+    -6.05,
+    -73.35,
+    -6.05
+],
+  "geometry": {"coordinates":[-73.34999999999999,-6.05],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259541849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56088,-7.05314,-76.56088,-7.05314",
+    "geom:latitude":-7.05314,
+    "geom:longitude":-76.56088,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220201.0",
+    "gn:asciiname":"Dos de Mayo",
+    "gn:country_code":"PE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544115,
+    "gn:latitude":-7.05314,
+    "gn:longitude":-76.56088,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Dos de Mayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dos de Mayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544115
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d5242e9f1497ab45a1dda3b6dd683fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1259541849,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1259541849,
+    "wof:lastmodified":1537676909,
+    "wof:name":"Dos de Mayo",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56088000000003,
+    -7.05314,
+    -76.56088000000003,
+    -7.05314
+],
+  "geometry": {"coordinates":[-76.56088000000003,-7.05314],"type":"Point"}
+}

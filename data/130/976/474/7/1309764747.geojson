@@ -1,0 +1,71 @@
+{
+  "id": 1309764747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.39309,-14.17026,-69.39309,-14.17026",
+    "geom:latitude":-14.17026,
+    "geom:longitude":-69.39309,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Asalaya",
+    "gn:country_code":"PE",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11557209,
+    "gn:latitude":-14.17026,
+    "gn:longitude":-69.39309,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Asalaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Asalaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11557209
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a979d68078ac8cf49e8cb767826a7c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1309764747,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309764747,
+    "wof:lastmodified":1537676996,
+    "wof:name":"Asalaya",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.39309,
+    -14.17026,
+    -69.39309,
+    -14.17026
+],
+  "geometry": {"coordinates":[-69.39309,-14.17026],"type":"Point"}
+}

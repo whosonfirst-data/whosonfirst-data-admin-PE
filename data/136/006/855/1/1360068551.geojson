@@ -1,0 +1,72 @@
+{
+  "id": 1360068551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84782,-6.85907,-79.84782,-6.85907",
+    "geom:latitude":-6.85907,
+    "geom:longitude":-79.84782,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140108.0",
+    "gn:asciiname":"Las Huacas",
+    "gn:country_code":"PE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952835,
+    "gn:latitude":-6.85907,
+    "gn:longitude":-79.84782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Las Huacas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Huacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952835
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"768dd996de6e77bce303af5386e19fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1360068551,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1360068551,
+    "wof:lastmodified":1537676949,
+    "wof:name":"Las Huacas",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84782,
+    -6.85907,
+    -79.84782,
+    -6.85907
+],
+  "geometry": {"coordinates":[-79.84782,-6.85907],"type":"Point"}
+}

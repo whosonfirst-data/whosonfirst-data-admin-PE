@@ -1,0 +1,72 @@
+{
+  "id": 1259936399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26853,-6.89138,-76.26853,-6.89138",
+    "geom:latitude":-6.89138,
+    "geom:longitude":-76.26853,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220709.0",
+    "gn:asciiname":"Edimburgo",
+    "gn:country_code":"PE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039834,
+    "gn:latitude":-6.89138,
+    "gn:longitude":-76.26853,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Edimburgo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Edimburgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039834
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3963b81d3322db34fa4d981b5aa37983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1259936399,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1259936399,
+    "wof:lastmodified":1537676961,
+    "wof:name":"Edimburgo",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26853,
+    -6.89138,
+    -76.26853,
+    -6.89138
+],
+  "geometry": {"coordinates":[-76.26853,-6.89138],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259852219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31499,-12.04028,-76.31499,-12.04028",
+    "geom:latitude":-12.04028,
+    "geom:longitude":-76.31499,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150709.0",
+    "gn:asciiname":"Canchahuara",
+    "gn:country_code":"PE",
+    "gn:dem":4365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945843,
+    "gn:latitude":-12.04028,
+    "gn:longitude":-76.31499,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Canchahuara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945843
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"102e0f277d46d594871c5df7140c0629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1259852219,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1259852219,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1259852219,
+    "wof:lastmodified":1536823396,
+    "wof:name":"Canchahuara",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31499000000002,
+    -12.04028,
+    -76.31499000000002,
+    -12.04028
+],
+  "geometry": {"coordinates":[-76.31499000000002,-12.04028],"type":"Point"}
+}

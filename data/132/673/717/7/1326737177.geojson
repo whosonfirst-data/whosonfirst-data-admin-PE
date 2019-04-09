@@ -1,0 +1,68 @@
+{
+  "id": 1326737177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66482,-13.95669,-73.66482,-13.95669",
+    "geom:latitude":-13.95669,
+    "geom:longitude":-73.66482,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"509.0",
+    "gn:asciiname":"Ayapata",
+    "gn:country_code":"PE",
+    "gn:dem":2928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374763,
+    "gn:latitude":-13.95669,
+    "gn:longitude":-73.66482,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Ayapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374763
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57b800fafa80704ad055d7741207a3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1326737177,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1326737177,
+    "wof:lastmodified":1536688627,
+    "wof:name":"Ayapata",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66481999999998,
+    -13.95669,
+    -73.66481999999998,
+    -13.95669
+],
+  "geometry": {"coordinates":[-73.66481999999998,-13.95669],"type":"Point"}
+}

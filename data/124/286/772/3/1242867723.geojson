@@ -1,0 +1,69 @@
+{
+  "id": 1242867723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93005,-9.48239,-75.93005,-9.48239",
+    "geom:latitude":-9.48239,
+    "geom:longitude":-75.93005,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100103.0",
+    "gn:asciiname":"Chunatagua",
+    "gn:country_code":"PE",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6659372,
+    "gn:latitude":-9.48239,
+    "gn:longitude":-75.93005,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chunatagua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659372
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8c9a0107892c0c7bb687249ad954e771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1242867723,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1242867723,
+    "wof:lastmodified":1536645235,
+    "wof:name":"Chunatagua",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93005,
+    -9.48239,
+    -75.93005,
+    -9.48239
+],
+  "geometry": {"coordinates":[-75.93004999999999,-9.48239],"type":"Point"}
+}

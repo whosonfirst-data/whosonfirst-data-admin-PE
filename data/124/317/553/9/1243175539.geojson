@@ -1,0 +1,69 @@
+{
+  "id": 1243175539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.62047,-5.81472,-78.62047,-5.81472",
+    "geom:latitude":-5.81472,
+    "geom:longitude":-78.62047,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10704.0",
+    "gn:asciiname":"Las Pircas",
+    "gn:country_code":"PE",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762474,
+    "gn:latitude":-5.81472,
+    "gn:longitude":-78.62047,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Las Pircas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762474
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e40f370732928ad7d6b6cd6fa5ea6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1243175539,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1243175539,
+    "wof:lastmodified":1536699396,
+    "wof:name":"Las Pircas",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62047,
+    -5.81472,
+    -78.62047,
+    -5.81472
+],
+  "geometry": {"coordinates":[-78.62047,-5.81472],"type":"Point"}
+}

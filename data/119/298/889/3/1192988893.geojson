@@ -1,0 +1,72 @@
+{
+  "id": 1192988893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.79437,-6.65699,-79.79437,-6.65699",
+    "geom:latitude":-6.65699,
+    "geom:longitude":-79.79437,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140206.0",
+    "gn:asciiname":"San Ricardo",
+    "gn:country_code":"PE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692297,
+    "gn:latitude":-6.65699,
+    "gn:longitude":-79.79437,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Ricardo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ricardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692297
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0d10bacfa4ad8f1e86e21b043b65dac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1192988893,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1192988893,
+    "wof:lastmodified":1537676547,
+    "wof:name":"San Ricardo",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.79437,
+    -6.65699,
+    -79.79437,
+    -6.65699
+],
+  "geometry": {"coordinates":[-79.79437,-6.65699],"type":"Point"}
+}

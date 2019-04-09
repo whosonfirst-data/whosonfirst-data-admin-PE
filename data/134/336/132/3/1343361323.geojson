@@ -1,0 +1,72 @@
+{
+  "id": 1343361323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05028,-9.52032,-78.05028,-9.52032",
+    "geom:latitude":-9.52032,
+    "geom:longitude":-78.05028,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:asciiname":"Hacienda Lagar",
+    "gn:country_code":"PE",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076609,
+    "gn:latitude":-9.52032,
+    "gn:longitude":-78.05028,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Lagar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Lagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076609
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"916f4de688ea8aa679b4bef81d1f578b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1343361323,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1343361323,
+    "wof:lastmodified":1537676968,
+    "wof:name":"Hacienda Lagar",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05028,
+    -9.52032,
+    -78.05028,
+    -9.52032
+],
+  "geometry": {"coordinates":[-78.05028,-9.52032],"type":"Point"}
+}

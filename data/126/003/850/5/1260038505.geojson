@@ -1,0 +1,73 @@
+{
+  "id": 1260038505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06377,-15.52513,-70.06377,-15.52513",
+    "geom:latitude":-15.52513,
+    "geom:longitude":-70.06377,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:admin3_code":"211104.0",
+    "gn:asciiname":"Chulluni",
+    "gn:country_code":"PE",
+    "gn:dem":3824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943283,
+    "gn:latitude":-15.52513,
+    "gn:longitude":-70.06377,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chulluni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chulluni Hacienda",
+        "Chulluni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421167831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943283
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"35c1423e039b3e5296e78caa74ebe3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421167831,
+            "locality_id":1260038505,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260038505,
+    "wof:lastmodified":1537676829,
+    "wof:name":"Chulluni",
+    "wof:parent_id":421167831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06376999999999,
+    -15.52513,
+    -70.06376999999999,
+    -15.52513
+],
+  "geometry": {"coordinates":[-70.06376999999999,-15.52513],"type":"Point"}
+}

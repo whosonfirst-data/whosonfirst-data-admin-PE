@@ -1,0 +1,80 @@
+{
+  "id": 1260255197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26998,-11.54401,-77.26998,-11.54401",
+    "geom:latitude":-11.54401,
+    "geom:longitude":-77.26998,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150605.0",
+    "gn:asciiname":"Fundo Jotage",
+    "gn:country_code":"PE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875234,
+    "gn:latitude":-11.54401,
+    "gn:longitude":-77.26998,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fundo Jotage",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fundo Jotage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875234
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"42f4fe24ce592db09cedfe536aa27b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1260255197,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1260255197,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1260255197,
+    "wof:lastmodified":1537676927,
+    "wof:name":"Fundo Jotage",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26998,
+    -11.54401,
+    -77.26998,
+    -11.54401
+],
+  "geometry": {"coordinates":[-77.26998,-11.54401],"type":"Point"}
+}

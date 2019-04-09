@@ -1,0 +1,72 @@
+{
+  "id": 1226038089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86179,-15.19561,-73.86179,-15.19561",
+    "geom:latitude":-15.19561,
+    "geom:longitude":-73.86179,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Huaicane",
+    "gn:country_code":"PE",
+    "gn:dem":3040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007874,
+    "gn:latitude":-15.19561,
+    "gn:longitude":-73.86179,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huaicane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaicane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007874
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af159f755cd8de87d84191d465634b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1226038089,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226038089,
+    "wof:lastmodified":1537676958,
+    "wof:name":"Huaicane",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86179,
+    -15.19561,
+    -73.86179,
+    -15.19561
+],
+  "geometry": {"coordinates":[-73.86179,-15.19561],"type":"Point"}
+}

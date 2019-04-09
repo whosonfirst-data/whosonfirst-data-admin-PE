@@ -1,0 +1,69 @@
+{
+  "id": 1343226121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.67908,-15.12294,-69.67908,-15.12294",
+    "geom:latitude":-15.12294,
+    "geom:longitude":-69.67908,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210608.0",
+    "gn:asciiname":"Mulluchini",
+    "gn:country_code":"PE",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934485,
+    "gn:latitude":-15.12294,
+    "gn:longitude":-69.67908,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mulluchini",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934485
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4317b4cd81401bd9054e22c299cbc653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1343226121,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343226121,
+    "wof:lastmodified":1537081506,
+    "wof:name":"Mulluchini",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.67908,
+    -15.12294,
+    -69.67908,
+    -15.12294
+],
+  "geometry": {"coordinates":[-69.67908,-15.12294],"type":"Point"}
+}

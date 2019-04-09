@@ -1,0 +1,63 @@
+{
+  "id": 1209608177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33968,-13.1098,-74.33968,-13.1098",
+    "geom:latitude":-13.1098,
+    "geom:longitude":-74.33968,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50109.0",
+    "gn:asciiname":"Cochapampa",
+    "gn:country_code":"PE",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669912,
+    "gn:latitude":-13.1098,
+    "gn:longitude":-74.33968,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cochapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669912
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"960824545eb8f58a53b93c298c3bf5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209608177
+        }
+    ],
+    "wof:id":1209608177,
+    "wof:lastmodified":1536281937,
+    "wof:name":"Cochapampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33968,
+    -13.1098,
+    -74.33968,
+    -13.1098
+],
+  "geometry": {"coordinates":[-74.33968,-13.1098],"type":"Point"}
+}

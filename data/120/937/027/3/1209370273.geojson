@@ -1,0 +1,67 @@
+{
+  "id": 1209370273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65083,-3.94167,-80.65083,-3.94167",
+    "geom:latitude":-3.94167,
+    "geom:longitude":-80.65083,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"Canaveral",
+    "gn:country_code":"PE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3698936,
+    "gn:latitude":-3.94167,
+    "gn:longitude":-80.65083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ca\u00f1averal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1averal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698936,
+        "wk:page":"Ca%C3%B1averal%2C_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"81b83024cf05d5242f56d0f24b2787b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209370273
+        }
+    ],
+    "wof:id":1209370273,
+    "wof:lastmodified":1537676637,
+    "wof:name":"Canaveral",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65083,
+    -3.94167,
+    -80.65083,
+    -3.94167
+],
+  "geometry": {"coordinates":[-80.65083,-3.94167],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259759743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67097,-11.20871,-75.67097,-11.20871",
+    "geom:latitude":-11.20871,
+    "geom:longitude":-75.67097,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120704.0",
+    "gn:asciiname":"Paucamarca",
+    "gn:country_code":"PE",
+    "gn:dem":3989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960426,
+    "gn:latitude":-11.20871,
+    "gn:longitude":-75.67097,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Paucamarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paucarmarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960426
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"72342b6d6b3e499969410c0df7cf2e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1259759743,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1259759743,
+    "wof:lastmodified":1537676880,
+    "wof:name":"Paucamarca",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67097,
+    -11.20871,
+    -75.67097,
+    -11.20871
+],
+  "geometry": {"coordinates":[-75.67097,-11.20871],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209075891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40333,-12.00111,-76.40333,-12.00111",
+    "geom:latitude":-12.00111,
+    "geom:longitude":-76.40333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150718.0",
+    "gn:asciiname":"Niquita",
+    "gn:country_code":"PE",
+    "gn:dem":3153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966864,
+    "gn:latitude":-12.00111,
+    "gn:longitude":-76.40333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Niquita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966864
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4459a63ce679c0db3f65a979d9cc66a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209075891
+        }
+    ],
+    "wof:id":1209075891,
+    "wof:lastmodified":1536298495,
+    "wof:name":"Niquita",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40333000000003,
+    -12.00111,
+    -76.40333000000003,
+    -12.00111
+],
+  "geometry": {"coordinates":[-76.40333000000003,-12.00111],"type":"Point"}
+}

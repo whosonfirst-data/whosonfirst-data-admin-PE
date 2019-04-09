@@ -1,0 +1,66 @@
+{
+  "id": 1209589441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.95278,-14.03333,-68.95278,-14.03333",
+    "geom:latitude":-14.03333,
+    "geom:longitude":-68.95278,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211210.0",
+    "gn:asciiname":"Curva Alegre",
+    "gn:country_code":"PE",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949759,
+    "gn:latitude":-14.03333,
+    "gn:longitude":-68.95278,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Curva Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Curva Alegre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949759
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f18e9bae18a1eccf15a03fb1e1c3252a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209589441
+        }
+    ],
+    "wof:id":1209589441,
+    "wof:lastmodified":1537676875,
+    "wof:name":"Curva Alegre",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.95278,
+    -14.03333,
+    -68.95278,
+    -14.03333
+],
+  "geometry": {"coordinates":[-68.95278,-14.03333],"type":"Point"}
+}

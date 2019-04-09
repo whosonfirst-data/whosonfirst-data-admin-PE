@@ -1,0 +1,77 @@
+{
+  "id": 1276745975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91417,-12.07,-75.91417,-12.07",
+    "geom:latitude":-12.07,
+    "geom:longitude":-75.91417,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151014.0",
+    "gn:asciiname":"Corral Tunac",
+    "gn:country_code":"PE",
+    "gn:dem":4069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303456,
+    "gn:latitude":-12.07,
+    "gn:longitude":-75.91417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Corral Tunac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303456
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b657bf79bfc9d99901730a29cf8c0d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1276745975,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1276745975,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1276745975,
+    "wof:lastmodified":1536723357,
+    "wof:name":"Corral Tunac",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91417,
+    -12.07,
+    -75.91417,
+    -12.07
+],
+  "geometry": {"coordinates":[-75.91417,-12.07],"type":"Point"}
+}

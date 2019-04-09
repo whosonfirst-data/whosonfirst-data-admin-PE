@@ -1,0 +1,72 @@
+{
+  "id": 1293345223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97177,-10.63728,-73.97177,-10.63728",
+    "geom:latitude":-10.63728,
+    "geom:longitude":-73.97177,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250201.0",
+    "gn:asciiname":"Mision Unine",
+    "gn:country_code":"PE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964247,
+    "gn:latitude":-10.63728,
+    "gn:longitude":-73.97177,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Misi\u00f3n Unine",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Misi\u00f3n Unine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964247
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3815b1c808a72f7633a51bc839021873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1293345223,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1293345223,
+    "wof:lastmodified":1537676889,
+    "wof:name":"Mision Unine",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97176999999998,
+    -10.63728,
+    -73.97176999999998,
+    -10.63728
+],
+  "geometry": {"coordinates":[-73.97176999999998,-10.63728],"type":"Point"}
+}

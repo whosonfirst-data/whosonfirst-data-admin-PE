@@ -1,0 +1,82 @@
+{
+  "id": 421193915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.2,-7.96667,-78.2,-7.96667",
+    "geom:latitude":-7.96667,
+    "geom:longitude":-78.2,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ouiruvilca"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3692994,
+    "qs:gn_pop":9226,
+    "qs:name":"Quiruvilca",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":289440,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":413044,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        1108693885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692994,
+        "gp:id":413044,
+        "qs:id":289440
+    },
+    "wof:country":"PE",
+    "wof:created":1459009787,
+    "wof:geomhash":"0ac648dad20c5fcfb14fdfaa464b681f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693885,
+            "locality_id":421193915,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":421193915,
+    "wof:lastmodified":1505340738,
+    "wof:name":"Quiruvilca",
+    "wof:parent_id":1108693885,
+    "wof:placetype":"locality",
+    "wof:population":9226,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2,
+    -7.96667,
+    -78.2,
+    -7.96667
+],
+  "geometry": {"coordinates":[-78.2,-7.96667],"type":"Point"}
+}

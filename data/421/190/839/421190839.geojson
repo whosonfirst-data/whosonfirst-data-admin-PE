@@ -1,0 +1,85 @@
+{
+  "id": 421190839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88892,-12.00883,-76.88892,-12.00883",
+    "geom:latitude":-12.00883,
+    "geom:longitude":-76.88892,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "En vivo: En la c\u00e1rcel de Santa Martha"
+    ],
+    "name:spa_x_variant":[
+        "Santa Mar\u00eda"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929172,
+    "qs:gn_pop":14853,
+    "qs:name":"Santa Martha",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":56002,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":22723477,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929172,
+        "gp:id":22723477,
+        "qs:id":56002
+    },
+    "wof:country":"PE",
+    "wof:created":1459009670,
+    "wof:geomhash":"c1e16c6e724dc71f61a5afed7da1f60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421190839,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421190839,
+    "wof:lastmodified":1505340717,
+    "wof:name":"Santa Martha",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:population":14853,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88892,
+    -12.00883,
+    -76.88892,
+    -12.00883
+],
+  "geometry": {"coordinates":[-76.88892,-12.00883],"type":"Point"}
+}

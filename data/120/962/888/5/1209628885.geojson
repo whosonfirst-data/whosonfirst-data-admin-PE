@@ -1,0 +1,63 @@
+{
+  "id": 1209628885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54787,-6.41611,-77.54787,-6.41611",
+    "geom:latitude":-6.41611,
+    "geom:longitude":-77.54787,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10604.0",
+    "gn:asciiname":"Chontapampa",
+    "gn:country_code":"PE",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383663,
+    "gn:latitude":-6.41611,
+    "gn:longitude":-77.54787,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Chontapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383663
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b898cf6857f7e9fb1887f2774f586798",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209628885
+        }
+    ],
+    "wof:id":1209628885,
+    "wof:lastmodified":1536281258,
+    "wof:name":"Chontapampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54786999999997,
+    -6.41611,
+    -77.54786999999997,
+    -6.41611
+],
+  "geometry": {"coordinates":[-77.54786999999997,-6.41611],"type":"Point"}
+}

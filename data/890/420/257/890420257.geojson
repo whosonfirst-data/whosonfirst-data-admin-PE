@@ -1,0 +1,66 @@
+{
+  "id": 890420257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55976,-9.43786,-77.55976,-9.43786",
+    "geom:latitude":-9.43786,
+    "geom:longitude":-77.55976,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":300,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"C.P. Huanja",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380485,
+        "gp:id":420644,
+        "qs:id":622861
+    },
+    "wof:country":"PE",
+    "wof:created":1469051327,
+    "wof:geomhash":"d5b6af0c2f6e106354fff8d2e1f9ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":890420257,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":890420257,
+    "wof:lastmodified":1505343456,
+    "wof:name":"C.P. Huanja",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55976,
+    -9.43786,
+    -77.55976,
+    -9.43786
+],
+  "geometry": {"coordinates":[-77.55976,-9.43786],"type":"Point"}
+}

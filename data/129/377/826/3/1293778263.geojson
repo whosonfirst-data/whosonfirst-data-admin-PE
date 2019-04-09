@@ -1,0 +1,69 @@
+{
+  "id": 1293778263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31729,-13.05128,-74.31729,-13.05128",
+    "geom:latitude":-13.05128,
+    "geom:longitude":-74.31729,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90305.0",
+    "gn:asciiname":"Malepampa",
+    "gn:country_code":"PE",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935555,
+    "gn:latitude":-13.05128,
+    "gn:longitude":-74.31729,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Malepampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935555
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f3cc4b04716363d45125f140d343224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1293778263,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293778263,
+    "wof:lastmodified":1536863624,
+    "wof:name":"Malepampa",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31729,
+    -13.05128,
+    -74.31729,
+    -13.05128
+],
+  "geometry": {"coordinates":[-74.31729,-13.05128],"type":"Point"}
+}

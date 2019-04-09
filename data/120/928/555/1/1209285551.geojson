@@ -1,0 +1,63 @@
+{
+  "id": 1209285551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3725,-8.15861,-77.3725,-8.15861",
+    "geom:latitude":-8.15861,
+    "geom:longitude":-77.3725,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130802.0",
+    "gn:asciiname":"Antamarca",
+    "gn:country_code":"PE",
+    "gn:dem":2807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6384938,
+    "gn:latitude":-8.15861,
+    "gn:longitude":-77.3725,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Antamarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6384938
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5854b2d047dd2279285f0ae962fdf77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209285551
+        }
+    ],
+    "wof:id":1209285551,
+    "wof:lastmodified":1536291873,
+    "wof:name":"Antamarca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3725,
+    -8.158610000000001,
+    -77.3725,
+    -8.158610000000001
+],
+  "geometry": {"coordinates":[-77.3725,-8.15861],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242961111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08884,-13.51986,-76.08884,-13.51986",
+    "geom:latitude":-13.51986,
+    "geom:longitude":-76.08884,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110205.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"PE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929584,
+    "gn:latitude":-13.51986,
+    "gn:longitude":-76.08884,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 Hacienda",
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929584
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3cad582dc58035b6b4d8bfa15a790590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1242961111,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242961111,
+    "wof:lastmodified":1537676702,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08884,
+    -13.51986,
+    -76.08884,
+    -13.51986
+],
+  "geometry": {"coordinates":[-76.08884,-13.51986],"type":"Point"}
+}

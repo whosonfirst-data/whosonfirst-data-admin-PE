@@ -1,0 +1,70 @@
+{
+  "id": 1259372877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2075,-13.31389,-72.2075,-13.31389",
+    "geom:latitude":-13.31389,
+    "geom:longitude":-72.2075,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81305.0",
+    "gn:asciiname":"Moray",
+    "gn:country_code":"PE",
+    "gn:dem":3604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6393607,
+    "gn:latitude":-13.31389,
+    "gn:longitude":-72.2075,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Moray",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421183001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6393607,
+        "wk:page":"Moray_%28Inca_ruin%29"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c11e17bf3aa1d6d77a3d928784951b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183001,
+            "locality_id":1259372877,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1259372877,
+    "wof:lastmodified":1537570275,
+    "wof:name":"Moray",
+    "wof:parent_id":421183001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2075,
+    -13.31389,
+    -72.2075,
+    -13.31389
+],
+  "geometry": {"coordinates":[-72.2075,-13.31389],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293083679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55083,-11.50028,-76.55083,-11.50028",
+    "geom:latitude":-11.50028,
+    "geom:longitude":-76.55083,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150401.0",
+    "gn:asciiname":"Shuytogo",
+    "gn:country_code":"PE",
+    "gn:dem":4478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928697,
+    "gn:latitude":-11.50028,
+    "gn:longitude":-76.55083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shuytogo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928697
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7e91053f0de5d1cab5c260d9376da4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1293083679,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1293083679,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293083679,
+    "wof:lastmodified":1536871226,
+    "wof:name":"Shuytogo",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55083,
+    -11.50028,
+    -76.55083,
+    -11.50028
+],
+  "geometry": {"coordinates":[-76.55083,-11.50028],"type":"Point"}
+}

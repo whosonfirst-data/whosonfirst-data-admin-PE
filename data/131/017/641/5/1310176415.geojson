@@ -1,0 +1,69 @@
+{
+  "id": 1310176415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03369,-8.09792,-79.03369,-8.09792",
+    "geom:latitude":-8.09792,
+    "geom:longitude":-79.03369,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"Primavera",
+    "gn:country_code":"PE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778717,
+    "gn:latitude":-8.09792,
+    "gn:longitude":-79.03369,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421170677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778717
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c4c7ff60eb9d47ed9e197ce34422beb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170677,
+            "locality_id":1310176415,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1310176415,
+    "wof:lastmodified":1536894120,
+    "wof:name":"Primavera",
+    "wof:parent_id":421170677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03369,
+    -8.09792,
+    -79.03369,
+    -8.09792
+],
+  "geometry": {"coordinates":[-79.03369000000001,-8.09792],"type":"Point"}
+}

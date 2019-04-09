@@ -1,0 +1,72 @@
+{
+  "id": 1309904465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61273,-15.1497,-73.61273,-15.1497",
+    "geom:latitude":-15.1497,
+    "geom:longitude":-73.61273,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50706.0",
+    "gn:asciiname":"Sayhua",
+    "gn:country_code":"PE",
+    "gn:dem":3772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928858,
+    "gn:latitude":-15.1497,
+    "gn:longitude":-73.61273,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sayhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sayhua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928858
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"85b9217376a0dda01b28d8e8805de349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1309904465,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1309904465,
+    "wof:lastmodified":1537676690,
+    "wof:name":"Sayhua",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61273,
+    -15.1497,
+    -73.61273,
+    -15.1497
+],
+  "geometry": {"coordinates":[-73.61273,-15.1497],"type":"Point"}
+}

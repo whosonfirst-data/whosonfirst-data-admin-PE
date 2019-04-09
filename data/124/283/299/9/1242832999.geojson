@@ -1,0 +1,73 @@
+{
+  "id": 1242832999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.16226,-14.79197,-70.16226,-14.79197",
+    "geom:latitude":-14.79197,
+    "geom:longitude":-70.16226,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210201.0",
+    "gn:asciiname":"Huairapata",
+    "gn:country_code":"PE",
+    "gn:dem":3945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939869,
+    "gn:latitude":-14.79197,
+    "gn:longitude":-70.16226,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huairapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huairapata Hacienda",
+        "Huairapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939869
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d358fa7698eb7d7364264712db0cc84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1242832999,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1242832999,
+    "wof:lastmodified":1537676798,
+    "wof:name":"Huairapata",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.16226,
+    -14.79197,
+    -70.16226,
+    -14.79197
+],
+  "geometry": {"coordinates":[-70.16226,-14.79197],"type":"Point"}
+}

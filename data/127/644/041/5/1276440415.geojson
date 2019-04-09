@@ -1,0 +1,69 @@
+{
+  "id": 1276440415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72278,-13.98917,-73.72278,-13.98917",
+    "geom:latitude":-13.98917,
+    "geom:longitude":-73.72278,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50909.0",
+    "gn:asciiname":"Huicana",
+    "gn:country_code":"PE",
+    "gn:dem":3243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938759,
+    "gn:latitude":-13.98917,
+    "gn:longitude":-73.72278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huicana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938759
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d952f0c8a01bf59143728f0933985f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1276440415,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276440415,
+    "wof:lastmodified":1536633791,
+    "wof:name":"Huicana",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72278,
+    -13.98917,
+    -73.72278,
+    -13.98917
+],
+  "geometry": {"coordinates":[-73.72278,-13.98917],"type":"Point"}
+}

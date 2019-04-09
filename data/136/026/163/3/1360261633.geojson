@@ -1,0 +1,69 @@
+{
+  "id": 1360261633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02944,-11.76361,-76.02944,-11.76361",
+    "geom:latitude":-11.76361,
+    "geom:longitude":-76.02944,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120803.0",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"PE",
+    "gn:dem":4754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968053,
+    "gn:latitude":-11.76361,
+    "gn:longitude":-76.02944,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968053
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"51634bd78365a0835ade367727999be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1360261633,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1360261633,
+    "wof:lastmodified":1536691164,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02944000000002,
+    -11.76361,
+    -76.02944000000002,
+    -11.76361
+],
+  "geometry": {"coordinates":[-76.02944000000002,-11.76361],"type":"Point"}
+}

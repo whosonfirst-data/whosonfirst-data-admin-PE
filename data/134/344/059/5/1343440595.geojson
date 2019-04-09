@@ -1,0 +1,69 @@
+{
+  "id": 1343440595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59645,-11.35242,-75.59645,-11.35242",
+    "geom:latitude":-11.35242,
+    "geom:longitude":-75.59645,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120706.0",
+    "gn:asciiname":"Chipocayo",
+    "gn:country_code":"PE",
+    "gn:dem":2810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963025,
+    "gn:latitude":-11.35242,
+    "gn:longitude":-75.59645,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chipocayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963025
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9db157a8b90fa281ed08d233174b781b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1343440595,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343440595,
+    "wof:lastmodified":1536775590,
+    "wof:name":"Chipocayo",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59645,
+    -11.35242,
+    -75.59645,
+    -11.35242
+],
+  "geometry": {"coordinates":[-75.59645,-11.35242],"type":"Point"}
+}

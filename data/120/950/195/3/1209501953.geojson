@@ -1,0 +1,62 @@
+{
+  "id": 1209501953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2658,-11.02356,-76.2658,-11.02356",
+    "geom:latitude":-11.02356,
+    "geom:longitude":-76.2658,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:asciiname":"Huaycancha",
+    "gn:country_code":"PE",
+    "gn:dem":4110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669316,
+    "gn:latitude":-11.02356,
+    "gn:longitude":-76.2658,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Huaycancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669316
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"55367c1b72a4b5479cc5e87bc815691b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209501953
+        }
+    ],
+    "wof:id":1209501953,
+    "wof:lastmodified":1536285154,
+    "wof:name":"Huaycancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2658,
+    -11.02356,
+    -76.2658,
+    -11.02356
+],
+  "geometry": {"coordinates":[-76.2658,-11.02356],"type":"Point"}
+}

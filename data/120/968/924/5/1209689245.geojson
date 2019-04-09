@@ -1,0 +1,67 @@
+{
+  "id": 1209689245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81284,-6.3508,-79.81284,-6.3508",
+    "geom:latitude":-6.3508,
+    "geom:longitude":-79.81284,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140304.0",
+    "gn:asciiname":"Lobace",
+    "gn:country_code":"PE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695275,
+    "gn:latitude":-6.3508,
+    "gn:longitude":-79.81284,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Lobace",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lohace",
+        "Lobace"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695275
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"66008c0e8e0ab68728c2c42d3895ee6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209689245
+        }
+    ],
+    "wof:id":1209689245,
+    "wof:lastmodified":1537676590,
+    "wof:name":"Lobace",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81284000000002,
+    -6.3508,
+    -79.81284000000002,
+    -6.3508
+],
+  "geometry": {"coordinates":[-79.81284000000002,-6.3508],"type":"Point"}
+}

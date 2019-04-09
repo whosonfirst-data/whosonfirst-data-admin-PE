@@ -1,0 +1,63 @@
+{
+  "id": 1209070339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7677,-14.45352,-69.7677,-14.45352",
+    "geom:latitude":-14.45352,
+    "geom:longitude":-69.7677,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103.0",
+    "gn:admin3_code":"210306.0",
+    "gn:asciiname":"Fundicion",
+    "gn:country_code":"PE",
+    "gn:dem":4323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966177,
+    "gn:latitude":-14.45352,
+    "gn:longitude":-69.7677,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Fundici\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966177
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"236a550b74559c038be61822c3b2d895",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209070339
+        }
+    ],
+    "wof:id":1209070339,
+    "wof:lastmodified":1536298668,
+    "wof:name":"Fundicion",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7677,
+    -14.45352,
+    -69.7677,
+    -14.45352
+],
+  "geometry": {"coordinates":[-69.7677,-14.45352],"type":"Point"}
+}

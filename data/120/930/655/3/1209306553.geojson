@@ -1,0 +1,63 @@
+{
+  "id": 1209306553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.1456,-5.89053,-79.1456,-5.89053",
+    "geom:latitude":-5.89053,
+    "geom:longitude":-79.1456,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60807.0",
+    "gn:asciiname":"Nudillos",
+    "gn:country_code":"PE",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762112,
+    "gn:latitude":-5.89053,
+    "gn:longitude":-79.1456,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Nudillos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762112
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ec69f22d1e3583113f861d25499f3a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209306553
+        }
+    ],
+    "wof:id":1209306553,
+    "wof:lastmodified":1536291175,
+    "wof:name":"Nudillos",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.1456,
+    -5.89053,
+    -79.1456,
+    -5.89053
+],
+  "geometry": {"coordinates":[-79.1456,-5.89053],"type":"Point"}
+}

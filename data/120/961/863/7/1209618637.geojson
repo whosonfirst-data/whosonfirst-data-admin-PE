@@ -1,0 +1,68 @@
+{
+  "id": 1209618637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94859,-6.77362,-77.94859,-6.77362",
+    "geom:latitude":-6.77362,
+    "geom:longitude":-77.94859,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10103.0",
+    "gn:asciiname":"Illabamba",
+    "gn:country_code":"PE",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3697945,
+    "gn:latitude":-6.77362,
+    "gn:longitude":-77.94859,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Illabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Callonse",
+        "Collonce",
+        "Illabamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697945
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cc4bafc68aa3289b640a6714ac332ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209618637
+        }
+    ],
+    "wof:id":1209618637,
+    "wof:lastmodified":1537676623,
+    "wof:name":"Illabamba",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94859,
+    -6.77362,
+    -77.94859,
+    -6.77362
+],
+  "geometry": {"coordinates":[-77.94859,-6.77362],"type":"Point"}
+}

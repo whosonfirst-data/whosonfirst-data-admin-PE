@@ -1,0 +1,77 @@
+{
+  "id": 1243233525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.59528,-11.26722,-76.59528,-11.26722",
+    "geom:latitude":-11.26722,
+    "geom:longitude":-76.59528,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150602.0",
+    "gn:asciiname":"Catalina Jato",
+    "gn:country_code":"PE",
+    "gn:dem":4442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968159,
+    "gn:latitude":-11.26722,
+    "gn:longitude":-76.59528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Catalina Jato",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968159
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8aa62c4cf5e4fc1e7bea54ad33b4acab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1243233525,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1243233525,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1243233525,
+    "wof:lastmodified":1536613178,
+    "wof:name":"Catalina Jato",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.59528,
+    -11.26722,
+    -76.59528,
+    -11.26722
+],
+  "geometry": {"coordinates":[-76.59528,-11.26722],"type":"Point"}
+}

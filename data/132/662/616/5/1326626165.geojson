@@ -1,0 +1,69 @@
+{
+  "id": 1326626165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.54492,-12.49928,-74.54492,-12.49928",
+    "geom:latitude":-12.49928,
+    "geom:longitude":-74.54492,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90503.0",
+    "gn:asciiname":"Nabuin Puquio",
+    "gn:country_code":"PE",
+    "gn:dem":3168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665258,
+    "gn:latitude":-12.49928,
+    "gn:longitude":-74.54492,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nabuin Puquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665258
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6815058e2c6c87923517e21f1f9a0417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1326626165,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1326626165,
+    "wof:lastmodified":1536847510,
+    "wof:name":"Nabuin Puquio",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.54491999999998,
+    -12.49928,
+    -74.54491999999998,
+    -12.49928
+],
+  "geometry": {"coordinates":[-74.54491999999998,-12.49928],"type":"Point"}
+}

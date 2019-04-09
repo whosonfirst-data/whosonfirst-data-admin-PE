@@ -1,0 +1,74 @@
+{
+  "id": 1343245241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89611,-5.65556,-79.89611,-5.65556",
+    "geom:latitude":-5.65556,
+    "geom:longitude":-79.89611,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140308.0",
+    "gn:asciiname":"Barranco Blanco",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694342,
+    "gn:latitude":-5.65556,
+    "gn:longitude":-79.89611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Barranco Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noria de Barranco Blanco",
+        "Barranco Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694342
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e6201da6b4f1948c9057fccf3d212472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1343245241,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343245241,
+    "wof:lastmodified":1537676578,
+    "wof:name":"Barranco Blanco",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89611,
+    -5.65556,
+    -79.89611,
+    -5.65556
+],
+  "geometry": {"coordinates":[-79.89610999999999,-5.65556],"type":"Point"}
+}

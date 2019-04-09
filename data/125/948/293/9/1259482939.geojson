@@ -1,0 +1,69 @@
+{
+  "id": 1259482939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31592,-15.83903,-73.31592,-15.83903",
+    "geom:latitude":-15.83903,
+    "geom:longitude":-73.31592,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40301.0",
+    "gn:asciiname":"Socospampa",
+    "gn:country_code":"PE",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928509,
+    "gn:latitude":-15.83903,
+    "gn:longitude":-73.31592,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Socospampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928509
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0b86cdb35c6f333fcbe18adb618c12ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1259482939,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259482939,
+    "wof:lastmodified":1536858328,
+    "wof:name":"Socospampa",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31591999999998,
+    -15.83903,
+    -73.31591999999998,
+    -15.83903
+],
+  "geometry": {"coordinates":[-73.31591999999998,-15.83903],"type":"Point"}
+}

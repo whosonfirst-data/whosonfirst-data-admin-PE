@@ -1,0 +1,77 @@
+{
+  "id": 1259852217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93333,-11.3,-76.93333,-11.3",
+    "geom:latitude":-11.3,
+    "geom:longitude":-76.93333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150606.0",
+    "gn:asciiname":"Ollancaca",
+    "gn:country_code":"PE",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934057,
+    "gn:latitude":-11.3,
+    "gn:longitude":-76.93333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ollancaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934057
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"115aa80f7ba27240a605cfc580ce6079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1259852217,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1259852217,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1259852217,
+    "wof:lastmodified":1536823399,
+    "wof:name":"Ollancaca",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93333,
+    -11.3,
+    -76.93333,
+    -11.3
+],
+  "geometry": {"coordinates":[-76.93333,-11.3],"type":"Point"}
+}

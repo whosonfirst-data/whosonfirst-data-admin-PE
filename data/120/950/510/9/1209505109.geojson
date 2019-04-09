@@ -1,0 +1,63 @@
+{
+  "id": 1209505109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64656,-15.08356,-71.64656,-15.08356",
+    "geom:latitude":-15.08356,
+    "geom:longitude":-71.64656,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80807.0",
+    "gn:asciiname":"Lorendira",
+    "gn:country_code":"PE",
+    "gn:dem":4253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936001,
+    "gn:latitude":-15.08356,
+    "gn:longitude":-71.64656,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Lorendira",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936001
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9a37856f367b9c9db0fc997c0df99e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209505109
+        }
+    ],
+    "wof:id":1209505109,
+    "wof:lastmodified":1536285059,
+    "wof:name":"Lorendira",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64656,
+    -15.08356,
+    -71.64656,
+    -15.08356
+],
+  "geometry": {"coordinates":[-71.64655999999999,-15.08356],"type":"Point"}
+}

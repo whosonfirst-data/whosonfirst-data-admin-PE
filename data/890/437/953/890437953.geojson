@@ -1,0 +1,69 @@
+{
+  "id": 890437953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14694,-7.84472,-79.14694,-7.84472",
+    "geom:latitude":-7.84472,
+    "geom:longitude":-79.14694,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":14915,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chicama",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421193361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698359,
+        "gp:id":418736,
+        "qs:id":1046544,
+        "wd:id":"Q15813412",
+        "wk:page":"Chicama"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052173,
+    "wof:geomhash":"453676d9d83828d2782f766f92d48493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193361,
+            "locality_id":890437953,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":890437953,
+    "wof:lastmodified":1527729747,
+    "wof:name":"Chicama",
+    "wof:parent_id":421193361,
+    "wof:placetype":"locality",
+    "wof:population":14915,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14694,
+    -7.84472,
+    -79.14694,
+    -7.84472
+],
+  "geometry": {"coordinates":[-79.14694,-7.84472],"type":"Point"}
+}

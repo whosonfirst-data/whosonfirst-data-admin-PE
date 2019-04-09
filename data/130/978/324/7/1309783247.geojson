@@ -1,0 +1,73 @@
+{
+  "id": 1309783247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72078,-14.03533,-75.72078,-14.03533",
+    "geom:latitude":-14.03533,
+    "geom:longitude":-75.72078,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:asciiname":"Lopez",
+    "gn:country_code":"PE",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936008,
+    "gn:latitude":-14.03533,
+    "gn:longitude":-75.72078,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f3pez",
+        "Hacienda L\u00f3pez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936008
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eeb9fbb2fb01c76181c21f793f6a221d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1309783247,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1309783247,
+    "wof:lastmodified":1537676764,
+    "wof:name":"Lopez",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72078,
+    -14.03533,
+    -75.72078,
+    -14.03533
+],
+  "geometry": {"coordinates":[-75.72078,-14.03533],"type":"Point"}
+}

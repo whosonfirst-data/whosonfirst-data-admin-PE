@@ -1,0 +1,106 @@
+{
+  "id": 1125768347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.799682,-10.738199,-77.799682,-10.738199",
+    "geom:latitude":-10.738199,
+    "geom:longitude":-77.799682,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:gn_country":"PE",
+    "gn:pop":13583,
+    "iso:country":"PE",
+    "lbl:latitude":-10.738199,
+    "lbl:longitude":-77.799682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062a\u064a\u0641\u064a\u0644\u0643\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Pativilca"
+    ],
+    "name:eng_x_preferred":[
+        "Pativilca"
+    ],
+    "name:fre_x_preferred":[
+        "Pativilca"
+    ],
+    "name:por_x_preferred":[
+        "Pativilca"
+    ],
+    "name:spa_x_preferred":[
+        "Pativilca"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:name":"Pativilca",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Lima",
+    "qs_pg:photos":197,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":197,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075979,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":411116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424919,
+    "woe:name_adm0":"Per\u00fa",
+    "woe:name_adm1":"Lima",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932687,
+        "gp:id":411116,
+        "qs:id":1047264,
+        "qs_pg:id":1075979,
+        "wd:id":"Q3368805",
+        "wk:page":"Pativilca"
+    },
+    "wof:country":"PE",
+    "wof:created":1497289975,
+    "wof:geomhash":"74eac7a0c0d571e8c188e76ca6aefa9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125768347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125768347,
+    "wof:lastmodified":1534379395,
+    "wof:name":"Pativilca",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":13583,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890445197
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.799682,
+    -10.738199,
+    -77.799682,
+    -10.738199
+],
+  "geometry": {"coordinates":[-77.799682,-10.738199],"type":"Point"}
+}

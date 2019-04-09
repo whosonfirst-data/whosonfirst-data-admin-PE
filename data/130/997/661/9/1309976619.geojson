@@ -1,0 +1,73 @@
+{
+  "id": 1309976619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77739,-6.56367,-79.77739,-6.56367",
+    "geom:latitude":-6.56367,
+    "geom:longitude":-79.77739,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Pitipo",
+    "gn:country_code":"PE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693533,
+    "gn:latitude":-6.56367,
+    "gn:longitude":-79.77739,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"P\u00edtipo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mauro",
+        "P\u00edtipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693533
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ca0355c78731304d5dd4d72595ca3bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1309976619,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1309976619,
+    "wof:lastmodified":1537676568,
+    "wof:name":"Pitipo",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77739,
+    -6.56367,
+    -79.77739,
+    -6.56367
+],
+  "geometry": {"coordinates":[-79.77739,-6.56367],"type":"Point"}
+}

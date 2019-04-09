@@ -1,0 +1,73 @@
+{
+  "id": 1293741343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.72339,-4.07453,-80.72339,-4.07453",
+    "geom:latitude":-4.07453,
+    "geom:longitude":-80.72339,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"Conovitas",
+    "gn:country_code":"PE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3814638,
+    "gn:latitude":-4.07453,
+    "gn:longitude":-80.72339,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Conovitas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canovitas",
+        "Conovitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814638
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d6061168c3bd25c9669d9d7b35cf0011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1293741343,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1293741343,
+    "wof:lastmodified":1537676658,
+    "wof:name":"Conovitas",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.72339000000002,
+    -4.07453,
+    -80.72339000000002,
+    -4.07453
+],
+  "geometry": {"coordinates":[-80.72339000000002,-4.07453],"type":"Point"}
+}

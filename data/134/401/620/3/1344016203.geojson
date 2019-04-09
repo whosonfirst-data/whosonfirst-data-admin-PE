@@ -1,0 +1,69 @@
+{
+  "id": 1344016203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7921,-17.30492,-69.7921,-17.30492",
+    "geom:latitude":-17.30492,
+    "geom:longitude":-69.7921,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230401.0",
+    "gn:asciiname":"Mamuta",
+    "gn:country_code":"PE",
+    "gn:dem":4292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935485,
+    "gn:latitude":-17.30492,
+    "gn:longitude":-69.7921,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mamuta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935485
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b6b43de926d62145cf9f033fcd60d770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694033,
+            "locality_id":1344016203,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1344016203,
+    "wof:lastmodified":1536940341,
+    "wof:name":"Mamuta",
+    "wof:parent_id":1108694033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7921,
+    -17.30492000000001,
+    -69.7921,
+    -17.30492000000001
+],
+  "geometry": {"coordinates":[-69.7921,-17.30492000000001],"type":"Point"}
+}

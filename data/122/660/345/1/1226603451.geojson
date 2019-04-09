@@ -1,0 +1,65 @@
+{
+  "id": 1226603451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.71505,-15.65457,-69.71505,-15.65457",
+    "geom:latitude":-15.65457,
+    "geom:longitude":-69.71505,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210103.0",
+    "gn:asciiname":"Estanciasuyo",
+    "gn:country_code":"PE",
+    "gn:dem":3862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941005,
+    "gn:latitude":-15.65457,
+    "gn:longitude":-69.71505,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Estanciasuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941005
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b2df73d74f7f9e7d47b15a261c66d96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1226603451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226603451,
+    "wof:lastmodified":1536919215,
+    "wof:name":"Estanciasuyo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.71505,
+    -15.65457,
+    -69.71505,
+    -15.65457
+],
+  "geometry": {"coordinates":[-69.71505000000001,-15.65457],"type":"Point"}
+}

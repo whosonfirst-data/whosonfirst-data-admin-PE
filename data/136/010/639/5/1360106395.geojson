@@ -1,0 +1,75 @@
+{
+  "id": 1360106395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35,-5.88333,-79.35,-5.88333",
+    "geom:latitude":-5.88333,
+    "geom:longitude":-79.35,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Guabal",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696850,
+    "gn:latitude":-5.88333,
+    "gn:longitude":-79.35,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Guabal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guabal Hacienda",
+        "Hacienda Guabal",
+        "Guabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696850,
+        "wk:page":"Guabal%2C_Cajamarca"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"455f7a85279d5c2d3de8282ee1287124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1360106395,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1360106395,
+    "wof:lastmodified":1537676610,
+    "wof:name":"Guabal",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35,
+    -5.88333,
+    -79.35,
+    -5.88333
+],
+  "geometry": {"coordinates":[-79.34999999999999,-5.88333],"type":"Point"}
+}

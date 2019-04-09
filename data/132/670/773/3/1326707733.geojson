@@ -1,0 +1,72 @@
+{
+  "id": 1326707733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78945,-13.21737,-75.78945,-13.21737",
+    "geom:latitude":-13.21737,
+    "geom:longitude":-75.78945,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Elactapata",
+    "gn:country_code":"PE",
+    "gn:dem":2495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866533,
+    "gn:latitude":-13.21737,
+    "gn:longitude":-75.78945,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Elactapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Elactapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866533
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f7ea44d19c21adede2655b8c1635f696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1326707733,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1326707733,
+    "wof:lastmodified":1537676943,
+    "wof:name":"Elactapata",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78945,
+    -13.21737,
+    -75.78945,
+    -13.21737
+],
+  "geometry": {"coordinates":[-75.78945,-13.21737],"type":"Point"}
+}

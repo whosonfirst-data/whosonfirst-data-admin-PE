@@ -1,0 +1,72 @@
+{
+  "id": 1243341851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.21944,-10.05361,-76.21944,-10.05361",
+    "geom:latitude":-10.05361,
+    "geom:longitude":-76.21944,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100208.0",
+    "gn:asciiname":"Cachigaga",
+    "gn:country_code":"PE",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960629,
+    "gn:latitude":-10.05361,
+    "gn:longitude":-76.21944,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cachigaga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Cachigaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960629
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"44509485c18acc9d863cdf8db0a196ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1243341851,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1243341851,
+    "wof:lastmodified":1537676881,
+    "wof:name":"Cachigaga",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.21944,
+    -10.05361,
+    -76.21944,
+    -10.05361
+],
+  "geometry": {"coordinates":[-76.21944000000001,-10.05361],"type":"Point"}
+}

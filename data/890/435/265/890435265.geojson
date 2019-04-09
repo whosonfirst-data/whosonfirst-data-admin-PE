@@ -1,0 +1,66 @@
+{
+  "id": 890435265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58333,-11.35,-69.58333,-11.35",
+    "geom:latitude":-11.35,
+    "geom:longitude":-69.58333,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":4386,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Iberia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938531,
+        "gp:id":12524544,
+        "qs:id":151098
+    },
+    "wof:country":"PE",
+    "wof:created":1469052061,
+    "wof:geomhash":"da03d1b0a541b77276178fb28e089f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":890435265,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":890435265,
+    "wof:lastmodified":1505343546,
+    "wof:name":"Iberia",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:population":4386,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58333,
+    -11.35,
+    -69.58333,
+    -11.35
+],
+  "geometry": {"coordinates":[-69.58333,-11.35],"type":"Point"}
+}

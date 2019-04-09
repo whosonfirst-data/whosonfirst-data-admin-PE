@@ -1,0 +1,74 @@
+{
+  "id": 1276726111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.96577,-15.47673,-69.96577,-15.47673",
+    "geom:latitude":-15.47673,
+    "geom:longitude":-69.96577,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210605.0",
+    "gn:asciiname":"Ray",
+    "gn:country_code":"PE",
+    "gn:dem":3897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930495,
+    "gn:latitude":-15.47673,
+    "gn:longitude":-69.96577,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ray",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda San Jose de Ray",
+        "Ray Hacienda",
+        "Ray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930495
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d51154d06cf0c1a7c705169b3b662d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1276726111,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276726111,
+    "wof:lastmodified":1537676712,
+    "wof:name":"Ray",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.96576999999999,
+    -15.47673,
+    -69.96576999999999,
+    -15.47673
+],
+  "geometry": {"coordinates":[-69.96576999999999,-15.47673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309770193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.28593,-16.1015,-70.28593,-16.1015",
+    "geom:latitude":-16.1015,
+    "geom:longitude":-70.28593,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210113.0",
+    "gn:asciiname":"San Antonio de Esquilache",
+    "gn:country_code":"PE",
+    "gn:dem":4718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929816,
+    "gn:latitude":-16.1015,
+    "gn:longitude":-70.28593,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Antonio de Esquilache",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio de Esquilachi",
+        "San Antonio de Esquilache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929816
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9d2ba395e515be541eef36a07e257e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1309770193,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309770193,
+    "wof:lastmodified":1537676705,
+    "wof:name":"San Antonio de Esquilache",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.28593000000001,
+    -16.1015,
+    -70.28593000000001,
+    -16.1015
+],
+  "geometry": {"coordinates":[-70.28593000000001,-16.1015],"type":"Point"}
+}

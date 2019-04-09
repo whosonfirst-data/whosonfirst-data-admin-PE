@@ -1,0 +1,76 @@
+{
+  "id": 1310378667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.62319,-6.96095,-79.62319,-6.96095",
+    "geom:latitude":-6.96095,
+    "geom:longitude":-79.62319,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140107.0",
+    "gn:asciiname":"San Marcos Numero Uno",
+    "gn:country_code":"PE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692398,
+    "gn:latitude":-6.96095,
+    "gn:longitude":-79.62319,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"San Marcos Numero Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Marcos Numero Uno"
+    ],
+    "name:spa_x_variant":[
+        "San Marcos",
+        "San Marcos Numero 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692398
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1095d3f854b7195eb2749837bfda04bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1310378667,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1310378667,
+    "wof:lastmodified":1537676550,
+    "wof:name":"San Marcos Numero Uno",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.62319000000002,
+    -6.96095,
+    -79.62319000000002,
+    -6.96095
+],
+  "geometry": {"coordinates":[-79.62319000000002,-6.96095],"type":"Point"}
+}

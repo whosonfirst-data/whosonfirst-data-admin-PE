@@ -1,0 +1,84 @@
+{
+  "id": 421177589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02417,-11.13278,-77.02417,-11.13278",
+    "geom:latitude":-11.13278,
+    "geom:longitude":-77.02417,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6412671,
+    "qs:gn_pop":0,
+    "qs:name":"Chicla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1342462,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418739,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412671,
+        "gp:id":418739,
+        "qs:id":1342462
+    },
+    "wof:country":"PE",
+    "wof:created":1459009151,
+    "wof:geomhash":"55fb76273a6cd1e36f960044037d9d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":421177589,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":421177589,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421177589,
+    "wof:lastmodified":1500024363,
+    "wof:name":"Chicla",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02417,
+    -11.13278,
+    -77.02417,
+    -11.13278
+],
+  "geometry": {"coordinates":[-77.02417,-11.13278],"type":"Point"}
+}

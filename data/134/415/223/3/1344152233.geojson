@@ -1,0 +1,69 @@
+{
+  "id": 1344152233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76149,-9.73881,-76.76149,-9.73881",
+    "geom:latitude":-9.73881,
+    "geom:longitude":-76.76149,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100322.0",
+    "gn:asciiname":"Cashupampa",
+    "gn:country_code":"PE",
+    "gn:dem":3311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665926,
+    "gn:latitude":-9.73881,
+    "gn:longitude":-76.76149,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cashupampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665926
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4c05fa825030226c01001bcf03a52a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1344152233,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1344152233,
+    "wof:lastmodified":1536742937,
+    "wof:name":"Cashupampa",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76149000000002,
+    -9.73881,
+    -76.76149000000002,
+    -9.73881
+],
+  "geometry": {"coordinates":[-76.76149000000002,-9.73881],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309970531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,-5.16667,-79.46667,-5.16667",
+    "geom:latitude":-5.16667,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200301.0",
+    "gn:asciiname":"Banlanaque",
+    "gn:country_code":"PE",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699446,
+    "gn:latitude":-5.16667,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Banlanaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699446
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a77fca9dd4ae9800b7e8c1153500b6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1309970531,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1309970531,
+    "wof:lastmodified":1536694021,
+    "wof:name":"Banlanaque",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    -5.16667,
+    -79.46667,
+    -5.16667
+],
+  "geometry": {"coordinates":[-79.46666999999999,-5.16667],"type":"Point"}
+}

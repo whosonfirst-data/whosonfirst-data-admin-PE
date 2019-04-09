@@ -1,0 +1,72 @@
+{
+  "id": 1343320395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46839,-6.54562,-76.46839,-6.54562",
+    "geom:latitude":-6.54562,
+    "geom:longitude":-76.46839,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220505.0",
+    "gn:asciiname":"Codo",
+    "gn:country_code":"PE",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763246,
+    "gn:latitude":-6.54562,
+    "gn:longitude":-76.46839,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Codo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Codo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763246
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"176809561c0df691681abf837a927070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694057,
+            "locality_id":1343320395,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1343320395,
+    "wof:lastmodified":1537676652,
+    "wof:name":"Codo",
+    "wof:parent_id":1108694057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46839,
+    -6.54562,
+    -76.46839,
+    -6.54562
+],
+  "geometry": {"coordinates":[-76.46839,-6.54562],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209689831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.48005,-15.88311,-70.48005,-15.88311",
+    "geom:latitude":-15.88311,
+    "geom:longitude":-70.48005,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:admin3_code":"211103.0",
+    "gn:asciiname":"Jayucancha",
+    "gn:country_code":"PE",
+    "gn:dem":4416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937713,
+    "gn:latitude":-15.88311,
+    "gn:longitude":-70.48005,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jayucancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937713
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c66b2fe827ecf00e6641f24361e0747c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209689831
+        }
+    ],
+    "wof:id":1209689831,
+    "wof:lastmodified":1536279282,
+    "wof:name":"Jayucancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.48005,
+    -15.88311,
+    -70.48005,
+    -15.88311
+],
+  "geometry": {"coordinates":[-70.48005000000001,-15.88311],"type":"Point"}
+}

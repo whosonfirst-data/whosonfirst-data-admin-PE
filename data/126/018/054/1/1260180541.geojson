@@ -1,0 +1,72 @@
+{
+  "id": 1260180541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7159,-13.44492,-74.7159,-13.44492",
+    "geom:latitude":-13.44492,
+    "geom:longitude":-74.7159,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50205.0",
+    "gn:asciiname":"Mallquiphuasi",
+    "gn:country_code":"PE",
+    "gn:dem":4613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935514,
+    "gn:latitude":-13.44492,
+    "gn:longitude":-74.7159,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Mallquiphuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malquiphuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935514
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7738a63d02a6b2cf38e593190f8d0498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1260180541,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260180541,
+    "wof:lastmodified":1537676760,
+    "wof:name":"Mallquiphuasi",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7159,
+    -13.44492,
+    -74.7159,
+    -13.44492
+],
+  "geometry": {"coordinates":[-74.7159,-13.44492],"type":"Point"}
+}

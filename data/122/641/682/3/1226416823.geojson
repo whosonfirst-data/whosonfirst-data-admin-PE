@@ -1,0 +1,74 @@
+{
+  "id": 1226416823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78569,-5.31869,-79.78569,-5.31869",
+    "geom:latitude":-5.31869,
+    "geom:longitude":-79.78569,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200407.0",
+    "gn:asciiname":"Hacienda Bigote",
+    "gn:country_code":"PE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699346,
+    "gn:latitude":-5.31869,
+    "gn:longitude":-79.78569,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda Bigote",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bigote",
+        "Bigote Hacienda",
+        "Hacienda Bigote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699346
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1c5b1776310a018c7f1bf15626b43cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1226416823,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226416823,
+    "wof:lastmodified":1537676641,
+    "wof:name":"Hacienda Bigote",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78569,
+    -5.31869,
+    -79.78569,
+    -5.31869
+],
+  "geometry": {"coordinates":[-79.78569,-5.31869],"type":"Point"}
+}

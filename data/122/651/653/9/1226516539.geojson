@@ -1,0 +1,74 @@
+{
+  "id": 1226516539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.98333,-4.9,-80.98333,-4.9",
+    "geom:latitude":-4.9,
+    "geom:longitude":-80.98333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200505.0",
+    "gn:asciiname":"Huan",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696475,
+    "gn:latitude":-4.9,
+    "gn:longitude":-80.98333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huan Hacienda",
+        "Huan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696475
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"41606a3386f1081df9f9635ff1266de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1226516539,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226516539,
+    "wof:lastmodified":1537676605,
+    "wof:name":"Huan",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.98333000000002,
+    -4.9,
+    -80.98333000000002,
+    -4.9
+],
+  "geometry": {"coordinates":[-80.98333000000002,-4.9],"type":"Point"}
+}

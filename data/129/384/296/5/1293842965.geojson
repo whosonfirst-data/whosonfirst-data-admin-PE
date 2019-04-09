@@ -1,0 +1,69 @@
+{
+  "id": 1293842965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.13667,-4.46722,-81.13667,-4.46722",
+    "geom:latitude":-4.46722,
+    "geom:longitude":-81.13667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Barranca",
+    "gn:country_code":"PE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699428,
+    "gn:latitude":-4.46722,
+    "gn:longitude":-81.13667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Barranca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699428
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"49690ec7a77ece236d141a29ee45ffa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1293842965,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293842965,
+    "wof:lastmodified":1536772466,
+    "wof:name":"Barranca",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.13667,
+    -4.46722,
+    -81.13667,
+    -4.46722
+],
+  "geometry": {"coordinates":[-81.13667,-4.46722],"type":"Point"}
+}

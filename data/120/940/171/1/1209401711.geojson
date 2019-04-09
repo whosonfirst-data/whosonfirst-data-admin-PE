@@ -1,0 +1,63 @@
+{
+  "id": 1209401711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62639,-11.26972,-75.62639,-11.26972",
+    "geom:latitude":-11.26972,
+    "geom:longitude":-75.62639,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120704.0",
+    "gn:asciiname":"Tongo",
+    "gn:country_code":"PE",
+    "gn:dem":2710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3961436,
+    "gn:latitude":-11.26972,
+    "gn:longitude":-75.62639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tongo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3961436
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf240963bb917332a78dc276265a94a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209401711
+        }
+    ],
+    "wof:id":1209401711,
+    "wof:lastmodified":1536288125,
+    "wof:name":"Tongo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62639,
+    -11.26972,
+    -75.62639,
+    -11.26972
+],
+  "geometry": {"coordinates":[-75.62639,-11.26972],"type":"Point"}
+}

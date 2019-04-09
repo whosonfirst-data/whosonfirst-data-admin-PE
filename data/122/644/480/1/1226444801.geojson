@@ -1,0 +1,72 @@
+{
+  "id": 1226444801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07684,-9.1648,-78.07684,-9.1648",
+    "geom:latitude":-9.1648,
+    "geom:longitude":-78.07684,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21805.0",
+    "gn:asciiname":"Brena",
+    "gn:country_code":"PE",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699247,
+    "gn:latitude":-9.1648,
+    "gn:longitude":-78.07684,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Bre\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bre\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699247
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2845bbe76f54db5a3eef85949bb98560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1226444801,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226444801,
+    "wof:lastmodified":1537676640,
+    "wof:name":"Brena",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07684,
+    -9.1648,
+    -78.07684,
+    -9.1648
+],
+  "geometry": {"coordinates":[-78.07684,-9.1648],"type":"Point"}
+}

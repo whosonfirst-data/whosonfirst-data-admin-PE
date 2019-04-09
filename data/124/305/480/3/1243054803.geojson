@@ -1,0 +1,69 @@
+{
+  "id": 1243054803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73722,-11.47666,-75.73722,-11.47666",
+    "geom:latitude":-11.47666,
+    "geom:longitude":-75.73722,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120701.0",
+    "gn:asciiname":"Anta Ucro",
+    "gn:country_code":"PE",
+    "gn:dem":3914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962127,
+    "gn:latitude":-11.47666,
+    "gn:longitude":-75.73722,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Anta Ucro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962127
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f91d6a6936811f68cab298f61e48e325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1243054803,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1243054803,
+    "wof:lastmodified":1536872115,
+    "wof:name":"Anta Ucro",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73722,
+    -11.47666,
+    -75.73722,
+    -11.47666
+],
+  "geometry": {"coordinates":[-75.73721999999999,-11.47666],"type":"Point"}
+}

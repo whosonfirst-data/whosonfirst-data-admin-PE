@@ -1,0 +1,62 @@
+{
+  "id": 1209571741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.10714,-8.70692,-76.10714,-8.70692",
+    "geom:latitude":-8.70692,
+    "geom:longitude":-76.10714,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1006.0",
+    "gn:asciiname":"Marona",
+    "gn:country_code":"PE",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6672520,
+    "gn:latitude":-8.70692,
+    "gn:longitude":-76.10714,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Marona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672520
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5281fa8d1e91afc07e8f814b4d760bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209571741
+        }
+    ],
+    "wof:id":1209571741,
+    "wof:lastmodified":1536283062,
+    "wof:name":"Marona",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.10714,
+    -8.70692,
+    -76.10714,
+    -8.70692
+],
+  "geometry": {"coordinates":[-76.10714,-8.70692],"type":"Point"}
+}

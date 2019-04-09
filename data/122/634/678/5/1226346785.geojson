@@ -1,0 +1,69 @@
+{
+  "id": 1226346785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11667,-13.46667,-74.11667,-13.46667",
+    "geom:latitude":-13.46667,
+    "geom:longitude":-74.11667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50105.0",
+    "gn:asciiname":"Orejonlligua",
+    "gn:country_code":"PE",
+    "gn:dem":3502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933975,
+    "gn:latitude":-13.46667,
+    "gn:longitude":-74.11667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Orejonlligua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933975
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"17a4c37260be19eab3a1d47b18547b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1226346785,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226346785,
+    "wof:lastmodified":1536788385,
+    "wof:name":"Orejonlligua",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11667,
+    -13.46667,
+    -74.11667,
+    -13.46667
+],
+  "geometry": {"coordinates":[-74.11667,-13.46667],"type":"Point"}
+}

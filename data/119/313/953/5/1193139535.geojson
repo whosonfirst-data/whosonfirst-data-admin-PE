@@ -1,0 +1,69 @@
+{
+  "id": 1193139535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54972,-9.46167,-77.54972,-9.46167",
+    "geom:latitude":-9.46167,
+    "geom:longitude":-77.54972,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20105.0",
+    "gn:asciiname":"Chigney",
+    "gn:country_code":"PE",
+    "gn:dem":3212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380462,
+    "gn:latitude":-9.46167,
+    "gn:longitude":-77.54972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chigney",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380462
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"19e60e30a904bcb3361854cd89c16411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187921,
+            "locality_id":1193139535,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1193139535,
+    "wof:lastmodified":1536367008,
+    "wof:name":"Chigney",
+    "wof:parent_id":421187921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54972,
+    -9.46167,
+    -77.54972,
+    -9.46167
+],
+  "geometry": {"coordinates":[-77.54971999999999,-9.46167],"type":"Point"}
+}

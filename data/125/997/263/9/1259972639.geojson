@@ -1,0 +1,72 @@
+{
+  "id": 1259972639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65607,-14.52492,-74.65607,-14.52492",
+    "geom:latitude":-14.52492,
+    "geom:longitude":-74.65607,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50613.0",
+    "gn:asciiname":"Pisajalla",
+    "gn:country_code":"PE",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641835,
+    "gn:latitude":-14.52492,
+    "gn:longitude":-74.65607,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pisajalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pisajalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641835
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8dd8cef2a54ab65722afca7e8ecd5a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1259972639,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1259972639,
+    "wof:lastmodified":1537676933,
+    "wof:name":"Pisajalla",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65607,
+    -14.52492,
+    -74.65607,
+    -14.52492
+],
+  "geometry": {"coordinates":[-74.65607,-14.52492],"type":"Point"}
+}

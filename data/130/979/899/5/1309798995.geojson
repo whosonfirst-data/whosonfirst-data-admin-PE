@@ -1,0 +1,69 @@
+{
+  "id": 1309798995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.87611,-13.73139,-73.87611,-13.73139",
+    "geom:latitude":-13.73139,
+    "geom:longitude":-73.87611,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51105.0",
+    "gn:asciiname":"Yanaccocha",
+    "gn:country_code":"PE",
+    "gn:dem":3731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925851,
+    "gn:latitude":-13.73139,
+    "gn:longitude":-73.87611,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yanaccocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925851
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7694e4b6a5fbd02825537cc608c39f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693943,
+            "locality_id":1309798995,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1309798995,
+    "wof:lastmodified":1536941496,
+    "wof:name":"Yanaccocha",
+    "wof:parent_id":1108693943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.87611,
+    -13.73139,
+    -73.87611,
+    -13.73139
+],
+  "geometry": {"coordinates":[-73.87611,-13.73139],"type":"Point"}
+}

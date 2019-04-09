@@ -1,0 +1,75 @@
+{
+  "id": 1326907805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.18667,-14.08017,-75.18667,-14.08017",
+    "geom:latitude":-14.08017,
+    "geom:longitude":-75.18667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110405.0",
+    "gn:asciiname":"San Andres de Quilcanto",
+    "gn:country_code":"PE",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930858,
+    "gn:latitude":-14.08017,
+    "gn:longitude":-75.18667,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Andr\u00e9s de Quilcanto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quilcanta",
+        "Quilcanto",
+        "Quillcanto",
+        "San Andr\u00e9s de Quilcanto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930858
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8ea4335d6f80843fdd9228a181ad79b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1326907805,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1326907805,
+    "wof:lastmodified":1537676716,
+    "wof:name":"San Andres de Quilcanto",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.18666999999998,
+    -14.08017,
+    -75.18666999999998,
+    -14.08017
+],
+  "geometry": {"coordinates":[-75.18666999999998,-14.08017],"type":"Point"}
+}

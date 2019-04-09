@@ -1,0 +1,77 @@
+{
+  "id": 1277058899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.9,-12.95,-75.9,-12.95",
+    "geom:latitude":-12.95,
+    "geom:longitude":-75.9,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151009.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"PE",
+    "gn:dem":2779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929587,
+    "gn:latitude":-12.95,
+    "gn:longitude":-75.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929587
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d9f8838397bb8d194e568ccc1b537ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1277058899,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1277058899,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277058899,
+    "wof:lastmodified":1536801024,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.9,
+    -12.95,
+    -75.9,
+    -12.95
+],
+  "geometry": {"coordinates":[-75.90000000000001,-12.95],"type":"Point"}
+}

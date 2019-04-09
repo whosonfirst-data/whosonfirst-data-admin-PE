@@ -1,0 +1,69 @@
+{
+  "id": 1243271955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94732,-9.20992,-76.94732,-9.20992",
+    "geom:latitude":-9.20992,
+    "geom:longitude":-76.94732,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21016.0",
+    "gn:asciiname":"Piuroc",
+    "gn:country_code":"PE",
+    "gn:dem":2940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675479,
+    "gn:latitude":-9.20992,
+    "gn:longitude":-76.94732,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Piuroc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675479
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cf98f137821cd4bfa5026214cd1ad049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187851,
+            "locality_id":1243271955,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1243271955,
+    "wof:lastmodified":1537054619,
+    "wof:name":"Piuroc",
+    "wof:parent_id":421187851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94731999999998,
+    -9.20992,
+    -76.94731999999998,
+    -9.20992
+],
+  "geometry": {"coordinates":[-76.94731999999998,-9.20992],"type":"Point"}
+}

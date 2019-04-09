@@ -1,0 +1,69 @@
+{
+  "id": 1225827141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43444,-3.47528,-76.43444,-3.47528",
+    "geom:latitude":-3.47528,
+    "geom:longitude":-76.43444,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1607.0",
+    "gn:admin3_code":"160706.0",
+    "gn:asciiname":"Alianza Cristiana",
+    "gn:country_code":"PE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3752737,
+    "gn:latitude":-3.47528,
+    "gn:longitude":-76.43444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alianza Cristiana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752737
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d60fe420f591c37040a2b8537a9848f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":1225827141,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1225827141,
+    "wof:lastmodified":1537038850,
+    "wof:name":"Alianza Cristiana",
+    "wof:parent_id":1108694051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43444000000002,
+    -3.47528,
+    -76.43444000000002,
+    -3.47528
+],
+  "geometry": {"coordinates":[-76.43444000000002,-3.47528],"type":"Point"}
+}

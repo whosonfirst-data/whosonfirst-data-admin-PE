@@ -1,0 +1,72 @@
+{
+  "id": 1277078773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50158,-15.25232,-73.50158,-15.25232",
+    "geom:latitude":-15.25232,
+    "geom:longitude":-73.50158,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50810.0",
+    "gn:asciiname":"Huancayllane",
+    "gn:country_code":"PE",
+    "gn:dem":3559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008541,
+    "gn:latitude":-15.25232,
+    "gn:longitude":-73.50158,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huancayllane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huancayllane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008541
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"50aad3a90eb0573ee07c857127ee47ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693933,
+            "locality_id":1277078773,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1277078773,
+    "wof:lastmodified":1537676959,
+    "wof:name":"Huancayllane",
+    "wof:parent_id":1108693933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50158,
+    -15.25232,
+    -73.50158,
+    -15.25232
+],
+  "geometry": {"coordinates":[-73.50158,-15.25232],"type":"Point"}
+}

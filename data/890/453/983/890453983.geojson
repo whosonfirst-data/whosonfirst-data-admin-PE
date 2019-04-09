@@ -1,0 +1,75 @@
+{
+  "id": 890453983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76972,-6.71778,-79.76972,-6.71778",
+    "geom:latitude":-6.71778,
+    "geom:longitude":-79.76972,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":43610,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0441\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Pixi"
+    ],
+    "qs:name":"Picsi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693645,
+        "gp:id":411392,
+        "qs:id":279878,
+        "wd:id":"Q5812742",
+        "wk:page":"Picsi District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052881,
+    "wof:geomhash":"fac4ebfe01a7e23f64be67d5f2ba0661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":890453983,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":890453983,
+    "wof:lastmodified":1527736641,
+    "wof:name":"Picsi",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:population":43610,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76972,
+    -6.71778,
+    -79.76972,
+    -6.71778
+],
+  "geometry": {"coordinates":[-79.76972000000001,-6.71778],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343459891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.29002,-13.93194,-73.29002,-13.93194",
+    "geom:latitude":-13.93194,
+    "geom:longitude":-73.29002,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30405.0",
+    "gn:asciiname":"Joccarina",
+    "gn:country_code":"PE",
+    "gn:dem":3784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6308677,
+    "gn:latitude":-13.93194,
+    "gn:longitude":-73.29002,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Joccarina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421175161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308677
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4d418e6aa8836e0f1cbe671fec871673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175161,
+            "locality_id":1343459891,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1343459891,
+    "wof:lastmodified":1536746746,
+    "wof:name":"Joccarina",
+    "wof:parent_id":421175161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.29002,
+    -13.93194,
+    -73.29002,
+    -13.93194
+],
+  "geometry": {"coordinates":[-73.29002,-13.93194],"type":"Point"}
+}

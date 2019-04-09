@@ -1,0 +1,69 @@
+{
+  "id": 1310181719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.32712,-12.29444,-75.32712,-12.29444",
+    "geom:latitude":-12.29444,
+    "geom:longitude":-75.32712,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120106.0",
+    "gn:asciiname":"Santa Rosa de Huacramazana",
+    "gn:country_code":"PE",
+    "gn:dem":3798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929072,
+    "gn:latitude":-12.29444,
+    "gn:longitude":-75.32712,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Santa Rosa de Huacramazana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929072
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e70d7bc48833c3de91b857e50c117fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1310181719,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1310181719,
+    "wof:lastmodified":1536886201,
+    "wof:name":"Santa Rosa de Huacramazana",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.32712,
+    -12.29444,
+    -75.32712,
+    -12.29444
+],
+  "geometry": {"coordinates":[-75.32711999999999,-12.29444],"type":"Point"}
+}

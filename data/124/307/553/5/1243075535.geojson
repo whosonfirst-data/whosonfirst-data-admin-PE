@@ -1,0 +1,73 @@
+{
+  "id": 1243075535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.02066,-9.84638,-78.02066,-9.84638",
+    "geom:latitude":-9.84638,
+    "geom:longitude":-78.02066,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"21103.0",
+    "gn:asciiname":"Quillapampa",
+    "gn:country_code":"PE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693030,
+    "gn:latitude":-9.84638,
+    "gn:longitude":-78.02066,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Quillapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quillipampa",
+        "Quillapampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421184497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693030
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ec401dae1060f1bca6b67051d4778a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184497,
+            "locality_id":1243075535,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1243075535,
+    "wof:lastmodified":1537676560,
+    "wof:name":"Quillapampa",
+    "wof:parent_id":421184497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.02065999999998,
+    -9.84638,
+    -78.02065999999998,
+    -9.84638
+],
+  "geometry": {"coordinates":[-78.02065999999998,-9.84638],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310369381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.195,-14.19075,-69.195,-14.19075",
+    "geom:latitude":-14.19075,
+    "geom:longitude":-69.195,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Abra Maroncunca",
+    "gn:country_code":"PE",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558330,
+    "gn:latitude":-14.19075,
+    "gn:longitude":-69.195,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Abra Mar\u00f3ncunca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Abra Mar\u00f3ncunca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558330
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af75c87c7d7593ff768a34011d762982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1310369381,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1310369381,
+    "wof:lastmodified":1537677002,
+    "wof:name":"Abra Maroncunca",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.195,
+    -14.19075,
+    -69.195,
+    -14.19075
+],
+  "geometry": {"coordinates":[-69.19499999999999,-14.19075],"type":"Point"}
+}

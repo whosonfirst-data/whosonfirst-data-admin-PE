@@ -1,0 +1,63 @@
+{
+  "id": 1209276943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.21368,-16.60096,-71.21368,-16.60096",
+    "geom:latitude":-16.60096,
+    "geom:longitude":-71.21368,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180208.0",
+    "gn:asciiname":"Chaqui Pupquio",
+    "gn:country_code":"PE",
+    "gn:dem":3508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944306,
+    "gn:latitude":-16.60096,
+    "gn:longitude":-71.21368,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chaqui Pupquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944306
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"88dab8ad627c5597f8d383dea1eb62cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209276943
+        }
+    ],
+    "wof:id":1209276943,
+    "wof:lastmodified":1536292160,
+    "wof:name":"Chaqui Pupquio",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21368000000002,
+    -16.60096,
+    -71.21368000000002,
+    -16.60096
+],
+  "geometry": {"coordinates":[-71.21368000000002,-16.60096],"type":"Point"}
+}

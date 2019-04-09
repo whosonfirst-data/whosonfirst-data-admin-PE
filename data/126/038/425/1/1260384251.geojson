@@ -1,0 +1,72 @@
+{
+  "id": 1260384251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.28202,-13.11842,-74.28202,-13.11842",
+    "geom:latitude":-13.11842,
+    "geom:longitude":-74.28202,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50101.0",
+    "gn:asciiname":"Tomarenga",
+    "gn:country_code":"PE",
+    "gn:dem":2654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8670094,
+    "gn:latitude":-13.11842,
+    "gn:longitude":-74.28202,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tomarenga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tomarenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8670094
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f5bc37f621c65ad9c582692c26d6f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1260384251,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260384251,
+    "wof:lastmodified":1537676916,
+    "wof:name":"Tomarenga",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.28201999999997,
+    -13.11842,
+    -74.28201999999997,
+    -13.11842
+],
+  "geometry": {"coordinates":[-74.28201999999997,-13.11842],"type":"Point"}
+}

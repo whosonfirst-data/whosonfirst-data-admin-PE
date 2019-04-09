@@ -1,0 +1,74 @@
+{
+  "id": 1326801513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.58715,-8.94083,-78.58715,-8.94083",
+    "geom:latitude":-8.94083,
+    "geom:longitude":-78.58715,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"218.0",
+    "gn:asciiname":"El Cerillo",
+    "gn:country_code":"PE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412014,
+    "gn:latitude":-8.94083,
+    "gn:longitude":-78.58715,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"El Cerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cerillo"
+    ],
+    "name:und_x_variant":[
+        "El Cerrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412014
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"37b8c6ee7b79ea4138e7aca13b6488f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1326801513,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1326801513,
+    "wof:lastmodified":1537676898,
+    "wof:name":"El Cerillo",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.58715,
+    -8.94083,
+    -78.58715,
+    -8.94083
+],
+  "geometry": {"coordinates":[-78.58714999999999,-8.94083],"type":"Point"}
+}

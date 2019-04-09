@@ -1,0 +1,63 @@
+{
+  "id": 1209622047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08301,-13.94379,-73.08301,-13.94379",
+    "geom:latitude":-13.94379,
+    "geom:longitude":-73.08301,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30404.0",
+    "gn:asciiname":"Porcay",
+    "gn:country_code":"PE",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309291,
+    "gn:latitude":-13.94379,
+    "gn:longitude":-73.08301,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Porcay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309291
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d8303b4fa4e65d2a6fc46d6b2a94cc4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209622047
+        }
+    ],
+    "wof:id":1209622047,
+    "wof:lastmodified":1536281484,
+    "wof:name":"Porcay",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08301,
+    -13.94379,
+    -73.08301,
+    -13.94379
+],
+  "geometry": {"coordinates":[-73.08301,-13.94379],"type":"Point"}
+}

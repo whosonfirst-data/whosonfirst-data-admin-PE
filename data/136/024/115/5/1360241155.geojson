@@ -1,0 +1,72 @@
+{
+  "id": 1360241155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42444,-6.63195,-76.42444,-6.63195",
+    "geom:latitude":-6.63195,
+    "geom:longitude":-76.42444,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2205.0",
+    "gn:admin3_code":"220505.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"PE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763274,
+    "gn:latitude":-6.63195,
+    "gn:longitude":-76.42444,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Carlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763274
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3141e8de2a0024b58d435c7b04911699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694057,
+            "locality_id":1360241155,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1360241155,
+    "wof:lastmodified":1537676653,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1108694057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42444,
+    -6.63195,
+    -76.42444,
+    -6.63195
+],
+  "geometry": {"coordinates":[-76.42444,-6.63195],"type":"Point"}
+}

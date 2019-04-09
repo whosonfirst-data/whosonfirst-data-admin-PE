@@ -1,0 +1,72 @@
+{
+  "id": 1343363473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97726,-15.43717,-73.97726,-15.43717",
+    "geom:latitude":-15.43717,
+    "geom:longitude":-73.97726,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Sanquine",
+    "gn:country_code":"PE",
+    "gn:dem":2701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929323,
+    "gn:latitude":-15.43717,
+    "gn:longitude":-73.97726,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sanquine",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sanquine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929323
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6d0f776d967350e8adc20b436c615f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1343363473,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343363473,
+    "wof:lastmodified":1537676697,
+    "wof:name":"Sanquine",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97726,
+    -15.43717,
+    -73.97726,
+    -15.43717
+],
+  "geometry": {"coordinates":[-73.97726,-15.43717],"type":"Point"}
+}

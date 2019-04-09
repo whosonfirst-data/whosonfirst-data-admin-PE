@@ -1,0 +1,66 @@
+{
+  "id": 1209287809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80492,-6.7616,-79.80492,-6.7616",
+    "geom:latitude":-6.7616,
+    "geom:longitude":-79.80492,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140101.0",
+    "gn:asciiname":"Huaca La Cofradia",
+    "gn:country_code":"PE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953457,
+    "gn:latitude":-6.7616,
+    "gn:longitude":-79.80492,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huaca La Cofradia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaca La Cofradia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953457
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"453caa3c0e6fc8e7b5eda727471fd22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209287809
+        }
+    ],
+    "wof:id":1209287809,
+    "wof:lastmodified":1537676951,
+    "wof:name":"Huaca La Cofradia",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80492,
+    -6.7616,
+    -79.80492,
+    -6.7616
+],
+  "geometry": {"coordinates":[-79.80492,-6.7616],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226319987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14483,-13.70016,-76.14483,-13.70016",
+    "geom:latitude":-13.70016,
+    "geom:longitude":-76.14483,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110508.0",
+    "gn:asciiname":"Casalla Alta",
+    "gn:country_code":"PE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945316,
+    "gn:latitude":-13.70016,
+    "gn:longitude":-76.14483,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Casalla Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casalla Alta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945316
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5b74966d86af4c2b537786ae2914a114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1226319987,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226319987,
+    "wof:lastmodified":1537676848,
+    "wof:name":"Casalla Alta",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14483,
+    -13.70016,
+    -76.14483,
+    -13.70016
+],
+  "geometry": {"coordinates":[-76.14483,-13.70016],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193111525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.83755,-4.88292,-80.83755,-4.88292",
+    "geom:latitude":-4.88292,
+    "geom:longitude":-80.83755,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200603.0",
+    "gn:asciiname":"Hacienda Santa Sofia",
+    "gn:country_code":"PE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3817131,
+    "gn:latitude":-4.88292,
+    "gn:longitude":-80.83755,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Hacienda Santa Sofia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Santa Sofia"
+    ],
+    "name:spa_x_variant":[
+        "Santa Sofia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817131
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79a92073c504f8e45ac4771616ecf1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1193111525,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1193111525,
+    "wof:lastmodified":1537676660,
+    "wof:name":"Hacienda Santa Sofia",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.83755,
+    -4.88292,
+    -80.83755,
+    -4.88292
+],
+  "geometry": {"coordinates":[-80.83754999999999,-4.88292],"type":"Point"}
+}

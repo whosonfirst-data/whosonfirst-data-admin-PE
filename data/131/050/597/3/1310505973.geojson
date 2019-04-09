@@ -1,0 +1,72 @@
+{
+  "id": 1310505973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.67394,-15.11181,-73.67394,-15.11181",
+    "geom:latitude":-15.11181,
+    "geom:longitude":-73.67394,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50702.0",
+    "gn:asciiname":"Huncayachi",
+    "gn:country_code":"PE",
+    "gn:dem":3670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007645,
+    "gn:latitude":-15.11181,
+    "gn:longitude":-73.67394,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huncayachi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huncayachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007645
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fce4310c5e77dbe6e3a843cfc222f63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1310505973,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310505973,
+    "wof:lastmodified":1537676958,
+    "wof:name":"Huncayachi",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.67394,
+    -15.11181,
+    -73.67394,
+    -15.11181
+],
+  "geometry": {"coordinates":[-73.67394,-15.11181],"type":"Point"}
+}

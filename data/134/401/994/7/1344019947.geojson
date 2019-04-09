@@ -1,0 +1,69 @@
+{
+  "id": 1344019947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.89236,-10.12021,-74.89236,-10.12021",
+    "geom:latitude":-10.12021,
+    "geom:longitude":-74.89236,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190306.0",
+    "gn:asciiname":"La Llobera",
+    "gn:country_code":"PE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964318,
+    "gn:latitude":-10.12021,
+    "gn:longitude":-74.89236,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"La Llobera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964318
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8ad81e25b07ed15b754b7684c9ab34a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1344019947,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1344019947,
+    "wof:lastmodified":1536935015,
+    "wof:name":"La Llobera",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.89236,
+    -10.12021,
+    -74.89236,
+    -10.12021
+],
+  "geometry": {"coordinates":[-74.89236,-10.12021],"type":"Point"}
+}

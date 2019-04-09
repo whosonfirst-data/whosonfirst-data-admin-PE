@@ -1,0 +1,69 @@
+{
+  "id": 1276300849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.69003,-6.8436,-77.69003,-6.8436",
+    "geom:latitude":-6.8436,
+    "geom:longitude":-77.69003,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220603.0",
+    "gn:asciiname":"Ullilen",
+    "gn:country_code":"PE",
+    "gn:dem":2988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379511,
+    "gn:latitude":-6.8436,
+    "gn:longitude":-77.69003,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ullilen",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379511
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f91e01419b1c378dc209f64ab0ac864b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694041,
+            "locality_id":1276300849,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1276300849,
+    "wof:lastmodified":1536821537,
+    "wof:name":"Ullilen",
+    "wof:parent_id":1108694041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.69003000000002,
+    -6.8436,
+    -77.69003000000002,
+    -6.8436
+],
+  "geometry": {"coordinates":[-77.69003000000002,-6.8436],"type":"Point"}
+}

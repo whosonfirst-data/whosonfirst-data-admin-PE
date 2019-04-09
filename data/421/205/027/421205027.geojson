@@ -1,0 +1,101 @@
+{
+  "id": 421205027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58384,-6.92315,-79.58384,-6.92315",
+    "geom:latitude":-6.92315,
+    "geom:longitude":-79.58384,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dan_x_preferred":[
+        "Za\u0146as pagasts"
+    ],
+    "name:dut_x_preferred":[
+        "Za\u00f1a"
+    ],
+    "name:eng_x_preferred":[
+        "Za\u00f1a"
+    ],
+    "name:lav_x_preferred":[
+        "Za\u0146as pagasts"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Za\u00f1a"
+    ],
+    "name:unk_x_variant":[
+        "Sa\u00f1a"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3692667,
+    "qs:gn_pop":39200,
+    "qs:name":"Za\u00f1a",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lambayeque",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":252020,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420625,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692667,
+        "gp:id":420625,
+        "qs:id":252020,
+        "wd:id":"Q6171043"
+    },
+    "wof:country":"PE",
+    "wof:created":1459010210,
+    "wof:geomhash":"ddbd9fdadaac96f4a6488122a9091acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":421205027,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":421205027,
+    "wof:lastmodified":1514495832,
+    "wof:name":"Za\u00f1a",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:population":39200,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58384,
+    -6.92315,
+    -79.58384,
+    -6.92315
+],
+  "geometry": {"coordinates":[-79.58384,-6.92315],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293866551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56075,-12.39856,-76.56075,-12.39856",
+    "geom:latitude":-12.39856,
+    "geom:longitude":-76.56075,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150505.0",
+    "gn:asciiname":"Capto",
+    "gn:country_code":"PE",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3945635,
+    "gn:latitude":-12.39856,
+    "gn:longitude":-76.56075,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Capto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Capto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945635
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c778b467f20099da5e86340aa4422ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1293866551,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1293866551,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293866551,
+    "wof:lastmodified":1537676851,
+    "wof:name":"Capto",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56075,
+    -12.39856,
+    -76.56075,
+    -12.39856
+],
+  "geometry": {"coordinates":[-76.56075,-12.39856],"type":"Point"}
+}

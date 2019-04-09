@@ -1,0 +1,72 @@
+{
+  "id": 1309982169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.56376,-11.3601,-69.56376,-11.3601",
+    "geom:latitude":-11.3601,
+    "geom:longitude":-69.56376,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1703.0",
+    "gn:admin3_code":"170302.0",
+    "gn:asciiname":"Flor de Acre",
+    "gn:country_code":"PE",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940920,
+    "gn:latitude":-11.3601,
+    "gn:longitude":-69.56376,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Flor de Acre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flor del Acre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940920
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"13c2559b90c8314b54f1c08d4c68be5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1309982169,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1309982169,
+    "wof:lastmodified":1537676811,
+    "wof:name":"Flor de Acre",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.56376,
+    -11.3601,
+    -69.56376,
+    -11.3601
+],
+  "geometry": {"coordinates":[-69.56376,-11.3601],"type":"Point"}
+}

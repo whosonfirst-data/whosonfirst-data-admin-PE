@@ -1,0 +1,72 @@
+{
+  "id": 1209871145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.98689,-10.54946,-73.98689,-10.54946",
+    "geom:latitude":-10.54946,
+    "geom:longitude":-73.98689,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250201.0",
+    "gn:asciiname":"Villa Luis",
+    "gn:country_code":"PE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964252,
+    "gn:latitude":-10.54946,
+    "gn:longitude":-73.98689,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Villa Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964252
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a3b9f5c03dfb027f8b7860e1d4c2944d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1209871145,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1209871145,
+    "wof:lastmodified":1537676889,
+    "wof:name":"Villa Luis",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98689,
+    -10.54946,
+    -73.98689,
+    -10.54946
+],
+  "geometry": {"coordinates":[-73.98689,-10.54946],"type":"Point"}
+}

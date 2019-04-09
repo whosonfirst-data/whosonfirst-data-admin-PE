@@ -1,0 +1,63 @@
+{
+  "id": 1209114019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1393,-10.00173,-77.1393,-10.00173",
+    "geom:latitude":-10.00173,
+    "geom:longitude":-77.1393,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20504.0",
+    "gn:asciiname":"Desague",
+    "gn:country_code":"PE",
+    "gn:dem":3830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664620,
+    "gn:latitude":-10.00173,
+    "gn:longitude":-77.1393,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Desague",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664620
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9732efdd275d917e9fdf61e15a9cddd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209114019
+        }
+    ],
+    "wof:id":1209114019,
+    "wof:lastmodified":1536297313,
+    "wof:name":"Desague",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1393,
+    -10.00173,
+    -77.1393,
+    -10.00173
+],
+  "geometry": {"coordinates":[-77.13930000000001,-10.00173],"type":"Point"}
+}

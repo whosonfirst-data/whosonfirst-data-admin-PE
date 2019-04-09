@@ -1,0 +1,73 @@
+{
+  "id": 1259742283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22026,-4.52302,-80.22026,-4.52302",
+    "geom:latitude":-4.52302,
+    "geom:longitude":-80.22026,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"Portillo",
+    "gn:country_code":"PE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693428,
+    "gn:latitude":-4.52302,
+    "gn:longitude":-80.22026,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Portillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Portillo",
+        "Portillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693428
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7208b7cdcc3b243b591d801bbb40ad53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1259742283,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1259742283,
+    "wof:lastmodified":1537676567,
+    "wof:name":"Portillo",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22026,
+    -4.52302,
+    -80.22026,
+    -4.52302
+],
+  "geometry": {"coordinates":[-80.22026,-4.52302],"type":"Point"}
+}

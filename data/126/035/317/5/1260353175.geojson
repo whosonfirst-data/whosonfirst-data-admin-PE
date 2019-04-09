@@ -1,0 +1,73 @@
+{
+  "id": 1260353175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85573,-15.58228,-69.85573,-15.58228",
+    "geom:latitude":-15.58228,
+    "geom:longitude":-69.85573,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210105.0",
+    "gn:asciiname":"Chapa",
+    "gn:country_code":"PE",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944363,
+    "gn:latitude":-15.58228,
+    "gn:longitude":-69.85573,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chapa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chapa Hacienda",
+        "Chapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944363
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"52331eab8c3f869538dcdde29bc61237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1260353175,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260353175,
+    "wof:lastmodified":1537676839,
+    "wof:name":"Chapa",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85573000000001,
+    -15.58228,
+    -69.85573000000001,
+    -15.58228
+],
+  "geometry": {"coordinates":[-69.85573000000001,-15.58228],"type":"Point"}
+}

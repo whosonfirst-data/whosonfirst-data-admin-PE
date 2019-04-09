@@ -1,0 +1,63 @@
+{
+  "id": 1209384763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15167,-11.15917,-77.15167,-11.15917",
+    "geom:latitude":-11.15917,
+    "geom:longitude":-77.15167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"Pampa Grande",
+    "gn:country_code":"PE",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412342,
+    "gn:latitude":-11.15917,
+    "gn:longitude":-77.15167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pampa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412342
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"75a8cf7e60207ea764ae664b85338332",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209384763
+        }
+    ],
+    "wof:id":1209384763,
+    "wof:lastmodified":1536288662,
+    "wof:name":"Pampa Grande",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15167,
+    -11.15917,
+    -77.15167,
+    -11.15917
+],
+  "geometry": {"coordinates":[-77.15167,-11.15917],"type":"Point"}
+}

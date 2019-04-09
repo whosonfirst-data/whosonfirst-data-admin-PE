@@ -1,0 +1,72 @@
+{
+  "id": 1309775801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85002,-12.01028,-76.85002,-12.01028",
+    "geom:latitude":-12.01028,
+    "geom:longitude":-76.85002,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150103.0",
+    "gn:asciiname":"Hacienda Gloria",
+    "gn:country_code":"PE",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940480,
+    "gn:latitude":-12.01028,
+    "gn:longitude":-76.85002,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Hacienda Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940480
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05a9ce8723cdf0b312a71b765aef3604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1309775801,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1309775801,
+    "wof:lastmodified":1537676806,
+    "wof:name":"Hacienda Gloria",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85002,
+    -12.01028,
+    -76.85002,
+    -12.01028
+],
+  "geometry": {"coordinates":[-76.85002,-12.01028],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259944055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.80042,-15.07314,-69.80042,-15.07314",
+    "geom:latitude":-15.07314,
+    "geom:longitude":-69.80042,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:asciiname":"Sustia",
+    "gn:country_code":"PE",
+    "gn:dem":3846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928218,
+    "gn:latitude":-15.07314,
+    "gn:longitude":-69.80042,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sustia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928218
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f90c13d696ff7d3807d84a69c47ccba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1259944055,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259944055,
+    "wof:lastmodified":1536692221,
+    "wof:name":"Sustia",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.80041999999999,
+    -15.07314,
+    -69.80041999999999,
+    -15.07314
+],
+  "geometry": {"coordinates":[-69.80041999999999,-15.07314],"type":"Point"}
+}

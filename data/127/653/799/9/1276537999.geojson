@@ -1,0 +1,68 @@
+{
+  "id": 1276537999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58075,-13.33566,-74.58075,-13.33566",
+    "geom:latitude":-13.33566,
+    "geom:longitude":-74.58075,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Jonesyaco",
+    "gn:country_code":"PE",
+    "gn:dem":3996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8685888,
+    "gn:latitude":-13.33566,
+    "gn:longitude":-74.58075,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Jo\u00f1esyaco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8685888
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2132d5b53f23245d5c15a3377f8d0277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1276537999,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276537999,
+    "wof:lastmodified":1537000960,
+    "wof:name":"Jonesyaco",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58075,
+    -13.33566,
+    -74.58075,
+    -13.33566
+],
+  "geometry": {"coordinates":[-74.58074999999999,-13.33566],"type":"Point"}
+}

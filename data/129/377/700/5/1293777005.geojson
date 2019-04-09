@@ -1,0 +1,72 @@
+{
+  "id": 1293777005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02138,-13.18133,-74.02138,-13.18133",
+    "geom:latitude":-13.18133,
+    "geom:longitude":-74.02138,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50103.0",
+    "gn:asciiname":"Huamancona",
+    "gn:country_code":"PE",
+    "gn:dem":3355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940469,
+    "gn:latitude":-13.18133,
+    "gn:longitude":-74.02138,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Huamancona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Huamancona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940469
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79afa2e31c4fa04bb7aae9c411e95386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1293777005,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293777005,
+    "wof:lastmodified":1537676806,
+    "wof:name":"Huamancona",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02138000000002,
+    -13.18133,
+    -74.02138000000002,
+    -13.18133
+],
+  "geometry": {"coordinates":[-74.02138000000002,-13.18133],"type":"Point"}
+}

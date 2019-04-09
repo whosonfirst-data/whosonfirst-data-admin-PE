@@ -1,0 +1,72 @@
+{
+  "id": 1276434511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.82852,-15.24847,-73.82852,-15.24847",
+    "geom:latitude":-15.24847,
+    "geom:longitude":-73.82852,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Ranacorral",
+    "gn:country_code":"PE",
+    "gn:dem":3450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930565,
+    "gn:latitude":-15.24847,
+    "gn:longitude":-73.82852,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ranacorral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ranacorral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930565
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9f8c87fa7f5e06a701756bbc4ed26e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1276434511,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276434511,
+    "wof:lastmodified":1537676713,
+    "wof:name":"Ranacorral",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.82852,
+    -15.24847,
+    -73.82852,
+    -15.24847
+],
+  "geometry": {"coordinates":[-73.82852,-15.24847],"type":"Point"}
+}

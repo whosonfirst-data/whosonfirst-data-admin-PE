@@ -1,0 +1,67 @@
+{
+  "id": 1277033749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88333,-5.58333,-80.88333,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":-80.88333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Chullillache",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746069,
+    "gn:latitude":-5.58333,
+    "gn:longitude":-80.88333,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Chullillache",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chullilache",
+        "Chullillache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746069
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"043820597f9a22df6f1e75987f235cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277033749,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277033749,
+    "wof:lastmodified":1537676650,
+    "wof:name":"Chullillache",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88333,
+    -5.58333,
+    -80.88333,
+    -5.58333
+],
+  "geometry": {"coordinates":[-80.88333,-5.58333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276720831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08333,-4.88333,-80.08333,-4.88333",
+    "geom:latitude":-4.88333,
+    "geom:longitude":-80.08333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200202.0",
+    "gn:asciiname":"Guayabal",
+    "gn:country_code":"PE",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696815,
+    "gn:latitude":-4.88333,
+    "gn:longitude":-80.08333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Guayabal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696815
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7e893ef1cef0765455de5c66e14c0f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1276720831,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276720831,
+    "wof:lastmodified":1536756830,
+    "wof:name":"Guayabal",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08333,
+    -4.88333,
+    -80.08333,
+    -4.88333
+],
+  "geometry": {"coordinates":[-80.08333,-4.88333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277133101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68557,-6.55241,-76.68557,-6.55241",
+    "geom:latitude":-6.55241,
+    "geom:longitude":-76.68557,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220305.0",
+    "gn:asciiname":"Alto Aminio",
+    "gn:country_code":"PE",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10865736,
+    "gn:latitude":-6.55241,
+    "gn:longitude":-76.68557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alto Aminio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alto Aminio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10865736
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"45715090ceaac95cd7ee7398c351ac42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693997,
+            "locality_id":1277133101,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1277133101,
+    "wof:lastmodified":1537676940,
+    "wof:name":"Alto Aminio",
+    "wof:parent_id":1108693997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68557,
+    -6.55241,
+    -76.68557,
+    -6.55241
+],
+  "geometry": {"coordinates":[-76.68557,-6.55241],"type":"Point"}
+}

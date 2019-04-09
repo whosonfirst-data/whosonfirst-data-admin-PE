@@ -1,0 +1,73 @@
+{
+  "id": 1327127867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33758,-8.52243,-76.33758,-8.52243",
+    "geom:latitude":-8.52243,
+    "geom:longitude":-76.33758,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1007.0",
+    "gn:admin3_code":"100702.0",
+    "gn:asciiname":"Tres de Mayo",
+    "gn:country_code":"PE",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6672580,
+    "gn:latitude":-8.52243,
+    "gn:longitude":-76.33758,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tres de Mayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "3 de Mayo",
+        "Tres de Mayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672580
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3ec58757685e47248ebdc99093356038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693927,
+            "locality_id":1327127867,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327127867,
+    "wof:lastmodified":1537676905,
+    "wof:name":"Tres de Mayo",
+    "wof:parent_id":1108693927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33758,
+    -8.52243,
+    -76.33758,
+    -8.52243
+],
+  "geometry": {"coordinates":[-76.33758,-8.52243],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327355133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26564,-5.32246,-79.26564,-5.32246",
+    "geom:latitude":-5.32246,
+    "geom:longitude":-79.26564,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"609.0",
+    "gn:admin3_code":"60907.0",
+    "gn:asciiname":"Tambo",
+    "gn:country_code":"PE",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6368574,
+    "gn:latitude":-5.32246,
+    "gn:longitude":-79.26564,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421177057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368574
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57d3a5db7b5664d3487cc165e39f6132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177057,
+            "locality_id":1327355133,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1327355133,
+    "wof:lastmodified":1536792774,
+    "wof:name":"Tambo",
+    "wof:parent_id":421177057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26564,
+    -5.32246,
+    -79.26564,
+    -5.32246
+],
+  "geometry": {"coordinates":[-79.26564,-5.32246],"type":"Point"}
+}

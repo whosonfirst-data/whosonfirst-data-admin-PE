@@ -1,0 +1,72 @@
+{
+  "id": 1260158289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72006,-14.06164,-75.72006,-14.06164",
+    "geom:latitude":-14.06164,
+    "geom:longitude":-75.72006,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110106.0",
+    "gn:asciiname":"San Jorge",
+    "gn:country_code":"PE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003684,
+    "gn:latitude":-14.06164,
+    "gn:longitude":-75.72006,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Jorge",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003684
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"34812bea11188c37ab1c58a54771e3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1260158289,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1260158289,
+    "wof:lastmodified":1537676953,
+    "wof:name":"San Jorge",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72006,
+    -14.06164,
+    -75.72006,
+    -14.06164
+],
+  "geometry": {"coordinates":[-75.72006,-14.06164],"type":"Point"}
+}

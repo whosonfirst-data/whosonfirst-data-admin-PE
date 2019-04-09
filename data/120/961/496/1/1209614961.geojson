@@ -1,0 +1,63 @@
+{
+  "id": 1209614961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.59453,-15.69501,-72.59453,-15.69501",
+    "geom:latitude":-15.69501,
+    "geom:longitude":-72.59453,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40410.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"PE",
+    "gn:dem":3139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3950851,
+    "gn:latitude":-15.69501,
+    "gn:longitude":-72.59453,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Santa Maria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3950851
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"204889ec7dae7b4ece43cb91006b18be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209614961
+        }
+    ],
+    "wof:id":1209614961,
+    "wof:lastmodified":1536281720,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.59453,
+    -15.69501,
+    -72.59453,
+    -15.69501
+],
+  "geometry": {"coordinates":[-72.59453000000001,-15.69501],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277140649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31667,-5.85,-74.31667,-5.85",
+    "geom:latitude":-5.85,
+    "geom:longitude":-74.31667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1605.0",
+    "gn:admin3_code":"160504.0",
+    "gn:asciiname":"Tamanco",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3691573,
+    "gn:latitude":-5.85,
+    "gn:longitude":-74.31667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tamanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viejo Tamanco",
+        "Tamanco Viejo",
+        "Tamanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691573
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"313921b2ee982f22be82089ca2b5f604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694055,
+            "locality_id":1277140649,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1277140649,
+    "wof:lastmodified":1537676536,
+    "wof:name":"Tamanco",
+    "wof:parent_id":1108694055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31667,
+    -5.85,
+    -74.31667,
+    -5.85
+],
+  "geometry": {"coordinates":[-74.31667,-5.85],"type":"Point"}
+}

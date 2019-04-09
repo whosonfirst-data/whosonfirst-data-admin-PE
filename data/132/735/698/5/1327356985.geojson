@@ -1,0 +1,73 @@
+{
+  "id": 1327356985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.47472,-16.35122,-72.47472,-16.35122",
+    "geom:latitude":-16.35122,
+    "geom:longitude":-72.47472,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40413.0",
+    "gn:asciiname":"Hacienda Toran",
+    "gn:country_code":"PE",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927162,
+    "gn:latitude":-16.35122,
+    "gn:longitude":-72.47472,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hacienda Toran",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tor\u00e1n",
+        "Hacienda Toran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927162
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7bbef092ede945957dada5b76b605912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1327356985,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1327356985,
+    "wof:lastmodified":1537676677,
+    "wof:name":"Hacienda Toran",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.47471999999998,
+    -16.35122,
+    -72.47471999999998,
+    -16.35122
+],
+  "geometry": {"coordinates":[-72.47471999999998,-16.35122],"type":"Point"}
+}

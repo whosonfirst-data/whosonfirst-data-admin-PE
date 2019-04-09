@@ -1,0 +1,72 @@
+{
+  "id": 1293059595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56007,-7.05727,-76.56007,-7.05727",
+    "geom:latitude":-7.05727,
+    "geom:longitude":-76.56007,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220201.0",
+    "gn:asciiname":"Llocllada",
+    "gn:country_code":"PE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544116,
+    "gn:latitude":-7.05727,
+    "gn:longitude":-76.56007,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Llocllada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llocllada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544116
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"07af338fdba2fa296b8cf822cb96ce41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1293059595,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1293059595,
+    "wof:lastmodified":1537676909,
+    "wof:name":"Llocllada",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56007,
+    -7.05727,
+    -76.56007,
+    -7.05727
+],
+  "geometry": {"coordinates":[-76.56007,-7.05727],"type":"Point"}
+}

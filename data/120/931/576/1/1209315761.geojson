@@ -1,0 +1,63 @@
+{
+  "id": 1209315761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.34457,-13.75192,-73.34457,-13.75192",
+    "geom:latitude":-13.75192,
+    "geom:longitude":-73.34457,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:asciiname":"Atacori",
+    "gn:country_code":"PE",
+    "gn:dem":3774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6308388,
+    "gn:latitude":-13.75192,
+    "gn:longitude":-73.34457,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Atacori",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308388
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a2a98c1fd414c8b3b1de4ae5b2735624",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209315761
+        }
+    ],
+    "wof:id":1209315761,
+    "wof:lastmodified":1536290871,
+    "wof:name":"Atacori",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.34456999999998,
+    -13.751920000000002,
+    -73.34456999999998,
+    -13.751920000000002
+],
+  "geometry": {"coordinates":[-73.34456999999998,-13.75192],"type":"Point"}
+}

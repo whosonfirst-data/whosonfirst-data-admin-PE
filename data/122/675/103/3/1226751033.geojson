@@ -1,0 +1,70 @@
+{
+  "id": 1226751033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43583,-5.41639,-78.43583,-5.41639",
+    "geom:latitude":-5.41639,
+    "geom:longitude":-78.43583,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Aramango",
+    "gn:country_code":"PE",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3699592,
+    "gn:latitude":-5.41639,
+    "gn:longitude":-78.43583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Aramango",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699592,
+        "wk:page":"Aramango"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a95aa716bac749b54eeb28f802656ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693901,
+            "locality_id":1226751033,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1226751033,
+    "wof:lastmodified":1537570239,
+    "wof:name":"Aramango",
+    "wof:parent_id":1108693901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43583000000002,
+    -5.41639,
+    -78.43583000000002,
+    -5.41639
+],
+  "geometry": {"coordinates":[-78.43583000000002,-5.41639],"type":"Point"}
+}

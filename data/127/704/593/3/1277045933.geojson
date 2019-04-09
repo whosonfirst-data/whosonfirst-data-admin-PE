@@ -1,0 +1,69 @@
+{
+  "id": 1277045933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70361,-7.0678,-79.70361,-7.0678",
+    "geom:latitude":-7.0678,
+    "geom:longitude":-79.70361,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140107.0",
+    "gn:asciiname":"Hacienda San Luis",
+    "gn:country_code":"PE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696701,
+    "gn:latitude":-7.0678,
+    "gn:longitude":-79.70361,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696701
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2662605d7b176f7ec415d9f7aee96287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1277045933,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1277045933,
+    "wof:lastmodified":1536817749,
+    "wof:name":"Hacienda San Luis",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70361,
+    -7.0678,
+    -79.70361,
+    -7.0678
+],
+  "geometry": {"coordinates":[-79.70361,-7.0678],"type":"Point"}
+}

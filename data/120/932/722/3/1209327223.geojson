@@ -1,0 +1,63 @@
+{
+  "id": 1209327223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28095,-10.1392,-77.28095,-10.1392",
+    "geom:latitude":-10.1392,
+    "geom:longitude":-77.28095,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21702.0",
+    "gn:asciiname":"Chacayacu",
+    "gn:country_code":"PE",
+    "gn:dem":4137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664481,
+    "gn:latitude":-10.1392,
+    "gn:longitude":-77.28095,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacayacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664481
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"08972341749f425b08ee0dabf8c92b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209327223
+        }
+    ],
+    "wof:id":1209327223,
+    "wof:lastmodified":1536290492,
+    "wof:name":"Chacayacu",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28095,
+    -10.1392,
+    -77.28095,
+    -10.1392
+],
+  "geometry": {"coordinates":[-77.28095,-10.1392],"type":"Point"}
+}

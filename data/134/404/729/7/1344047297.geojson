@@ -1,0 +1,73 @@
+{
+  "id": 1344047297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38722,-13.44722,-72.38722,-13.44722",
+    "geom:latitude":-13.44722,
+    "geom:longitude":-72.38722,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80306.0",
+    "gn:asciiname":"Abrahuillque",
+    "gn:country_code":"PE",
+    "gn:dem":3578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948634,
+    "gn:latitude":-13.44722,
+    "gn:longitude":-72.38722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Abrahuillque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abra de Huillque",
+        "Abrahuillque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948634
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"754257e0392b697a8bdd22cd40fc89c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1344047297,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1344047297,
+    "wof:lastmodified":1537676875,
+    "wof:name":"Abrahuillque",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38722,
+    -13.44722,
+    -72.38722,
+    -13.44722
+],
+  "geometry": {"coordinates":[-72.38722,-13.44722],"type":"Point"}
+}

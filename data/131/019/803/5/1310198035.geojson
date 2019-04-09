@@ -1,0 +1,69 @@
+{
+  "id": 1310198035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.22047,-12.86051,-74.22047,-12.86051",
+    "geom:latitude":-12.86051,
+    "geom:longitude":-74.22047,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Ajopito",
+    "gn:country_code":"PE",
+    "gn:dem":3965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650030,
+    "gn:latitude":-12.86051,
+    "gn:longitude":-74.22047,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ajopito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650030
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3824b10a1cd5856bf86ad2eea089254c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1310198035,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310198035,
+    "wof:lastmodified":1536861672,
+    "wof:name":"Ajopito",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.22046999999998,
+    -12.86051,
+    -74.22046999999998,
+    -12.86051
+],
+  "geometry": {"coordinates":[-74.22046999999998,-12.86051],"type":"Point"}
+}

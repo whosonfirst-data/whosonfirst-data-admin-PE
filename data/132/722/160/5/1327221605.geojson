@@ -1,0 +1,72 @@
+{
+  "id": 1327221605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.19983,-13.68505,-76.19983,-13.68505",
+    "geom:latitude":-13.68505,
+    "geom:longitude":-76.19983,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110507.0",
+    "gn:asciiname":"Zavala",
+    "gn:country_code":"PE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087901,
+    "gn:latitude":-13.68505,
+    "gn:longitude":-76.19983,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zavala",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zavala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087901
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b04d3c94d51b4650065dbc21eb714e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1327221605,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1327221605,
+    "wof:lastmodified":1537676970,
+    "wof:name":"Zavala",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.19983,
+    -13.68505,
+    -76.19983,
+    -13.68505
+],
+  "geometry": {"coordinates":[-76.19983000000001,-13.68505],"type":"Point"}
+}

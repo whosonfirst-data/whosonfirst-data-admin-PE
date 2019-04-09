@@ -1,0 +1,63 @@
+{
+  "id": 1209025063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03333,-13.60222,-75.03333,-13.60222",
+    "geom:latitude":-13.60222,
+    "geom:longitude":-75.03333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Yanamachay",
+    "gn:country_code":"PE",
+    "gn:dem":4314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6369366,
+    "gn:latitude":-13.60222,
+    "gn:longitude":-75.03333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yanamachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6369366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dc9f3ff5bd50e9ff5ce0368d86a51e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209025063
+        }
+    ],
+    "wof:id":1209025063,
+    "wof:lastmodified":1536300026,
+    "wof:name":"Yanamachay",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03333,
+    -13.60222,
+    -75.03333,
+    -13.60222
+],
+  "geometry": {"coordinates":[-75.03333000000001,-13.60222],"type":"Point"}
+}

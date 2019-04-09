@@ -1,0 +1,107 @@
+{
+  "id": 421177469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58333,-5.1,-79.58333,-5.1",
+    "geom:latitude":-5.1,
+    "geom:longitude":-79.58333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:fra_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:ita_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:pol_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:que_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:spa_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:unk_x_variant":[
+        "Chulucanas Hacienda"
+    ],
+    "name:war_x_preferred":[
+        "Chulucanas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u76e7\u5361\u7d0d\u65af"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3698106,
+    "qs:gn_pop":0,
+    "qs:name":"Chulucanas",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Piura",
+    "qs:photos":1034,
+    "qs:photos_1k":210,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1034,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":423411,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418505,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-5.0925,
+    "wd:longitude":-80.1625,
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698106,
+        "gp:id":418505,
+        "qs:id":423411,
+        "wd:id":"Q1089449"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009146,
+    "wof:geomhash":"89ba8459ffe8e088660e4eef848255f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":421177469,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421177469,
+    "wof:lastmodified":1527716484,
+    "wof:name":"Chulucanas",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58333,
+    -5.1,
+    -79.58333,
+    -5.1
+],
+  "geometry": {"coordinates":[-79.58333,-5.1],"type":"Point"}
+}

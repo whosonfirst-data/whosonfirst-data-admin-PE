@@ -1,0 +1,68 @@
+{
+  "id": 1209872175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46667,-17.43333,-69.46667,-17.43333",
+    "geom:latitude":-17.43333,
+    "geom:longitude":-69.46667,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Janko Chulpa",
+    "gn:country_code":"PE",
+    "gn:dem":4166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937928,
+    "gn:latitude":-17.43333,
+    "gn:longitude":-69.46667,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Janko Chulpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937928
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dffc83514fed5134a2609efb5aa1ba89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1209872175,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209872175,
+    "wof:lastmodified":1536372415,
+    "wof:name":"Janko Chulpa",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46667,
+    -17.43333,
+    -69.46667,
+    -17.43333
+],
+  "geometry": {"coordinates":[-69.46666999999999,-17.43333],"type":"Point"}
+}

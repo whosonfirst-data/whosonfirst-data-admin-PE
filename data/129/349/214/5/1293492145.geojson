@@ -1,0 +1,75 @@
+{
+  "id": 1293492145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.80443,-15.00403,-73.80443,-15.00403",
+    "geom:latitude":-15.00403,
+    "geom:longitude":-73.80443,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Lomaspata",
+    "gn:country_code":"PE",
+    "gn:dem":2924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936025,
+    "gn:latitude":-15.00403,
+    "gn:longitude":-73.80443,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Lomaspata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lomaspata"
+    ],
+    "name:spa_x_variant":[
+        "Lomas Punta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936025
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0dd897df3708b188b13e755c996904af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293492145,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293492145,
+    "wof:lastmodified":1537676764,
+    "wof:name":"Lomaspata",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.80443000000002,
+    -15.00403,
+    -73.80443000000002,
+    -15.00403
+],
+  "geometry": {"coordinates":[-73.80443000000002,-15.00403],"type":"Point"}
+}

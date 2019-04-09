@@ -1,0 +1,69 @@
+{
+  "id": 1310310779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75352,-15.42788,-71.75352,-15.42788",
+    "geom:latitude":-15.42788,
+    "geom:longitude":-71.75352,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40510.0",
+    "gn:asciiname":"Huallullo",
+    "gn:country_code":"PE",
+    "gn:dem":4694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939767,
+    "gn:latitude":-15.42788,
+    "gn:longitude":-71.75352,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huallullo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939767
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1f34b75cb2be453443fa12b7bd6d1180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1310310779,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310310779,
+    "wof:lastmodified":1536700528,
+    "wof:name":"Huallullo",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75352,
+    -15.42788,
+    -71.75352,
+    -15.42788
+],
+  "geometry": {"coordinates":[-71.75351999999999,-15.42788],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276526257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.86361,-10.31,-75.86361,-10.31",
+    "geom:latitude":-10.31,
+    "geom:longitude":-75.86361,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Carhuac",
+    "gn:country_code":"PE",
+    "gn:dem":2842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306648,
+    "gn:latitude":-10.31,
+    "gn:longitude":-75.86361,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Carhuac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306648
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e63f6370360ae940fe01567085aa6458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1276526257,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1276526257,
+    "wof:lastmodified":1537016843,
+    "wof:name":"Carhuac",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.86361,
+    -10.31,
+    -75.86361,
+    -10.31
+],
+  "geometry": {"coordinates":[-75.86360999999999,-10.31],"type":"Point"}
+}

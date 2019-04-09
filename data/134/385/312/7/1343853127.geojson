@@ -1,0 +1,69 @@
+{
+  "id": 1343853127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7712,-9.76881,-76.7712,-9.76881",
+    "geom:latitude":-9.76881,
+    "geom:longitude":-76.7712,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100322.0",
+    "gn:asciiname":"Ancahuachanga",
+    "gn:country_code":"PE",
+    "gn:dem":3509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666050,
+    "gn:latitude":-9.76881,
+    "gn:longitude":-76.7712,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ancahuachanga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666050
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9f2ee4ae0abce22d8e80c6d3e508532e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1343853127,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343853127,
+    "wof:lastmodified":1536677214,
+    "wof:name":"Ancahuachanga",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7712,
+    -9.76881,
+    -76.7712,
+    -9.76881
+],
+  "geometry": {"coordinates":[-76.77119999999999,-9.76881],"type":"Point"}
+}

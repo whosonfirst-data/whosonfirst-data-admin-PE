@@ -1,0 +1,75 @@
+{
+  "id": 1343862767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13861,-13.04917,-74.13861,-13.04917",
+    "geom:latitude":-13.04917,
+    "geom:longitude":-74.13861,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50108.0",
+    "gn:asciiname":"Quinua",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3930736,
+    "gn:latitude":-13.04917,
+    "gn:longitude":-74.13861,
+    "gn:modification_date":"2018-04-28",
+    "gn:name":"Quinua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad de Quinua",
+        "Quinua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930736,
+        "wk:page":"Quinua,_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cc881479186d6bff129506a99426723c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1343862767,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343862767,
+    "wof:lastmodified":1537676715,
+    "wof:name":"Quinua",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13861,
+    -13.04917,
+    -74.13861,
+    -13.04917
+],
+  "geometry": {"coordinates":[-74.13861,-13.04917],"type":"Point"}
+}

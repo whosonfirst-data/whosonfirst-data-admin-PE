@@ -1,0 +1,77 @@
+{
+  "id": 1344139583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32883,-13.06654,-76.32883,-13.06654",
+    "geom:latitude":-13.06654,
+    "geom:longitude":-76.32883,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150510.0",
+    "gn:asciiname":"Santa Josefina",
+    "gn:country_code":"PE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6667436,
+    "gn:latitude":-13.06654,
+    "gn:longitude":-76.32883,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Santa Josefina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6667436
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05aeef90dee90c8095b76f3ed97d5ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1344139583,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1344139583,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1344139583,
+    "wof:lastmodified":1536761723,
+    "wof:name":"Santa Josefina",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32883000000002,
+    -13.06654,
+    -76.32883000000002,
+    -13.06654
+],
+  "geometry": {"coordinates":[-76.32883000000002,-13.06654],"type":"Point"}
+}

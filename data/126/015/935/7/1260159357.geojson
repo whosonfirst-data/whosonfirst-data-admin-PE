@@ -1,0 +1,68 @@
+{
+  "id": 1260159357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.44997,-10.31733,-76.44997,-10.31733",
+    "geom:latitude":-10.31733,
+    "geom:longitude":-76.44997,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Mirca",
+    "gn:country_code":"PE",
+    "gn:dem":3742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963116,
+    "gn:latitude":-10.31733,
+    "gn:longitude":-76.44997,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Mirca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963116
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9085e6d20418fcd1ebb526101899127b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1260159357,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1260159357,
+    "wof:lastmodified":1536880381,
+    "wof:name":"Mirca",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.44997,
+    -10.31733,
+    -76.44997,
+    -10.31733
+],
+  "geometry": {"coordinates":[-76.44996999999999,-10.31733],"type":"Point"}
+}

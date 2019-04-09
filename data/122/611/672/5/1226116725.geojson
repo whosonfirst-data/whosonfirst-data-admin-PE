@@ -1,0 +1,74 @@
+{
+  "id": 1226116725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71705,-4.86646,-80.71705,-4.86646",
+    "geom:latitude":-4.86646,
+    "geom:longitude":-80.71705,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Mallaritos",
+    "gn:country_code":"PE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695036,
+    "gn:latitude":-4.86646,
+    "gn:longitude":-80.71705,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Mallaritos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallarito Hacienda",
+        "Mallarito",
+        "Mallaritos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695036
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7a90cf165e45b072fc997ac5699f48ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1226116725,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226116725,
+    "wof:lastmodified":1537676587,
+    "wof:name":"Mallaritos",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71705,
+    -4.86646,
+    -80.71705,
+    -4.86646
+],
+  "geometry": {"coordinates":[-80.71705,-4.86646],"type":"Point"}
+}

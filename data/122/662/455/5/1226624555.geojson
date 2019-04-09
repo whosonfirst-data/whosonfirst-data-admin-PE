@@ -1,0 +1,69 @@
+{
+  "id": 1226624555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3576,-9.9217,-76.3576,-9.9217",
+    "geom:latitude":-9.9217,
+    "geom:longitude":-76.3576,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100106.0",
+    "gn:asciiname":"Huacalli",
+    "gn:country_code":"PE",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670319,
+    "gn:latitude":-9.9217,
+    "gn:longitude":-76.3576,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huacalli",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670319
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9a8c15bfa5953b0a9c4b23baf23b6033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1226624555,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226624555,
+    "wof:lastmodified":1536889684,
+    "wof:name":"Huacalli",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3576,
+    -9.9217,
+    -76.3576,
+    -9.9217
+],
+  "geometry": {"coordinates":[-76.35760000000001,-9.9217],"type":"Point"}
+}

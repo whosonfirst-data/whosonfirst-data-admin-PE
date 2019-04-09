@@ -1,0 +1,73 @@
+{
+  "id": 1293500113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.22527,-9.5154,-78.22527,-9.5154",
+    "geom:latitude":-9.5154,
+    "geom:longitude":-78.22527,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20801.0",
+    "gn:asciiname":"Hacienda Mojeque",
+    "gn:country_code":"PE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694709,
+    "gn:latitude":-9.5154,
+    "gn:longitude":-78.22527,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Mojeque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mojeque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694709,
+        "wk:page":"Mojeque"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b391ba2a9b1a55d0668c3fcbcebc948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1293500113,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293500113,
+    "wof:lastmodified":1537676583,
+    "wof:name":"Hacienda Mojeque",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.22527,
+    -9.5154,
+    -78.22527,
+    -9.5154
+],
+  "geometry": {"coordinates":[-78.22526999999999,-9.5154],"type":"Point"}
+}

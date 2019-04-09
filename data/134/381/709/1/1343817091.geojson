@@ -1,0 +1,69 @@
+{
+  "id": 1343817091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.60429,-4.83952,-79.60429,-4.83952",
+    "geom:latitude":-4.83952,
+    "geom:longitude":-79.60429,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Cabreria",
+    "gn:country_code":"PE",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660876,
+    "gn:latitude":-4.83952,
+    "gn:longitude":-79.60429,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cabrer\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660876
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"beed9608be68c06db99991e70b929c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1343817091,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343817091,
+    "wof:lastmodified":1536729725,
+    "wof:name":"Cabreria",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.60429,
+    -4.83952,
+    -79.60429,
+    -4.83952
+],
+  "geometry": {"coordinates":[-79.60429000000001,-4.83952],"type":"Point"}
+}

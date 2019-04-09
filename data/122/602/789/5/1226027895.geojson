@@ -1,0 +1,72 @@
+{
+  "id": 1226027895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.74061,-6.63444,-79.74061,-6.63444",
+    "geom:latitude":-6.63444,
+    "geom:longitude":-79.74061,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140204.0",
+    "gn:asciiname":"La Reymunda",
+    "gn:country_code":"PE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940894,
+    "gn:latitude":-6.63444,
+    "gn:longitude":-79.74061,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Reymunda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Reymunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940894
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0cdd5876a0392341056b403e4e8c7311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1226027895,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1226027895,
+    "wof:lastmodified":1537676945,
+    "wof:name":"La Reymunda",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.74061,
+    -6.63444,
+    -79.74061,
+    -6.63444
+],
+  "geometry": {"coordinates":[-79.74061,-6.63444],"type":"Point"}
+}

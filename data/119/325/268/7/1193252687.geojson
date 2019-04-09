@@ -1,0 +1,76 @@
+{
+  "id": 1193252687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.96688,-4.9158,-80.96688,-4.9158",
+    "geom:latitude":-4.9158,
+    "geom:longitude":-80.96688,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200505.0",
+    "gn:asciiname":"Hacienda Santa Ana",
+    "gn:country_code":"PE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692268,
+    "gn:latitude":-4.9158,
+    "gn:longitude":-80.96688,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hacienda Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Santa Ana"
+    ],
+    "name:und_x_variant":[
+        "Santa Ana Hacienda",
+        "Santa Ana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692268
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5ccb3a5bce9c7fbe316830c612f80d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1193252687,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1193252687,
+    "wof:lastmodified":1537676547,
+    "wof:name":"Hacienda Santa Ana",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.96688,
+    -4.9158,
+    -80.96688,
+    -4.9158
+],
+  "geometry": {"coordinates":[-80.96688,-4.9158],"type":"Point"}
+}

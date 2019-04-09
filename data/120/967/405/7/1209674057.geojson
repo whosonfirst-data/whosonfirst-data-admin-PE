@@ -1,0 +1,63 @@
+{
+  "id": 1209674057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21243,-16.53077,-69.21243,-16.53077",
+    "geom:latitude":-16.53077,
+    "geom:longitude":-69.21243,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210407.0",
+    "gn:asciiname":"Tupaltupane",
+    "gn:country_code":"PE",
+    "gn:dem":4001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926754,
+    "gn:latitude":-16.53077,
+    "gn:longitude":-69.21243,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tupaltupane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926754
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"89d9402096b4fb9f3de0720224f4c6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209674057
+        }
+    ],
+    "wof:id":1209674057,
+    "wof:lastmodified":1536279818,
+    "wof:name":"Tupaltupane",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21243,
+    -16.53077,
+    -69.21243,
+    -16.53077
+],
+  "geometry": {"coordinates":[-69.21243,-16.53077],"type":"Point"}
+}

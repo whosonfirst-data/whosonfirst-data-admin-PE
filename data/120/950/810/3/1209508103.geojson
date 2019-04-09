@@ -1,0 +1,63 @@
+{
+  "id": 1209508103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.16994,-13.06905,-74.16994,-13.06905",
+    "geom:latitude":-13.06905,
+    "geom:longitude":-74.16994,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50108.0",
+    "gn:asciiname":"Yaulloc",
+    "gn:country_code":"PE",
+    "gn:dem":2861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925594,
+    "gn:latitude":-13.06905,
+    "gn:longitude":-74.16994,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Yaulloc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925594
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9effe90222118b4b17f781ca49b63b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209508103
+        }
+    ],
+    "wof:id":1209508103,
+    "wof:lastmodified":1536284969,
+    "wof:name":"Yaulloc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.16994,
+    -13.06905,
+    -74.16994,
+    -13.06905
+],
+  "geometry": {"coordinates":[-74.16994,-13.06905],"type":"Point"}
+}

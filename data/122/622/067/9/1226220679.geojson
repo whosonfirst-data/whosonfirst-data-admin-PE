@@ -1,0 +1,69 @@
+{
+  "id": 1226220679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.36041,-10.149,-76.36041,-10.149",
+    "geom:latitude":-10.149,
+    "geom:longitude":-76.36041,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100202.0",
+    "gn:asciiname":"Patahuasi",
+    "gn:country_code":"PE",
+    "gn:dem":3931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962496,
+    "gn:latitude":-10.149,
+    "gn:longitude":-76.36041,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Patahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962496
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1a4cbc031b2057dde975282ef05d1561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1226220679,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226220679,
+    "wof:lastmodified":1536969528,
+    "wof:name":"Patahuasi",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.36041,
+    -10.149,
+    -76.36041,
+    -10.149
+],
+  "geometry": {"coordinates":[-76.36041,-10.149],"type":"Point"}
+}

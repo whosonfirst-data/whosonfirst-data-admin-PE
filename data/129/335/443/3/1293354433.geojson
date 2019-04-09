@@ -1,0 +1,69 @@
+{
+  "id": 1293354433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73023,-17.17793,-69.73023,-17.17793",
+    "geom:latitude":-17.17793,
+    "geom:longitude":-69.73023,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210502.0",
+    "gn:asciiname":"Tirata",
+    "gn:country_code":"PE",
+    "gn:dem":4420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392841,
+    "gn:latitude":-17.17793,
+    "gn:longitude":-69.73023,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tirata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392841
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"631a56f827e66e104b4aa21e6a7049b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1293354433,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293354433,
+    "wof:lastmodified":1536978410,
+    "wof:name":"Tirata",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73023,
+    -17.17793,
+    -69.73023,
+    -17.17793
+],
+  "geometry": {"coordinates":[-69.73023000000001,-17.17793],"type":"Point"}
+}

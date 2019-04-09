@@ -1,0 +1,69 @@
+{
+  "id": 1276209661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66915,-6.45578,-79.66915,-6.45578",
+    "geom:latitude":-6.45578,
+    "geom:longitude":-79.66915,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Pativilca",
+    "gn:country_code":"PE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820150,
+    "gn:latitude":-6.45578,
+    "gn:longitude":-79.66915,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pativilca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820150
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"61c0ecbc50938dad104c2146b5dccfea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1276209661,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276209661,
+    "wof:lastmodified":1536945270,
+    "wof:name":"Pativilca",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66915,
+    -6.45578,
+    -79.66915,
+    -6.45578
+],
+  "geometry": {"coordinates":[-79.66915,-6.45578],"type":"Point"}
+}

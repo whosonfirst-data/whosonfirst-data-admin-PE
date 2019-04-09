@@ -1,0 +1,75 @@
+{
+  "id": 1309888915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55939,-6.9372,-79.55939,-6.9372",
+    "geom:latitude":-6.9372,
+    "geom:longitude":-79.55939,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140115.0",
+    "gn:asciiname":"El Potrero",
+    "gn:country_code":"PE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693410,
+    "gn:latitude":-6.9372,
+    "gn:longitude":-79.55939,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"El Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potrerio",
+        "Hacienda Potrero",
+        "Potrero",
+        "El Potrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693410
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cfa9af4a74c5c11c7272bfa08f5ff67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1309888915,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1309888915,
+    "wof:lastmodified":1537676566,
+    "wof:name":"El Potrero",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55939000000002,
+    -6.9372,
+    -79.55939000000002,
+    -6.9372
+],
+  "geometry": {"coordinates":[-79.55939000000002,-6.9372],"type":"Point"}
+}

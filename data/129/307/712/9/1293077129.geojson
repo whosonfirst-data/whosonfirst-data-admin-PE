@@ -1,0 +1,73 @@
+{
+  "id": 1293077129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.9731,-11.25669,-70.9731,-11.25669",
+    "geom:latitude":-11.25669,
+    "geom:longitude":-70.9731,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170101.0",
+    "gn:asciiname":"Puerto Esperanza",
+    "gn:country_code":"PE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931481,
+    "gn:latitude":-11.25669,
+    "gn:longitude":-70.9731,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Puerto Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esperanza",
+        "Puerto Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931481
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3b87564965145f9d64ab9d57331a52e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1293077129,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1293077129,
+    "wof:lastmodified":1537676721,
+    "wof:name":"Puerto Esperanza",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.9731,
+    -11.25669,
+    -70.9731,
+    -11.25669
+],
+  "geometry": {"coordinates":[-70.9731,-11.25669],"type":"Point"}
+}

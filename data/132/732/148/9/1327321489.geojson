@@ -1,0 +1,69 @@
+{
+  "id": 1327321489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16947,-13.43744,-76.16947,-13.43744",
+    "geom:latitude":-13.43744,
+    "geom:longitude":-76.16947,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110210.0",
+    "gn:asciiname":"Santa Catalina",
+    "gn:country_code":"PE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6667470,
+    "gn:latitude":-13.43744,
+    "gn:longitude":-76.16947,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Santa Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6667470
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3ee027610c68646fd93944a44166f397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1327321489,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1327321489,
+    "wof:lastmodified":1536840013,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16946999999998,
+    -13.43744,
+    -76.16946999999998,
+    -13.43744
+],
+  "geometry": {"coordinates":[-76.16946999999998,-13.43744],"type":"Point"}
+}

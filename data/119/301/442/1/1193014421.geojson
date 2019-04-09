@@ -1,0 +1,69 @@
+{
+  "id": 1193014421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.91056,-14.10222,-73.91056,-14.10222",
+    "geom:latitude":-14.10222,
+    "geom:longitude":-73.91056,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51004.0",
+    "gn:asciiname":"Janjana",
+    "gn:country_code":"PE",
+    "gn:dem":2783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958688,
+    "gn:latitude":-14.10222,
+    "gn:longitude":-73.91056,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Janjana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958688
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0bdb1a3c95205fec8a5c895f3491630a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1193014421,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1193014421,
+    "wof:lastmodified":1536380048,
+    "wof:name":"Janjana",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91056,
+    -14.10222,
+    -73.91056,
+    -14.10222
+],
+  "geometry": {"coordinates":[-73.91056,-14.10222],"type":"Point"}
+}

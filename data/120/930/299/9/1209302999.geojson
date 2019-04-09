@@ -1,0 +1,63 @@
+{
+  "id": 1209302999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.67248,-9.66913,-76.67248,-9.66913",
+    "geom:latitude":-9.66913,
+    "geom:longitude":-76.67248,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100307.0",
+    "gn:asciiname":"Ranya",
+    "gn:country_code":"PE",
+    "gn:dem":3659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665620,
+    "gn:latitude":-9.66913,
+    "gn:longitude":-76.67248,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ranya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665620
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2b3290a7f9cc4278acff0b8f5179ff5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209302999
+        }
+    ],
+    "wof:id":1209302999,
+    "wof:lastmodified":1536291291,
+    "wof:name":"Ranya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.67248000000002,
+    -9.66913,
+    -76.67248000000002,
+    -9.66913
+],
+  "geometry": {"coordinates":[-76.67248000000002,-9.66913],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209603669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69533,-9.8716,-76.69533,-9.8716",
+    "geom:latitude":-9.8716,
+    "geom:longitude":-76.69533,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101106.0",
+    "gn:asciiname":"Casajirca",
+    "gn:country_code":"PE",
+    "gn:dem":3710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666208,
+    "gn:latitude":-9.8716,
+    "gn:longitude":-76.69533,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Casajirca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666208
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"80469155421ab9b338ac1fcbe12b8986",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209603669
+        }
+    ],
+    "wof:id":1209603669,
+    "wof:lastmodified":1536282083,
+    "wof:name":"Casajirca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69533,
+    -9.8716,
+    -76.69533,
+    -9.8716
+],
+  "geometry": {"coordinates":[-76.69533,-9.8716],"type":"Point"}
+}

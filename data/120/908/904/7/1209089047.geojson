@@ -1,0 +1,63 @@
+{
+  "id": 1209089047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74871,-11.52088,-76.74871,-11.52088",
+    "geom:latitude":-11.52088,
+    "geom:longitude":-76.74871,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150403.0",
+    "gn:asciiname":"Callpacocha",
+    "gn:country_code":"PE",
+    "gn:dem":3064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646128,
+    "gn:latitude":-11.52088,
+    "gn:longitude":-76.74871,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Callpacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646128
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"485f91eac2c2e64c6a970830e702a019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209089047
+        }
+    ],
+    "wof:id":1209089047,
+    "wof:lastmodified":1536298093,
+    "wof:name":"Callpacocha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74871,
+    -11.52088,
+    -76.74871,
+    -11.52088
+],
+  "geometry": {"coordinates":[-76.74871,-11.52088],"type":"Point"}
+}

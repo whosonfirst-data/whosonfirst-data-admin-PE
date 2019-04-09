@@ -1,0 +1,76 @@
+{
+  "id": 1259957161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9952,-14.83939,-74.9952,-14.83939",
+    "geom:latitude":-14.83939,
+    "geom:longitude":-74.9952,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Ocongaya Alta",
+    "gn:country_code":"PE",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934102,
+    "gn:latitude":-14.83939,
+    "gn:longitude":-74.9952,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Ocongaya Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ocongaya Alta"
+    ],
+    "name:und_x_variant":[
+        "Ocungalla Hacienda",
+        "Ocungalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934102
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"482c6de83aa854f9dc66684cc5243683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1259957161,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259957161,
+    "wof:lastmodified":1537676745,
+    "wof:name":"Ocongaya Alta",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9952,
+    -14.83939,
+    -74.9952,
+    -14.83939
+],
+  "geometry": {"coordinates":[-74.9952,-14.83939],"type":"Point"}
+}

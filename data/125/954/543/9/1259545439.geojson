@@ -1,0 +1,68 @@
+{
+  "id": 1259545439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54556,-10.2775,-76.54556,-10.2775",
+    "geom:latitude":-10.2775,
+    "geom:longitude":-76.54556,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Linda",
+    "gn:country_code":"PE",
+    "gn:dem":3873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403466,
+    "gn:latitude":-10.2775,
+    "gn:longitude":-76.54556,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403466
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3f445e3c25c5dff6d75b1459ba5afb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1259545439,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1259545439,
+    "wof:lastmodified":1536770314,
+    "wof:name":"Linda",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54556,
+    -10.2775,
+    -76.54556,
+    -10.2775
+],
+  "geometry": {"coordinates":[-76.54555999999999,-10.2775],"type":"Point"}
+}

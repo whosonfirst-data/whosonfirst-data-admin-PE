@@ -1,0 +1,72 @@
+{
+  "id": 1309809257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13438,-15.10589,-72.13438,-15.10589",
+    "geom:latitude":-15.10589,
+    "geom:longitude":-72.13438,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Arca",
+    "gn:country_code":"PE",
+    "gn:dem":4683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947364,
+    "gn:latitude":-15.10589,
+    "gn:longitude":-72.13438,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Arca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947364
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eda26a1e2fa0fddf8f59e233e51ea9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1309809257,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1309809257,
+    "wof:lastmodified":1537676865,
+    "wof:name":"Arca",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13438000000002,
+    -15.10589,
+    -72.13438000000002,
+    -15.10589
+],
+  "geometry": {"coordinates":[-72.13438000000002,-15.10589],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344041457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6,-13.3,-75.6,-13.3",
+    "geom:latitude":-13.3,
+    "geom:longitude":-75.6,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90404.0",
+    "gn:asciiname":"Palca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933537,
+    "gn:latitude":-13.3,
+    "gn:longitude":-75.6,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Palca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palca Hacienda",
+        "Palca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933537
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"abd4f1f7bb373667b13232faa416c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1344041457,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1344041457,
+    "wof:lastmodified":1537676740,
+    "wof:name":"Palca",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6,
+    -13.3,
+    -75.6,
+    -13.3
+],
+  "geometry": {"coordinates":[-75.59999999999999,-13.3],"type":"Point"}
+}

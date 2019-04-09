@@ -1,0 +1,81 @@
+{
+  "id": 1343231859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21694,-11.48028,-77.21694,-11.48028",
+    "geom:latitude":-11.48028,
+    "geom:longitude":-77.21694,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150601.0",
+    "gn:asciiname":"Naturales",
+    "gn:country_code":"PE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935884,
+    "gn:latitude":-11.48028,
+    "gn:longitude":-77.21694,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Naturales",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Naturales",
+        "Naturales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935884
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c030d9a6e9fa1134af891faaa616cc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1343231859,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1343231859,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343231859,
+    "wof:lastmodified":1537676763,
+    "wof:name":"Naturales",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21694000000002,
+    -11.48028,
+    -77.21694000000002,
+    -11.48028
+],
+  "geometry": {"coordinates":[-77.21694000000002,-11.48028],"type":"Point"}
+}

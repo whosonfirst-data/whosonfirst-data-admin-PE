@@ -1,0 +1,72 @@
+{
+  "id": 890445047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.70528,-4.87778,-80.70528,-4.87778",
+    "geom:latitude":-4.87778,
+    "geom:longitude":-80.70528,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":25645,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Marcavelica Hacienda"
+    ],
+    "qs:name":"Marcavelica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694939,
+        "gp:id":418461,
+        "qs:id":1046505,
+        "wd:id":"Q8560848",
+        "wk:page":"Marcavelica District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052492,
+    "wof:geomhash":"0c2f3a4b27e77305aac2639cfcd2c3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":890445047,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":890445047,
+    "wof:lastmodified":1527792869,
+    "wof:name":"Marcavelica",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:population":25645,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.70528,
+    -4.87778,
+    -80.70528,
+    -4.87778
+],
+  "geometry": {"coordinates":[-80.70528,-4.87778],"type":"Point"}
+}

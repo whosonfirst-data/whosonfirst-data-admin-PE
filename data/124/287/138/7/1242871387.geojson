@@ -1,0 +1,74 @@
+{
+  "id": 1242871387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35,-5.78333,-79.35,-5.78333",
+    "geom:latitude":-5.78333,
+    "geom:longitude":-79.35,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60810.0",
+    "gn:asciiname":"Molino Viejo",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694694,
+    "gn:latitude":-5.78333,
+    "gn:longitude":-79.35,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Molino Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Molino Viejo",
+        "Molino Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694694
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ccc59c7dce9ed0206fa559c61d734f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1242871387,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1242871387,
+    "wof:lastmodified":1537676582,
+    "wof:name":"Molino Viejo",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35,
+    -5.78333,
+    -79.35,
+    -5.78333
+],
+  "geometry": {"coordinates":[-79.34999999999999,-5.78333],"type":"Point"}
+}

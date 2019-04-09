@@ -1,0 +1,69 @@
+{
+  "id": 1276857319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9,-7.83333,-78.9,-7.83333",
+    "geom:latitude":-7.83333,
+    "geom:longitude":-78.9,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1302.0",
+    "gn:admin3_code":"130202.0",
+    "gn:asciiname":"Cerro Minas",
+    "gn:country_code":"PE",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698566,
+    "gn:latitude":-7.83333,
+    "gn:longitude":-78.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cerro Minas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421193361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698566
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4be782f1b9dd3677c867f634c231278a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193361,
+            "locality_id":1276857319,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1276857319,
+    "wof:lastmodified":1537068357,
+    "wof:name":"Cerro Minas",
+    "wof:parent_id":421193361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9,
+    -7.83333,
+    -78.9,
+    -7.83333
+],
+  "geometry": {"coordinates":[-78.90000000000001,-7.83333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343562321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20778,-14.41583,-73.20778,-14.41583",
+    "geom:latitude":-14.41583,
+    "geom:longitude":-73.20778,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30406.0",
+    "gn:asciiname":"Cotaruse",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3942057,
+    "gn:latitude":-14.41583,
+    "gn:longitude":-73.20778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cotaruse",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cotarosi",
+        "Cotaruse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421175161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942057
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e3192187a26b882357e478e3919aa268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175161,
+            "locality_id":1343562321,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1343562321,
+    "wof:lastmodified":1537676819,
+    "wof:name":"Cotaruse",
+    "wof:parent_id":421175161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20778,
+    -14.41583,
+    -73.20778,
+    -14.41583
+],
+  "geometry": {"coordinates":[-73.20778,-14.41583],"type":"Point"}
+}

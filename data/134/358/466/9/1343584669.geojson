@@ -1,0 +1,69 @@
+{
+  "id": 1343584669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73333,-17.1,-71.73333,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":-71.73333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40702.0",
+    "gn:asciiname":"Pampa Blanca Chica",
+    "gn:country_code":"PE",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933306,
+    "gn:latitude":-17.1,
+    "gn:longitude":-71.73333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pampa Blanca Chica",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421182365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933306
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"890174e23c629adf57e5ac231309897a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182365,
+            "locality_id":1343584669,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343584669,
+    "wof:lastmodified":1537061801,
+    "wof:name":"Pampa Blanca Chica",
+    "wof:parent_id":421182365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73333000000002,
+    -17.1,
+    -71.73333000000002,
+    -17.1
+],
+  "geometry": {"coordinates":[-71.73333000000002,-17.1],"type":"Point"}
+}

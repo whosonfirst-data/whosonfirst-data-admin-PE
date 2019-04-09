@@ -1,0 +1,72 @@
+{
+  "id": 1226256359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.35093,-3.79352,-78.35093,-3.79352",
+    "geom:latitude":-3.79352,
+    "geom:longitude":-78.35093,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Puesto de Vigilancia Capitan Ponce Antunez",
+    "gn:country_code":"PE",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760770,
+    "gn:latitude":-3.79352,
+    "gn:longitude":-78.35093,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Puesto de Vigilancia Capit\u00e1n Ponce Ant\u00fanez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puesto de Vigilancia Capit\u00e1n Ponce Ant\u00fanez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760770
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"910efe4a25b2a4ae6e93dfba4d3be11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694049,
+            "locality_id":1226256359,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226256359,
+    "wof:lastmodified":1537676652,
+    "wof:name":"Puesto de Vigilancia Capitan Ponce Antunez",
+    "wof:parent_id":1108694049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.35093,
+    -3.79352,
+    -78.35093,
+    -3.79352
+],
+  "geometry": {"coordinates":[-78.35093000000001,-3.79352],"type":"Point"}
+}

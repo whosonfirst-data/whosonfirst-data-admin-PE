@@ -1,0 +1,62 @@
+{
+  "id": 1209381209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35736,-12.22566,-69.35736,-12.22566",
+    "geom:latitude":-12.22566,
+    "geom:longitude":-69.35736,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Tipishka",
+    "gn:country_code":"PE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514973,
+    "gn:latitude":-12.22566,
+    "gn:longitude":-69.35736,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Tipishka",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514973
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9d531aecb1f95407614a0c29085f535a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209381209
+        }
+    ],
+    "wof:id":1209381209,
+    "wof:lastmodified":1536288777,
+    "wof:name":"Tipishka",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35736,
+    -12.22566,
+    -69.35736,
+    -12.22566
+],
+  "geometry": {"coordinates":[-69.35736,-12.22566],"type":"Point"}
+}

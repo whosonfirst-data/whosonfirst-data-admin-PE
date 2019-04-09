@@ -1,0 +1,76 @@
+{
+  "id": 1327416927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.57837,-6.94003,-79.57837,-6.94003",
+    "geom:latitude":-6.94003,
+    "geom:longitude":-79.57837,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140115.0",
+    "gn:asciiname":"Hacienda La Otra Banda",
+    "gn:country_code":"PE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694215,
+    "gn:latitude":-6.94003,
+    "gn:longitude":-79.57837,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Hacienda La Otra Banda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Otra Banda"
+    ],
+    "name:spa_x_variant":[
+        "Otra Banda",
+        "La Otra Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694215
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5df5d9d9281d9a0d71f2dc9140a991c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1327416927,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327416927,
+    "wof:lastmodified":1537676576,
+    "wof:name":"Hacienda La Otra Banda",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.57836999999998,
+    -6.94003,
+    -79.57836999999998,
+    -6.94003
+],
+  "geometry": {"coordinates":[-79.57836999999998,-6.94003],"type":"Point"}
+}

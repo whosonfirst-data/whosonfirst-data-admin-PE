@@ -1,0 +1,69 @@
+{
+  "id": 1226650537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90811,-13.15101,-73.90811,-13.15101",
+    "geom:latitude":-13.15101,
+    "geom:longitude":-73.90811,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50504.0",
+    "gn:asciiname":"Buenavista",
+    "gn:country_code":"PE",
+    "gn:dem":2787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964931,
+    "gn:latitude":-13.15101,
+    "gn:longitude":-73.90811,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964931
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57eeffc7112224ef867b7e5b558a2992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1226650537,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226650537,
+    "wof:lastmodified":1536851381,
+    "wof:name":"Buenavista",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90811,
+    -13.15101,
+    -73.90811,
+    -13.15101
+],
+  "geometry": {"coordinates":[-73.90810999999999,-13.15101],"type":"Point"}
+}

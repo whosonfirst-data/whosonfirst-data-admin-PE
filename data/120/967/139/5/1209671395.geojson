@@ -1,0 +1,63 @@
+{
+  "id": 1209671395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.62889,-17.59722,-69.62889,-17.59722",
+    "geom:latitude":-17.59722,
+    "geom:longitude":-69.62889,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230107.0",
+    "gn:asciiname":"Churuyo",
+    "gn:country_code":"PE",
+    "gn:dem":4264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943088,
+    "gn:latitude":-17.59722,
+    "gn:longitude":-69.62889,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Churuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943088
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"744a08fb29ee4eba63f7aabf9879512b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209671395
+        }
+    ],
+    "wof:id":1209671395,
+    "wof:lastmodified":1536279909,
+    "wof:name":"Churuyo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.62889,
+    -17.59722,
+    -69.62889,
+    -17.59722
+],
+  "geometry": {"coordinates":[-69.62889,-17.59722],"type":"Point"}
+}

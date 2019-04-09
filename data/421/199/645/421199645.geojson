@@ -1,0 +1,111 @@
+{
+  "id": 421199645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14585,-6.8659,-78.14585,-6.8659",
+    "geom:latitude":-6.8659,
+    "geom:longitude":-78.14585,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u585e\u502b\u4e01"
+    ],
+    "name:dut_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:que_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:war_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u502b\u4e01"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3698608,
+    "qs:gn_pop":14660,
+    "qs:name":"Celend\u00edn",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Cajamarca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":194900,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418497,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-6.865906,
+    "wd:longitude":-78.144892,
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698608,
+        "gp:id":418497,
+        "qs:id":194900,
+        "wd:id":"Q3344002",
+        "wk:page":"Celend\u00edn"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009996,
+    "wof:geomhash":"7dca96dae58494a8600f529f2fcd3989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":421199645,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":421199645,
+    "wof:lastmodified":1527716411,
+    "wof:name":"Celend\u00edn",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:population":14660,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14585,
+    -6.8659,
+    -78.14585,
+    -6.8659
+],
+  "geometry": {"coordinates":[-78.14585,-6.8659],"type":"Point"}
+}

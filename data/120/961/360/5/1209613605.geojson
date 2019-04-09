@@ -1,0 +1,67 @@
+{
+  "id": 1209613605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54341,-13.32659,-73.54341,-13.32659",
+    "geom:latitude":-13.32659,
+    "geom:longitude":-73.54341,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Collpata",
+    "gn:country_code":"PE",
+    "gn:dem":3059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942713,
+    "gn:latitude":-13.32659,
+    "gn:longitude":-73.54341,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Collpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Collpapata",
+        "Collpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942713
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af69ccbbd36bf5d9242a94d35f7ee6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209613605
+        }
+    ],
+    "wof:id":1209613605,
+    "wof:lastmodified":1537676824,
+    "wof:name":"Collpata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54341,
+    -13.32659,
+    -73.54341,
+    -13.32659
+],
+  "geometry": {"coordinates":[-73.54340999999999,-13.32659],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310179463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.24541,-4.27074,-81.24541,-4.27074",
+    "geom:latitude":-4.27074,
+    "geom:longitude":-81.24541,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200702.0",
+    "gn:asciiname":"Chacritas",
+    "gn:country_code":"PE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698547,
+    "gn:latitude":-4.27074,
+    "gn:longitude":-81.24541,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chacritas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chacaritas",
+        "Chacritas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698547
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9d656efc92c255ac4cb36082d06251eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1310179463,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310179463,
+    "wof:lastmodified":1537676632,
+    "wof:name":"Chacritas",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.24540999999998,
+    -4.27074,
+    -81.24540999999998,
+    -4.27074
+],
+  "geometry": {"coordinates":[-81.24540999999998,-4.27074],"type":"Point"}
+}

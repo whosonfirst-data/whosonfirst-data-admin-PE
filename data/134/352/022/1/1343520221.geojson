@@ -1,0 +1,69 @@
+{
+  "id": 1343520221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69921,-16.0434,-69.69921,-16.0434",
+    "geom:latitude":-16.0434,
+    "geom:longitude":-69.69921,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210102.0",
+    "gn:asciiname":"Capalla",
+    "gn:country_code":"PE",
+    "gn:dem":3844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945689,
+    "gn:latitude":-16.0434,
+    "gn:longitude":-69.69921,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Capalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945689
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5edb25fe7cc13cba638180f3c107366c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1343520221,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343520221,
+    "wof:lastmodified":1536660193,
+    "wof:name":"Capalla",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69921,
+    -16.0434,
+    -69.69921,
+    -16.0434
+],
+  "geometry": {"coordinates":[-69.69920999999999,-16.0434],"type":"Point"}
+}

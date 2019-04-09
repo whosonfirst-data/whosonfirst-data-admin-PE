@@ -1,0 +1,74 @@
+{
+  "id": 1310326625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.8,-6.63333,-78.8,-6.63333",
+    "geom:latitude":-6.63333,
+    "geom:longitude":-78.8,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61310.0",
+    "gn:asciiname":"Uticyacu",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3691021,
+    "gn:latitude":-6.63333,
+    "gn:longitude":-78.8,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Uticyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utigiaco",
+        "Uticyacu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691021
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bdb7bf395ee1e218007fd4fd0542d5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693983,
+            "locality_id":1310326625,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1310326625,
+    "wof:lastmodified":1537676530,
+    "wof:name":"Uticyacu",
+    "wof:parent_id":1108693983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8,
+    -6.63333,
+    -78.8,
+    -6.63333
+],
+  "geometry": {"coordinates":[-78.8,-6.63333],"type":"Point"}
+}

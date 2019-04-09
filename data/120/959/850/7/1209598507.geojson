@@ -1,0 +1,63 @@
+{
+  "id": 1209598507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73917,-6.20139,-79.73917,-6.20139",
+    "geom:latitude":-6.20139,
+    "geom:longitude":-79.73917,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140307.0",
+    "gn:asciiname":"Escusa Bajada C",
+    "gn:country_code":"PE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3819928,
+    "gn:latitude":-6.20139,
+    "gn:longitude":-79.73917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Escusa Bajada C",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819928
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"becee9e49ca4affaa6f3f3b5f8828955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209598507
+        }
+    ],
+    "wof:id":1209598507,
+    "wof:lastmodified":1536282245,
+    "wof:name":"Escusa Bajada C",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73917,
+    -6.20139,
+    -79.73917,
+    -6.20139
+],
+  "geometry": {"coordinates":[-79.73917,-6.20139],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209421853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60004,-13.74097,-73.60004,-13.74097",
+    "geom:latitude":-13.74097,
+    "geom:longitude":-73.60004,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30212.0",
+    "gn:asciiname":"Huaranhuay",
+    "gn:country_code":"PE",
+    "gn:dem":3065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939238,
+    "gn:latitude":-13.74097,
+    "gn:longitude":-73.60004,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Huaranhuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939238
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8b26c907b6f7c5fe75d07f9b9e098a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209421853
+        }
+    ],
+    "wof:id":1209421853,
+    "wof:lastmodified":1536287505,
+    "wof:name":"Huaranhuay",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60004,
+    -13.74097,
+    -73.60004,
+    -13.74097
+],
+  "geometry": {"coordinates":[-73.60004000000001,-13.74097],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343831829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.48328,-14.3631,-69.48328,-14.3631",
+    "geom:latitude":-14.3631,
+    "geom:longitude":-69.48328,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Laqueque",
+    "gn:country_code":"PE",
+    "gn:dem":2352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558229,
+    "gn:latitude":-14.3631,
+    "gn:longitude":-69.48328,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Laqueque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laqueque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558229
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba7165c6a1be5fa69ddf88194aa4fdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1343831829,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343831829,
+    "wof:lastmodified":1537676998,
+    "wof:name":"Laqueque",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.48328000000001,
+    -14.3631,
+    -69.48328000000001,
+    -14.3631
+],
+  "geometry": {"coordinates":[-69.48328000000001,-14.3631],"type":"Point"}
+}

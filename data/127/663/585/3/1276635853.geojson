@@ -1,0 +1,74 @@
+{
+  "id": 1276635853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71062,-14.16108,-75.71062,-14.16108",
+    "geom:latitude":-14.16108,
+    "geom:longitude":-75.71062,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110111.0",
+    "gn:asciiname":"San Cayetano",
+    "gn:country_code":"PE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3945138,
+    "gn:latitude":-14.16108,
+    "gn:longitude":-75.71062,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"San Cayetano",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayetano",
+        "Hacienda San Cayetano",
+        "San Cayetano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945138
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b46e401f5c41ad53ac9eee2f4ad59dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1276635853,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276635853,
+    "wof:lastmodified":1537676846,
+    "wof:name":"San Cayetano",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71061999999998,
+    -14.16108,
+    -75.71061999999998,
+    -14.16108
+],
+  "geometry": {"coordinates":[-75.71061999999998,-14.16108],"type":"Point"}
+}

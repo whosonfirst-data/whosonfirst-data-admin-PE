@@ -1,0 +1,69 @@
+{
+  "id": 1309784911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28333,-8.29361,-77.28333,-8.29361",
+    "geom:latitude":-8.29361,
+    "geom:longitude":-77.28333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130801.0",
+    "gn:asciiname":"Allauca",
+    "gn:country_code":"PE",
+    "gn:dem":3427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6385135,
+    "gn:latitude":-8.29361,
+    "gn:longitude":-77.28333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Allauca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421172463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6385135
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"43fd62136f750996b01efc2c40c849a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172463,
+            "locality_id":1309784911,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1309784911,
+    "wof:lastmodified":1536961132,
+    "wof:name":"Allauca",
+    "wof:parent_id":421172463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28333,
+    -8.29361,
+    -77.28333,
+    -8.29361
+],
+  "geometry": {"coordinates":[-77.28333000000001,-8.29361],"type":"Point"}
+}

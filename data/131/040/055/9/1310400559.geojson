@@ -1,0 +1,69 @@
+{
+  "id": 1310400559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87351,-9.59651,-76.87351,-9.59651",
+    "geom:latitude":-9.59651,
+    "geom:longitude":-76.87351,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100501.0",
+    "gn:asciiname":"Muchcay",
+    "gn:country_code":"PE",
+    "gn:dem":3634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665806,
+    "gn:latitude":-9.59651,
+    "gn:longitude":-76.87351,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Muchcay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665806
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c33e17f38b4ba3527cde6731508f0d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1310400559,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310400559,
+    "wof:lastmodified":1537065521,
+    "wof:name":"Muchcay",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87351,
+    -9.59651,
+    -76.87351,
+    -9.59651
+],
+  "geometry": {"coordinates":[-76.87351,-9.59651],"type":"Point"}
+}

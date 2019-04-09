@@ -1,0 +1,86 @@
+{
+  "id": 421200631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26667,-7.91667,-79.26667,-7.91667",
+    "geom:latitude":-7.91667,
+    "geom:longitude":-79.26667,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "El Porvenir"
+    ],
+    "name:eng_x_preferred":[
+        "El Porvenir"
+    ],
+    "name:unk_x_variant":[
+        "Hacienda El Porvenir"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3697234,
+    "qs:gn_pop":0,
+    "qs:name":"El Porvenir",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"La Libertad",
+    "qs:photos":304,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":304,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889984,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":402572,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421193361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697234,
+        "gp:id":402572,
+        "qs:id":889984,
+        "wd:id":"Q5351872"
+    },
+    "wof:country":"PE",
+    "wof:created":1459010033,
+    "wof:geomhash":"121800490ebaf039aa079a00c6aae2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193361,
+            "locality_id":421200631,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":421200631,
+    "wof:lastmodified":1514495187,
+    "wof:name":"El Porvenir",
+    "wof:parent_id":421193361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26667,
+    -7.91667,
+    -79.26667,
+    -7.91667
+],
+  "geometry": {"coordinates":[-79.26667,-7.91667],"type":"Point"}
+}

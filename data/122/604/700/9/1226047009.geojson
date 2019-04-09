@@ -1,0 +1,69 @@
+{
+  "id": 1226047009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94153,-14.09944,-73.94153,-14.09944",
+    "geom:latitude":-14.09944,
+    "geom:longitude":-73.94153,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51004.0",
+    "gn:asciiname":"Chihuri",
+    "gn:country_code":"PE",
+    "gn:dem":3055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958709,
+    "gn:latitude":-14.09944,
+    "gn:longitude":-73.94153,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chihuri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958709
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"250dbfcf8f38292c6df983d94fd4cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1226047009,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226047009,
+    "wof:lastmodified":1536723656,
+    "wof:name":"Chihuri",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94153,
+    -14.09944,
+    -73.94153,
+    -14.09944
+],
+  "geometry": {"coordinates":[-73.94153,-14.09944],"type":"Point"}
+}

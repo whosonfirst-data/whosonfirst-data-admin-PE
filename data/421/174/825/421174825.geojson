@@ -1,0 +1,99 @@
+{
+  "id": 421174825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.36767,-15.03944,-70.36767,-15.03944",
+    "geom:latitude":-15.03944,
+    "geom:longitude":-70.36767,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Pukara jisk'a t'aqa suyu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Pucar\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d9\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Pucar\u00e1"
+    ],
+    "name:que_x_preferred":[
+        "Pukara distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Pucar\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5361\u62c9\u5340"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3931659,
+    "qs:gn_pop":0,
+    "qs:name":"Pucar\u00e1",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":179,
+    "qs:photos_1k":36,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":179,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":899844,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419158,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931659,
+        "gp:id":419158,
+        "qs:id":899844,
+        "wd:id":"Q3823899",
+        "wk:page":"Pucar\u00e1 District, Lampa"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009045,
+    "wof:geomhash":"19fde103fd26d97f248c564221293290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187857,
+            "locality_id":421174825,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":421174825,
+    "wof:lastmodified":1500022446,
+    "wof:name":"Pucar\u00e1",
+    "wof:parent_id":421187857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.36767,
+    -15.03944,
+    -70.36767,
+    -15.03944
+],
+  "geometry": {"coordinates":[-70.36767,-15.03944],"type":"Point"}
+}

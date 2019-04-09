@@ -1,0 +1,63 @@
+{
+  "id": 1209101755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.67054,-12.25923,-74.67054,-12.25923",
+    "geom:latitude":-12.25923,
+    "geom:longitude":-74.67054,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90705.0",
+    "gn:asciiname":"Quintuo",
+    "gn:country_code":"PE",
+    "gn:dem":3131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664908,
+    "gn:latitude":-12.25923,
+    "gn:longitude":-74.67054,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Quintuo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664908
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"58025def949d8f0af101dde0f24554ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101755
+        }
+    ],
+    "wof:id":1209101755,
+    "wof:lastmodified":1536297710,
+    "wof:name":"Quintuo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.67054,
+    -12.25923,
+    -74.67054,
+    -12.25923
+],
+  "geometry": {"coordinates":[-74.67054,-12.25923],"type":"Point"}
+}

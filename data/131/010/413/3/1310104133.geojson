@@ -1,0 +1,69 @@
+{
+  "id": 1310104133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.04735,-14.87245,-74.04735,-14.87245",
+    "geom:latitude":-14.87245,
+    "geom:longitude":-74.04735,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50617.0",
+    "gn:asciiname":"Llamayso",
+    "gn:country_code":"PE",
+    "gn:dem":3861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936272,
+    "gn:latitude":-14.87245,
+    "gn:longitude":-74.04735,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Llamayso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936272
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"90e25685fab6f9e07cc61185e95a7c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1310104133,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310104133,
+    "wof:lastmodified":1536997731,
+    "wof:name":"Llamayso",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.04735,
+    -14.87245,
+    -74.04735,
+    -14.87245
+],
+  "geometry": {"coordinates":[-74.04734999999999,-14.87245],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259960123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17085,-13.70573,-76.17085,-13.70573",
+    "geom:latitude":-13.70573,
+    "geom:longitude":-76.17085,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110506.0",
+    "gn:asciiname":"Los Molinos",
+    "gn:country_code":"PE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935890,
+    "gn:latitude":-13.70573,
+    "gn:longitude":-76.17085,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Los Molinos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Molinos Hacienda",
+        "Los Molinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935890
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f83cce5acc4e6d2c861cd5a522563fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1259960123,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259960123,
+    "wof:lastmodified":1537676763,
+    "wof:name":"Los Molinos",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17085,
+    -13.70573,
+    -76.17085,
+    -13.70573
+],
+  "geometry": {"coordinates":[-76.17085,-13.70573],"type":"Point"}
+}

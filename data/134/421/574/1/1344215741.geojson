@@ -1,0 +1,69 @@
+{
+  "id": 1344215741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.30688,-16.52782,-69.30688,-16.52782",
+    "geom:latitude":-16.52782,
+    "geom:longitude":-69.30688,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210403.0",
+    "gn:asciiname":"Jayojayuni",
+    "gn:country_code":"PE",
+    "gn:dem":4013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310454,
+    "gn:latitude":-16.52782,
+    "gn:longitude":-69.30688,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jayojayuni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310454
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"25a6c0385d75b28ee68633eb59511b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1344215741,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1344215741,
+    "wof:lastmodified":1536651511,
+    "wof:name":"Jayojayuni",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.30688,
+    -16.52782,
+    -69.30688,
+    -16.52782
+],
+  "geometry": {"coordinates":[-69.30688000000001,-16.52782],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293721855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.06667,-15.51667,-71.06667,-15.51667",
+    "geom:latitude":-15.51667,
+    "geom:longitude":-71.06667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Ayaverine",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946988,
+    "gn:latitude":-15.51667,
+    "gn:longitude":-71.06667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ayaverine",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayavirini",
+        "Ayaverine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946988
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e836e8a9e1aae5044436e572c1ad5b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1293721855,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1293721855,
+    "wof:lastmodified":1537676862,
+    "wof:name":"Ayaverine",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06667,
+    -15.51667,
+    -71.06667,
+    -15.51667
+],
+  "geometry": {"coordinates":[-71.06667,-15.51667],"type":"Point"}
+}

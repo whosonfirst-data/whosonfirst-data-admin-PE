@@ -1,0 +1,63 @@
+{
+  "id": 1209282619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,-3.45,-80.23333,-3.45",
+    "geom:latitude":-3.45,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2403.0",
+    "gn:admin3_code":"240302.0",
+    "gn:asciiname":"Puesto Grau",
+    "gn:country_code":"PE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693164,
+    "gn:latitude":-3.45,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puesto Grau",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693164
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d79b2933746d6e9504b943aae1d15377",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209282619
+        }
+    ],
+    "wof:id":1209282619,
+    "wof:lastmodified":1536291968,
+    "wof:name":"Puesto Grau",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    -3.45,
+    -80.23333000000002,
+    -3.45
+],
+  "geometry": {"coordinates":[-80.23333000000002,-3.45],"type":"Point"}
+}

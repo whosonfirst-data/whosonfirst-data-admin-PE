@@ -1,0 +1,63 @@
+{
+  "id": 1209510815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74222,-12.76571,-74.74222,-12.76571",
+    "geom:latitude":-12.76571,
+    "geom:longitude":-74.74222,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90206.0",
+    "gn:asciiname":"Corralniyoc",
+    "gn:country_code":"PE",
+    "gn:dem":3739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662190,
+    "gn:latitude":-12.76571,
+    "gn:longitude":-74.74222,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Corralniyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662190
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9a70650e95c8c3385020aec688c718b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209510815
+        }
+    ],
+    "wof:id":1209510815,
+    "wof:lastmodified":1536284888,
+    "wof:name":"Corralniyoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74221999999997,
+    -12.76571,
+    -74.74221999999997,
+    -12.76571
+],
+  "geometry": {"coordinates":[-74.74221999999997,-12.76571],"type":"Point"}
+}

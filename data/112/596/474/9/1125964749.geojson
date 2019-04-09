@@ -1,0 +1,115 @@
+{
+  "id": 1125964749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.20472,-10.13083,-76.20472,-10.13083",
+    "geom:latitude":-10.13083,
+    "geom:longitude":-76.20472,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":6865,
+    "gn:population":6865,
+    "iso:country":"PE",
+    "lbl:latitude":-10.13083,
+    "lbl:longitude":-76.20472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ambo"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u535a"
+    ],
+    "name:dut_x_preferred":[
+        "Ambo"
+    ],
+    "name:eng_x_preferred":[
+        "Ambo"
+    ],
+    "name:fre_x_preferred":[
+        "Ambo"
+    ],
+    "name:ger_x_preferred":[
+        "Ambo"
+    ],
+    "name:ita_x_preferred":[
+        "Ambo"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u060c \u067e\u0631\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Ambo"
+    ],
+    "name:que_x_preferred":[
+        "Ampuq"
+    ],
+    "name:spa_x_preferred":[
+        "Ambo"
+    ],
+    "name:war_x_preferred":[
+        "Ambo"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3947956,
+    "qs_pg:gn_pop":6865,
+    "qs_pg:name":"Ambo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":151195,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947956,
+        "qs_pg:id":151195,
+        "wd:id":"Q3317423"
+    },
+    "wof:country":"PE",
+    "wof:created":1497297930,
+    "wof:geomhash":"c0c86e4a3b9e4d4f4a628163a407a7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1125964749,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1125964749,
+    "wof:lastmodified":1514494946,
+    "wof:name":"Ambo",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:population":6865,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.20472,
+    -10.13083,
+    -76.20472,
+    -10.13083
+],
+  "geometry": {"coordinates":[-76.20471999999999,-10.13083],"type":"Point"}
+}

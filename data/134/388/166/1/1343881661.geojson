@@ -1,0 +1,68 @@
+{
+  "id": 1343881661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0,-15.33333,-74.0,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":-74.0,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:asciiname":"Huicho",
+    "gn:country_code":"PE",
+    "gn:dem":3176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938749,
+    "gn:latitude":-15.33333,
+    "gn:longitude":-74.0,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Huicho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938749
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ec2c1d69db3a263a0a928df653e055a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1343881661,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343881661,
+    "wof:lastmodified":1536634763,
+    "wof:name":"Huicho",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0,
+    -15.33333,
+    -74.0,
+    -15.33333
+],
+  "geometry": {"coordinates":[-74.0,-15.33333],"type":"Point"}
+}

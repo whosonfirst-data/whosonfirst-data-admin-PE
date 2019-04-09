@@ -1,0 +1,69 @@
+{
+  "id": 1326704569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.36667,-4.86667,-80.36667,-4.86667",
+    "geom:latitude":-4.86667,
+    "geom:longitude":-80.36667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200114.0",
+    "gn:asciiname":"Colera",
+    "gn:country_code":"PE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697965,
+    "gn:latitude":-4.86667,
+    "gn:longitude":-80.36667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"C\u00f3lera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697965
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8703dd488b67807a4aee03f4ec29b963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1326704569,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1326704569,
+    "wof:lastmodified":1536735759,
+    "wof:name":"Colera",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.36667,
+    -4.86667,
+    -80.36667,
+    -4.86667
+],
+  "geometry": {"coordinates":[-80.36667,-4.86667],"type":"Point"}
+}

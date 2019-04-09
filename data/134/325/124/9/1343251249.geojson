@@ -1,0 +1,69 @@
+{
+  "id": 1343251249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63347,-12.80915,-74.63347,-12.80915",
+    "geom:latitude":-12.80915,
+    "geom:longitude":-74.63347,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90208.0",
+    "gn:asciiname":"Anta",
+    "gn:country_code":"PE",
+    "gn:dem":3627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947639,
+    "gn:latitude":-12.80915,
+    "gn:longitude":-74.63347,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Anta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947639
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6a8fde7bc79cb0362a0e3451791659ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1343251249,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343251249,
+    "wof:lastmodified":1537046302,
+    "wof:name":"Anta",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63346999999997,
+    -12.80915,
+    -74.63346999999997,
+    -12.80915
+],
+  "geometry": {"coordinates":[-74.63346999999997,-12.80915],"type":"Point"}
+}

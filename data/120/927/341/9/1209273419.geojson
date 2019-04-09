@@ -1,0 +1,63 @@
+{
+  "id": 1209273419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9425,-4.61042,-79.9425,-4.61042",
+    "geom:latitude":-4.61042,
+    "geom:longitude":-79.9425,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200207.0",
+    "gn:asciiname":"Los Cuadros",
+    "gn:country_code":"PE",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695199,
+    "gn:latitude":-4.61042,
+    "gn:longitude":-79.9425,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Los Cuadros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695199
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"54fb8bf7ccdeeeb13a0196a382155916",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209273419
+        }
+    ],
+    "wof:id":1209273419,
+    "wof:lastmodified":1536292280,
+    "wof:name":"Los Cuadros",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9425,
+    -4.61042,
+    -79.9425,
+    -4.61042
+],
+  "geometry": {"coordinates":[-79.9425,-4.61042],"type":"Point"}
+}

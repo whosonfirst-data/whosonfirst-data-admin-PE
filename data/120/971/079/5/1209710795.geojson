@@ -1,0 +1,69 @@
+{
+  "id": 1209710795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29583,-14.25691,-71.29583,-14.25691",
+    "geom:latitude":-14.25691,
+    "geom:longitude":-71.29583,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80601.0",
+    "gn:asciiname":"Acce Punco",
+    "gn:country_code":"PE",
+    "gn:dem":3679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953839,
+    "gn:latitude":-14.25691,
+    "gn:longitude":-71.29583,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Acce Punco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953839
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"edc5fbaaf9409f859b21d7800130d606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1209710795,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1209710795,
+    "wof:lastmodified":1536390789,
+    "wof:name":"Acce Punco",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29583000000002,
+    -14.25691,
+    -71.29583000000002,
+    -14.25691
+],
+  "geometry": {"coordinates":[-71.29583000000002,-14.25691],"type":"Point"}
+}

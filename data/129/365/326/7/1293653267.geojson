@@ -1,0 +1,69 @@
+{
+  "id": 1293653267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.24145,-16.8257,-69.24145,-16.8257",
+    "geom:latitude":-16.8257,
+    "geom:longitude":-69.24145,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210404.0",
+    "gn:asciiname":"Jayayune",
+    "gn:country_code":"PE",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310270,
+    "gn:latitude":-16.8257,
+    "gn:longitude":-69.24145,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jayayu\u00f1e",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310270
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"368ed1b219f496f95a63d43c04dd13b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1293653267,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293653267,
+    "wof:lastmodified":1537043596,
+    "wof:name":"Jayayune",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.24145,
+    -16.8257,
+    -69.24145,
+    -16.8257
+],
+  "geometry": {"coordinates":[-69.24145,-16.8257],"type":"Point"}
+}

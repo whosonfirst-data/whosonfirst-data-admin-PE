@@ -1,0 +1,72 @@
+{
+  "id": 1193275399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.01973,-15.61874,-74.01973,-15.61874",
+    "geom:latitude":-15.61874,
+    "geom:longitude":-74.01973,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40309.0",
+    "gn:asciiname":"Pampa Blanca",
+    "gn:country_code":"PE",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933317,
+    "gn:latitude":-15.61874,
+    "gn:longitude":-74.01973,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pampa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933317
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a6a7f83248aa450ce25bfa003a1852d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1193275399,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1193275399,
+    "wof:lastmodified":1537676737,
+    "wof:name":"Pampa Blanca",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01973000000002,
+    -15.61874,
+    -74.01973000000002,
+    -15.61874
+],
+  "geometry": {"coordinates":[-74.01973000000002,-15.61874],"type":"Point"}
+}

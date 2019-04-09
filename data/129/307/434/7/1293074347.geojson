@@ -1,0 +1,72 @@
+{
+  "id": 1293074347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85129,-6.88549,-79.85129,-6.88549",
+    "geom:latitude":-6.88549,
+    "geom:longitude":-79.85129,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140108.0",
+    "gn:asciiname":"Espinal",
+    "gn:country_code":"PE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810720,
+    "gn:latitude":-6.88549,
+    "gn:longitude":-79.85129,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Espinal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Espinal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810720
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"35bbe86b1943f3cf15c20b3982788728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1293074347,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1293074347,
+    "wof:lastmodified":1537676655,
+    "wof:name":"Espinal",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85129,
+    -6.88549,
+    -79.85129,
+    -6.88549
+],
+  "geometry": {"coordinates":[-79.85129000000001,-6.88549],"type":"Point"}
+}

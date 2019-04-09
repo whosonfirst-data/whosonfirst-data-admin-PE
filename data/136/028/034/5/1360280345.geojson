@@ -1,0 +1,69 @@
+{
+  "id": 1360280345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.8,-7.08333,-78.8,-7.08333",
+    "geom:latitude":-7.08333,
+    "geom:longitude":-78.8,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61201.0",
+    "gn:asciiname":"Cajaquis",
+    "gn:country_code":"PE",
+    "gn:dem":2694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699079,
+    "gn:latitude":-7.08333,
+    "gn:longitude":-78.8,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cajaquis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699079
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"997873d21ac4a59064f99dc536e620af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693981,
+            "locality_id":1360280345,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1360280345,
+    "wof:lastmodified":1536664029,
+    "wof:name":"Cajaquis",
+    "wof:parent_id":1108693981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8,
+    -7.08333,
+    -78.8,
+    -7.08333
+],
+  "geometry": {"coordinates":[-78.8,-7.08333],"type":"Point"}
+}

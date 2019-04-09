@@ -1,0 +1,73 @@
+{
+  "id": 1326818147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23939,-14.64714,-75.23939,-14.64714",
+    "geom:latitude":-14.64714,
+    "geom:longitude":-75.23939,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110302.0",
+    "gn:asciiname":"Chiquerillo",
+    "gn:country_code":"PE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943694,
+    "gn:latitude":-14.64714,
+    "gn:longitude":-75.23939,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Chiquerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiquerillo Hacienda",
+        "Hacienda Chiquerillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943694
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d3919aa0b6caed02817dcbd35a21184d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1326818147,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1326818147,
+    "wof:lastmodified":1537676833,
+    "wof:name":"Chiquerillo",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23939,
+    -14.64714,
+    -75.23939,
+    -14.64714
+],
+  "geometry": {"coordinates":[-75.23939,-14.64714],"type":"Point"}
+}

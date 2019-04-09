@@ -1,0 +1,75 @@
+{
+  "id": 1327004231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.27075,-4.56048,-81.27075,-4.56048",
+    "geom:latitude":-4.56048,
+    "geom:longitude":-81.27075,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Cuerna Vaca",
+    "gn:country_code":"PE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697663,
+    "gn:latitude":-4.56048,
+    "gn:longitude":-81.27075,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Cuerna Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuerna Vaca"
+    ],
+    "name:spa_x_variant":[
+        "Cuernavaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697663
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f4253efbbaf7f52a6a2c1b9ce46a620b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1327004231,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1327004231,
+    "wof:lastmodified":1537676620,
+    "wof:name":"Cuerna Vaca",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.27075,
+    -4.56048,
+    -81.27075,
+    -4.56048
+],
+  "geometry": {"coordinates":[-81.27075000000001,-4.56048],"type":"Point"}
+}

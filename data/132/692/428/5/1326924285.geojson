@@ -1,0 +1,69 @@
+{
+  "id": 1326924285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.86041,-9.68219,-76.86041,-9.68219",
+    "geom:latitude":-9.68219,
+    "geom:longitude":-76.86041,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100313.0",
+    "gn:asciiname":"Curish",
+    "gn:country_code":"PE",
+    "gn:dem":4101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665883,
+    "gn:latitude":-9.68219,
+    "gn:longitude":-76.86041,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Curish",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665883
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2ff2ce73114c28d2935455e4c1713980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1326924285,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1326924285,
+    "wof:lastmodified":1536916783,
+    "wof:name":"Curish",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.86041,
+    -9.68219,
+    -76.86041,
+    -9.68219
+],
+  "geometry": {"coordinates":[-76.86041,-9.68219],"type":"Point"}
+}

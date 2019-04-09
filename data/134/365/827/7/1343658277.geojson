@@ -1,0 +1,69 @@
+{
+  "id": 1343658277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63333,-13.1,-75.63333,-13.1",
+    "geom:latitude":-13.1,
+    "geom:longitude":-75.63333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90412.0",
+    "gn:asciiname":"Pite",
+    "gn:country_code":"PE",
+    "gn:dem":3864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932102,
+    "gn:latitude":-13.1,
+    "gn:longitude":-75.63333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pite",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932102
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d2c618a6f34bd9665805750734510db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1343658277,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343658277,
+    "wof:lastmodified":1536958181,
+    "wof:name":"Pite",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63333,
+    -13.1,
+    -75.63333,
+    -13.1
+],
+  "geometry": {"coordinates":[-75.63333,-13.1],"type":"Point"}
+}

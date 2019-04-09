@@ -1,0 +1,73 @@
+{
+  "id": 1242579787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51205,-10.63499,-77.51205,-10.63499",
+    "geom:latitude":-10.63499,
+    "geom:longitude":-77.51205,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21405.0",
+    "gn:asciiname":"Alpas",
+    "gn:country_code":"PE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948083,
+    "gn:latitude":-10.63499,
+    "gn:longitude":-77.51205,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Alpas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alpas Hacienda",
+        "Alpas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948083
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1040672960751ec01af32ebc3f8302b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694003,
+            "locality_id":1242579787,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242579787,
+    "wof:lastmodified":1537676870,
+    "wof:name":"Alpas",
+    "wof:parent_id":1108694003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51205,
+    -10.63499,
+    -77.51205,
+    -10.63499
+],
+  "geometry": {"coordinates":[-77.51205,-10.63499],"type":"Point"}
+}

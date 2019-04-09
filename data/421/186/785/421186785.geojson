@@ -1,0 +1,75 @@
+{
+  "id": 421186785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.995079,-14.946277,-74.995079,-14.946277",
+    "geom:latitude":-14.946277,
+    "geom:longitude":-74.995079,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Paroma",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075981,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":410913,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":410913,
+        "qs:id":1075981
+    },
+    "wof:country":"PE",
+    "wof:created":1459009491,
+    "wof:geomhash":"df27a88eec6d92a156f60e8594690507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":421186785,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421186785,
+    "wof:lastmodified":1500024473,
+    "wof:name":"Paroma",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.995079,
+    -14.946277,
+    -74.995079,
+    -14.946277
+],
+  "geometry": {"coordinates":[-74.995079,-14.946277],"type":"Point"}
+}

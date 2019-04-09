@@ -1,0 +1,69 @@
+{
+  "id": 1309780281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7574,-5.02674,-79.7574,-5.02674",
+    "geom:latitude":-5.02674,
+    "geom:longitude":-79.7574,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"Yumbe",
+    "gn:country_code":"PE",
+    "gn:dem":2529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761611,
+    "gn:latitude":-5.02674,
+    "gn:longitude":-79.7574,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Yumbe",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761611
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9302027845202f57f02a9ce11ae6b999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1309780281,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1309780281,
+    "wof:lastmodified":1536967679,
+    "wof:name":"Yumbe",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7574,
+    -5.02674,
+    -79.7574,
+    -5.02674
+],
+  "geometry": {"coordinates":[-79.7574,-5.02674],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293022381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.70554,-5.3983,-78.70554,-5.3983",
+    "geom:latitude":-5.3983,
+    "geom:longitude":-78.70554,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"609.0",
+    "gn:admin3_code":"60903.0",
+    "gn:asciiname":"Zapotal",
+    "gn:country_code":"PE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736481,
+    "gn:latitude":-5.3983,
+    "gn:longitude":-78.70554,
+    "gn:modification_date":"2014-07-07",
+    "gn:name":"Zapotal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421177057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736481
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"75ff4981542fb4ac7af292bf5153b8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177057,
+            "locality_id":1293022381,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1293022381,
+    "wof:lastmodified":1536960554,
+    "wof:name":"Zapotal",
+    "wof:parent_id":421177057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.70554,
+    -5.3983,
+    -78.70554,
+    -5.3983
+],
+  "geometry": {"coordinates":[-78.70554,-5.3983],"type":"Point"}
+}

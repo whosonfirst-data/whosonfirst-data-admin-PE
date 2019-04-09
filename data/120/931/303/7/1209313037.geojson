@@ -1,0 +1,66 @@
+{
+  "id": 1209313037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.28365,-15.09128,-74.28365,-15.09128",
+    "geom:latitude":-15.09128,
+    "geom:longitude":-74.28365,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50617.0",
+    "gn:asciiname":"Chacaruni",
+    "gn:country_code":"PE",
+    "gn:dem":2679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10466542,
+    "gn:latitude":-15.09128,
+    "gn:longitude":-74.28365,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chacaruni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chacaruni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10466542
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3ac8a671be6400e16201d67219606e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209313037
+        }
+    ],
+    "wof:id":1209313037,
+    "wof:lastmodified":1537676932,
+    "wof:name":"Chacaruni",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.28365,
+    -15.09128,
+    -74.28365,
+    -15.09128
+],
+  "geometry": {"coordinates":[-74.28364999999999,-15.09128],"type":"Point"}
+}

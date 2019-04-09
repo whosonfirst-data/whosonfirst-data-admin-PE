@@ -1,0 +1,72 @@
+{
+  "id": 1242686927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.37995,-5.92095,-78.37995,-5.92095",
+    "geom:latitude":-5.92095,
+    "geom:longitude":-78.37995,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Nuevo Horizonte",
+    "gn:country_code":"PE",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873434,
+    "gn:latitude":-5.92095,
+    "gn:longitude":-78.37995,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuevo Horizonte",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Horizonte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873434
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"182c438730f09b5eedf698b2564d6406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1242686927,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1242686927,
+    "wof:lastmodified":1537676926,
+    "wof:name":"Nuevo Horizonte",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.37995,
+    -5.92095,
+    -78.37995,
+    -5.92095
+],
+  "geometry": {"coordinates":[-78.37994999999999,-5.92095],"type":"Point"}
+}

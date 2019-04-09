@@ -1,0 +1,69 @@
+{
+  "id": 1226749899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.17638,-10.11871,-77.17638,-10.11871",
+    "geom:latitude":-10.11871,
+    "geom:longitude":-77.17638,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20501.0",
+    "gn:asciiname":"Paquiash",
+    "gn:country_code":"PE",
+    "gn:dem":3675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664423,
+    "gn:latitude":-10.11871,
+    "gn:longitude":-77.17638,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Paquiash",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664423
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c6e65a423d7a848efd8d6b178b93809b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1226749899,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226749899,
+    "wof:lastmodified":1536709834,
+    "wof:name":"Paquiash",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.17638000000002,
+    -10.11871,
+    -77.17638000000002,
+    -10.11871
+],
+  "geometry": {"coordinates":[-77.17638000000002,-10.11871],"type":"Point"}
+}

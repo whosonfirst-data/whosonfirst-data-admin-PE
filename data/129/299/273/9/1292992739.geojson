@@ -1,0 +1,73 @@
+{
+  "id": 1292992739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.18547,-7.14794,-79.18547,-7.14794",
+    "geom:latitude":-7.14794,
+    "geom:longitude":-79.18547,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61110.0",
+    "gn:asciiname":"Mirador",
+    "gn:country_code":"PE",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694777,
+    "gn:latitude":-7.14794,
+    "gn:longitude":-79.18547,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mirador",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirador Hacienda",
+        "Mirador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694777
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e72ee223e7b9ce5f730c288aea5cd53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693985,
+            "locality_id":1292992739,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1292992739,
+    "wof:lastmodified":1537676584,
+    "wof:name":"Mirador",
+    "wof:parent_id":1108693985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.18547,
+    -7.14794,
+    -79.18547,
+    -7.14794
+],
+  "geometry": {"coordinates":[-79.18547,-7.14794],"type":"Point"}
+}

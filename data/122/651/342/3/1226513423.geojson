@@ -1,0 +1,70 @@
+{
+  "id": 1226513423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00852,-8.10457,-79.00852,-8.10457",
+    "geom:latitude":-8.10457,
+    "geom:longitude":-79.00852,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"La noria",
+    "gn:country_code":"PE",
+    "gn:dem":51,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778684,
+    "gn:latitude":-8.10457,
+    "gn:longitude":-79.00852,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La noria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421170677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778684
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d32c9b6f8868018d2222543383672d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170677,
+            "locality_id":1226513423,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1226513423,
+    "wof:lastmodified":1537042967,
+    "wof:name":"La noria",
+    "wof:parent_id":421170677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00851999999998,
+    -8.10457,
+    -79.00851999999998,
+    -8.10457
+],
+  "geometry": {"coordinates":[-79.00851999999998,-8.10457],"type":"Point"}
+}

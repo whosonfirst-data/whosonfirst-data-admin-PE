@@ -1,0 +1,67 @@
+{
+  "id": 1209076611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.1403,-6.76729,-79.1403,-6.76729",
+    "geom:latitude":-6.76729,
+    "geom:longitude":-79.1403,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140110.0",
+    "gn:asciiname":"La Cental",
+    "gn:country_code":"PE",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742856,
+    "gn:latitude":-6.76729,
+    "gn:longitude":-79.1403,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"La Cental",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Central",
+        "La Cental"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742856
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df5e3680fa4bde11e31f294593121ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209076611
+        }
+    ],
+    "wof:id":1209076611,
+    "wof:lastmodified":1537676648,
+    "wof:name":"La Cental",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.1403,
+    -6.76729,
+    -79.1403,
+    -6.76729
+],
+  "geometry": {"coordinates":[-79.1403,-6.76729],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243260921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26945,-6.43016,-79.26945,-6.43016",
+    "geom:latitude":-6.43016,
+    "geom:longitude":-79.26945,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60416.0",
+    "gn:asciiname":"El Molino",
+    "gn:country_code":"PE",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743079,
+    "gn:latitude":-6.43016,
+    "gn:longitude":-79.26945,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"El Molino",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743079
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"27baea56dcce1d98c8a781e7286aa923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1243260921,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1243260921,
+    "wof:lastmodified":1537069980,
+    "wof:name":"El Molino",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26945,
+    -6.43016,
+    -79.26945,
+    -6.43016
+],
+  "geometry": {"coordinates":[-79.26945000000001,-6.43016],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243051107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77544,-6.5576,-79.77544,-6.5576",
+    "geom:latitude":-6.5576,
+    "geom:longitude":-79.77544,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Mauro",
+    "gn:country_code":"PE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810796,
+    "gn:latitude":-6.5576,
+    "gn:longitude":-79.77544,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mauro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mauro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810796
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e59cbb9f82844b6551e0151219a9369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1243051107,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1243051107,
+    "wof:lastmodified":1537676656,
+    "wof:name":"Mauro",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77544,
+    -6.5576,
+    -79.77544,
+    -6.5576
+],
+  "geometry": {"coordinates":[-79.77544,-6.5576],"type":"Point"}
+}

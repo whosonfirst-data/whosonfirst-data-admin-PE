@@ -1,0 +1,73 @@
+{
+  "id": 1226808159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35123,-4.67142,-80.35123,-4.67142",
+    "geom:latitude":-4.67142,
+    "geom:longitude":-80.35123,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200111.0",
+    "gn:asciiname":"Rinconada de Pelingara",
+    "gn:country_code":"PE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692869,
+    "gn:latitude":-4.67142,
+    "gn:longitude":-80.35123,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Rinconada de Pelingara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinconada de Peling",
+        "Rinconada de Pelingara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692869
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ac25aa0055231a5f80acf8adbac0114d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1226808159,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226808159,
+    "wof:lastmodified":1537676557,
+    "wof:name":"Rinconada de Pelingara",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35123,
+    -4.67142,
+    -80.35123,
+    -4.67142
+],
+  "geometry": {"coordinates":[-80.35123,-4.67142],"type":"Point"}
+}

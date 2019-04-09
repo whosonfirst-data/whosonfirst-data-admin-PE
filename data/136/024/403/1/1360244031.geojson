@@ -1,0 +1,73 @@
+{
+  "id": 1360244031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45517,-4.44653,-80.45517,-4.44653",
+    "geom:latitude":-4.44653,
+    "geom:longitude":-80.45517,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"La Chorrera",
+    "gn:country_code":"PE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695953,
+    "gn:latitude":-4.44653,
+    "gn:longitude":-80.45517,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"La Chorrera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorrera",
+        "La Chorrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695953
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8a6671b7b2de72ea076bf69b1496733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1360244031,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1360244031,
+    "wof:lastmodified":1537676597,
+    "wof:name":"La Chorrera",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45517,
+    -4.44653,
+    -80.45517,
+    -4.44653
+],
+  "geometry": {"coordinates":[-80.45517,-4.44653],"type":"Point"}
+}

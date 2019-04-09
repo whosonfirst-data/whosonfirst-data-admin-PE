@@ -1,0 +1,69 @@
+{
+  "id": 1260363535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.5592,-15.73009,-70.5592,-15.73009",
+    "geom:latitude":-15.73009,
+    "geom:longitude":-70.5592,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210709.0",
+    "gn:asciiname":"Pampa Huasi",
+    "gn:country_code":"PE",
+    "gn:dem":4345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933244,
+    "gn:latitude":-15.73009,
+    "gn:longitude":-70.5592,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pampa Huasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933244
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b0ccdc6b36156a0f4e803c668c41760a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187857,
+            "locality_id":1260363535,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1260363535,
+    "wof:lastmodified":1536601508,
+    "wof:name":"Pampa Huasi",
+    "wof:parent_id":421187857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.5592,
+    -15.73009,
+    -70.5592,
+    -15.73009
+],
+  "geometry": {"coordinates":[-70.5592,-15.73009],"type":"Point"}
+}

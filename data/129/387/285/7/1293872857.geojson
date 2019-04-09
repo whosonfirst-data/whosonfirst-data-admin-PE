@@ -1,0 +1,69 @@
+{
+  "id": 1293872857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8195,-12.79333,-74.8195,-12.79333",
+    "geom:latitude":-12.79333,
+    "geom:longitude":-74.8195,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90117.0",
+    "gn:asciiname":"Paltarumi",
+    "gn:country_code":"PE",
+    "gn:dem":4072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662607,
+    "gn:latitude":-12.79333,
+    "gn:longitude":-74.8195,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Paltarumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662607
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"71ac0a2360d0dc1e40213170b4aeccd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1293872857,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1293872857,
+    "wof:lastmodified":1536729062,
+    "wof:name":"Paltarumi",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8195,
+    -12.79333,
+    -74.8195,
+    -12.79333
+],
+  "geometry": {"coordinates":[-74.81950000000001,-12.79333],"type":"Point"}
+}

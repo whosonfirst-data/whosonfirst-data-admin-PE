@@ -1,0 +1,75 @@
+{
+  "id": 1259967525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73291,-14.02321,-75.73291,-14.02321",
+    "geom:latitude":-14.02321,
+    "geom:longitude":-75.73291,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:asciiname":"Limon",
+    "gn:country_code":"PE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936433,
+    "gn:latitude":-14.02321,
+    "gn:longitude":-75.73291,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Limon",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Limon"
+    ],
+    "name:spa_x_variant":[
+        "Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936433
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9a1c7cb1292d44c6c7b365e6552f36c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1259967525,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259967525,
+    "wof:lastmodified":1537676767,
+    "wof:name":"Limon",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73291,
+    -14.02321,
+    -75.73291,
+    -14.02321
+],
+  "geometry": {"coordinates":[-75.73291,-14.02321],"type":"Point"}
+}

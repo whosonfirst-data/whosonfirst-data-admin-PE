@@ -1,0 +1,66 @@
+{
+  "id": 1209323815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.47923,-5.80505,-78.47923,-5.80505",
+    "geom:latitude":-5.80505,
+    "geom:longitude":-78.47923,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"El Sauce",
+    "gn:country_code":"PE",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812002,
+    "gn:latitude":-5.80505,
+    "gn:longitude":-78.47923,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"El Sauce",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Sauce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812002
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"91e90fe30b9a4489ec7ebd86403186b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209323815
+        }
+    ],
+    "wof:id":1209323815,
+    "wof:lastmodified":1537676658,
+    "wof:name":"El Sauce",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.47923,
+    -5.80505,
+    -78.47923,
+    -5.80505
+],
+  "geometry": {"coordinates":[-78.47923,-5.80505],"type":"Point"}
+}

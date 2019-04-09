@@ -1,0 +1,100 @@
+{
+  "id": 421203811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6452,-12.63464,-76.6452,-12.63464",
+    "geom:latitude":-12.63464,
+    "geom:longitude":-76.6452,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Barranco"
+    ],
+    "name:deu_x_preferred":[
+        "Barranco"
+    ],
+    "name:por_x_preferred":[
+        "Barranco"
+    ],
+    "name:spa_x_preferred":[
+        "Barranco"
+    ],
+    "name:unk_x_variant":[
+        "La Barranca"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3937369,
+    "qs:gn_pop":0,
+    "qs:name":"Barranco",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":3153,
+    "qs:photos_1k":639,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3153,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235290,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":397364,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937369,
+        "gp:id":397364,
+        "qs:id":235290
+    },
+    "wof:country":"PE",
+    "wof:created":1459010164,
+    "wof:geomhash":"93fce5e971924cf9c5dc011e6cceeb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421203811,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421203811,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421203811,
+    "wof:lastmodified":1527716190,
+    "wof:name":"Barranco",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6452,
+    -12.63464,
+    -76.6452,
+    -12.63464
+],
+  "geometry": {"coordinates":[-76.6452,-12.63464],"type":"Point"}
+}

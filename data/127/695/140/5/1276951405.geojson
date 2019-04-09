@@ -1,0 +1,75 @@
+{
+  "id": 1276951405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86887,-5.79021,-79.86887,-5.79021",
+    "geom:latitude":-5.79021,
+    "geom:longitude":-79.86887,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140308.0",
+    "gn:asciiname":"Hualtacal",
+    "gn:country_code":"PE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696524,
+    "gn:latitude":-5.79021,
+    "gn:longitude":-79.86887,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hualtacal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualtaco",
+        "Hualtaca",
+        "Hualtaca Ciudad",
+        "Hualtacal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696524
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9f8622438976cf3ffa2afbe49e163039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1276951405,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276951405,
+    "wof:lastmodified":1537676605,
+    "wof:name":"Hualtacal",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86887,
+    -5.79021,
+    -79.86887,
+    -5.79021
+],
+  "geometry": {"coordinates":[-79.86887,-5.79021],"type":"Point"}
+}

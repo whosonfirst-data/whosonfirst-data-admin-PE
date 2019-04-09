@@ -1,0 +1,73 @@
+{
+  "id": 1309810445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.68972,-13.3875,-73.68972,-13.3875",
+    "geom:latitude":-13.3875,
+    "geom:longitude":-73.68972,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30604.0",
+    "gn:asciiname":"Huaccana",
+    "gn:country_code":"PE",
+    "gn:dem":3078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3964938,
+    "gn:latitude":-13.3875,
+    "gn:longitude":-73.68972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huaccana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huajana",
+        "Huaccana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421194079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964938
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dfe49bd66c4733e747893b9bde751428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194079,
+            "locality_id":1309810445,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1309810445,
+    "wof:lastmodified":1537676890,
+    "wof:name":"Huaccana",
+    "wof:parent_id":421194079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.68972,
+    -13.3875,
+    -73.68972,
+    -13.3875
+],
+  "geometry": {"coordinates":[-73.68971999999999,-13.3875],"type":"Point"}
+}

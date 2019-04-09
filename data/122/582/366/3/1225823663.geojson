@@ -1,0 +1,69 @@
+{
+  "id": 1225823663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.90173,-9.50751,-76.90173,-9.50751",
+    "geom:latitude":-9.50751,
+    "geom:longitude":-76.90173,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100509.0",
+    "gn:asciiname":"Tayayoc",
+    "gn:country_code":"PE",
+    "gn:dem":4114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665594,
+    "gn:latitude":-9.50751,
+    "gn:longitude":-76.90173,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tayayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665594
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a80022385f3515cd5320e2706c8d5cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1225823663,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1225823663,
+    "wof:lastmodified":1537043762,
+    "wof:name":"Tayayoc",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.90173,
+    -9.50751,
+    -76.90173,
+    -9.50751
+],
+  "geometry": {"coordinates":[-76.90173,-9.50751],"type":"Point"}
+}

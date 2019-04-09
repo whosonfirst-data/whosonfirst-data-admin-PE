@@ -1,0 +1,73 @@
+{
+  "id": 1225804189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.60881,-5.57237,-79.60881,-5.57237",
+    "geom:latitude":-5.57237,
+    "geom:longitude":-79.60881,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Hacienda Malulo",
+    "gn:country_code":"PE",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694686,
+    "gn:latitude":-5.57237,
+    "gn:longitude":-79.60881,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda Malulo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molulo",
+        "Hacienda Malulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694686
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3ff9d90c073cc57d47e297a5a66430a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1225804189,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225804189,
+    "wof:lastmodified":1537676582,
+    "wof:name":"Hacienda Malulo",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.60880999999998,
+    -5.57237,
+    -79.60880999999998,
+    -5.57237
+],
+  "geometry": {"coordinates":[-79.60880999999998,-5.57237],"type":"Point"}
+}

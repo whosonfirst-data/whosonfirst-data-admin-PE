@@ -1,0 +1,69 @@
+{
+  "id": 1360169447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82639,-14.51583,-71.82639,-14.51583",
+    "geom:latitude":-14.51583,
+    "geom:longitude":-71.82639,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80708.0",
+    "gn:asciiname":"Fauce",
+    "gn:country_code":"PE",
+    "gn:dem":4057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956141,
+    "gn:latitude":-14.51583,
+    "gn:longitude":-71.82639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Fauce",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956141
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"215fda832b91ea0b9f8e2045be1b458a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1360169447,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1360169447,
+    "wof:lastmodified":1536823095,
+    "wof:name":"Fauce",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82639,
+    -14.51583,
+    -71.82639,
+    -14.51583
+],
+  "geometry": {"coordinates":[-71.82639,-14.51583],"type":"Point"}
+}

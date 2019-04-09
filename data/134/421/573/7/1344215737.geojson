@@ -1,0 +1,74 @@
+{
+  "id": 1344215737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04373,-14.17697,-69.04373,-14.17697",
+    "geom:latitude":-14.17697,
+    "geom:longitude":-69.04373,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Charobamba",
+    "gn:country_code":"PE",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558429,
+    "gn:latitude":-14.17697,
+    "gn:longitude":-69.04373,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Charobamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Charobamba"
+    ],
+    "name:spa_x_variant":[
+        "Charubamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558429
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3d2d4f8e84a44cc4d03e1a175ea59121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1344215737,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1344215737,
+    "wof:lastmodified":1537677007,
+    "wof:name":"Charobamba",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04373000000001,
+    -14.17697,
+    -69.04373000000001,
+    -14.17697
+],
+  "geometry": {"coordinates":[-69.04373000000001,-14.17697],"type":"Point"}
+}

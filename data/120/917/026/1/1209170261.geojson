@@ -1,0 +1,63 @@
+{
+  "id": 1209170261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.03675,-17.84337,-70.03675,-17.84337",
+    "geom:latitude":-17.84337,
+    "geom:longitude":-70.03675,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230106.0",
+    "gn:asciiname":"Sircana",
+    "gn:country_code":"PE",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928571,
+    "gn:latitude":-17.84337,
+    "gn:longitude":-70.03675,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sircana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928571
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e8d1bc303b4da2688bc2bd18c5fbf78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209170261
+        }
+    ],
+    "wof:id":1209170261,
+    "wof:lastmodified":1536295605,
+    "wof:name":"Sircana",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.03675,
+    -17.84337,
+    -70.03675,
+    -17.84337
+],
+  "geometry": {"coordinates":[-70.03675,-17.84337],"type":"Point"}
+}

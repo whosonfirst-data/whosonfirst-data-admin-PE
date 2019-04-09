@@ -1,0 +1,119 @@
+{
+  "id": 1126090535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08333,-12.08333,-77.08333,-12.08333",
+    "geom:latitude":-12.08333,
+    "geom:longitude":-77.08333,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-12.08333,
+    "gn:longitude":-77.08333,
+    "iso:country":"PE",
+    "lbl:latitude":-12.08333,
+    "lbl:longitude":-77.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Cuevas"
+    ],
+    "name:cat_x_preferred":[
+        "Cuevas"
+    ],
+    "name:deu_x_preferred":[
+        "Cuevas"
+    ],
+    "name:fra_x_preferred":[
+        "Cuevas"
+    ],
+    "name:por_x_preferred":[
+        "Cuevas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u044d\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cueva",
+        "Cuevas"
+    ],
+    "name:unk_x_variant":[
+        "Cueva"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3941796,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cueva",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Lima Metropolitan Area",
+    "qs_pg:photos":688,
+    "qs_pg:photos_1k":139,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":688,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082776,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":401940,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424919,
+    "woe:name_adm0":"Per\u00fa",
+    "woe:name_adm1":"Lima Metropolitan Area",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675909,
+        102191577,
+        85632521,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941796,
+        "gp:id":401940,
+        "qs:id":1082776,
+        "qs_pg:id":1082776
+    },
+    "wof:country":"PE",
+    "wof:created":1497313651,
+    "wof:geomhash":"aed5a450f3c4ecec9f33256476273e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":1126090535,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1126090535,
+    "wof:lastmodified":1534379398,
+    "wof:name":"Cueva",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85765001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08333,
+    -12.08333,
+    -77.08333,
+    -12.08333
+],
+  "geometry": {"coordinates":[-77.08333,-12.08333],"type":"Point"}
+}

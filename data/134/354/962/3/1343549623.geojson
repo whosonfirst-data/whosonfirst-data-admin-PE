@@ -1,0 +1,69 @@
+{
+  "id": 1343549623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05402,-9.84539,-76.05402,-9.84539",
+    "geom:latitude":-9.84539,
+    "geom:longitude":-76.05402,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1008.0",
+    "gn:admin3_code":"100804.0",
+    "gn:asciiname":"Ushac Punta",
+    "gn:country_code":"PE",
+    "gn:dem":2485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670404,
+    "gn:latitude":-9.84539,
+    "gn:longitude":-76.05402,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ushac Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421197577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670404
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"38c18259351561518ff9fbbcd888929e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197577,
+            "locality_id":1343549623,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343549623,
+    "wof:lastmodified":1536615213,
+    "wof:name":"Ushac Punta",
+    "wof:parent_id":421197577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05402,
+    -9.84539,
+    -76.05402,
+    -9.84539
+],
+  "geometry": {"coordinates":[-76.05401999999999,-9.84539],"type":"Point"}
+}

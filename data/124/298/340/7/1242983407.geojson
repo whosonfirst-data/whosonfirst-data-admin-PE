@@ -1,0 +1,72 @@
+{
+  "id": 1242983407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.58544,-9.04806,-78.58544,-9.04806",
+    "geom:latitude":-9.04806,
+    "geom:longitude":-78.58544,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21801.0",
+    "gn:asciiname":"Esperanza Alta",
+    "gn:country_code":"PE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6198948,
+    "gn:latitude":-9.04806,
+    "gn:longitude":-78.58544,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Esperanza Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esperanza Alta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6198948
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e035aef819574b6c6c0220450372605f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1242983407,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242983407,
+    "wof:lastmodified":1537676892,
+    "wof:name":"Esperanza Alta",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.58544,
+    -9.04806,
+    -78.58544,
+    -9.04806
+],
+  "geometry": {"coordinates":[-78.58544000000001,-9.04806],"type":"Point"}
+}

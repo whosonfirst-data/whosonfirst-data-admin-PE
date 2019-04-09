@@ -1,0 +1,63 @@
+{
+  "id": 1209101055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.62139,-10.04611,-76.62139,-10.04611",
+    "geom:latitude":-10.04611,
+    "geom:longitude":-76.62139,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101001.0",
+    "gn:asciiname":"Puquio",
+    "gn:country_code":"PE",
+    "gn:dem":3719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403226,
+    "gn:latitude":-10.04611,
+    "gn:longitude":-76.62139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403226
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"01fe881cb1cd8ec3b2a4023a9ffdcf92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101055
+        }
+    ],
+    "wof:id":1209101055,
+    "wof:lastmodified":1536297731,
+    "wof:name":"Puquio",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.62139,
+    -10.04611,
+    -76.62139,
+    -10.04611
+],
+  "geometry": {"coordinates":[-76.62139000000001,-10.04611],"type":"Point"}
+}

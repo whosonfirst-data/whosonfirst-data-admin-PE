@@ -1,0 +1,77 @@
+{
+  "id": 1360157413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88778,-10.83146,-76.88778,-10.83146",
+    "geom:latitude":-10.83146,
+    "geom:longitude":-76.88778,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150902.0",
+    "gn:asciiname":"Cabracancha",
+    "gn:country_code":"PE",
+    "gn:dem":2206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946451,
+    "gn:latitude":-10.83146,
+    "gn:longitude":-76.88778,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cabracancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946451
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"07c6c230a49e85031bafc2a3bdf8b3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1360157413,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1360157413,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1360157413,
+    "wof:lastmodified":1536840393,
+    "wof:name":"Cabracancha",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88778,
+    -10.83146,
+    -76.88778,
+    -10.83146
+],
+  "geometry": {"coordinates":[-76.88778000000001,-10.83146],"type":"Point"}
+}

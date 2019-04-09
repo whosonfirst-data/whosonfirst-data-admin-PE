@@ -1,0 +1,67 @@
+{
+  "id": 1209580093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89068,-4.67684,-79.89068,-4.67684",
+    "geom:latitude":-4.67684,
+    "geom:longitude":-79.89068,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200207.0",
+    "gn:asciiname":"Muleros",
+    "gn:country_code":"PE",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694542,
+    "gn:latitude":-4.67684,
+    "gn:longitude":-79.89068,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Muleros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulero",
+        "Muleros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694542
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c09718277ddf8ae7918dded891b522c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209580093
+        }
+    ],
+    "wof:id":1209580093,
+    "wof:lastmodified":1537676581,
+    "wof:name":"Muleros",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89068,
+    -4.67684,
+    -79.89068,
+    -4.67684
+],
+  "geometry": {"coordinates":[-79.89068,-4.67684],"type":"Point"}
+}

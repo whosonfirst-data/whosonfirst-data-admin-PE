@@ -1,0 +1,69 @@
+{
+  "id": 1293157785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76667,-9.35,-73.76667,-9.35",
+    "geom:latitude":-9.35,
+    "geom:longitude":-73.76667,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250104.0",
+    "gn:asciiname":"Chacra",
+    "gn:country_code":"PE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698533,
+    "gn:latitude":-9.35,
+    "gn:longitude":-73.76667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421171957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698533
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"223b1413673a0567da63ac477c078bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171957,
+            "locality_id":1293157785,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1293157785,
+    "wof:lastmodified":1536765950,
+    "wof:name":"Chacra",
+    "wof:parent_id":421171957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76666999999998,
+    -9.35,
+    -73.76666999999998,
+    -9.35
+],
+  "geometry": {"coordinates":[-73.76666999999998,-9.35],"type":"Point"}
+}

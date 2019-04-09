@@ -1,0 +1,63 @@
+{
+  "id": 1209685579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6489,-11.59943,-76.6489,-11.59943",
+    "geom:latitude":-11.59943,
+    "geom:longitude":-76.6489,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150405.0",
+    "gn:asciiname":"Puille",
+    "gn:country_code":"PE",
+    "gn:dem":3140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646274,
+    "gn:latitude":-11.59943,
+    "gn:longitude":-76.6489,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Puille",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646274
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ec1faa7422968758582c6fd59750bd50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209685579
+        }
+    ],
+    "wof:id":1209685579,
+    "wof:lastmodified":1536279423,
+    "wof:name":"Puille",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6489,
+    -11.59943,
+    -76.6489,
+    -11.59943
+],
+  "geometry": {"coordinates":[-76.6489,-11.59943],"type":"Point"}
+}

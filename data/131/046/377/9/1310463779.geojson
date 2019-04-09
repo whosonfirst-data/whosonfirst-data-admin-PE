@@ -1,0 +1,68 @@
+{
+  "id": 1310463779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60652,-10.31106,-76.60652,-10.31106",
+    "geom:latitude":-10.31106,
+    "geom:longitude":-76.60652,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Pampahuay",
+    "gn:country_code":"PE",
+    "gn:dem":4138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933238,
+    "gn:latitude":-10.31106,
+    "gn:longitude":-76.60652,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Pampahuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933238
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c423c326ab0404c928c9dc74a919aad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1310463779,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310463779,
+    "wof:lastmodified":1536976664,
+    "wof:name":"Pampahuay",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60651999999997,
+    -10.31106,
+    -76.60651999999997,
+    -10.31106
+],
+  "geometry": {"coordinates":[-76.60651999999997,-10.31106],"type":"Point"}
+}

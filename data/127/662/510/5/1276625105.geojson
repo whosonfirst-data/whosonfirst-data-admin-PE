@@ -1,0 +1,69 @@
+{
+  "id": 1276625105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71878,-7.05449,-79.71878,-7.05449",
+    "geom:latitude":-7.05449,
+    "geom:longitude":-79.71878,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140107.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"PE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812521,
+    "gn:latitude":-7.05449,
+    "gn:longitude":-79.71878,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812521
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"15ecfc3be693f8c1fe28ed9e688ecf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1276625105,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276625105,
+    "wof:lastmodified":1536884649,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71878000000002,
+    -7.05449,
+    -79.71878000000002,
+    -7.05449
+],
+  "geometry": {"coordinates":[-79.71878000000002,-7.05449],"type":"Point"}
+}

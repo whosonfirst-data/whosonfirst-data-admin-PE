@@ -1,0 +1,69 @@
+{
+  "id": 1276956887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78333,-9.7,-75.78333,-9.7",
+    "geom:latitude":-9.7,
+    "geom:longitude":-75.78333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1008.0",
+    "gn:admin3_code":"100802.0",
+    "gn:asciiname":"Tambo de Vacas",
+    "gn:country_code":"PE",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691532,
+    "gn:latitude":-9.7,
+    "gn:longitude":-75.78333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tambo de Vacas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421197577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691532
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9fefc2a20db5aedb1676b6c1abf0339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197577,
+            "locality_id":1276956887,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276956887,
+    "wof:lastmodified":1536938911,
+    "wof:name":"Tambo de Vacas",
+    "wof:parent_id":421197577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78333,
+    -9.7,
+    -75.78333,
+    -9.7
+],
+  "geometry": {"coordinates":[-75.78333000000001,-9.7],"type":"Point"}
+}

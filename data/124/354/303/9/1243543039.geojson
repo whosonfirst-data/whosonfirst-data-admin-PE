@@ -1,0 +1,69 @@
+{
+  "id": 1243543039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16231,-9.77436,-76.16231,-9.77436",
+    "geom:latitude":-9.77436,
+    "geom:longitude":-76.16231,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100104.0",
+    "gn:asciiname":"Pinculluyoc",
+    "gn:country_code":"PE",
+    "gn:dem":3193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670373,
+    "gn:latitude":-9.77436,
+    "gn:longitude":-76.16231,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pinculluyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670373
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9bc8df107a1adb67449826ef91d26f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1243543039,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1243543039,
+    "wof:lastmodified":1536666359,
+    "wof:name":"Pinculluyoc",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16230999999998,
+    -9.77436,
+    -76.16230999999998,
+    -9.77436
+],
+  "geometry": {"coordinates":[-76.16230999999998,-9.77436],"type":"Point"}
+}

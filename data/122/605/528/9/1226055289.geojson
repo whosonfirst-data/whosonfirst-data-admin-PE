@@ -1,0 +1,69 @@
+{
+  "id": 1226055289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98381,-9.21451,-76.98381,-9.21451",
+    "geom:latitude":-9.21451,
+    "geom:longitude":-76.98381,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20302.0",
+    "gn:asciiname":"Huaca Rumi",
+    "gn:country_code":"PE",
+    "gn:dem":3340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675470,
+    "gn:latitude":-9.21451,
+    "gn:longitude":-76.98381,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huaca Rumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675470
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f2d16e6085f53a0b75b8ab1a00e9bf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694017,
+            "locality_id":1226055289,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1226055289,
+    "wof:lastmodified":1536711653,
+    "wof:name":"Huaca Rumi",
+    "wof:parent_id":1108694017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98380999999998,
+    -9.21451,
+    -76.98380999999998,
+    -9.21451
+],
+  "geometry": {"coordinates":[-76.98380999999998,-9.21451],"type":"Point"}
+}

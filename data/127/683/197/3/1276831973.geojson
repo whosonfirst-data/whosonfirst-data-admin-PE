@@ -1,0 +1,69 @@
+{
+  "id": 1276831973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.79397,-16.73869,-70.79397,-16.73869",
+    "geom:latitude":-16.73869,
+    "geom:longitude":-70.79397,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180105.0",
+    "gn:asciiname":"Queanto",
+    "gn:country_code":"PE",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931086,
+    "gn:latitude":-16.73869,
+    "gn:longitude":-70.79397,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Queanto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931086
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d006de24d43d885cf1fd370d3bfb51b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1276831973,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1276831973,
+    "wof:lastmodified":1536604838,
+    "wof:name":"Queanto",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.79397,
+    -16.73869,
+    -70.79397,
+    -16.73869
+],
+  "geometry": {"coordinates":[-70.79397,-16.73869],"type":"Point"}
+}

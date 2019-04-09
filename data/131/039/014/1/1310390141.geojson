@@ -1,0 +1,69 @@
+{
+  "id": 1310390141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.76449,-12.3881,-72.76449,-12.3881",
+    "geom:latitude":-12.3881,
+    "geom:longitude":-72.76449,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80906.0",
+    "gn:asciiname":"Matoriato",
+    "gn:country_code":"PE",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270471,
+    "gn:latitude":-12.3881,
+    "gn:longitude":-72.76449,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Matoriato",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270471
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"460b46a7c29faf878abd62f5f39b7db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1310390141,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1310390141,
+    "wof:lastmodified":1537080257,
+    "wof:name":"Matoriato",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.76449000000002,
+    -12.3881,
+    -72.76449000000002,
+    -12.3881
+],
+  "geometry": {"coordinates":[-72.76449000000002,-12.3881],"type":"Point"}
+}

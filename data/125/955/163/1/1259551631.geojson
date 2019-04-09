@@ -1,0 +1,69 @@
+{
+  "id": 1259551631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.61486,-3.88182,-80.61486,-3.88182",
+    "geom:latitude":-3.88182,
+    "geom:longitude":-80.61486,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"Tamarindo",
+    "gn:country_code":"PE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691572,
+    "gn:latitude":-3.88182,
+    "gn:longitude":-80.61486,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tamarindo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691572
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1bb0813b23f098ee9d877848223e3655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1259551631,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1259551631,
+    "wof:lastmodified":1536761079,
+    "wof:name":"Tamarindo",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.61486,
+    -3.88182,
+    -80.61486,
+    -3.88182
+],
+  "geometry": {"coordinates":[-80.61485999999999,-3.88182],"type":"Point"}
+}

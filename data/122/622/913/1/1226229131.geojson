@@ -1,0 +1,69 @@
+{
+  "id": 1226229131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22366,-11.28973,-76.22366,-11.28973",
+    "geom:latitude":-11.28973,
+    "geom:longitude":-76.22366,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120804.0",
+    "gn:asciiname":"Ampin",
+    "gn:country_code":"PE",
+    "gn:dem":4263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669171,
+    "gn:latitude":-11.28973,
+    "gn:longitude":-76.22366,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ampin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669171
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"16e9395830150ac7e05657bac48ef171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1226229131,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226229131,
+    "wof:lastmodified":1536957614,
+    "wof:name":"Ampin",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22366,
+    -11.28973,
+    -76.22366,
+    -11.28973
+],
+  "geometry": {"coordinates":[-76.22366,-11.28973],"type":"Point"}
+}

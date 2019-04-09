@@ -1,0 +1,63 @@
+{
+  "id": 1209104593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93167,-13.68762,-73.93167,-13.68762",
+    "geom:latitude":-13.68762,
+    "geom:longitude":-73.93167,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51101.0",
+    "gn:asciiname":"Sahua Rumi",
+    "gn:country_code":"PE",
+    "gn:dem":3661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374396,
+    "gn:latitude":-13.68762,
+    "gn:longitude":-73.93167,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sahua Rumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374396
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"26aba171b6aeb3c63cc96c0d9e663757",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209104593
+        }
+    ],
+    "wof:id":1209104593,
+    "wof:lastmodified":1536297618,
+    "wof:name":"Sahua Rumi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93167,
+    -13.68762,
+    -73.93167,
+    -13.68762
+],
+  "geometry": {"coordinates":[-73.93167,-13.68762],"type":"Point"}
+}

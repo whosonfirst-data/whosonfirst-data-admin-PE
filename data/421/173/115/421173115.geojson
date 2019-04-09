@@ -1,0 +1,83 @@
+{
+  "id": 421173115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18333,-12.73333,-69.18333,-12.73333",
+    "geom:latitude":-12.73333,
+    "geom:longitude":-69.18333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nld_x_preferred":[
+        "Tambopata"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3927942,
+    "qs:gn_pop":38966,
+    "qs:name":"Tambopata",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Madre de Dios",
+    "qs:photos":1074,
+    "qs:photos_1k":218,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1074,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":489700,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":416064,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927942,
+        "gp:id":416064,
+        "qs:id":489700
+    },
+    "wof:country":"PE",
+    "wof:created":1459008971,
+    "wof:geomhash":"1170ad56c2a98a2c1df737ab769fe977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693891,
+            "locality_id":421173115,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":421173115,
+    "wof:lastmodified":1527716261,
+    "wof:name":"Tambopata",
+    "wof:parent_id":1108693891,
+    "wof:placetype":"locality",
+    "wof:population":38966,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18333,
+    -12.73333,
+    -69.18333,
+    -12.73333
+],
+  "geometry": {"coordinates":[-69.18333,-12.73333],"type":"Point"}
+}

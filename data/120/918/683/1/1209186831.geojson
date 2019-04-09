@@ -1,0 +1,69 @@
+{
+  "id": 1209186831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53055,-11.84063,-76.53055,-11.84063",
+    "geom:latitude":-11.84063,
+    "geom:longitude":-76.53055,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150723.0",
+    "gn:asciiname":"Chancacalla",
+    "gn:country_code":"PE",
+    "gn:dem":2593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945850,
+    "gn:latitude":-11.84063,
+    "gn:longitude":-76.53055,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Chancacalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chancacalla"
+    ],
+    "name:und_x_variant":[
+        "Canchacalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945850
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9eafe4d80d74913c2bba8779347020ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209186831
+        }
+    ],
+    "wof:id":1209186831,
+    "wof:lastmodified":1537676852,
+    "wof:name":"Chancacalla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53055,
+    -11.84063,
+    -76.53055,
+    -11.84063
+],
+  "geometry": {"coordinates":[-76.53055000000001,-11.84063],"type":"Point"}
+}

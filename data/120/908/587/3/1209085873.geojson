@@ -1,0 +1,63 @@
+{
+  "id": 1209085873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.10639,-11.64056,-76.10639,-11.64056",
+    "geom:latitude":-11.64056,
+    "geom:longitude":-76.10639,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120810.0",
+    "gn:asciiname":"Vicharrayoc",
+    "gn:country_code":"PE",
+    "gn:dem":4534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968510,
+    "gn:latitude":-11.64056,
+    "gn:longitude":-76.10639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Vicharrayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968510
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"98170258ad669b038133813083f52704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209085873
+        }
+    ],
+    "wof:id":1209085873,
+    "wof:lastmodified":1536298189,
+    "wof:name":"Vicharrayoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.10639,
+    -11.64056,
+    -76.10639,
+    -11.64056
+],
+  "geometry": {"coordinates":[-76.10639,-11.64056],"type":"Point"}
+}

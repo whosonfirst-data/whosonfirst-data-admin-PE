@@ -1,0 +1,77 @@
+{
+  "id": 1343533889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.37472,-11.68306,-76.37472,-11.68306",
+    "geom:latitude":-11.68306,
+    "geom:longitude":-76.37472,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150704.0",
+    "gn:asciiname":"Uquia",
+    "gn:country_code":"PE",
+    "gn:dem":4488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3967816,
+    "gn:latitude":-11.68306,
+    "gn:longitude":-76.37472,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Uquia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967816
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f27de2db8346b5e87026ee737c45e3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343533889,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1343533889,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343533889,
+    "wof:lastmodified":1536639378,
+    "wof:name":"Uquia",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.37472,
+    -11.68306,
+    -76.37472,
+    -11.68306
+],
+  "geometry": {"coordinates":[-76.37472,-11.68306],"type":"Point"}
+}

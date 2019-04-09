@@ -1,0 +1,74 @@
+{
+  "id": 1276734245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21667,-5.58333,-74.21667,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":-74.21667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1605.0",
+    "gn:admin3_code":"160504.0",
+    "gn:asciiname":"Parcoy",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693877,
+    "gn:latitude":-5.58333,
+    "gn:longitude":-74.21667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Parcoy",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parcay",
+        "Parcoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693877
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3272b4d043d9e9a500261d559088fe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694055,
+            "locality_id":1276734245,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1276734245,
+    "wof:lastmodified":1537676572,
+    "wof:name":"Parcoy",
+    "wof:parent_id":1108694055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21667,
+    -5.58333,
+    -74.21667,
+    -5.58333
+],
+  "geometry": {"coordinates":[-74.21666999999999,-5.58333],"type":"Point"}
+}

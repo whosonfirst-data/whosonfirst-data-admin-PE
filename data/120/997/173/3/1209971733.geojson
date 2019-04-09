@@ -1,0 +1,69 @@
+{
+  "id": 1209971733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56566,-9.11522,-75.56566,-9.11522",
+    "geom:latitude":-9.11522,
+    "geom:longitude":-75.56566,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250301.0",
+    "gn:asciiname":"Tangarana",
+    "gn:country_code":"PE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6659411,
+    "gn:latitude":-9.11522,
+    "gn:longitude":-75.56566,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tangarana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421201039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659411
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7ceb6b41739e28683b3765e02f248154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421201039,
+            "locality_id":1209971733,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1209971733,
+    "wof:lastmodified":1536394726,
+    "wof:name":"Tangarana",
+    "wof:parent_id":421201039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56566,
+    -9.11522,
+    -75.56566,
+    -9.11522
+],
+  "geometry": {"coordinates":[-75.56565999999999,-9.11522],"type":"Point"}
+}

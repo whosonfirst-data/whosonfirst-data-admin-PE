@@ -1,0 +1,62 @@
+{
+  "id": 1209189389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54028,-10.31722,-76.54028,-10.31722",
+    "geom:latitude":-10.31722,
+    "geom:longitude":-76.54028,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Congona",
+    "gn:country_code":"PE",
+    "gn:dem":4264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403474,
+    "gn:latitude":-10.31722,
+    "gn:longitude":-76.54028,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Congona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403474
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"74d19aa2462c3025f43a86083c388a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209189389
+        }
+    ],
+    "wof:id":1209189389,
+    "wof:lastmodified":1536294986,
+    "wof:name":"Congona",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54028000000002,
+    -10.31722,
+    -76.54028000000002,
+    -10.31722
+],
+  "geometry": {"coordinates":[-76.54028000000002,-10.31722],"type":"Point"}
+}

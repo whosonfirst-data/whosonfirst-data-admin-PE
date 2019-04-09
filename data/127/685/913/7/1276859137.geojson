@@ -1,0 +1,69 @@
+{
+  "id": 1276859137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.11152,-13.43124,-76.11152,-13.43124",
+    "geom:latitude":-13.43124,
+    "geom:longitude":-76.11152,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:asciiname":"Condorillo Alto",
+    "gn:country_code":"PE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6667357,
+    "gn:latitude":-13.43124,
+    "gn:longitude":-76.11152,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Condorillo Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6667357
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"af6214c1d281f2633fb24fa3fc642ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1276859137,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276859137,
+    "wof:lastmodified":1537066015,
+    "wof:name":"Condorillo Alto",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.11152,
+    -13.43124,
+    -76.11152,
+    -13.43124
+],
+  "geometry": {"coordinates":[-76.11152,-13.43124],"type":"Point"}
+}

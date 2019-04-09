@@ -1,0 +1,77 @@
+{
+  "id": 1277045239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64778,-11.39028,-76.64778,-11.39028",
+    "geom:latitude":-11.39028,
+    "geom:longitude":-76.64778,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150406.0",
+    "gn:asciiname":"Cacan",
+    "gn:country_code":"PE",
+    "gn:dem":4624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968649,
+    "gn:latitude":-11.39028,
+    "gn:longitude":-76.64778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cacan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968649
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7cf6890be3283372a069ada796f3c787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1277045239,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1277045239,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277045239,
+    "wof:lastmodified":1536818693,
+    "wof:name":"Cacan",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64778000000003,
+    -11.39028,
+    -76.64778000000003,
+    -11.39028
+],
+  "geometry": {"coordinates":[-76.64778000000003,-11.39028],"type":"Point"}
+}

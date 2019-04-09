@@ -1,0 +1,69 @@
+{
+  "id": 1326989237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68767,-5.67357,-79.68767,-5.67357",
+    "geom:latitude":-5.67357,
+    "geom:longitude":-79.68767,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Savila",
+    "gn:country_code":"PE",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691970,
+    "gn:latitude":-5.67357,
+    "gn:longitude":-79.68767,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Savila",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691970
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d269817677b2bb5c89189f3f27516bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1326989237,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1326989237,
+    "wof:lastmodified":1536822022,
+    "wof:name":"Savila",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68767,
+    -5.67357,
+    -79.68767,
+    -5.67357
+],
+  "geometry": {"coordinates":[-79.68767,-5.67357],"type":"Point"}
+}

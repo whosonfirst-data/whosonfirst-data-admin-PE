@@ -1,0 +1,73 @@
+{
+  "id": 1226321099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87575,-8.65616,-76.87575,-8.65616",
+    "geom:latitude":-8.65616,
+    "geom:longitude":-76.87575,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1007.0",
+    "gn:admin3_code":"100702.0",
+    "gn:asciiname":"San Pedro de Chonta",
+    "gn:country_code":"PE",
+    "gn:dem":2465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692311,
+    "gn:latitude":-8.65616,
+    "gn:longitude":-76.87575,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Pedro de Chonta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro",
+        "San Pedro de Chonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692311
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a054caa0837c8ac75211fac242df8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693927,
+            "locality_id":1226321099,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226321099,
+    "wof:lastmodified":1537676548,
+    "wof:name":"San Pedro de Chonta",
+    "wof:parent_id":1108693927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87575,
+    -8.65616,
+    -76.87575,
+    -8.65616
+],
+  "geometry": {"coordinates":[-76.87575,-8.65616],"type":"Point"}
+}

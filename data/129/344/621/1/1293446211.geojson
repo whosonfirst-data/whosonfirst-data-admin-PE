@@ -1,0 +1,72 @@
+{
+  "id": 1293446211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27047,-6.69309,-76.27047,-6.69309",
+    "geom:latitude":-6.69309,
+    "geom:longitude":-76.27047,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2209.0",
+    "gn:admin3_code":"220902.0",
+    "gn:asciiname":"Del Aguila",
+    "gn:country_code":"PE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875334,
+    "gn:latitude":-6.69309,
+    "gn:longitude":-76.27047,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Del Aguila",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Del Aguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875334
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cdd46f9e1fd76a94c538637d22ab247a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":1293446211,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1293446211,
+    "wof:lastmodified":1537676929,
+    "wof:name":"Del Aguila",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27046999999997,
+    -6.69309,
+    -76.27046999999997,
+    -6.69309
+],
+  "geometry": {"coordinates":[-76.27046999999997,-6.69309],"type":"Point"}
+}

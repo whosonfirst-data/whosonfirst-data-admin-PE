@@ -1,0 +1,66 @@
+{
+  "id": 1209688505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16702,-11.53679,-77.16702,-11.53679",
+    "geom:latitude":-11.53679,
+    "geom:longitude":-77.16702,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150604.0",
+    "gn:asciiname":"Pampa Uno",
+    "gn:country_code":"PE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9873189,
+    "gn:latitude":-11.53679,
+    "gn:longitude":-77.16702,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pampa Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Uno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873189
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d5db68e2d4e35d7c70d746bb0d87c678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209688505
+        }
+    ],
+    "wof:id":1209688505,
+    "wof:lastmodified":1537676923,
+    "wof:name":"Pampa Uno",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16702,
+    -11.53679,
+    -77.16702,
+    -11.53679
+],
+  "geometry": {"coordinates":[-77.16701999999999,-11.53679],"type":"Point"}
+}

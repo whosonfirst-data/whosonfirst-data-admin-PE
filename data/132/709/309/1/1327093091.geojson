@@ -1,0 +1,71 @@
+{
+  "id": 1327093091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.00971,-13.97327,-69.00971,-13.97327",
+    "geom:latitude":-13.97327,
+    "geom:longitude":-69.00971,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Azata",
+    "gn:country_code":"PE",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528704,
+    "gn:latitude":-13.97327,
+    "gn:longitude":-69.00971,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Azata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Azata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528704
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4496f610eea69aaf723d3fd2960a4328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1327093091,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327093091,
+    "wof:lastmodified":1537676996,
+    "wof:name":"Azata",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.00971,
+    -13.97327,
+    -69.00971,
+    -13.97327
+],
+  "geometry": {"coordinates":[-69.00971,-13.97327],"type":"Point"}
+}

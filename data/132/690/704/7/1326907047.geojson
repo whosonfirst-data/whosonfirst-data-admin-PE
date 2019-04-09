@@ -1,0 +1,72 @@
+{
+  "id": 1326907047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30086,-10.91418,-75.30086,-10.91418",
+    "geom:latitude":-10.91418,
+    "geom:longitude":-75.30086,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"PE",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564061,
+    "gn:latitude":-10.91418,
+    "gn:longitude":-75.30086,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564061
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"01405bdfc6adaa56f040a35e6922a144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1326907047,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1326907047,
+    "wof:lastmodified":1537676900,
+    "wof:name":"Paraiso",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30086,
+    -10.91418,
+    -75.30086,
+    -10.91418
+],
+  "geometry": {"coordinates":[-75.30086,-10.91418],"type":"Point"}
+}

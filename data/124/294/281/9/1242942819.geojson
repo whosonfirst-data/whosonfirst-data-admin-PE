@@ -1,0 +1,71 @@
+{
+  "id": 1242942819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10617,-11.94144,-77.10617,-11.94144",
+    "geom:latitude":-11.94144,
+    "geom:longitude":-77.10617,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Fundo Monte Culebra",
+    "gn:country_code":"PE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891582,
+    "gn:latitude":-11.94144,
+    "gn:longitude":-77.10617,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Fundo Monte Culebra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fundo Monte Culebra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675817,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891582
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d62e37d0c7cca54995770348d2151f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":1242942819,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":1242942819,
+    "wof:lastmodified":1537676930,
+    "wof:name":"Fundo Monte Culebra",
+    "wof:parent_id":421187933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10616999999998,
+    -11.94144,
+    -77.10616999999998,
+    -11.94144
+],
+  "geometry": {"coordinates":[-77.10616999999998,-11.94144],"type":"Point"}
+}

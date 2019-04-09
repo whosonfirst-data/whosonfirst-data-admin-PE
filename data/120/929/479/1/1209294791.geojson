@@ -1,0 +1,69 @@
+{
+  "id": 1209294791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.10577,-14.81891,-75.10577,-14.81891",
+    "geom:latitude":-14.81891,
+    "geom:longitude":-75.10577,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Hacienda Cahuachi",
+    "gn:country_code":"PE",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946324,
+    "gn:latitude":-14.81891,
+    "gn:longitude":-75.10577,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hacienda Cahuachi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cahuachi Hacienda",
+        "Cahuachi",
+        "Hacienda Cahuachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946324,
+        "wk:page":"Cahuachi"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d9a2a5a8a3e0777acc5b4e4742e9b9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209294791
+        }
+    ],
+    "wof:id":1209294791,
+    "wof:lastmodified":1537676856,
+    "wof:name":"Hacienda Cahuachi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.10576999999998,
+    -14.81891,
+    -75.10576999999998,
+    -14.81891
+],
+  "geometry": {"coordinates":[-75.10576999999998,-14.81891],"type":"Point"}
+}

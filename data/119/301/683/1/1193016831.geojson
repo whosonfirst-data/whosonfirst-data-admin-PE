@@ -1,0 +1,74 @@
+{
+  "id": 1193016831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.48333,-13.88333,-72.48333,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":-72.48333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30703.0",
+    "gn:asciiname":"Cullahuare",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941757,
+    "gn:latitude":-13.88333,
+    "gn:longitude":-72.48333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cullahuare",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cullahuare Hacienda",
+        "Cullahuare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941757
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c651e19c9b6069155d7906c817725e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693905,
+            "locality_id":1193016831,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1193016831,
+    "wof:lastmodified":1537676817,
+    "wof:name":"Cullahuare",
+    "wof:parent_id":1108693905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.48333000000002,
+    -13.88333,
+    -72.48333000000002,
+    -13.88333
+],
+  "geometry": {"coordinates":[-72.48333000000002,-13.88333],"type":"Point"}
+}

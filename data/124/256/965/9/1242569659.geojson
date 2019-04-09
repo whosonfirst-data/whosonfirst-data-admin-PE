@@ -1,0 +1,74 @@
+{
+  "id": 1242569659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.13515,-7.36255,-78.13515,-7.36255",
+    "geom:latitude":-7.36255,
+    "geom:longitude":-78.13515,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61005.0",
+    "gn:asciiname":"Ichocan",
+    "gn:country_code":"PE",
+    "gn:dem":2542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696237,
+    "gn:latitude":-7.36255,
+    "gn:longitude":-78.13515,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ichoc\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chocan",
+        "Ichoc\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696237,
+        "wk:page":"Ichoc%C3%A1n"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"433aadd9a0deb51b75595bd215d324cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693991,
+            "locality_id":1242569659,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1242569659,
+    "wof:lastmodified":1537676602,
+    "wof:name":"Ichocan",
+    "wof:parent_id":1108693991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.13515,
+    -7.36255,
+    -78.13515,
+    -7.36255
+],
+  "geometry": {"coordinates":[-78.13515,-7.36255],"type":"Point"}
+}

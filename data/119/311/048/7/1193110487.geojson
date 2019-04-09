@@ -1,0 +1,72 @@
+{
+  "id": 1193110487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.59334,-6.76218,-79.59334,-6.76218",
+    "geom:latitude":-6.76218,
+    "geom:longitude":-79.59334,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140119.0",
+    "gn:asciiname":"Tabernas",
+    "gn:country_code":"PE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691634,
+    "gn:latitude":-6.76218,
+    "gn:longitude":-79.59334,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tabernas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tabernas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691634
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3869c5df9deb6cb6985255309b953451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1193110487,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1193110487,
+    "wof:lastmodified":1537676537,
+    "wof:name":"Tabernas",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.59334,
+    -6.76218,
+    -79.59334,
+    -6.76218
+],
+  "geometry": {"coordinates":[-79.59334,-6.76218],"type":"Point"}
+}

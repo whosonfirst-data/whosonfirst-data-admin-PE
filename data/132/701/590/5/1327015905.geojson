@@ -1,0 +1,69 @@
+{
+  "id": 1327015905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.69461,-7.81877,-77.69461,-7.81877",
+    "geom:latitude":-7.81877,
+    "geom:longitude":-77.69461,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1309.0",
+    "gn:admin3_code":"130903.0",
+    "gn:asciiname":"Hacienda Corrales",
+    "gn:country_code":"PE",
+    "gn:dem":2694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3744507,
+    "gn:latitude":-7.81877,
+    "gn:longitude":-77.69461,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421177079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3744507
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6416d1c970cc3117feee2cc36892c5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177079,
+            "locality_id":1327015905,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1327015905,
+    "wof:lastmodified":1536784823,
+    "wof:name":"Hacienda Corrales",
+    "wof:parent_id":421177079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.69461,
+    -7.81877,
+    -77.69461,
+    -7.81877
+],
+  "geometry": {"coordinates":[-77.69461,-7.81877],"type":"Point"}
+}

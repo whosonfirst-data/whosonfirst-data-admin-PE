@@ -1,0 +1,66 @@
+{
+  "id": 1209182903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31214,-6.77769,-76.31214,-6.77769",
+    "geom:latitude":-6.77769,
+    "geom:longitude":-76.31214,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220702.0",
+    "gn:asciiname":"Tiraquillo",
+    "gn:country_code":"PE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039815,
+    "gn:latitude":-6.77769,
+    "gn:longitude":-76.31214,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tiraquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tiraquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039815
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bb002d4f06e2ba9e7237567fef5dba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209182903
+        }
+    ],
+    "wof:id":1209182903,
+    "wof:lastmodified":1537676961,
+    "wof:name":"Tiraquillo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31214,
+    -6.77769,
+    -76.31214,
+    -6.77769
+],
+  "geometry": {"coordinates":[-76.31214,-6.77769],"type":"Point"}
+}

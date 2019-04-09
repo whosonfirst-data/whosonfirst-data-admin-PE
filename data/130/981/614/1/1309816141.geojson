@@ -1,0 +1,69 @@
+{
+  "id": 1309816141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.95333,-9.10389,-77.95333,-9.10389",
+    "geom:latitude":-9.10389,
+    "geom:longitude":-77.95333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"212.0",
+    "gn:admin3_code":"21206.0",
+    "gn:asciiname":"Cajabamba Baja",
+    "gn:country_code":"PE",
+    "gn:dem":3385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379603,
+    "gn:latitude":-9.10389,
+    "gn:longitude":-77.95333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cajabamba Baja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421170661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379603
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a83968ecd2eed893b04a8f3c50be7811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170661,
+            "locality_id":1309816141,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1309816141,
+    "wof:lastmodified":1536916615,
+    "wof:name":"Cajabamba Baja",
+    "wof:parent_id":421170661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.95333000000002,
+    -9.10389,
+    -77.95333000000002,
+    -9.10389
+],
+  "geometry": {"coordinates":[-77.95333000000002,-9.10389],"type":"Point"}
+}

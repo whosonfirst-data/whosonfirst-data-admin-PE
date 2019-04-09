@@ -1,0 +1,113 @@
+{
+  "id": 421173833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96667,-12.05,-76.96667,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":-76.96667,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ate"
+    ],
+    "name:deu_x_preferred":[
+        "Ate"
+    ],
+    "name:epo_x_preferred":[
+        "ATE"
+    ],
+    "name:eus_x_preferred":[
+        "Ate"
+    ],
+    "name:fra_x_preferred":[
+        "ATE"
+    ],
+    "name:hun_x_preferred":[
+        "ATE"
+    ],
+    "name:ita_x_preferred":[
+        "ATE"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c6"
+    ],
+    "name:kor_x_preferred":[
+        "ATE"
+    ],
+    "name:lat_x_preferred":[
+        "Ate"
+    ],
+    "name:por_x_preferred":[
+        "Ate"
+    ],
+    "name:spa_x_preferred":[
+        "Ate"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3947154,
+    "qs:gn_pop":0,
+    "qs:name":"Ate",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":300554,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":397111,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947154,
+        "gp:id":397111,
+        "qs:id":300554
+    },
+    "wof:country":"PE",
+    "wof:created":1459009007,
+    "wof:geomhash":"b988cb351f3d4563779e279bd5581f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421173833,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421173833,
+    "wof:lastmodified":1527716256,
+    "wof:name":"Ate",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96667,
+    -12.05,
+    -76.96667,
+    -12.05
+],
+  "geometry": {"coordinates":[-76.96666999999999,-12.05],"type":"Point"}
+}

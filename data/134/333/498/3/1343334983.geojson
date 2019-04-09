@@ -1,0 +1,75 @@
+{
+  "id": 1343334983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61337,-6.78784,-79.61337,-6.78784",
+    "geom:latitude":-6.78784,
+    "geom:longitude":-79.61337,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140115.0",
+    "gn:asciiname":"Puican",
+    "gn:country_code":"PE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693084,
+    "gn:latitude":-6.78784,
+    "gn:longitude":-79.61337,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Puican",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puican"
+    ],
+    "name:spa_x_variant":[
+        "Putcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693084
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7dc51a6cb273f62a7b7c5d5c40a98933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1343334983,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343334983,
+    "wof:lastmodified":1537676561,
+    "wof:name":"Puican",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61336999999997,
+    -6.78784,
+    -79.61336999999997,
+    -6.78784
+],
+  "geometry": {"coordinates":[-79.61336999999997,-6.78784],"type":"Point"}
+}

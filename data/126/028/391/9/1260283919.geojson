@@ -1,0 +1,69 @@
+{
+  "id": 1260283919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22705,-16.31925,-71.22705,-16.31925",
+    "geom:latitude":-16.31925,
+    "geom:longitude":-71.22705,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Condorani",
+    "gn:country_code":"PE",
+    "gn:dem":4378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942505,
+    "gn:latitude":-16.31925,
+    "gn:longitude":-71.22705,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Condorani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942505
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4dd99fa9c7e58ff172dcaa1669f625ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1260283919,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1260283919,
+    "wof:lastmodified":1536711675,
+    "wof:name":"Condorani",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22705,
+    -16.31925,
+    -71.22705,
+    -16.31925
+],
+  "geometry": {"coordinates":[-71.22705000000001,-16.31925],"type":"Point"}
+}

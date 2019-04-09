@@ -1,0 +1,72 @@
+{
+  "id": 1276732987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89106,-6.63775,-79.89106,-6.63775",
+    "geom:latitude":-6.63775,
+    "geom:longitude":-79.89106,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140301.0",
+    "gn:asciiname":"Granja Lambayeque",
+    "gn:country_code":"PE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696861,
+    "gn:latitude":-6.63775,
+    "gn:longitude":-79.89106,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Granja Lambayeque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Granja Lambayeque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696861
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"361aac5b5344db9aad2a9c2512ddedc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1276732987,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276732987,
+    "wof:lastmodified":1537676610,
+    "wof:name":"Granja Lambayeque",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89106,
+    -6.63775,
+    -79.89106,
+    -6.63775
+],
+  "geometry": {"coordinates":[-79.89106,-6.63775],"type":"Point"}
+}

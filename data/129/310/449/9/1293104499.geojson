@@ -1,0 +1,69 @@
+{
+  "id": 1293104499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.04246,-16.15667,-71.04246,-16.15667",
+    "geom:latitude":-16.15667,
+    "geom:longitude":-71.04246,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Chullune",
+    "gn:country_code":"PE",
+    "gn:dem":4164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943285,
+    "gn:latitude":-16.15667,
+    "gn:longitude":-71.04246,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chullune",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943285
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f9ef427d37e1c346e8ea2722514a56f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1293104499,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1293104499,
+    "wof:lastmodified":1536841132,
+    "wof:name":"Chullune",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.04245999999998,
+    -16.15667,
+    -71.04245999999998,
+    -16.15667
+],
+  "geometry": {"coordinates":[-71.04245999999998,-16.15667],"type":"Point"}
+}

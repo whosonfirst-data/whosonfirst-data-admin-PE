@@ -1,0 +1,81 @@
+{
+  "id": 1326812915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55383,-10.87977,-77.55383,-10.87977",
+    "geom:latitude":-10.87977,
+    "geom:longitude":-77.55383,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150204.0",
+    "gn:asciiname":"Chupa Cigarro Grande",
+    "gn:country_code":"PE",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943182,
+    "gn:latitude":-10.87977,
+    "gn:longitude":-77.55383,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chupa Cigarro Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chupa Cigarro Grande Hacienda",
+        "Chupa Cigarro Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693959,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943182
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ddf7a4e31423f6be89887882b11733d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1326812915,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1326812915,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1326812915,
+    "wof:lastmodified":1537676828,
+    "wof:name":"Chupa Cigarro Grande",
+    "wof:parent_id":1108693959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55383,
+    -10.87977,
+    -77.55383,
+    -10.87977
+],
+  "geometry": {"coordinates":[-77.55383,-10.87977],"type":"Point"}
+}

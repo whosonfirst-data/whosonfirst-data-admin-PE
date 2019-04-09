@@ -1,0 +1,63 @@
+{
+  "id": 1209304443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45556,-14.04083,-71.45556,-14.04083",
+    "geom:latitude":-14.04083,
+    "geom:longitude":-71.45556,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80602.0",
+    "gn:asciiname":"Corpaira",
+    "gn:country_code":"PE",
+    "gn:dem":3511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953584,
+    "gn:latitude":-14.04083,
+    "gn:longitude":-71.45556,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Corpaira",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953584
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"71e359e2e6e676565385bbf68799731d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209304443
+        }
+    ],
+    "wof:id":1209304443,
+    "wof:lastmodified":1536291243,
+    "wof:name":"Corpaira",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45555999999998,
+    -14.04083,
+    -71.45555999999998,
+    -14.04083
+],
+  "geometry": {"coordinates":[-71.45555999999998,-14.04083],"type":"Point"}
+}

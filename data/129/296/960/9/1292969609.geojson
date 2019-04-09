@@ -1,0 +1,72 @@
+{
+  "id": 1292969609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4199,-6.98182,-76.4199,-6.98182",
+    "geom:latitude":-6.98182,
+    "geom:longitude":-76.4199,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220706.0",
+    "gn:asciiname":"Trapiche",
+    "gn:country_code":"PE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541360,
+    "gn:latitude":-6.98182,
+    "gn:longitude":-76.4199,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Trapiche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Trapiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541360
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ae2a790fd32cead96e221ee92dc2fd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1292969609,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1292969609,
+    "wof:lastmodified":1537676907,
+    "wof:name":"Trapiche",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4199,
+    -6.98182,
+    -76.4199,
+    -6.98182
+],
+  "geometry": {"coordinates":[-76.4199,-6.98182],"type":"Point"}
+}

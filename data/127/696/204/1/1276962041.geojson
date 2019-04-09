@@ -1,0 +1,72 @@
+{
+  "id": 1276962041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55428,-6.92328,-79.55428,-6.92328",
+    "geom:latitude":-6.92328,
+    "geom:longitude":-79.55428,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140116.0",
+    "gn:asciiname":"San Ismael",
+    "gn:country_code":"PE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10961566,
+    "gn:latitude":-6.92328,
+    "gn:longitude":-79.55428,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Ismael",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Ismael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10961566
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"633004c76cd86d0414565af9f979d398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1276962041,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276962041,
+    "wof:lastmodified":1537676951,
+    "wof:name":"San Ismael",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55428,
+    -6.92328,
+    -79.55428,
+    -6.92328
+],
+  "geometry": {"coordinates":[-79.55428000000001,-6.92328],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343851123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.5475,-13.81417,-74.5475,-13.81417",
+    "geom:latitude":-13.81417,
+    "geom:longitude":-74.5475,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50304.0",
+    "gn:asciiname":"Yutimarcamayo",
+    "gn:country_code":"PE",
+    "gn:dem":4199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365790,
+    "gn:latitude":-13.81417,
+    "gn:longitude":-74.5475,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yutimarcamayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365790
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e44cf4e4e5cedb289f1f3967f6b8b308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693939,
+            "locality_id":1343851123,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343851123,
+    "wof:lastmodified":1536680078,
+    "wof:name":"Yutimarcamayo",
+    "wof:parent_id":1108693939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.5475,
+    -13.81417,
+    -74.5475,
+    -13.81417
+],
+  "geometry": {"coordinates":[-74.5475,-13.81417],"type":"Point"}
+}

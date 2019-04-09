@@ -1,0 +1,71 @@
+{
+  "id": 1209789625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.20766,-14.00159,-69.20766,-14.00159",
+    "geom:latitude":-14.00159,
+    "geom:longitude":-69.20766,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Santa Rosa de Yanamayo",
+    "gn:country_code":"PE",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558309,
+    "gn:latitude":-14.00159,
+    "gn:longitude":-69.20766,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Santa Rosa de Yanamayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa de Yanamayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558309
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"074a09f557aabf80410dc2ee11af88b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1209789625,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1209789625,
+    "wof:lastmodified":1537677001,
+    "wof:name":"Santa Rosa de Yanamayo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.20766,
+    -14.00159,
+    -69.20766,
+    -14.00159
+],
+  "geometry": {"coordinates":[-69.20766,-14.00159],"type":"Point"}
+}

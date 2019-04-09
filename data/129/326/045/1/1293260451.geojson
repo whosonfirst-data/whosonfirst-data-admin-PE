@@ -1,0 +1,69 @@
+{
+  "id": 1293260451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42836,-3.6556,-80.42836,-3.6556",
+    "geom:latitude":-3.6556,
+    "geom:longitude":-80.42836,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240106.0",
+    "gn:asciiname":"Cerro Blanco",
+    "gn:country_code":"PE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698577,
+    "gn:latitude":-3.6556,
+    "gn:longitude":-80.42836,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cerro Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421187863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698577
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"348188bb986739c88193993d7b5d5797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187863,
+            "locality_id":1293260451,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1293260451,
+    "wof:lastmodified":1536615036,
+    "wof:name":"Cerro Blanco",
+    "wof:parent_id":421187863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42836,
+    -3.6556,
+    -80.42836,
+    -3.6556
+],
+  "geometry": {"coordinates":[-80.42836,-3.6556],"type":"Point"}
+}

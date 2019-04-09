@@ -1,0 +1,72 @@
+{
+  "id": 1310570059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68385,-6.59941,-76.68385,-6.59941",
+    "geom:latitude":-6.59941,
+    "geom:longitude":-76.68385,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220301.0",
+    "gn:asciiname":"Tarapaca",
+    "gn:country_code":"PE",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10865709,
+    "gn:latitude":-6.59941,
+    "gn:longitude":-76.68385,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tarapac\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tarapac\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10865709
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4cd515e4eb4374b5563a20f10123de66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693997,
+            "locality_id":1310570059,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1310570059,
+    "wof:lastmodified":1537676939,
+    "wof:name":"Tarapaca",
+    "wof:parent_id":1108693997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68385,
+    -6.59941,
+    -76.68385,
+    -6.59941
+],
+  "geometry": {"coordinates":[-76.68385000000001,-6.59941],"type":"Point"}
+}

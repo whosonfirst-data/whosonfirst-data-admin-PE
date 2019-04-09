@@ -1,0 +1,69 @@
+{
+  "id": 1343435203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.11938,-4.88507,-80.11938,-4.88507",
+    "geom:latitude":-4.88507,
+    "geom:longitude":-80.11938,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200114.0",
+    "gn:asciiname":"Carrizo",
+    "gn:country_code":"PE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698752,
+    "gn:latitude":-4.88507,
+    "gn:longitude":-80.11938,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Carrizo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698752
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cce0724bda9147c5f175343b409c09fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1343435203,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343435203,
+    "wof:lastmodified":1536783254,
+    "wof:name":"Carrizo",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.11938,
+    -4.88507,
+    -80.11938,
+    -4.88507
+],
+  "geometry": {"coordinates":[-80.11938000000001,-4.88507],"type":"Point"}
+}

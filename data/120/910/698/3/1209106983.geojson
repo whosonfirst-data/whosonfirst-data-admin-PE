@@ -1,0 +1,63 @@
+{
+  "id": 1209106983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27167,-13.74111,-72.27167,-13.74111",
+    "geom:latitude":-13.74111,
+    "geom:longitude":-72.27167,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30502.0",
+    "gn:asciiname":"Huayramocco",
+    "gn:country_code":"PE",
+    "gn:dem":3701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6391744,
+    "gn:latitude":-13.74111,
+    "gn:longitude":-72.27167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huayramocco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6391744
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b95340b92cad4038206f94da1c815b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209106983
+        }
+    ],
+    "wof:id":1209106983,
+    "wof:lastmodified":1536297536,
+    "wof:name":"Huayramocco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27167,
+    -13.74111,
+    -72.27167,
+    -13.74111
+],
+  "geometry": {"coordinates":[-72.27167,-13.74111],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226724241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.88051,-4.51944,-80.88051,-4.51944",
+    "geom:latitude":-4.51944,
+    "geom:longitude":-80.88051,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Moscones",
+    "gn:country_code":"PE",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3816995,
+    "gn:latitude":-4.51944,
+    "gn:longitude":-80.88051,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Moscones",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Moscones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3816995
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6ce290c95ee9a0545562d4feaf5d0328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1226724241,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226724241,
+    "wof:lastmodified":1537676659,
+    "wof:name":"Moscones",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.88051,
+    -4.51944,
+    -80.88051,
+    -4.51944
+],
+  "geometry": {"coordinates":[-80.88051,-4.51944],"type":"Point"}
+}

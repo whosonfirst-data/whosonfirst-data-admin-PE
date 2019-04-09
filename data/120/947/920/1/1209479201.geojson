@@ -1,0 +1,63 @@
+{
+  "id": 1209479201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.72,-15.62056,-70.72,-15.62056",
+    "geom:latitude":-15.62056,
+    "geom:longitude":-70.72,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210709.0",
+    "gn:asciiname":"Minas Tacasa",
+    "gn:country_code":"PE",
+    "gn:dem":4194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934912,
+    "gn:latitude":-15.62056,
+    "gn:longitude":-70.72,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Minas Tacasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934912
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"14d38a8b126aea897d4e7504b5dbc274",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209479201
+        }
+    ],
+    "wof:id":1209479201,
+    "wof:lastmodified":1536285838,
+    "wof:name":"Minas Tacasa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.72,
+    -15.62056,
+    -70.72,
+    -15.62056
+],
+  "geometry": {"coordinates":[-70.72,-15.62056],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209320341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9,-16.1,-73.9,-16.1",
+    "geom:latitude":-16.1,
+    "geom:longitude":-73.9,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40308.0",
+    "gn:asciiname":"Punta de Lobos",
+    "gn:country_code":"PE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931254,
+    "gn:latitude":-16.1,
+    "gn:longitude":-73.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Punta de Lobos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931254
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6a99a8c3f1316d72925432330bd6d560",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209320341
+        }
+    ],
+    "wof:id":1209320341,
+    "wof:lastmodified":1536290717,
+    "wof:name":"Punta de Lobos",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9,
+    -16.1,
+    -73.9,
+    -16.1
+],
+  "geometry": {"coordinates":[-73.90000000000001,-16.1],"type":"Point"}
+}

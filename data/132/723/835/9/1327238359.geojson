@@ -1,0 +1,69 @@
+{
+  "id": 1327238359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.47778,-13.78556,-72.47778,-13.78556",
+    "geom:latitude":-13.78556,
+    "geom:longitude":-72.47778,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"307.0",
+    "gn:admin3_code":"30703.0",
+    "gn:asciiname":"Colcahuate",
+    "gn:country_code":"PE",
+    "gn:dem":2698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6391471,
+    "gn:latitude":-13.78556,
+    "gn:longitude":-72.47778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Colcahuate",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6391471
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"12fe190afa8f54e75dc2164d57b849ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693905,
+            "locality_id":1327238359,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1327238359,
+    "wof:lastmodified":1536960815,
+    "wof:name":"Colcahuate",
+    "wof:parent_id":1108693905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.47778000000002,
+    -13.78556,
+    -72.47778000000002,
+    -13.78556
+],
+  "geometry": {"coordinates":[-72.47778000000002,-13.78556],"type":"Point"}
+}

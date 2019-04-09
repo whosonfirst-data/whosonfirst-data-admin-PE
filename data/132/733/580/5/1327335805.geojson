@@ -1,0 +1,72 @@
+{
+  "id": 1327335805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15621,-10.05733,-78.15621,-10.05733",
+    "geom:latitude":-10.05733,
+    "geom:longitude":-78.15621,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"211.0",
+    "gn:admin3_code":"21101.0",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"PE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937240,
+    "gn:latitude":-10.05733,
+    "gn:longitude":-78.15621,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421184497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937240
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"52f0a3257d94b182bfa1ca4aaabd1587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184497,
+            "locality_id":1327335805,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1327335805,
+    "wof:lastmodified":1537676776,
+    "wof:name":"La Cruz",
+    "wof:parent_id":421184497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15621,
+    -10.05733,
+    -78.15621,
+    -10.05733
+],
+  "geometry": {"coordinates":[-78.15621,-10.05733],"type":"Point"}
+}

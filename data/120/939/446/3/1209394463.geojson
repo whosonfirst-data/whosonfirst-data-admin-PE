@@ -1,0 +1,63 @@
+{
+  "id": 1209394463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5775,-12.04583,-75.5775,-12.04583",
+    "geom:latitude":-12.04583,
+    "geom:longitude":-75.5775,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120214.0",
+    "gn:asciiname":"San Francisco de Salvio",
+    "gn:country_code":"PE",
+    "gn:dem":3942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304264,
+    "gn:latitude":-12.04583,
+    "gn:longitude":-75.5775,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Francisco de Salvio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304264
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3ff6c6b2f3f870619ee3097cf27536d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209394463
+        }
+    ],
+    "wof:id":1209394463,
+    "wof:lastmodified":1536288350,
+    "wof:name":"San Francisco de Salvio",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5775,
+    -12.04583,
+    -75.5775,
+    -12.04583
+],
+  "geometry": {"coordinates":[-75.5775,-12.04583],"type":"Point"}
+}

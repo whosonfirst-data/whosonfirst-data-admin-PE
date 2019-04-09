@@ -1,0 +1,73 @@
+{
+  "id": 1309676041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19973,-14.94959,-70.19973,-14.94959",
+    "geom:latitude":-14.94959,
+    "geom:longitude":-70.19973,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210201.0",
+    "gn:asciiname":"Pasincha",
+    "gn:country_code":"PE",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932828,
+    "gn:latitude":-14.94959,
+    "gn:longitude":-70.19973,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pasincha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasincha Hacienda",
+        "Pasincha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932828
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"087a836b15b6e3af0a43d83fd8164992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1309676041,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309676041,
+    "wof:lastmodified":1537676733,
+    "wof:name":"Pasincha",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19973,
+    -14.94959,
+    -70.19973,
+    -14.94959
+],
+  "geometry": {"coordinates":[-70.19973,-14.94959],"type":"Point"}
+}

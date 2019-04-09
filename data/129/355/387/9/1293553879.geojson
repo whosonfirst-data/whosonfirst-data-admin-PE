@@ -1,0 +1,73 @@
+{
+  "id": 1293553879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90042,-5.06544,-79.90042,-5.06544",
+    "geom:latitude":-5.06544,
+    "geom:longitude":-79.90042,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200409.0",
+    "gn:asciiname":"Tunali",
+    "gn:country_code":"PE",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691130,
+    "gn:latitude":-5.06544,
+    "gn:longitude":-79.90042,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tu\u00f1ali",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u00f1ali Hacienda",
+        "Tu\u00f1ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691130
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fb043144df85afacf7dc2848f5f948b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1293553879,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293553879,
+    "wof:lastmodified":1537676531,
+    "wof:name":"Tunali",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90042,
+    -5.06544,
+    -79.90042,
+    -5.06544
+],
+  "geometry": {"coordinates":[-79.90042,-5.06544],"type":"Point"}
+}

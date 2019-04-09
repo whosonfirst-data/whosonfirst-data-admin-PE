@@ -1,0 +1,69 @@
+{
+  "id": 1193036737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94933,-13.99665,-74.94933,-13.99665",
+    "geom:latitude":-13.99665,
+    "geom:longitude":-74.94933,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90606.0",
+    "gn:asciiname":"Chainas",
+    "gn:country_code":"PE",
+    "gn:dem":3260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944580,
+    "gn:latitude":-13.99665,
+    "gn:longitude":-74.94933,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chainas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944580
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c8d5cfa995b83a4fd2586f3c2c9b9961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1193036737,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1193036737,
+    "wof:lastmodified":1536380249,
+    "wof:name":"Chainas",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94933,
+    -13.99665,
+    -74.94933,
+    -13.99665
+],
+  "geometry": {"coordinates":[-74.94933,-13.99665],"type":"Point"}
+}

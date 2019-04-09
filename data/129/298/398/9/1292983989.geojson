@@ -1,0 +1,74 @@
+{
+  "id": 1292983989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85572,-6.65104,-79.85572,-6.65104",
+    "geom:latitude":-6.65104,
+    "geom:longitude":-79.85572,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140301.0",
+    "gn:asciiname":"Huamantanga",
+    "gn:country_code":"PE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695821,
+    "gn:latitude":-6.65104,
+    "gn:longitude":-79.85572,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Huamantanga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Huamantanga",
+        "La Huamatango",
+        "Huamantanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695821
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"93231fc0f5c11ff437c26d261f667c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1292983989,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1292983989,
+    "wof:lastmodified":1537676596,
+    "wof:name":"Huamantanga",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85571999999998,
+    -6.65104,
+    -79.85571999999998,
+    -6.65104
+],
+  "geometry": {"coordinates":[-79.85571999999998,-6.65104],"type":"Point"}
+}

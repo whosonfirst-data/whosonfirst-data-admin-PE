@@ -1,0 +1,71 @@
+{
+  "id": 1260278715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94616,-12.48754,-73.94616,-12.48754",
+    "geom:latitude":-12.48754,
+    "geom:longitude":-73.94616,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:asciiname":"San Gerardo",
+    "gn:country_code":"PE",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8700821,
+    "gn:latitude":-12.48754,
+    "gn:longitude":-73.94616,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"San Gerardo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Gerardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8700821
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"27e1815286415cacd83a578776b899aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1260278715,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1260278715,
+    "wof:lastmodified":1537676919,
+    "wof:name":"San Gerardo",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94615999999998,
+    -12.48754,
+    -73.94615999999998,
+    -12.48754
+],
+  "geometry": {"coordinates":[-73.94615999999998,-12.48754],"type":"Point"}
+}

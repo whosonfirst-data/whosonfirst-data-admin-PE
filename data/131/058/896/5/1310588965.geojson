@@ -1,0 +1,72 @@
+{
+  "id": 1310588965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18139,-13.71541,-76.18139,-13.71541",
+    "geom:latitude":-13.71541,
+    "geom:longitude":-76.18139,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110506.0",
+    "gn:asciiname":"San Andres del Valle",
+    "gn:country_code":"PE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087884,
+    "gn:latitude":-13.71541,
+    "gn:longitude":-76.18139,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Andr\u00e9s del Valle",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s del Valle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087884
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fe3a72c19f9443bf95521cf1ceb95015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1310588965,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1310588965,
+    "wof:lastmodified":1537676970,
+    "wof:name":"San Andres del Valle",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18139000000002,
+    -13.71541,
+    -76.18139000000002,
+    -13.71541
+],
+  "geometry": {"coordinates":[-76.18139000000002,-13.71541],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259741815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.66451,-16.02119,-69.66451,-16.02119",
+    "geom:latitude":-16.02119,
+    "geom:longitude":-69.66451,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:asciiname":"Iscanhuichoco",
+    "gn:country_code":"PE",
+    "gn:dem":3832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938191,
+    "gn:latitude":-16.02119,
+    "gn:longitude":-69.66451,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Iscanhuichoco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938191
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4e2a83121a0ad275435baa0eed312a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1259741815,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259741815,
+    "wof:lastmodified":1536982544,
+    "wof:name":"Iscanhuichoco",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.66450999999999,
+    -16.02119,
+    -69.66450999999999,
+    -16.02119
+],
+  "geometry": {"coordinates":[-69.66450999999999,-16.02119],"type":"Point"}
+}

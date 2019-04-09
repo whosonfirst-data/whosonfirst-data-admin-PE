@@ -1,0 +1,75 @@
+{
+  "id": 1309779883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.06002,-15.90642,-70.06002,-15.90642",
+    "geom:latitude":-15.90642,
+    "geom:longitude":-70.06002,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210101.0",
+    "gn:asciiname":"Itapalloni",
+    "gn:country_code":"PE",
+    "gn:dem":3979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938117,
+    "gn:latitude":-15.90642,
+    "gn:longitude":-70.06002,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Itapalloni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itapallune",
+        "Itapalloni Hacienda",
+        "Itapolloni Hacienda",
+        "Itapalloni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938117
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"652fdc4c00261264e1f7778a2d3cf842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1309779883,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309779883,
+    "wof:lastmodified":1537676783,
+    "wof:name":"Itapalloni",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.06002,
+    -15.90642,
+    -70.06002,
+    -15.90642
+],
+  "geometry": {"coordinates":[-70.06001999999999,-15.90642],"type":"Point"}
+}

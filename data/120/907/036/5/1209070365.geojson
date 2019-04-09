@@ -1,0 +1,63 @@
+{
+  "id": 1209070365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1,-16.26667,-70.1,-16.26667",
+    "geom:latitude":-16.26667,
+    "geom:longitude":-70.1,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210111.0",
+    "gn:asciiname":"Estancia Coline",
+    "gn:country_code":"PE",
+    "gn:dem":4443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941045,
+    "gn:latitude":-16.26667,
+    "gn:longitude":-70.1,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Estancia Coline",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941045
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e8b32a34fd50fcc1e1353a6db017a74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209070365
+        }
+    ],
+    "wof:id":1209070365,
+    "wof:lastmodified":1536298667,
+    "wof:name":"Estancia Coline",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1,
+    -16.26667,
+    -70.1,
+    -16.26667
+],
+  "geometry": {"coordinates":[-70.09999999999999,-16.26667],"type":"Point"}
+}

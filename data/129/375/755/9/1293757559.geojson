@@ -1,0 +1,71 @@
+{
+  "id": 1293757559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.98932,-13.91227,-68.98932,-13.91227",
+    "geom:latitude":-13.91227,
+    "geom:longitude":-68.98932,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Victoria",
+    "gn:country_code":"PE",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528483,
+    "gn:latitude":-13.91227,
+    "gn:longitude":-68.98932,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Victoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528483
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"936c70eb08ac3143a8398f6c2ab06fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1293757559,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293757559,
+    "wof:lastmodified":1537676994,
+    "wof:name":"Victoria",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.98931999999999,
+    -13.91227,
+    -68.98931999999999,
+    -13.91227
+],
+  "geometry": {"coordinates":[-68.98931999999999,-13.91227],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243412743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.28023,-15.36489,-69.28023,-15.36489",
+    "geom:latitude":-15.36489,
+    "geom:longitude":-69.28023,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210903.0",
+    "gn:asciiname":"Camarca",
+    "gn:country_code":"PE",
+    "gn:dem":3978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945978,
+    "gn:latitude":-15.36489,
+    "gn:longitude":-69.28023,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Camarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945978
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e584fb50a6367f4dfa3501211f24df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1243412743,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243412743,
+    "wof:lastmodified":1537676853,
+    "wof:name":"Camarca",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.28023,
+    -15.36489,
+    -69.28023,
+    -15.36489
+],
+  "geometry": {"coordinates":[-69.28023,-15.36489],"type":"Point"}
+}

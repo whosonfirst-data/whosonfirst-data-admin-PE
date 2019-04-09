@@ -1,0 +1,73 @@
+{
+  "id": 1293367587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.21473,-14.58005,-75.21473,-14.58005",
+    "geom:latitude":-14.58005,
+    "geom:longitude":-75.21473,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110402.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"PE",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931535,
+    "gn:latitude":-14.58005,
+    "gn:longitude":-75.21473,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo Nuevo Hacienda",
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931535
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"81d4bce7524a74b65b4b3ecbcab0d67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1293367587,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293367587,
+    "wof:lastmodified":1537676722,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.21473,
+    -14.58005,
+    -75.21473,
+    -14.58005
+],
+  "geometry": {"coordinates":[-75.21473,-14.58005],"type":"Point"}
+}

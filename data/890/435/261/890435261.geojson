@@ -1,0 +1,72 @@
+{
+  "id": 890435261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7,-11.95,-76.7,-11.95",
+    "geom:latitude":-11.95,
+    "geom:longitude":-76.7,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":5800,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Asentamiento Humano Nicolas de Pierola"
+    ],
+    "qs:name":"Nicolas de Pierola",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":1218,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934290,
+        "gp:id":400570,
+        "qs:id":151048,
+        "wd:id":"Q170057",
+        "wk:page":"Nicol\u00e1s de Pi\u00e9rola"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052060,
+    "wof:geomhash":"a9cb35113724a3d6a05bd7031ca67a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":890435261,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":890435261,
+    "wof:lastmodified":1527793046,
+    "wof:name":"Nicolas de Pierola",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:population":5800,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7,
+    -11.95,
+    -76.7,
+    -11.95
+],
+  "geometry": {"coordinates":[-76.7,-11.95],"type":"Point"}
+}

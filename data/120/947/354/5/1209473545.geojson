@@ -1,0 +1,63 @@
+{
+  "id": 1209473545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.79156,-15.24636,-69.79156,-15.24636",
+    "geom:latitude":-15.24636,
+    "geom:longitude":-69.79156,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210601.0",
+    "gn:asciiname":"Jajahache",
+    "gn:country_code":"PE",
+    "gn:dem":3827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938016,
+    "gn:latitude":-15.24636,
+    "gn:longitude":-69.79156,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jajahache",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938016
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bcc918064105c9db72fd5c76b82d6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209473545
+        }
+    ],
+    "wof:id":1209473545,
+    "wof:lastmodified":1536286007,
+    "wof:name":"Jajahache",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.79156,
+    -15.24636,
+    -69.79156,
+    -15.24636
+],
+  "geometry": {"coordinates":[-69.79156,-15.24636],"type":"Point"}
+}

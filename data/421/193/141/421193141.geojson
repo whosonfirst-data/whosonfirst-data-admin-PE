@@ -1,0 +1,79 @@
+{
+  "id": 421193141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46168,-10.40696,-76.46168,-10.40696",
+    "geom:latitude":-10.40696,
+    "geom:longitude":-76.46168,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3944179,
+    "qs:gn_pop":28666,
+    "qs:name":"Chaupimarca",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Pasco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1207411,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":399799,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944179,
+        "gp:id":399799,
+        "qs:id":1207411
+    },
+    "wof:country":"PE",
+    "wof:created":1459009761,
+    "wof:geomhash":"d39294417a490e346ca03c70a39263c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":421193141,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":421193141,
+    "wof:lastmodified":1505340733,
+    "wof:name":"Chaupimarca",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:population":28666,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46168,
+    -10.40696,
+    -76.46168,
+    -10.40696
+],
+  "geometry": {"coordinates":[-76.46168,-10.40696],"type":"Point"}
+}

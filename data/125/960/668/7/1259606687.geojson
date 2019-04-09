@@ -1,0 +1,69 @@
+{
+  "id": 1259606687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4,-14.93333,-72.4,-14.93333",
+    "geom:latitude":-14.93333,
+    "geom:longitude":-72.4,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40806.0",
+    "gn:asciiname":"Pichirhua",
+    "gn:country_code":"PE",
+    "gn:dem":4706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932398,
+    "gn:latitude":-14.93333,
+    "gn:longitude":-72.4,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pichirhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932398
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e59e464fdc02eb16843d5fa756ba1b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1259606687,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259606687,
+    "wof:lastmodified":1536681347,
+    "wof:name":"Pichirhua",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4,
+    -14.93333,
+    -72.4,
+    -14.93333
+],
+  "geometry": {"coordinates":[-72.40000000000001,-14.93333],"type":"Point"}
+}

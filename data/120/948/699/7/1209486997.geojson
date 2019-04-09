@@ -1,0 +1,63 @@
+{
+  "id": 1209486997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.64692,-3.48581,-72.64692,-3.48581",
+    "geom:latitude":-3.48581,
+    "geom:longitude":-72.64692,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160105.0",
+    "gn:asciiname":"Caballocochillo",
+    "gn:country_code":"PE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278784,
+    "gn:latitude":-3.48581,
+    "gn:longitude":-72.64692,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Caballocochillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278784
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"541df0f0c26a8ae2f51f02448c0ffe47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209486997
+        }
+    ],
+    "wof:id":1209486997,
+    "wof:lastmodified":1536285605,
+    "wof:name":"Caballocochillo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.64692,
+    -3.48581,
+    -72.64692,
+    -3.48581
+],
+  "geometry": {"coordinates":[-72.64691999999999,-3.48581],"type":"Point"}
+}

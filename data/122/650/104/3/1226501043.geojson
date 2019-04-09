@@ -1,0 +1,72 @@
+{
+  "id": 1226501043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26427,-15.28125,-69.26427,-15.28125",
+    "geom:latitude":-15.28125,
+    "geom:longitude":-69.26427,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210903.0",
+    "gn:asciiname":"Quisuara",
+    "gn:country_code":"PE",
+    "gn:dem":4231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930633,
+    "gn:latitude":-15.28125,
+    "gn:longitude":-69.26427,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Quisuara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quisuara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930633
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"56fe081afa8fb2ba02fbf208ee5aec8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1226501043,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226501043,
+    "wof:lastmodified":1537676714,
+    "wof:name":"Quisuara",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26427,
+    -15.28125,
+    -69.26427,
+    -15.28125
+],
+  "geometry": {"coordinates":[-69.26427,-15.28125],"type":"Point"}
+}

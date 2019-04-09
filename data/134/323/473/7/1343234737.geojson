@@ -1,0 +1,77 @@
+{
+  "id": 1343234737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65199,-12.58872,-76.65199,-12.58872",
+    "geom:latitude":-12.58872,
+    "geom:longitude":-76.65199,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150515.0",
+    "gn:asciiname":"Catalunya",
+    "gn:country_code":"PE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303211,
+    "gn:latitude":-12.58872,
+    "gn:longitude":-76.65199,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Catalunya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303211
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"96447600618566823657a3123dfb3b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1343234737,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1343234737,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343234737,
+    "wof:lastmodified":1537069185,
+    "wof:name":"Catalunya",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65199,
+    -12.58872,
+    -76.65199,
+    -12.58872
+],
+  "geometry": {"coordinates":[-76.65199,-12.58872],"type":"Point"}
+}

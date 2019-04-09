@@ -1,0 +1,69 @@
+{
+  "id": 1193121935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13261,-14.10714,-71.13261,-14.10714",
+    "geom:latitude":-14.10714,
+    "geom:longitude":-71.13261,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80606.0",
+    "gn:asciiname":"Moco Pata",
+    "gn:country_code":"PE",
+    "gn:dem":4423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954463,
+    "gn:latitude":-14.10714,
+    "gn:longitude":-71.13261,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Moco Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954463
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4e649298a93908bd2174538f734d6850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1193121935,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1193121935,
+    "wof:lastmodified":1536363643,
+    "wof:name":"Moco Pata",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13261,
+    -14.10714,
+    -71.13261,
+    -14.10714
+],
+  "geometry": {"coordinates":[-71.13261,-14.10714],"type":"Point"}
+}

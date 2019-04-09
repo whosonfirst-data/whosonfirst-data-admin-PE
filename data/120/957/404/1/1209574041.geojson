@@ -1,0 +1,65 @@
+{
+  "id": 1209574041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46745,-14.47714,-69.46745,-14.47714",
+    "geom:latitude":-14.47714,
+    "geom:longitude":-69.46745,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Lahualahuani",
+    "gn:country_code":"PE",
+    "gn:dem":3638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558235,
+    "gn:latitude":-14.47714,
+    "gn:longitude":-69.46745,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Lahualahuani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lahualahuani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558235
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4868b2fef650d92ba4dbb86045f899c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209574041
+        }
+    ],
+    "wof:id":1209574041,
+    "wof:lastmodified":1537676999,
+    "wof:name":"Lahualahuani",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46745,
+    -14.47714,
+    -69.46745,
+    -14.47714
+],
+  "geometry": {"coordinates":[-69.46745,-14.47714],"type":"Point"}
+}

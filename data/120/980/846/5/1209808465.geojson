@@ -1,0 +1,69 @@
+{
+  "id": 1209808465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.10512,-14.39423,-75.10512,-14.39423",
+    "geom:latitude":-14.39423,
+    "geom:longitude":-75.10512,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50610.0",
+    "gn:asciiname":"Salitral",
+    "gn:country_code":"PE",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929970,
+    "gn:latitude":-14.39423,
+    "gn:longitude":-75.10512,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Salitral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929970
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"10dd62b89f8360c9e9475f24f6ce467f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1209808465,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1209808465,
+    "wof:lastmodified":1536387529,
+    "wof:name":"Salitral",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.10512,
+    -14.39423,
+    -75.10512,
+    -14.39423
+],
+  "geometry": {"coordinates":[-75.10512,-14.39423],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209598505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23541,-5.55561,-80.23541,-5.55561",
+    "geom:latitude":-5.55561,
+    "geom:longitude":-80.23541,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Vega Moro",
+    "gn:country_code":"PE",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690973,
+    "gn:latitude":-5.55561,
+    "gn:longitude":-80.23541,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Vega Moro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690973
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5eb986b3370a960fd8b3ab1f883d9bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209598505
+        }
+    ],
+    "wof:id":1209598505,
+    "wof:lastmodified":1536282245,
+    "wof:name":"Vega Moro",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23541,
+    -5.55561,
+    -80.23541,
+    -5.55561
+],
+  "geometry": {"coordinates":[-80.23541,-5.55561],"type":"Point"}
+}

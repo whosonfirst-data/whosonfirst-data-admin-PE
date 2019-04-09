@@ -1,0 +1,69 @@
+{
+  "id": 1326542615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.12694,-10.33933,-77.12694,-10.33933",
+    "geom:latitude":-10.33933,
+    "geom:longitude":-77.12694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20512.0",
+    "gn:asciiname":"Gorgor",
+    "gn:country_code":"PE",
+    "gn:dem":2628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664824,
+    "gn:latitude":-10.33933,
+    "gn:longitude":-77.12694,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Gorgor",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664824
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"59efe685f89a0f89edc49bf3070072f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1326542615,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1326542615,
+    "wof:lastmodified":1536968715,
+    "wof:name":"Gorgor",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.12694,
+    -10.33933,
+    -77.12694,
+    -10.33933
+],
+  "geometry": {"coordinates":[-77.12694,-10.33933],"type":"Point"}
+}

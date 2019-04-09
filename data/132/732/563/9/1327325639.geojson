@@ -1,0 +1,74 @@
+{
+  "id": 1327325639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03806,-6.27389,-79.03806,-6.27389",
+    "geom:latitude":-6.27389,
+    "geom:longitude":-79.03806,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60607.0",
+    "gn:asciiname":"Querocotillo",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3693052,
+    "gn:latitude":-6.27389,
+    "gn:longitude":-79.03806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Querocotillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Querecotillo",
+        "Querocotillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693052
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ff2a58c3132500e29354b162b95ce8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693977,
+            "locality_id":1327325639,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1327325639,
+    "wof:lastmodified":1537676560,
+    "wof:name":"Querocotillo",
+    "wof:parent_id":1108693977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03806,
+    -6.27389,
+    -79.03806,
+    -6.27389
+],
+  "geometry": {"coordinates":[-79.03806,-6.27389],"type":"Point"}
+}

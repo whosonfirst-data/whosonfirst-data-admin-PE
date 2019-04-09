@@ -1,0 +1,73 @@
+{
+  "id": 1293346365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.64366,-17.30048,-70.64366,-17.30048",
+    "geom:latitude":-17.30048,
+    "geom:longitude":-70.64366,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230302.0",
+    "gn:asciiname":"Toquepala",
+    "gn:country_code":"PE",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927173,
+    "gn:latitude":-17.30048,
+    "gn:longitude":-70.64366,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Toquepala",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Toquepala",
+        "Toquepala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927173
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c8d24cb976b8ee2d1ab2e47c183cc367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1293346365,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1293346365,
+    "wof:lastmodified":1537676677,
+    "wof:name":"Toquepala",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.64366,
+    -17.30048,
+    -70.64366,
+    -17.30048
+],
+  "geometry": {"coordinates":[-70.64366,-17.30048],"type":"Point"}
+}

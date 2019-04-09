@@ -1,0 +1,113 @@
+{
+  "id": 85765019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":17561393.216256,
+    "geom:bbox":"-71.531584,-16.395734,-71.531584,-16.395734",
+    "geom:latitude":-16.395734,
+    "geom:longitude":-71.531584,
+    "gn:latitude":-16.39809,
+    "gn:longitude":-71.51987,
+    "iso:country":"PE",
+    "lbl:latitude":-16.395734,
+    "lbl:longitude":-71.531584,
+    "mps:latitude":-16.394031,
+    "mps:longitude":-71.514654,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Miraflores"
+    ],
+    "name:unk_x_variant":[
+        "Miraflores"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3947322,
+    "qs:gn_nam_loc":"Arequipa",
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Miraflores",
+    "qs:local_max":8512,
+    "qs:local_sum":10013,
+    "qs:localhoods":9,
+    "qs:name":"Miraflores",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:name_adm2":"Arequipa",
+    "qs:name_local":"Arequipa",
+    "qs:photo_max":2013,
+    "qs:photo_sum":8512,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":2346471,
+    "qs:woe_adm2":26805784,
+    "qs:woe_lau":0,
+    "qs:woe_local":418442,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675839,
+        102191577,
+        85632521,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934879,
+        "gp:id":408895,
+        "qs:id":887621,
+        "wd:id":"Q2702926",
+        "wk:page":"Miraflores District, Arequipa"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"784e1210432d0b753b70dd2f9f567a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":85765019,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":85765019,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379398,
+    "wof:name":"Miraflores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        1126072409
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.531584,
+    -16.395734,
+    -71.531584,
+    -16.395734
+],
+  "geometry": {"coordinates":[-71.531584,-16.395734],"type":"Point"}
+}

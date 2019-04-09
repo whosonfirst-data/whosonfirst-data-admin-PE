@@ -1,0 +1,69 @@
+{
+  "id": 1209709837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68233,-12.70287,-74.68233,-12.70287",
+    "geom:latitude":-12.70287,
+    "geom:longitude":-74.68233,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90206.0",
+    "gn:asciiname":"Checo Cruz",
+    "gn:country_code":"PE",
+    "gn:dem":3931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662212,
+    "gn:latitude":-12.70287,
+    "gn:longitude":-74.68233,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Checo Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662212
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dfd1fe8a5a74e50df8d910debe32f932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1209709837,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1209709837,
+    "wof:lastmodified":1536391196,
+    "wof:name":"Checo Cruz",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68233000000002,
+    -12.70287,
+    -74.68233000000002,
+    -12.70287
+],
+  "geometry": {"coordinates":[-74.68233000000002,-12.70287],"type":"Point"}
+}

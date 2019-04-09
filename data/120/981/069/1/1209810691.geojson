@@ -1,0 +1,69 @@
+{
+  "id": 1209810691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.14943,-14.37333,-71.14943,-14.37333",
+    "geom:latitude":-14.37333,
+    "geom:longitude":-71.14943,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80604.0",
+    "gn:asciiname":"Chosicani",
+    "gn:country_code":"PE",
+    "gn:dem":3729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954177,
+    "gn:latitude":-14.37333,
+    "gn:longitude":-71.14943,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chosicani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954177
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f31746c1e48e34507410c90305f47456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1209810691,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1209810691,
+    "wof:lastmodified":1536386583,
+    "wof:name":"Chosicani",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14943000000002,
+    -14.37333,
+    -71.14943000000002,
+    -14.37333
+],
+  "geometry": {"coordinates":[-71.14943000000002,-14.37333],"type":"Point"}
+}

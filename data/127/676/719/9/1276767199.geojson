@@ -1,0 +1,72 @@
+{
+  "id": 1276767199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.17634,-13.14358,-74.17634,-13.14358",
+    "geom:latitude":-13.14358,
+    "geom:longitude":-74.17634,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50113.0",
+    "gn:asciiname":"Dianpampa",
+    "gn:country_code":"PE",
+    "gn:dem":2656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940490,
+    "gn:latitude":-13.14358,
+    "gn:longitude":-74.17634,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Dianpampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Dianpampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940490
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"847987bd4faba3eece40409a4d49390d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1276767199,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276767199,
+    "wof:lastmodified":1537676807,
+    "wof:name":"Dianpampa",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.17634,
+    -13.14358,
+    -74.17634,
+    -13.14358
+],
+  "geometry": {"coordinates":[-74.17634,-13.14358],"type":"Point"}
+}

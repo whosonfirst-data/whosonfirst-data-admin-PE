@@ -1,0 +1,69 @@
+{
+  "id": 1310100781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34083,-13.225,-72.34083,-13.225",
+    "geom:latitude":-13.225,
+    "geom:longitude":-72.34083,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81306.0",
+    "gn:asciiname":"Lourdes",
+    "gn:country_code":"PE",
+    "gn:dem":2796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6393206,
+    "gn:latitude":-13.225,
+    "gn:longitude":-72.34083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Lourdes",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421183001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6393206
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7f2873d008db9173e237661368653c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183001,
+            "locality_id":1310100781,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1310100781,
+    "wof:lastmodified":1537002549,
+    "wof:name":"Lourdes",
+    "wof:parent_id":421183001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34083000000003,
+    -13.225,
+    -72.34083000000003,
+    -13.225
+],
+  "geometry": {"coordinates":[-72.34083000000003,-13.225],"type":"Point"}
+}

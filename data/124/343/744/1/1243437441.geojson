@@ -1,0 +1,68 @@
+{
+  "id": 1243437441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04641,-5.6899,-80.04641,-5.6899",
+    "geom:latitude":-5.6899,
+    "geom:longitude":-80.04641,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"PE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695883,
+    "gn:latitude":-5.6899,
+    "gn:longitude":-80.04641,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695883
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6428fd69e5c8311c998cd736c0eae6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1243437441,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243437441,
+    "wof:lastmodified":1536817650,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04641,
+    -5.6899,
+    -80.04641,
+    -5.6899
+],
+  "geometry": {"coordinates":[-80.04640999999999,-5.6899],"type":"Point"}
+}

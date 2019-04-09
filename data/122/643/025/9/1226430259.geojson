@@ -1,0 +1,72 @@
+{
+  "id": 1226430259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99929,-14.9057,-74.99929,-14.9057",
+    "geom:latitude":-14.9057,
+    "geom:longitude":-74.99929,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Hacienda Pajonal",
+    "gn:country_code":"PE",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10796838,
+    "gn:latitude":-14.9057,
+    "gn:longitude":-74.99929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Pajonal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Pajonal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10796838
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1daf4946d91519ee11a67ed988b5330a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1226430259,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1226430259,
+    "wof:lastmodified":1537676933,
+    "wof:name":"Hacienda Pajonal",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99929,
+    -14.9057,
+    -74.99929,
+    -14.9057
+],
+  "geometry": {"coordinates":[-74.99929,-14.9057],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259856839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0941,-13.4861,-76.0941,-13.4861",
+    "geom:latitude":-13.4861,
+    "geom:longitude":-76.0941,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110205.0",
+    "gn:asciiname":"Ronceros Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930276,
+    "gn:latitude":-13.4861,
+    "gn:longitude":-76.0941,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ronceros Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ronceros Bajo Hacienda",
+        "Ronceros Bajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930276
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ef805dd5abd6c8afeea54418241d8c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1259856839,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259856839,
+    "wof:lastmodified":1537676710,
+    "wof:name":"Ronceros Bajo",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0941,
+    -13.4861,
+    -76.0941,
+    -13.4861
+],
+  "geometry": {"coordinates":[-76.0941,-13.4861],"type":"Point"}
+}

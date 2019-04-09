@@ -1,0 +1,74 @@
+{
+  "id": 1326522067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.36194,-6.4125,-79.36194,-6.4125",
+    "geom:latitude":-6.4125,
+    "geom:longitude":-79.36194,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60418.0",
+    "gn:asciiname":"Tocmoche",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3691322,
+    "gn:latitude":-6.4125,
+    "gn:longitude":-79.36194,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tocmoche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tocmache",
+        "Tocmoche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691322
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c71f89f492f01ef3af27d2a02e0341ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1326522067,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1326522067,
+    "wof:lastmodified":1537676533,
+    "wof:name":"Tocmoche",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.36194,
+    -6.4125,
+    -79.36194,
+    -6.4125
+],
+  "geometry": {"coordinates":[-79.36194,-6.4125],"type":"Point"}
+}

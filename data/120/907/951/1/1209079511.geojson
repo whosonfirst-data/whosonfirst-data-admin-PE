@@ -1,0 +1,66 @@
+{
+  "id": 1209079511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78396,-6.628,-79.78396,-6.628",
+    "geom:latitude":-6.628,
+    "geom:longitude":-79.78396,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140201.0",
+    "gn:asciiname":"Senor de la Justicia",
+    "gn:country_code":"PE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951299,
+    "gn:latitude":-6.628,
+    "gn:longitude":-79.78396,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Se\u00f1or de la Justicia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Se\u00f1or de la Justicia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951299
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3ac7174ec373e8f37501114edb24765",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209079511
+        }
+    ],
+    "wof:id":1209079511,
+    "wof:lastmodified":1537676948,
+    "wof:name":"Senor de la Justicia",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78396,
+    -6.628,
+    -79.78396,
+    -6.628
+],
+  "geometry": {"coordinates":[-79.78395999999999,-6.628],"type":"Point"}
+}

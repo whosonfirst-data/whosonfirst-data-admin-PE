@@ -1,0 +1,73 @@
+{
+  "id": 1193095097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.65947,-18.11489,-70.65947,-18.11489",
+    "geom:latitude":-18.11489,
+    "geom:longitude":-70.65947,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230109.0",
+    "gn:asciiname":"Pampa Molina",
+    "gn:country_code":"PE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933211,
+    "gn:latitude":-18.11489,
+    "gn:longitude":-70.65947,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pampa Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampamolina",
+        "Pampa Molina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933211
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ca7b76f289be81470cf795292dab798c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1193095097,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1193095097,
+    "wof:lastmodified":1537676736,
+    "wof:name":"Pampa Molina",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.65947,
+    -18.11489,
+    -70.65947,
+    -18.11489
+],
+  "geometry": {"coordinates":[-70.65947,-18.11489],"type":"Point"}
+}

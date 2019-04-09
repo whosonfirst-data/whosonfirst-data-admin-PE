@@ -1,0 +1,70 @@
+{
+  "id": 1343834645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.75083,-11.4025,-74.75083,-11.4025",
+    "geom:latitude":-11.4025,
+    "geom:longitude":-74.75083,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120605.0",
+    "gn:asciiname":"Mariposa",
+    "gn:country_code":"PE",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3935261,
+    "gn:latitude":-11.4025,
+    "gn:longitude":-74.75083,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Mariposa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935261,
+        "wk:page":"Mariposa,_Satipo_Province"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b85a666cfbb4f835b427e02a82285b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1343834645,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1343834645,
+    "wof:lastmodified":1537570254,
+    "wof:name":"Mariposa",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.75083000000002,
+    -11.4025,
+    -74.75083000000002,
+    -11.4025
+],
+  "geometry": {"coordinates":[-74.75083000000002,-11.4025],"type":"Point"}
+}

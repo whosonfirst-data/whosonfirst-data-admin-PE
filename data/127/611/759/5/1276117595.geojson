@@ -1,0 +1,69 @@
+{
+  "id": 1276117595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.07823,-16.06287,-71.07823,-16.06287",
+    "geom:latitude":-16.06287,
+    "geom:longitude":-71.07823,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Biacha",
+    "gn:country_code":"PE",
+    "gn:dem":4252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946736,
+    "gn:latitude":-16.06287,
+    "gn:longitude":-71.07823,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Biacha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946736
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b9bbd262c37043acdab461a3437d4a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1276117595,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276117595,
+    "wof:lastmodified":1537064811,
+    "wof:name":"Biacha",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.07823,
+    -16.06287,
+    -71.07823,
+    -16.06287
+],
+  "geometry": {"coordinates":[-71.07823,-16.06287],"type":"Point"}
+}

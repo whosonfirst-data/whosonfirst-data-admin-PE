@@ -1,0 +1,77 @@
+{
+  "id": 1343533893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60108,-10.96104,-76.60108,-10.96104",
+    "geom:latitude":-10.96104,
+    "geom:longitude":-76.60108,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150809.0",
+    "gn:asciiname":"Lutacocha",
+    "gn:country_code":"PE",
+    "gn:dem":4535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959906,
+    "gn:latitude":-10.96104,
+    "gn:longitude":-76.60108,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Lutacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959906
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b66091d446bcd7d73de88177345ddc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343533893,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343533893,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343533893,
+    "wof:lastmodified":1536639370,
+    "wof:name":"Lutacocha",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60108000000002,
+    -10.96104,
+    -76.60108000000002,
+    -10.96104
+],
+  "geometry": {"coordinates":[-76.60108000000002,-10.96104],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209081271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39622,-10.27369,-76.39622,-10.27369",
+    "geom:latitude":-10.27369,
+    "geom:longitude":-76.39622,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Huancahusina",
+    "gn:country_code":"PE",
+    "gn:dem":3100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962891,
+    "gn:latitude":-10.27369,
+    "gn:longitude":-76.39622,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Huancahusina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huancahuasina",
+        "Huancahusina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962891
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fd431828bb017ec85e22716f0ffa4d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209081271
+        }
+    ],
+    "wof:id":1209081271,
+    "wof:lastmodified":1537676885,
+    "wof:name":"Huancahusina",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39622,
+    -10.27369,
+    -76.39622,
+    -10.27369
+],
+  "geometry": {"coordinates":[-76.39622,-10.27369],"type":"Point"}
+}

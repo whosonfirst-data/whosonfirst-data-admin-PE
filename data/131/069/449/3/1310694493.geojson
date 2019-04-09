@@ -1,0 +1,69 @@
+{
+  "id": 1310694493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.29244,-12.71384,-74.29244,-12.71384",
+    "geom:latitude":-12.71384,
+    "geom:longitude":-74.29244,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50406.0",
+    "gn:asciiname":"Punen",
+    "gn:country_code":"PE",
+    "gn:dem":3711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650286,
+    "gn:latitude":-12.71384,
+    "gn:longitude":-74.29244,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Punen",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650286
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f06d133c99bdc9e08058b83079f61dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1310694493,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310694493,
+    "wof:lastmodified":1536643635,
+    "wof:name":"Punen",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.29244,
+    -12.71384,
+    -74.29244,
+    -12.71384
+],
+  "geometry": {"coordinates":[-74.29244,-12.71384],"type":"Point"}
+}

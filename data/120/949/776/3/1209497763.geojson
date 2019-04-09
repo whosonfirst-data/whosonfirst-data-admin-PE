@@ -1,0 +1,63 @@
+{
+  "id": 1209497763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68881,-10.94814,-76.68881,-10.94814",
+    "geom:latitude":-10.94814,
+    "geom:longitude":-76.68881,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150809.0",
+    "gn:asciiname":"Pascuain",
+    "gn:country_code":"PE",
+    "gn:dem":4260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962778,
+    "gn:latitude":-10.94814,
+    "gn:longitude":-76.68881,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pascuain",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962778
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf4dbad411f3abfe900c81bff4983bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209497763
+        }
+    ],
+    "wof:id":1209497763,
+    "wof:lastmodified":1536285281,
+    "wof:name":"Pascuain",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68881,
+    -10.94814,
+    -76.68881,
+    -10.94814
+],
+  "geometry": {"coordinates":[-76.68881,-10.94814],"type":"Point"}
+}

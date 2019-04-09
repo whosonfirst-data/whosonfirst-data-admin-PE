@@ -1,0 +1,76 @@
+{
+  "id": 1259457193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76538,-4.83901,-80.76538,-4.83901",
+    "geom:latitude":-4.83901,
+    "geom:longitude":-80.76538,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Saman de Afuera",
+    "gn:country_code":"PE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692691,
+    "gn:latitude":-4.83901,
+    "gn:longitude":-80.76538,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Saman de Afuera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Saman de Afuera"
+    ],
+    "name:und_x_variant":[
+        "Saman Hacienda",
+        "Sam\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692691
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d076616dd995808a1ef8a83c329470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1259457193,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1259457193,
+    "wof:lastmodified":1537676555,
+    "wof:name":"Saman de Afuera",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76538000000002,
+    -4.83901,
+    -80.76538000000002,
+    -4.83901
+],
+  "geometry": {"coordinates":[-80.76538000000002,-4.83901],"type":"Point"}
+}

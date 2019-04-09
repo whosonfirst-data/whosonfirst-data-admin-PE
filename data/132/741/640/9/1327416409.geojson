@@ -1,0 +1,77 @@
+{
+  "id": 1327416409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.64163,-10.6413,-77.64163,-10.6413",
+    "geom:latitude":-10.6413,
+    "geom:longitude":-77.64163,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150203.0",
+    "gn:asciiname":"Churlin",
+    "gn:country_code":"PE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943118,
+    "gn:latitude":-10.6413,
+    "gn:longitude":-77.64163,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Churl\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693959,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943118
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b2bdc8becb96968777306e965f9f4e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1327416409,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1327416409,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327416409,
+    "wof:lastmodified":1536704174,
+    "wof:name":"Churlin",
+    "wof:parent_id":1108693959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.64163,
+    -10.6413,
+    -77.64163,
+    -10.6413
+],
+  "geometry": {"coordinates":[-77.64163000000001,-10.6413],"type":"Point"}
+}

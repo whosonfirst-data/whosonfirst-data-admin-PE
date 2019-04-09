@@ -1,0 +1,72 @@
+{
+  "id": 1326617891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99211,-13.28213,-75.99211,-13.28213",
+    "geom:latitude":-13.28213,
+    "geom:longitude":-75.99211,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110201.0",
+    "gn:asciiname":"Llama Cancha",
+    "gn:country_code":"PE",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866877,
+    "gn:latitude":-13.28213,
+    "gn:longitude":-75.99211,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llama Cancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llama Cancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866877
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f032b6f4da3a26308378d8fe1f6d5674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1326617891,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1326617891,
+    "wof:lastmodified":1537676943,
+    "wof:name":"Llama Cancha",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99211,
+    -13.28213,
+    -75.99211,
+    -13.28213
+],
+  "geometry": {"coordinates":[-75.99211,-13.28213],"type":"Point"}
+}

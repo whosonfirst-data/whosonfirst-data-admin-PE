@@ -1,0 +1,63 @@
+{
+  "id": 1209284245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40917,-11.98889,-76.40917,-11.98889",
+    "geom:latitude":-11.98889,
+    "geom:longitude":-76.40917,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150718.0",
+    "gn:asciiname":"Huaguina",
+    "gn:country_code":"PE",
+    "gn:dem":3441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966885,
+    "gn:latitude":-11.98889,
+    "gn:longitude":-76.40917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huaguina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966885
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"39cf2323dfd78ed0b59760eb053b01aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209284245
+        }
+    ],
+    "wof:id":1209284245,
+    "wof:lastmodified":1536291914,
+    "wof:name":"Huaguina",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40916999999997,
+    -11.98889,
+    -76.40916999999997,
+    -11.98889
+],
+  "geometry": {"coordinates":[-76.40916999999997,-11.98889],"type":"Point"}
+}

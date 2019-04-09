@@ -1,0 +1,72 @@
+{
+  "id": 1310410271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77607,-14.58074,-74.77607,-14.58074",
+    "geom:latitude":-14.58074,
+    "geom:longitude":-74.77607,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50613.0",
+    "gn:asciiname":"Pishcapuquio",
+    "gn:country_code":"PE",
+    "gn:dem":2899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10454704,
+    "gn:latitude":-14.58074,
+    "gn:longitude":-74.77607,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pishcapuquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pishcapuquio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10454704
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f343b37a8c6b983b7ca4251cac03e1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1310410271,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310410271,
+    "wof:lastmodified":1537676932,
+    "wof:name":"Pishcapuquio",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77606999999998,
+    -14.58074,
+    -74.77606999999998,
+    -14.58074
+],
+  "geometry": {"coordinates":[-74.77606999999998,-14.58074],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310280713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51601,-16.18347,-70.51601,-16.18347",
+    "geom:latitude":-16.18347,
+    "geom:longitude":-70.51601,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180204.0",
+    "gn:asciiname":"Quimsapujo",
+    "gn:country_code":"PE",
+    "gn:dem":4393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930779,
+    "gn:latitude":-16.18347,
+    "gn:longitude":-70.51601,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quimsapujo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930779
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"51a5b8ed26952a5a95960d6fc36b7661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1310280713,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1310280713,
+    "wof:lastmodified":1536743444,
+    "wof:name":"Quimsapujo",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51601,
+    -16.18347,
+    -70.51601,
+    -16.18347
+],
+  "geometry": {"coordinates":[-70.51600999999999,-16.18347],"type":"Point"}
+}

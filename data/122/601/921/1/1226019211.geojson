@@ -1,0 +1,72 @@
+{
+  "id": 1226019211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.67418,-4.60232,-80.67418,-4.60232",
+    "geom:latitude":-4.60232,
+    "geom:longitude":-80.67418,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Oratanga",
+    "gn:country_code":"PE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694244,
+    "gn:latitude":-4.60232,
+    "gn:longitude":-80.67418,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Oratanga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Oratanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694244
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6b509b5e81edbc9a90a9676b467e6b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1226019211,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226019211,
+    "wof:lastmodified":1537676576,
+    "wof:name":"Oratanga",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.67418,
+    -4.60232,
+    -80.67418,
+    -4.60232
+],
+  "geometry": {"coordinates":[-80.67418000000001,-4.60232],"type":"Point"}
+}

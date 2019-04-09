@@ -1,0 +1,73 @@
+{
+  "id": 1327356993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.499,-15.62134,-74.499,-15.62134",
+    "geom:latitude":-15.62134,
+    "geom:longitude":-74.499,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40313.0",
+    "gn:asciiname":"Usaca",
+    "gn:country_code":"PE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940846,
+    "gn:latitude":-15.62134,
+    "gn:longitude":-74.499,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Usaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo Usaca",
+        "Usaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940846
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"01cf03cdce6dd563cf77a5ab8a9d2d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1327356993,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1327356993,
+    "wof:lastmodified":1537676810,
+    "wof:name":"Usaca",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.499,
+    -15.62134,
+    -74.499,
+    -15.62134
+],
+  "geometry": {"coordinates":[-74.499,-15.62134],"type":"Point"}
+}

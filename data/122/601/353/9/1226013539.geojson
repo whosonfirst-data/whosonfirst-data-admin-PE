@@ -1,0 +1,68 @@
+{
+  "id": 1226013539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41991,-8.54116,-76.41991,-8.54116",
+    "geom:latitude":-8.54116,
+    "geom:longitude":-76.41991,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Cangrejo",
+    "gn:country_code":"PE",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6672552,
+    "gn:latitude":-8.54116,
+    "gn:longitude":-76.41991,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Cangrejo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672552
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6e4a04e6f3a7ac407bb209a8658595c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693927,
+            "locality_id":1226013539,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226013539,
+    "wof:lastmodified":1536772319,
+    "wof:name":"Cangrejo",
+    "wof:parent_id":1108693927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41991,
+    -8.54116,
+    -76.41991,
+    -8.54116
+],
+  "geometry": {"coordinates":[-76.41991,-8.54116],"type":"Point"}
+}

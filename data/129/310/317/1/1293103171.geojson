@@ -1,0 +1,72 @@
+{
+  "id": 1293103171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75208,-15.07107,-73.75208,-15.07107",
+    "geom:latitude":-15.07107,
+    "geom:longitude":-73.75208,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50702.0",
+    "gn:asciiname":"Huicullo",
+    "gn:country_code":"PE",
+    "gn:dem":3056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938738,
+    "gn:latitude":-15.07107,
+    "gn:longitude":-73.75208,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Huicullo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huicullo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938738
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"924ea26892b12cbfd95463b4579af486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293103171,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293103171,
+    "wof:lastmodified":1537676787,
+    "wof:name":"Huicullo",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75208,
+    -15.07107,
+    -73.75208,
+    -15.07107
+],
+  "geometry": {"coordinates":[-73.75208000000001,-15.07107],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327013835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.67195,-13.12111,-74.67195,-13.12111",
+    "geom:latitude":-13.12111,
+    "geom:longitude":-74.67195,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:asciiname":"Quisuarpampa",
+    "gn:country_code":"PE",
+    "gn:dem":3738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930625,
+    "gn:latitude":-13.12111,
+    "gn:longitude":-74.67195,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Quisuarpampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930625
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"29c80259b1216e186deb62db061aa444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1327013835,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1327013835,
+    "wof:lastmodified":1536787765,
+    "wof:name":"Quisuarpampa",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.67195,
+    -13.12111,
+    -74.67195,
+    -13.12111
+],
+  "geometry": {"coordinates":[-74.67195,-13.12111],"type":"Point"}
+}

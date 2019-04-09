@@ -1,0 +1,73 @@
+{
+  "id": 1310182483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14133,-13.18538,-76.14133,-13.18538",
+    "geom:latitude":-13.18538,
+    "geom:longitude":-76.14133,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110206.0",
+    "gn:asciiname":"La Bodega",
+    "gn:country_code":"PE",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940561,
+    "gn:latitude":-13.18538,
+    "gn:longitude":-76.14133,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"La Bodega",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Bodega",
+        "La Bodega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940561
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9367f18ee4a2b984d0ed077425ecb50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1310182483,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1310182483,
+    "wof:lastmodified":1537676808,
+    "wof:name":"La Bodega",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14133000000002,
+    -13.18538,
+    -76.14133000000002,
+    -13.18538
+],
+  "geometry": {"coordinates":[-76.14133000000002,-13.18538],"type":"Point"}
+}

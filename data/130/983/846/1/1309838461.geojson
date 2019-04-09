@@ -1,0 +1,75 @@
+{
+  "id": 1309838461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.24569,-15.4433,-73.24569,-15.4433",
+    "geom:latitude":-15.4433,
+    "geom:longitude":-73.24569,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Hacienda Antanaiso",
+    "gn:country_code":"PE",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947563,
+    "gn:latitude":-15.4433,
+    "gn:longitude":-73.24569,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hacienda Antanaiso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Antanaiso"
+    ],
+    "name:spa_x_variant":[
+        "Antanaiso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947563
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d6f8c5cc868465ba85133371a7199f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1309838461,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1309838461,
+    "wof:lastmodified":1537676867,
+    "wof:name":"Hacienda Antanaiso",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24569,
+    -15.4433,
+    -73.24569,
+    -15.4433
+],
+  "geometry": {"coordinates":[-73.24569,-15.4433],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310098565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.19539,-12.82744,-74.19539,-12.82744",
+    "geom:latitude":-12.82744,
+    "geom:longitude":-74.19539,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Ayamoco",
+    "gn:country_code":"PE",
+    "gn:dem":4076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650060,
+    "gn:latitude":-12.82744,
+    "gn:longitude":-74.19539,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ayamoco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650060
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"94c2ec30dfdeed3443e57e72cd32ee40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1310098565,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310098565,
+    "wof:lastmodified":1537005780,
+    "wof:name":"Ayamoco",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.19539,
+    -12.82744,
+    -74.19539,
+    -12.82744
+],
+  "geometry": {"coordinates":[-74.19539,-12.82744],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276536403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.1792,-13.63287,-76.1792,-13.63287",
+    "geom:latitude":-13.63287,
+    "geom:longitude":-76.1792,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110507.0",
+    "gn:asciiname":"Cahacho",
+    "gn:country_code":"PE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087891,
+    "gn:latitude":-13.63287,
+    "gn:longitude":-76.1792,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cahacho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cahacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087891
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df7f105bcc704b60e67991b06eecab11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1276536403,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276536403,
+    "wof:lastmodified":1537676970,
+    "wof:name":"Cahacho",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.1792,
+    -13.63287,
+    -76.1792,
+    -13.63287
+],
+  "geometry": {"coordinates":[-76.17919999999999,-13.63287],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193109753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.75,-12.06667,-70.75,-12.06667",
+    "geom:latitude":-12.06667,
+    "geom:longitude":-70.75,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Pichicato Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932411,
+    "gn:latitude":-12.06667,
+    "gn:longitude":-70.75,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Pichicato Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        421170665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932411
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a06e6a2aac9ba7c2963b9b10f9a0181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170665,
+            "locality_id":1193109753,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1193109753,
+    "wof:lastmodified":1536374575,
+    "wof:name":"Pichicato Bajo",
+    "wof:parent_id":421170665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.75,
+    -12.06667,
+    -70.75,
+    -12.06667
+],
+  "geometry": {"coordinates":[-70.75,-12.06667],"type":"Point"}
+}

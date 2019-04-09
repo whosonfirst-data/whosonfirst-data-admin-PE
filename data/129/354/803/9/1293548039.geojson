@@ -1,0 +1,69 @@
+{
+  "id": 1293548039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53333,-15.33333,-69.53333,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":-69.53333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210901.0",
+    "gn:asciiname":"Lloquesane",
+    "gn:country_code":"PE",
+    "gn:dem":4308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936131,
+    "gn:latitude":-15.33333,
+    "gn:longitude":-69.53333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Lloquesane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936131
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6b2cf0adce49a02a78357a21ac5c094f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1293548039,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293548039,
+    "wof:lastmodified":1536700243,
+    "wof:name":"Lloquesane",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53333,
+    -15.33333,
+    -69.53333,
+    -15.33333
+],
+  "geometry": {"coordinates":[-69.53333000000001,-15.33333],"type":"Point"}
+}

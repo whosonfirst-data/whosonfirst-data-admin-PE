@@ -1,0 +1,74 @@
+{
+  "id": 1276222321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73333,-12.48333,-72.73333,-12.48333",
+    "geom:latitude":-12.48333,
+    "geom:longitude":-72.73333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902.0",
+    "gn:asciiname":"Rosalina",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930260,
+    "gn:latitude":-12.48333,
+    "gn:longitude":-72.73333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Rosalina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosellina",
+        "Rosalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930260
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"72afe5df85177d8a155b82a18579cae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1276222321,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1276222321,
+    "wof:lastmodified":1537676710,
+    "wof:name":"Rosalina",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73333000000002,
+    -12.48333,
+    -72.73333000000002,
+    -12.48333
+],
+  "geometry": {"coordinates":[-72.73333000000002,-12.48333],"type":"Point"}
+}

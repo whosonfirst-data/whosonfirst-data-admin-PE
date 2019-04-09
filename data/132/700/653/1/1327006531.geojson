@@ -1,0 +1,73 @@
+{
+  "id": 1327006531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5237,-11.23245,-75.5237,-11.23245",
+    "geom:latitude":-11.23245,
+    "geom:longitude":-75.5237,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120704.0",
+    "gn:asciiname":"Chuquishunca",
+    "gn:country_code":"PE",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959578,
+    "gn:latitude":-11.23245,
+    "gn:longitude":-75.5237,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Chuquishunca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaquishunca",
+        "Chuquishunca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959578
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"07e16c48f5b11ed60a7dd3d6b816b658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1327006531,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1327006531,
+    "wof:lastmodified":1537676880,
+    "wof:name":"Chuquishunca",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5237,
+    -11.23245,
+    -75.5237,
+    -11.23245
+],
+  "geometry": {"coordinates":[-75.52370000000001,-11.23245],"type":"Point"}
+}

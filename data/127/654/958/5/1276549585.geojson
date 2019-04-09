@@ -1,0 +1,69 @@
+{
+  "id": 1276549585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15661,-9.35451,-78.15661,-9.35451",
+    "geom:latitude":-9.35451,
+    "geom:longitude":-78.15661,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20802.0",
+    "gn:asciiname":"Rio Seco",
+    "gn:country_code":"PE",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6559852,
+    "gn:latitude":-9.35451,
+    "gn:longitude":-78.15661,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"R\u00edo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6559852
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3e134de7c97012109ee066ae89e7eb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1276549585,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276549585,
+    "wof:lastmodified":1536985425,
+    "wof:name":"Rio Seco",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15661,
+    -9.35451,
+    -78.15661,
+    -9.35451
+],
+  "geometry": {"coordinates":[-78.15661,-9.35451],"type":"Point"}
+}

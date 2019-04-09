@@ -1,0 +1,70 @@
+{
+  "id": 1192976495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76278,-17.61333,-70.76278,-17.61333",
+    "geom:latitude":-17.61333,
+    "geom:longitude":-70.76278,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:asciiname":"Locumba",
+    "gn:country_code":"PE",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3936057,
+    "gn:latitude":-17.61333,
+    "gn:longitude":-70.76278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Locumba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936057,
+        "wk:page":"Locumba"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1b78025e0f99935e52a8938aa9ad2adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1192976495,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1192976495,
+    "wof:lastmodified":1537570255,
+    "wof:name":"Locumba",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76278,
+    -17.61332999999999,
+    -70.76278,
+    -17.61332999999999
+],
+  "geometry": {"coordinates":[-70.76278000000001,-17.61332999999999],"type":"Point"}
+}

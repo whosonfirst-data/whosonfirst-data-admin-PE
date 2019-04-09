@@ -1,0 +1,69 @@
+{
+  "id": 1343325571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16667,-0.68333,-75.16667,-0.68333",
+    "geom:latitude":-0.68333,
+    "geom:longitude":-75.16667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160114.0",
+    "gn:asciiname":"Sabaloyacu",
+    "gn:country_code":"PE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692793,
+    "gn:latitude":-0.68333,
+    "gn:longitude":-75.16667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"S\u00e1baloyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692793
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c97b1bb41c2f887b101c2218dfc98867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1343325571,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343325571,
+    "wof:lastmodified":1536941664,
+    "wof:name":"Sabaloyacu",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16667,
+    -0.68333,
+    -75.16667,
+    -0.68333
+],
+  "geometry": {"coordinates":[-75.16667,-0.68333],"type":"Point"}
+}

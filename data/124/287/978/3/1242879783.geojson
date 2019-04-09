@@ -1,0 +1,69 @@
+{
+  "id": 1242879783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03785,-15.34855,-72.03785,-15.34855",
+    "geom:latitude":-15.34855,
+    "geom:longitude":-72.03785,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Capilla",
+    "gn:country_code":"PE",
+    "gn:dem":4403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945667,
+    "gn:latitude":-15.34855,
+    "gn:longitude":-72.03785,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Capilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945667
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eefe2ced9d4bc765c90a343625a4abe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1242879783,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1242879783,
+    "wof:lastmodified":1536626552,
+    "wof:name":"Capilla",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03785,
+    -15.34855,
+    -72.03785,
+    -15.34855
+],
+  "geometry": {"coordinates":[-72.03785000000001,-15.34855],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242657923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88866,-13.17714,-75.88866,-13.17714",
+    "geom:latitude":-13.17714,
+    "geom:longitude":-75.88866,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Astilla Pata",
+    "gn:country_code":"PE",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947202,
+    "gn:latitude":-13.17714,
+    "gn:longitude":-75.88866,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Astilla Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Astilla Pata"
+    ],
+    "name:spa_x_variant":[
+        "Astillapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947202
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e1db7c6654b4233c233bc108cb0c329c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1242657923,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242657923,
+    "wof:lastmodified":1537676864,
+    "wof:name":"Astilla Pata",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88866,
+    -13.17714,
+    -75.88866,
+    -13.17714
+],
+  "geometry": {"coordinates":[-75.88866,-13.17714],"type":"Point"}
+}

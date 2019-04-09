@@ -1,0 +1,69 @@
+{
+  "id": 1326532119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.84528,-9.39778,-77.84528,-9.39778",
+    "geom:latitude":-9.39778,
+    "geom:longitude":-77.84528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"220.0",
+    "gn:admin3_code":"22007.0",
+    "gn:asciiname":"Tambra",
+    "gn:country_code":"PE",
+    "gn:dem":3743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6379953,
+    "gn:latitude":-9.39778,
+    "gn:longitude":-77.84528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tambra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379953
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7dd4dc3278f28e1f499cfcb865d1fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":1326532119,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1326532119,
+    "wof:lastmodified":1536983443,
+    "wof:name":"Tambra",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.84528,
+    -9.39778,
+    -77.84528,
+    -9.39778
+],
+  "geometry": {"coordinates":[-77.84528,-9.39778],"type":"Point"}
+}

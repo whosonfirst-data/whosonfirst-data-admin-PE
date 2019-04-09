@@ -1,0 +1,72 @@
+{
+  "id": 1259944845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07213,-10.53529,-75.07213,-10.53529",
+    "geom:latitude":-10.53529,
+    "geom:longitude":-75.07213,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190307.0",
+    "gn:asciiname":"Rio Sol",
+    "gn:country_code":"PE",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6564190,
+    "gn:latitude":-10.53529,
+    "gn:longitude":-75.07213,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"R\u00edo Sol",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Sol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564190
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4475cca7454b128a6087b7edc81c46dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1259944845,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1259944845,
+    "wof:lastmodified":1537676903,
+    "wof:name":"Rio Sol",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07213,
+    -10.53529,
+    -75.07213,
+    -10.53529
+],
+  "geometry": {"coordinates":[-75.07213,-10.53529],"type":"Point"}
+}

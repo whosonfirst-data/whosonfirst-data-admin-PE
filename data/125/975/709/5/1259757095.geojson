@@ -1,0 +1,69 @@
+{
+  "id": 1259757095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83183,-16.89464,-69.83183,-16.89464",
+    "geom:latitude":-16.89464,
+    "geom:longitude":-69.83183,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210504.0",
+    "gn:asciiname":"Laca",
+    "gn:country_code":"PE",
+    "gn:dem":4258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937345,
+    "gn:latitude":-16.89464,
+    "gn:longitude":-69.83183,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Laca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937345
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"09f76031f615a9e1501761f01e4003eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1259757095,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259757095,
+    "wof:lastmodified":1536961113,
+    "wof:name":"Laca",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83183000000001,
+    -16.89464,
+    -69.83183000000001,
+    -16.89464
+],
+  "geometry": {"coordinates":[-69.83183000000001,-16.89464],"type":"Point"}
+}

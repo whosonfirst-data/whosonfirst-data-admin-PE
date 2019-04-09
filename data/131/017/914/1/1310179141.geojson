@@ -1,0 +1,71 @@
+{
+  "id": 1310179141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.29076,-14.47268,-69.29076,-14.47268",
+    "geom:latitude":-14.47268,
+    "geom:longitude":-69.29076,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Tambillo",
+    "gn:country_code":"PE",
+    "gn:dem":3859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558352,
+    "gn:latitude":-14.47268,
+    "gn:longitude":-69.29076,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Tambillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tambillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558352
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"50f591e205f808296ceb7a9d247ae201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693921,
+            "locality_id":1310179141,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1310179141,
+    "wof:lastmodified":1537677003,
+    "wof:name":"Tambillo",
+    "wof:parent_id":1108693921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.29075999999999,
+    -14.47268,
+    -69.29075999999999,
+    -14.47268
+],
+  "geometry": {"coordinates":[-69.29075999999999,-14.47268],"type":"Point"}
+}

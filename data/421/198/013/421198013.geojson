@@ -1,0 +1,90 @@
+{
+  "id": 421198013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62667,-11.0925,-77.62667,-11.0925",
+    "geom:latitude":-11.0925,
+    "geom:longitude":-77.62667,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Carqu\u00edn"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3946147,
+    "qs:gn_pop":5514,
+    "qs:name":"Caleta de Carqu\u00edn",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":289448,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418695,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946147,
+        "gp:id":418695,
+        "qs:id":289448
+    },
+    "wof:country":"PE",
+    "wof:created":1459009933,
+    "wof:geomhash":"3cc9ece967c5f2d815a3bdef0e71dc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":421198013,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":421198013,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421198013,
+    "wof:lastmodified":1505340754,
+    "wof:name":"Caleta de Carqu\u00edn",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:population":5514,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62667,
+    -11.0925,
+    -77.62667,
+    -11.0925
+],
+  "geometry": {"coordinates":[-77.62667,-11.0925],"type":"Point"}
+}

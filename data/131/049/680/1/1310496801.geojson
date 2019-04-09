@@ -1,0 +1,68 @@
+{
+  "id": 1310496801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,-14.86667,-72.1,-14.86667",
+    "geom:latitude":-14.86667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Inapata",
+    "gn:country_code":"PE",
+    "gn:dem":4538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938383,
+    "gn:latitude":-14.86667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"I\u00f1apata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938383
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1269f4d9956a45f66c3d12479a17b6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1310496801,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310496801,
+    "wof:lastmodified":1536930224,
+    "wof:name":"Inapata",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    -14.86667,
+    -72.1,
+    -14.86667
+],
+  "geometry": {"coordinates":[-72.09999999999999,-14.86667],"type":"Point"}
+}

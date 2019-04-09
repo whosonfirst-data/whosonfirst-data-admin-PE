@@ -1,0 +1,80 @@
+{
+  "id": 1344126761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26231,-11.5763,-77.26231,-11.5763",
+    "geom:latitude":-11.5763,
+    "geom:longitude":-77.26231,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150605.0",
+    "gn:asciiname":"Cerro La Trinidad",
+    "gn:country_code":"PE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9875221,
+    "gn:latitude":-11.5763,
+    "gn:longitude":-77.26231,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cerro La Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cerro La Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9875221
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1d14183e1ba7df24fb493e2e205e826b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1344126761,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1344126761,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1344126761,
+    "wof:lastmodified":1537676927,
+    "wof:name":"Cerro La Trinidad",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26231,
+    -11.5763,
+    -77.26231,
+    -11.5763
+],
+  "geometry": {"coordinates":[-77.26231,-11.5763],"type":"Point"}
+}

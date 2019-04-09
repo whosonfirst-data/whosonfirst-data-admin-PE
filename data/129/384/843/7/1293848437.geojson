@@ -1,0 +1,69 @@
+{
+  "id": 1293848437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66501,-4.9705,-79.66501,-4.9705",
+    "geom:latitude":-4.9705,
+    "geom:longitude":-79.66501,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"Yambur",
+    "gn:country_code":"PE",
+    "gn:dem":2485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660924,
+    "gn:latitude":-4.9705,
+    "gn:longitude":-79.66501,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yambur",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660924
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d540e5c4c2c7e9829e78a1ade782ff0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1293848437,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1293848437,
+    "wof:lastmodified":1536764305,
+    "wof:name":"Yambur",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66501,
+    -4.9705,
+    -79.66501,
+    -4.9705
+],
+  "geometry": {"coordinates":[-79.66501,-4.9705],"type":"Point"}
+}

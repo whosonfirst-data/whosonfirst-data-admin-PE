@@ -1,0 +1,69 @@
+{
+  "id": 1293779123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.37283,-14.09693,-71.37283,-14.09693",
+    "geom:latitude":-14.09693,
+    "geom:longitude":-71.37283,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80603.0",
+    "gn:asciiname":"Oroscocha",
+    "gn:country_code":"PE",
+    "gn:dem":3717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3953685,
+    "gn:latitude":-14.09693,
+    "gn:longitude":-71.37283,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Oroscocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953685
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cb0171feb895942fecf5a77fcedc29e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1293779123,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1293779123,
+    "wof:lastmodified":1536862350,
+    "wof:name":"Oroscocha",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.37283000000002,
+    -14.09693,
+    -71.37283000000002,
+    -14.09693
+],
+  "geometry": {"coordinates":[-71.37283000000002,-14.09693],"type":"Point"}
+}

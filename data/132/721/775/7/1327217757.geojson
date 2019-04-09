@@ -1,0 +1,72 @@
+{
+  "id": 1327217757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6869,-13.3301,-74.6869,-13.3301",
+    "geom:latitude":-13.3301,
+    "geom:longitude":-74.6869,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Rangrapata",
+    "gn:country_code":"PE",
+    "gn:dem":4509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930545,
+    "gn:latitude":-13.3301,
+    "gn:longitude":-74.6869,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Rangrapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rangrapampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930545
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c4c599fb584085fb48392caa9839624c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1327217757,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1327217757,
+    "wof:lastmodified":1537676713,
+    "wof:name":"Rangrapata",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6869,
+    -13.3301,
+    -74.6869,
+    -13.3301
+],
+  "geometry": {"coordinates":[-74.68689999999999,-13.3301],"type":"Point"}
+}

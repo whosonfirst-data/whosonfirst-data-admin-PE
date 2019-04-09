@@ -1,0 +1,63 @@
+{
+  "id": 1209300519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.25042,-7.82257,-78.25042,-7.82257",
+    "geom:latitude":-7.82257,
+    "geom:longitude":-78.25042,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1309.0",
+    "gn:admin3_code":"130906.0",
+    "gn:asciiname":"Huarana",
+    "gn:country_code":"PE",
+    "gn:dem":3585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696385,
+    "gn:latitude":-7.82257,
+    "gn:longitude":-78.25042,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huarana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696385
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d6eb143c980c3622d6ca2194c1040619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209300519
+        }
+    ],
+    "wof:id":1209300519,
+    "wof:lastmodified":1536291374,
+    "wof:name":"Huarana",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.25041999999998,
+    -7.82257,
+    -78.25041999999998,
+    -7.82257
+],
+  "geometry": {"coordinates":[-78.25041999999998,-7.82257],"type":"Point"}
+}

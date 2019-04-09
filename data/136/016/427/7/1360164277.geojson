@@ -1,0 +1,69 @@
+{
+  "id": 1360164277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47484,-11.12347,-76.47484,-11.12347",
+    "geom:latitude":-11.12347,
+    "geom:longitude":-76.47484,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120807.0",
+    "gn:asciiname":"Pillococha",
+    "gn:country_code":"PE",
+    "gn:dem":4742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669136,
+    "gn:latitude":-11.12347,
+    "gn:longitude":-76.47484,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pillococha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669136
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"03d28532b894ba0bf571d7786c8bbf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1360164277,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1360164277,
+    "wof:lastmodified":1536830488,
+    "wof:name":"Pillococha",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47484,
+    -11.12347,
+    -76.47484,
+    -11.12347
+],
+  "geometry": {"coordinates":[-76.47484,-11.12347],"type":"Point"}
+}

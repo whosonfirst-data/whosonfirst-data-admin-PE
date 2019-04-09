@@ -1,0 +1,72 @@
+{
+  "id": 1327111145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27585,-10.90158,-75.27585,-10.90158",
+    "geom:latitude":-10.90158,
+    "geom:longitude":-75.27585,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120301.0",
+    "gn:asciiname":"Bajo Pampa Hermosa",
+    "gn:country_code":"PE",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564063,
+    "gn:latitude":-10.90158,
+    "gn:longitude":-75.27585,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Bajo Pampa Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bajo Pampa Hermoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564063
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"472c40387e0fec6f925595f0a50a1fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1327111145,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1327111145,
+    "wof:lastmodified":1537676900,
+    "wof:name":"Bajo Pampa Hermosa",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27585,
+    -10.90158,
+    -75.27585,
+    -10.90158
+],
+  "geometry": {"coordinates":[-75.27585000000001,-10.90158],"type":"Point"}
+}

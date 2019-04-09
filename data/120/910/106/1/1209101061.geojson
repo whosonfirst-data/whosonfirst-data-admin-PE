@@ -1,0 +1,62 @@
+{
+  "id": 1209101061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96051,-9.87428,-76.96051,-9.87428",
+    "geom:latitude":-9.87428,
+    "geom:longitude":-76.96051,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Torno Vado",
+    "gn:country_code":"PE",
+    "gn:dem":3691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666162,
+    "gn:latitude":-9.87428,
+    "gn:longitude":-76.96051,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Torno Vado",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666162
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"65adc0d8725f604b159411dba69817a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209101061
+        }
+    ],
+    "wof:id":1209101061,
+    "wof:lastmodified":1536297731,
+    "wof:name":"Torno Vado",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96051,
+    -9.87428,
+    -76.96051,
+    -9.87428
+],
+  "geometry": {"coordinates":[-76.96051,-9.87428],"type":"Point"}
+}

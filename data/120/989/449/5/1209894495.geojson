@@ -1,0 +1,69 @@
+{
+  "id": 1209894495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64554,-9.96669,-76.64554,-9.96669",
+    "geom:latitude":-9.96669,
+    "geom:longitude":-76.64554,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101006.0",
+    "gn:asciiname":"Yana-Ututo",
+    "gn:country_code":"PE",
+    "gn:dem":3566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666315,
+    "gn:latitude":-9.96669,
+    "gn:longitude":-76.64554,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yana-Ututo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666315
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e818c9f7b2889ff56f1ff549a86f1b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1209894495,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1209894495,
+    "wof:lastmodified":1536389242,
+    "wof:name":"Yana-Ututo",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64554,
+    -9.96669,
+    -76.64554,
+    -9.96669
+],
+  "geometry": {"coordinates":[-76.64554,-9.96669],"type":"Point"}
+}

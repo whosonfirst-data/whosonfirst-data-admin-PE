@@ -1,0 +1,77 @@
+{
+  "id": 1293558973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.12001,-12.03903,-76.12001,-12.03903",
+    "geom:latitude":-12.03903,
+    "geom:longitude":-76.12001,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150721.0",
+    "gn:asciiname":"Carhuapampa",
+    "gn:country_code":"PE",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945457,
+    "gn:latitude":-12.03903,
+    "gn:longitude":-76.12001,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Carhuapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945457
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"010c79b9e7ef69bda9e93dafe54eeb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1293558973,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1293558973,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293558973,
+    "wof:lastmodified":1536684123,
+    "wof:name":"Carhuapampa",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.12001,
+    -12.03903,
+    -76.12001,
+    -12.03903
+],
+  "geometry": {"coordinates":[-76.12000999999999,-12.03903],"type":"Point"}
+}

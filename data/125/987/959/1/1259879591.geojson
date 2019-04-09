@@ -1,0 +1,69 @@
+{
+  "id": 1259879591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.36361,-15.79611,-74.36361,-15.79611",
+    "geom:latitude":-15.79611,
+    "geom:longitude":-74.36361,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40304.0",
+    "gn:asciiname":"Atiquipa",
+    "gn:country_code":"PE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3947142,
+    "gn:latitude":-15.79611,
+    "gn:longitude":-74.36361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Atiquipa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947142
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bed47ea4b54c92c51a315fd3805a435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1259879591,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259879591,
+    "wof:lastmodified":1536785301,
+    "wof:name":"Atiquipa",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.36361,
+    -15.79611,
+    -74.36361,
+    -15.79611
+],
+  "geometry": {"coordinates":[-74.36360999999999,-15.79611],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1360154561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10977,-10.54606,-77.10977,-10.54606",
+    "geom:latitude":-10.54606,
+    "geom:longitude":-77.10977,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150304.0",
+    "gn:asciiname":"Huancapon",
+    "gn:country_code":"PE",
+    "gn:dem":3249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939512,
+    "gn:latitude":-10.54606,
+    "gn:longitude":-77.10977,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huancap\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huancapan",
+        "Huancap\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693949,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939512
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3aeb7c3bf7a25cb377d8922983bca8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1360154561,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1360154561,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1360154561,
+    "wof:lastmodified":1537676794,
+    "wof:name":"Huancapon",
+    "wof:parent_id":1108693949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10977,
+    -10.54606,
+    -77.10977,
+    -10.54606
+],
+  "geometry": {"coordinates":[-77.10977,-10.54606],"type":"Point"}
+}

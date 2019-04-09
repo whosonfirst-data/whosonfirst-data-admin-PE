@@ -1,0 +1,78 @@
+{
+  "id": 1125989281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.09599,-14.26989,-71.09599,-14.26989",
+    "geom:latitude":-14.26989,
+    "geom:longitude":-71.09599,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4298,
+    "gn:population":4298,
+    "iso:country":"PE",
+    "lbl:latitude":-14.26989,
+    "lbl:longitude":-71.09599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3954291,
+    "qs_pg:gn_pop":4298,
+    "qs_pg:name":"Huayna Alcalde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":279924,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954291,
+        "qs_pg:id":279924
+    },
+    "wof:country":"PE",
+    "wof:created":1497298972,
+    "wof:geomhash":"e3ba063bfc4066925d444e69d75fb1bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":1125989281,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1125989281,
+    "wof:lastmodified":1509405279,
+    "wof:name":"Huayna Alcalde",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:population":4298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.09599,
+    -14.26989,
+    -71.09599,
+    -14.26989
+],
+  "geometry": {"coordinates":[-71.09599,-14.26989],"type":"Point"}
+}

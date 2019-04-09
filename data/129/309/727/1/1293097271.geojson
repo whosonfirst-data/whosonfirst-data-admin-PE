@@ -1,0 +1,72 @@
+{
+  "id": 1293097271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71663,-15.06437,-73.71663,-15.06437",
+    "geom:latitude":-15.06437,
+    "geom:longitude":-73.71663,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50702.0",
+    "gn:asciiname":"Atojocha",
+    "gn:country_code":"PE",
+    "gn:dem":3515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007762,
+    "gn:latitude":-15.06437,
+    "gn:longitude":-73.71663,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atojocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Atojocha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007762
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a5bdad10c7f233814ccff79989b33a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293097271,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293097271,
+    "wof:lastmodified":1537676958,
+    "wof:name":"Atojocha",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71663000000002,
+    -15.06437,
+    -73.71663000000002,
+    -15.06437
+],
+  "geometry": {"coordinates":[-73.71663000000002,-15.06437],"type":"Point"}
+}

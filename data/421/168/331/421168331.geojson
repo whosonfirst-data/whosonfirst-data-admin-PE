@@ -1,0 +1,79 @@
+{
+  "id": 421168331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71667,-12.86667,-72.71667,-12.86667",
+    "geom:latitude":-12.86667,
+    "geom:longitude":-72.71667,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929295,
+    "qs:gn_pop":25145,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Cusco",
+    "qs:photos":379,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":379,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1165413,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":414538,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929295,
+        "gp:id":414538,
+        "qs:id":1165413
+    },
+    "wof:country":"PE",
+    "wof:created":1459008761,
+    "wof:geomhash":"054132c0654bd9dc7c1cb68e6f90e077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":421168331,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":421168331,
+    "wof:lastmodified":1505340590,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:population":25145,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71667,
+    -12.86667,
+    -72.71667,
+    -12.86667
+],
+  "geometry": {"coordinates":[-72.71666999999999,-12.86667],"type":"Point"}
+}

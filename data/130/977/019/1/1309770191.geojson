@@ -1,0 +1,69 @@
+{
+  "id": 1309770191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.07938,-16.15967,-70.07938,-16.15967",
+    "geom:latitude":-16.15967,
+    "geom:longitude":-70.07938,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210111.0",
+    "gn:asciiname":"Cachicucho",
+    "gn:country_code":"PE",
+    "gn:dem":3965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946386,
+    "gn:latitude":-16.15967,
+    "gn:longitude":-70.07938,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cachicucho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946386
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"14e286e06e8ffdfc7eeb5e61928050e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1309770191,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1309770191,
+    "wof:lastmodified":1536981862,
+    "wof:name":"Cachicucho",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.07938,
+    -16.15967,
+    -70.07938,
+    -16.15967
+],
+  "geometry": {"coordinates":[-70.07938,-16.15967],"type":"Point"}
+}

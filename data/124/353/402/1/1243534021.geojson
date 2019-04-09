@@ -1,0 +1,69 @@
+{
+  "id": 1243534021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.04445,-11.62068,-75.04445,-11.62068",
+    "geom:latitude":-11.62068,
+    "geom:longitude":-75.04445,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120206.0",
+    "gn:asciiname":"Alalpata",
+    "gn:country_code":"PE",
+    "gn:dem":3285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674897,
+    "gn:latitude":-11.62068,
+    "gn:longitude":-75.04445,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alalpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6674897
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2deab00ceed94e894b9cae9f650dd9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694035,
+            "locality_id":1243534021,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1243534021,
+    "wof:lastmodified":1536679344,
+    "wof:name":"Alalpata",
+    "wof:parent_id":1108694035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.04445,
+    -11.62068,
+    -75.04445,
+    -11.62068
+],
+  "geometry": {"coordinates":[-75.04445,-11.62068],"type":"Point"}
+}

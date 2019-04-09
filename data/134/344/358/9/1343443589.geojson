@@ -1,0 +1,82 @@
+{
+  "id": 1343443589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34417,-11.24944,-77.34417,-11.24944",
+    "geom:latitude":-11.24944,
+    "geom:longitude":-77.34417,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"San Hilarion",
+    "gn:country_code":"PE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940476,
+    "gn:latitude":-11.24944,
+    "gn:longitude":-77.34417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Hilari\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Hilaron",
+        "Hilari\u00f3n",
+        "San Hilari\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940476
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8363eff74ba19d055c14d04ae3eeb92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343443589,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1343443589,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343443589,
+    "wof:lastmodified":1537676806,
+    "wof:name":"San Hilarion",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34416999999998,
+    -11.24944,
+    -77.34416999999998,
+    -11.24944
+],
+  "geometry": {"coordinates":[-77.34416999999998,-11.24944],"type":"Point"}
+}

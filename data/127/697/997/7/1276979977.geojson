@@ -1,0 +1,74 @@
+{
+  "id": 1276979977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62222,-16.20944,-73.62222,-16.20944",
+    "geom:latitude":-16.20944,
+    "geom:longitude":-73.62222,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40303.0",
+    "gn:asciiname":"Atico",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3947150,
+    "gn:latitude":-16.20944,
+    "gn:longitude":-73.62222,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Atico",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alico",
+        "Atico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947150
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8129cb267bad971d68516102d48fbdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1276979977,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1276979977,
+    "wof:lastmodified":1537676863,
+    "wof:name":"Atico",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62222,
+    -16.20944,
+    -73.62222,
+    -16.20944
+],
+  "geometry": {"coordinates":[-73.62222,-16.20944],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277069807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63861,-14.36333,-73.63861,-14.36333",
+    "geom:latitude":-14.36333,
+    "geom:longitude":-73.63861,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50908.0",
+    "gn:asciiname":"Sora Sora",
+    "gn:country_code":"PE",
+    "gn:dem":4321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959872,
+    "gn:latitude":-14.36333,
+    "gn:longitude":-73.63861,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sora Sora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959872
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3befe123bf998e4146153cf98a1e6236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693947,
+            "locality_id":1277069807,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1277069807,
+    "wof:lastmodified":1536786763,
+    "wof:name":"Sora Sora",
+    "wof:parent_id":1108693947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63861,
+    -14.36333,
+    -73.63861,
+    -14.36333
+],
+  "geometry": {"coordinates":[-73.63861,-14.36333],"type":"Point"}
+}

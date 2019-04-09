@@ -1,0 +1,69 @@
+{
+  "id": 1226782073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.85779,-15.91448,-72.85779,-15.91448",
+    "geom:latitude":-15.91448,
+    "geom:longitude":-72.85779,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40602.0",
+    "gn:asciiname":"Hacienda Antane",
+    "gn:country_code":"PE",
+    "gn:dem":2048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940571,
+    "gn:latitude":-15.91448,
+    "gn:longitude":-72.85779,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hacienda Antane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940571
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7b4d9f93a5bdd8c85af1adca9650bb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1226782073,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226782073,
+    "wof:lastmodified":1536663288,
+    "wof:name":"Hacienda Antane",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.85779000000002,
+    -15.91448,
+    -72.85779000000002,
+    -15.91448
+],
+  "geometry": {"coordinates":[-72.85779000000002,-15.91448],"type":"Point"}
+}

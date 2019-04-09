@@ -1,0 +1,63 @@
+{
+  "id": 1209670253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.61461,-11.0574,-72.61461,-11.0574",
+    "geom:latitude":-11.0574,
+    "geom:longitude":-72.61461,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250202.0",
+    "gn:asciiname":"Pongo Farol",
+    "gn:country_code":"PE",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6308061,
+    "gn:latitude":-11.0574,
+    "gn:longitude":-72.61461,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pongo Farol",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308061
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b74f011c566eb3fd5cccc2b3c0302d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209670253
+        }
+    ],
+    "wof:id":1209670253,
+    "wof:lastmodified":1536279947,
+    "wof:name":"Pongo Farol",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.61461,
+    -11.0574,
+    -72.61461,
+    -11.0574
+],
+  "geometry": {"coordinates":[-72.61461,-11.0574],"type":"Point"}
+}

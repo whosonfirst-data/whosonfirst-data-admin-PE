@@ -1,0 +1,69 @@
+{
+  "id": 1226132539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83764,-12.5202,-73.83764,-12.5202",
+    "geom:latitude":-12.5202,
+    "geom:longitude":-73.83764,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80910.0",
+    "gn:asciiname":"Picharibajo",
+    "gn:country_code":"PE",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8689266,
+    "gn:latitude":-12.5202,
+    "gn:longitude":-73.83764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Picharibajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8689266
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d2d184c9d2d56a9146fcb9488529e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1226132539,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226132539,
+    "wof:lastmodified":1537093559,
+    "wof:name":"Picharibajo",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83764000000002,
+    -12.5202,
+    -73.83764000000002,
+    -12.5202
+],
+  "geometry": {"coordinates":[-73.83764000000002,-12.5202],"type":"Point"}
+}

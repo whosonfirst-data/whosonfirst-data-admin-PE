@@ -1,0 +1,71 @@
+{
+  "id": 1276308795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37545,-11.38392,-69.37545,-11.38392",
+    "geom:latitude":-11.38392,
+    "geom:longitude":-69.37545,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"La Merced",
+    "gn:country_code":"PE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512517,
+    "gn:latitude":-11.38392,
+    "gn:longitude":-69.37545,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"La Merced",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Merced"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512517
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3774d7b5dd423efbb40fa4fe69a8914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1276308795,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1276308795,
+    "wof:lastmodified":1537676980,
+    "wof:name":"La Merced",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37545,
+    -11.38392,
+    -69.37545,
+    -11.38392
+],
+  "geometry": {"coordinates":[-69.37545,-11.38392],"type":"Point"}
+}

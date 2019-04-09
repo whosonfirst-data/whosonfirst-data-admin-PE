@@ -1,0 +1,74 @@
+{
+  "id": 1309676477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.24741,-4.55364,-80.24741,-4.55364",
+    "geom:latitude":-4.55364,
+    "geom:longitude":-80.24741,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"El Cortezo",
+    "gn:country_code":"PE",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697759,
+    "gn:latitude":-4.55364,
+    "gn:longitude":-80.24741,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"El Cortezo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corteza",
+        "Cortezo",
+        "El Cortezo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697759
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"55d7e0c31ef91c47a4ff35b74000c60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1309676477,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1309676477,
+    "wof:lastmodified":1537676621,
+    "wof:name":"El Cortezo",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.24741,
+    -4.55364,
+    -80.24741,
+    -4.55364
+],
+  "geometry": {"coordinates":[-80.24741,-4.55364],"type":"Point"}
+}

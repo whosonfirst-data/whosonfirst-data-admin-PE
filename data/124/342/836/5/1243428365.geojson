@@ -1,0 +1,69 @@
+{
+  "id": 1243428365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62225,-15.79548,-70.62225,-15.79548",
+    "geom:latitude":-15.79548,
+    "geom:longitude":-70.62225,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:admin3_code":"211103.0",
+    "gn:asciiname":"Quimsachata Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":4193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930789,
+    "gn:latitude":-15.79548,
+    "gn:longitude":-70.62225,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quimsachata Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421167831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930789
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05e2b393c1b1b3edf9c51e29f277cc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421167831,
+            "locality_id":1243428365,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243428365,
+    "wof:lastmodified":1536830615,
+    "wof:name":"Quimsachata Hacienda",
+    "wof:parent_id":421167831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62225,
+    -15.79548,
+    -70.62225,
+    -15.79548
+],
+  "geometry": {"coordinates":[-70.62224999999999,-15.79548],"type":"Point"}
+}

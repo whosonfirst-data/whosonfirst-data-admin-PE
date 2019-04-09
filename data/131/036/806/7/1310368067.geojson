@@ -1,0 +1,69 @@
+{
+  "id": 1310368067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.24833,-16.93056,-71.24833,-16.93056",
+    "geom:latitude":-16.93056,
+    "geom:longitude":-71.24833,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180205.0",
+    "gn:asciiname":"Samanto",
+    "gn:country_code":"PE",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929903,
+    "gn:latitude":-16.93056,
+    "gn:longitude":-71.24833,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Samanto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929903
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"49eac33eb3d98d285796555ba78369c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1310368067,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1310368067,
+    "wof:lastmodified":1536615518,
+    "wof:name":"Samanto",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.24833000000002,
+    -16.93056,
+    -71.24833000000002,
+    -16.93056
+],
+  "geometry": {"coordinates":[-71.24833000000002,-16.93056],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226810999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08566,-10.57382,-75.08566,-10.57382",
+    "geom:latitude":-10.57382,
+    "geom:longitude":-75.08566,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190307.0",
+    "gn:asciiname":"Puente Los Angeles",
+    "gn:country_code":"PE",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9819165,
+    "gn:latitude":-10.57382,
+    "gn:longitude":-75.08566,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Puente Los Angeles",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puente Los Angeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9819165
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bea039768805b67cb69d42ab2980c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1226810999,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1226810999,
+    "wof:lastmodified":1537676922,
+    "wof:name":"Puente Los Angeles",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08566,
+    -10.57382,
+    -75.08566,
+    -10.57382
+],
+  "geometry": {"coordinates":[-75.08566,-10.57382],"type":"Point"}
+}

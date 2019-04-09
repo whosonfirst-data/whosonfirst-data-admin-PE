@@ -1,0 +1,69 @@
+{
+  "id": 1193240217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13258,-9.87711,-75.13258,-9.87711",
+    "geom:latitude":-9.87711,
+    "geom:longitude":-75.13258,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1903.0",
+    "gn:admin3_code":"190306.0",
+    "gn:asciiname":"San Perdo de Longui",
+    "gn:country_code":"PE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304905,
+    "gn:latitude":-9.87711,
+    "gn:longitude":-75.13258,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"San Perdo de Longui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304905
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1b1d2d9cc3e5af3a368c163ca638c70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1193240217,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1193240217,
+    "wof:lastmodified":1536379234,
+    "wof:name":"San Perdo de Longui",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13258,
+    -9.87711,
+    -75.13258,
+    -9.87711
+],
+  "geometry": {"coordinates":[-75.13258,-9.87711],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276736941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82927,-4.63356,-79.82927,-4.63356",
+    "geom:latitude":-4.63356,
+    "geom:longitude":-79.82927,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200205.0",
+    "gn:asciiname":"La Banda",
+    "gn:country_code":"PE",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660835,
+    "gn:latitude":-4.63356,
+    "gn:longitude":-79.82927,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Banda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660835
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7a78ac1f1aa50d87cb7470ee69cd9560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1276736941,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276736941,
+    "wof:lastmodified":1536735244,
+    "wof:name":"La Banda",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82927,
+    -4.63356,
+    -79.82927,
+    -4.63356
+],
+  "geometry": {"coordinates":[-79.82926999999999,-4.63356],"type":"Point"}
+}

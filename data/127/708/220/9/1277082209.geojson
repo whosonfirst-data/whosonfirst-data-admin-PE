@@ -1,0 +1,78 @@
+{
+  "id": 1277082209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15,-8.85,-78.15,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":-78.15,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21804.0",
+    "gn:asciiname":"Huasquil",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696323,
+    "gn:latitude":-8.85,
+    "gn:longitude":-78.15,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huasquil",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Huasquil",
+        "Huasquilde Hacienda",
+        "Huatsquil",
+        "Huasquil Hacienda",
+        "Huasgull",
+        "Huasquil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696323
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fbb4d4678d36ab89ada2ca687e14b977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1277082209,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1277082209,
+    "wof:lastmodified":1537676603,
+    "wof:name":"Huasquil",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15,
+    -8.85,
+    -78.15,
+    -8.85
+],
+  "geometry": {"coordinates":[-78.15000000000001,-8.85],"type":"Point"}
+}

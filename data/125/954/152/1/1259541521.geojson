@@ -1,0 +1,73 @@
+{
+  "id": 1259541521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.22756,-17.49501,-70.22756,-17.49501",
+    "geom:latitude":-17.49501,
+    "geom:longitude":-70.22756,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230402.0",
+    "gn:asciiname":"Putina",
+    "gn:country_code":"PE",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931134,
+    "gn:latitude":-17.49501,
+    "gn:longitude":-70.22756,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Putina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putina Hacienda",
+        "Putina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931134
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9c17da70cddf2b6fdb7d48b9b5c42a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694033,
+            "locality_id":1259541521,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1259541521,
+    "wof:lastmodified":1537676718,
+    "wof:name":"Putina",
+    "wof:parent_id":1108694033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.22756,
+    -17.49501,
+    -70.22756,
+    -17.49501
+],
+  "geometry": {"coordinates":[-70.22756,-17.49501],"type":"Point"}
+}

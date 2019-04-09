@@ -1,0 +1,74 @@
+{
+  "id": 1276199915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73446,-13.80733,-69.73446,-13.80733",
+    "geom:latitude":-13.80733,
+    "geom:longitude":-69.73446,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Huanchicani",
+    "gn:country_code":"PE",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586892,
+    "gn:latitude":-13.80733,
+    "gn:longitude":-69.73446,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Huanchicani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huanchicani"
+    ],
+    "name:spa_x_variant":[
+        "Huanacuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586892
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c18f1f3d874a92c920018418abbf1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1276199915,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276199915,
+    "wof:lastmodified":1537677013,
+    "wof:name":"Huanchicani",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73446,
+    -13.80733,
+    -69.73446,
+    -13.80733
+],
+  "geometry": {"coordinates":[-69.73446,-13.80733],"type":"Point"}
+}

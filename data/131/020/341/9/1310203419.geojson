@@ -1,0 +1,68 @@
+{
+  "id": 1310203419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.48568,-12.81177,-74.48568,-12.81177",
+    "geom:latitude":-12.81177,
+    "geom:longitude":-74.48568,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Jasanja",
+    "gn:country_code":"PE",
+    "gn:dem":3303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651507,
+    "gn:latitude":-12.81177,
+    "gn:longitude":-74.48568,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Jasanja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651507
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2389ca7080e6d0fabe75280b703904fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1310203419,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310203419,
+    "wof:lastmodified":1536854172,
+    "wof:name":"Jasanja",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.48568,
+    -12.81177,
+    -74.48568,
+    -12.81177
+],
+  "geometry": {"coordinates":[-74.48568,-12.81177],"type":"Point"}
+}

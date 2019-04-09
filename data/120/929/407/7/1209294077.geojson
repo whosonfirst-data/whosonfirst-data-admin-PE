@@ -1,0 +1,63 @@
+{
+  "id": 1209294077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.10117,-11.12328,-76.10117,-11.12328",
+    "geom:latitude":-11.12328,
+    "geom:longitude":-76.10117,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1205.0",
+    "gn:admin3_code":"120503.0",
+    "gn:asciiname":"Auquevilca",
+    "gn:country_code":"PE",
+    "gn:dem":4120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669266,
+    "gn:latitude":-11.12328,
+    "gn:longitude":-76.10117,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Auquevilca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669266
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4293c06eb4b511ee84cbb9ff86399cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209294077
+        }
+    ],
+    "wof:id":1209294077,
+    "wof:lastmodified":1536291593,
+    "wof:name":"Auquevilca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.10117,
+    -11.12328,
+    -76.10117,
+    -11.12328
+],
+  "geometry": {"coordinates":[-76.10117,-11.12328],"type":"Point"}
+}

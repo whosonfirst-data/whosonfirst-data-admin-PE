@@ -1,0 +1,70 @@
+{
+  "id": 1209089535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90053,-6.85316,-79.90053,-6.85316",
+    "geom:latitude":-6.85316,
+    "geom:longitude":-79.90053,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140106.0",
+    "gn:asciiname":"Zorro Cote",
+    "gn:country_code":"PE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690605,
+    "gn:latitude":-6.85316,
+    "gn:longitude":-79.90053,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Zorro Cote",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zorro Cote"
+    ],
+    "name:spa_x_variant":[
+        "Zorro-Cote",
+        "Cote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690605
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"06d5213819cef4b148677d05e02c6368",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209089535
+        }
+    ],
+    "wof:id":1209089535,
+    "wof:lastmodified":1537676524,
+    "wof:name":"Zorro Cote",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90053,
+    -6.85316,
+    -79.90053,
+    -6.85316
+],
+  "geometry": {"coordinates":[-79.90053,-6.85316],"type":"Point"}
+}

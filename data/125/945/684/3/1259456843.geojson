@@ -1,0 +1,74 @@
+{
+  "id": 1259456843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.53333,-15.21667,-69.53333,-15.21667",
+    "geom:latitude":-15.21667,
+    "geom:longitude":-69.53333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210606.0",
+    "gn:asciiname":"Rosaspata",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3930244,
+    "gn:latitude":-15.21667,
+    "gn:longitude":-69.53333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Rosaspata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosapata",
+        "Rosaspata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930244
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4b585ee82f3572261930e7ae6ea68069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1259456843,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259456843,
+    "wof:lastmodified":1537676710,
+    "wof:name":"Rosaspata",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.53333,
+    -15.21667,
+    -69.53333,
+    -15.21667
+],
+  "geometry": {"coordinates":[-69.53333000000001,-15.21667],"type":"Point"}
+}

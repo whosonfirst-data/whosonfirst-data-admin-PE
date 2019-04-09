@@ -1,0 +1,72 @@
+{
+  "id": 1293887065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.91891,-6.04289,-77.91891,-6.04289",
+    "geom:latitude":-6.04289,
+    "geom:longitude":-77.91891,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10311.0",
+    "gn:asciiname":"Valera",
+    "gn:country_code":"PE",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691003,
+    "gn:latitude":-6.04289,
+    "gn:longitude":-77.91891,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Valera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691003
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"361319129101c8d5e44ce362adba92d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694047,
+            "locality_id":1293887065,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1293887065,
+    "wof:lastmodified":1537676530,
+    "wof:name":"Valera",
+    "wof:parent_id":1108694047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.91891,
+    -6.04289,
+    -77.91891,
+    -6.04289
+],
+  "geometry": {"coordinates":[-77.91891,-6.04289],"type":"Point"}
+}

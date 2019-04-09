@@ -1,0 +1,69 @@
+{
+  "id": 1226016535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72615,-7.84524,-74.72615,-7.84524",
+    "geom:latitude":-7.84524,
+    "geom:longitude":-74.72615,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1606.0",
+    "gn:admin3_code":"160603.0",
+    "gn:asciiname":"Tintiboya",
+    "gn:country_code":"PE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735097,
+    "gn:latitude":-7.84524,
+    "gn:longitude":-74.72615,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tintiboya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421187865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735097
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e32e5803eb87a717a619964efc49801b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187865,
+            "locality_id":1226016535,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1226016535,
+    "wof:lastmodified":1536767848,
+    "wof:name":"Tintiboya",
+    "wof:parent_id":421187865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72615,
+    -7.84524,
+    -74.72615,
+    -7.84524
+],
+  "geometry": {"coordinates":[-74.72615,-7.84524],"type":"Point"}
+}

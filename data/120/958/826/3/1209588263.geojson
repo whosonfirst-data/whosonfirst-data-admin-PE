@@ -1,0 +1,63 @@
+{
+  "id": 1209588263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91667,-11.23333,-76.91667,-11.23333",
+    "geom:latitude":-11.23333,
+    "geom:longitude":-76.91667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150606.0",
+    "gn:asciiname":"Cachoalin",
+    "gn:country_code":"PE",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946354,
+    "gn:latitude":-11.23333,
+    "gn:longitude":-76.91667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cachoalin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946354
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c330dd51715b325355beab0bba49763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209588263
+        }
+    ],
+    "wof:id":1209588263,
+    "wof:lastmodified":1536282562,
+    "wof:name":"Cachoalin",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91667,
+    -11.23333,
+    -76.91667,
+    -11.23333
+],
+  "geometry": {"coordinates":[-76.91667,-11.23333],"type":"Point"}
+}

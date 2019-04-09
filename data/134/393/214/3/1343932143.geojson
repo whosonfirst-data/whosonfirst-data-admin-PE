@@ -1,0 +1,73 @@
+{
+  "id": 1343932143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70917,-4.53759,-79.70917,-4.53759",
+    "geom:latitude":-4.53759,
+    "geom:longitude":-79.70917,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Chocan",
+    "gn:country_code":"PE",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698208,
+    "gn:latitude":-4.53759,
+    "gn:longitude":-79.70917,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Choc\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chocan Ciudad",
+        "Choc\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698208
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"878e52af143716e6cc6c3f230500014f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1343932143,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343932143,
+    "wof:lastmodified":1537676627,
+    "wof:name":"Chocan",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70917,
+    -4.53759,
+    -79.70917,
+    -4.53759
+],
+  "geometry": {"coordinates":[-79.70917,-4.53759],"type":"Point"}
+}

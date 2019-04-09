@@ -1,0 +1,76 @@
+{
+  "id": 1343935167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.889,-14.96915,-74.889,-14.96915",
+    "geom:latitude":-14.96915,
+    "geom:longitude":-74.889,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110305.0",
+    "gn:asciiname":"Hacienda Copara",
+    "gn:country_code":"PE",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942279,
+    "gn:latitude":-14.96915,
+    "gn:longitude":-74.889,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Hacienda Copara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Copara"
+    ],
+    "name:und_x_variant":[
+        "Copara Hacienda",
+        "Copara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942279
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d2753547380851f1ecb83ced4111f43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1343935167,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1343935167,
+    "wof:lastmodified":1537676821,
+    "wof:name":"Hacienda Copara",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.889,
+    -14.96915,
+    -74.889,
+    -14.96915
+],
+  "geometry": {"coordinates":[-74.889,-14.96915],"type":"Point"}
+}

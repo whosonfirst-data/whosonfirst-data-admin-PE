@@ -1,0 +1,69 @@
+{
+  "id": 1209709199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80554,-9.53682,-76.80554,-9.53682",
+    "geom:latitude":-9.53682,
+    "geom:longitude":-76.80554,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100501.0",
+    "gn:asciiname":"Florida",
+    "gn:country_code":"PE",
+    "gn:dem":3686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665701,
+    "gn:latitude":-9.53682,
+    "gn:longitude":-76.80554,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665701
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3eb74b36df93e2ffe0d8c55255ace91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1209709199,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1209709199,
+    "wof:lastmodified":1536391464,
+    "wof:name":"Florida",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80554000000002,
+    -9.53682,
+    -76.80554000000002,
+    -9.53682
+],
+  "geometry": {"coordinates":[-76.80554000000002,-9.53682],"type":"Point"}
+}

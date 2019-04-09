@@ -1,0 +1,69 @@
+{
+  "id": 1293206219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97222,-15.40972,-71.97222,-15.40972",
+    "geom:latitude":-15.40972,
+    "geom:longitude":-71.97222,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40516.0",
+    "gn:asciiname":"Huacchane",
+    "gn:country_code":"PE",
+    "gn:dem":4302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3955663,
+    "gn:latitude":-15.40972,
+    "gn:longitude":-71.97222,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huacchane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3955663
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b48be675de8655a55af51b23af484bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1293206219,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1293206219,
+    "wof:lastmodified":1536695727,
+    "wof:name":"Huacchane",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97222,
+    -15.40972,
+    -71.97222,
+    -15.40972
+],
+  "geometry": {"coordinates":[-71.97221999999999,-15.40972],"type":"Point"}
+}

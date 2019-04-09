@@ -1,0 +1,69 @@
+{
+  "id": 1276670559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5861,-10.01599,-77.5861,-10.01599",
+    "geom:latitude":-10.01599,
+    "geom:longitude":-77.5861,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21709.0",
+    "gn:asciiname":"Coto",
+    "gn:country_code":"PE",
+    "gn:dem":3371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942036,
+    "gn:latitude":-10.01599,
+    "gn:longitude":-77.5861,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Coto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942036
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"085d4d0c9f3cb6761911fe7a55db6ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202211,
+            "locality_id":1276670559,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276670559,
+    "wof:lastmodified":1536822912,
+    "wof:name":"Coto",
+    "wof:parent_id":421202211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5861,
+    -10.01599,
+    -77.5861,
+    -10.01599
+],
+  "geometry": {"coordinates":[-77.5861,-10.01599],"type":"Point"}
+}

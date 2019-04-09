@@ -1,0 +1,73 @@
+{
+  "id": 1209839037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33657,-15.5938,-71.33657,-15.5938",
+    "geom:latitude":-15.5938,
+    "geom:longitude":-71.33657,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Llapayanahuara",
+    "gn:country_code":"PE",
+    "gn:dem":4318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925803,
+    "gn:latitude":-15.5938,
+    "gn:longitude":-71.33657,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Llapayanahuara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanahuara de Llapa",
+        "Llapayanahuara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925803
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9543330b8f4d13ce4ac9d0c376b7cf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1209839037,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1209839037,
+    "wof:lastmodified":1537676665,
+    "wof:name":"Llapayanahuara",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33657,
+    -15.5938,
+    -71.33657,
+    -15.5938
+],
+  "geometry": {"coordinates":[-71.33656999999999,-15.5938],"type":"Point"}
+}

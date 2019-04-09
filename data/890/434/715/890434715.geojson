@@ -1,0 +1,72 @@
+{
+  "id": 890434715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57431,-14.13918,-75.57431,-14.13918",
+    "geom:latitude":-14.13918,
+    "geom:longitude":-75.57431,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":531,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Llauca"
+    ],
+    "qs:name":"Rosario de Yauca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925601,
+        "gp:id":410618,
+        "qs:id":585858,
+        "wd:id":"Q3825470",
+        "wk:page":"Yauca del Rosario District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052037,
+    "wof:geomhash":"0880a8604806f273da972e5cebbffe99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":890434715,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":890434715,
+    "wof:lastmodified":1527792946,
+    "wof:name":"Rosario de Yauca",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:population":531,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57431,
+    -14.13918,
+    -75.57431,
+    -14.13918
+],
+  "geometry": {"coordinates":[-75.57431,-14.13918],"type":"Point"}
+}

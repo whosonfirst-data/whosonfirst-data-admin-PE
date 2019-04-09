@@ -1,0 +1,69 @@
+{
+  "id": 1276886213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99225,-9.12356,-76.99225,-9.12356",
+    "geom:latitude":-9.12356,
+    "geom:longitude":-76.99225,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"203.0",
+    "gn:admin3_code":"20304.0",
+    "gn:asciiname":"Jegay",
+    "gn:country_code":"PE",
+    "gn:dem":2891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675709,
+    "gn:latitude":-9.12356,
+    "gn:longitude":-76.99225,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Jegay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675709
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ceaa1907309470049643b907aedc5d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694017,
+            "locality_id":1276886213,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276886213,
+    "wof:lastmodified":1537031245,
+    "wof:name":"Jegay",
+    "wof:parent_id":1108694017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99225,
+    -9.12356,
+    -76.99225,
+    -9.12356
+],
+  "geometry": {"coordinates":[-76.99225,-9.12356],"type":"Point"}
+}

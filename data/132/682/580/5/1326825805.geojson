@@ -1,0 +1,69 @@
+{
+  "id": 1326825805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.35111,-13.57778,-75.35111,-13.57778",
+    "geom:latitude":-13.57778,
+    "geom:longitude":-75.35111,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90604.0",
+    "gn:asciiname":"Chacapampa",
+    "gn:country_code":"PE",
+    "gn:dem":2488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6368737,
+    "gn:latitude":-13.57778,
+    "gn:longitude":-75.35111,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368737
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"02005857d4a4b2c01a0f1727abad75dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1326825805,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1326825805,
+    "wof:lastmodified":1537055676,
+    "wof:name":"Chacapampa",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35110999999998,
+    -13.57778,
+    -75.35110999999998,
+    -13.57778
+],
+  "geometry": {"coordinates":[-75.35110999999998,-13.57778],"type":"Point"}
+}

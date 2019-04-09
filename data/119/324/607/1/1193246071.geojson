@@ -1,0 +1,70 @@
+{
+  "id": 1193246071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.74346,-9.79673,-70.74346,-9.79673",
+    "geom:latitude":-9.79673,
+    "geom:longitude":-70.74346,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2504.0",
+    "gn:admin3_code":"250401.0",
+    "gn:asciiname":"Puerto Esperanza",
+    "gn:country_code":"PE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697109,
+    "gn:latitude":-9.79673,
+    "gn:longitude":-70.74346,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puerto Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        1108693893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697109,
+        "wk:page":"Esperanza%2C_Ucayali"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31bc902e5534307c05baa63e2023ffcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693893,
+            "locality_id":1193246071,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1193246071,
+    "wof:lastmodified":1537570235,
+    "wof:name":"Puerto Esperanza",
+    "wof:parent_id":1108693893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.74346,
+    -9.79673,
+    -70.74346,
+    -9.79673
+],
+  "geometry": {"coordinates":[-70.74346,-9.79673],"type":"Point"}
+}

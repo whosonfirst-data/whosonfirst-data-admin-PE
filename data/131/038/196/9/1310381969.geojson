@@ -1,0 +1,73 @@
+{
+  "id": 1310381969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52752,-11.69367,-75.52752,-11.69367",
+    "geom:latitude":-11.69367,
+    "geom:longitude":-75.52752,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120422.0",
+    "gn:asciiname":"Pacapaccha",
+    "gn:country_code":"PE",
+    "gn:dem":3587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933832,
+    "gn:latitude":-11.69367,
+    "gn:longitude":-75.52752,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pacapaccha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pacapacha",
+        "Pacapaccha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933832
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2b13521d9ffe0a80d43b424bf98b36c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1310381969,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1310381969,
+    "wof:lastmodified":1537676742,
+    "wof:name":"Pacapaccha",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52752,
+    -11.69367,
+    -75.52752,
+    -11.69367
+],
+  "geometry": {"coordinates":[-75.52752,-11.69367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343525141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38896,-4.90915,-76.38896,-4.90915",
+    "geom:latitude":-4.90915,
+    "geom:longitude":-76.38896,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1607.0",
+    "gn:admin3_code":"160705.0",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"PE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692301,
+    "gn:latitude":-4.90915,
+    "gn:longitude":-76.38896,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ram\u00e1n",
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692301
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c07e3d482330465e90aba34a9280fc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":1343525141,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343525141,
+    "wof:lastmodified":1537676548,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108694051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38896,
+    -4.90915,
+    -76.38896,
+    -4.90915
+],
+  "geometry": {"coordinates":[-76.38896,-4.90915],"type":"Point"}
+}

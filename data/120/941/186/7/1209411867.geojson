@@ -1,0 +1,63 @@
+{
+  "id": 1209411867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11417,-13.52806,-72.11417,-13.52806",
+    "geom:latitude":-13.52806,
+    "geom:longitude":-72.11417,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80301.0",
+    "gn:asciiname":"Patayjasa",
+    "gn:country_code":"PE",
+    "gn:dem":4045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392535,
+    "gn:latitude":-13.52806,
+    "gn:longitude":-72.11417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Patayjasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392535
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"729e33154b5a99f0885b75d5de28db26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209411867
+        }
+    ],
+    "wof:id":1209411867,
+    "wof:lastmodified":1536287812,
+    "wof:name":"Patayjasa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11417,
+    -13.52806,
+    -72.11417,
+    -13.52806
+],
+  "geometry": {"coordinates":[-72.11417,-13.52806],"type":"Point"}
+}

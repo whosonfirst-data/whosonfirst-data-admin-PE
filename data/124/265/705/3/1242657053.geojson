@@ -1,0 +1,69 @@
+{
+  "id": 1242657053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02636,-11.15112,-74.02636,-11.15112",
+    "geom:latitude":-11.15112,
+    "geom:longitude":-74.02636,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120608.0",
+    "gn:asciiname":"Boca Masarobeni",
+    "gn:country_code":"PE",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6395720,
+    "gn:latitude":-11.15112,
+    "gn:longitude":-74.02636,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Boca Masarobeni",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395720
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a4f124f46171bce84ff941b1c42668e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1242657053,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1242657053,
+    "wof:lastmodified":1536949709,
+    "wof:name":"Boca Masarobeni",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02636,
+    -11.15112,
+    -74.02636,
+    -11.15112
+],
+  "geometry": {"coordinates":[-74.02636,-11.15112],"type":"Point"}
+}

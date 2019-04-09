@@ -1,0 +1,63 @@
+{
+  "id": 1209090301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62536,-12.97288,-74.62536,-12.97288",
+    "geom:latitude":-12.97288,
+    "geom:longitude":-74.62536,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90307.0",
+    "gn:asciiname":"Canaycasa",
+    "gn:country_code":"PE",
+    "gn:dem":3898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662105,
+    "gn:latitude":-12.97288,
+    "gn:longitude":-74.62536,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ca\u00f1aycasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662105
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3d59da139f0ef58b10932e694ddfac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209090301
+        }
+    ],
+    "wof:id":1209090301,
+    "wof:lastmodified":1536298057,
+    "wof:name":"Canaycasa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62536,
+    -12.97288,
+    -74.62536,
+    -12.97288
+],
+  "geometry": {"coordinates":[-74.62536,-12.97288],"type":"Point"}
+}

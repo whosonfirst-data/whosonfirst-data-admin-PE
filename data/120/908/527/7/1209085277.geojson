@@ -1,0 +1,63 @@
+{
+  "id": 1209085277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.43333,-7.25,-79.43333,-7.25",
+    "geom:latitude":-7.25,
+    "geom:longitude":-79.43333,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1307.0",
+    "gn:admin3_code":"130702.0",
+    "gn:asciiname":"La Huaca",
+    "gn:country_code":"PE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695826,
+    "gn:latitude":-7.25,
+    "gn:longitude":-79.43333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Huaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695826
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"086eb5a662a92bc27fbfee833f1abefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209085277
+        }
+    ],
+    "wof:id":1209085277,
+    "wof:lastmodified":1536298207,
+    "wof:name":"La Huaca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.43333,
+    -7.25,
+    -79.43333,
+    -7.25
+],
+  "geometry": {"coordinates":[-79.43333,-7.25],"type":"Point"}
+}

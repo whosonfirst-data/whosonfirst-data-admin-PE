@@ -1,0 +1,63 @@
+{
+  "id": 1209062593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19389,-6.12917,-77.19389,-6.12917",
+    "geom:latitude":-6.12917,
+    "geom:longitude":-77.19389,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2208.0",
+    "gn:admin3_code":"220801.0",
+    "gn:asciiname":"Independencia",
+    "gn:country_code":"PE",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389188,
+    "gn:latitude":-6.12917,
+    "gn:longitude":-77.19389,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Independencia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389188
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"153fd22d734c9227d22f2a15c80c6a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209062593
+        }
+    ],
+    "wof:id":1209062593,
+    "wof:lastmodified":1536298906,
+    "wof:name":"Independencia",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19389,
+    -6.1291699999999985,
+    -77.19389,
+    -6.1291699999999985
+],
+  "geometry": {"coordinates":[-77.19389,-6.12917],"type":"Point"}
+}

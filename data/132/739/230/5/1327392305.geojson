@@ -1,0 +1,73 @@
+{
+  "id": 1327392305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79251,-8.09214,-76.79251,-8.09214",
+    "geom:latitude":-8.09214,
+    "geom:longitude":-76.79251,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2210.0",
+    "gn:admin3_code":"221003.0",
+    "gn:asciiname":"Palina",
+    "gn:country_code":"PE",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694079,
+    "gn:latitude":-8.09214,
+    "gn:longitude":-76.79251,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Palina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palma",
+        "Palina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421170671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694079
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"809d9d45aa4566bcf8ac4dab5bf4bfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170671,
+            "locality_id":1327392305,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1327392305,
+    "wof:lastmodified":1537676574,
+    "wof:name":"Palina",
+    "wof:parent_id":421170671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79251,
+    -8.09214,
+    -76.79251,
+    -8.09214
+],
+  "geometry": {"coordinates":[-76.79250999999999,-8.09214],"type":"Point"}
+}

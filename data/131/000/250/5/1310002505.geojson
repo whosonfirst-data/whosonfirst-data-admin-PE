@@ -1,0 +1,73 @@
+{
+  "id": 1310002505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.69405,-14.18396,-71.69405,-14.18396",
+    "geom:latitude":-14.18396,
+    "geom:longitude":-71.69405,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81006.0",
+    "gn:asciiname":"Checcapucara",
+    "gn:country_code":"PE",
+    "gn:dem":3818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944137,
+    "gn:latitude":-14.18396,
+    "gn:longitude":-71.69405,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Checcapucara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Checa Pucar\u00e1",
+        "Checcapucara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944137
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7477b37b6172655efa746a0385192c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194639,
+            "locality_id":1310002505,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1310002505,
+    "wof:lastmodified":1537676836,
+    "wof:name":"Checcapucara",
+    "wof:parent_id":421194639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.69405,
+    -14.18396,
+    -71.69405,
+    -14.18396
+],
+  "geometry": {"coordinates":[-71.69405,-14.18396],"type":"Point"}
+}

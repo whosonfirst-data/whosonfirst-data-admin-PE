@@ -1,0 +1,71 @@
+{
+  "id": 1343738361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.55639,-11.24795,-69.55639,-11.24795",
+    "geom:latitude":-11.24795,
+    "geom:longitude":-69.55639,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Agua Dulce",
+    "gn:country_code":"PE",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512983,
+    "gn:latitude":-11.24795,
+    "gn:longitude":-69.55639,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Agua Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua Dulce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512983
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c3237b03ab3b2b477e0bf60cd88aaaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1343738361,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1343738361,
+    "wof:lastmodified":1537676985,
+    "wof:name":"Agua Dulce",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.55639000000001,
+    -11.24795,
+    -69.55639000000001,
+    -11.24795
+],
+  "geometry": {"coordinates":[-69.55639000000001,-11.24795],"type":"Point"}
+}

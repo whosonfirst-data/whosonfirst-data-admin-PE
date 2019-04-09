@@ -1,0 +1,66 @@
+{
+  "id": 890436345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.1508,-12.57534,-70.1508,-12.57534",
+    "geom:latitude":-12.57534,
+    "geom:longitude":-70.1508,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":270,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"San Juan Chico",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        421170665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959425,
+        "gp:id":420478,
+        "qs:id":97045
+    },
+    "wof:country":"PE",
+    "wof:created":1469052108,
+    "wof:geomhash":"ef4d2d0ce80158de049160974b4ada92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170665,
+            "locality_id":890436345,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":890436345,
+    "wof:lastmodified":1505343553,
+    "wof:name":"San Juan Chico",
+    "wof:parent_id":421170665,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.1508,
+    -12.57534,
+    -70.1508,
+    -12.57534
+],
+  "geometry": {"coordinates":[-70.1508,-12.57534],"type":"Point"}
+}

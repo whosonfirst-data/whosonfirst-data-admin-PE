@@ -1,0 +1,69 @@
+{
+  "id": 1277039521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85899,-5.32187,-79.85899,-5.32187",
+    "geom:latitude":-5.32187,
+    "geom:longitude":-79.85899,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200406.0",
+    "gn:asciiname":"Mangamanguilla",
+    "gn:country_code":"PE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694989,
+    "gn:latitude":-5.32187,
+    "gn:longitude":-79.85899,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mangamanguilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694989
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4214aa32e0ef62f4317c4c754a7dd5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1277039521,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1277039521,
+    "wof:lastmodified":1536826303,
+    "wof:name":"Mangamanguilla",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85899,
+    -5.32187,
+    -79.85899,
+    -5.32187
+],
+  "geometry": {"coordinates":[-79.85899000000001,-5.32187],"type":"Point"}
+}

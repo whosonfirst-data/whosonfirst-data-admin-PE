@@ -1,0 +1,87 @@
+{
+  "id": 421192219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79833,-11.37278,-76.79833,-11.37278",
+    "geom:latitude":-11.37278,
+    "geom:longitude":-76.79833,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Perla Alta"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3936920,
+    "qs:gn_pop":0,
+    "qs:name":"La Perla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Provincia Constitucional del Callao",
+    "qs:photos":333,
+    "qs:photos_1k":67,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":333,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165425,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":406896,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936920,
+        "gp:id":406896,
+        "qs:id":1165425
+    },
+    "wof:country":"PE",
+    "wof:created":1459009729,
+    "wof:geomhash":"ffa43e2f15fb1d4d3ad8fb55a48d3232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":421192219,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":421192219,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421192219,
+    "wof:lastmodified":1501269428,
+    "wof:name":"La Perla",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79833,
+    -11.37278,
+    -76.79833,
+    -11.37278
+],
+  "geometry": {"coordinates":[-76.79833000000001,-11.37278],"type":"Point"}
+}

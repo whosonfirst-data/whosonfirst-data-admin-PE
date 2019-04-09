@@ -1,0 +1,69 @@
+{
+  "id": 1193000223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,-2.66667,-72.23333,-2.66667",
+    "geom:latitude":-2.66667,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160109.0",
+    "gn:asciiname":"Purma Nicoma",
+    "gn:country_code":"PE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3693095,
+    "gn:latitude":-2.66667,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Purma Nicoma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693095
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aab2ecb7e26ddcb9e3a2640c0e32aa25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1193000223,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1193000223,
+    "wof:lastmodified":1536371433,
+    "wof:name":"Purma Nicoma",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    -2.66667,
+    -72.23333000000002,
+    -2.66667
+],
+  "geometry": {"coordinates":[-72.23333000000002,-2.66667],"type":"Point"}
+}

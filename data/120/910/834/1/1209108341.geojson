@@ -1,0 +1,63 @@
+{
+  "id": 1209108341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.625,-9.36389,-77.625,-9.36389",
+    "geom:latitude":-9.36389,
+    "geom:longitude":-77.625,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Pampacancha",
+    "gn:country_code":"PE",
+    "gn:dem":3295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380370,
+    "gn:latitude":-9.36389,
+    "gn:longitude":-77.625,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pampacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380370
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"34645a0d3da712efad411cf74e14fc3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209108341
+        }
+    ],
+    "wof:id":1209108341,
+    "wof:lastmodified":1536297491,
+    "wof:name":"Pampacancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.625,
+    -9.36389,
+    -77.625,
+    -9.36389
+],
+  "geometry": {"coordinates":[-77.625,-9.36389],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209307565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.27015,-12.56086,-74.27015,-12.56086",
+    "geom:latitude":-12.56086,
+    "geom:longitude":-74.27015,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50402.0",
+    "gn:asciiname":"Ayana",
+    "gn:country_code":"PE",
+    "gn:dem":3759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650231,
+    "gn:latitude":-12.56086,
+    "gn:longitude":-74.27015,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ayana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650231
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ae5b4b68e1514bf613cc338835f5637e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307565
+        }
+    ],
+    "wof:id":1209307565,
+    "wof:lastmodified":1536291141,
+    "wof:name":"Ayana",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.27015,
+    -12.56086,
+    -74.27015,
+    -12.56086
+],
+  "geometry": {"coordinates":[-74.27015,-12.56086],"type":"Point"}
+}

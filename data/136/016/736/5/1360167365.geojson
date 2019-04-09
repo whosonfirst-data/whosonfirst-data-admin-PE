@@ -1,0 +1,77 @@
+{
+  "id": 1360167365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.50583,-11.42917,-76.50583,-11.42917",
+    "geom:latitude":-11.42917,
+    "geom:longitude":-76.50583,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150404.0",
+    "gn:asciiname":"Jashtachin",
+    "gn:country_code":"PE",
+    "gn:dem":4268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968427,
+    "gn:latitude":-11.42917,
+    "gn:longitude":-76.50583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jashtachin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968427
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da7b4ac3151a88c35bca634ae2e0855c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360167365,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360167365,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1360167365,
+    "wof:lastmodified":1536826071,
+    "wof:name":"Jashtachin",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.50583,
+    -11.42917,
+    -76.50583,
+    -11.42917
+],
+  "geometry": {"coordinates":[-76.50583,-11.42917],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226518895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51632,-11.24554,-75.51632,-11.24554",
+    "geom:latitude":-11.24554,
+    "geom:longitude":-75.51632,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120706.0",
+    "gn:asciiname":"Contaypaccha",
+    "gn:country_code":"PE",
+    "gn:dem":2508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3961395,
+    "gn:latitude":-11.24554,
+    "gn:longitude":-75.51632,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Contaypaccha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3961395
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"153c5c20e0022d0c06a6f8b8679f2f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1226518895,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226518895,
+    "wof:lastmodified":1537035290,
+    "wof:name":"Contaypaccha",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51632,
+    -11.24554,
+    -75.51632,
+    -11.24554
+],
+  "geometry": {"coordinates":[-75.51631999999999,-11.24554],"type":"Point"}
+}

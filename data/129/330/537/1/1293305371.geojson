@@ -1,0 +1,69 @@
+{
+  "id": 1293305371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.72806,-9.20556,-77.72806,-9.20556",
+    "geom:latitude":-9.20556,
+    "geom:longitude":-77.72806,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"220.0",
+    "gn:admin3_code":"22004.0",
+    "gn:asciiname":"Sacuayo",
+    "gn:country_code":"PE",
+    "gn:dem":3040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6380242,
+    "gn:latitude":-9.20556,
+    "gn:longitude":-77.72806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sacuayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6380242
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"33e8a1a063abab32a89ea16f54ee63a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":1293305371,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293305371,
+    "wof:lastmodified":1537047500,
+    "wof:name":"Sacuayo",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.72806,
+    -9.20556,
+    -77.72806,
+    -9.20556
+],
+  "geometry": {"coordinates":[-77.72806,-9.20556],"type":"Point"}
+}

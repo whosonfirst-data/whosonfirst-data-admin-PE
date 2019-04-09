@@ -1,0 +1,69 @@
+{
+  "id": 1343950117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.19579,-6.86237,-78.19579,-6.86237",
+    "geom:latitude":-6.86237,
+    "geom:longitude":-78.19579,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60301.0",
+    "gn:asciiname":"Many Pata",
+    "gn:country_code":"PE",
+    "gn:dem":3013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3752912,
+    "gn:latitude":-6.86237,
+    "gn:longitude":-78.19579,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Many Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752912
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee34671186b2978608a86a609d8d20c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":1343950117,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1343950117,
+    "wof:lastmodified":1537033538,
+    "wof:name":"Many Pata",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.19579,
+    -6.86237,
+    -78.19579,
+    -6.86237
+],
+  "geometry": {"coordinates":[-78.19579,-6.86237],"type":"Point"}
+}

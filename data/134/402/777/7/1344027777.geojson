@@ -1,0 +1,77 @@
+{
+  "id": 1344027777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.32289,-10.72795,-77.32289,-10.72795",
+    "geom:latitude":-10.72795,
+    "geom:longitude":-77.32289,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150802.0",
+    "gn:asciiname":"Chunchos",
+    "gn:country_code":"PE",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943241,
+    "gn:latitude":-10.72795,
+    "gn:longitude":-77.32289,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Chunchos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943241
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e3e07d5dd6b7ade2739208a58e9e10be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1344027777,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1344027777,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1344027777,
+    "wof:lastmodified":1536923590,
+    "wof:name":"Chunchos",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.32289,
+    -10.72795,
+    -77.32289,
+    -10.72795
+],
+  "geometry": {"coordinates":[-77.32289,-10.72795],"type":"Point"}
+}

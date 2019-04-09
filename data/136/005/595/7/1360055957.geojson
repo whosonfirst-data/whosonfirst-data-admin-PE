@@ -1,0 +1,69 @@
+{
+  "id": 1360055957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8,-6.56667,-79.8,-6.56667",
+    "geom:latitude":-6.56667,
+    "geom:longitude":-79.8,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Pompon Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693455,
+    "gn:latitude":-6.56667,
+    "gn:longitude":-79.8,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pompon Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693455
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"04ba98c43bf8ebc009bf0ab50a623abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1360055957,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1360055957,
+    "wof:lastmodified":1536987033,
+    "wof:name":"Pompon Bajo",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8,
+    -6.56667,
+    -79.8,
+    -6.56667
+],
+  "geometry": {"coordinates":[-79.8,-6.56667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226828569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43998,-12.18437,-75.43998,-12.18437",
+    "geom:latitude":-12.18437,
+    "geom:longitude":-75.43998,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1209.0",
+    "gn:admin3_code":"120909.0",
+    "gn:asciiname":"Accocancha Alto",
+    "gn:country_code":"PE",
+    "gn:dem":4158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948590,
+    "gn:latitude":-12.18437,
+    "gn:longitude":-75.43998,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Accocancha Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948590
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"87799bc22dc438d47c0bd36f2b2319c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188283,
+            "locality_id":1226828569,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226828569,
+    "wof:lastmodified":1537089901,
+    "wof:name":"Accocancha Alto",
+    "wof:parent_id":421188283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43998,
+    -12.18437,
+    -75.43998,
+    -12.18437
+],
+  "geometry": {"coordinates":[-75.43998000000001,-12.18437],"type":"Point"}
+}

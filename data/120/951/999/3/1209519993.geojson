@@ -1,0 +1,63 @@
+{
+  "id": 1209519993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15,-12.41667,-74.15,-12.41667",
+    "geom:latitude":-12.41667,
+    "geom:longitude":-74.15,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50408.0",
+    "gn:asciiname":"Congrao",
+    "gn:country_code":"PE",
+    "gn:dem":2574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942358,
+    "gn:latitude":-12.41667,
+    "gn:longitude":-74.15,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Congrao",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942358
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a96cf2ccb416b98a93cac115077a4ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209519993
+        }
+    ],
+    "wof:id":1209519993,
+    "wof:lastmodified":1536284611,
+    "wof:name":"Congrao",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15,
+    -12.41667,
+    -74.15,
+    -12.41667
+],
+  "geometry": {"coordinates":[-74.15000000000001,-12.41667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326518587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77282,-9.58392,-76.77282,-9.58392",
+    "geom:latitude":-9.58392,
+    "geom:longitude":-76.77282,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100501.0",
+    "gn:asciiname":"Yanapasa",
+    "gn:country_code":"PE",
+    "gn:dem":3883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665714,
+    "gn:latitude":-9.58392,
+    "gn:longitude":-76.77282,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yanapasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665714
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6d4e3ecf02966d1fb65b2d6bc31b3583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1326518587,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1326518587,
+    "wof:lastmodified":1537002984,
+    "wof:name":"Yanapasa",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77282,
+    -9.58392,
+    -76.77282,
+    -9.58392
+],
+  "geometry": {"coordinates":[-76.77282,-9.58392],"type":"Point"}
+}

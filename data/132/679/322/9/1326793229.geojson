@@ -1,0 +1,73 @@
+{
+  "id": 1326793229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85233,-17.00848,-70.85233,-17.00848",
+    "geom:latitude":-17.00848,
+    "geom:longitude":-70.85233,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180106.0",
+    "gn:asciiname":"Otora",
+    "gn:country_code":"PE",
+    "gn:dem":2591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933895,
+    "gn:latitude":-17.00848,
+    "gn:longitude":-70.85233,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Otora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Otora",
+        "Otora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933895
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"03741c0c6a1c82580f1dc76e369ac697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1326793229,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1326793229,
+    "wof:lastmodified":1537676742,
+    "wof:name":"Otora",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85233000000002,
+    -17.00848,
+    -70.85233000000002,
+    -17.00848
+],
+  "geometry": {"coordinates":[-70.85233000000002,-17.00848],"type":"Point"}
+}

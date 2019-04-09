@@ -1,0 +1,69 @@
+{
+  "id": 1360190363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95917,-15.18462,-71.95917,-15.18462",
+    "geom:latitude":-15.18462,
+    "geom:longitude":-71.95917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Percata",
+    "gn:country_code":"PE",
+    "gn:dem":4737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932514,
+    "gn:latitude":-15.18462,
+    "gn:longitude":-71.95917,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Percata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932514
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5a610ae9a19563f987837b513e4b7f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1360190363,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1360190363,
+    "wof:lastmodified":1536794020,
+    "wof:name":"Percata",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95917,
+    -15.18462,
+    -71.95917,
+    -15.18462
+],
+  "geometry": {"coordinates":[-71.95917,-15.18462],"type":"Point"}
+}

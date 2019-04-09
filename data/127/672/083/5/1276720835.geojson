@@ -1,0 +1,69 @@
+{
+  "id": 1276720835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.67228,-5.11254,-79.67228,-5.11254",
+    "geom:latitude":-5.11254,
+    "geom:longitude":-79.67228,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200410.0",
+    "gn:asciiname":"Choco",
+    "gn:country_code":"PE",
+    "gn:dem":3071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698201,
+    "gn:latitude":-5.11254,
+    "gn:longitude":-79.67228,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Choco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698201
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"137bd70f37056efba711729040e73bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1276720835,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276720835,
+    "wof:lastmodified":1536756823,
+    "wof:name":"Choco",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.67228,
+    -5.11254,
+    -79.67228,
+    -5.11254
+],
+  "geometry": {"coordinates":[-79.67228,-5.11254],"type":"Point"}
+}

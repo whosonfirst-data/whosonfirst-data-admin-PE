@@ -1,0 +1,78 @@
+{
+  "id": 1125942449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.44442,-14.2461,-71.44442,-14.2461",
+    "geom:latitude":-14.2461,
+    "geom:longitude":-71.44442,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3912,
+    "gn:population":3912,
+    "iso:country":"PE",
+    "lbl:latitude":-14.2461,
+    "lbl:longitude":-71.44442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3953385,
+    "qs_pg:gn_pop":3912,
+    "qs_pg:name":"Chignayhua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1047468,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3953385,
+        "qs_pg:id":1047468
+    },
+    "wof:country":"PE",
+    "wof:created":1497297164,
+    "wof:geomhash":"da1f69c6a1120791b2858c6f5a4c8d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187839,
+            "locality_id":1125942449,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1125942449,
+    "wof:lastmodified":1509402158,
+    "wof:name":"Chignayhua",
+    "wof:parent_id":421187839,
+    "wof:placetype":"locality",
+    "wof:population":3912,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.44442,
+    -14.2461,
+    -71.44442,
+    -14.2461
+],
+  "geometry": {"coordinates":[-71.44441999999999,-14.2461],"type":"Point"}
+}

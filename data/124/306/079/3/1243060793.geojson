@@ -1,0 +1,70 @@
+{
+  "id": 1243060793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.06667,-13.68333,-74.06667,-13.68333",
+    "geom:latitude":-13.68333,
+    "geom:longitude":-74.06667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51007.0",
+    "gn:asciiname":"Huancapi",
+    "gn:country_code":"PE",
+    "gn:dem":2568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939516,
+    "gn:latitude":-13.68333,
+    "gn:longitude":-74.06667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Huancapi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939516,
+        "wk:page":"Huancapi"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bb2a7bd93cceb1eed253fce37d3e5d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1243060793,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1243060793,
+    "wof:lastmodified":1537570259,
+    "wof:name":"Huancapi",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06667,
+    -13.68333,
+    -74.06667,
+    -13.68333
+],
+  "geometry": {"coordinates":[-74.06667,-13.68333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276625101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.10787,-5.82236,-80.10787,-5.82236",
+    "geom:latitude":-5.82236,
+    "geom:longitude":-80.10787,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"El Calabazo",
+    "gn:country_code":"PE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697410,
+    "gn:latitude":-5.82236,
+    "gn:longitude":-80.10787,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"El Calabazo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421170341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697410
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"15cc1828cb941b109a393006a9f58e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170341,
+            "locality_id":1276625101,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276625101,
+    "wof:lastmodified":1536884656,
+    "wof:name":"El Calabazo",
+    "wof:parent_id":421170341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.10786999999998,
+    -5.82236,
+    -80.10786999999998,
+    -5.82236
+],
+  "geometry": {"coordinates":[-80.10786999999998,-5.82236],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225809749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.12417,-4.51639,-81.12417,-4.51639",
+    "geom:latitude":-4.51639,
+    "geom:longitude":-81.12417,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Parinas",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3747800,
+    "gn:latitude":-4.51639,
+    "gn:longitude":-81.12417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pari\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosque Pari\u00f1as",
+        "Pari\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3747800
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0491c7aadb45c545ba5fbd361c872992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1225809749,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225809749,
+    "wof:lastmodified":1537676650,
+    "wof:name":"Parinas",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.12416999999998,
+    -4.51639,
+    -81.12416999999998,
+    -4.51639
+],
+  "geometry": {"coordinates":[-81.12416999999998,-4.51639],"type":"Point"}
+}

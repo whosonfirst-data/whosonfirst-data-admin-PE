@@ -1,0 +1,63 @@
+{
+  "id": 1209504327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94191,-12.15603,-74.94191,-12.15603",
+    "geom:latitude":-12.15603,
+    "geom:longitude":-74.94191,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90709.0",
+    "gn:asciiname":"Llachuajasa",
+    "gn:country_code":"PE",
+    "gn:dem":4360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663599,
+    "gn:latitude":-12.15603,
+    "gn:longitude":-74.94191,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llachuajasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663599
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0ae6ae31c745cb81677a130d5d5a70db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209504327
+        }
+    ],
+    "wof:id":1209504327,
+    "wof:lastmodified":1536285082,
+    "wof:name":"Llachuajasa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94191,
+    -12.15603,
+    -74.94191,
+    -12.15603
+],
+  "geometry": {"coordinates":[-74.94190999999999,-12.15603],"type":"Point"}
+}

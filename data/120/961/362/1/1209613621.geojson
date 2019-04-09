@@ -1,0 +1,67 @@
+{
+  "id": 1209613621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.52776,-13.28233,-73.52776,-13.28233",
+    "geom:latitude":-13.28233,
+    "geom:longitude":-73.52776,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50505.0",
+    "gn:asciiname":"Palljas",
+    "gn:country_code":"PE",
+    "gn:dem":3976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933417,
+    "gn:latitude":-13.28233,
+    "gn:longitude":-73.52776,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Palljas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallccas",
+        "Palljas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933417
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4a5aa7908b764cbf5778df0a6fcf3071",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209613621
+        }
+    ],
+    "wof:id":1209613621,
+    "wof:lastmodified":1537676739,
+    "wof:name":"Palljas",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.52776,
+    -13.28233,
+    -73.52776,
+    -13.28233
+],
+  "geometry": {"coordinates":[-73.52776,-13.28233],"type":"Point"}
+}

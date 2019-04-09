@@ -1,0 +1,74 @@
+{
+  "id": 1193149567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.03333,-8.98333,-78.03333,-8.98333",
+    "geom:latitude":-8.98333,
+    "geom:longitude":-78.03333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21802.0",
+    "gn:asciiname":"Paccha",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694160,
+    "gn:latitude":-8.98333,
+    "gn:longitude":-78.03333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Paccha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raccha",
+        "Paccha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694160
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"217aa0064b0bdc1d1bd54edace08deee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1193149567,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1193149567,
+    "wof:lastmodified":1537676575,
+    "wof:name":"Paccha",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.03333,
+    -8.98333,
+    -78.03333,
+    -8.98333
+],
+  "geometry": {"coordinates":[-78.03333000000001,-8.98333],"type":"Point"}
+}

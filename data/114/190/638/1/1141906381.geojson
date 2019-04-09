@@ -1,0 +1,194 @@
+{
+  "id": 1141906381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.0800037045,-14.4600101534,-72.0800037045,-14.4600101534",
+    "geom:latitude":-14.46001,
+    "geom:longitude":-72.080004,
+    "iso:country":"PE",
+    "lbl:latitude":-14.46001,
+    "lbl:longitude":-72.080004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Santu Tumas"
+    ],
+    "name:cat_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u6258\u99ac\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:ger_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Tom\u00e1s"
+    ],
+    "name:que_x_preferred":[
+        "Santu Tumas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0422\u043e\u043c\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:war_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Peru",
+    "ne:ADM0_A3":"PER",
+    "ne:ADM1NAME":"Cusco",
+    "ne:ADMIN1_COD":8,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3948917,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Santo Tomas",
+    "ne:GN_POP":4134,
+    "ne:GTOPO30":3679.0,
+    "ne:ISO_A2":"PE",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":-14.46001,
+    "ne:LONGITUDE":-72.080004,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Santo Tomas",
+    "ne:MAX_AREAKM":4.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-72.075,
+    "ne:MAX_BBXMIN":-72.091667,
+    "ne:MAX_BBYMAX":-14.441667,
+    "ne:MAX_BBYMIN":-14.466667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":9.0,
+    "ne:MAX_PERMI":6.0,
+    "ne:MAX_POP10":3257,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-72.0825,
+    "ne:MEAN_BBYC":-14.4525,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":4.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-72.075,
+    "ne:MIN_BBXMIN":-72.091667,
+    "ne:MIN_BBYMAX":-14.441667,
+    "ne:MIN_BBYMIN":-14.466667,
+    "ne:MIN_PERKM":9.0,
+    "ne:MIN_PERMI":6.0,
+    "ne:NAME":"Santo Tomas",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santo Tomas",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4134,
+    "ne:POP_MIN":3257,
+    "ne:POP_OTHER":3257,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Peru",
+    "ne:SOV_A3":"PER",
+    "ne:TIMEZONE":"America/Lima",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":-14.46001,
+    "reversegeo:longitude":-72.080004,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1974445"
+    },
+    "wof:country":"PE",
+    "wof:created":1499130579,
+    "wof:geomhash":"7bf7adc2bd4c32e3e02aa9c38c6c8fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1141906381,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1141906381,
+    "wof:lastmodified":1514495737,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08000370450242,
+    -14.46001015336174,
+    -72.08000370450242,
+    -14.46001015336174
+],
+  "geometry": {"coordinates":[-72.08000370450242,-14.46001015336174],"type":"Point"}
+}

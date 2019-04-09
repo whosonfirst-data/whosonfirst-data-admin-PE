@@ -1,0 +1,69 @@
+{
+  "id": 1242864201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65444,-13.20417,-71.65444,-13.20417",
+    "geom:latitude":-13.20417,
+    "geom:longitude":-71.65444,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"811.0",
+    "gn:admin3_code":"81103.0",
+    "gn:asciiname":"Challabamba",
+    "gn:country_code":"PE",
+    "gn:dem":2926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3944529,
+    "gn:latitude":-13.20417,
+    "gn:longitude":-71.65444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Challabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421202207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944529
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e78d302cc4768b101be19c945ceaf402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202207,
+            "locality_id":1242864201,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1242864201,
+    "wof:lastmodified":1536650647,
+    "wof:name":"Challabamba",
+    "wof:parent_id":421202207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65444000000002,
+    -13.20417,
+    -71.65444000000002,
+    -13.20417
+],
+  "geometry": {"coordinates":[-71.65444000000002,-13.20417],"type":"Point"}
+}

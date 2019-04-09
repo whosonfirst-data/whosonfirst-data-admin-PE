@@ -1,0 +1,72 @@
+{
+  "id": 1360285221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24743,-15.16268,-72.24743,-15.16268",
+    "geom:latitude":-15.16268,
+    "geom:longitude":-72.24743,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40409.0",
+    "gn:asciiname":"Salladuquio",
+    "gn:country_code":"PE",
+    "gn:dem":4578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929960,
+    "gn:latitude":-15.16268,
+    "gn:longitude":-72.24743,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Salladuquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Salladuquio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929960
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8898e2d91f87e352528a658312fbf5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1360285221,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1360285221,
+    "wof:lastmodified":1537676707,
+    "wof:name":"Salladuquio",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24743000000002,
+    -15.16268,
+    -72.24743000000002,
+    -15.16268
+],
+  "geometry": {"coordinates":[-72.24743000000002,-15.16268],"type":"Point"}
+}

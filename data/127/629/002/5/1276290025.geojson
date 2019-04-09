@@ -1,0 +1,71 @@
+{
+  "id": 1276290025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.85311,-13.96658,-69.85311,-13.96658",
+    "geom:latitude":-13.96658,
+    "geom:longitude":-69.85311,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Chullucunca",
+    "gn:country_code":"PE",
+    "gn:dem":3833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558904,
+    "gn:latitude":-13.96658,
+    "gn:longitude":-69.85311,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Chullucunca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chullucunca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558904
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"531a6bd6f622037fc3a609b3736b929f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183857,
+            "locality_id":1276290025,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276290025,
+    "wof:lastmodified":1537677009,
+    "wof:name":"Chullucunca",
+    "wof:parent_id":421183857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.85311,
+    -13.96658,
+    -69.85311,
+    -13.96658
+],
+  "geometry": {"coordinates":[-69.85311,-13.96658],"type":"Point"}
+}

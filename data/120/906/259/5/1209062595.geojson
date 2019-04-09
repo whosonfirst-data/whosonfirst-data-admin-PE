@@ -1,0 +1,66 @@
+{
+  "id": 1209062595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56818,-6.85214,-76.56818,-6.85214",
+    "geom:latitude":-6.85214,
+    "geom:longitude":-76.56818,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220205.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"PE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10801100,
+    "gn:latitude":-6.85214,
+    "gn:longitude":-76.56818,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Teresa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10801100
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1afc06a9c8d18bc8f0d09e5632e5bfe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209062595
+        }
+    ],
+    "wof:id":1209062595,
+    "wof:lastmodified":1537676935,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56818,
+    -6.85214,
+    -76.56818,
+    -6.85214
+],
+  "geometry": {"coordinates":[-76.56818,-6.85214],"type":"Point"}
+}

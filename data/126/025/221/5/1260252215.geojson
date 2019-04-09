@@ -1,0 +1,72 @@
+{
+  "id": 1260252215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.07909,-11.91136,-77.07909,-11.91136",
+    "geom:latitude":-11.91136,
+    "geom:longitude":-77.07909,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150125.0",
+    "gn:asciiname":"Fundo Chillon",
+    "gn:country_code":"PE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9891439,
+    "gn:latitude":-11.91136,
+    "gn:longitude":-77.07909,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fundo Chill\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fundo Chill\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9891439
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2d793389ca4486a5e946e3d1577369d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1260252215,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1260252215,
+    "wof:lastmodified":1537676930,
+    "wof:name":"Fundo Chillon",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07909000000002,
+    -11.91136,
+    -77.07909000000002,
+    -11.91136
+],
+  "geometry": {"coordinates":[-77.07909000000002,-11.91136],"type":"Point"}
+}

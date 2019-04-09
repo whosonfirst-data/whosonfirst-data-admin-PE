@@ -1,0 +1,68 @@
+{
+  "id": 1260363923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2,-4.33333,-80.2,-4.33333",
+    "geom:latitude":-4.33333,
+    "geom:longitude":-80.2,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Las Playas",
+    "gn:country_code":"PE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695522,
+    "gn:latitude":-4.33333,
+    "gn:longitude":-80.2,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Las Playas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695522
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1940df15590d7fc5d52241169d910706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1260363923,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1260363923,
+    "wof:lastmodified":1536600941,
+    "wof:name":"Las Playas",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2,
+    -4.33333,
+    -80.2,
+    -4.33333
+],
+  "geometry": {"coordinates":[-80.2,-4.33333],"type":"Point"}
+}

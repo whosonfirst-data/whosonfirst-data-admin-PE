@@ -1,0 +1,69 @@
+{
+  "id": 1260162895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,-2.65,-72.18333,-2.65",
+    "geom:latitude":-2.65,
+    "geom:longitude":-72.18333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160109.0",
+    "gn:asciiname":"Purma Fagui",
+    "gn:country_code":"PE",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3693099,
+    "gn:latitude":-2.65,
+    "gn:longitude":-72.18333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Purma Fagui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693099
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"334458f37124f0a099298135550da3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1260162895,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1260162895,
+    "wof:lastmodified":1536875331,
+    "wof:name":"Purma Fagui",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    -2.65,
+    -72.18333,
+    -2.65
+],
+  "geometry": {"coordinates":[-72.18333,-2.65],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293868597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.89269,-14.58563,-71.89269,-14.58563",
+    "geom:latitude":-14.58563,
+    "geom:longitude":-71.89269,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80708.0",
+    "gn:asciiname":"Sachapucro",
+    "gn:country_code":"PE",
+    "gn:dem":4046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956396,
+    "gn:latitude":-14.58563,
+    "gn:longitude":-71.89269,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sachapucro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956396
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"afa5d726fed3cafb8733e96bd1a32cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1293868597,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1293868597,
+    "wof:lastmodified":1536734981,
+    "wof:name":"Sachapucro",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.89269,
+    -14.58563,
+    -71.89269,
+    -14.58563
+],
+  "geometry": {"coordinates":[-71.89269,-14.58563],"type":"Point"}
+}

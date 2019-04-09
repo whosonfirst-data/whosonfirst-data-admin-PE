@@ -1,0 +1,68 @@
+{
+  "id": 1276551953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6982,-14.85277,-74.6982,-14.85277",
+    "geom:latitude":-14.85277,
+    "geom:longitude":-74.6982,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Pulla",
+    "gn:country_code":"PE",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931415,
+    "gn:latitude":-14.85277,
+    "gn:longitude":-74.6982,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Pulla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931415
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9518f7f5a62c8ba0f86deb58128aae84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1276551953,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276551953,
+    "wof:lastmodified":1536982344,
+    "wof:name":"Pulla",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6982,
+    -14.85277,
+    -74.6982,
+    -14.85277
+],
+  "geometry": {"coordinates":[-74.6982,-14.85277],"type":"Point"}
+}

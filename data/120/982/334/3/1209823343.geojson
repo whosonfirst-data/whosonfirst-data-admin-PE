@@ -1,0 +1,69 @@
+{
+  "id": 1209823343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.921,-9.32084,-76.921,-9.32084",
+    "geom:latitude":-9.32084,
+    "geom:longitude":-76.921,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Tactavado",
+    "gn:country_code":"PE",
+    "gn:dem":3991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675642,
+    "gn:latitude":-9.32084,
+    "gn:longitude":-76.921,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tactavado",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675642
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f0dae1b632e62d9d00a1c8fa1c02c40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187851,
+            "locality_id":1209823343,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1209823343,
+    "wof:lastmodified":1536376370,
+    "wof:name":"Tactavado",
+    "wof:parent_id":421187851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.921,
+    -9.32084,
+    -76.921,
+    -9.32084
+],
+  "geometry": {"coordinates":[-76.92100000000001,-9.32084],"type":"Point"}
+}

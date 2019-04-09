@@ -1,0 +1,72 @@
+{
+  "id": 1343851133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83136,-15.00759,-73.83136,-15.00759",
+    "geom:latitude":-15.00759,
+    "geom:longitude":-73.83136,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50605.0",
+    "gn:asciiname":"Toma",
+    "gn:country_code":"PE",
+    "gn:dem":3117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926810,
+    "gn:latitude":-15.00759,
+    "gn:longitude":-73.83136,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Toma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926810
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"01b7cd33878e69239ae730bbc4128aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1343851133,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343851133,
+    "wof:lastmodified":1537676673,
+    "wof:name":"Toma",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83136,
+    -15.00759,
+    -73.83136,
+    -15.00759
+],
+  "geometry": {"coordinates":[-73.83136,-15.00759],"type":"Point"}
+}

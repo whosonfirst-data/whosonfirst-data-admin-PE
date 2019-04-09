@@ -1,0 +1,66 @@
+{
+  "id": 1209519989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.08261,-13.22197,-74.08261,-13.22197",
+    "geom:latitude":-13.22197,
+    "geom:longitude":-74.08261,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50113.0",
+    "gn:asciiname":"Acco",
+    "gn:country_code":"PE",
+    "gn:dem":3170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673732,
+    "gn:latitude":-13.22197,
+    "gn:longitude":-74.08261,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Acco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Acco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673732
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dedd0e8e077e16331fb7f21ca08c7a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209519989
+        }
+    ],
+    "wof:id":1209519989,
+    "wof:lastmodified":1537676918,
+    "wof:name":"Acco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.08261,
+    -13.22197,
+    -74.08261,
+    -13.22197
+],
+  "geometry": {"coordinates":[-74.08261,-13.22197],"type":"Point"}
+}

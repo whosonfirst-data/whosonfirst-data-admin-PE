@@ -1,0 +1,77 @@
+{
+  "id": 1276530681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.82609,-10.91754,-76.82609,-10.91754",
+    "geom:latitude":-10.91754,
+    "geom:longitude":-76.82609,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150804.0",
+    "gn:asciiname":"Capash",
+    "gn:country_code":"PE",
+    "gn:dem":3260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945678,
+    "gn:latitude":-10.91754,
+    "gn:longitude":-76.82609,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Capash",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945678
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7bae0fd9ccd636b9f2d8d868ace56cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1276530681,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1276530681,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1276530681,
+    "wof:lastmodified":1537010912,
+    "wof:name":"Capash",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.82609000000002,
+    -10.91754,
+    -76.82609000000002,
+    -10.91754
+],
+  "geometry": {"coordinates":[-76.82609000000002,-10.91754],"type":"Point"}
+}

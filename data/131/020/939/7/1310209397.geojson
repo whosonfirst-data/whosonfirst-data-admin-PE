@@ -1,0 +1,69 @@
+{
+  "id": 1310209397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94517,-13.65154,-73.94517,-13.65154",
+    "geom:latitude":-13.65154,
+    "geom:longitude":-73.94517,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51101.0",
+    "gn:asciiname":"Apachita",
+    "gn:country_code":"PE",
+    "gn:dem":3581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6374384,
+    "gn:latitude":-13.65154,
+    "gn:longitude":-73.94517,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Apachita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6374384
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e1795eca429b4d01d5a6df3cfdde23c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693943,
+            "locality_id":1310209397,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310209397,
+    "wof:lastmodified":1536845523,
+    "wof:name":"Apachita",
+    "wof:parent_id":1108693943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94516999999998,
+    -13.65154,
+    -73.94516999999998,
+    -13.65154
+],
+  "geometry": {"coordinates":[-73.94516999999998,-13.65154],"type":"Point"}
+}

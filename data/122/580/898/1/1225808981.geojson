@@ -1,0 +1,69 @@
+{
+  "id": 1225808981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17615,-4.19989,-70.17615,-4.19989",
+    "geom:latitude":-4.19989,
+    "geom:longitude":-70.17615,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160403.0",
+    "gn:asciiname":"Laguino",
+    "gn:country_code":"PE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828900,
+    "gn:latitude":-4.19989,
+    "gn:longitude":-70.17615,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Lagui\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828900
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ecd5b7b7065a3bd54c8a8666efe33aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175219,
+            "locality_id":1225808981,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1225808981,
+    "wof:lastmodified":1537064051,
+    "wof:name":"Laguino",
+    "wof:parent_id":421175219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17615,
+    -4.19989,
+    -70.17615,
+    -4.19989
+],
+  "geometry": {"coordinates":[-70.17615000000001,-4.19989],"type":"Point"}
+}

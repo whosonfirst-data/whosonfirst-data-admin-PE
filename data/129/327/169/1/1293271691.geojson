@@ -1,0 +1,69 @@
+{
+  "id": 1293271691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.89548,-11.86632,-74.89548,-11.86632",
+    "geom:latitude":-11.86632,
+    "geom:longitude":-74.89548,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120124.0",
+    "gn:asciiname":"Jaramachay",
+    "gn:country_code":"PE",
+    "gn:dem":4008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307225,
+    "gn:latitude":-11.86632,
+    "gn:longitude":-74.89548,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jaramachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307225
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"276644abede5ac7c9992544cddf38667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1293271691,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1293271691,
+    "wof:lastmodified":1537094951,
+    "wof:name":"Jaramachay",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.89548,
+    -11.86632,
+    -74.89548,
+    -11.86632
+],
+  "geometry": {"coordinates":[-74.89548000000001,-11.86632],"type":"Point"}
+}

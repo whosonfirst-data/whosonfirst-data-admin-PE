@@ -1,0 +1,67 @@
+{
+  "id": 1209497047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.14607,-3.89119,-73.14607,-3.89119",
+    "geom:latitude":-3.89119,
+    "geom:longitude":-73.14607,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160103.0",
+    "gn:asciiname":"Panguana Segunda Zona",
+    "gn:country_code":"PE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6394378,
+    "gn:latitude":-3.89119,
+    "gn:longitude":-73.14607,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Panguana Segunda Zona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panguana 2nd Zona",
+        "Panguana Segunda Zona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6394378
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a04d9d0f32db7775374ac4a123ca7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209497047
+        }
+    ],
+    "wof:id":1209497047,
+    "wof:lastmodified":1537676897,
+    "wof:name":"Panguana Segunda Zona",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14607,
+    -3.89119,
+    -73.14607,
+    -3.89119
+],
+  "geometry": {"coordinates":[-73.14606999999999,-3.89119],"type":"Point"}
+}

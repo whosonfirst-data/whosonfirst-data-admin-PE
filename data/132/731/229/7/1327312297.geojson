@@ -1,0 +1,69 @@
+{
+  "id": 1327312297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52809,-9.98998,-76.52809,-9.98998",
+    "geom:latitude":-9.98998,
+    "geom:longitude":-76.52809,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"Pacayhua",
+    "gn:country_code":"PE",
+    "gn:dem":3571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694165,
+    "gn:latitude":-9.98998,
+    "gn:longitude":-76.52809,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pacayhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694165
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"75d2a99dbdd73f8a69613bb52676fa77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1327312297,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327312297,
+    "wof:lastmodified":1536853206,
+    "wof:name":"Pacayhua",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52809,
+    -9.98998,
+    -76.52809,
+    -9.98998
+],
+  "geometry": {"coordinates":[-76.52809000000001,-9.98998],"type":"Point"}
+}

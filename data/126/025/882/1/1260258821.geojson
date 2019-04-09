@@ -1,0 +1,71 @@
+{
+  "id": 1260258821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45131,-11.15639,-69.45131,-11.15639",
+    "geom:latitude":-11.15639,
+    "geom:longitude":-69.45131,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Villanueva",
+    "gn:country_code":"PE",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511649,
+    "gn:latitude":-11.15639,
+    "gn:longitude":-69.45131,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Villanueva",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villanueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511649
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"483659a054a5078026c6c72c6f9c2348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1260258821,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1260258821,
+    "wof:lastmodified":1537676978,
+    "wof:name":"Villanueva",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45130999999999,
+    -11.15639,
+    -69.45130999999999,
+    -11.15639
+],
+  "geometry": {"coordinates":[-69.45130999999999,-11.15639],"type":"Point"}
+}

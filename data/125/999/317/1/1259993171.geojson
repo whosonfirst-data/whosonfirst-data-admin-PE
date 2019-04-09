@@ -1,0 +1,68 @@
+{
+  "id": 1259993171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93518,-6.9928,-77.93518,-6.9928",
+    "geom:latitude":-6.9928,
+    "geom:longitude":-77.93518,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"San Vicente de Paul",
+    "gn:country_code":"PE",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379463,
+    "gn:latitude":-6.9928,
+    "gn:longitude":-77.93518,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"San Vicente de Pa\u00fal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421188725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379463
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8d31c5a4577a7dbc8601e93f7d3fedaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188725,
+            "locality_id":1259993171,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1259993171,
+    "wof:lastmodified":1536618957,
+    "wof:name":"San Vicente de Paul",
+    "wof:parent_id":421188725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93518,
+    -6.9928,
+    -77.93518,
+    -6.9928
+],
+  "geometry": {"coordinates":[-77.93518,-6.9928],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260298921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.65833,-6.21526,-77.65833,-6.21526",
+    "geom:latitude":-6.21526,
+    "geom:longitude":-77.65833,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10114.0",
+    "gn:asciiname":"Huascasala",
+    "gn:country_code":"PE",
+    "gn:dem":2402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383622,
+    "gn:latitude":-6.21526,
+    "gn:longitude":-77.65833,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huascasala",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383622
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0281c20b108b63f0116ee090ca7b19e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1260298921,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1260298921,
+    "wof:lastmodified":1536691303,
+    "wof:name":"Huascasala",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.65833,
+    -6.21526,
+    -77.65833,
+    -6.21526
+],
+  "geometry": {"coordinates":[-77.65833000000001,-6.21526],"type":"Point"}
+}

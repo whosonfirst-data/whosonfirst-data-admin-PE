@@ -1,0 +1,74 @@
+{
+  "id": 1309765199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,-5.23333,-80.1,-5.23333",
+    "geom:latitude":-5.23333,
+    "geom:longitude":-80.1,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200404.0",
+    "gn:asciiname":"Pabur Hacienda Nueva",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694191,
+    "gn:latitude":-5.23333,
+    "gn:longitude":-80.1,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pabur Hacienda Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Nueva Pabur",
+        "Pabur Hacienda Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694191
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f0d2aac9d301b1511b372441b236d2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1309765199,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1309765199,
+    "wof:lastmodified":1537676576,
+    "wof:name":"Pabur Hacienda Nueva",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    -5.23333,
+    -80.1,
+    -5.23333
+],
+  "geometry": {"coordinates":[-80.09999999999999,-5.23333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226418235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.97294,-17.22274,-70.97294,-17.22274",
+    "geom:latitude":-17.22274,
+    "geom:longitude":-70.97294,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:asciiname":"La Condeza",
+    "gn:country_code":"PE",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942521,
+    "gn:latitude":-17.22274,
+    "gn:longitude":-70.97294,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"La Condeza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Condesa",
+        "La Condeza Hacienda",
+        "La Condeza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942521
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"77f186f6f38088d6237dc3b19abdc0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1226418235,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1226418235,
+    "wof:lastmodified":1537676823,
+    "wof:name":"La Condeza",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97294000000002,
+    -17.22274,
+    -70.97294000000002,
+    -17.22274
+],
+  "geometry": {"coordinates":[-70.97294000000002,-17.22274],"type":"Point"}
+}

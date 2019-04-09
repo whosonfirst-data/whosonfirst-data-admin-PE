@@ -1,0 +1,79 @@
+{
+  "id": 421187847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.75,-11.41667,-76.75,-11.41667",
+    "geom:latitude":-11.41667,
+    "geom:longitude":-76.75,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Provincia de Canta"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3945748,
+    "qs:gn_pop":0,
+    "qs:name":"Canta",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":322,
+    "qs:photos_1k":65,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":411,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086204,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":26805807,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945748,
+        "gp:id":26805807,
+        "qs:id":1086204,
+        "wd:id":"Q1422611",
+        "wk:page":"Canta Province"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009526,
+    "wof:geomhash":"7ee52823ba38ee72cc70d8f6748eb31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187847,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421187847,
+    "wof:lastmodified":1501269454,
+    "wof:name":"Canta",
+    "wof:parent_id":85675925,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.75,
+    -11.41667,
+    -76.75,
+    -11.41667
+],
+  "geometry": {"coordinates":[-76.75,-11.41667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226419041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56583,-11.37611,-74.56583,-11.37611",
+    "geom:latitude":-11.37611,
+    "geom:longitude":-74.56583,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120603.0",
+    "gn:asciiname":"Carpatambo",
+    "gn:country_code":"PE",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302937,
+    "gn:latitude":-11.37611,
+    "gn:longitude":-74.56583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Carpatambo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302937
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"52e99fa88f09570678929e0c39410539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1226419041,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226419041,
+    "wof:lastmodified":1536683974,
+    "wof:name":"Carpatambo",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56583,
+    -11.37611,
+    -74.56583,
+    -11.37611
+],
+  "geometry": {"coordinates":[-74.56583000000001,-11.37611],"type":"Point"}
+}

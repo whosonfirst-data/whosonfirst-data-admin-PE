@@ -1,0 +1,69 @@
+{
+  "id": 1242584431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.42806,-13.44917,-73.42806,-13.44917",
+    "geom:latitude":-13.44917,
+    "geom:longitude":-73.42806,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30202.0",
+    "gn:asciiname":"Cocas",
+    "gn:country_code":"PE",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942939,
+    "gn:latitude":-13.44917,
+    "gn:longitude":-73.42806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cocas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942939
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2b6f8d5d9987d333f566d0ae58199da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1242584431,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1242584431,
+    "wof:lastmodified":1537051549,
+    "wof:name":"Cocas",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.42806,
+    -13.44917,
+    -73.42806,
+    -13.44917
+],
+  "geometry": {"coordinates":[-73.42806,-13.44917],"type":"Point"}
+}

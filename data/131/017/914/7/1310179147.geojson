@@ -1,0 +1,72 @@
+{
+  "id": 1310179147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96944,-14.05278,-68.96944,-14.05278",
+    "geom:latitude":-14.05278,
+    "geom:longitude":-68.96944,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211210.0",
+    "gn:asciiname":"Arcopunco",
+    "gn:country_code":"PE",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3949757,
+    "gn:latitude":-14.05278,
+    "gn:longitude":-68.96944,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Arcopunco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arcopunco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949757
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a990fd607114a7c2a1257613aa58b3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1310179147,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1310179147,
+    "wof:lastmodified":1537676875,
+    "wof:name":"Arcopunco",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96944,
+    -14.05278,
+    -68.96944,
+    -14.05278
+],
+  "geometry": {"coordinates":[-68.96944000000001,-14.05278],"type":"Point"}
+}

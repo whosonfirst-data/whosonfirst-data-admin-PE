@@ -1,0 +1,77 @@
+{
+  "id": 1293753471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89972,-11.46056,-76.89972,-11.46056",
+    "geom:latitude":-11.46056,
+    "geom:longitude":-76.89972,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150604.0",
+    "gn:asciiname":"Pacaybamba",
+    "gn:country_code":"PE",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933807,
+    "gn:latitude":-11.46056,
+    "gn:longitude":-76.89972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pacaybamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933807
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46bacac0f423dcdf98a8efa07e91a336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1293753471,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1293753471,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293753471,
+    "wof:lastmodified":1536900899,
+    "wof:name":"Pacaybamba",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89972,
+    -11.46056,
+    -76.89972,
+    -11.46056
+],
+  "geometry": {"coordinates":[-76.89972,-11.46056],"type":"Point"}
+}

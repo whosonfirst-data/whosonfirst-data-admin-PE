@@ -1,0 +1,69 @@
+{
+  "id": 890437945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3,-8.98333,-77.3,-8.98333",
+    "geom:latitude":-8.98333,
+    "geom:longitude":-77.3,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":9092,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yauya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690733,
+        "gp:id":419413,
+        "qs:id":1046446,
+        "wd:id":"Q2696377",
+        "wk:page":"Yauya District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052172,
+    "wof:geomhash":"23a738dd7ad9ecc24dc01f77e32987c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694005,
+            "locality_id":890437945,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":890437945,
+    "wof:lastmodified":1527729754,
+    "wof:name":"Yauya",
+    "wof:parent_id":1108694005,
+    "wof:placetype":"locality",
+    "wof:population":9092,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3,
+    -8.98333,
+    -77.3,
+    -8.98333
+],
+  "geometry": {"coordinates":[-77.3,-8.98333],"type":"Point"}
+}

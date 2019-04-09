@@ -1,0 +1,69 @@
+{
+  "id": 1242860403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6655,-7.20158,-79.6655,-7.20158",
+    "geom:latitude":-7.20158,
+    "geom:longitude":-79.6655,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130403.0",
+    "gn:asciiname":"La Bocana",
+    "gn:country_code":"PE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696018,
+    "gn:latitude":-7.20158,
+    "gn:longitude":-79.6655,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"La Bocana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421184599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696018
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5e68dac46520ae5a6ccbb6af2a4229e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184599,
+            "locality_id":1242860403,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1242860403,
+    "wof:lastmodified":1536656424,
+    "wof:name":"La Bocana",
+    "wof:parent_id":421184599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6655,
+    -7.20158,
+    -79.6655,
+    -7.20158
+],
+  "geometry": {"coordinates":[-79.66549999999999,-7.20158],"type":"Point"}
+}

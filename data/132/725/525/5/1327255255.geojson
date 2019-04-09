@@ -1,0 +1,69 @@
+{
+  "id": 1327255255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00624,-6.72522,-79.00624,-6.72522",
+    "geom:latitude":-6.72522,
+    "geom:longitude":-79.00624,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61303.0",
+    "gn:asciiname":"Iscomalca",
+    "gn:country_code":"PE",
+    "gn:dem":2653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742641,
+    "gn:latitude":-6.72522,
+    "gn:longitude":-79.00624,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Iscomalca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742641
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5cf631e30c670e2aa970bd5efc8c5c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693983,
+            "locality_id":1327255255,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1327255255,
+    "wof:lastmodified":1536937385,
+    "wof:name":"Iscomalca",
+    "wof:parent_id":1108693983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00624,
+    -6.72522,
+    -79.00624,
+    -6.72522
+],
+  "geometry": {"coordinates":[-79.00624000000001,-6.72522],"type":"Point"}
+}

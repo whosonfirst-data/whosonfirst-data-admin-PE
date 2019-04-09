@@ -1,0 +1,64 @@
+{
+  "id": 1260362231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.91302,-12.2658,-76.91302,-12.2658",
+    "geom:latitude":-12.2658,
+    "geom:longitude":-76.91302,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Mamacona",
+    "gn:country_code":"PE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935504,
+    "gn:latitude":-12.2658,
+    "gn:longitude":-76.91302,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Mamacona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935504
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f251f91202dfb538d544198bf7321d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1260362231,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260362231,
+    "wof:lastmodified":1536603395,
+    "wof:name":"Mamacona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.91301999999997,
+    -12.2658,
+    -76.91301999999997,
+    -12.2658
+],
+  "geometry": {"coordinates":[-76.91301999999997,-12.2658],"type":"Point"}
+}

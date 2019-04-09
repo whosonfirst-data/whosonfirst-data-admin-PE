@@ -1,0 +1,67 @@
+{
+  "id": 1209070775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7634,-4.62507,-80.7634,-4.62507",
+    "geom:latitude":-4.62507,
+    "geom:longitude":-80.7634,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Vibora",
+    "gn:country_code":"PE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690938,
+    "gn:latitude":-4.62507,
+    "gn:longitude":-80.7634,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"V\u00edbora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vivora",
+        "V\u00edbora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690938
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"22f325a26b16d522c91c69424c3eacf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209070775
+        }
+    ],
+    "wof:id":1209070775,
+    "wof:lastmodified":1537676529,
+    "wof:name":"Vibora",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7634,
+    -4.62507,
+    -80.7634,
+    -4.62507
+],
+  "geometry": {"coordinates":[-80.7634,-4.62507],"type":"Point"}
+}

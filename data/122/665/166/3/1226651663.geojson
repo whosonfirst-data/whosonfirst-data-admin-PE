@@ -1,0 +1,69 @@
+{
+  "id": 1226651663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.72056,-16.61959,-72.72056,-16.61959",
+    "geom:latitude":-16.61959,
+    "geom:longitude":-72.72056,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40201.0",
+    "gn:asciiname":"Uchumayo",
+    "gn:country_code":"PE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926650,
+    "gn:latitude":-16.61959,
+    "gn:longitude":-72.72056,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Uchumayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421175159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926650
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8d93c07340c8f6ddd2b632d19bfaafa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175159,
+            "locality_id":1226651663,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226651663,
+    "wof:lastmodified":1536849755,
+    "wof:name":"Uchumayo",
+    "wof:parent_id":421175159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.72055999999998,
+    -16.61959,
+    -72.72055999999998,
+    -16.61959
+],
+  "geometry": {"coordinates":[-72.72055999999998,-16.61959],"type":"Point"}
+}

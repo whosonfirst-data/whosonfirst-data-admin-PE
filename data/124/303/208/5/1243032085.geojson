@@ -1,0 +1,72 @@
+{
+  "id": 1243032085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22875,-15.32519,-69.22875,-15.32519",
+    "geom:latitude":-15.32519,
+    "geom:longitude":-69.22875,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210903.0",
+    "gn:asciiname":"Choimacollo",
+    "gn:country_code":"PE",
+    "gn:dem":4193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943552,
+    "gn:latitude":-15.32519,
+    "gn:longitude":-69.22875,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Choimacollo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Choimacollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943552
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c40da2884a771f56a2e035dc00ff4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1243032085,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243032085,
+    "wof:lastmodified":1537676831,
+    "wof:name":"Choimacollo",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22875,
+    -15.32519,
+    -69.22875,
+    -15.32519
+],
+  "geometry": {"coordinates":[-69.22875000000001,-15.32519],"type":"Point"}
+}

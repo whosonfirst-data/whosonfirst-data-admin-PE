@@ -1,0 +1,73 @@
+{
+  "id": 1326988193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55904,-17.26563,-70.55904,-17.26563",
+    "geom:latitude":-17.26563,
+    "geom:longitude":-70.55904,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230302.0",
+    "gn:asciiname":"Micalaco",
+    "gn:country_code":"PE",
+    "gn:dem":3209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935012,
+    "gn:latitude":-17.26563,
+    "gn:longitude":-70.55904,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Micalaco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecalaco",
+        "Micalaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935012
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a495666d63639c30aefb20672fd2e620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1326988193,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1326988193,
+    "wof:lastmodified":1537676754,
+    "wof:name":"Micalaco",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55904,
+    -17.26563,
+    -70.55904,
+    -17.26563
+],
+  "geometry": {"coordinates":[-70.55904,-17.26563],"type":"Point"}
+}

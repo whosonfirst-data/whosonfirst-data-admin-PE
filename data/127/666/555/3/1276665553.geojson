@@ -1,0 +1,70 @@
+{
+  "id": 1276665553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.59722,-9.35861,-77.59722,-9.35861",
+    "geom:latitude":-9.35861,
+    "geom:longitude":-77.59722,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"206.0",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Anta",
+    "gn:country_code":"PE",
+    "gn:dem":2781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3699617,
+    "gn:latitude":-9.35861,
+    "gn:longitude":-77.59722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Anta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421194077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699617,
+        "wk:page":"Anta%2C_Ancash"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3a53d8d2512d0b5d6c2051a148d27716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194077,
+            "locality_id":1276665553,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276665553,
+    "wof:lastmodified":1537570239,
+    "wof:name":"Anta",
+    "wof:parent_id":421194077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.59722,
+    -9.35861,
+    -77.59722,
+    -9.35861
+],
+  "geometry": {"coordinates":[-77.59721999999999,-9.35861],"type":"Point"}
+}

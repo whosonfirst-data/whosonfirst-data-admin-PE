@@ -1,0 +1,72 @@
+{
+  "id": 1293388537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54083,-15.28943,-73.54083,-15.28943",
+    "geom:latitude":-15.28943,
+    "geom:longitude":-73.54083,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50706.0",
+    "gn:asciiname":"Huacachipa",
+    "gn:country_code":"PE",
+    "gn:dem":3482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940096,
+    "gn:latitude":-15.28943,
+    "gn:longitude":-73.54083,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Huacachipa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huacachipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940096
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c38e38c124305adfc3fff588825a6b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1293388537,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293388537,
+    "wof:lastmodified":1537676801,
+    "wof:name":"Huacachipa",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54083,
+    -15.28943,
+    -73.54083,
+    -15.28943
+],
+  "geometry": {"coordinates":[-73.54083,-15.28943],"type":"Point"}
+}

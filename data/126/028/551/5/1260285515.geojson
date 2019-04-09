@@ -1,0 +1,69 @@
+{
+  "id": 1260285515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.41129,-13.57834,-73.41129,-13.57834",
+    "geom:latitude":-13.57834,
+    "geom:longitude":-73.41129,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30209.0",
+    "gn:asciiname":"Ancauran",
+    "gn:country_code":"PE",
+    "gn:dem":3730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6308223,
+    "gn:latitude":-13.57834,
+    "gn:longitude":-73.41129,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ancauran",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308223
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a3cf696cef74163b7cd9aed8bee1b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1260285515,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1260285515,
+    "wof:lastmodified":1536709529,
+    "wof:name":"Ancauran",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.41129000000002,
+    -13.57834,
+    -73.41129000000002,
+    -13.57834
+],
+  "geometry": {"coordinates":[-73.41129000000002,-13.57834],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209685577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.73963,-10.73285,-77.73963,-10.73285",
+    "geom:latitude":-10.73285,
+    "geom:longitude":-77.73963,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150201.0",
+    "gn:asciiname":"El Molino",
+    "gn:country_code":"PE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941284,
+    "gn:latitude":-10.73285,
+    "gn:longitude":-77.73963,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"El Molino",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Molino Hacienda",
+        "El Molino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941284
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aac1d74ddcaf852a0717ac1b377f913f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209685577
+        }
+    ],
+    "wof:id":1209685577,
+    "wof:lastmodified":1537676813,
+    "wof:name":"El Molino",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.73963,
+    -10.73285,
+    -77.73963,
+    -10.73285
+],
+  "geometry": {"coordinates":[-77.73963000000001,-10.73285],"type":"Point"}
+}

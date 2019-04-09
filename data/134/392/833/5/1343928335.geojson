@@ -1,0 +1,69 @@
+{
+  "id": 1343928335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6,-6.96667,-79.6,-6.96667",
+    "geom:latitude":-6.96667,
+    "geom:longitude":-79.6,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140107.0",
+    "gn:asciiname":"Animas",
+    "gn:country_code":"PE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699622,
+    "gn:latitude":-6.96667,
+    "gn:longitude":-79.6,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"\u00c1nimas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699622
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"517b9d3c305a2dd1fdf91a22a91110e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1343928335,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343928335,
+    "wof:lastmodified":1537063638,
+    "wof:name":"Animas",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6,
+    -6.96667,
+    -79.6,
+    -6.96667
+],
+  "geometry": {"coordinates":[-79.59999999999999,-6.96667],"type":"Point"}
+}

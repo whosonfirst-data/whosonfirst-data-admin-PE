@@ -1,0 +1,69 @@
+{
+  "id": 1310379581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.07528,-5.31444,-81.07528,-5.31444",
+    "geom:latitude":-5.31444,
+    "geom:longitude":-81.07528,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200501.0",
+    "gn:asciiname":"La Casita",
+    "gn:country_code":"PE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695960,
+    "gn:latitude":-5.31444,
+    "gn:longitude":-81.07528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Casita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695960
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f938271305e7bd616a2a08dcd63814be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1310379581,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310379581,
+    "wof:lastmodified":1537095460,
+    "wof:name":"La Casita",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.07528,
+    -5.31444,
+    -81.07528,
+    -5.31444
+],
+  "geometry": {"coordinates":[-81.07528000000001,-5.31444],"type":"Point"}
+}

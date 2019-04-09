@@ -1,0 +1,69 @@
+{
+  "id": 1360177689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.32835,-12.85268,-74.32835,-12.85268",
+    "geom:latitude":-12.85268,
+    "geom:longitude":-74.32835,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50405.0",
+    "gn:asciiname":"Churrupampa",
+    "gn:country_code":"PE",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650431,
+    "gn:latitude":-12.85268,
+    "gn:longitude":-74.32835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Churrupampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650431
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f835052eafce70f47ed1d1c9fd9cf25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1360177689,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1360177689,
+    "wof:lastmodified":1536811581,
+    "wof:name":"Churrupampa",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.32835,
+    -12.85268,
+    -74.32835,
+    -12.85268
+],
+  "geometry": {"coordinates":[-74.32835,-12.85268],"type":"Point"}
+}

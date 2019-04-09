@@ -1,0 +1,75 @@
+{
+  "id": 1276402711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45625,-11.4264,-69.45625,-11.4264",
+    "geom:latitude":-11.4264,
+    "geom:longitude":-69.45625,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Dos Bocas y Pomalillo",
+    "gn:country_code":"PE",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512564,
+    "gn:latitude":-11.4264,
+    "gn:longitude":-69.45625,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Dos Bocas y Pomalillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dos Bocas y Pomalillo"
+    ],
+    "name:und_x_variant":[
+        "Dos Bocas",
+        "Pomalillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512564
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"99459d6530a48f379d4b6d05784b92a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1276402711,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1276402711,
+    "wof:lastmodified":1537676981,
+    "wof:name":"Dos Bocas y Pomalillo",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45625,
+    -11.4264,
+    -69.45625,
+    -11.4264
+],
+  "geometry": {"coordinates":[-69.45625,-11.4264],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209321491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36472,-13.77417,-72.36472,-13.77417",
+    "geom:latitude":-13.77417,
+    "geom:longitude":-72.36472,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30502.0",
+    "gn:asciiname":"Chaquipuyno",
+    "gn:country_code":"PE",
+    "gn:dem":3652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6391722,
+    "gn:latitude":-13.77417,
+    "gn:longitude":-72.36472,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chaquipuy\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6391722
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"849854bcc086f25cfe3be4125b394076",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209321491
+        }
+    ],
+    "wof:id":1209321491,
+    "wof:lastmodified":1536290678,
+    "wof:name":"Chaquipuyno",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36471999999998,
+    -13.774170000000002,
+    -72.36471999999998,
+    -13.774170000000002
+],
+  "geometry": {"coordinates":[-72.36471999999998,-13.77417],"type":"Point"}
+}

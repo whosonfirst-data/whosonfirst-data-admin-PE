@@ -1,0 +1,63 @@
+{
+  "id": 1209688513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74387,-10.95912,-76.74387,-10.95912",
+    "geom:latitude":-10.95912,
+    "geom:longitude":-76.74387,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150809.0",
+    "gn:asciiname":"Moyacuna",
+    "gn:country_code":"PE",
+    "gn:dem":3572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962790,
+    "gn:latitude":-10.95912,
+    "gn:longitude":-76.74387,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Moyacuna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962790
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f6ec36cbf9dc0e430c34a6e2a76f8748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209688513
+        }
+    ],
+    "wof:id":1209688513,
+    "wof:lastmodified":1536279327,
+    "wof:name":"Moyacuna",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74387,
+    -10.95912,
+    -76.74387,
+    -10.95912
+],
+  "geometry": {"coordinates":[-76.74387,-10.95912],"type":"Point"}
+}

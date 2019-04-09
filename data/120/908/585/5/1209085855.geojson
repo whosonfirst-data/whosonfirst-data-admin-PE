@@ -1,0 +1,63 @@
+{
+  "id": 1209085855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76843,-11.84346,-74.76843,-11.84346",
+    "geom:latitude":-11.84346,
+    "geom:longitude":-74.76843,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120135.0",
+    "gn:asciiname":"Pasla Bajo",
+    "gn:country_code":"PE",
+    "gn:dem":2607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307199,
+    "gn:latitude":-11.84346,
+    "gn:longitude":-74.76843,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pasla Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307199
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"22349ba75f283396261d63ff0cb32e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209085855
+        }
+    ],
+    "wof:id":1209085855,
+    "wof:lastmodified":1536298189,
+    "wof:name":"Pasla Bajo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76843000000002,
+    -11.84346,
+    -74.76843000000002,
+    -11.84346
+],
+  "geometry": {"coordinates":[-74.76843000000002,-11.84346],"type":"Point"}
+}

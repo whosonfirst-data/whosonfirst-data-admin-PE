@@ -1,0 +1,69 @@
+{
+  "id": 1360143371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.12001,-14.7314,-70.12001,-14.7314",
+    "geom:latitude":-14.7314,
+    "geom:longitude":-70.12001,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210208.0",
+    "gn:asciiname":"Sollocota",
+    "gn:country_code":"PE",
+    "gn:dem":4027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928473,
+    "gn:latitude":-14.7314,
+    "gn:longitude":-70.12001,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sollocota",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928473
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2c216a1c6f912e0f70ecfcc202e597c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1360143371,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1360143371,
+    "wof:lastmodified":1536860312,
+    "wof:name":"Sollocota",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.12001,
+    -14.7314,
+    -70.12001,
+    -14.7314
+],
+  "geometry": {"coordinates":[-70.12000999999999,-14.7314],"type":"Point"}
+}

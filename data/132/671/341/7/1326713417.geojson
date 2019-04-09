@@ -1,0 +1,72 @@
+{
+  "id": 1326713417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84716,-6.87153,-79.84716,-6.87153",
+    "geom:latitude":-6.87153,
+    "geom:longitude":-79.84716,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140108.0",
+    "gn:asciiname":"Tafena",
+    "gn:country_code":"PE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952833,
+    "gn:latitude":-6.87153,
+    "gn:longitude":-79.84716,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tafena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tafena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952833
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e56f04e523401275aead2a8deff8dcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1326713417,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1326713417,
+    "wof:lastmodified":1537676949,
+    "wof:name":"Tafena",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84716,
+    -6.87153,
+    -79.84716,
+    -6.87153
+],
+  "geometry": {"coordinates":[-79.84716,-6.87153],"type":"Point"}
+}

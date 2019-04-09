@@ -1,0 +1,63 @@
+{
+  "id": 1209378913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37792,-16.87454,-69.37792,-16.87454",
+    "geom:latitude":-16.87454,
+    "geom:longitude":-69.37792,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Asirune",
+    "gn:country_code":"PE",
+    "gn:dem":3953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310087,
+    "gn:latitude":-16.87454,
+    "gn:longitude":-69.37792,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Asirune",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310087
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"73f3e2c6e5abd7237d8fac41a6270a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209378913
+        }
+    ],
+    "wof:id":1209378913,
+    "wof:lastmodified":1536288852,
+    "wof:name":"Asirune",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37791999999999,
+    -16.87454,
+    -69.37791999999999,
+    -16.87454
+],
+  "geometry": {"coordinates":[-69.37791999999999,-16.87454],"type":"Point"}
+}

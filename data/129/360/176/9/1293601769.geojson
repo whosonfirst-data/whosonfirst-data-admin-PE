@@ -1,0 +1,69 @@
+{
+  "id": 1293601769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.02532,-9.12012,-78.02532,-9.12012",
+    "geom:latitude":-9.12012,
+    "geom:longitude":-78.02532,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"212.0",
+    "gn:admin3_code":"21206.0",
+    "gn:asciiname":"Sapote",
+    "gn:country_code":"PE",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6559968,
+    "gn:latitude":-9.12012,
+    "gn:longitude":-78.02532,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Sapote",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421170661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6559968
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c49d8d7569aa46dd74863163a6358649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170661,
+            "locality_id":1293601769,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293601769,
+    "wof:lastmodified":1536620219,
+    "wof:name":"Sapote",
+    "wof:parent_id":421170661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.02532,
+    -9.12012,
+    -78.02532,
+    -9.12012
+],
+  "geometry": {"coordinates":[-78.02531999999999,-9.12012],"type":"Point"}
+}

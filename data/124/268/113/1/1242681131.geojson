@@ -1,0 +1,69 @@
+{
+  "id": 1242681131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41268,-6.11756,-78.41268,-6.11756",
+    "geom:latitude":-6.11756,
+    "geom:longitude":-78.41268,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10706.0",
+    "gn:asciiname":"Pillunlla",
+    "gn:country_code":"PE",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377718,
+    "gn:latitude":-6.11756,
+    "gn:longitude":-78.41268,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pillunlla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377718
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0cdfba81a33fac0271c4ea375c19997c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1242681131,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1242681131,
+    "wof:lastmodified":1536915100,
+    "wof:name":"Pillunlla",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41268000000002,
+    -6.11756,
+    -78.41268000000002,
+    -6.11756
+],
+  "geometry": {"coordinates":[-78.41268000000002,-6.11756],"type":"Point"}
+}

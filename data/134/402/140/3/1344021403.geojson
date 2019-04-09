@@ -1,0 +1,72 @@
+{
+  "id": 1344021403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31955,-11.38745,-69.31955,-11.38745",
+    "geom:latitude":-11.38745,
+    "geom:longitude":-69.31955,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Cojimanco",
+    "gn:cc2":"BO",
+    "gn:country_code":"PE",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11439119,
+    "gn:latitude":-11.38745,
+    "gn:longitude":-69.31955,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Cojimanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cojimanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11439119
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"db7329912bdc095738558daca1f04508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1344021403,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1344021403,
+    "wof:lastmodified":1537676972,
+    "wof:name":"Cojimanco",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31955,
+    -11.38745,
+    -69.31955,
+    -11.38745
+],
+  "geometry": {"coordinates":[-69.31955000000001,-11.38745],"type":"Point"}
+}

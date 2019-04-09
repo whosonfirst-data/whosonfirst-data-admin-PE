@@ -1,0 +1,72 @@
+{
+  "id": 1343785335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.33988,-16.01196,-71.33988,-16.01196",
+    "geom:latitude":-16.01196,
+    "geom:longitude":-71.33988,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40128.0",
+    "gn:asciiname":"Pisac",
+    "gn:country_code":"PE",
+    "gn:dem":4038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932165,
+    "gn:latitude":-16.01196,
+    "gn:longitude":-71.33988,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pisac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932165
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e238b26752da1ce548c7cd48d491820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1343785335,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343785335,
+    "wof:lastmodified":1537676728,
+    "wof:name":"Pisac",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.33988000000002,
+    -16.01196,
+    -71.33988000000002,
+    -16.01196
+],
+  "geometry": {"coordinates":[-71.33988000000002,-16.01196],"type":"Point"}
+}

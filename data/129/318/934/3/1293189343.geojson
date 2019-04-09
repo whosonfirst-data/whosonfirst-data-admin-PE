@@ -1,0 +1,70 @@
+{
+  "id": 1293189343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.72785,-9.27782,-76.72785,-9.27782",
+    "geom:latitude":-9.27782,
+    "geom:longitude":-76.72785,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100505.0",
+    "gn:asciiname":"Urpish",
+    "gn:country_code":"PE",
+    "gn:dem":3427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675647,
+    "gn:latitude":-9.27782,
+    "gn:longitude":-76.72785,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Urpish",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675647,
+        "wk:page":"Urpish"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8b861836490caaee5389cf6d78bc6e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1293189343,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1293189343,
+    "wof:lastmodified":1537570276,
+    "wof:name":"Urpish",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.72785,
+    -9.27782,
+    -76.72785,
+    -9.27782
+],
+  "geometry": {"coordinates":[-76.72785,-9.27782],"type":"Point"}
+}

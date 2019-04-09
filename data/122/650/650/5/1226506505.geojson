@@ -1,0 +1,69 @@
+{
+  "id": 1226506505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.00607,-15.14167,-70.00607,-15.14167",
+    "geom:latitude":-15.14167,
+    "geom:longitude":-70.00607,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210206.0",
+    "gn:asciiname":"Cansara",
+    "gn:country_code":"PE",
+    "gn:dem":3865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945753,
+    "gn:latitude":-15.14167,
+    "gn:longitude":-70.00607,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Cansara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945753
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4a9af3f650d9bfe4fc26d476a4145b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693915,
+            "locality_id":1226506505,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226506505,
+    "wof:lastmodified":1537052491,
+    "wof:name":"Cansara",
+    "wof:parent_id":1108693915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.00607,
+    -15.14167,
+    -70.00607,
+    -15.14167
+],
+  "geometry": {"coordinates":[-70.00606999999999,-15.14167],"type":"Point"}
+}

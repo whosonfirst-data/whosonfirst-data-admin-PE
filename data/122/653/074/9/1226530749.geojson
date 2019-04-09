@@ -1,0 +1,69 @@
+{
+  "id": 1226530749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.66723,-9.49216,-76.66723,-9.49216",
+    "geom:latitude":-9.49216,
+    "geom:longitude":-76.66723,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100504.0",
+    "gn:asciiname":"Tranca Ragra",
+    "gn:country_code":"PE",
+    "gn:dem":4366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675557,
+    "gn:latitude":-9.49216,
+    "gn:longitude":-76.66723,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tranca Ragra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675557
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5702715dd5bcd8e6492113e5443df331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1226530749,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226530749,
+    "wof:lastmodified":1537018858,
+    "wof:name":"Tranca Ragra",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66723,
+    -9.49216,
+    -76.66723,
+    -9.49216
+],
+  "geometry": {"coordinates":[-76.66723,-9.49216],"type":"Point"}
+}

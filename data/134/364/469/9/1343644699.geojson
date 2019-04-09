@@ -1,0 +1,72 @@
+{
+  "id": 1343644699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78738,-6.53709,-79.78738,-6.53709",
+    "geom:latitude":-6.53709,
+    "geom:longitude":-79.78738,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"Benigno Barragan",
+    "gn:country_code":"PE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699354,
+    "gn:latitude":-6.53709,
+    "gn:longitude":-79.78738,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Benigno Barragan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Benigno Barragan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699354
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a1de55be1a8b56e113ada1953fdb83e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1343644699,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343644699,
+    "wof:lastmodified":1537676641,
+    "wof:name":"Benigno Barragan",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78738,
+    -6.53709,
+    -79.78738,
+    -6.53709
+],
+  "geometry": {"coordinates":[-79.78738,-6.53709],"type":"Point"}
+}

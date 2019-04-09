@@ -1,0 +1,71 @@
+{
+  "id": 1327235963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.27339,-13.05618,-74.27339,-13.05618",
+    "geom:latitude":-13.05618,
+    "geom:longitude":-74.27339,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Llamoctachi",
+    "gn:country_code":"PE",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8670058,
+    "gn:latitude":-13.05618,
+    "gn:longitude":-74.27339,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Llamoctachi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Llamoctachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8670058
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3785a1e8a169602b4187d15ceb36f99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1327235963,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1327235963,
+    "wof:lastmodified":1537676916,
+    "wof:name":"Llamoctachi",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.27339,
+    -13.05618,
+    -74.27339,
+    -13.05618
+],
+  "geometry": {"coordinates":[-74.27339000000001,-13.05618],"type":"Point"}
+}

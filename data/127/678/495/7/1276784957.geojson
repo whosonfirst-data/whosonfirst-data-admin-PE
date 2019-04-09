@@ -1,0 +1,69 @@
+{
+  "id": 1276784957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84487,-13.09558,-74.84487,-13.09558",
+    "geom:latitude":-13.09558,
+    "geom:longitude":-74.84487,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:asciiname":"Jochayniocc",
+    "gn:country_code":"PE",
+    "gn:dem":4347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677379,
+    "gn:latitude":-13.09558,
+    "gn:longitude":-74.84487,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jochayniocc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677379
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cc48b322677a33f41022198b7c657f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1276784957,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1276784957,
+    "wof:lastmodified":1536670835,
+    "wof:name":"Jochayniocc",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84487,
+    -13.09558,
+    -74.84487,
+    -13.09558
+],
+  "geometry": {"coordinates":[-74.84487,-13.09558],"type":"Point"}
+}

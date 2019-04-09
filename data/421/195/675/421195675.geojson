@@ -1,0 +1,101 @@
+{
+  "id": 421195675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.17006,-11.77427,-77.17006,-11.77427",
+    "geom:latitude":-11.77427,
+    "geom:longitude":-77.17006,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Anc\u00f3n"
+    ],
+    "name:cat_x_preferred":[
+        "Anc\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Anc\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Anc\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b3\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Ancon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Anc\u00f3n"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3947775,
+    "qs:gn_pop":0,
+    "qs:name":"Anc\u00f3n",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":252,
+    "qs:photos_1k":51,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":252,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":489722,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418631,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947775,
+        "gp:id":418631,
+        "qs:id":489722
+    },
+    "wof:country":"PE",
+    "wof:created":1459009855,
+    "wof:geomhash":"244995e3ad63f1c85f7c7c8fe3b59e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421195675,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421195675,
+    "wof:lastmodified":1527716118,
+    "wof:name":"Anc\u00f3n",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.17006,
+    -11.77427,
+    -77.17006,
+    -11.77427
+],
+  "geometry": {"coordinates":[-77.17006000000001,-11.77427],"type":"Point"}
+}

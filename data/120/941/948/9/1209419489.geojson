@@ -1,0 +1,63 @@
+{
+  "id": 1209419489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.42097,-13.45858,-74.42097,-13.45858",
+    "geom:latitude":-13.45858,
+    "geom:longitude":-74.42097,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202.0",
+    "gn:asciiname":"Loretayoc",
+    "gn:country_code":"PE",
+    "gn:dem":3710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669491,
+    "gn:latitude":-13.45858,
+    "gn:longitude":-74.42097,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Loretayoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669491
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"20d3e26e76b60b15505d9e54295a5f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209419489
+        }
+    ],
+    "wof:id":1209419489,
+    "wof:lastmodified":1536287578,
+    "wof:name":"Loretayoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.42097,
+    -13.45858,
+    -74.42097,
+    -13.45858
+],
+  "geometry": {"coordinates":[-74.42097,-13.45858],"type":"Point"}
+}

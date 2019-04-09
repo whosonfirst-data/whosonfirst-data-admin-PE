@@ -1,0 +1,74 @@
+{
+  "id": 1226614497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36667,-7.48333,-77.36667,-7.48333",
+    "geom:latitude":-7.48333,
+    "geom:longitude":-77.36667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2206.0",
+    "gn:admin3_code":"220603.0",
+    "gn:asciiname":"Pajaten",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694095,
+    "gn:latitude":-7.48333,
+    "gn:longitude":-77.36667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pajat\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jes\u00fas de Pajat\u00e9n",
+        "Pajat\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694095
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e4a060c9a62dd316c223e68af3558431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694041,
+            "locality_id":1226614497,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226614497,
+    "wof:lastmodified":1537676575,
+    "wof:name":"Pajaten",
+    "wof:parent_id":1108694041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36667,
+    -7.48333,
+    -77.36667,
+    -7.48333
+],
+  "geometry": {"coordinates":[-77.36667,-7.48333],"type":"Point"}
+}

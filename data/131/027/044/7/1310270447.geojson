@@ -1,0 +1,69 @@
+{
+  "id": 1310270447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.22388,-17.59552,-71.22388,-17.59552",
+    "geom:latitude":-17.59552,
+    "geom:longitude":-71.22388,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1803.0",
+    "gn:admin3_code":"180302.0",
+    "gn:asciiname":"Ozorin",
+    "gn:country_code":"PE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933865,
+    "gn:latitude":-17.59552,
+    "gn:longitude":-71.22388,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ozorin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421185587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933865
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4808a22c56d5cbfd489687e1cbc62c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185587,
+            "locality_id":1310270447,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1310270447,
+    "wof:lastmodified":1536758721,
+    "wof:name":"Ozorin",
+    "wof:parent_id":421185587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.22388000000002,
+    -17.59552,
+    -71.22388000000002,
+    -17.59552
+],
+  "geometry": {"coordinates":[-71.22388000000002,-17.59552],"type":"Point"}
+}

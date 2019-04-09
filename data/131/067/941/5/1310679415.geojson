@@ -1,0 +1,69 @@
+{
+  "id": 1310679415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98829,-9.67197,-76.98829,-9.67197",
+    "geom:latitude":-9.67197,
+    "geom:longitude":-76.98829,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100501.0",
+    "gn:asciiname":"Icuro",
+    "gn:country_code":"PE",
+    "gn:dem":4164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665792,
+    "gn:latitude":-9.67197,
+    "gn:longitude":-76.98829,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Icuro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665792
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"249f4644b5967cf843a454a452697dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1310679415,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310679415,
+    "wof:lastmodified":1536666081,
+    "wof:name":"Icuro",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98829,
+    -9.67197,
+    -76.98829,
+    -9.67197
+],
+  "geometry": {"coordinates":[-76.98829000000001,-9.67197],"type":"Point"}
+}

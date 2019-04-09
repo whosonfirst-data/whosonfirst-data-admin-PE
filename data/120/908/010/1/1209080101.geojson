@@ -1,0 +1,63 @@
+{
+  "id": 1209080101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.01986,-15.13327,-70.01986,-15.13327",
+    "geom:latitude":-15.13327,
+    "geom:longitude":-70.01986,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210203.0",
+    "gn:asciiname":"Canco",
+    "gn:country_code":"PE",
+    "gn:dem":3836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945817,
+    "gn:latitude":-15.13327,
+    "gn:longitude":-70.01986,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Canco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945817
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f8720991d4fce4e7c4b456a6a6f5e866",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209080101
+        }
+    ],
+    "wof:id":1209080101,
+    "wof:lastmodified":1536298366,
+    "wof:name":"Canco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.01986,
+    -15.13327,
+    -70.01986,
+    -15.13327
+],
+  "geometry": {"coordinates":[-70.01985999999999,-15.13327],"type":"Point"}
+}

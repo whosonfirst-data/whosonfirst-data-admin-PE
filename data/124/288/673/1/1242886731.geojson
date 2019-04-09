@@ -1,0 +1,69 @@
+{
+  "id": 1242886731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36667,-8.73333,-77.36667,-8.73333",
+    "geom:latitude":-8.73333,
+    "geom:longitude":-77.36667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"216.0",
+    "gn:admin3_code":"21604.0",
+    "gn:asciiname":"Quinuabamba",
+    "gn:country_code":"PE",
+    "gn:dem":4014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3693012,
+    "gn:latitude":-8.73333,
+    "gn:longitude":-77.36667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quinuabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693012
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5302764b0b0949c546a2e1a0f9c7fcc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694015,
+            "locality_id":1242886731,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1242886731,
+    "wof:lastmodified":1536616036,
+    "wof:name":"Quinuabamba",
+    "wof:parent_id":1108694015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36667,
+    -8.73333,
+    -77.36667,
+    -8.73333
+],
+  "geometry": {"coordinates":[-77.36667,-8.73333],"type":"Point"}
+}

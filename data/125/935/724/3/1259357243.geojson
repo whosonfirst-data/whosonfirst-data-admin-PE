@@ -1,0 +1,72 @@
+{
+  "id": 1259357243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.30729,-4.66129,-81.30729,-4.66129",
+    "geom:latitude":-4.66129,
+    "geom:longitude":-81.30729,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200703.0",
+    "gn:asciiname":"Seccion Dieciocho",
+    "gn:country_code":"PE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691958,
+    "gn:latitude":-4.66129,
+    "gn:longitude":-81.30729,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Secc\u00edon Dieciocho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Secc\u00edon Dieciocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691958
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4186742eb3115344eec600c0ad1f380b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1259357243,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1259357243,
+    "wof:lastmodified":1537676542,
+    "wof:name":"Seccion Dieciocho",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.30729000000002,
+    -4.66129,
+    -81.30729000000002,
+    -4.66129
+],
+  "geometry": {"coordinates":[-81.30729000000002,-4.66129],"type":"Point"}
+}

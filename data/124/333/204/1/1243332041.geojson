@@ -1,0 +1,73 @@
+{
+  "id": 1243332041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.19398,-17.28028,-70.19398,-17.28028",
+    "geom:latitude":-17.28028,
+    "geom:longitude":-70.19398,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:asciiname":"Totora",
+    "gn:country_code":"PE",
+    "gn:dem":3272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927039,
+    "gn:latitude":-17.28028,
+    "gn:longitude":-70.19398,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Totora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Totora Hacienda",
+        "Totora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927039
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f5257b6e78fbb0cc9bb10134062e3f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1243332041,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1243332041,
+    "wof:lastmodified":1537676675,
+    "wof:name":"Totora",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.19398000000001,
+    -17.28028,
+    -70.19398000000001,
+    -17.28028
+],
+  "geometry": {"coordinates":[-70.19398000000001,-17.28028],"type":"Point"}
+}

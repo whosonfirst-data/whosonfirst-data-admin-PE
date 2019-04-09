@@ -1,0 +1,72 @@
+{
+  "id": 1259950447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83417,-6.51767,-79.83417,-6.51767",
+    "geom:latitude":-6.51767,
+    "geom:longitude":-79.83417,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140312.0",
+    "gn:asciiname":"La Blasa",
+    "gn:country_code":"PE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951133,
+    "gn:latitude":-6.51767,
+    "gn:longitude":-79.83417,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Blasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Blasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951133
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1fe16bbe94000f243f51344ff89731bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1259950447,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1259950447,
+    "wof:lastmodified":1537676946,
+    "wof:name":"La Blasa",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83417,
+    -6.51767,
+    -79.83417,
+    -6.51767
+],
+  "geometry": {"coordinates":[-79.83417,-6.51767],"type":"Point"}
+}

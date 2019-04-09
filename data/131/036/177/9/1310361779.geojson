@@ -1,0 +1,74 @@
+{
+  "id": 1310361779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66667,-6.28333,-75.66667,-6.28333",
+    "geom:latitude":-6.28333,
+    "geom:longitude":-75.66667,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2209.0",
+    "gn:admin3_code":"220911.0",
+    "gn:asciiname":"Setico Tipishca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691921,
+    "gn:latitude":-6.28333,
+    "gn:longitude":-75.66667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Setico Tipishca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Setico Tipisca",
+        "Setico Tipishca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691921
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3b66a5155e1290171a5566e3bca70b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":1310361779,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1310361779,
+    "wof:lastmodified":1537676541,
+    "wof:name":"Setico Tipishca",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66667,
+    -6.28333,
+    -75.66667,
+    -6.28333
+],
+  "geometry": {"coordinates":[-75.66667,-6.28333],"type":"Point"}
+}

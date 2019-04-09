@@ -1,0 +1,101 @@
+{
+  "id": 421166657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.593002,-9.377596,-77.593002,-9.377596",
+    "geom:latitude":-9.377596,
+    "geom:longitude":-77.593002,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Jangas jisk'a t'aqa suyu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Jangas"
+    ],
+    "name:nor_x_preferred":[
+        "Jangas"
+    ],
+    "name:por_x_preferred":[
+        "Jangas"
+    ],
+    "name:que_x_preferred":[
+        "Jangas distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Jangas"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0646\u06af\u0633 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f22\u52a0\u65af\u5340"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Jangas",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ancash",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":268880,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":406011,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421194077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":406011,
+        "qs:id":268880,
+        "wd:id":"Q2697129"
+    },
+    "wof:country":"PE",
+    "wof:created":1459008698,
+    "wof:geomhash":"5bc89164fb2953848debf13066f7b5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194077,
+            "locality_id":421166657,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":421166657,
+    "wof:lastmodified":1527716103,
+    "wof:name":"Jangas",
+    "wof:parent_id":421194077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.593002,
+    -9.377596,
+    -77.593002,
+    -9.377596
+],
+  "geometry": {"coordinates":[-77.593002,-9.377596],"type":"Point"}
+}

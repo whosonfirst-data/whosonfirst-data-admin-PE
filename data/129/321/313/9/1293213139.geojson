@@ -1,0 +1,69 @@
+{
+  "id": 1293213139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61042,-10.01928,-77.61042,-10.01928",
+    "geom:latitude":-10.01928,
+    "geom:longitude":-77.61042,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"217.0",
+    "gn:admin3_code":"21703.0",
+    "gn:asciiname":"Llama Huashan",
+    "gn:country_code":"PE",
+    "gn:dem":2685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936284,
+    "gn:latitude":-10.01928,
+    "gn:longitude":-77.61042,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Llama Huashan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936284
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8bd857ec7407cba0bd30a302d2956910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202211,
+            "locality_id":1293213139,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293213139,
+    "wof:lastmodified":1536685485,
+    "wof:name":"Llama Huashan",
+    "wof:parent_id":421202211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61041999999998,
+    -10.01928,
+    -77.61041999999998,
+    -10.01928
+],
+  "geometry": {"coordinates":[-77.61041999999998,-10.01928],"type":"Point"}
+}

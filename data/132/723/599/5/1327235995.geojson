@@ -1,0 +1,69 @@
+{
+  "id": 1327235995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03225,-15.20866,-74.03225,-15.20866",
+    "geom:latitude":-15.20866,
+    "geom:longitude":-74.03225,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50705.0",
+    "gn:asciiname":"Samaritana",
+    "gn:country_code":"PE",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929902,
+    "gn:latitude":-15.20866,
+    "gn:longitude":-74.03225,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Samaritana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929902
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"00a9034bc4b7a3bea5881cef7810813f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1327235995,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327235995,
+    "wof:lastmodified":1536964155,
+    "wof:name":"Samaritana",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03225,
+    -15.20866,
+    -74.03225,
+    -15.20866
+],
+  "geometry": {"coordinates":[-74.03225,-15.20866],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343419611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6754,-13.98802,-69.6754,-13.98802",
+    "geom:latitude":-13.98802,
+    "geom:longitude":-69.6754,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112",
+    "gn:asciiname":"Tika Sencca",
+    "gn:country_code":"PE",
+    "gn:dem":2918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558956,
+    "gn:latitude":-13.98802,
+    "gn:longitude":-69.6754,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Tika Sencca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tika Sencca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558956
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da8df5e39b8a2bf2c446b6675aace318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1343419611,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343419611,
+    "wof:lastmodified":1537677011,
+    "wof:name":"Tika Sencca",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.6754,
+    -13.98802,
+    -69.6754,
+    -13.98802
+],
+  "geometry": {"coordinates":[-69.6754,-13.98802],"type":"Point"}
+}

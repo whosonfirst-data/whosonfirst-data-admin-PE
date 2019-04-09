@@ -1,0 +1,68 @@
+{
+  "id": 1209096239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.5325,-14.8,-71.5325,-14.8",
+    "geom:latitude":-14.8,
+    "geom:longitude":-71.5325,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Coporaque",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3942267,
+    "gn:latitude":-14.8,
+    "gn:longitude":-71.5325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Coporaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corporaque",
+        "Coporaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942267
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba385fd643e5999e71a477dddb9de23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209096239
+        }
+    ],
+    "wof:id":1209096239,
+    "wof:lastmodified":1537676821,
+    "wof:name":"Coporaque",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.5325,
+    -14.8,
+    -71.5325,
+    -14.8
+],
+  "geometry": {"coordinates":[-71.5325,-14.8],"type":"Point"}
+}

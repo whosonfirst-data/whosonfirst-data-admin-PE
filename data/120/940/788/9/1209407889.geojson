@@ -1,0 +1,66 @@
+{
+  "id": 1209407889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.53994,-15.16996,-73.53994,-15.16996",
+    "geom:latitude":-15.16996,
+    "geom:longitude":-73.53994,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50706.0",
+    "gn:asciiname":"Chaicha",
+    "gn:country_code":"PE",
+    "gn:dem":3550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944585,
+    "gn:latitude":-15.16996,
+    "gn:longitude":-73.53994,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chaicha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaicha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944585
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8798d275de334b63b8c17aef75524a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209407889
+        }
+    ],
+    "wof:id":1209407889,
+    "wof:lastmodified":1537676841,
+    "wof:name":"Chaicha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.53994,
+    -15.16996,
+    -73.53994,
+    -15.16996
+],
+  "geometry": {"coordinates":[-73.53994,-15.16996],"type":"Point"}
+}

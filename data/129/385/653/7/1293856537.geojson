@@ -1,0 +1,77 @@
+{
+  "id": 1293856537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58108,-11.54508,-76.58108,-11.54508",
+    "geom:latitude":-11.54508,
+    "geom:longitude":-76.58108,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150405.0",
+    "gn:asciiname":"Curicuto",
+    "gn:country_code":"PE",
+    "gn:dem":4498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646146,
+    "gn:latitude":-11.54508,
+    "gn:longitude":-76.58108,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Curicuto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646146
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f8292cc79116f59ebbefe900f1f1901f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1293856537,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1293856537,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293856537,
+    "wof:lastmodified":1536752186,
+    "wof:name":"Curicuto",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58108,
+    -11.54508,
+    -76.58108,
+    -11.54508
+],
+  "geometry": {"coordinates":[-76.58108,-11.54508],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292990809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05,-14.4,-72.05,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":-72.05,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80701.0",
+    "gn:asciiname":"Lacane",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937320,
+    "gn:latitude":-14.4,
+    "gn:longitude":-72.05,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Lacane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lacane Hacienda",
+        "Lacane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        1108693903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937320
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8e6b24925d9e58b190b602926310fb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693903,
+            "locality_id":1292990809,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1292990809,
+    "wof:lastmodified":1537676777,
+    "wof:name":"Lacane",
+    "wof:parent_id":1108693903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05,
+    -14.4,
+    -72.05,
+    -14.4
+],
+  "geometry": {"coordinates":[-72.05,-14.4],"type":"Point"}
+}

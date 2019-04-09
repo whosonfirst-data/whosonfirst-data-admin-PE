@@ -1,0 +1,63 @@
+{
+  "id": 1209505117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.04333,-13.63222,-72.04333,-13.63222",
+    "geom:latitude":-13.63222,
+    "geom:longitude":-72.04333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80102.0",
+    "gn:asciiname":"Huancajrara",
+    "gn:country_code":"PE",
+    "gn:dem":3377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392458,
+    "gn:latitude":-13.63222,
+    "gn:longitude":-72.04333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huancajrara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392458
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bc631ddc17638cbe52beb6e77d680494",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209505117
+        }
+    ],
+    "wof:id":1209505117,
+    "wof:lastmodified":1536285058,
+    "wof:name":"Huancajrara",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.04333000000003,
+    -13.632220000000002,
+    -72.04333000000003,
+    -13.632220000000002
+],
+  "geometry": {"coordinates":[-72.04333000000003,-13.63222],"type":"Point"}
+}

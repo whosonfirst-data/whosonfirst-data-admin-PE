@@ -1,0 +1,69 @@
+{
+  "id": 1326925041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.53727,-12.61909,-74.53727,-12.61909",
+    "geom:latitude":-12.61909,
+    "geom:longitude":-74.53727,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90502.0",
+    "gn:asciiname":"Llamacancha",
+    "gn:country_code":"PE",
+    "gn:dem":4141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661505,
+    "gn:latitude":-12.61909,
+    "gn:longitude":-74.53727,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llamacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661505
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4738714b99fd589c46ff521a8c17268b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1326925041,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1326925041,
+    "wof:lastmodified":1536915650,
+    "wof:name":"Llamacancha",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.53726999999998,
+    -12.61909,
+    -74.53726999999998,
+    -12.61909
+],
+  "geometry": {"coordinates":[-74.53726999999998,-12.61909],"type":"Point"}
+}

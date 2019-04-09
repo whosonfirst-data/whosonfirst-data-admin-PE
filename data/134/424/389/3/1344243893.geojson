@@ -1,0 +1,72 @@
+{
+  "id": 1344243893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16297,-10.86428,-75.16297,-10.86428",
+    "geom:latitude":-10.86428,
+    "geom:longitude":-75.16297,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Cahuide",
+    "gn:country_code":"PE",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564222,
+    "gn:latitude":-10.86428,
+    "gn:longitude":-75.16297,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Cahuide",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cahuide"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564222
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a28f32971d141ace472c807a523c61b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1344243893,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1344243893,
+    "wof:lastmodified":1537676904,
+    "wof:name":"Cahuide",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16297,
+    -10.86428,
+    -75.16297,
+    -10.86428
+],
+  "geometry": {"coordinates":[-75.16297,-10.86428],"type":"Point"}
+}

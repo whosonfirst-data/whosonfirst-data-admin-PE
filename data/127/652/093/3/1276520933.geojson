@@ -1,0 +1,72 @@
+{
+  "id": 1276520933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.44828,-6.89349,-79.44828,-6.89349",
+    "geom:latitude":-6.89349,
+    "geom:longitude":-79.44828,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140109.0",
+    "gn:asciiname":"Saldana",
+    "gn:country_code":"PE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742908,
+    "gn:latitude":-6.89349,
+    "gn:longitude":-79.44828,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Salda\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Salda\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742908
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"75a2bfdb61f1effe20a16fdc44e28b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1276520933,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276520933,
+    "wof:lastmodified":1537676648,
+    "wof:name":"Saldana",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.44828000000003,
+    -6.89349,
+    -79.44828000000003,
+    -6.89349
+],
+  "geometry": {"coordinates":[-79.44828000000003,-6.89349],"type":"Point"}
+}

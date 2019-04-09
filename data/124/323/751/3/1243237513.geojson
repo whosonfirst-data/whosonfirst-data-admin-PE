@@ -1,0 +1,69 @@
+{
+  "id": 1243237513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.30162,-16.41969,-69.30162,-16.41969",
+    "geom:latitude":-16.41969,
+    "geom:longitude":-69.30162,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210406.0",
+    "gn:asciiname":"Parjara",
+    "gn:country_code":"PE",
+    "gn:dem":4118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932888,
+    "gn:latitude":-16.41969,
+    "gn:longitude":-69.30162,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Parjara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932888
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a43f047e8b8f4998cbb23e594ea41e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1243237513,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243237513,
+    "wof:lastmodified":1536606985,
+    "wof:name":"Parjara",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.30162,
+    -16.41969,
+    -69.30162,
+    -16.41969
+],
+  "geometry": {"coordinates":[-69.30162,-16.41969],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344044267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24204,-10.98843,-75.24204,-10.98843",
+    "geom:latitude":-10.98843,
+    "geom:longitude":-75.24204,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Gavilan Centro",
+    "gn:country_code":"PE",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564135,
+    "gn:latitude":-10.98843,
+    "gn:longitude":-75.24204,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gavil\u00e1n Centro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gavil\u00e1n Centro"
+    ],
+    "name:spa_x_variant":[
+        "Gavil\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564135
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2beadf6bbe56ea849ccb9fa6a4905fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1344044267,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1344044267,
+    "wof:lastmodified":1537676902,
+    "wof:name":"Gavilan Centro",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24204,
+    -10.98843,
+    -75.24204,
+    -10.98843
+],
+  "geometry": {"coordinates":[-75.24204,-10.98843],"type":"Point"}
+}

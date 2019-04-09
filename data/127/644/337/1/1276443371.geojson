@@ -1,0 +1,74 @@
+{
+  "id": 1276443371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.61667,-13.55,-72.61667,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":-72.61667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30104.0",
+    "gn:asciiname":"Carmen",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945428,
+    "gn:latitude":-13.55,
+    "gn:longitude":-72.61667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carmen Hacienda",
+        "Carmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945428
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3c22acb9cbc936709d8044b8f6e4dcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170655,
+            "locality_id":1276443371,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1276443371,
+    "wof:lastmodified":1537676849,
+    "wof:name":"Carmen",
+    "wof:parent_id":421170655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.61667,
+    -13.55,
+    -72.61667,
+    -13.55
+],
+  "geometry": {"coordinates":[-72.61667,-13.55],"type":"Point"}
+}

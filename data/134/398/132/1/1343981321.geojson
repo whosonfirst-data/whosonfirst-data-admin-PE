@@ -1,0 +1,73 @@
+{
+  "id": 1343981321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82616,-17.17301,-71.82616,-17.17301",
+    "geom:latitude":-17.17301,
+    "geom:longitude":-71.82616,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40706.0",
+    "gn:asciiname":"Catas",
+    "gn:country_code":"PE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945200,
+    "gn:latitude":-17.17301,
+    "gn:longitude":-71.82616,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Catas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calas",
+        "Catas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421182365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945200
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31f49afc74d30d0184b11c86823fb193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182365,
+            "locality_id":1343981321,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343981321,
+    "wof:lastmodified":1537676846,
+    "wof:name":"Catas",
+    "wof:parent_id":421182365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82616,
+    -17.17301,
+    -71.82616,
+    -17.17301
+],
+  "geometry": {"coordinates":[-71.82616,-17.17301],"type":"Point"}
+}

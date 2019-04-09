@@ -1,0 +1,74 @@
+{
+  "id": 1327235975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35,-15.33333,-74.35,-15.33333",
+    "geom:latitude":-15.33333,
+    "geom:longitude":-74.35,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50619.0",
+    "gn:asciiname":"Pal",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933550,
+    "gn:latitude":-15.33333,
+    "gn:longitude":-74.35,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pal Hacienda",
+        "Pal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933550
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4a5cdfb9ca5e3a5f6fb4dd68c55d5bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1327235975,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327235975,
+    "wof:lastmodified":1537676740,
+    "wof:name":"Pal",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35,
+    -15.33333,
+    -74.35,
+    -15.33333
+],
+  "geometry": {"coordinates":[-74.34999999999999,-15.33333],"type":"Point"}
+}

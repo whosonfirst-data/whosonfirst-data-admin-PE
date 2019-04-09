@@ -1,0 +1,69 @@
+{
+  "id": 1259847143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73692,-9.09057,-75.73692,-9.09057",
+    "geom:latitude":-9.09057,
+    "geom:longitude":-75.73692,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"2503.0",
+    "gn:admin3_code":"250301.0",
+    "gn:asciiname":"Previsto",
+    "gn:country_code":"PE",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6659393,
+    "gn:latitude":-9.09057,
+    "gn:longitude":-75.73692,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Previsto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421201039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659393
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bedd7c4ee38b0e9e83129ce0d7c40c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421201039,
+            "locality_id":1259847143,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1259847143,
+    "wof:lastmodified":1536830624,
+    "wof:name":"Previsto",
+    "wof:parent_id":421201039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73692,
+    -9.09057,
+    -75.73692,
+    -9.09057
+],
+  "geometry": {"coordinates":[-75.73692,-9.09057],"type":"Point"}
+}

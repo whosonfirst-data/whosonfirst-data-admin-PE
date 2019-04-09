@@ -1,0 +1,73 @@
+{
+  "id": 1242960203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.91754,-11.20727,-73.91754,-11.20727",
+    "geom:latitude":-11.20727,
+    "geom:longitude":-73.91754,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120608.0",
+    "gn:asciiname":"San Miguel de Otica",
+    "gn:country_code":"PE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395341,
+    "gn:latitude":-11.20727,
+    "gn:longitude":-73.91754,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"San Miguel de \u00d3tica",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Miguel de \u00d3tica",
+        "Mat\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395341
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d438660185d7630756cceb6b2c3bda3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1242960203,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1242960203,
+    "wof:lastmodified":1537676898,
+    "wof:name":"San Miguel de Otica",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91754,
+    -11.20727,
+    -73.91754,
+    -11.20727
+],
+  "geometry": {"coordinates":[-73.91754,-11.20727],"type":"Point"}
+}

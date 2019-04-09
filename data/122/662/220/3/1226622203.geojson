@@ -1,0 +1,71 @@
+{
+  "id": 1226622203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.57318,-11.04172,-69.57318,-11.04172",
+    "geom:latitude":-11.04172,
+    "geom:longitude":-69.57318,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Villa Primavera",
+    "gn:country_code":"PE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512936,
+    "gn:latitude":-11.04172,
+    "gn:longitude":-69.57318,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Villa Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Primavera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512936
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c63157dae5b707a4151754820541aa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1226622203,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1226622203,
+    "wof:lastmodified":1537676983,
+    "wof:name":"Villa Primavera",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.57318000000001,
+    -11.04172,
+    -69.57318000000001,
+    -11.04172
+],
+  "geometry": {"coordinates":[-69.57318000000001,-11.04172],"type":"Point"}
+}

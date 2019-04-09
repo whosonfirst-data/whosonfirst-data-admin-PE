@@ -1,0 +1,77 @@
+{
+  "id": 1242750561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5,-11.85,-76.5,-11.85",
+    "geom:latitude":-11.85,
+    "geom:longitude":-76.5,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150723.0",
+    "gn:asciiname":"Chaute",
+    "gn:country_code":"PE",
+    "gn:dem":2868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944166,
+    "gn:latitude":-11.85,
+    "gn:longitude":-76.5,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chaute",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944166
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aa7768183f9bdbfe5544afb372774950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1242750561,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1242750561,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1242750561,
+    "wof:lastmodified":1536813969,
+    "wof:name":"Chaute",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5,
+    -11.85,
+    -76.5,
+    -11.85
+],
+  "geometry": {"coordinates":[-76.5,-11.85],"type":"Point"}
+}

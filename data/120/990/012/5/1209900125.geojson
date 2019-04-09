@@ -1,0 +1,68 @@
+{
+  "id": 1209900125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12944,-14.0525,-75.12944,-14.0525",
+    "geom:latitude":-14.0525,
+    "geom:longitude":-75.12944,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"906.0",
+    "gn:asciiname":"Uchpa",
+    "gn:country_code":"PE",
+    "gn:dem":3349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960187,
+    "gn:latitude":-14.0525,
+    "gn:longitude":-75.12944,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Uchpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960187
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"80c5e25d0e3be5492e2220fffc049656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1209900125,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1209900125,
+    "wof:lastmodified":1536386815,
+    "wof:name":"Uchpa",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12944,
+    -14.0525,
+    -75.12944,
+    -14.0525
+],
+  "geometry": {"coordinates":[-75.12944,-14.0525],"type":"Point"}
+}

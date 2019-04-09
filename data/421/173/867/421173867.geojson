@@ -1,0 +1,79 @@
+{
+  "id": 421173867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.86268,-12.2811,-76.86268,-12.2811",
+    "geom:latitude":-12.2811,
+    "geom:longitude":-76.86268,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Salinas Hacienda"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929993,
+    "qs:gn_pop":0,
+    "qs:name":"Salinas",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":301058,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420510,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929993,
+        "gp:id":420510,
+        "qs:id":301058
+    },
+    "wof:country":"PE",
+    "wof:created":1459009009,
+    "wof:geomhash":"4de237d6b13344c08cd000deea8795d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421173867,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421173867,
+    "wof:lastmodified":1501269294,
+    "wof:name":"Salinas",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.86268,
+    -12.2811,
+    -76.86268,
+    -12.2811
+],
+  "geometry": {"coordinates":[-76.86268,-12.2811],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277075245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.59917,-14.00583,-73.59917,-14.00583",
+    "geom:latitude":-14.00583,
+    "geom:longitude":-73.59917,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30214.0",
+    "gn:asciiname":"Sojo",
+    "gn:country_code":"PE",
+    "gn:dem":3156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958216,
+    "gn:latitude":-14.00583,
+    "gn:longitude":-73.59917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sojo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958216
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"32d49b623067618d81d38e164ade70e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1277075245,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1277075245,
+    "wof:lastmodified":1536778944,
+    "wof:name":"Sojo",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.59917,
+    -14.00583,
+    -73.59917,
+    -14.00583
+],
+  "geometry": {"coordinates":[-73.59917,-14.00583],"type":"Point"}
+}

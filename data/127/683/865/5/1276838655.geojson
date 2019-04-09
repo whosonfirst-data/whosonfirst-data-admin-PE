@@ -1,0 +1,72 @@
+{
+  "id": 1276838655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52394,-7.06964,-76.52394,-7.06964",
+    "geom:latitude":-7.06964,
+    "geom:longitude":-76.52394,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220206.0",
+    "gn:asciiname":"Jose Galvez",
+    "gn:country_code":"PE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544056,
+    "gn:latitude":-7.06964,
+    "gn:longitude":-76.52394,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Jos\u00e9 G\u00e1lvez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jos\u00e9 G\u00e1lvez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544056
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"76087a598d1e9050568a39edb2468b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1276838655,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1276838655,
+    "wof:lastmodified":1537676908,
+    "wof:name":"Jose Galvez",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52394,
+    -7.06964,
+    -76.52394,
+    -7.06964
+],
+  "geometry": {"coordinates":[-76.52394,-7.06964],"type":"Point"}
+}

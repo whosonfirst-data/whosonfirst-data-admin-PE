@@ -1,0 +1,63 @@
+{
+  "id": 1209062591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35444,-5.89528,-77.35444,-5.89528",
+    "geom:latitude":-5.89528,
+    "geom:longitude":-77.35444,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2208.0",
+    "gn:admin3_code":"220804.0",
+    "gn:asciiname":"Perla de Daguas",
+    "gn:country_code":"PE",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389312,
+    "gn:latitude":-5.89528,
+    "gn:longitude":-77.35444,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Perla de Daguas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389312
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c59079a35940dab912ecc6b08d49aac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209062591
+        }
+    ],
+    "wof:id":1209062591,
+    "wof:lastmodified":1536298906,
+    "wof:name":"Perla de Daguas",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35444,
+    -5.8952800000000005,
+    -77.35444,
+    -5.8952800000000005
+],
+  "geometry": {"coordinates":[-77.35444,-5.89528],"type":"Point"}
+}

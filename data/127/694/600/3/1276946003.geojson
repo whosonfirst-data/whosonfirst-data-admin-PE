@@ -1,0 +1,69 @@
+{
+  "id": 1276946003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34978,-17.25076,-70.34978,-17.25076",
+    "geom:latitude":-17.25076,
+    "geom:longitude":-70.34978,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230202.0",
+    "gn:asciiname":"Pauromani Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":3252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3952045,
+    "gn:latitude":-17.25076,
+    "gn:longitude":-70.34978,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Pauromani Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3952045
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"02f6f1c3241ee769dce7daae746bacd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1276946003,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1276946003,
+    "wof:lastmodified":1536952890,
+    "wof:name":"Pauromani Hacienda",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34978000000001,
+    -17.25076,
+    -70.34978000000001,
+    -17.25076
+],
+  "geometry": {"coordinates":[-70.34978000000001,-17.25076],"type":"Point"}
+}

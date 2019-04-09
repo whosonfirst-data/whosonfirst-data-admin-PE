@@ -1,0 +1,69 @@
+{
+  "id": 1226401003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.41667,-17.02917,-69.41667,-17.02917",
+    "geom:latitude":-17.02917,
+    "geom:longitude":-69.41667,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Chulluncayani",
+    "gn:country_code":"PE",
+    "gn:dem":4128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943287,
+    "gn:latitude":-17.02917,
+    "gn:longitude":-69.41667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chulluncayani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943287
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d7530aa9a949be2abcbfcc95bca841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1226401003,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226401003,
+    "wof:lastmodified":1536710383,
+    "wof:name":"Chulluncayani",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.41667,
+    -17.02917,
+    -69.41667,
+    -17.02917
+],
+  "geometry": {"coordinates":[-69.41667,-17.02917],"type":"Point"}
+}

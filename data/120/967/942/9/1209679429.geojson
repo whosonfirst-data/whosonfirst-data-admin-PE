@@ -1,0 +1,65 @@
+{
+  "id": 1209679429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.006,-7.46992,-75.006,-7.46992",
+    "geom:latitude":-7.46992,
+    "geom:longitude":-75.006,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1606.0",
+    "gn:asciiname":"Cornejo",
+    "gn:country_code":"PE",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11196956,
+    "gn:latitude":-7.46992,
+    "gn:longitude":-75.006,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Cornejo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cornejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11196956
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"25d6c19fe200a4cb81fb569ca362f599",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209679429
+        }
+    ],
+    "wof:id":1209679429,
+    "wof:lastmodified":1537676971,
+    "wof:name":"Cornejo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.006,
+    -7.46992,
+    -75.006,
+    -7.46992
+],
+  "geometry": {"coordinates":[-75.006,-7.46992],"type":"Point"}
+}

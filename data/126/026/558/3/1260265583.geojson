@@ -1,0 +1,77 @@
+{
+  "id": 1260265583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8,-11.38333,-76.8,-11.38333",
+    "geom:latitude":-11.38333,
+    "geom:longitude":-76.8,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150611.0",
+    "gn:asciiname":"Puna",
+    "gn:country_code":"PE",
+    "gn:dem":2592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931310,
+    "gn:latitude":-11.38333,
+    "gn:longitude":-76.8,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Puna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931310
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"422a8ae8184b74e37cb7e846d55ced0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1260265583,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1260265583,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1260265583,
+    "wof:lastmodified":1536736006,
+    "wof:name":"Puna",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8,
+    -11.38333,
+    -76.8,
+    -11.38333
+],
+  "geometry": {"coordinates":[-76.8,-11.38333],"type":"Point"}
+}

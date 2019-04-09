@@ -1,0 +1,72 @@
+{
+  "id": 1343822423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.99233,-4.11479,-80.99233,-4.11479",
+    "geom:latitude":-4.11479,
+    "geom:longitude":-80.99233,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Angola",
+    "gn:country_code":"PE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699642,
+    "gn:latitude":-4.11479,
+    "gn:longitude":-80.99233,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Angola",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angolo",
+        "Angola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699642
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba56ed4dd9a3dbd14e3db5910b6a9e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1343822423,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1343822423,
+    "wof:lastmodified":1537676645,
+    "wof:name":"Angola",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.99233000000002,
+    -4.11479,
+    -80.99233000000002,
+    -4.11479
+],
+  "geometry": {"coordinates":[-80.99233000000002,-4.11479],"type":"Point"}
+}

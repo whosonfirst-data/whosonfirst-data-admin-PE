@@ -1,0 +1,73 @@
+{
+  "id": 1343859495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21889,-13.79972,-72.21889,-13.79972",
+    "geom:latitude":-13.79972,
+    "geom:longitude":-72.21889,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30501.0",
+    "gn:asciiname":"Chancarapucro",
+    "gn:country_code":"PE",
+    "gn:dem":4287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944400,
+    "gn:latitude":-13.79972,
+    "gn:longitude":-72.21889,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chancarapucro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chancara Pucro",
+        "Chancarapucro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944400
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8eadabd6e019b14cf1cc81d71901b339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693907,
+            "locality_id":1343859495,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1343859495,
+    "wof:lastmodified":1537676839,
+    "wof:name":"Chancarapucro",
+    "wof:parent_id":1108693907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21889,
+    -13.79972,
+    -72.21889,
+    -13.79972
+],
+  "geometry": {"coordinates":[-72.21889,-13.79972],"type":"Point"}
+}

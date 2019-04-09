@@ -1,0 +1,72 @@
+{
+  "id": 1225809739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85795,-5.74582,-80.85795,-5.74582",
+    "geom:latitude":-5.74582,
+    "geom:longitude":-80.85795,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2008.0",
+    "gn:admin3_code":"200801.0",
+    "gn:asciiname":"Puerto Nuevo",
+    "gn:country_code":"PE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693214,
+    "gn:latitude":-5.74582,
+    "gn:longitude":-80.85795,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Puerto Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421170341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693214
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6ea43f40d4119c1bb631a09f51ade63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170341,
+            "locality_id":1225809739,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1225809739,
+    "wof:lastmodified":1537676563,
+    "wof:name":"Puerto Nuevo",
+    "wof:parent_id":421170341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85795,
+    -5.74582,
+    -80.85795,
+    -5.74582
+],
+  "geometry": {"coordinates":[-80.85795,-5.74582],"type":"Point"}
+}

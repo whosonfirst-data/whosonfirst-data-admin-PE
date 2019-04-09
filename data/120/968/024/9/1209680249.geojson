@@ -1,0 +1,66 @@
+{
+  "id": 1209680249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.82461,-4.46138,-80.82461,-4.46138",
+    "geom:latitude":-4.46138,
+    "geom:longitude":-80.82461,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"La Encanada",
+    "gn:country_code":"PE",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695892,
+    "gn:latitude":-4.46138,
+    "gn:longitude":-80.82461,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"La Enca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Enca\u00f1ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695892
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eb0ea8d38392c468cc921596b89e6880",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209680249
+        }
+    ],
+    "wof:id":1209680249,
+    "wof:lastmodified":1537676597,
+    "wof:name":"La Encanada",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.82460999999998,
+    -4.46138,
+    -80.82460999999998,
+    -4.46138
+],
+  "geometry": {"coordinates":[-80.82460999999998,-4.46138],"type":"Point"}
+}

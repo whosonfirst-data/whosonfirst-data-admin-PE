@@ -1,0 +1,72 @@
+{
+  "id": 1276632727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7475,-14.05211,-75.7475,-14.05211",
+    "geom:latitude":-14.05211,
+    "geom:longitude":-75.7475,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Santa Luisa",
+    "gn:country_code":"PE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003654,
+    "gn:latitude":-14.05211,
+    "gn:longitude":-75.7475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Santa Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Luisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003654
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c241328a31f5833836c1051b6dcd124a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1276632727,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276632727,
+    "wof:lastmodified":1537676952,
+    "wof:name":"Santa Luisa",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7475,
+    -14.05211,
+    -75.7475,
+    -14.05211
+],
+  "geometry": {"coordinates":[-75.7475,-14.05211],"type":"Point"}
+}

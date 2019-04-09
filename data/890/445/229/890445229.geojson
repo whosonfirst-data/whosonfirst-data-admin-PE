@@ -1,0 +1,66 @@
+{
+  "id": 890445229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.29921,-15.63952,-71.29921,-15.63952",
+    "geom:latitude":-15.63952,
+    "geom:longitude":-71.29921,
+    "gn:country":"PE",
+    "gn:fcode":"PPL",
+    "gn:pop":4753,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Llongasora",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951757,
+        "gp:id":396649,
+        "qs:id":1047461
+    },
+    "wof:country":"PE",
+    "wof:created":1469052502,
+    "wof:geomhash":"a1fbd436708e05be86b6ad0a194a7ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":890445229,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":890445229,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Llongasora",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:population":4753,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.29921,
+    -15.63952,
+    -71.29921,
+    -15.63952
+],
+  "geometry": {"coordinates":[-71.29921,-15.63952],"type":"Point"}
+}

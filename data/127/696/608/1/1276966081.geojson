@@ -1,0 +1,69 @@
+{
+  "id": 1276966081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65435,-11.54013,-75.65435,-11.54013",
+    "geom:latitude":-11.54013,
+    "geom:longitude":-75.65435,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120703.0",
+    "gn:asciiname":"Ancush",
+    "gn:country_code":"PE",
+    "gn:dem":4074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670981,
+    "gn:latitude":-11.54013,
+    "gn:longitude":-75.65435,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ancush",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421170675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1af2e67862cf0b2349cc900e06aa5b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170675,
+            "locality_id":1276966081,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276966081,
+    "wof:lastmodified":1536926494,
+    "wof:name":"Ancush",
+    "wof:parent_id":421170675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65435,
+    -11.54013,
+    -75.65435,
+    -11.54013
+],
+  "geometry": {"coordinates":[-75.65434999999999,-11.54013],"type":"Point"}
+}

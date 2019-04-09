@@ -1,0 +1,78 @@
+{
+  "id": 1293553137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05833,-3.81417,-75.05833,-3.81417",
+    "geom:latitude":-3.81417,
+    "geom:longitude":-75.05833,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160304.0",
+    "gn:asciiname":"Trompeteros",
+    "gn:country_code":"PE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3691185,
+    "gn:latitude":-3.81417,
+    "gn:longitude":-75.05833,
+    "gn:modification_date":"2013-11-03",
+    "gn:name":"Trompeteros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Trompeteros"
+    ],
+    "name:spa_x_preferred":[
+        "Corrientes Trompeteros"
+    ],
+    "name:spa_x_variant":[
+        "Villa Trompeteros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691185
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c6540b0c83e28b61e1cdba505625f9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1293553137,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1293553137,
+    "wof:lastmodified":1537676532,
+    "wof:name":"Trompeteros",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05833,
+    -3.81417,
+    -75.05833,
+    -3.81417
+],
+  "geometry": {"coordinates":[-75.05833,-3.81417],"type":"Point"}
+}

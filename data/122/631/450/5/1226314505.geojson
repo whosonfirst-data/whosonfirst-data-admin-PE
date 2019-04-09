@@ -1,0 +1,73 @@
+{
+  "id": 1226314505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.21573,-3.63983,-73.21573,-3.63983",
+    "geom:latitude":-3.63983,
+    "geom:longitude":-73.21573,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160108.0",
+    "gn:asciiname":"Barrio Florido",
+    "gn:country_code":"PE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827827,
+    "gn:latitude":-3.63983,
+    "gn:longitude":-73.21573,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Barrio Florido",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barrio Florida",
+        "Barrio Florido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827827
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9b8cb6950c9d529adda6c232877c1d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1226314505,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1226314505,
+    "wof:lastmodified":1537676661,
+    "wof:name":"Barrio Florido",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.21573000000002,
+    -3.63983,
+    -73.21573000000002,
+    -3.63983
+],
+  "geometry": {"coordinates":[-73.21573000000002,-3.63983],"type":"Point"}
+}

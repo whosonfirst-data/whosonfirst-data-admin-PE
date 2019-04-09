@@ -1,0 +1,87 @@
+{
+  "id": 421192735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15,-13.55,-73.15,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":-73.15,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Pacucha"
+    ],
+    "name:que_x_preferred":[
+        "Paqucha llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Pacucha"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3933781,
+    "qs:gn_pop":0,
+    "qs:name":"Pacucha",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Apur\u00edmac",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1174586,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419093,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":10,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933781,
+        "gp:id":419093,
+        "qs:id":1174586,
+        "wd:id":"Q27862963"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009747,
+    "wof:geomhash":"d9eb4f9ab62d2c494ff161aaf8d946fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":421192735,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":421192735,
+    "wof:lastmodified":1553816381,
+    "wof:name":"Pacucha",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15,
+    -13.55,
+    -73.15,
+    -13.55
+],
+  "geometry": {"coordinates":[-73.15000000000001,-13.55],"type":"Point"}
+}

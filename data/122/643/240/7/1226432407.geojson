@@ -1,0 +1,73 @@
+{
+  "id": 1226432407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21614,-13.66015,-72.21614,-13.66015",
+    "geom:latitude":-13.66015,
+    "geom:longitude":-72.21614,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Paucarcoto",
+    "gn:country_code":"PE",
+    "gn:dem":3186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932653,
+    "gn:latitude":-13.66015,
+    "gn:longitude":-72.21614,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Paucarcoto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paucarcoto Hacienda",
+        "Paucarcoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932653
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"785f826527db8badca7babe66685009b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1226432407,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226432407,
+    "wof:lastmodified":1537676732,
+    "wof:name":"Paucarcoto",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21614,
+    -13.66015,
+    -72.21614,
+    -13.66015
+],
+  "geometry": {"coordinates":[-72.21614,-13.66015],"type":"Point"}
+}

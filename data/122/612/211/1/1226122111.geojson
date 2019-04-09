@@ -1,0 +1,72 @@
+{
+  "id": 1226122111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74698,-10.99638,-74.74698,-10.99638",
+    "geom:latitude":-10.99638,
+    "geom:longitude":-74.74698,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120303.0",
+    "gn:asciiname":"Boca de Ipoki",
+    "gn:country_code":"PE",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963940,
+    "gn:latitude":-10.99638,
+    "gn:longitude":-74.74698,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Boca de Ipoki",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Boca de Ipoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963940
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"118f62530e44cf8d0b834a423a24d327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1226122111,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226122111,
+    "wof:lastmodified":1537676888,
+    "wof:name":"Boca de Ipoki",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74698000000002,
+    -10.99638,
+    -74.74698000000002,
+    -10.99638
+],
+  "geometry": {"coordinates":[-74.74698000000002,-10.99638],"type":"Point"}
+}

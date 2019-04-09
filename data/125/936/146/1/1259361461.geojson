@@ -1,0 +1,69 @@
+{
+  "id": 1259361461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.15172,-10.26237,-76.15172,-10.26237",
+    "geom:latitude":-10.26237,
+    "geom:longitude":-76.15172,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100207.0",
+    "gn:asciiname":"Tecte",
+    "gn:country_code":"PE",
+    "gn:dem":2752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962636,
+    "gn:latitude":-10.26237,
+    "gn:longitude":-76.15172,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tecte",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962636
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9a9f13d4a6b07a8fa05e71ddd27bf8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1259361461,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1259361461,
+    "wof:lastmodified":1537032603,
+    "wof:name":"Tecte",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15172,
+    -10.26237,
+    -76.15172,
+    -10.26237
+],
+  "geometry": {"coordinates":[-76.15172,-10.26237],"type":"Point"}
+}

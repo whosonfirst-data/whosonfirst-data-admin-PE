@@ -1,0 +1,73 @@
+{
+  "id": 1309877373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.40747,-3.79932,-74.40747,-3.79932",
+    "geom:latitude":-3.79932,
+    "geom:longitude":-74.40747,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160303.0",
+    "gn:asciiname":"Nankin",
+    "gn:country_code":"PE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694477,
+    "gn:latitude":-3.79932,
+    "gn:longitude":-74.40747,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nankin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Nankin",
+        "Nankin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694477
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"904140cc4c6e02c0a7940c95c199a00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1309877373,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1309877373,
+    "wof:lastmodified":1537676580,
+    "wof:name":"Nankin",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.40746999999998,
+    -3.79932,
+    -74.40746999999998,
+    -3.79932
+],
+  "geometry": {"coordinates":[-74.40746999999998,-3.79932],"type":"Point"}
+}

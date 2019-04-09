@@ -1,0 +1,63 @@
+{
+  "id": 1209592255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.98333,-11.03639,-75.98333,-11.03639",
+    "geom:latitude":-11.03639,
+    "geom:longitude":-75.98333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1205.0",
+    "gn:admin3_code":"120501.0",
+    "gn:asciiname":"Pajpan",
+    "gn:country_code":"PE",
+    "gn:dem":4366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3958107,
+    "gn:latitude":-11.03639,
+    "gn:longitude":-75.98333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pajpan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3958107
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e646fcaa2881a0509a30198d132a314e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209592255
+        }
+    ],
+    "wof:id":1209592255,
+    "wof:lastmodified":1536282441,
+    "wof:name":"Pajpan",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.98333000000002,
+    -11.03639,
+    -75.98333000000002,
+    -11.03639
+],
+  "geometry": {"coordinates":[-75.98333000000002,-11.03639],"type":"Point"}
+}

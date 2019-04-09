@@ -1,0 +1,69 @@
+{
+  "id": 1259484055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47361,-13.78528,-73.47361,-13.78528",
+    "geom:latitude":-13.78528,
+    "geom:longitude":-73.47361,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30218.0",
+    "gn:asciiname":"Turpo",
+    "gn:country_code":"PE",
+    "gn:dem":3301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3926734,
+    "gn:latitude":-13.78528,
+    "gn:longitude":-73.47361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Turpo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926734
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a4f6e0c985e12ed249e6a56bb7007a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1259484055,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1259484055,
+    "wof:lastmodified":1536856773,
+    "wof:name":"Turpo",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47361,
+    -13.78528,
+    -73.47361,
+    -13.78528
+],
+  "geometry": {"coordinates":[-73.47360999999999,-13.78528],"type":"Point"}
+}

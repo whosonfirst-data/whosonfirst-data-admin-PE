@@ -1,0 +1,69 @@
+{
+  "id": 1343246043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93694,-13.5875,-74.93694,-13.5875",
+    "geom:latitude":-13.5875,
+    "geom:longitude":-74.93694,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Chipta",
+    "gn:country_code":"PE",
+    "gn:dem":4174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6365177,
+    "gn:latitude":-13.5875,
+    "gn:longitude":-74.93694,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chipta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6365177
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d4a0ab64e4c01500444090d100aa2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1343246043,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343246043,
+    "wof:lastmodified":1537053485,
+    "wof:name":"Chipta",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93694,
+    -13.5875,
+    -74.93694,
+    -13.5875
+],
+  "geometry": {"coordinates":[-74.93694000000001,-13.5875],"type":"Point"}
+}

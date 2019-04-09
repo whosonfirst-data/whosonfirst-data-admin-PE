@@ -1,0 +1,63 @@
+{
+  "id": 1209394469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.11667,-10.85,-75.11667,-10.85",
+    "geom:latitude":-10.85,
+    "geom:longitude":-75.11667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Meticaro",
+    "gn:country_code":"PE",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935016,
+    "gn:latitude":-10.85,
+    "gn:longitude":-75.11667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Meticaro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935016
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c4203725cfedbc58253a412dd0345e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209394469
+        }
+    ],
+    "wof:id":1209394469,
+    "wof:lastmodified":1536288350,
+    "wof:name":"Meticaro",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.11667,
+    -10.85,
+    -75.11667,
+    -10.85
+],
+  "geometry": {"coordinates":[-75.11667,-10.85],"type":"Point"}
+}

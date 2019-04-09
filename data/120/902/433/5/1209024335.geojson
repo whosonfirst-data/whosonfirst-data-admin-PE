@@ -1,0 +1,63 @@
+{
+  "id": 1209024335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9839,-9.029,-76.9839,-9.029",
+    "geom:latitude":-9.029,
+    "geom:longitude":-76.9839,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100401.0",
+    "gn:asciiname":"Inipupampa",
+    "gn:country_code":"PE",
+    "gn:dem":2913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675576,
+    "gn:latitude":-9.029,
+    "gn:longitude":-76.9839,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"I\u00f1ipupampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675576
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d6c0acdd63e24a5acf24e7092e07415e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209024335
+        }
+    ],
+    "wof:id":1209024335,
+    "wof:lastmodified":1536300049,
+    "wof:name":"Inipupampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9839,
+    -9.029,
+    -76.9839,
+    -9.029
+],
+  "geometry": {"coordinates":[-76.98390000000001,-9.029],"type":"Point"}
+}

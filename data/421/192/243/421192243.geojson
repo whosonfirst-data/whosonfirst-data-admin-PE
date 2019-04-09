@@ -1,0 +1,119 @@
+{
+  "id": 421192243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52939,-11.91161,-76.52939,-11.91161",
+    "geom:latitude":-11.91161,
+    "geom:longitude":-76.52939,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:epo_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:fra_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:hbs_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:por_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d \u0411\u0430\u0440\u0442\u043e\u043b\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:srp_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:unk_x_variant":[
+        "San Bartollom\u00e9"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3929800,
+    "qs:gn_pop":0,
+    "qs:name":"San Bartolo",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":639,
+    "qs:photos_1k":129,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":639,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165455,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419710,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929805,
+        "gp:id":419710,
+        "qs:id":1165455,
+        "qs_pg:id":150992
+    },
+    "wof:country":"PE",
+    "wof:created":1459009730,
+    "wof:geomhash":"3ac643ca2816a68079b6f98c255aaffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421192243,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":421192243,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421192243,
+    "wof:lastmodified":1527716109,
+    "wof:name":"San Bartolo",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52939,
+    -11.91161,
+    -76.52939,
+    -11.91161
+],
+  "geometry": {"coordinates":[-76.52939000000001,-11.91161],"type":"Point"}
+}

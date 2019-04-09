@@ -1,0 +1,72 @@
+{
+  "id": 1276189459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.64811,-4.52139,-80.64811,-4.52139",
+    "geom:latitude":-4.52139,
+    "geom:longitude":-80.64811,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200604.0",
+    "gn:asciiname":"Bocanas",
+    "gn:country_code":"PE",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3699293,
+    "gn:latitude":-4.52139,
+    "gn:longitude":-80.64811,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bocanas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bocanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699293
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3f74e9627164bb9e3f7f25d781c23346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1276189459,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276189459,
+    "wof:lastmodified":1537676641,
+    "wof:name":"Bocanas",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.64811,
+    -4.52139,
+    -80.64811,
+    -4.52139
+],
+  "geometry": {"coordinates":[-80.64811,-4.52139],"type":"Point"}
+}

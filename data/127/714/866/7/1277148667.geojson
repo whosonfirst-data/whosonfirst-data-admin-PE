@@ -1,0 +1,69 @@
+{
+  "id": 1277148667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69083,-4.57111,-73.69083,-4.57111",
+    "geom:latitude":-4.57111,
+    "geom:longitude":-73.69083,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160301.0",
+    "gn:asciiname":"Nueve de Octubre",
+    "gn:country_code":"PE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279064,
+    "gn:latitude":-4.57111,
+    "gn:longitude":-73.69083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Nueve de Octubre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279064
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a0944f1221a43e2d0608116d776648a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1277148667,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1277148667,
+    "wof:lastmodified":1536672681,
+    "wof:name":"Nueve de Octubre",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69083,
+    -4.57111,
+    -73.69083,
+    -4.57111
+],
+  "geometry": {"coordinates":[-73.69083000000001,-4.57111],"type":"Point"}
+}

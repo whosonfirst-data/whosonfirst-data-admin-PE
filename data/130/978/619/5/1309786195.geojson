@@ -1,0 +1,72 @@
+{
+  "id": 1309786195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69568,-14.14016,-75.69568,-14.14016",
+    "geom:latitude":-14.14016,
+    "geom:longitude":-75.69568,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110113.0",
+    "gn:asciiname":"Los Mendoza",
+    "gn:country_code":"PE",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003730,
+    "gn:latitude":-14.14016,
+    "gn:longitude":-75.69568,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Los Mendoza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Mendoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003730
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5642238418b96b7fed178a28bf17cdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1309786195,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1309786195,
+    "wof:lastmodified":1537676955,
+    "wof:name":"Los Mendoza",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69568000000002,
+    -14.14016,
+    -75.69568000000002,
+    -14.14016
+],
+  "geometry": {"coordinates":[-75.69568000000002,-14.14016],"type":"Point"}
+}

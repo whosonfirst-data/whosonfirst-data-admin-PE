@@ -1,0 +1,72 @@
+{
+  "id": 1242754513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74062,-11.04978,-73.74062,-11.04978",
+    "geom:latitude":-11.04978,
+    "geom:longitude":-73.74062,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120608.0",
+    "gn:asciiname":"Tipicharoja",
+    "gn:country_code":"PE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6395379,
+    "gn:latitude":-11.04978,
+    "gn:longitude":-73.74062,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tipicharoja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tipicharoja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395379
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"404b5b42064386d7804141c8a6d50ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1242754513,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1242754513,
+    "wof:lastmodified":1537676898,
+    "wof:name":"Tipicharoja",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74061999999998,
+    -11.04978,
+    -73.74061999999998,
+    -11.04978
+],
+  "geometry": {"coordinates":[-73.74061999999998,-11.04978],"type":"Point"}
+}

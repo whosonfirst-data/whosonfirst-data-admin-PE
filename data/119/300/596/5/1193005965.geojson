@@ -1,0 +1,75 @@
+{
+  "id": 1193005965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73352,-13.28864,-75.73352,-13.28864",
+    "geom:latitude":-13.28864,
+    "geom:longitude":-75.73352,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Nina Pata",
+    "gn:country_code":"PE",
+    "gn:dem":2580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934265,
+    "gn:latitude":-13.28864,
+    "gn:longitude":-75.73352,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Nina Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nina Pata"
+    ],
+    "name:spa_x_variant":[
+        "Ninapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934265
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dea8835de07f0aab3b4df485ba53deef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1193005965,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1193005965,
+    "wof:lastmodified":1537676747,
+    "wof:name":"Nina Pata",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73352,
+    -13.28864,
+    -75.73352,
+    -13.28864
+],
+  "geometry": {"coordinates":[-75.73352,-13.28864],"type":"Point"}
+}

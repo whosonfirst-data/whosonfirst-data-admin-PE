@@ -1,0 +1,63 @@
+{
+  "id": 1209399557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53947,-14.62891,-71.53947,-14.62891",
+    "geom:latitude":-14.62891,
+    "geom:longitude":-71.53947,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Totora",
+    "gn:country_code":"PE",
+    "gn:dem":4055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956678,
+    "gn:latitude":-14.62891,
+    "gn:longitude":-71.53947,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Totora",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956678
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d057117b2dc942e9517f170bd3ad2f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209399557
+        }
+    ],
+    "wof:id":1209399557,
+    "wof:lastmodified":1536288191,
+    "wof:name":"Totora",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53947,
+    -14.62891,
+    -71.53947,
+    -14.62891
+],
+  "geometry": {"coordinates":[-71.53946999999999,-14.62891],"type":"Point"}
+}

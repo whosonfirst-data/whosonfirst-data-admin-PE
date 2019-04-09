@@ -1,0 +1,72 @@
+{
+  "id": 1310715361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.33408,-5.88405,-78.33408,-5.88405",
+    "geom:latitude":-5.88405,
+    "geom:longitude":-78.33408,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Galeras",
+    "gn:country_code":"PE",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873443,
+    "gn:latitude":-5.88405,
+    "gn:longitude":-78.33408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Galeras",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Galeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873443
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"64a9a92ede894f34e95c3d39d56cfd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1310715361,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1310715361,
+    "wof:lastmodified":1537676926,
+    "wof:name":"Galeras",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.33408,
+    -5.88405,
+    -78.33408,
+    -5.88405
+],
+  "geometry": {"coordinates":[-78.33408,-5.88405],"type":"Point"}
+}

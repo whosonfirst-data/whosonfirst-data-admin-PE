@@ -1,0 +1,79 @@
+{
+  "id": 421195813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46093,-15.72755,-74.46093,-15.72755",
+    "geom:latitude":-15.72755,
+    "geom:longitude":-74.46093,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Tanaco"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3927905,
+    "qs:gn_pop":0,
+    "qs:name":"Tanaca",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":109,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":109,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1342503,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419767,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927905,
+        "gp:id":419767,
+        "qs:id":1342503
+    },
+    "wof:country":"PE",
+    "wof:created":1459009860,
+    "wof:geomhash":"cc22146dc505c4b8c22a46b7e318d793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":421195813,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421195813,
+    "wof:lastmodified":1501269289,
+    "wof:name":"Tanaca",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46093,
+    -15.72755,
+    -74.46093,
+    -15.72755
+],
+  "geometry": {"coordinates":[-74.46093,-15.72755],"type":"Point"}
+}

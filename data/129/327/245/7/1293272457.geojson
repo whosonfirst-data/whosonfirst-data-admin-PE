@@ -1,0 +1,72 @@
+{
+  "id": 1293272457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93007,-14.96824,-74.93007,-14.96824",
+    "geom:latitude":-14.96824,
+    "geom:longitude":-74.93007,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110305.0",
+    "gn:asciiname":"Chauchilla",
+    "gn:country_code":"PE",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944215,
+    "gn:latitude":-14.96824,
+    "gn:longitude":-74.93007,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Chauchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chauchilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944215
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a0c71abd89d96634ea0b1c40d66e3777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1293272457,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293272457,
+    "wof:lastmodified":1537676837,
+    "wof:name":"Chauchilla",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93007,
+    -14.96824,
+    -74.93007,
+    -14.96824
+],
+  "geometry": {"coordinates":[-74.93007,-14.96824],"type":"Point"}
+}

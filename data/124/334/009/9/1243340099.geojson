@@ -1,0 +1,72 @@
+{
+  "id": 1243340099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.15991,-10.93607,-75.15991,-10.93607",
+    "geom:latitude":-10.93607,
+    "geom:longitude":-75.15991,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120302.0",
+    "gn:asciiname":"Rio Negro",
+    "gn:country_code":"PE",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564149,
+    "gn:latitude":-10.93607,
+    "gn:longitude":-75.15991,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"R\u00edo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564149
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3c6181f0829bf8c1282667f3b7a8f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1243340099,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1243340099,
+    "wof:lastmodified":1537676902,
+    "wof:name":"Rio Negro",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.15991,
+    -10.93607,
+    -75.15991,
+    -10.93607
+],
+  "geometry": {"coordinates":[-75.15991,-10.93607],"type":"Point"}
+}

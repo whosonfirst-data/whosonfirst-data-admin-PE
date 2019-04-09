@@ -1,0 +1,72 @@
+{
+  "id": 1226100479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.49809,-6.97265,-76.49809,-6.97265",
+    "geom:latitude":-6.97265,
+    "geom:longitude":-76.49809,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220707.0",
+    "gn:asciiname":"Pampacocha",
+    "gn:country_code":"PE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039951,
+    "gn:latitude":-6.97265,
+    "gn:longitude":-76.49809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pampacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampacocha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039951
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f7411a156ac0d67bbcabab927a1a753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1226100479,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226100479,
+    "wof:lastmodified":1537676964,
+    "wof:name":"Pampacocha",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.49809,
+    -6.97265,
+    -76.49809,
+    -6.97265
+],
+  "geometry": {"coordinates":[-76.49809,-6.97265],"type":"Point"}
+}

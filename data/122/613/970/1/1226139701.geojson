@@ -1,0 +1,69 @@
+{
+  "id": 1226139701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.34167,-13.58861,-72.34167,-13.58861",
+    "geom:latitude":-13.58861,
+    "geom:longitude":-72.34167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Llaullijasa",
+    "gn:country_code":"PE",
+    "gn:dem":3760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6391913,
+    "gn:latitude":-13.58861,
+    "gn:longitude":-72.34167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Llaullijasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6391913
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"65886b15938b672dfca0ef40a63afee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1226139701,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226139701,
+    "wof:lastmodified":1537083290,
+    "wof:name":"Llaullijasa",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.34167,
+    -13.58861,
+    -72.34167,
+    -13.58861
+],
+  "geometry": {"coordinates":[-72.34166999999999,-13.58861],"type":"Point"}
+}

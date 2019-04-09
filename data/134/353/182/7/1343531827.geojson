@@ -1,0 +1,72 @@
+{
+  "id": 1343531827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.67005,-6.72965,-79.67005,-6.72965",
+    "geom:latitude":-6.72965,
+    "geom:longitude":-79.67005,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140117.0",
+    "gn:asciiname":"Primoreal",
+    "gn:country_code":"PE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10940963,
+    "gn:latitude":-6.72965,
+    "gn:longitude":-79.67005,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Primoreal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Primoreal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10940963
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"676f0dfa37a430211760ba83a6835427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1343531827,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1343531827,
+    "wof:lastmodified":1537676945,
+    "wof:name":"Primoreal",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.67005,
+    -6.72965,
+    -79.67005,
+    -6.72965
+],
+  "geometry": {"coordinates":[-79.67005,-6.72965],"type":"Point"}
+}

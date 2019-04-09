@@ -1,0 +1,69 @@
+{
+  "id": 1326828599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96223,-13.63335,-73.96223,-13.63335",
+    "geom:latitude":-13.63335,
+    "geom:longitude":-73.96223,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51101.0",
+    "gn:asciiname":"Chaninpata",
+    "gn:country_code":"PE",
+    "gn:dem":3158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944372,
+    "gn:latitude":-13.63335,
+    "gn:longitude":-73.96223,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chaninpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944372
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3d56df22d9360413cb6e6887fcdddbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693943,
+            "locality_id":1326828599,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1326828599,
+    "wof:lastmodified":1537051833,
+    "wof:name":"Chaninpata",
+    "wof:parent_id":1108693943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96223,
+    -13.63335,
+    -73.96223,
+    -13.63335
+],
+  "geometry": {"coordinates":[-73.96223000000001,-13.63335],"type":"Point"}
+}

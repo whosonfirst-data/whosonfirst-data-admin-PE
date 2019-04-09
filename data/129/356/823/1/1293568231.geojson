@@ -1,0 +1,69 @@
+{
+  "id": 1293568231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41722,-8.03722,-77.41722,-8.03722",
+    "geom:latitude":-8.03722,
+    "geom:longitude":-77.41722,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130808.0",
+    "gn:asciiname":"Cerro Negro",
+    "gn:country_code":"PE",
+    "gn:dem":3642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6384816,
+    "gn:latitude":-8.03722,
+    "gn:longitude":-77.41722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cerro Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421172463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6384816
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"85ffc41c7a2f85823ba46177b8feee84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172463,
+            "locality_id":1293568231,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1293568231,
+    "wof:lastmodified":1536670708,
+    "wof:name":"Cerro Negro",
+    "wof:parent_id":421172463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41722,
+    -8.03722,
+    -77.41722,
+    -8.03722
+],
+  "geometry": {"coordinates":[-77.41722,-8.03722],"type":"Point"}
+}

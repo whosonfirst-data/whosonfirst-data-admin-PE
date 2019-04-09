@@ -1,0 +1,72 @@
+{
+  "id": 1276730035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85636,-10.60477,-73.85636,-10.60477",
+    "geom:latitude":-10.60477,
+    "geom:longitude":-73.85636,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2502.0",
+    "gn:admin3_code":"250201.0",
+    "gn:asciiname":"Selva Alegre",
+    "gn:country_code":"PE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964264,
+    "gn:latitude":-10.60477,
+    "gn:longitude":-73.85636,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Selva Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Selva Alegre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421175155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964264
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e13ad7f23126a8f63455f5b12c375497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175155,
+            "locality_id":1276730035,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1276730035,
+    "wof:lastmodified":1537676889,
+    "wof:name":"Selva Alegre",
+    "wof:parent_id":421175155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85636,
+    -10.60477,
+    -73.85636,
+    -10.60477
+],
+  "geometry": {"coordinates":[-73.85636,-10.60477],"type":"Point"}
+}

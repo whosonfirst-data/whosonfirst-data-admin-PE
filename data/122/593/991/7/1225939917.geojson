@@ -1,0 +1,74 @@
+{
+  "id": 1225939917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25,-9.63333,-76.25,-9.63333",
+    "geom:latitude":-9.63333,
+    "geom:longitude":-76.25,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100103.0",
+    "gn:asciiname":"Choquecancha",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698161,
+    "gn:latitude":-9.63333,
+    "gn:longitude":-76.25,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Choquecancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choquecancha Hacienda",
+        "Choquecancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698161
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6fe53e74932375a79389b6aa0b475c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1225939917,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1225939917,
+    "wof:lastmodified":1537676626,
+    "wof:name":"Choquecancha",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25,
+    -9.63333,
+    -76.25,
+    -9.63333
+],
+  "geometry": {"coordinates":[-76.25,-9.63333],"type":"Point"}
+}

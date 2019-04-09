@@ -1,0 +1,72 @@
+{
+  "id": 1344146179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77724,-12.83297,-74.77724,-12.83297",
+    "geom:latitude":-12.83297,
+    "geom:longitude":-74.77724,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90117.0",
+    "gn:asciiname":"Hacienda Pachaslla",
+    "gn:country_code":"PE",
+    "gn:dem":3781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933721,
+    "gn:latitude":-12.83297,
+    "gn:longitude":-74.77724,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Hacienda Pachaslla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pachacla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933721
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d16b936514f436169324559dab576bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1344146179,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1344146179,
+    "wof:lastmodified":1537676741,
+    "wof:name":"Hacienda Pachaslla",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77724,
+    -12.83297,
+    -74.77724,
+    -12.83297
+],
+  "geometry": {"coordinates":[-74.77724000000001,-12.83297],"type":"Point"}
+}

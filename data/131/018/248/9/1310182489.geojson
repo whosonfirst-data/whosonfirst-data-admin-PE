@@ -1,0 +1,74 @@
+{
+  "id": 1310182489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13333,-14.45,-75.13333,-14.45",
+    "geom:latitude":-14.45,
+    "geom:longitude":-75.13333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110401.0",
+    "gn:asciiname":"Cieneguillas",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943032,
+    "gn:latitude":-14.45,
+    "gn:longitude":-75.13333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cieneguillas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cieneguillas Hacienda",
+        "Cieneguillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943032
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d781e8e55e433d11da31c045dfbe45e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1310182489,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1310182489,
+    "wof:lastmodified":1537676827,
+    "wof:name":"Cieneguillas",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13333,
+    -14.45,
+    -75.13333,
+    -14.45
+],
+  "geometry": {"coordinates":[-75.13333,-14.45],"type":"Point"}
+}

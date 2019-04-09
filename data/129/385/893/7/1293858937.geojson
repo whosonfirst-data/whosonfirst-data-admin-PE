@@ -1,0 +1,69 @@
+{
+  "id": 1293858937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65778,-10.605,-76.65778,-10.605",
+    "geom:latitude":-10.605,
+    "geom:longitude":-76.65778,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190201.0",
+    "gn:asciiname":"Ocshacoto",
+    "gn:country_code":"PE",
+    "gn:dem":4518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962829,
+    "gn:latitude":-10.605,
+    "gn:longitude":-76.65778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ocshacoto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962829
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0dd71768fa00133d4492c560a1834631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1293858937,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1293858937,
+    "wof:lastmodified":1536748590,
+    "wof:name":"Ocshacoto",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65778,
+    -10.605,
+    -76.65778,
+    -10.605
+],
+  "geometry": {"coordinates":[-76.65778,-10.605],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343846585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46838,-9.9385,-76.46838,-9.9385",
+    "geom:latitude":-9.9385,
+    "geom:longitude":-76.46838,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100110.0",
+    "gn:asciiname":"Illonga",
+    "gn:country_code":"PE",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670166,
+    "gn:latitude":-9.9385,
+    "gn:longitude":-76.46838,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Illonga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670166
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"692178d9d809ddb78fd24abe44a5255f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1343846585,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343846585,
+    "wof:lastmodified":1536686649,
+    "wof:name":"Illonga",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46838000000002,
+    -9.9385,
+    -76.46838000000002,
+    -9.9385
+],
+  "geometry": {"coordinates":[-76.46838000000002,-9.9385],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226300851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.32986,-18.18608,-70.32986,-18.18608",
+    "geom:latitude":-18.18608,
+    "geom:longitude":-70.32986,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:asciiname":"La Garita",
+    "gn:country_code":"PE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937169,
+    "gn:latitude":-18.18608,
+    "gn:longitude":-70.32986,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"La Garita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937169
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3be093a9f39f64e57d6d508afe01d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1226300851,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1226300851,
+    "wof:lastmodified":1536853264,
+    "wof:name":"La Garita",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.32986,
+    -18.18608,
+    -70.32986,
+    -18.18608
+],
+  "geometry": {"coordinates":[-70.32986,-18.18608],"type":"Point"}
+}

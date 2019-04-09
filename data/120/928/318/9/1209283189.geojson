@@ -1,0 +1,67 @@
+{
+  "id": 1209283189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7571,-8.42148,-76.7571,-8.42148",
+    "geom:latitude":-8.42148,
+    "geom:longitude":-76.7571,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2210.0",
+    "gn:admin3_code":"221004.0",
+    "gn:asciiname":"Shilco",
+    "gn:country_code":"PE",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691887,
+    "gn:latitude":-8.42148,
+    "gn:longitude":-76.7571,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Shilco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silco",
+        "Shilco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691887
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f7067a7303ef49612314a0d0d84643f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209283189
+        }
+    ],
+    "wof:id":1209283189,
+    "wof:lastmodified":1537676541,
+    "wof:name":"Shilco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.7571,
+    -8.42148,
+    -76.7571,
+    -8.42148
+],
+  "geometry": {"coordinates":[-76.75709999999999,-8.42148],"type":"Point"}
+}

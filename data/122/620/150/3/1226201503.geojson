@@ -1,0 +1,74 @@
+{
+  "id": 1226201503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.07644,-4.59439,-80.07644,-4.59439",
+    "geom:latitude":-4.59439,
+    "geom:longitude":-80.07644,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200207.0",
+    "gn:asciiname":"La Saucha",
+    "gn:country_code":"PE",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695505,
+    "gn:latitude":-4.59439,
+    "gn:longitude":-80.07644,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"La Saucha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 de Quiroz Hacienda",
+        "La Succha",
+        "La Saucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695505
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3cbf2e0b800a14e56a1c588fde02173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1226201503,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226201503,
+    "wof:lastmodified":1537676592,
+    "wof:name":"La Saucha",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.07644,
+    -4.59439,
+    -80.07644,
+    -4.59439
+],
+  "geometry": {"coordinates":[-80.07644000000001,-4.59439],"type":"Point"}
+}

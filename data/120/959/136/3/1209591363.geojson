@@ -1,0 +1,64 @@
+{
+  "id": 1209591363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98333,-16.68333,-70.98333,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":-70.98333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180201.0",
+    "gn:asciiname":"Omate",
+    "gn:country_code":"PE",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3934039,
+    "gn:latitude":-16.68333,
+    "gn:longitude":-70.98333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Omate",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934039,
+        "wk:page":"Omate"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7fb28a088414e1bb1bfa24b9dfd36936",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209591363
+        }
+    ],
+    "wof:id":1209591363,
+    "wof:lastmodified":1537570252,
+    "wof:name":"Omate",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98333000000002,
+    -16.68333,
+    -70.98333000000002,
+    -16.68333
+],
+  "geometry": {"coordinates":[-70.98333000000002,-16.68333],"type":"Point"}
+}

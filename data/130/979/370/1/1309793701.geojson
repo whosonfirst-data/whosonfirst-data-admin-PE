@@ -1,0 +1,74 @@
+{
+  "id": 1309793701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06667,-14.83333,-75.06667,-14.83333",
+    "geom:latitude":-14.83333,
+    "geom:longitude":-75.06667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110301.0",
+    "gn:asciiname":"Venturosa",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926266,
+    "gn:latitude":-14.83333,
+    "gn:longitude":-75.06667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Venturosa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Venturosa Hacienda",
+        "Venturosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926266
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c72738763236b244127674e31e0e1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1309793701,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1309793701,
+    "wof:lastmodified":1537676668,
+    "wof:name":"Venturosa",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06667,
+    -14.83333,
+    -75.06667,
+    -14.83333
+],
+  "geometry": {"coordinates":[-75.06667,-14.83333],"type":"Point"}
+}

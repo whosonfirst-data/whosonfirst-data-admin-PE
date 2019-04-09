@@ -1,0 +1,72 @@
+{
+  "id": 890437951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.435,-5.61111,-78.435,-5.61111",
+    "geom:latitude":-5.61111,
+    "geom:longitude":-78.435,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":27045,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "La Peca Nueva"
+    ],
+    "qs:name":"La Peca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695675,
+        "gp:id":406885,
+        "qs:id":1046512,
+        "wd:id":"Q2640030",
+        "wk:page":"La Peca"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052173,
+    "wof:geomhash":"34588d5a85c63fc21de7f7bf7ae34d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693901,
+            "locality_id":890437951,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":890437951,
+    "wof:lastmodified":1527729751,
+    "wof:name":"La Peca",
+    "wof:parent_id":1108693901,
+    "wof:placetype":"locality",
+    "wof:population":27045,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.435,
+    -5.61111,
+    -78.435,
+    -5.61111
+],
+  "geometry": {"coordinates":[-78.435,-5.61111],"type":"Point"}
+}

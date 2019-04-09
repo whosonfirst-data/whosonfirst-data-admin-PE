@@ -1,0 +1,72 @@
+{
+  "id": 1260154135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84653,-6.78646,-79.84653,-6.78646",
+    "geom:latitude":-6.78646,
+    "geom:longitude":-79.84653,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140101.0",
+    "gn:asciiname":"Nuevo Retiro",
+    "gn:country_code":"PE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10952854,
+    "gn:latitude":-6.78646,
+    "gn:longitude":-79.84653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nuevo Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Retiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10952854
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba0cca604def8530460c2b76cf03230a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1260154135,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1260154135,
+    "wof:lastmodified":1537676949,
+    "wof:name":"Nuevo Retiro",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84653,
+    -6.78646,
+    -79.84653,
+    -6.78646
+],
+  "geometry": {"coordinates":[-79.84653,-6.78646],"type":"Point"}
+}

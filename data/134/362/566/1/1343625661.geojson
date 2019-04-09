@@ -1,0 +1,72 @@
+{
+  "id": 1343625661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.54937,-16.01253,-69.54937,-16.01253",
+    "geom:latitude":-16.01253,
+    "geom:longitude":-69.54937,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210501.0",
+    "gn:asciiname":"Airiputi",
+    "gn:country_code":"PE",
+    "gn:dem":3823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948272,
+    "gn:latitude":-16.01253,
+    "gn:longitude":-69.54937,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Airiputi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayripute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948272
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a72ac10fba63e965c7285251485ee086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1343625661,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1343625661,
+    "wof:lastmodified":1537676872,
+    "wof:name":"Airiputi",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.54937,
+    -16.01253,
+    -69.54937,
+    -16.01253
+],
+  "geometry": {"coordinates":[-69.54937,-16.01253],"type":"Point"}
+}

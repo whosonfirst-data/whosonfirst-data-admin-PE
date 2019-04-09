@@ -1,0 +1,68 @@
+{
+  "id": 1209182601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11014,-17.40111,-70.11014,-17.40111",
+    "geom:latitude":-17.40111,
+    "geom:longitude":-70.11014,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230405.0",
+    "gn:asciiname":"Challahuaya",
+    "gn:country_code":"PE",
+    "gn:dem":3277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944518,
+    "gn:latitude":-17.40111,
+    "gn:longitude":-70.11014,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Challahuaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Challaguaya",
+        "Challahuay",
+        "Challahuaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944518
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aad12b9486fa65f07856686bcc6593ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209182601
+        }
+    ],
+    "wof:id":1209182601,
+    "wof:lastmodified":1537676840,
+    "wof:name":"Challahuaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11014,
+    -17.40111,
+    -70.11014,
+    -17.40111
+],
+  "geometry": {"coordinates":[-70.11014,-17.40111],"type":"Point"}
+}

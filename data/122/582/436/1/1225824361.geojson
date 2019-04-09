@@ -1,0 +1,71 @@
+{
+  "id": 1225824361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.56434,-8.91533,-78.56434,-8.91533",
+    "geom:latitude":-8.91533,
+    "geom:longitude":-78.56434,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"218.0",
+    "gn:asciiname":"La Barbacoa",
+    "gn:country_code":"PE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412021,
+    "gn:latitude":-8.91533,
+    "gn:longitude":-78.56434,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"La Barbacoa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Barbacoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412021
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"15ad0ff645578cc3e833640c1cf6c5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1225824361,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1225824361,
+    "wof:lastmodified":1537676898,
+    "wof:name":"La Barbacoa",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.56434,
+    -8.91533,
+    -78.56434,
+    -8.91533
+],
+  "geometry": {"coordinates":[-78.56434,-8.91533],"type":"Point"}
+}

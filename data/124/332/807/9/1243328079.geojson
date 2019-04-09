@@ -1,0 +1,69 @@
+{
+  "id": 1243328079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56427,-4.93514,-79.56427,-4.93514",
+    "geom:latitude":-4.93514,
+    "geom:longitude":-79.56427,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"El Torno",
+    "gn:country_code":"PE",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660901,
+    "gn:latitude":-4.93514,
+    "gn:longitude":-79.56427,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"El Torno",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660901
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57575af998dec9f57119c64351c2c123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1243328079,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243328079,
+    "wof:lastmodified":1536975812,
+    "wof:name":"El Torno",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56427,
+    -4.93514,
+    -79.56427,
+    -4.93514
+],
+  "geometry": {"coordinates":[-79.56426999999999,-4.93514],"type":"Point"}
+}

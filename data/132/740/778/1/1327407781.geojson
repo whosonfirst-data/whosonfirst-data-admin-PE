@@ -1,0 +1,74 @@
+{
+  "id": 1327407781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.58333,-16.33333,-69.58333,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":-69.58333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210401.0",
+    "gn:asciiname":"Haruma",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940251,
+    "gn:latitude":-16.33333,
+    "gn:longitude":-69.58333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Haruma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haruma Hacienda",
+        "Haruma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940251
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4ce1902bb9b251ba487eb49e362e5233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1327407781,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327407781,
+    "wof:lastmodified":1537676803,
+    "wof:name":"Haruma",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.58333,
+    -16.33333,
+    -69.58333,
+    -16.33333
+],
+  "geometry": {"coordinates":[-69.58333,-16.33333],"type":"Point"}
+}

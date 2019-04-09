@@ -1,0 +1,69 @@
+{
+  "id": 1277039019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61528,-15.2525,-70.61528,-15.2525",
+    "geom:latitude":-15.2525,
+    "geom:longitude":-70.61528,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2107.0",
+    "gn:admin3_code":"210706.0",
+    "gn:asciiname":"Yanaaja",
+    "gn:country_code":"PE",
+    "gn:dem":4147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925873,
+    "gn:latitude":-15.2525,
+    "gn:longitude":-70.61528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yanaaja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925873
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6b2f151a3612f2efdef7976a8383adee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187857,
+            "locality_id":1277039019,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1277039019,
+    "wof:lastmodified":1536826961,
+    "wof:name":"Yanaaja",
+    "wof:parent_id":421187857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61528,
+    -15.2525,
+    -70.61528,
+    -15.2525
+],
+  "geometry": {"coordinates":[-70.61528,-15.2525],"type":"Point"}
+}

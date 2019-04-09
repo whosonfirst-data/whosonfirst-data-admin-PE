@@ -1,0 +1,67 @@
+{
+  "id": 1209686299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48516,-6.37654,-79.48516,-6.37654",
+    "geom:latitude":-6.37654,
+    "geom:longitude":-79.48516,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140203.0",
+    "gn:asciiname":"Puchaca",
+    "gn:country_code":"PE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742747,
+    "gn:latitude":-6.37654,
+    "gn:longitude":-79.48516,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Puchaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Puchaca",
+        "Puchaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742747
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aad50c78166594e1342480252ebe4eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209686299
+        }
+    ],
+    "wof:id":1209686299,
+    "wof:lastmodified":1537676648,
+    "wof:name":"Puchaca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48516,
+    -6.37654,
+    -79.48516,
+    -6.37654
+],
+  "geometry": {"coordinates":[-79.48515999999999,-6.37654],"type":"Point"}
+}

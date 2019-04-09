@@ -1,0 +1,62 @@
+{
+  "id": 1209068233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.97833,-10.41222,-75.97833,-10.41222",
+    "geom:latitude":-10.41222,
+    "geom:longitude":-75.97833,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1008.0",
+    "gn:asciiname":"Raquina",
+    "gn:country_code":"PE",
+    "gn:dem":3847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6306708,
+    "gn:latitude":-10.41222,
+    "gn:longitude":-75.97833,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Raquina",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6306708
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f4bae069ba0928a70dda804c239c9a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209068233
+        }
+    ],
+    "wof:id":1209068233,
+    "wof:lastmodified":1536298732,
+    "wof:name":"Raquina",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.97833,
+    -10.41222,
+    -75.97833,
+    -10.41222
+],
+  "geometry": {"coordinates":[-75.97833,-10.41222],"type":"Point"}
+}

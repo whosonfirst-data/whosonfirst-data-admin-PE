@@ -1,0 +1,73 @@
+{
+  "id": 1260055759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98471,-17.25135,-70.98471,-17.25135",
+    "geom:latitude":-17.25135,
+    "geom:longitude":-70.98471,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:asciiname":"Cruz Verde Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941908,
+    "gn:latitude":-17.25135,
+    "gn:longitude":-70.98471,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Cruz Verde Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruz Verde",
+        "Cruz Verde Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941908
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"104f2f388b65e864ad08687fbd434f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1260055759,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1260055759,
+    "wof:lastmodified":1537676818,
+    "wof:name":"Cruz Verde Hacienda",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98470999999998,
+    -17.25135,
+    -70.98470999999998,
+    -17.25135
+],
+  "geometry": {"coordinates":[-70.98470999999998,-17.25135],"type":"Point"}
+}

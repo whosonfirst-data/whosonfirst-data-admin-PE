@@ -1,0 +1,77 @@
+{
+  "id": 1344129457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69297,-11.51074,-76.69297,-11.51074",
+    "geom:latitude":-11.51074,
+    "geom:longitude":-76.69297,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150406.0",
+    "gn:asciiname":"Pirahuanca",
+    "gn:country_code":"PE",
+    "gn:dem":2635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646117,
+    "gn:latitude":-11.51074,
+    "gn:longitude":-76.69297,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pirahuanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646117
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"feeaad4940ad721f099e5440e3f86d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1344129457,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1344129457,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1344129457,
+    "wof:lastmodified":1536776706,
+    "wof:name":"Pirahuanca",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69296999999997,
+    -11.51074,
+    -76.69296999999997,
+    -11.51074
+],
+  "geometry": {"coordinates":[-76.69296999999997,-11.51074],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209874495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34167,-6.85167,-76.34167,-6.85167",
+    "geom:latitude":-6.85167,
+    "geom:longitude":-76.34167,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2207.0",
+    "gn:admin3_code":"220705.0",
+    "gn:asciiname":"Pucacaca",
+    "gn:country_code":"PE",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3693353,
+    "gn:latitude":-6.85167,
+    "gn:longitude":-76.34167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pucacaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693353
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"deae4b006c9ae02e26ba5bca57a7d902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693999,
+            "locality_id":1209874495,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1209874495,
+    "wof:lastmodified":1536370011,
+    "wof:name":"Pucacaca",
+    "wof:parent_id":1108693999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34167,
+    -6.85167,
+    -76.34167,
+    -6.85167
+],
+  "geometry": {"coordinates":[-76.34166999999999,-6.85167],"type":"Point"}
+}

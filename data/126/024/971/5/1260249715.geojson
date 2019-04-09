@@ -1,0 +1,71 @@
+{
+  "id": 1260249715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.26952,-10.63419,-74.26952,-10.63419",
+    "geom:latitude":-10.63419,
+    "geom:longitude":-74.26952,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1903.0",
+    "gn:asciiname":"Chengari",
+    "gn:country_code":"PE",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964020,
+    "gn:latitude":-10.63419,
+    "gn:longitude":-74.26952,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Chengari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chengari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421175175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964020
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"973875bb0103faa3a3693a400e4a862f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175175,
+            "locality_id":1260249715,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1260249715,
+    "wof:lastmodified":1537676888,
+    "wof:name":"Chengari",
+    "wof:parent_id":421175175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26952,
+    -10.63419,
+    -74.26952,
+    -10.63419
+],
+  "geometry": {"coordinates":[-74.26952,-10.63419],"type":"Point"}
+}

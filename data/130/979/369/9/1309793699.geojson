@@ -1,0 +1,72 @@
+{
+  "id": 1309793699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.15563,-14.66868,-75.15563,-14.66868",
+    "geom:latitude":-14.66868,
+    "geom:longitude":-75.15563,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110302.0",
+    "gn:asciiname":"Hacienda La Legua",
+    "gn:country_code":"PE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940432,
+    "gn:latitude":-14.66868,
+    "gn:longitude":-75.15563,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Hacienda La Legua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Legua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940432
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fd672bf6d72d337b22eaa823fad9a2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1309793699,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1309793699,
+    "wof:lastmodified":1537676806,
+    "wof:name":"Hacienda La Legua",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.15563,
+    -14.66868,
+    -75.15563,
+    -14.66868
+],
+  "geometry": {"coordinates":[-75.15563,-14.66868],"type":"Point"}
+}

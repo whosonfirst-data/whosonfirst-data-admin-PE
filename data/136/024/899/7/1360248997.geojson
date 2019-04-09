@@ -1,0 +1,72 @@
+{
+  "id": 1360248997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33302,-15.08412,-69.33302,-15.08412",
+    "geom:latitude":-15.08412,
+    "geom:longitude":-69.33302,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210602.0",
+    "gn:asciiname":"Sihuaruyoc",
+    "gn:country_code":"PE",
+    "gn:dem":4384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928664,
+    "gn:latitude":-15.08412,
+    "gn:longitude":-69.33302,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sihuaruyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sihuaruyoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928664
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"daef8e3b0c7056493d940a2eae935b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183861,
+            "locality_id":1360248997,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1360248997,
+    "wof:lastmodified":1537676689,
+    "wof:name":"Sihuaruyoc",
+    "wof:parent_id":421183861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33301999999999,
+    -15.08412,
+    -69.33301999999999,
+    -15.08412
+],
+  "geometry": {"coordinates":[-69.33301999999999,-15.08412],"type":"Point"}
+}

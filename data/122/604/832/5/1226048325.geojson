@@ -1,0 +1,69 @@
+{
+  "id": 1226048325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65319,-15.64895,-74.65319,-15.64895",
+    "geom:latitude":-15.64895,
+    "geom:longitude":-74.65319,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40305.0",
+    "gn:asciiname":"Musia",
+    "gn:country_code":"PE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934442,
+    "gn:latitude":-15.64895,
+    "gn:longitude":-74.65319,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Musia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934442
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b8e69c4f3b122cfa6b1652be1634f6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1226048325,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226048325,
+    "wof:lastmodified":1536721748,
+    "wof:name":"Musia",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65319000000002,
+    -15.64895,
+    -74.65319000000002,
+    -15.64895
+],
+  "geometry": {"coordinates":[-74.65319000000002,-15.64895],"type":"Point"}
+}

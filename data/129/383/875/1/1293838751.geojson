@@ -1,0 +1,77 @@
+{
+  "id": 1293838751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23333,-9.51667,-74.23333,-9.51667",
+    "geom:latitude":-9.51667,
+    "geom:longitude":-74.23333,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"2501.0",
+    "gn:admin3_code":"250103.0",
+    "gn:asciiname":"Chesheya",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698374,
+    "gn:latitude":-9.51667,
+    "gn:longitude":-74.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chesheya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chesheva",
+        "Chessea",
+        "Chesea",
+        "Cheshaya",
+        "Chesheya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675891,
+        421171957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cd10c65efe2fb2f29b34c7f350b2f91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171957,
+            "locality_id":1293838751,
+            "region_id":85675891
+        }
+    ],
+    "wof:id":1293838751,
+    "wof:lastmodified":1537676629,
+    "wof:name":"Chesheya",
+    "wof:parent_id":421171957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23333000000002,
+    -9.51667,
+    -74.23333000000002,
+    -9.51667
+],
+  "geometry": {"coordinates":[-74.23333000000002,-9.51667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209738903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.12786,-15.69642,-72.12786,-15.69642",
+    "geom:latitude":-15.69642,
+    "geom:longitude":-72.12786,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40507.0",
+    "gn:asciiname":"Sajarhua",
+    "gn:country_code":"PE",
+    "gn:dem":2876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3954824,
+    "gn:latitude":-15.69642,
+    "gn:longitude":-72.12786,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sajarhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3954824
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4bf543aca9c49567aa47ccf63edebf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1209738903,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1209738903,
+    "wof:lastmodified":1536370663,
+    "wof:name":"Sajarhua",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.12786,
+    -15.69642,
+    -72.12786,
+    -15.69642
+],
+  "geometry": {"coordinates":[-72.12786,-15.69642],"type":"Point"}
+}

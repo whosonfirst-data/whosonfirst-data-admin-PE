@@ -1,0 +1,73 @@
+{
+  "id": 1310465567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23066,-5.89288,-76.23066,-5.89288",
+    "geom:latitude":-5.89288,
+    "geom:longitude":-76.23066,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160201.0",
+    "gn:asciiname":"Munichi",
+    "gn:country_code":"PE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694535,
+    "gn:latitude":-5.89288,
+    "gn:longitude":-76.23066,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Munichi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muniches",
+        "Munichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694535
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"78cc5c7b1ef017741308dacdfe255173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1310465567,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1310465567,
+    "wof:lastmodified":1537676581,
+    "wof:name":"Munichi",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23066,
+    -5.89288,
+    -76.23066,
+    -5.89288
+],
+  "geometry": {"coordinates":[-76.23066,-5.89288],"type":"Point"}
+}

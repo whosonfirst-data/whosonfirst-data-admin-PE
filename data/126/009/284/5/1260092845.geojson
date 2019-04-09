@@ -1,0 +1,73 @@
+{
+  "id": 1260092845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57006,-10.64646,-77.57006,-10.64646",
+    "geom:latitude":-10.64646,
+    "geom:longitude":-77.57006,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21405.0",
+    "gn:asciiname":"Espachin Alto",
+    "gn:country_code":"PE",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941109,
+    "gn:latitude":-10.64646,
+    "gn:longitude":-77.57006,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Espach\u00edn Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espach\u00edn Alto Hacienda",
+        "Espach\u00edn Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941109
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"439c9796129d7734dc8ca44b148260cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694003,
+            "locality_id":1260092845,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1260092845,
+    "wof:lastmodified":1537676812,
+    "wof:name":"Espachin Alto",
+    "wof:parent_id":1108694003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57006,
+    -10.64646,
+    -77.57006,
+    -10.64646
+],
+  "geometry": {"coordinates":[-77.57006,-10.64646],"type":"Point"}
+}

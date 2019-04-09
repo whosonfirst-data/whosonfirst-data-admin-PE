@@ -1,0 +1,63 @@
+{
+  "id": 1209397467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.33861,-11.12389,-77.33861,-11.12389",
+    "geom:latitude":-11.12389,
+    "geom:longitude":-77.33861,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150811.0",
+    "gn:asciiname":"Eniminga Grande",
+    "gn:country_code":"PE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412296,
+    "gn:latitude":-11.12389,
+    "gn:longitude":-77.33861,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Eniminga Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412296
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ac3754468225e6d1a1b0d5213dfd239d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209397467
+        }
+    ],
+    "wof:id":1209397467,
+    "wof:lastmodified":1536288253,
+    "wof:name":"Eniminga Grande",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.33861,
+    -11.12389,
+    -77.33861,
+    -11.12389
+],
+  "geometry": {"coordinates":[-77.33861,-11.12389],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209278437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.38578,-16.55454,-69.38578,-16.55454",
+    "geom:latitude":-16.55454,
+    "geom:longitude":-69.38578,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210403.0",
+    "gn:asciiname":"Gentilmoco",
+    "gn:country_code":"PE",
+    "gn:dem":3898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309843,
+    "gn:latitude":-16.55454,
+    "gn:longitude":-69.38578,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gentilmoco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309843
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1658a6987ea5b3ce6a1c4d4bc31f6117",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209278437
+        }
+    ],
+    "wof:id":1209278437,
+    "wof:lastmodified":1536292109,
+    "wof:name":"Gentilmoco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.38578000000001,
+    -16.55454,
+    -69.38578000000001,
+    -16.55454
+],
+  "geometry": {"coordinates":[-69.38578000000001,-16.55454],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209371115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69778,-7.02895,-76.69778,-7.02895",
+    "geom:latitude":-7.02895,
+    "geom:longitude":-76.69778,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220405.0",
+    "gn:asciiname":"Nuevo Oriente",
+    "gn:country_code":"PE",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544059,
+    "gn:latitude":-7.02895,
+    "gn:longitude":-76.69778,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Nuevo Oriente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Oriente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544059
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"624b5d08e33a74ecfde0e9684915e466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209371115
+        }
+    ],
+    "wof:id":1209371115,
+    "wof:lastmodified":1537676908,
+    "wof:name":"Nuevo Oriente",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69778000000002,
+    -7.02895,
+    -76.69778000000002,
+    -7.02895
+],
+  "geometry": {"coordinates":[-76.69778000000002,-7.02895],"type":"Point"}
+}

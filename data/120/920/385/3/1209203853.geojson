@@ -1,0 +1,62 @@
+{
+  "id": 1209203853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8653,-12.04222,-74.8653,-12.04222",
+    "geom:latitude":-12.04222,
+    "geom:longitude":-74.8653,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"San Miguel Antarpa",
+    "gn:country_code":"PE",
+    "gn:dem":2427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663891,
+    "gn:latitude":-12.04222,
+    "gn:longitude":-74.8653,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"San Miguel Antarpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663891
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b07f7bde51b099375e3577621b017e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209203853
+        }
+    ],
+    "wof:id":1209203853,
+    "wof:lastmodified":1536294519,
+    "wof:name":"San Miguel Antarpa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8653,
+    -12.04222,
+    -74.8653,
+    -12.04222
+],
+  "geometry": {"coordinates":[-74.8653,-12.04222],"type":"Point"}
+}

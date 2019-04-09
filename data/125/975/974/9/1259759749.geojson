@@ -1,0 +1,69 @@
+{
+  "id": 1259759749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.90895,-11.78849,-75.90895,-11.78849",
+    "geom:latitude":-11.78849,
+    "geom:longitude":-75.90895,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120809.0",
+    "gn:asciiname":"Tingo",
+    "gn:country_code":"PE",
+    "gn:dem":4252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671297,
+    "gn:latitude":-11.78849,
+    "gn:longitude":-75.90895,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tingo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671297
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fc91089a36a942a4887a3362427b3aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1259759749,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1259759749,
+    "wof:lastmodified":1536957377,
+    "wof:name":"Tingo",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.90895,
+    -11.78849,
+    -75.90895,
+    -11.78849
+],
+  "geometry": {"coordinates":[-75.90895,-11.78849],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309764493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47555,-7.25556,-76.47555,-7.25556",
+    "geom:latitude":-7.25556,
+    "geom:longitude":-76.47555,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220202.0",
+    "gn:asciiname":"Cusco",
+    "gn:country_code":"PE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697554,
+    "gn:latitude":-7.25556,
+    "gn:longitude":-76.47555,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cusco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Cuzco",
+        "Cusco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697554
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ff5adfafa85778a7839d2428a38d30d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693993,
+            "locality_id":1309764493,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1309764493,
+    "wof:lastmodified":1537676618,
+    "wof:name":"Cusco",
+    "wof:parent_id":1108693993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47555,
+    -7.25556,
+    -76.47555,
+    -7.25556
+],
+  "geometry": {"coordinates":[-76.47555,-7.25556],"type":"Point"}
+}

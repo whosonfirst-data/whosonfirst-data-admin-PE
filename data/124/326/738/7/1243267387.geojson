@@ -1,0 +1,69 @@
+{
+  "id": 1243267387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4887,-5.90773,-78.4887,-5.90773",
+    "geom:latitude":-5.90773,
+    "geom:longitude":-78.4887,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Laguna El Pato",
+    "gn:country_code":"PE",
+    "gn:dem":2381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812029,
+    "gn:latitude":-5.90773,
+    "gn:longitude":-78.4887,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Laguna El Pato",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812029
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"71c243dc67105dd5c4cd3a3aa44974aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1243267387,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1243267387,
+    "wof:lastmodified":1537060912,
+    "wof:name":"Laguna El Pato",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4887,
+    -5.90773,
+    -78.4887,
+    -5.90773
+],
+  "geometry": {"coordinates":[-78.48869999999999,-5.90773],"type":"Point"}
+}

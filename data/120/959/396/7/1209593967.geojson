@@ -1,0 +1,63 @@
+{
+  "id": 1209593967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72291,-8.81239,-74.72291,-8.81239",
+    "geom:latitude":-8.81239,
+    "geom:longitude":-74.72291,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1009.0",
+    "gn:admin3_code":"100903.0",
+    "gn:asciiname":"Auagua Caliente",
+    "gn:country_code":"PE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10344567,
+    "gn:latitude":-8.81239,
+    "gn:longitude":-74.72291,
+    "gn:modification_date":"2015-06-17",
+    "gn:name":"Auagua Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10344567
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"54cef43757b8a1c226d5ecc7be9b764b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209593967
+        }
+    ],
+    "wof:id":1209593967,
+    "wof:lastmodified":1536282386,
+    "wof:name":"Auagua Caliente",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72291,
+    -8.812389999999997,
+    -74.72291,
+    -8.812389999999997
+],
+  "geometry": {"coordinates":[-74.72291,-8.81239],"type":"Point"}
+}

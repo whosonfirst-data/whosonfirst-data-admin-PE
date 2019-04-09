@@ -1,0 +1,69 @@
+{
+  "id": 1243032079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.14471,-16.41306,-70.14471,-16.41306",
+    "geom:latitude":-16.41306,
+    "geom:longitude":-70.14471,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210111.0",
+    "gn:asciiname":"Estancia Paicarane",
+    "gn:country_code":"PE",
+    "gn:dem":4238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3941016,
+    "gn:latitude":-16.41306,
+    "gn:longitude":-70.14471,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Estancia Paicarane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3941016
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2dcb8cdb4251a249092cace64e3306a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1243032079,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243032079,
+    "wof:lastmodified":1536906188,
+    "wof:name":"Estancia Paicarane",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.14471,
+    -16.41306,
+    -70.14471,
+    -16.41306
+],
+  "geometry": {"coordinates":[-70.14471,-16.41306],"type":"Point"}
+}

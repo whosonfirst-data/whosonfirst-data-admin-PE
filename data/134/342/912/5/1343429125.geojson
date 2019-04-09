@@ -1,0 +1,69 @@
+{
+  "id": 1343429125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.80962,-4.07612,-80.80962,-4.07612",
+    "geom:latitude":-4.07612,
+    "geom:longitude":-80.80962,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2402.0",
+    "gn:admin3_code":"240202.0",
+    "gn:asciiname":"El Angelito",
+    "gn:country_code":"PE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3814586,
+    "gn:latitude":-4.07612,
+    "gn:longitude":-80.80962,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"El Angelito",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421175163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3814586
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fa8cf272b89ec3654c568e16b7d9f560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175163,
+            "locality_id":1343429125,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1343429125,
+    "wof:lastmodified":1536791914,
+    "wof:name":"El Angelito",
+    "wof:parent_id":421175163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.80962,
+    -4.07612,
+    -80.80962,
+    -4.07612
+],
+  "geometry": {"coordinates":[-80.80962,-4.07612],"type":"Point"}
+}

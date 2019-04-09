@@ -1,0 +1,69 @@
+{
+  "id": 1193254957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24847,-11.1545,-76.24847,-11.1545",
+    "geom:latitude":-11.1545,
+    "geom:longitude":-76.24847,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120807.0",
+    "gn:asciiname":"Leplin",
+    "gn:country_code":"PE",
+    "gn:dem":4313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669276,
+    "gn:latitude":-11.1545,
+    "gn:longitude":-76.24847,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Leplin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669276
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c1a52ea97c71f5a4f57909bfcab7bd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1193254957,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1193254957,
+    "wof:lastmodified":1536364992,
+    "wof:name":"Leplin",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24847,
+    -11.1545,
+    -76.24847,
+    -11.1545
+],
+  "geometry": {"coordinates":[-76.24847,-11.1545],"type":"Point"}
+}

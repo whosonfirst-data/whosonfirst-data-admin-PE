@@ -1,0 +1,77 @@
+{
+  "id": 421200643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1782,-16.79192,-71.1782,-16.79192",
+    "geom:latitude":-16.79192,
+    "geom:longitude":-71.1782,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3949516,
+    "qs:gn_pop":0,
+    "qs:name":"Yanahuara",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":3864,
+    "qs:photos_1k":783,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3864,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889992,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418014,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":107,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949516,
+        "gp:id":418014,
+        "qs:id":889992
+    },
+    "wof:country":"PE",
+    "wof:created":1459010033,
+    "wof:geomhash":"75f22a442cfae866bcc2a583ab8a270a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":421200643,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":421200643,
+    "wof:lastmodified":1527716421,
+    "wof:name":"Yanahuara",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1782,
+    -16.79192,
+    -71.1782,
+    -16.79192
+],
+  "geometry": {"coordinates":[-71.1782,-16.79192],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243239253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76593,-16.81471,-70.76593,-16.81471",
+    "geom:latitude":-16.81471,
+    "geom:longitude":-70.76593,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180102.0",
+    "gn:asciiname":"Angleya",
+    "gn:country_code":"PE",
+    "gn:dem":3509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947691,
+    "gn:latitude":-16.81471,
+    "gn:longitude":-70.76593,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Angleya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947691
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"93cf92a93e9a36ea14cf8daf0d8cc9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1243239253,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1243239253,
+    "wof:lastmodified":1536604274,
+    "wof:name":"Angleya",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76593000000003,
+    -16.81471,
+    -70.76593000000003,
+    -16.81471
+],
+  "geometry": {"coordinates":[-70.76593000000003,-16.81471],"type":"Point"}
+}

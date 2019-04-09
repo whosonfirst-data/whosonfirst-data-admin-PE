@@ -1,0 +1,66 @@
+{
+  "id": 1209236017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00636,-7.35107,-79.00636,-7.35107",
+    "geom:latitude":-7.35107,
+    "geom:longitude":-79.00636,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60503.0",
+    "gn:asciiname":"Cajon",
+    "gn:country_code":"PE",
+    "gn:dem":2471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007472,
+    "gn:latitude":-7.35107,
+    "gn:longitude":-79.00636,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Caj\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caj\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007472
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9349433517ed8f9d9e3e678f1d191979",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209236017
+        }
+    ],
+    "wof:id":1209236017,
+    "wof:lastmodified":1537676957,
+    "wof:name":"Cajon",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00636,
+    -7.35107,
+    -79.00636,
+    -7.35107
+],
+  "geometry": {"coordinates":[-79.00636,-7.35107],"type":"Point"}
+}

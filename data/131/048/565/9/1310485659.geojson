@@ -1,0 +1,69 @@
+{
+  "id": 1310485659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.01333,-13.99444,-75.01333,-13.99444",
+    "geom:latitude":-13.99444,
+    "geom:longitude":-75.01333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90605.0",
+    "gn:asciiname":"Chupalla",
+    "gn:country_code":"PE",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943178,
+    "gn:latitude":-13.99444,
+    "gn:longitude":-75.01333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chupalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943178
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"56d7209a79f7e04314ff75b1497bc62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1310485659,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310485659,
+    "wof:lastmodified":1536945963,
+    "wof:name":"Chupalla",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.01333000000002,
+    -13.99444,
+    -75.01333000000002,
+    -13.99444
+],
+  "geometry": {"coordinates":[-75.01333000000002,-13.99444],"type":"Point"}
+}

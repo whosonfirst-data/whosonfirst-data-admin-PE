@@ -1,0 +1,69 @@
+{
+  "id": 1344114875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84118,-17.68781,-70.84118,-17.68781",
+    "geom:latitude":-17.68781,
+    "geom:longitude":-70.84118,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2303.0",
+    "gn:admin3_code":"230301.0",
+    "gn:asciiname":"Leche Gloria",
+    "gn:country_code":"PE",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3952552,
+    "gn:latitude":-17.68781,
+    "gn:longitude":-70.84118,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Leche Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3952552
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6792548eacf03587dd7c02cbe87520b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694029,
+            "locality_id":1344114875,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1344114875,
+    "wof:lastmodified":1536797405,
+    "wof:name":"Leche Gloria",
+    "wof:parent_id":1108694029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84118000000002,
+    -17.68781,
+    -70.84118000000002,
+    -17.68781
+],
+  "geometry": {"coordinates":[-70.84118000000002,-17.68781],"type":"Point"}
+}

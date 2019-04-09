@@ -1,0 +1,69 @@
+{
+  "id": 1360288991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.90077,-6.92736,-77.90077,-6.92736",
+    "geom:latitude":-6.92736,
+    "geom:longitude":-77.90077,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106.0",
+    "gn:asciiname":"Cochabamba",
+    "gn:country_code":"PE",
+    "gn:dem":2751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379454,
+    "gn:latitude":-6.92736,
+    "gn:longitude":-77.90077,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cochabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379454
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aa893326bf14279b1ab2941f6e5af2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1360288991,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1360288991,
+    "wof:lastmodified":1536651273,
+    "wof:name":"Cochabamba",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.90077,
+    -6.92736,
+    -77.90077,
+    -6.92736
+],
+  "geometry": {"coordinates":[-77.90076999999999,-6.92736],"type":"Point"}
+}

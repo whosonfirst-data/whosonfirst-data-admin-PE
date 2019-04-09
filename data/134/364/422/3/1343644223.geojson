@@ -1,0 +1,73 @@
+{
+  "id": 1343644223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16722,-11.74778,-77.16722,-11.74778",
+    "geom:latitude":-11.74778,
+    "geom:longitude":-77.16722,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150102.0",
+    "gn:asciiname":"Polvorin",
+    "gn:country_code":"PE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935869,
+    "gn:latitude":-11.74778,
+    "gn:longitude":-77.16722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Polvor\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Polvorines",
+        "Polvor\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935869
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e758c5ac62c8614d81019a8eb721049c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1343644223,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1343644223,
+    "wof:lastmodified":1537676763,
+    "wof:name":"Polvorin",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16722,
+    -11.74778,
+    -77.16722,
+    -11.74778
+],
+  "geometry": {"coordinates":[-77.16722,-11.74778],"type":"Point"}
+}

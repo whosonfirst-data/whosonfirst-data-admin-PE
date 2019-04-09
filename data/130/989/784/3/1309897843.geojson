@@ -1,0 +1,69 @@
+{
+  "id": 1309897843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03815,-5.03939,-79.03815,-5.03939",
+    "geom:latitude":-5.03939,
+    "geom:longitude":-79.03815,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"609.0",
+    "gn:admin3_code":"60901.0",
+    "gn:asciiname":"Peringos",
+    "gn:country_code":"PE",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6368629,
+    "gn:latitude":-5.03939,
+    "gn:longitude":-79.03815,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Peringos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421177057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6368629
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"85da1a7025363cca23af78588a1ad531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177057,
+            "locality_id":1309897843,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1309897843,
+    "wof:lastmodified":1536798508,
+    "wof:name":"Peringos",
+    "wof:parent_id":421177057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03815,
+    -5.03939,
+    -79.03815,
+    -5.03939
+],
+  "geometry": {"coordinates":[-79.03815,-5.03939],"type":"Point"}
+}

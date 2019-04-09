@@ -1,0 +1,75 @@
+{
+  "id": 1310677457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.21713,-10.8128,-75.21713,-10.8128",
+    "geom:latitude":-10.8128,
+    "geom:longitude":-75.21713,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120304.0",
+    "gn:asciiname":"Sanchirio Palomar",
+    "gn:country_code":"PE",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6564161,
+    "gn:latitude":-10.8128,
+    "gn:longitude":-75.21713,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sanchirio Palomar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sanchirio Palomar"
+    ],
+    "name:spa_x_variant":[
+        "Sanchiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6564161
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f34253ed9922bab364f8dcce887da53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1310677457,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1310677457,
+    "wof:lastmodified":1537676902,
+    "wof:name":"Sanchirio Palomar",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.21713000000003,
+    -10.8128,
+    -75.21713000000003,
+    -10.8128
+],
+  "geometry": {"coordinates":[-75.21713000000003,-10.8128],"type":"Point"}
+}

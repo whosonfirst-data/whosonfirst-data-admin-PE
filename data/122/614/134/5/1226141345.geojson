@@ -1,0 +1,69 @@
+{
+  "id": 1226141345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94361,-14.38166,-73.94361,-14.38166",
+    "geom:latitude":-14.38166,
+    "geom:longitude":-73.94361,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50604.0",
+    "gn:asciiname":"Pangapata",
+    "gn:country_code":"PE",
+    "gn:dem":3573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960024,
+    "gn:latitude":-14.38166,
+    "gn:longitude":-73.94361,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pangapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960024
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d1e303bbd99010c97683bbcaab116228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1226141345,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226141345,
+    "wof:lastmodified":1537080955,
+    "wof:name":"Pangapata",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94360999999998,
+    -14.38166,
+    -73.94360999999998,
+    -14.38166
+],
+  "geometry": {"coordinates":[-73.94360999999998,-14.38166],"type":"Point"}
+}

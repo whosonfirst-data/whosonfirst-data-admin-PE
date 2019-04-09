@@ -1,0 +1,82 @@
+{
+  "id": 421192245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69555,-15.45657,-73.69555,-15.45657",
+    "geom:latitude":-15.45657,
+    "geom:longitude":-73.69555,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Tonco"
+    ],
+    "name:spa_x_variant":[
+        "Tanco"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3927875,
+    "qs:gn_pop":0,
+    "qs:name":"Tanaco",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165456,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420579,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927875,
+        "gp:id":420579,
+        "qs:id":1165456
+    },
+    "wof:country":"PE",
+    "wof:created":1459009730,
+    "wof:geomhash":"1d1a9501ba9d6152180a1cf1dc3210d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":421192245,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421192245,
+    "wof:lastmodified":1501269289,
+    "wof:name":"Tanaco",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69555,
+    -15.45657,
+    -73.69555,
+    -15.45657
+],
+  "geometry": {"coordinates":[-73.69555,-15.45657],"type":"Point"}
+}

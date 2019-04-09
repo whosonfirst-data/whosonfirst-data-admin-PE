@@ -1,0 +1,74 @@
+{
+  "id": 1209771073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.45,-3.51667,-80.45,-3.51667",
+    "geom:latitude":-3.51667,
+    "geom:longitude":-80.45,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240101.0",
+    "gn:asciiname":"Las Vacas",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695503,
+    "gn:latitude":-3.51667,
+    "gn:longitude":-80.45,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Las Vacas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vacas",
+        "Las Vacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421187863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695503
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e4980975d135bacf65b30a79b06f19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187863,
+            "locality_id":1209771073,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1209771073,
+    "wof:lastmodified":1537676592,
+    "wof:name":"Las Vacas",
+    "wof:parent_id":421187863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.45,
+    -3.51667,
+    -80.45,
+    -3.51667
+],
+  "geometry": {"coordinates":[-80.45,-3.51667],"type":"Point"}
+}

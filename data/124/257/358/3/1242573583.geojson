@@ -1,0 +1,69 @@
+{
+  "id": 1242573583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23782,-13.32138,-75.23782,-13.32138",
+    "geom:latitude":-13.32138,
+    "geom:longitude":-75.23782,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90401.0",
+    "gn:asciiname":"Quisurumi",
+    "gn:country_code":"PE",
+    "gn:dem":4392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930622,
+    "gn:latitude":-13.32138,
+    "gn:longitude":-75.23782,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Quisurumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930622
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f43471f728b7919cf74a94f220886df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1242573583,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1242573583,
+    "wof:lastmodified":1537066535,
+    "wof:name":"Quisurumi",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23782,
+    -13.32138,
+    -75.23782,
+    -13.32138
+],
+  "geometry": {"coordinates":[-75.23782,-13.32138],"type":"Point"}
+}

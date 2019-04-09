@@ -1,0 +1,69 @@
+{
+  "id": 1327230023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.22512,-12.56768,-74.22512,-12.56768",
+    "geom:latitude":-12.56768,
+    "geom:longitude":-74.22512,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50402.0",
+    "gn:asciiname":"Jatunllamanioc",
+    "gn:country_code":"PE",
+    "gn:dem":4038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650179,
+    "gn:latitude":-12.56768,
+    "gn:longitude":-74.22512,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jatunllamanioc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650179
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"88eba6fdaa065b2a796585543927bd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1327230023,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327230023,
+    "wof:lastmodified":1536972626,
+    "wof:name":"Jatunllamanioc",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.22511999999998,
+    -12.56768,
+    -74.22511999999998,
+    -12.56768
+],
+  "geometry": {"coordinates":[-74.22511999999998,-12.56768],"type":"Point"}
+}

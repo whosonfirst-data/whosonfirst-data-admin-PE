@@ -1,0 +1,72 @@
+{
+  "id": 1276962033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.80528,-6.63833,-79.80528,-6.63833",
+    "geom:latitude":-6.63833,
+    "geom:longitude":-79.80528,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140206.0",
+    "gn:asciiname":"Cana Braba",
+    "gn:country_code":"PE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951290,
+    "gn:latitude":-6.63833,
+    "gn:longitude":-79.80528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ca\u00f1a Braba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ca\u00f1a Braba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951290
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ac2bb83d980e7163fd62e65f1d9c8318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1276962033,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1276962033,
+    "wof:lastmodified":1537676948,
+    "wof:name":"Cana Braba",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.80528000000002,
+    -6.63833,
+    -79.80528000000002,
+    -6.63833
+],
+  "geometry": {"coordinates":[-79.80528000000002,-6.63833],"type":"Point"}
+}

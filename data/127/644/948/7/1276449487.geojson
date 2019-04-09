@@ -1,0 +1,69 @@
+{
+  "id": 1276449487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.39165,-13.66837,-73.39165,-13.66837",
+    "geom:latitude":-13.66837,
+    "geom:longitude":-73.39165,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30201.0",
+    "gn:asciiname":"Rumirumi",
+    "gn:country_code":"PE",
+    "gn:dem":2973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6308297,
+    "gn:latitude":-13.66837,
+    "gn:longitude":-73.39165,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Rumirumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6308297
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7ddd5c26141cc1cb836e9f2b22e8648e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170339,
+            "locality_id":1276449487,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1276449487,
+    "wof:lastmodified":1536620883,
+    "wof:name":"Rumirumi",
+    "wof:parent_id":421170339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39165,
+    -13.66837,
+    -73.39165,
+    -13.66837
+],
+  "geometry": {"coordinates":[-73.39165,-13.66837],"type":"Point"}
+}

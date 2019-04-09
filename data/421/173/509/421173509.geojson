@@ -1,0 +1,79 @@
+{
+  "id": 421173509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77556,-7.3186,-76.77556,-7.3186",
+    "geom:latitude":-7.3186,
+    "geom:longitude":-76.77556,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3696267,
+    "qs:gn_pop":6757,
+    "qs:name":"Huicungo",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"San Martin",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":289512,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418906,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108694041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696267,
+        "gp:id":418906,
+        "qs:id":289512
+    },
+    "wof:country":"PE",
+    "wof:created":1459008984,
+    "wof:geomhash":"61ed9fe29185decbf380f3ea7d386280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694041,
+            "locality_id":421173509,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":421173509,
+    "wof:lastmodified":1505340617,
+    "wof:name":"Huicungo",
+    "wof:parent_id":1108694041,
+    "wof:placetype":"locality",
+    "wof:population":6757,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77556,
+    -7.3186,
+    -76.77556,
+    -7.3186
+],
+  "geometry": {"coordinates":[-76.77556,-7.3186],"type":"Point"}
+}

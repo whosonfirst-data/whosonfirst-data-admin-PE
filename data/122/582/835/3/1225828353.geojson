@@ -1,0 +1,72 @@
+{
+  "id": 1225828353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82295,-6.62789,-79.82295,-6.62789",
+    "geom:latitude":-6.62789,
+    "geom:longitude":-79.82295,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140206.0",
+    "gn:asciiname":"La Colorada",
+    "gn:country_code":"PE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951145,
+    "gn:latitude":-6.62789,
+    "gn:longitude":-79.82295,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951145
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d13237ba2092a29dae21fd4cf663ad62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1225828353,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1225828353,
+    "wof:lastmodified":1537676947,
+    "wof:name":"La Colorada",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82295,
+    -6.62789,
+    -79.82295,
+    -6.62789
+],
+  "geometry": {"coordinates":[-79.82295000000001,-6.62789],"type":"Point"}
+}

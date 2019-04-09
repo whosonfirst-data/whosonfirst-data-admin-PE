@@ -1,0 +1,69 @@
+{
+  "id": 1276847093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85022,-11.72395,-75.85022,-11.72395",
+    "geom:latitude":-11.72395,
+    "geom:longitude":-75.85022,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120802.0",
+    "gn:asciiname":"Anaspuquio",
+    "gn:country_code":"PE",
+    "gn:dem":4370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671192,
+    "gn:latitude":-11.72395,
+    "gn:longitude":-75.85022,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Anaspuquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671192
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"64d46f938f58ad5dc2f539952ea391c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1276847093,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276847093,
+    "wof:lastmodified":1537081905,
+    "wof:name":"Anaspuquio",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85022,
+    -11.72395,
+    -75.85022,
+    -11.72395
+],
+  "geometry": {"coordinates":[-75.85021999999999,-11.72395],"type":"Point"}
+}

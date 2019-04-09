@@ -1,0 +1,68 @@
+{
+  "id": 1344131125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.49711,-5.9401,-79.49711,-5.9401",
+    "geom:latitude":-5.9401,
+    "geom:longitude":-79.49711,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Paja Blanca",
+    "gn:country_code":"PE",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762148,
+    "gn:latitude":-5.9401,
+    "gn:longitude":-79.49711,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Paja Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762148
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"37e1f1c512a6eea87c8844eb85a87299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1344131125,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1344131125,
+    "wof:lastmodified":1536774363,
+    "wof:name":"Paja Blanca",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.49710999999998,
+    -5.9401,
+    -79.49710999999998,
+    -5.9401
+],
+  "geometry": {"coordinates":[-79.49710999999998,-5.9401],"type":"Point"}
+}

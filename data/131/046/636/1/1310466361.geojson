@@ -1,0 +1,74 @@
+{
+  "id": 1310466361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63899,-4.70945,-79.63899,-4.70945",
+    "geom:latitude":-4.70945,
+    "geom:longitude":-79.63899,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200201.0",
+    "gn:asciiname":"Olleros",
+    "gn:country_code":"PE",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694264,
+    "gn:latitude":-4.70945,
+    "gn:longitude":-79.63899,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Olleros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Olleros",
+        "Olleros Hacienda",
+        "Olleros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694264
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e36f9f6e6af2674945343baeae15c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1310466361,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310466361,
+    "wof:lastmodified":1537676577,
+    "wof:name":"Olleros",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63899,
+    -4.70945,
+    -79.63899,
+    -4.70945
+],
+  "geometry": {"coordinates":[-79.63899000000001,-4.70945],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209185285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31083,-8.27083,-77.31083,-8.27083",
+    "geom:latitude":-8.27083,
+    "geom:longitude":-77.31083,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130801.0",
+    "gn:asciiname":"Cayanca",
+    "gn:country_code":"PE",
+    "gn:dem":3469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6385072,
+    "gn:latitude":-8.27083,
+    "gn:longitude":-77.31083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cayanca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6385072
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ba867542fa9f8ecd26146614ecda18aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209185285
+        }
+    ],
+    "wof:id":1209185285,
+    "wof:lastmodified":1536295122,
+    "wof:name":"Cayanca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31083000000002,
+    -8.27083,
+    -77.31083000000002,
+    -8.27083
+],
+  "geometry": {"coordinates":[-77.31083000000002,-8.27083],"type":"Point"}
+}

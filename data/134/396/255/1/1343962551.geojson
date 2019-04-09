@@ -1,0 +1,69 @@
+{
+  "id": 1343962551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.21976,-15.20782,-73.21976,-15.20782",
+    "geom:latitude":-15.20782,
+    "geom:longitude":-73.21976,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50809.0",
+    "gn:asciiname":"Quinocay",
+    "gn:country_code":"PE",
+    "gn:dem":2686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930760,
+    "gn:latitude":-15.20782,
+    "gn:longitude":-73.21976,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Quinocay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930760
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8e25e97c346ce27adf5a9cc4af3fa8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693933,
+            "locality_id":1343962551,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343962551,
+    "wof:lastmodified":1537016196,
+    "wof:name":"Quinocay",
+    "wof:parent_id":1108693933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.21976,
+    -15.20782,
+    -73.21976,
+    -15.20782
+],
+  "geometry": {"coordinates":[-73.21975999999999,-15.20782],"type":"Point"}
+}

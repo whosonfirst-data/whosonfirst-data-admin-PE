@@ -1,0 +1,63 @@
+{
+  "id": 1209294067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30998,-11.34859,-75.30998,-11.34859",
+    "geom:latitude":-11.34859,
+    "geom:longitude":-75.30998,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120419.0",
+    "gn:asciiname":"Cedruyoc",
+    "gn:country_code":"PE",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6560932,
+    "gn:latitude":-11.34859,
+    "gn:longitude":-75.30998,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cedruyoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6560932
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2fa1883593f00e683ef33c5abfe2416f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209294067
+        }
+    ],
+    "wof:id":1209294067,
+    "wof:lastmodified":1536291593,
+    "wof:name":"Cedruyoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30998000000002,
+    -11.34859,
+    -75.30998000000002,
+    -11.34859
+],
+  "geometry": {"coordinates":[-75.30998000000002,-11.34859],"type":"Point"}
+}

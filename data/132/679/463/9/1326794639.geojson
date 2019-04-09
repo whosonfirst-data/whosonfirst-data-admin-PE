@@ -1,0 +1,68 @@
+{
+  "id": 1326794639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98667,-15.2175,-70.98667,-15.2175",
+    "geom:latitude":-15.2175,
+    "geom:longitude":-70.98667,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Auquirana",
+    "gn:country_code":"PE",
+    "gn:dem":4719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947054,
+    "gn:latitude":-15.2175,
+    "gn:longitude":-70.98667,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Auquira\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947054
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05d3cfe8d9407b6406a9d199e658e2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1326794639,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1326794639,
+    "wof:lastmodified":1536602790,
+    "wof:name":"Auquirana",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98666999999998,
+    -15.2175,
+    -70.98666999999998,
+    -15.2175
+],
+  "geometry": {"coordinates":[-70.98666999999998,-15.2175],"type":"Point"}
+}

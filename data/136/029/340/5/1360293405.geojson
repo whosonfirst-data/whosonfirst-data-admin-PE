@@ -1,0 +1,69 @@
+{
+  "id": 1360293405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.89278,-9.30667,-77.89278,-9.30667",
+    "geom:latitude":-9.30667,
+    "geom:longitude":-77.89278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"220.0",
+    "gn:admin3_code":"22005.0",
+    "gn:asciiname":"Tablerga",
+    "gn:country_code":"PE",
+    "gn:dem":3615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379705,
+    "gn:latitude":-9.30667,
+    "gn:longitude":-77.89278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Tablerga",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421187867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379705
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0656cddcb3c8f3a1ef70fa1555beb4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187867,
+            "locality_id":1360293405,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1360293405,
+    "wof:lastmodified":1536644420,
+    "wof:name":"Tablerga",
+    "wof:parent_id":421187867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.89278,
+    -9.30667,
+    -77.89278,
+    -9.30667
+],
+  "geometry": {"coordinates":[-77.89278,-9.30667],"type":"Point"}
+}

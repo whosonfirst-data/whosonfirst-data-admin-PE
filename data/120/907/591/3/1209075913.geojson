@@ -1,0 +1,63 @@
+{
+  "id": 1209075913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64062,-11.53709,-76.64062,-11.53709",
+    "geom:latitude":-11.53709,
+    "geom:longitude":-76.64062,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150405.0",
+    "gn:asciiname":"Huayoco",
+    "gn:country_code":"PE",
+    "gn:dem":3560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646154,
+    "gn:latitude":-11.53709,
+    "gn:longitude":-76.64062,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huayoco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646154
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"92a5c2b19c95baa55432d55eb3dfccd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209075913
+        }
+    ],
+    "wof:id":1209075913,
+    "wof:lastmodified":1536298495,
+    "wof:name":"Huayoco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64062,
+    -11.53709,
+    -76.64062,
+    -11.53709
+],
+  "geometry": {"coordinates":[-76.64062,-11.53709],"type":"Point"}
+}

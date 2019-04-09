@@ -1,0 +1,69 @@
+{
+  "id": 1310401319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71907,-12.78664,-74.71907,-12.78664",
+    "geom:latitude":-12.78664,
+    "geom:longitude":-74.71907,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90206.0",
+    "gn:asciiname":"Chaupicasa",
+    "gn:country_code":"PE",
+    "gn:dem":3768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662180,
+    "gn:latitude":-12.78664,
+    "gn:longitude":-74.71907,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chaupicasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662180
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d38d011d5c861d5a906ca9c5659ec472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1310401319,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310401319,
+    "wof:lastmodified":1537064469,
+    "wof:name":"Chaupicasa",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71907,
+    -12.78664,
+    -74.71907,
+    -12.78664
+],
+  "geometry": {"coordinates":[-74.71907,-12.78664],"type":"Point"}
+}

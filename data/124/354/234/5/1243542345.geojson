@@ -1,0 +1,72 @@
+{
+  "id": 1243542345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96499,-13.14357,-75.96499,-13.14357",
+    "geom:latitude":-13.14357,
+    "geom:longitude":-75.96499,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110203.0",
+    "gn:asciiname":"Isti",
+    "gn:country_code":"PE",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866304,
+    "gn:latitude":-13.14357,
+    "gn:longitude":-75.96499,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Isti",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Isti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866304
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"89ab8d19ba7ed25d7c88b70b6b51edf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1243542345,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1243542345,
+    "wof:lastmodified":1537676941,
+    "wof:name":"Isti",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96499,
+    -13.14357,
+    -75.96499,
+    -13.14357
+],
+  "geometry": {"coordinates":[-75.96499,-13.14357],"type":"Point"}
+}

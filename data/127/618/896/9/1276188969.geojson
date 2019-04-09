@@ -1,0 +1,69 @@
+{
+  "id": 1276188969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62414,-15.07564,-70.62414,-15.07564",
+    "geom:latitude":-15.07564,
+    "geom:longitude":-70.62414,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2108.0",
+    "gn:admin3_code":"210801.0",
+    "gn:asciiname":"Hacienda Huayllacuyo",
+    "gn:country_code":"PE",
+    "gn:dem":4065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940456,
+    "gn:latitude":-15.07564,
+    "gn:longitude":-70.62414,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Hacienda Huayllacuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421187861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940456
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a27f5673b2ba075c0854bd04ccf84e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187861,
+            "locality_id":1276188969,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276188969,
+    "wof:lastmodified":1536972083,
+    "wof:name":"Hacienda Huayllacuyo",
+    "wof:parent_id":421187861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62414,
+    -15.07564,
+    -70.62414,
+    -15.07564
+],
+  "geometry": {"coordinates":[-70.62414,-15.07564],"type":"Point"}
+}

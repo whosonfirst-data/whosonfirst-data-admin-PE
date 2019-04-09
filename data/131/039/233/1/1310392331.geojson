@@ -1,0 +1,72 @@
+{
+  "id": 1310392331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74472,-10.86842,-73.74472,-10.86842",
+    "geom:latitude":-10.86842,
+    "geom:longitude":-73.74472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120608.0",
+    "gn:asciiname":"Empaniquiari",
+    "gn:country_code":"PE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3964210,
+    "gn:latitude":-10.86842,
+    "gn:longitude":-73.74472,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Empaniquiari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Empaniquiari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3964210
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1f60dd0035d3f3a5c4e59b95a78ef283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1310392331,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1310392331,
+    "wof:lastmodified":1537676889,
+    "wof:name":"Empaniquiari",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74472,
+    -10.86842,
+    -73.74472,
+    -10.86842
+],
+  "geometry": {"coordinates":[-73.74472,-10.86842],"type":"Point"}
+}

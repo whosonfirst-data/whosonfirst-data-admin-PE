@@ -1,0 +1,69 @@
+{
+  "id": 890436003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.38917,-6.64056,-79.38917,-6.64056",
+    "geom:latitude":-6.64056,
+    "geom:longitude":-79.38917,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":16061,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chongoyape",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":651,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698176,
+        "gp:id":418751,
+        "qs:id":1046539,
+        "wd:id":"Q5104652",
+        "wk:page":"Chongoyape District"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052090,
+    "wof:geomhash":"4b0908e424bc2a26b2e17dba4c60ff1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":890436003,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":890436003,
+    "wof:lastmodified":1527735405,
+    "wof:name":"Chongoyape",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:population":16061,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.38917,
+    -6.64056,
+    -79.38917,
+    -6.64056
+],
+  "geometry": {"coordinates":[-79.38916999999999,-6.64056],"type":"Point"}
+}

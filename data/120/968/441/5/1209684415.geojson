@@ -1,0 +1,63 @@
+{
+  "id": 1209684415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68764,-6.53758,-76.68764,-6.53758",
+    "geom:latitude":-6.53758,
+    "geom:longitude":-76.68764,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220305.0",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"PE",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545126,
+    "gn:latitude":-6.53758,
+    "gn:longitude":-76.68764,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545126
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3051ebea5a2624fa99c95ce2e8145bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209684415
+        }
+    ],
+    "wof:id":1209684415,
+    "wof:lastmodified":1536279462,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68764,
+    -6.53758,
+    -76.68764,
+    -6.53758
+],
+  "geometry": {"coordinates":[-76.68764,-6.53758],"type":"Point"}
+}

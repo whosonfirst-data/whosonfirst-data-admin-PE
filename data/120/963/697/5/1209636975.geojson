@@ -1,0 +1,63 @@
+{
+  "id": 1209636975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28896,-5.77212,-79.28896,-5.77212",
+    "geom:latitude":-5.77212,
+    "geom:longitude":-79.28896,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60810.0",
+    "gn:asciiname":"Lanchipampa",
+    "gn:country_code":"PE",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762022,
+    "gn:latitude":-5.77212,
+    "gn:longitude":-79.28896,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Lanchipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762022
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"058d13ac991fe7ad6adfaa4fd2a0c407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209636975
+        }
+    ],
+    "wof:id":1209636975,
+    "wof:lastmodified":1536281012,
+    "wof:name":"Lanchipampa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28896,
+    -5.77212,
+    -79.28896,
+    -5.77212
+],
+  "geometry": {"coordinates":[-79.28896,-5.77212],"type":"Point"}
+}

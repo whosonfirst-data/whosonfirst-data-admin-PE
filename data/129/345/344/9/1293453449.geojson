@@ -1,0 +1,69 @@
+{
+  "id": 1293453449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63643,-1.58239,-74.63643,-1.58239",
+    "geom:latitude":-1.58239,
+    "geom:longitude":-74.63643,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160110.0",
+    "gn:asciiname":"Villa Luisa",
+    "gn:country_code":"PE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690904,
+    "gn:latitude":-1.58239,
+    "gn:longitude":-74.63643,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Villa Luisa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690904
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"56ea11b79044f0035bf03c3f35267417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1293453449,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1293453449,
+    "wof:lastmodified":1536835243,
+    "wof:name":"Villa Luisa",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63643,
+    -1.58239,
+    -74.63643,
+    -1.58239
+],
+  "geometry": {"coordinates":[-74.63643,-1.58239],"type":"Point"}
+}

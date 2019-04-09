@@ -1,0 +1,69 @@
+{
+  "id": 1226347991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20747,-15.56178,-73.20747,-15.56178",
+    "geom:latitude":-15.56178,
+    "geom:longitude":-73.20747,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40608.0",
+    "gn:asciiname":"Nauquipa",
+    "gn:country_code":"PE",
+    "gn:dem":2449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934368,
+    "gn:latitude":-15.56178,
+    "gn:longitude":-73.20747,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nauquipa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934368
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5cd774e1b5a5a841148fe85d639a7813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1226347991,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226347991,
+    "wof:lastmodified":1536786659,
+    "wof:name":"Nauquipa",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20747,
+    -15.56178,
+    -73.20747,
+    -15.56178
+],
+  "geometry": {"coordinates":[-73.20747,-15.56178],"type":"Point"}
+}

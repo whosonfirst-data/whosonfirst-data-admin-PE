@@ -1,0 +1,69 @@
+{
+  "id": 1243327271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.19833,-4.29167,-73.19833,-4.29167",
+    "geom:latitude":-4.29167,
+    "geom:longitude":-73.19833,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160103.0",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"PE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307830,
+    "gn:latitude":-4.29167,
+    "gn:longitude":-73.19833,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307830
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"26a9f7973c0e7f9e1752f9991a395493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1243327271,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1243327271,
+    "wof:lastmodified":1536976949,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.19833,
+    -4.29167,
+    -73.19833,
+    -4.29167
+],
+  "geometry": {"coordinates":[-73.19833,-4.29167],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277053239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0847,-13.50663,-76.0847,-13.50663",
+    "geom:latitude":-13.50663,
+    "geom:longitude":-76.0847,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110205.0",
+    "gn:asciiname":"San Regis",
+    "gn:country_code":"PE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929312,
+    "gn:latitude":-13.50663,
+    "gn:longitude":-76.0847,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"San Regis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda San Regis",
+        "San Regis Hacienda",
+        "San Regis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929312
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"864b98ab7c9d06ccc88b1a96c5a84c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1277053239,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1277053239,
+    "wof:lastmodified":1537676697,
+    "wof:name":"San Regis",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0847,
+    -13.50663,
+    -76.0847,
+    -13.50663
+],
+  "geometry": {"coordinates":[-76.0847,-13.50663],"type":"Point"}
+}

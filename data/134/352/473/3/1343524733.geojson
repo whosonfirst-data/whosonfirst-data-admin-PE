@@ -1,0 +1,71 @@
+{
+  "id": 1343524733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.0425,-11.87525,-69.0425,-11.87525",
+    "geom:latitude":-11.87525,
+    "geom:longitude":-69.0425,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Bruno Canahuiri",
+    "gn:country_code":"PE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511547,
+    "gn:latitude":-11.87525,
+    "gn:longitude":-69.0425,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Bruno Canahuiri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bruno Canahuiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511547
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2820662c9eaa52b87b6dd80205b9df54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1343524733,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1343524733,
+    "wof:lastmodified":1537676978,
+    "wof:name":"Bruno Canahuiri",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.0425,
+    -11.87525,
+    -69.0425,
+    -11.87525
+],
+  "geometry": {"coordinates":[-69.0425,-11.87525],"type":"Point"}
+}

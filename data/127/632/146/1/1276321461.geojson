@@ -1,0 +1,73 @@
+{
+  "id": 1276321461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18923,-13.48739,-76.18923,-13.48739",
+    "geom:latitude":-13.48739,
+    "geom:longitude":-76.18923,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110211.0",
+    "gn:asciiname":"Arenas",
+    "gn:country_code":"PE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947351,
+    "gn:latitude":-13.48739,
+    "gn:longitude":-76.18923,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arena",
+        "Arenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947351
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f0c7ca681493b96617d206072a6012f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1276321461,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276321461,
+    "wof:lastmodified":1537676865,
+    "wof:name":"Arenas",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18923000000002,
+    -13.48739,
+    -76.18923000000002,
+    -13.48739
+],
+  "geometry": {"coordinates":[-76.18923000000002,-13.48739],"type":"Point"}
+}

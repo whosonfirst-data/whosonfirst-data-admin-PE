@@ -1,0 +1,69 @@
+{
+  "id": 1277156719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99734,-11.26349,-75.99734,-11.26349",
+    "geom:latitude":-11.26349,
+    "geom:longitude":-75.99734,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1205.0",
+    "gn:admin3_code":"120501.0",
+    "gn:asciiname":"Huachucancha",
+    "gn:country_code":"PE",
+    "gn:dem":4389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3961242,
+    "gn:latitude":-11.26349,
+    "gn:longitude":-75.99734,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huachucancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421184147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3961242
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f3747f151d11968828fedcf43f6c2bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184147,
+            "locality_id":1277156719,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1277156719,
+    "wof:lastmodified":1536661118,
+    "wof:name":"Huachucancha",
+    "wof:parent_id":421184147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99734000000002,
+    -11.26349,
+    -75.99734000000002,
+    -11.26349
+],
+  "geometry": {"coordinates":[-75.99734000000002,-11.26349],"type":"Point"}
+}

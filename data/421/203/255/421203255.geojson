@@ -1,0 +1,76 @@
+{
+  "id": 421203255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.006864,-12.039404,-77.006864,-12.039404",
+    "geom:latitude":-12.039404,
+    "geom:longitude":-77.006864,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Huancayo",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":161,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":161,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":230468,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":22723521,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421202549,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723521,
+        "qs:id":230468
+    },
+    "wof:country":"PE",
+    "wof:created":1459010145,
+    "wof:geomhash":"7b142ee71473a0abf516db05e4050d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":421203255,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421203255,
+    "wof:lastmodified":1531858813,
+    "wof:name":"Huancayo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.006864,
+    -12.039404,
+    -77.006864,
+    -12.039404
+],
+  "geometry": {"coordinates":[-77.00686399999999,-12.039404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360073621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63035,-9.85261,-76.63035,-9.85261",
+    "geom:latitude":-9.85261,
+    "geom:longitude":-76.63035,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101102.0",
+    "gn:asciiname":"Cahuac",
+    "gn:country_code":"PE",
+    "gn:dem":3374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3699109,
+    "gn:latitude":-9.85261,
+    "gn:longitude":-76.63035,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cahuac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cahua",
+        "Cahuac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699109
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cafa95c23370f136be08e0f2ec13ea55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1360073621,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1360073621,
+    "wof:lastmodified":1537676639,
+    "wof:name":"Cahuac",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63035,
+    -9.85261,
+    -76.63035,
+    -9.85261
+],
+  "geometry": {"coordinates":[-76.63035000000001,-9.85261],"type":"Point"}
+}

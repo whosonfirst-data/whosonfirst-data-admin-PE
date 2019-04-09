@@ -1,0 +1,83 @@
+{
+  "id": 1326702877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54806,-11.05377,-77.54806,-11.05377",
+    "geom:latitude":-11.05377,
+    "geom:longitude":-77.54806,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150806.0",
+    "gn:asciiname":"Acaray",
+    "gn:country_code":"PE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948615,
+    "gn:latitude":-11.05377,
+    "gn:longitude":-77.54806,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Acaray",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Acaray",
+        "Acaray Hacienda",
+        "Acaray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948615,
+        "wk:page":"Acaray"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ff9d65bc14b01c0b29de1650f0193ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1326702877,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1326702877,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1326702877,
+    "wof:lastmodified":1537676874,
+    "wof:name":"Acaray",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54805999999998,
+    -11.05377,
+    -77.54805999999998,
+    -11.05377
+],
+  "geometry": {"coordinates":[-77.54805999999998,-11.05377],"type":"Point"}
+}

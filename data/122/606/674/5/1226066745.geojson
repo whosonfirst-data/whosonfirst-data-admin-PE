@@ -1,0 +1,75 @@
+{
+  "id": 1226066745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.29345,-6.79753,-78.29345,-6.79753",
+    "geom:latitude":-6.79753,
+    "geom:longitude":-78.29345,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60304.0",
+    "gn:asciiname":"Hacienda Jerez",
+    "gn:country_code":"PE",
+    "gn:dem":2686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696093,
+    "gn:latitude":-6.79753,
+    "gn:longitude":-78.29345,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda Jerez",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerez",
+        "Jer\u00e9s",
+        "Jerez Hacienda",
+        "Hacienda Jerez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421183859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696093
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"40292338f2763b9b09499a4780184dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183859,
+            "locality_id":1226066745,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1226066745,
+    "wof:lastmodified":1537676600,
+    "wof:name":"Hacienda Jerez",
+    "wof:parent_id":421183859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.29345,
+    -6.79753,
+    -78.29345,
+    -6.79753
+],
+  "geometry": {"coordinates":[-78.29345000000001,-6.79753],"type":"Point"}
+}

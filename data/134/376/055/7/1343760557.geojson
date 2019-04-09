@@ -1,0 +1,68 @@
+{
+  "id": 1343760557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.44486,-12.65267,-74.44486,-12.65267",
+    "geom:latitude":-12.65267,
+    "geom:longitude":-74.44486,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Millpocasa",
+    "gn:country_code":"PE",
+    "gn:dem":4132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651527,
+    "gn:latitude":-12.65267,
+    "gn:longitude":-74.44486,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Millpocasa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651527
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fa57bb2850583521a8af6a5b9125c6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1343760557,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343760557,
+    "wof:lastmodified":1536810367,
+    "wof:name":"Millpocasa",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.44485999999998,
+    -12.65267,
+    -74.44485999999998,
+    -12.65267
+],
+  "geometry": {"coordinates":[-74.44485999999998,-12.65267],"type":"Point"}
+}

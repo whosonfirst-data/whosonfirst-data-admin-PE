@@ -1,0 +1,72 @@
+{
+  "id": 1276649515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21512,-13.2629,-74.21512,-13.2629",
+    "geom:latitude":-13.2629,
+    "geom:longitude":-74.21512,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50105.0",
+    "gn:asciiname":"Soccoyapata",
+    "gn:country_code":"PE",
+    "gn:dem":3437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8672858,
+    "gn:latitude":-13.2629,
+    "gn:longitude":-74.21512,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Soccoyapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Soccoyapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8672858
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e5ec5bbc120cc79e10f0842ce3f58751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1276649515,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276649515,
+    "wof:lastmodified":1537676917,
+    "wof:name":"Soccoyapata",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21512,
+    -13.2629,
+    -74.21512,
+    -13.2629
+],
+  "geometry": {"coordinates":[-74.21512,-13.2629],"type":"Point"}
+}

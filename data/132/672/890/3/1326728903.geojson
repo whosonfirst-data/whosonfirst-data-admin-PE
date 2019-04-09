@@ -1,0 +1,73 @@
+{
+  "id": 1326728903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.92528,-13.99,-73.92528,-13.99",
+    "geom:latitude":-13.99,
+    "geom:longitude":-73.92528,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51005.0",
+    "gn:asciiname":"Sallani",
+    "gn:country_code":"PE",
+    "gn:dem":3135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929946,
+    "gn:latitude":-13.99,
+    "gn:longitude":-73.92528,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sallani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sallaru",
+        "Sallani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929946
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0dd26d83bfd239fe00126f8b3dbee58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693945,
+            "locality_id":1326728903,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1326728903,
+    "wof:lastmodified":1537676707,
+    "wof:name":"Sallani",
+    "wof:parent_id":1108693945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92528,
+    -13.99,
+    -73.92528,
+    -13.99
+],
+  "geometry": {"coordinates":[-73.92528,-13.99],"type":"Point"}
+}

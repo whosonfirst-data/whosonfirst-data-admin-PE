@@ -1,0 +1,77 @@
+{
+  "id": 1344030519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08333,-12.2,-76.08333,-12.2",
+    "geom:latitude":-12.2,
+    "geom:longitude":-76.08333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150721.0",
+    "gn:asciiname":"Huanec",
+    "gn:country_code":"PE",
+    "gn:dem":4726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939417,
+    "gn:latitude":-12.2,
+    "gn:longitude":-76.08333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Hua\u00f1ec",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939417
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"96189d7a211fe87b933f17399dc927ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1344030519,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1344030519,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1344030519,
+    "wof:lastmodified":1536919539,
+    "wof:name":"Huanec",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08333,
+    -12.2,
+    -76.08333,
+    -12.2
+],
+  "geometry": {"coordinates":[-76.08333,-12.2],"type":"Point"}
+}

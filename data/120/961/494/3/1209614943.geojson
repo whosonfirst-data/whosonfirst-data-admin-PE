@@ -1,0 +1,62 @@
+{
+  "id": 1209614943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1634,-15.32177,-71.1634,-15.32177",
+    "geom:latitude":-15.32177,
+    "geom:longitude":-71.1634,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Ajepata",
+    "gn:country_code":"PE",
+    "gn:dem":4628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956609,
+    "gn:latitude":-15.32177,
+    "gn:longitude":-71.1634,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Ajepata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956609
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"085e6bf8afc613239e6e3f5d69701fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209614943
+        }
+    ],
+    "wof:id":1209614943,
+    "wof:lastmodified":1536281721,
+    "wof:name":"Ajepata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.1634,
+    -15.32177,
+    -71.1634,
+    -15.32177
+],
+  "geometry": {"coordinates":[-71.1634,-15.32177],"type":"Point"}
+}

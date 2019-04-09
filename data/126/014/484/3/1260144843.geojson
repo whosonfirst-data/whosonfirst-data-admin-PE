@@ -1,0 +1,69 @@
+{
+  "id": 1260144843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,-4.8,-80.23333,-4.8",
+    "geom:latitude":-4.8,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200114.0",
+    "gn:asciiname":"Las Hucas",
+    "gn:country_code":"PE",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695561,
+    "gn:latitude":-4.8,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Las Hucas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695561
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a123328e2079dc0b285d87d30649c030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1260144843,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1260144843,
+    "wof:lastmodified":1536901069,
+    "wof:name":"Las Hucas",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    -4.8,
+    -80.23333000000002,
+    -4.8
+],
+  "geometry": {"coordinates":[-80.23333000000002,-4.8],"type":"Point"}
+}

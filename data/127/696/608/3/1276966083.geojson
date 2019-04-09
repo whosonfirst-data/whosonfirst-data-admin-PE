@@ -1,0 +1,69 @@
+{
+  "id": 1276966083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73575,-11.21473,-74.73575,-11.21473",
+    "geom:latitude":-11.21473,
+    "geom:longitude":-74.73575,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120601.0",
+    "gn:asciiname":"Rio Oso",
+    "gn:country_code":"PE",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303015,
+    "gn:latitude":-11.21473,
+    "gn:longitude":-74.73575,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"R\u00edo Oso",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303015
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c66edbed21189e470464b15ac94f6d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1276966083,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1276966083,
+    "wof:lastmodified":1536926491,
+    "wof:name":"Rio Oso",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73575,
+    -11.21473,
+    -74.73575,
+    -11.21473
+],
+  "geometry": {"coordinates":[-74.73575,-11.21473],"type":"Point"}
+}

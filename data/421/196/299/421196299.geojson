@@ -1,0 +1,97 @@
+{
+  "id": 421196299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47931,-13.02577,-76.47931,-13.02577",
+    "geom:latitude":-13.02577,
+    "geom:longitude":-76.47931,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Cerro Azul"
+    ],
+    "name:eng_x_preferred":[
+        "Cerro Azul"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Azul"
+    ],
+    "name:unk_x_variant":[
+        "Cerro Azul Hacienda"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3944807,
+    "qs:gn_pop":0,
+    "qs:name":"Cerro Azul",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima",
+    "qs:photos":216,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":216,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":887620,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418715,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944807,
+        "gp:id":418715,
+        "qs:id":887620,
+        "wd:id":"Q5064851"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009876,
+    "wof:geomhash":"2c616d4e321073f83dd5074b96e33832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421196299,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":421196299,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421196299,
+    "wof:lastmodified":1514495114,
+    "wof:name":"Cerro Azul",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47931,
+    -13.02577,
+    -76.47931,
+    -13.02577
+],
+  "geometry": {"coordinates":[-76.47931,-13.02577],"type":"Point"}
+}

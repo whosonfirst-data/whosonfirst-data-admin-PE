@@ -1,0 +1,80 @@
+{
+  "id": 1326612829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52568,-11.99292,-76.52568,-11.99292",
+    "geom:latitude":-11.99292,
+    "geom:longitude":-76.52568,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150730.0",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"PE",
+    "gn:dem":2742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928026,
+    "gn:latitude":-11.99292,
+    "gn:longitude":-76.52568,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928026
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e3b3d496d0e1fc47659e3b1a2410098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1326612829,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1326612829,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1326612829,
+    "wof:lastmodified":1537676684,
+    "wof:name":"Tama",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52568000000002,
+    -11.99292,
+    -76.52568000000002,
+    -11.99292
+],
+  "geometry": {"coordinates":[-76.52568000000002,-11.99292],"type":"Point"}
+}

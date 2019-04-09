@@ -1,0 +1,69 @@
+{
+  "id": 1209779481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58333,-5.38333,-74.58333,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":-74.58333,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1605.0",
+    "gn:admin3_code":"160506.0",
+    "gn:asciiname":"Santo Tomas",
+    "gn:country_code":"PE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692050,
+    "gn:latitude":-5.38333,
+    "gn:longitude":-74.58333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santo Tom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692050
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9298d03683982b742ef50712c6860843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694055,
+            "locality_id":1209779481,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1209779481,
+    "wof:lastmodified":1536375265,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":1108694055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58333,
+    -5.38333,
+    -74.58333,
+    -5.38333
+],
+  "geometry": {"coordinates":[-74.58333,-5.38333],"type":"Point"}
+}

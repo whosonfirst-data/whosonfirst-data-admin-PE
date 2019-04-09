@@ -1,0 +1,69 @@
+{
+  "id": 1243459005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18407,-13.03853,-74.18407,-13.03853",
+    "geom:latitude":-13.03853,
+    "geom:longitude":-74.18407,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50107.0",
+    "gn:asciiname":"Piticha",
+    "gn:country_code":"PE",
+    "gn:dem":2958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932099,
+    "gn:latitude":-13.03853,
+    "gn:longitude":-74.18407,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Piticha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932099
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"64b59e9610562d2e15f4ead3edeb1239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1243459005,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1243459005,
+    "wof:lastmodified":1536787818,
+    "wof:name":"Piticha",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18406999999998,
+    -13.03853,
+    -74.18406999999998,
+    -13.03853
+],
+  "geometry": {"coordinates":[-74.18406999999998,-13.03853],"type":"Point"}
+}

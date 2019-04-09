@@ -1,0 +1,69 @@
+{
+  "id": 1310584351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76239,-5.95026,-79.76239,-5.95026",
+    "geom:latitude":-5.95026,
+    "geom:longitude":-79.76239,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140308.0",
+    "gn:asciiname":"La Choza",
+    "gn:country_code":"PE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695950,
+    "gn:latitude":-5.95026,
+    "gn:longitude":-79.76239,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"La Choza",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695950
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"da69dc6af880ba0d90c5412e8892605c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1310584351,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1310584351,
+    "wof:lastmodified":1536803186,
+    "wof:name":"La Choza",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76239,
+    -5.95026,
+    -79.76239,
+    -5.95026
+],
+  "geometry": {"coordinates":[-79.76239,-5.95026],"type":"Point"}
+}

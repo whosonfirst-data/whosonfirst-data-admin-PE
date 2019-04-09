@@ -1,0 +1,68 @@
+{
+  "id": 1360273845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.97807,-9.91813,-76.97807,-9.91813",
+    "geom:latitude":-9.91813,
+    "geom:longitude":-76.97807,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Moyahuain",
+    "gn:country_code":"PE",
+    "gn:dem":4086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6665560,
+    "gn:latitude":-9.91813,
+    "gn:longitude":-76.97807,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Moyahuain",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665560
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eed3935be59e989117bce016137b686f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1360273845,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1360273845,
+    "wof:lastmodified":1536673300,
+    "wof:name":"Moyahuain",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.97807,
+    -9.91813,
+    -76.97807,
+    -9.91813
+],
+  "geometry": {"coordinates":[-76.97807,-9.91813],"type":"Point"}
+}

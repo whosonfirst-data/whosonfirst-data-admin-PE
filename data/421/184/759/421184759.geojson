@@ -1,0 +1,111 @@
+{
+  "id": 421184759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25207,-13.83999,-76.25207,-13.83999",
+    "geom:latitude":-13.83999,
+    "geom:longitude":-76.25207,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Paracas"
+    ],
+    "name:dut_x_preferred":[
+        "Paracas"
+    ],
+    "name:eng_x_preferred":[
+        "Paracas"
+    ],
+    "name:epo_x_preferred":[
+        "Paracas"
+    ],
+    "name:fre_x_preferred":[
+        "Paracas"
+    ],
+    "name:ger_x_preferred":[
+        "Paracas"
+    ],
+    "name:hrv_x_preferred":[
+        "Paracas"
+    ],
+    "name:ita_x_preferred":[
+        "Paracas"
+    ],
+    "name:pol_x_preferred":[
+        "Paracas"
+    ],
+    "name:slv_x_preferred":[
+        "Paracas"
+    ],
+    "name:spa_x_preferred":[
+        "Paracas"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3933059,
+    "qs:gn_pop":0,
+    "qs:name":"Paracas",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":2084,
+    "qs:photos_1k":422,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2084,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1008883,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":410768,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933059,
+        "gp:id":410768,
+        "qs:id":1008883,
+        "wd:id":"Q1641076",
+        "wk:page":"Paracas (municipality)"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009421,
+    "wof:geomhash":"4c9f8dffe9863a2781a34323b8a028d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":421184759,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421184759,
+    "wof:lastmodified":1514495549,
+    "wof:name":"Paracas",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25207,
+    -13.83999,
+    -76.25207,
+    -13.83999
+],
+  "geometry": {"coordinates":[-76.25207,-13.83999],"type":"Point"}
+}

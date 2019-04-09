@@ -1,0 +1,69 @@
+{
+  "id": 1243528383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7276,-14.47932,-69.7276,-14.47932",
+    "geom:latitude":-14.47932,
+    "geom:longitude":-69.7276,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2103.0",
+    "gn:admin3_code":"210306.0",
+    "gn:asciiname":"Canupata",
+    "gn:country_code":"PE",
+    "gn:dem":4435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966170,
+    "gn:latitude":-14.47932,
+    "gn:longitude":-69.7276,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ca\u00f1upata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421183857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966170
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ceb65c2a58e83f37f8ee41e0cb6863c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183857,
+            "locality_id":1243528383,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243528383,
+    "wof:lastmodified":1536687533,
+    "wof:name":"Canupata",
+    "wof:parent_id":421183857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7276,
+    -14.47932,
+    -69.7276,
+    -14.47932
+],
+  "geometry": {"coordinates":[-69.7276,-14.47932],"type":"Point"}
+}

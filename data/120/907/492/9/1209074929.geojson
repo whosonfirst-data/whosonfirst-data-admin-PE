@@ -1,0 +1,63 @@
+{
+  "id": 1209074929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43333,-8.4,-76.43333,-8.4",
+    "geom:latitude":-8.4,
+    "geom:longitude":-76.43333,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2210.0",
+    "gn:admin3_code":"221005.0",
+    "gn:asciiname":"Crisnejilla",
+    "gn:country_code":"PE",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697727,
+    "gn:latitude":-8.4,
+    "gn:longitude":-76.43333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Crisnejilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697727
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eab8475beae0d0abb7b95e569fccbb8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209074929
+        }
+    ],
+    "wof:id":1209074929,
+    "wof:lastmodified":1536298526,
+    "wof:name":"Crisnejilla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43333,
+    -8.4,
+    -76.43333,
+    -8.4
+],
+  "geometry": {"coordinates":[-76.43333,-8.4],"type":"Point"}
+}

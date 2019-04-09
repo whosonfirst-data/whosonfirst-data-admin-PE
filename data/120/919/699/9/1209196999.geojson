@@ -1,0 +1,68 @@
+{
+  "id": 1209196999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.84667,-10.62611,-76.84667,-10.62611",
+    "geom:latitude":-10.62611,
+    "geom:longitude":-76.84667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Cagapaqui",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":4746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946328,
+    "gn:latitude":-10.62611,
+    "gn:longitude":-76.84667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cagapaqui",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cagapaque",
+        "Cagapaqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946328
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7c22bb8d44f6e4ad39b091c4353eb5cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209196999
+        }
+    ],
+    "wof:id":1209196999,
+    "wof:lastmodified":1537676856,
+    "wof:name":"Cagapaqui",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.84666999999997,
+    -10.62611,
+    -76.84666999999997,
+    -10.62611
+],
+  "geometry": {"coordinates":[-76.84666999999997,-10.62611],"type":"Point"}
+}

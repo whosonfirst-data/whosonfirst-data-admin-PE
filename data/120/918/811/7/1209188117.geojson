@@ -1,0 +1,63 @@
+{
+  "id": 1209188117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.73145,-17.09928,-69.73145,-17.09928",
+    "geom:latitude":-17.09928,
+    "geom:longitude":-69.73145,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210502.0",
+    "gn:asciiname":"Jachuta",
+    "gn:country_code":"PE",
+    "gn:dem":4473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392863,
+    "gn:latitude":-17.09928,
+    "gn:longitude":-69.73145,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Jachuta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392863
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a1cd7205dd9843f526bcdfbc6294c79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209188117
+        }
+    ],
+    "wof:id":1209188117,
+    "wof:lastmodified":1536295029,
+    "wof:name":"Jachuta",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.73145,
+    -17.09928,
+    -69.73145,
+    -17.09928
+],
+  "geometry": {"coordinates":[-69.73145,-17.09928],"type":"Point"}
+}

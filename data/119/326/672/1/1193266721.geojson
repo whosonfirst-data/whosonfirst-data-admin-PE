@@ -1,0 +1,69 @@
+{
+  "id": 1193266721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53167,-10.11222,-76.53167,-10.11222",
+    "geom:latitude":-10.11222,
+    "geom:longitude":-76.53167,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"Ranrahuay",
+    "gn:country_code":"PE",
+    "gn:dem":3971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403308,
+    "gn:latitude":-10.11222,
+    "gn:longitude":-76.53167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ranrahuay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403308
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8c30463e879d425ed284e4ecbdc104cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1193266721,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1193266721,
+    "wof:lastmodified":1536375075,
+    "wof:name":"Ranrahuay",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53166999999998,
+    -10.11222,
+    -76.53166999999998,
+    -10.11222
+],
+  "geometry": {"coordinates":[-76.53166999999998,-10.11222],"type":"Point"}
+}

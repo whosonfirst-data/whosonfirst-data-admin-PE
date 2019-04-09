@@ -1,0 +1,69 @@
+{
+  "id": 1243239257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.17882,-16.65093,-71.17882,-16.65093",
+    "geom:latitude":-16.65093,
+    "geom:longitude":-71.17882,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180208.0",
+    "gn:asciiname":"Talasquia",
+    "gn:country_code":"PE",
+    "gn:dem":2716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928045,
+    "gn:latitude":-16.65093,
+    "gn:longitude":-71.17882,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Talasquia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928045
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b8798ad80a3f708b5a5871a5d9de4f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1243239257,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1243239257,
+    "wof:lastmodified":1536604271,
+    "wof:name":"Talasquia",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.17882,
+    -16.65093,
+    -71.17882,
+    -16.65093
+],
+  "geometry": {"coordinates":[-71.17882,-16.65093],"type":"Point"}
+}

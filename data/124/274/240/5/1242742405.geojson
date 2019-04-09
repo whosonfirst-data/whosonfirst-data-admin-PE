@@ -1,0 +1,74 @@
+{
+  "id": 1242742405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.53333,-5.06667,-79.53333,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":-79.53333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200206.0",
+    "gn:asciiname":"Talaneo",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691587,
+    "gn:latitude":-5.06667,
+    "gn:longitude":-79.53333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Talaneo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talaneo Ciudad",
+        "Talaneo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691587
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8f3f35680ae408dbe4189b2e592e7a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1242742405,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1242742405,
+    "wof:lastmodified":1537676536,
+    "wof:name":"Talaneo",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.53333,
+    -5.06667,
+    -79.53333,
+    -5.06667
+],
+  "geometry": {"coordinates":[-79.53333000000001,-5.06667],"type":"Point"}
+}

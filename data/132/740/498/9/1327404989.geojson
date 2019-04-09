@@ -1,0 +1,69 @@
+{
+  "id": 1327404989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56083,-7.94222,-77.56083,-7.94222",
+    "geom:latitude":-7.94222,
+    "geom:longitude":-77.56083,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1308.0",
+    "gn:admin3_code":"130808.0",
+    "gn:asciiname":"Utucuyo",
+    "gn:country_code":"PE",
+    "gn:dem":2530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745010,
+    "gn:latitude":-7.94222,
+    "gn:longitude":-77.56083,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Utucuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421172463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745010
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3694e4ea1c7c718a4a589b3e1f324245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172463,
+            "locality_id":1327404989,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1327404989,
+    "wof:lastmodified":1536720785,
+    "wof:name":"Utucuyo",
+    "wof:parent_id":421172463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56083000000002,
+    -7.94222,
+    -77.56083000000002,
+    -7.94222
+],
+  "geometry": {"coordinates":[-77.56083000000002,-7.94222],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260281013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.42861,-6.67417,-78.42861,-6.67417",
+    "geom:latitude":-6.67417,
+    "geom:longitude":-78.42861,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60701.0",
+    "gn:asciiname":"Sexy",
+    "gn:country_code":"PE",
+    "gn:dem":3414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3752506,
+    "gn:latitude":-6.67417,
+    "gn:longitude":-78.42861,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sexy",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3752506,
+        "wk:page":"Sexy,_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ff461525899f6457905a230960173ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693979,
+            "locality_id":1260281013,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1260281013,
+    "wof:lastmodified":1537570240,
+    "wof:name":"Sexy",
+    "wof:parent_id":1108693979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.42860999999998,
+    -6.67417,
+    -78.42860999999998,
+    -6.67417
+],
+  "geometry": {"coordinates":[-78.42860999999998,-6.67417],"type":"Point"}
+}

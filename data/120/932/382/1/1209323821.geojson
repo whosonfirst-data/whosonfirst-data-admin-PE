@@ -1,0 +1,63 @@
+{
+  "id": 1209323821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11873,-6.41814,-78.11873,-6.41814",
+    "geom:latitude":-6.41814,
+    "geom:longitude":-78.11873,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10514.0",
+    "gn:asciiname":"Cumba",
+    "gn:country_code":"PE",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377945,
+    "gn:latitude":-6.41814,
+    "gn:longitude":-78.11873,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cumba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377945
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e61fbfb9c7ff22f0d95c14b459c4d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209323821
+        }
+    ],
+    "wof:id":1209323821,
+    "wof:lastmodified":1536290599,
+    "wof:name":"Cumba",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11873,
+    -6.41814,
+    -78.11873,
+    -6.41814
+],
+  "geometry": {"coordinates":[-78.11873,-6.41814],"type":"Point"}
+}

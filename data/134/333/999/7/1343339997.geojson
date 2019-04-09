@@ -1,0 +1,69 @@
+{
+  "id": 1343339997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33205,-9.98733,-76.33205,-9.98733",
+    "geom:latitude":-9.98733,
+    "geom:longitude":-76.33205,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100107.0",
+    "gn:asciiname":"Parara",
+    "gn:country_code":"PE",
+    "gn:dem":3033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670322,
+    "gn:latitude":-9.98733,
+    "gn:longitude":-76.33205,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Parara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670322
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e3575a69aab7dd3f80c7bec3f20e8a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1343339997,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343339997,
+    "wof:lastmodified":1536920823,
+    "wof:name":"Parara",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33205,
+    -9.98733,
+    -76.33205,
+    -9.98733
+],
+  "geometry": {"coordinates":[-76.33205,-9.98733],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310599659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81535,-15.05104,-73.81535,-15.05104",
+    "geom:latitude":-15.05104,
+    "geom:longitude":-73.81535,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50605.0",
+    "gn:asciiname":"Hanahuallcco",
+    "gn:country_code":"PE",
+    "gn:dem":3063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940262,
+    "gn:latitude":-15.05104,
+    "gn:longitude":-73.81535,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hanahuallcco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hanahuallcco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940262
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a83fd21abf9d90c8e43eae298d5c28d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1310599659,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1310599659,
+    "wof:lastmodified":1537676803,
+    "wof:name":"Hanahuallcco",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81535,
+    -15.05104,
+    -73.81535,
+    -15.05104
+],
+  "geometry": {"coordinates":[-73.81535,-15.05104],"type":"Point"}
+}

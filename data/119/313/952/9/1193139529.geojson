@@ -1,0 +1,72 @@
+{
+  "id": 1193139529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05129,-9.52481,-78.05129,-9.52481",
+    "geom:latitude":-9.52481,
+    "geom:longitude":-78.05129,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:asciiname":"Hacienda Cantarilla",
+    "gn:country_code":"PE",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076613,
+    "gn:latitude":-9.52481,
+    "gn:longitude":-78.05129,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Cantarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Cantarilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076613
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e4324234ce52ad480aa011a72c8993d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1193139529,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1193139529,
+    "wof:lastmodified":1537676968,
+    "wof:name":"Hacienda Cantarilla",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05129000000002,
+    -9.52481,
+    -78.05129000000002,
+    -9.52481
+],
+  "geometry": {"coordinates":[-78.05129000000002,-9.52481],"type":"Point"}
+}

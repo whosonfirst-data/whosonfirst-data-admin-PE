@@ -1,0 +1,69 @@
+{
+  "id": 1260271559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31267,-10.31473,-76.31267,-10.31473",
+    "geom:latitude":-10.31473,
+    "geom:longitude":-76.31267,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100206.0",
+    "gn:asciiname":"Ranramayo",
+    "gn:country_code":"PE",
+    "gn:dem":3330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3963071,
+    "gn:latitude":-10.31473,
+    "gn:longitude":-76.31267,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ranramayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3963071
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f05b68c365596669b64b87fe8ff2d345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1260271559,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1260271559,
+    "wof:lastmodified":1536728322,
+    "wof:name":"Ranramayo",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31267,
+    -10.31473,
+    -76.31267,
+    -10.31473
+],
+  "geometry": {"coordinates":[-76.31267,-10.31473],"type":"Point"}
+}

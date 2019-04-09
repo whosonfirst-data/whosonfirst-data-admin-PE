@@ -1,0 +1,69 @@
+{
+  "id": 1276666809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.71714,-6.06551,-77.71714,-6.06551",
+    "geom:latitude":-6.06551,
+    "geom:longitude":-77.71714,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10105.0",
+    "gn:asciiname":"Cliche",
+    "gn:country_code":"PE",
+    "gn:dem":2756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383537,
+    "gn:latitude":-6.06551,
+    "gn:longitude":-77.71714,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cliche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383537
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9f4625f220b33755c5e7e882b9cbcbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1276666809,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1276666809,
+    "wof:lastmodified":1536827882,
+    "wof:name":"Cliche",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.71714,
+    -6.06551,
+    -77.71714,
+    -6.06551
+],
+  "geometry": {"coordinates":[-77.71714,-6.06551],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1292895967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14389,-13.59,-72.14389,-13.59",
+    "geom:latitude":-13.59,
+    "geom:longitude":-72.14389,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80102.0",
+    "gn:asciiname":"Quencomayo",
+    "gn:country_code":"PE",
+    "gn:dem":3937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6392045,
+    "gn:latitude":-13.59,
+    "gn:longitude":-72.14389,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quencomayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421172425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6392045
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fe8fbdcd7f88009fb9658471f2445656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172425,
+            "locality_id":1292895967,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1292895967,
+    "wof:lastmodified":1536645190,
+    "wof:name":"Quencomayo",
+    "wof:parent_id":421172425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14389,
+    -13.59,
+    -72.14389,
+    -13.59
+],
+  "geometry": {"coordinates":[-72.14389,-13.59],"type":"Point"}
+}

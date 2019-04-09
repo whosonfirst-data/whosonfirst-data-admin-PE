@@ -1,0 +1,73 @@
+{
+  "id": 1226713397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.09947,-11.33808,-69.09947,-11.33808",
+    "geom:latitude":-11.33808,
+    "geom:longitude":-69.09947,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1703.0",
+    "gn:admin3_code":"170302.0",
+    "gn:asciiname":"Asunta",
+    "gn:country_code":"PE",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947192,
+    "gn:latitude":-11.33808,
+    "gn:longitude":-69.09947,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Asunta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Asunta",
+        "Asunta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947192
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9781803006a87c666b208d9f1bd1a7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1226713397,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1226713397,
+    "wof:lastmodified":1537676864,
+    "wof:name":"Asunta",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.09947,
+    -11.33808,
+    -69.09947,
+    -11.33808
+],
+  "geometry": {"coordinates":[-69.09947,-11.33808],"type":"Point"}
+}

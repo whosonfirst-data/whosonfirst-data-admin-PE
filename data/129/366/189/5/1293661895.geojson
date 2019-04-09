@@ -1,0 +1,75 @@
+{
+  "id": 1293661895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11811,-11.99481,-77.11811,-11.99481",
+    "geom:latitude":-11.99481,
+    "geom:longitude":-77.11811,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150135.0",
+    "gn:asciiname":"Urbanizacion San Juan Masias",
+    "gn:country_code":"PE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254689,
+    "gn:latitude":-11.99481,
+    "gn:longitude":-77.11811,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Urbanizaci\u00f3n San Juan Masias",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Urbanizaci\u00f3n San Juan Masias"
+    ],
+    "name:spa_x_variant":[
+        "San Juan Masias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675817,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254689
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0c915c7f78258b7d912dde840c2a69ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":1293661895,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":1293661895,
+    "wof:lastmodified":1537676892,
+    "wof:name":"Urbanizacion San Juan Masias",
+    "wof:parent_id":421187933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11811,
+    -11.99481,
+    -77.11811,
+    -11.99481
+],
+  "geometry": {"coordinates":[-77.11811,-11.99481],"type":"Point"}
+}

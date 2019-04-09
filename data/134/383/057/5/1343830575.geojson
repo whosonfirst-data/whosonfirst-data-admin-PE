@@ -1,0 +1,77 @@
+{
+  "id": 1343830575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89337,-10.51999,-76.89337,-10.51999",
+    "geom:latitude":-10.51999,
+    "geom:longitude":-76.89337,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150301.0",
+    "gn:asciiname":"Tiendapata",
+    "gn:country_code":"PE",
+    "gn:dem":4557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962482,
+    "gn:latitude":-10.51999,
+    "gn:longitude":-76.89337,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tiendapata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693949,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962482
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6faef94e974fa1f5d2360e02fa10caa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1343830575,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1343830575,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343830575,
+    "wof:lastmodified":1536710126,
+    "wof:name":"Tiendapata",
+    "wof:parent_id":1108693949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89336999999998,
+    -10.51999,
+    -76.89336999999998,
+    -10.51999
+],
+  "geometry": {"coordinates":[-76.89336999999998,-10.51999],"type":"Point"}
+}

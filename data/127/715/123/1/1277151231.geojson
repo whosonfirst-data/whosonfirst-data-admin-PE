@@ -1,0 +1,69 @@
+{
+  "id": 1277151231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.05686,-4.90874,-81.05686,-4.90874",
+    "geom:latitude":-4.90874,
+    "geom:longitude":-81.05686,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200504.0",
+    "gn:asciiname":"San Lucas",
+    "gn:country_code":"PE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692414,
+    "gn:latitude":-4.90874,
+    "gn:longitude":-81.05686,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Lucas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692414
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8669541372544ec5f1af54099944e2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1277151231,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1277151231,
+    "wof:lastmodified":1536669025,
+    "wof:name":"San Lucas",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.05686,
+    -4.90874,
+    -81.05686,
+    -4.90874
+],
+  "geometry": {"coordinates":[-81.05686,-4.90874],"type":"Point"}
+}

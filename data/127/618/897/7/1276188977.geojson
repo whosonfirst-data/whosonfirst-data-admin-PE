@@ -1,0 +1,75 @@
+{
+  "id": 1276188977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33017,-15.44925,-69.33017,-15.44925",
+    "geom:latitude":-15.44925,
+    "geom:longitude":-69.33017,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210901.0",
+    "gn:asciiname":"Ninantaya",
+    "gn:country_code":"PE",
+    "gn:dem":3903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934267,
+    "gn:latitude":-15.44925,
+    "gn:longitude":-69.33017,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ninantaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Ninantaya",
+        "Minantaya",
+        "Ninantaya Hacienda",
+        "Ninantaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421171963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934267
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee68bc0506be52c5a88850328cdc01c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171963,
+            "locality_id":1276188977,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1276188977,
+    "wof:lastmodified":1537676747,
+    "wof:name":"Ninantaya",
+    "wof:parent_id":421171963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33017,
+    -15.44925,
+    -69.33017,
+    -15.44925
+],
+  "geometry": {"coordinates":[-69.33017,-15.44925],"type":"Point"}
+}

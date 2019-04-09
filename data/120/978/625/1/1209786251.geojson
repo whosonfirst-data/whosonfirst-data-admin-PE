@@ -1,0 +1,72 @@
+{
+  "id": 1209786251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04465,-5.70239,-80.04465,-5.70239",
+    "geom:latitude":-5.70239,
+    "geom:longitude":-80.04465,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Redondo",
+    "gn:country_code":"PE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692920,
+    "gn:latitude":-5.70239,
+    "gn:longitude":-80.04465,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Redondo Ciudad",
+        "Redondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692920
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"97d2257f323f0a580fc6fd61643c302f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1209786251,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1209786251,
+    "wof:lastmodified":1537676558,
+    "wof:name":"Redondo",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04465,
+    -5.70239,
+    -80.04465,
+    -5.70239
+],
+  "geometry": {"coordinates":[-80.04465,-5.70239],"type":"Point"}
+}

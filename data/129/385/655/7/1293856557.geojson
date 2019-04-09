@@ -1,0 +1,77 @@
+{
+  "id": 1293856557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93957,-10.35226,-76.93957,-10.35226",
+    "geom:latitude":-10.35226,
+    "geom:longitude":-76.93957,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150302.0",
+    "gn:asciiname":"Saclashuayi",
+    "gn:country_code":"PE",
+    "gn:dem":4185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930108,
+    "gn:latitude":-10.35226,
+    "gn:longitude":-76.93957,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Saclashuayi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693949,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930108
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"06731442bc586932aadef91d847ff060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1293856557,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693949,
+            "locality_id":1293856557,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1293856557,
+    "wof:lastmodified":1536752157,
+    "wof:name":"Saclashuayi",
+    "wof:parent_id":1108693949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93956999999997,
+    -10.35226,
+    -76.93956999999997,
+    -10.35226
+],
+  "geometry": {"coordinates":[-76.93956999999997,-10.35226],"type":"Point"}
+}

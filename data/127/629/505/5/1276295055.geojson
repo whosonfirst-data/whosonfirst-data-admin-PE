@@ -1,0 +1,71 @@
+{
+  "id": 1276295055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35992,-11.61231,-69.35992,-11.61231",
+    "geom:latitude":-11.61231,
+    "geom:longitude":-69.35992,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Ana Maria",
+    "gn:country_code":"PE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510969,
+    "gn:latitude":-11.61231,
+    "gn:longitude":-69.35992,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Ana Maria",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ana Maria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510969
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bc4ed5b24b4fed417122f98862f2cb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1276295055,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1276295055,
+    "wof:lastmodified":1537676973,
+    "wof:name":"Ana Maria",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35991999999999,
+    -11.61231,
+    -69.35991999999999,
+    -11.61231
+],
+  "geometry": {"coordinates":[-69.35991999999999,-11.61231],"type":"Point"}
+}

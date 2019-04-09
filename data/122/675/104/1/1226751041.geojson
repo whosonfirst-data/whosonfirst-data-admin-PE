@@ -1,0 +1,69 @@
+{
+  "id": 1226751041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99417,-6.85111,-77.99417,-6.85111",
+    "geom:latitude":-6.85111,
+    "geom:longitude":-77.99417,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10103.0",
+    "gn:asciiname":"Homopampa",
+    "gn:country_code":"PE",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6379396,
+    "gn:latitude":-6.85111,
+    "gn:longitude":-77.99417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Homopampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379396
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0817411fd1e3604a7c4e09c16f26b2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1226751041,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1226751041,
+    "wof:lastmodified":1536708164,
+    "wof:name":"Homopampa",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99417,
+    -6.85111,
+    -77.99417,
+    -6.85111
+],
+  "geometry": {"coordinates":[-77.99417,-6.85111],"type":"Point"}
+}

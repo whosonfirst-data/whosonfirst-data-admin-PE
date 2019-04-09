@@ -1,0 +1,81 @@
+{
+  "id": 1276624355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76752,-10.57487,-76.76752,-10.57487",
+    "geom:latitude":-10.57487,
+    "geom:longitude":-76.76752,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Quichas",
+    "gn:country_code":"PE",
+    "gn:dem":3956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940366,
+    "gn:latitude":-10.57487,
+    "gn:longitude":-76.76752,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quichas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Quichas",
+        "Quichas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b26a2cd3c60d4920277596b3ef7fc5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1276624355,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1276624355,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1276624355,
+    "wof:lastmodified":1537676805,
+    "wof:name":"Quichas",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76751999999998,
+    -10.57487,
+    -76.76751999999998,
+    -10.57487
+],
+  "geometry": {"coordinates":[-76.76751999999998,-10.57487],"type":"Point"}
+}

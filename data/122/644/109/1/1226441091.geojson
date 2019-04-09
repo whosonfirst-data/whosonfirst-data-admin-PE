@@ -1,0 +1,75 @@
+{
+  "id": 1226441091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.98662,-15.00164,-73.98662,-15.00164",
+    "geom:latitude":-15.00164,
+    "geom:longitude":-73.98662,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50619.0",
+    "gn:asciiname":"Chaquidanda",
+    "gn:country_code":"PE",
+    "gn:dem":3503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944308,
+    "gn:latitude":-15.00164,
+    "gn:longitude":-73.98662,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Chaquidanda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaquidanda"
+    ],
+    "name:spa_x_variant":[
+        "Chaquipampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421193433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944308
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8681b02e03f849c80f14031397ebe6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193433,
+            "locality_id":1226441091,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1226441091,
+    "wof:lastmodified":1537676838,
+    "wof:name":"Chaquidanda",
+    "wof:parent_id":421193433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98662,
+    -15.00164,
+    -73.98662,
+    -15.00164
+],
+  "geometry": {"coordinates":[-73.98662,-15.00164],"type":"Point"}
+}

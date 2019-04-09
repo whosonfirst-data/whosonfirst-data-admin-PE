@@ -1,0 +1,72 @@
+{
+  "id": 1276126419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.49877,-8.89018,-78.49877,-8.89018",
+    "geom:latitude":-8.89018,
+    "geom:longitude":-78.49877,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21801.0",
+    "gn:asciiname":"Marilucaa",
+    "gn:country_code":"PE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10455636,
+    "gn:latitude":-8.89018,
+    "gn:longitude":-78.49877,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marilucaa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Marilucaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10455636
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f3ed441fd4f8a73315a9ce82b9c36e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1276126419,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276126419,
+    "wof:lastmodified":1537676932,
+    "wof:name":"Marilucaa",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.49877,
+    -8.89018,
+    -78.49877,
+    -8.89018
+],
+  "geometry": {"coordinates":[-78.49876999999999,-8.89018],"type":"Point"}
+}

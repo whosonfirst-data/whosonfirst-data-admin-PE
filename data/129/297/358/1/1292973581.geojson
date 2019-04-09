@@ -1,0 +1,77 @@
+{
+  "id": 1292973581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25,-12.21667,-76.25,-12.21667",
+    "geom:latitude":-12.21667,
+    "geom:longitude":-76.25,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150726.0",
+    "gn:asciiname":"Quiripa",
+    "gn:country_code":"PE",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930709,
+    "gn:latitude":-12.21667,
+    "gn:longitude":-76.25,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quiripa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693967,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930709
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"94b44d0b790a3abda19318c4039f30d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1292973581,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693967,
+            "locality_id":1292973581,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1292973581,
+    "wof:lastmodified":1537029685,
+    "wof:name":"Quiripa",
+    "wof:parent_id":1108693967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25,
+    -12.21667,
+    -76.25,
+    -12.21667
+],
+  "geometry": {"coordinates":[-76.25,-12.21667],"type":"Point"}
+}

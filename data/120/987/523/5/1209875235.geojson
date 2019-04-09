@@ -1,0 +1,69 @@
+{
+  "id": 1209875235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.11846,-4.17092,-81.11846,-4.17092",
+    "geom:latitude":-4.17092,
+    "geom:longitude":-81.11846,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200705.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"PE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692392,
+    "gn:latitude":-4.17092,
+    "gn:longitude":-81.11846,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692392
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2f9b60d1c352b9f7b48bd17f026b0c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1209875235,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1209875235,
+    "wof:lastmodified":1536369191,
+    "wof:name":"San Martin",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.11846,
+    -4.17092,
+    -81.11846,
+    -4.17092
+],
+  "geometry": {"coordinates":[-81.11846,-4.17092],"type":"Point"}
+}

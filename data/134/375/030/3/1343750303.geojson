@@ -1,0 +1,69 @@
+{
+  "id": 1343750303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83081,-9.84135,-76.83081,-9.84135",
+    "geom:latitude":-9.84135,
+    "geom:longitude":-76.83081,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100317.0",
+    "gn:asciiname":"Casha Punta",
+    "gn:country_code":"PE",
+    "gn:dem":3658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666032,
+    "gn:latitude":-9.84135,
+    "gn:longitude":-76.83081,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Casha Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666032
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"47de4aea4f68d64d0199289a7a888fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1343750303,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343750303,
+    "wof:lastmodified":1536824650,
+    "wof:name":"Casha Punta",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83081,
+    -9.84135,
+    -76.83081,
+    -9.84135
+],
+  "geometry": {"coordinates":[-76.83081,-9.84135],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310566171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53611,-10.3825,-76.53611,-10.3825",
+    "geom:latitude":-10.3825,
+    "geom:longitude":-76.53611,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Pogo",
+    "gn:country_code":"PE",
+    "gn:dem":4306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403522,
+    "gn:latitude":-10.3825,
+    "gn:longitude":-76.53611,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Pogo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403522
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9e78e47dd15fbddd17495c73d152652b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1310566171,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310566171,
+    "wof:lastmodified":1536828580,
+    "wof:name":"Pogo",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53611,
+    -10.3825,
+    -76.53611,
+    -10.3825
+],
+  "geometry": {"coordinates":[-76.53610999999999,-10.3825],"type":"Point"}
+}

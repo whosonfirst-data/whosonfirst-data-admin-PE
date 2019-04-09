@@ -1,0 +1,71 @@
+{
+  "id": 1243412735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.02838,-14.13982,-69.02838,-14.13982",
+    "geom:latitude":-14.13982,
+    "geom:longitude":-69.02838,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Huaranja",
+    "gn:country_code":"PE",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558422,
+    "gn:latitude":-14.13982,
+    "gn:longitude":-69.02838,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Huaranja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaranja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558422
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e20e283a3a8ebc7fcdbfb6938d2f63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1243412735,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243412735,
+    "wof:lastmodified":1537677006,
+    "wof:name":"Huaranja",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.02838,
+    -14.13982,
+    -69.02838,
+    -14.13982
+],
+  "geometry": {"coordinates":[-69.02838,-14.13982],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310180257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.57117,-10.51731,-76.57117,-10.51731",
+    "geom:latitude":-10.51731,
+    "geom:longitude":-76.57117,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1902.0",
+    "gn:admin3_code":"190201.0",
+    "gn:asciiname":"Potrero",
+    "gn:country_code":"PE",
+    "gn:dem":3806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962924,
+    "gn:latitude":-10.51731,
+    "gn:longitude":-76.57117,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        1108693911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962924
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4263f6a9d51431637d337bfc725071cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693911,
+            "locality_id":1310180257,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1310180257,
+    "wof:lastmodified":1536888380,
+    "wof:name":"Potrero",
+    "wof:parent_id":1108693911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.57117,
+    -10.51731,
+    -76.57117,
+    -10.51731
+],
+  "geometry": {"coordinates":[-76.57117,-10.51731],"type":"Point"}
+}

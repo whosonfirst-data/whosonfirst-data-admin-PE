@@ -1,0 +1,65 @@
+{
+  "id": 1343931747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.83333,-15.9,-69.83333,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":-69.83333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210112.0",
+    "gn:asciiname":"Ocutapampa",
+    "gn:country_code":"PE",
+    "gn:dem":3817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934096,
+    "gn:latitude":-15.9,
+    "gn:longitude":-69.83333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ocutapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934096
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ae3750d67831fd4f556f61b38dc85611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1343931747,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343931747,
+    "wof:lastmodified":1537058942,
+    "wof:name":"Ocutapampa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.83333,
+    -15.9,
+    -69.83333,
+    -15.9
+],
+  "geometry": {"coordinates":[-69.83333,-15.9],"type":"Point"}
+}

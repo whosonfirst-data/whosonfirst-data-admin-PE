@@ -1,0 +1,63 @@
+{
+  "id": 1209473537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.7066,-16.65015,-69.7066,-16.65015",
+    "geom:latitude":-16.65015,
+    "geom:longitude":-69.7066,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210504.0",
+    "gn:asciiname":"Murucamaya",
+    "gn:country_code":"PE",
+    "gn:dem":3961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934445,
+    "gn:latitude":-16.65015,
+    "gn:longitude":-69.7066,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Murucamaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934445
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e9eca51bd548049cb06e878c94b0ec4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209473537
+        }
+    ],
+    "wof:id":1209473537,
+    "wof:lastmodified":1536286007,
+    "wof:name":"Murucamaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.7066,
+    -16.65015,
+    -69.7066,
+    -16.65015
+],
+  "geometry": {"coordinates":[-69.70659999999999,-16.65015],"type":"Point"}
+}

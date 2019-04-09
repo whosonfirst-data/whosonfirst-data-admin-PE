@@ -1,0 +1,69 @@
+{
+  "id": 1343947151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.97876,-12.80196,-74.97876,-12.80196",
+    "geom:latitude":-12.80196,
+    "geom:longitude":-74.97876,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90101.0",
+    "gn:asciiname":"Chaclacatacana",
+    "gn:country_code":"PE",
+    "gn:dem":4206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8662987,
+    "gn:latitude":-12.80196,
+    "gn:longitude":-74.97876,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chaclacatacana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8662987
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"14f4472d1932a80d5135ef9aa1f6bf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1343947151,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1343947151,
+    "wof:lastmodified":1537037626,
+    "wof:name":"Chaclacatacana",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.97876,
+    -12.80196,
+    -74.97876,
+    -12.80196
+],
+  "geometry": {"coordinates":[-74.97875999999999,-12.80196],"type":"Point"}
+}

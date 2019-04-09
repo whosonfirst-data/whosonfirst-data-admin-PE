@@ -1,0 +1,63 @@
+{
+  "id": 1209477683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.62794,-16.10591,-70.62794,-16.10591",
+    "geom:latitude":-16.10591,
+    "geom:longitude":-70.62794,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180204.0",
+    "gn:asciiname":"Quilcata",
+    "gn:country_code":"PE",
+    "gn:dem":4315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930852,
+    "gn:latitude":-16.10591,
+    "gn:longitude":-70.62794,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Quilcata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930852
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e20211ad3c5440d767b1c64b84c38321",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209477683
+        }
+    ],
+    "wof:id":1209477683,
+    "wof:lastmodified":1536285884,
+    "wof:name":"Quilcata",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.62794,
+    -16.10591,
+    -70.62794,
+    -16.10591
+],
+  "geometry": {"coordinates":[-70.62794,-16.10591],"type":"Point"}
+}

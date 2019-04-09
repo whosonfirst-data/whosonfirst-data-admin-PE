@@ -1,0 +1,68 @@
+{
+  "id": 1293805411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3058,-7.27706,-79.3058,-7.27706",
+    "geom:latitude":-7.27706,
+    "geom:longitude":-79.3058,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1304.0",
+    "gn:asciiname":"La Arenita",
+    "gn:country_code":"PE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696025,
+    "gn:latitude":-7.27706,
+    "gn:longitude":-79.3058,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"La Arenita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421184599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696025
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fa0edc6daf2d52ebee0c4490f7f135ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184599,
+            "locality_id":1293805411,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1293805411,
+    "wof:lastmodified":1536824949,
+    "wof:name":"La Arenita",
+    "wof:parent_id":421184599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.3058,
+    -7.27706,
+    -79.3058,
+    -7.27706
+],
+  "geometry": {"coordinates":[-79.3058,-7.27706],"type":"Point"}
+}

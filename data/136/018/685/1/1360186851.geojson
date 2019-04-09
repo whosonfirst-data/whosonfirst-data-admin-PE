@@ -1,0 +1,70 @@
+{
+  "id": 1360186851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.28333,-10.5,-77.28333,-10.5",
+    "geom:latitude":-10.5,
+    "geom:longitude":-77.28333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21402.0",
+    "gn:asciiname":"Huari",
+    "gn:country_code":"PE",
+    "gn:dem":2709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939203,
+    "gn:latitude":-10.5,
+    "gn:longitude":-77.28333,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Huari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939203,
+        "wk:page":"Huari,_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7d45502c47903128fda14c48b46b02fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694003,
+            "locality_id":1360186851,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1360186851,
+    "wof:lastmodified":1537570259,
+    "wof:name":"Huari",
+    "wof:parent_id":1108694003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.28333,
+    -10.5,
+    -77.28333,
+    -10.5
+],
+  "geometry": {"coordinates":[-77.28333000000001,-10.5],"type":"Point"}
+}

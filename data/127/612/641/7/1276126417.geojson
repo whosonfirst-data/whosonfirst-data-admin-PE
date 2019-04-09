@@ -1,0 +1,75 @@
+{
+  "id": 1276126417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.08815,-9.52467,-78.08815,-9.52467",
+    "geom:latitude":-9.52467,
+    "geom:longitude":-78.08815,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20804.0",
+    "gn:asciiname":"Hacienda Condor Arma",
+    "gn:country_code":"PE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696752,
+    "gn:latitude":-9.52467,
+    "gn:longitude":-78.08815,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Condor Arma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Condor Arma"
+    ],
+    "name:spa_x_variant":[
+        "Condor Arma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696752
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3806f8ed0cac57e06f11eab216c66e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1276126417,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1276126417,
+    "wof:lastmodified":1537676609,
+    "wof:name":"Hacienda Condor Arma",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.08815,
+    -9.52467,
+    -78.08815,
+    -9.52467
+],
+  "geometry": {"coordinates":[-78.08815,-9.52467],"type":"Point"}
+}

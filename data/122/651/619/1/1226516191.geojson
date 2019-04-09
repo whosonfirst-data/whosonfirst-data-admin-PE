@@ -1,0 +1,69 @@
+{
+  "id": 1226516191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4256,-16.79252,-69.4256,-16.79252",
+    "geom:latitude":-16.79252,
+    "geom:longitude":-69.4256,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210405.0",
+    "gn:asciiname":"Huacullucunca",
+    "gn:country_code":"PE",
+    "gn:dem":4310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310027,
+    "gn:latitude":-16.79252,
+    "gn:longitude":-69.4256,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huacullucunca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310027
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0f15d3d8a0c6d4c5cc98a6ca8da60739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1226516191,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226516191,
+    "wof:lastmodified":1537039069,
+    "wof:name":"Huacullucunca",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4256,
+    -16.79252,
+    -69.4256,
+    -16.79252
+],
+  "geometry": {"coordinates":[-69.4256,-16.79252],"type":"Point"}
+}

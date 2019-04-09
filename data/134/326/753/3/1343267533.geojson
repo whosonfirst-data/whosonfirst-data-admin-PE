@@ -1,0 +1,72 @@
+{
+  "id": 1343267533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4669,-15.48882,-73.4669,-15.48882",
+    "geom:latitude":-15.48882,
+    "geom:longitude":-73.4669,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40306.0",
+    "gn:asciiname":"Pacopampa",
+    "gn:country_code":"PE",
+    "gn:dem":3509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040007,
+    "gn:latitude":-15.48882,
+    "gn:longitude":-73.4669,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pacopampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacopampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040007
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b5caca3f7cac9c8858c4615bccc9686b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1343267533,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1343267533,
+    "wof:lastmodified":1537676964,
+    "wof:name":"Pacopampa",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4669,
+    -15.48882,
+    -73.4669,
+    -15.48882
+],
+  "geometry": {"coordinates":[-73.4669,-15.48882],"type":"Point"}
+}

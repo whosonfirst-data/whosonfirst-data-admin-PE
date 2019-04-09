@@ -1,0 +1,63 @@
+{
+  "id": 1209407899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69917,-14.42861,-73.69917,-14.42861",
+    "geom:latitude":-14.42861,
+    "geom:longitude":-73.69917,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50606.0",
+    "gn:asciiname":"Ochuviaco",
+    "gn:country_code":"PE",
+    "gn:dem":4154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959992,
+    "gn:latitude":-14.42861,
+    "gn:longitude":-73.69917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Ochuviaco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959992
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"277e35cca9055f80267fe10ab1f05cd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209407899
+        }
+    ],
+    "wof:id":1209407899,
+    "wof:lastmodified":1536287935,
+    "wof:name":"Ochuviaco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69917,
+    -14.42861,
+    -73.69917,
+    -14.42861
+],
+  "geometry": {"coordinates":[-73.69917,-14.42861],"type":"Point"}
+}

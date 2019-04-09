@@ -1,0 +1,69 @@
+{
+  "id": 1259457199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56183,-5.8711,-79.56183,-5.8711",
+    "geom:latitude":-5.8711,
+    "geom:longitude":-79.56183,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"Hacienda Vieja",
+    "gn:country_code":"PE",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761327,
+    "gn:latitude":-5.8711,
+    "gn:longitude":-79.56183,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Hacienda Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761327
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"21d05ee5a10ae2703701e8271d007123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1259457199,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1259457199,
+    "wof:lastmodified":1536896481,
+    "wof:name":"Hacienda Vieja",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56183,
+    -5.8711,
+    -79.56183,
+    -5.8711
+],
+  "geometry": {"coordinates":[-79.56183,-5.8711],"type":"Point"}
+}

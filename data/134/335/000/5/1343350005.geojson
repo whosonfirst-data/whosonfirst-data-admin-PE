@@ -1,0 +1,69 @@
+{
+  "id": 1343350005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2244,-9.89659,-76.2244,-9.89659",
+    "geom:latitude":-9.89659,
+    "geom:longitude":-76.2244,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100102.0",
+    "gn:asciiname":"El Arenal",
+    "gn:country_code":"PE",
+    "gn:dem":1881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670305,
+    "gn:latitude":-9.89659,
+    "gn:longitude":-76.2244,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"El Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670305
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ca39bfbd4434b5f423e5cb7850247be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1343350005,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1343350005,
+    "wof:lastmodified":1536905877,
+    "wof:name":"El Arenal",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2244,
+    -9.89659,
+    -76.2244,
+    -9.89659
+],
+  "geometry": {"coordinates":[-76.2244,-9.89659],"type":"Point"}
+}

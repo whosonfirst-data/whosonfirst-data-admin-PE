@@ -1,0 +1,68 @@
+{
+  "id": 1310275391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.04689,-5.80272,-80.04689,-5.80272",
+    "geom:latitude":-5.80272,
+    "geom:longitude":-80.04689,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Vega del Padre",
+    "gn:country_code":"PE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756098,
+    "gn:latitude":-5.80272,
+    "gn:longitude":-80.04689,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Vega del Padre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756098
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"df6668f428892966dd051ed61fef7008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1310275391,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310275391,
+    "wof:lastmodified":1536751359,
+    "wof:name":"Vega del Padre",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.04689,
+    -5.80272,
+    -80.04689,
+    -5.80272
+],
+  "geometry": {"coordinates":[-80.04689,-5.80272],"type":"Point"}
+}

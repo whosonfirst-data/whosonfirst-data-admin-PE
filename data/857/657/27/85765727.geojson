@@ -1,0 +1,116 @@
+{
+  "id": 85765727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4288459.760317,
+    "geom:bbox":"-76.995712,-12.064972,-76.995712,-12.064972",
+    "geom:latitude":-12.064972,
+    "geom:longitude":-76.995712,
+    "gn:latitude":-12.66492,
+    "gn:longitude":-76.63696,
+    "iso:country":"PE",
+    "lbl:latitude":-12.064972,
+    "lbl:longitude":-76.995712,
+    "mps:latitude":-12.057175,
+    "mps:longitude":-76.994664,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "El Pino"
+    ],
+    "name:glg_x_preferred":[
+        "O Pino"
+    ],
+    "name:hbs_x_preferred":[
+        "El Pino"
+    ],
+    "name:spa_x_preferred":[
+        "El Pino"
+    ],
+    "name:unk_x_variant":[
+        "El Pino"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"El Rino",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"El Pino",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:name_adm2":"Lima",
+    "qs:name_local":"Lima",
+    "qs:photo_max":45,
+    "qs:photo_sum":82,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":28358302,
+    "qs:woe_adm2":26805880,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        421202549,
+        85675909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303272,
+        "gp:id":22723525,
+        "qs:id":352875
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"20a3168f2c6339869a5c5d80cfff86fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":85765727,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":85765727,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859041,
+    "wof:name":"El Pino",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.995712,
+    -12.064972,
+    -76.995712,
+    -12.064972
+],
+  "geometry": {"coordinates":[-76.995712,-12.064972],"type":"Point"}
+}

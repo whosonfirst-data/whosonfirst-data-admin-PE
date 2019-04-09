@@ -1,0 +1,68 @@
+{
+  "id": 1259547989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.68362,-15.95756,-69.68362,-15.95756",
+    "geom:latitude":-15.95756,
+    "geom:longitude":-69.68362,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Huaramaya",
+    "gn:country_code":"PE",
+    "gn:dem":3826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939282,
+    "gn:latitude":-15.95756,
+    "gn:longitude":-69.68362,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Huaramaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939282
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"92a19877ee8e7c3cbd3c78010563ece6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1259547989,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1259547989,
+    "wof:lastmodified":1536766547,
+    "wof:name":"Huaramaya",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.68361999999999,
+    -15.95756,
+    -69.68361999999999,
+    -15.95756
+],
+  "geometry": {"coordinates":[-69.68361999999999,-15.95756],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209417241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.44413,-10.35162,-77.44413,-10.35162",
+    "geom:latitude":-10.35162,
+    "geom:longitude":-77.44413,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"214.0",
+    "gn:admin3_code":"21406.0",
+    "gn:asciiname":"Pintecaca",
+    "gn:country_code":"PE",
+    "gn:dem":3181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664136,
+    "gn:latitude":-10.35162,
+    "gn:longitude":-77.44413,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pintecaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664136
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8dcce7b57afb781ea9fe72a73eee6bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209417241
+        }
+    ],
+    "wof:id":1209417241,
+    "wof:lastmodified":1536287646,
+    "wof:name":"Pintecaca",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.44413,
+    -10.35162,
+    -77.44413,
+    -10.35162
+],
+  "geometry": {"coordinates":[-77.44413,-10.35162],"type":"Point"}
+}

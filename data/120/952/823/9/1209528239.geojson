@@ -1,0 +1,63 @@
+{
+  "id": 1209528239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.19335,-10.07355,-77.19335,-10.07355",
+    "geom:latitude":-10.07355,
+    "geom:longitude":-77.19335,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20504.0",
+    "gn:asciiname":"Regresh",
+    "gn:country_code":"PE",
+    "gn:dem":4246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6664649,
+    "gn:latitude":-10.07355,
+    "gn:longitude":-77.19335,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Regresh",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6664649
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d372fe7a6b5ab6c6dbd78dc5539f5708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209528239
+        }
+    ],
+    "wof:id":1209528239,
+    "wof:lastmodified":1536284365,
+    "wof:name":"Regresh",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.19335,
+    -10.07355,
+    -77.19335,
+    -10.07355
+],
+  "geometry": {"coordinates":[-77.19335,-10.07355],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293871565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73356,-13.29725,-75.73356,-13.29725",
+    "geom:latitude":-13.29725,
+    "geom:longitude":-75.73356,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110208.0",
+    "gn:asciiname":"Lamejorada",
+    "gn:country_code":"PE",
+    "gn:dem":2399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937021,
+    "gn:latitude":-13.29725,
+    "gn:longitude":-75.73356,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lamejorada",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lamejorada"
+    ],
+    "name:spa_x_variant":[
+        "La Mejorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937021
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"57d345462fadb76810581c96e0ffd02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1293871565,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293871565,
+    "wof:lastmodified":1537676773,
+    "wof:name":"Lamejorada",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73356,
+    -13.29725,
+    -75.73356,
+    -13.29725
+],
+  "geometry": {"coordinates":[-75.73356,-13.29725],"type":"Point"}
+}

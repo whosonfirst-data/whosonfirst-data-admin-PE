@@ -1,0 +1,68 @@
+{
+  "id": 1226441093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.48914,-12.85022,-74.48914,-12.85022",
+    "geom:latitude":-12.85022,
+    "geom:longitude":-74.48914,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Mutuy Orjo",
+    "gn:country_code":"PE",
+    "gn:dem":3780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651495,
+    "gn:latitude":-12.85022,
+    "gn:longitude":-74.48914,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Mutuy Orjo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651495
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f64f9fa80d8e3a27140dc2bf1d7606de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1226441093,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1226441093,
+    "wof:lastmodified":1536652068,
+    "wof:name":"Mutuy Orjo",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.48914,
+    -12.85022,
+    -74.48914,
+    -12.85022
+],
+  "geometry": {"coordinates":[-74.48914000000001,-12.85022],"type":"Point"}
+}

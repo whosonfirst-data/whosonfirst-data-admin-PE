@@ -1,0 +1,121 @@
+{
+  "id": 421182075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.86639,-12.39944,-74.86639,-12.39944",
+    "geom:latitude":-12.39944,
+    "geom:longitude":-74.86639,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Pampas"
+    ],
+    "name:chi_x_preferred":[
+        "\u6f58\u5e15\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Pampas"
+    ],
+    "name:eng_x_preferred":[
+        "Pampas"
+    ],
+    "name:fre_x_preferred":[
+        "Pampas"
+    ],
+    "name:ita_x_preferred":[
+        "Pampas"
+    ],
+    "name:lit_x_preferred":[
+        "Pampasas"
+    ],
+    "name:por_x_preferred":[
+        "Pampas"
+    ],
+    "name:que_x_preferred":[
+        "Pampas"
+    ],
+    "name:spa_x_preferred":[
+        "Pampas"
+    ],
+    "name:war_x_preferred":[
+        "Pampas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5e15\u65af"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3933185,
+    "qs:gn_pop":5521,
+    "qs:name":"Pampas",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Huancavelica",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":886559,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418566,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":3276.0,
+    "wd:latitude":-12.3989,
+    "wd:longitude":-74.8667,
+    "wd:wordcount":200,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933185,
+        "gp:id":418566,
+        "qs:id":886559,
+        "wd:id":"Q2725364",
+        "wk:page":"Pampas, Peru"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009318,
+    "wof:geomhash":"14c08dbc79fd77de04905c1070435a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":421182075,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":421182075,
+    "wof:lastmodified":1527726457,
+    "wof:name":"Pampas",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:population":5521,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.86639,
+    -12.39944,
+    -74.86639,
+    -12.39944
+],
+  "geometry": {"coordinates":[-74.86639,-12.39944],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226510729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.21667,-18.01667,-70.21667,-18.01667",
+    "geom:latitude":-18.01667,
+    "geom:longitude":-70.21667,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230108.0",
+    "gn:asciiname":"Picchay",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932437,
+    "gn:latitude":-18.01667,
+    "gn:longitude":-70.21667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Picchay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peschai",
+        "Picchay Hacienda",
+        "Picchay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932437
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b09fc3fbbb94107869654db962fc16e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1226510729,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1226510729,
+    "wof:lastmodified":1537676731,
+    "wof:name":"Picchay",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.21667,
+    -18.01667,
+    -70.21667,
+    -18.01667
+],
+  "geometry": {"coordinates":[-70.21666999999999,-18.01667],"type":"Point"}
+}

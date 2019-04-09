@@ -1,0 +1,69 @@
+{
+  "id": 1193000941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95,-12.05,-76.95,-12.05",
+    "geom:latitude":-12.05,
+    "geom:longitude":-76.95,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150103.0",
+    "gn:asciiname":"Asesor",
+    "gn:country_code":"PE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947243,
+    "gn:latitude":-12.05,
+    "gn:longitude":-76.95,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Asesor",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947243
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"804cd4654dff86c9be2641636a1b16eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1193000941,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1193000941,
+    "wof:lastmodified":1536370721,
+    "wof:name":"Asesor",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95,
+    -12.05,
+    -76.95,
+    -12.05
+],
+  "geometry": {"coordinates":[-76.95,-12.05],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209674503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.42771,-5.51692,-79.42771,-5.51692",
+    "geom:latitude":-5.51692,
+    "geom:longitude":-79.42771,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200308.0",
+    "gn:asciiname":"Cedro",
+    "gn:country_code":"PE",
+    "gn:dem":2622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698613,
+    "gn:latitude":-5.51692,
+    "gn:longitude":-79.42771,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cedro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698613
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3c8882a978310fef9360604cdbf2ba5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209674503
+        }
+    ],
+    "wof:id":1209674503,
+    "wof:lastmodified":1536279803,
+    "wof:name":"Cedro",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.42771,
+    -5.51692,
+    -79.42771,
+    -5.51692
+],
+  "geometry": {"coordinates":[-79.42771,-5.51692],"type":"Point"}
+}

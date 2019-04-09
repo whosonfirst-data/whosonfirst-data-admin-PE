@@ -1,0 +1,69 @@
+{
+  "id": 1226131007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2466,-9.78345,-76.2466,-9.78345",
+    "geom:latitude":-9.78345,
+    "geom:longitude":-76.2466,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100109.0",
+    "gn:asciiname":"Shogosmonte",
+    "gn:country_code":"PE",
+    "gn:dem":3250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670344,
+    "gn:latitude":-9.78345,
+    "gn:longitude":-76.2466,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Shogosmonte",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670344
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3dc4b3091136ee0444993c69b4a0ac47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1226131007,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226131007,
+    "wof:lastmodified":1537095741,
+    "wof:name":"Shogosmonte",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2466,
+    -9.78345,
+    -76.2466,
+    -9.78345
+],
+  "geometry": {"coordinates":[-76.2466,-9.78345],"type":"Point"}
+}

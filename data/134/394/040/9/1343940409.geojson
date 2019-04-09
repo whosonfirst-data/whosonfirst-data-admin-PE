@@ -1,0 +1,75 @@
+{
+  "id": 1343940409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.05939,-11.85021,-77.05939,-11.85021",
+    "geom:latitude":-11.85021,
+    "geom:longitude":-77.05939,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1501.0",
+    "gn:admin3_code":"150106.0",
+    "gn:asciiname":"Fundo Santa Ines",
+    "gn:country_code":"PE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254732,
+    "gn:latitude":-11.85021,
+    "gn:longitude":-77.05939,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Fundo Santa In\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fundo Santa In\u00e9s"
+    ],
+    "name:spa_x_variant":[
+        "Santa In\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254732
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a3c72e9c542442f0a4f94aea71af0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":1343940409,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1343940409,
+    "wof:lastmodified":1537676893,
+    "wof:name":"Fundo Santa Ines",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.05939000000002,
+    -11.85021,
+    -77.05939000000002,
+    -11.85021
+],
+  "geometry": {"coordinates":[-77.05939000000002,-11.85021],"type":"Point"}
+}

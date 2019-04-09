@@ -1,0 +1,69 @@
+{
+  "id": 1293364241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.17557,-15.76429,-70.17557,-15.76429",
+    "geom:latitude":-15.76429,
+    "geom:longitude":-70.17557,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210114.0",
+    "gn:asciiname":"Pila Pata",
+    "gn:country_code":"PE",
+    "gn:dem":3940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932290,
+    "gn:latitude":-15.76429,
+    "gn:longitude":-70.17557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pila Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421200651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932290
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9c7ba608155d15bd7e7c44ae18d7d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421200651,
+            "locality_id":1293364241,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293364241,
+    "wof:lastmodified":1536964603,
+    "wof:name":"Pila Pata",
+    "wof:parent_id":421200651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.17557,
+    -15.76429,
+    -70.17557,
+    -15.76429
+],
+  "geometry": {"coordinates":[-70.17556999999999,-15.76429],"type":"Point"}
+}

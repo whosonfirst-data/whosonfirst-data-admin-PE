@@ -1,0 +1,69 @@
+{
+  "id": 1343962545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.19317,-13.30232,-74.19317,-13.30232",
+    "geom:latitude":-13.30232,
+    "geom:longitude":-74.19317,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50105.0",
+    "gn:asciiname":"Yanahuanco",
+    "gn:country_code":"PE",
+    "gn:dem":3743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925807,
+    "gn:latitude":-13.30232,
+    "gn:longitude":-74.19317,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Yanahuanco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421185311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925807
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ab7ac3e9fff60b10ea2035851e909005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185311,
+            "locality_id":1343962545,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343962545,
+    "wof:lastmodified":1537016206,
+    "wof:name":"Yanahuanco",
+    "wof:parent_id":421185311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.19317,
+    -13.30232,
+    -74.19317,
+    -13.30232
+],
+  "geometry": {"coordinates":[-74.19316999999999,-13.30232],"type":"Point"}
+}

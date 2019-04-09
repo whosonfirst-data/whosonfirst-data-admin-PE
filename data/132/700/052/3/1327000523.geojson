@@ -1,0 +1,72 @@
+{
+  "id": 1327000523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51809,-6.75674,-79.51809,-6.75674",
+    "geom:latitude":-6.75674,
+    "geom:longitude":-79.51809,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140119.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"PE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958004,
+    "gn:latitude":-6.75674,
+    "gn:longitude":-79.51809,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958004
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aa969a8e7eb5dfa0a24c2659da2b305e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1327000523,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327000523,
+    "wof:lastmodified":1537676951,
+    "wof:name":"San Pablo",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51809,
+    -6.75674,
+    -79.51809,
+    -6.75674
+],
+  "geometry": {"coordinates":[-79.51809,-6.75674],"type":"Point"}
+}

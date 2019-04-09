@@ -1,0 +1,69 @@
+{
+  "id": 1260069401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61207,-12.47656,-74.61207,-12.47656",
+    "geom:latitude":-12.47656,
+    "geom:longitude":-74.61207,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90503.0",
+    "gn:asciiname":"Ocoro",
+    "gn:country_code":"PE",
+    "gn:dem":3722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8664433,
+    "gn:latitude":-12.47656,
+    "gn:longitude":-74.61207,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ocoro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421184603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8664433
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e4c46ef1a54ad264fa61658c3fd74cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184603,
+            "locality_id":1260069401,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1260069401,
+    "wof:lastmodified":1537007603,
+    "wof:name":"Ocoro",
+    "wof:parent_id":421184603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61206999999997,
+    -12.47656,
+    -74.61206999999997,
+    -12.47656
+],
+  "geometry": {"coordinates":[-74.61206999999997,-12.47656],"type":"Point"}
+}

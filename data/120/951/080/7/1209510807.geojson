@@ -1,0 +1,63 @@
+{
+  "id": 1209510807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52382,-13.00941,-75.52382,-13.00941",
+    "geom:latitude":-13.00941,
+    "geom:longitude":-75.52382,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90403.0",
+    "gn:asciiname":"Raty Paty",
+    "gn:country_code":"PE",
+    "gn:dem":4107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930507,
+    "gn:latitude":-13.00941,
+    "gn:longitude":-75.52382,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Raty Paty",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930507
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5a78f616471345062fe9aafc875ff9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209510807
+        }
+    ],
+    "wof:id":1209510807,
+    "wof:lastmodified":1536284888,
+    "wof:name":"Raty Paty",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52382,
+    -13.00941,
+    -75.52382,
+    -13.00941
+],
+  "geometry": {"coordinates":[-75.52382,-13.00941],"type":"Point"}
+}

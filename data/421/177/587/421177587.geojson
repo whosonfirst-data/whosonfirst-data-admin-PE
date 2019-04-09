@@ -1,0 +1,106 @@
+{
+  "id": 421177587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.39974,-4.49971,-80.39974,-4.49971",
+    "geom:latitude":-4.49971,
+    "geom:longitude":-80.39974,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Despe\u00f1aperros"
+    ],
+    "name:ceb_x_preferred":[
+        "Desfiladero de Despe\u00f1aperros"
+    ],
+    "name:deu_x_preferred":[
+        "Desfiladero de Despe\u00f1aperros"
+    ],
+    "name:epo_x_preferred":[
+        "Despe\u00f1aperros"
+    ],
+    "name:eus_x_preferred":[
+        "Despe\u00f1aperros"
+    ],
+    "name:fra_x_preferred":[
+        "Despe\u00f1aperros"
+    ],
+    "name:glg_x_preferred":[
+        "Despe\u00f1aperros"
+    ],
+    "name:pol_x_preferred":[
+        "Park Narodowy Despe\u00f1aperros"
+    ],
+    "name:por_x_preferred":[
+        "Parque Natural de Despe\u00f1aperros"
+    ],
+    "name:spa_x_preferred":[
+        "Parque natural de Despe\u00f1aperros"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3695187,
+    "qs:gn_pop":0,
+    "qs:name":"Los \u00d3rganos",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Piura",
+    "qs:photos":196,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":196,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1342461,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418980,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695187,
+        "gp:id":418980,
+        "qs:id":1342461
+    },
+    "wof:country":"PE",
+    "wof:created":1459009151,
+    "wof:geomhash":"0052984bce55ba555d829e09e8a2cfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":421177587,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421177587,
+    "wof:lastmodified":1500022053,
+    "wof:name":"Los \u00d3rganos",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.39974,
+    -4.49971,
+    -80.39974,
+    -4.49971
+],
+  "geometry": {"coordinates":[-80.39973999999999,-4.49971],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276300219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.46279,-3.6327,-80.46279,-3.6327",
+    "geom:latitude":-3.6327,
+    "geom:longitude":-80.46279,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"2401.0",
+    "gn:admin3_code":"240102.0",
+    "gn:asciiname":"Pichichal",
+    "gn:country_code":"PE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3818413,
+    "gn:latitude":-3.6327,
+    "gn:longitude":-80.46279,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Pichichal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pechichal",
+        "Pichichal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675831,
+        421187863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3818413
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"594008e06c7e4d694978c790599c8353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187863,
+            "locality_id":1276300219,
+            "region_id":85675831
+        }
+    ],
+    "wof:id":1276300219,
+    "wof:lastmodified":1537676661,
+    "wof:name":"Pichichal",
+    "wof:parent_id":421187863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.46279,
+    -3.6327,
+    -80.46279,
+    -3.6327
+],
+  "geometry": {"coordinates":[-80.46279,-3.6327],"type":"Point"}
+}

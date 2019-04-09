@@ -1,0 +1,73 @@
+{
+  "id": 1293654171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52873,-10.8317,-76.52873,-10.8317",
+    "geom:latitude":-10.8317,
+    "geom:longitude":-76.52873,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190104.0",
+    "gn:asciiname":"Jumasha",
+    "gn:country_code":"PE",
+    "gn:dem":4304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937498,
+    "gn:latitude":-10.8317,
+    "gn:longitude":-76.52873,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jumasha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumashga",
+        "Jumasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937498
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7bd3236267bc4a3083bda165507889fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1293654171,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1293654171,
+    "wof:lastmodified":1537676778,
+    "wof:name":"Jumasha",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52873000000002,
+    -10.8317,
+    -76.52873000000002,
+    -10.8317
+],
+  "geometry": {"coordinates":[-76.52873000000002,-10.8317],"type":"Point"}
+}

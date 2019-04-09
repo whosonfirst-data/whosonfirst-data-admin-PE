@@ -1,0 +1,83 @@
+{
+  "id": 421201411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.37026,-15.74711,-71.37026,-15.74711",
+    "geom:latitude":-15.74711,
+    "geom:longitude":-71.37026,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Achoma"
+    ],
+    "name:spa_x_preferred":[
+        "Achoma"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3951512,
+    "qs:gn_pop":0,
+    "qs:name":"Achoma",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":134,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":134,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211198,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418613,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3951512,
+        "gp:id":418613,
+        "qs:id":211198,
+        "wd:id":"Q5656601"
+    },
+    "wof:country":"PE",
+    "wof:created":1459010071,
+    "wof:geomhash":"6290aa7d35fec332ed4f37f5c250cd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":421201411,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421201411,
+    "wof:lastmodified":1514494915,
+    "wof:name":"Achoma",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.37026,
+    -15.74711,
+    -71.37026,
+    -15.74711
+],
+  "geometry": {"coordinates":[-71.37026,-15.74711],"type":"Point"}
+}

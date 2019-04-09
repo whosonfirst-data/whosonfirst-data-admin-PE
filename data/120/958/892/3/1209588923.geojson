@@ -1,0 +1,63 @@
+{
+  "id": 1209588923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95485,-6.57642,-79.95485,-6.57642",
+    "geom:latitude":-6.57642,
+    "geom:longitude":-79.95485,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140306.0",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"PE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692450,
+    "gn:latitude":-6.57642,
+    "gn:longitude":-79.95485,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692450
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f2452ddd62843103530e5cfe77aa97da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209588923
+        }
+    ],
+    "wof:id":1209588923,
+    "wof:lastmodified":1536282542,
+    "wof:name":"San Juan",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95485,
+    -6.57642,
+    -79.95485,
+    -6.57642
+],
+  "geometry": {"coordinates":[-79.95484999999999,-6.57642],"type":"Point"}
+}

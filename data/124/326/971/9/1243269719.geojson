@@ -1,0 +1,68 @@
+{
+  "id": 1243269719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.05083,-15.40556,-71.05083,-15.40556",
+    "geom:latitude":-15.40556,
+    "geom:longitude":-71.05083,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Caullacollo",
+    "gn:country_code":"PE",
+    "gn:dem":4646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945179,
+    "gn:latitude":-15.40556,
+    "gn:longitude":-71.05083,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Caullacollo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421203205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945179
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cadb5fa8f14dccba8e7b57cbd483fcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203205,
+            "locality_id":1243269719,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1243269719,
+    "wof:lastmodified":1537057709,
+    "wof:name":"Caullacollo",
+    "wof:parent_id":421203205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05083,
+    -15.40556,
+    -71.05083,
+    -15.40556
+],
+  "geometry": {"coordinates":[-71.05083,-15.40556],"type":"Point"}
+}

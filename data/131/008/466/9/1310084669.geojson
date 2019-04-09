@@ -1,0 +1,70 @@
+{
+  "id": 1310084669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00376,-8.11043,-79.00376,-8.11043",
+    "geom:latitude":-8.11043,
+    "geom:longitude":-79.00376,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1301.0",
+    "gn:admin3_code":"130101.0",
+    "gn:asciiname":"El Bosque",
+    "gn:country_code":"PE",
+    "gn:dem":41,
+    "gn:elevation":"19.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778683,
+    "gn:latitude":-8.11043,
+    "gn:longitude":-79.00376,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"El Bosque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421170677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778683
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a563ba87a0348c43f8e9699b2dc6fffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170677,
+            "locality_id":1310084669,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1310084669,
+    "wof:lastmodified":1537025458,
+    "wof:name":"El Bosque",
+    "wof:parent_id":421170677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00376,
+    -8.11043,
+    -79.00376,
+    -8.11043
+],
+  "geometry": {"coordinates":[-79.00376,-8.11043],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293842445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37878,-13.91654,-69.37878,-13.91654",
+    "geom:latitude":-13.91654,
+    "geom:longitude":-69.37878,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Huinchosmayo",
+    "gn:country_code":"PE",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528658,
+    "gn:latitude":-13.91654,
+    "gn:longitude":-69.37878,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Huinchosmayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huinchosmayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528658
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"45d3b5b989cade59f2dac17b60ba96c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1293842445,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293842445,
+    "wof:lastmodified":1537676995,
+    "wof:name":"Huinchosmayo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37878,
+    -13.91654,
+    -69.37878,
+    -13.91654
+],
+  "geometry": {"coordinates":[-69.37878000000001,-13.91654],"type":"Point"}
+}

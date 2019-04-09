@@ -1,0 +1,69 @@
+{
+  "id": 1293097273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74759,-13.53661,-74.74759,-13.53661",
+    "geom:latitude":-13.53661,
+    "geom:longitude":-74.74759,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50205.0",
+    "gn:asciiname":"Iglesia Huasi",
+    "gn:country_code":"PE",
+    "gn:dem":3640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938468,
+    "gn:latitude":-13.53661,
+    "gn:longitude":-74.74759,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Iglesia Huasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938468
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6f61e3e0970e194630f02efad51ac2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1293097273,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1293097273,
+    "wof:lastmodified":1536851544,
+    "wof:name":"Iglesia Huasi",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74759,
+    -13.53661,
+    -74.74759,
+    -13.53661
+],
+  "geometry": {"coordinates":[-74.74759,-13.53661],"type":"Point"}
+}

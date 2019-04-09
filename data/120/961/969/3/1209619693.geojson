@@ -1,0 +1,63 @@
+{
+  "id": 1209619693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47304,-13.23385,-74.47304,-13.23385",
+    "geom:latitude":-13.23385,
+    "geom:longitude":-74.47304,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50114.0",
+    "gn:asciiname":"Collota",
+    "gn:country_code":"PE",
+    "gn:dem":3988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668133,
+    "gn:latitude":-13.23385,
+    "gn:longitude":-74.47304,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Collota",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668133
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2771075b900eb3eb8f5398e157f8a541",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209619693
+        }
+    ],
+    "wof:id":1209619693,
+    "wof:lastmodified":1536281563,
+    "wof:name":"Collota",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47304,
+    -13.23385,
+    -74.47304,
+    -13.23385
+],
+  "geometry": {"coordinates":[-74.47304,-13.23385],"type":"Point"}
+}

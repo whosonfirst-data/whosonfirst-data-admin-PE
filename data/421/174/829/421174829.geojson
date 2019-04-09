@@ -1,0 +1,81 @@
+{
+  "id": 421174829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99818,-14.9799,-74.99818,-14.9799",
+    "geom:latitude":-14.9799,
+    "geom:longitude":-74.99818,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Paroma"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3932883,
+    "qs:gn_pop":0,
+    "qs:name":"Poroma",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":899885,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420670,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":294,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932883,
+        "gp:id":420670,
+        "qs:id":899885,
+        "wd:id":"Q18556792"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009045,
+    "wof:geomhash":"98017ce1b6d2a9d855a8292b483912aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":421174829,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421174829,
+    "wof:lastmodified":1527716224,
+    "wof:name":"Poroma",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99818,
+    -14.9799,
+    -74.99818,
+    -14.9799
+],
+  "geometry": {"coordinates":[-74.99818,-14.9799],"type":"Point"}
+}

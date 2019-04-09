@@ -1,0 +1,79 @@
+{
+  "id": 421167797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.21719,-4.26851,-81.21719,-4.26851",
+    "geom:latitude":-4.26851,
+    "geom:longitude":-81.21719,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3697441,
+    "qs:gn_pop":9303,
+    "qs:name":"El Alto",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Piura",
+    "qs:photos":121,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":121,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150209,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418831,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697441,
+        "gp:id":418831,
+        "qs:id":150209
+    },
+    "wof:country":"PE",
+    "wof:created":1459008743,
+    "wof:geomhash":"54a0520816e410f956cb884c247efd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":421167797,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421167797,
+    "wof:lastmodified":1505340587,
+    "wof:name":"El Alto",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:population":9303,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.21719,
+    -4.26851,
+    -81.21719,
+    -4.26851
+],
+  "geometry": {"coordinates":[-81.21719,-4.26851],"type":"Point"}
+}

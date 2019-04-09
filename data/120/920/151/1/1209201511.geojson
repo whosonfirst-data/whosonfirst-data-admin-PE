@@ -1,0 +1,63 @@
+{
+  "id": 1209201511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77423,-11.1008,-74.77423,-11.1008",
+    "geom:latitude":-11.1008,
+    "geom:longitude":-74.77423,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120607.0",
+    "gn:asciiname":"Ipoquiari",
+    "gn:country_code":"PE",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6302823,
+    "gn:latitude":-11.1008,
+    "gn:longitude":-74.77423,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ipoquiari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302823
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"86fe32456fb351213fa55565c85510a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209201511
+        }
+    ],
+    "wof:id":1209201511,
+    "wof:lastmodified":1536294594,
+    "wof:name":"Ipoquiari",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77423,
+    -11.1008,
+    -74.77423,
+    -11.1008
+],
+  "geometry": {"coordinates":[-74.77423,-11.1008],"type":"Point"}
+}

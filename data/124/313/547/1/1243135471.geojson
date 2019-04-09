@@ -1,0 +1,74 @@
+{
+  "id": 1243135471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.37209,-11.4575,-69.37209,-11.4575",
+    "geom:latitude":-11.4575,
+    "geom:longitude":-69.37209,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1703.0",
+    "gn:admin3_code":"170302.0",
+    "gn:asciiname":"Ollaque",
+    "gn:country_code":"PE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933871,
+    "gn:latitude":-11.4575,
+    "gn:longitude":-69.37209,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ollaque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Oyaque",
+        "Oyague",
+        "Ollaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933871
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2c2f98f6f22edf4e439472c3e9cb26f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693889,
+            "locality_id":1243135471,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":1243135471,
+    "wof:lastmodified":1537676742,
+    "wof:name":"Ollaque",
+    "wof:parent_id":1108693889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.37209,
+    -11.4575,
+    -69.37209,
+    -11.4575
+],
+  "geometry": {"coordinates":[-69.37209,-11.4575],"type":"Point"}
+}

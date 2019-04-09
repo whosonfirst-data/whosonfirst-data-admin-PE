@@ -1,0 +1,63 @@
+{
+  "id": 1209599277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91493,-12.30924,-74.91493,-12.30924",
+    "geom:latitude":-12.30924,
+    "geom:longitude":-74.91493,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90704.0",
+    "gn:asciiname":"San Miguel de Haullhua",
+    "gn:country_code":"PE",
+    "gn:dem":3250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8663482,
+    "gn:latitude":-12.30924,
+    "gn:longitude":-74.91493,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"San Miguel de Haullhua",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8663482
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3545214606f742183a84c4718381b5e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209599277
+        }
+    ],
+    "wof:id":1209599277,
+    "wof:lastmodified":1536282222,
+    "wof:name":"San Miguel de Haullhua",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91493,
+    -12.30924,
+    -74.91493,
+    -12.30924
+],
+  "geometry": {"coordinates":[-74.91493,-12.30924],"type":"Point"}
+}

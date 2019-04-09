@@ -1,0 +1,63 @@
+{
+  "id": 1209692555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59817,-11.80221,-75.59817,-11.80221",
+    "geom:latitude":-11.80221,
+    "geom:longitude":-75.59817,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120406.0",
+    "gn:asciiname":"Acaya",
+    "gn:country_code":"PE",
+    "gn:dem":3539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671304,
+    "gn:latitude":-11.80221,
+    "gn:longitude":-75.59817,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Acaya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671304
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f93e4d0aed3c9f45627c1882c2f6f9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209692555
+        }
+    ],
+    "wof:id":1209692555,
+    "wof:lastmodified":1536279189,
+    "wof:name":"Acaya",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59817,
+    -11.80221,
+    -75.59817,
+    -11.80221
+],
+  "geometry": {"coordinates":[-75.59817,-11.80221],"type":"Point"}
+}

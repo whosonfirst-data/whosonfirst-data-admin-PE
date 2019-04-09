@@ -1,0 +1,69 @@
+{
+  "id": 1360064865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83289,-11.73762,-75.83289,-11.73762",
+    "geom:latitude":-11.73762,
+    "geom:longitude":-75.83289,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120802.0",
+    "gn:asciiname":"Cabrajaicuna",
+    "gn:country_code":"PE",
+    "gn:dem":4374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671199,
+    "gn:latitude":-11.73762,
+    "gn:longitude":-75.83289,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cabrajaicuna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671199
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b338b4686f371f983ccf3a4b7ae6e816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1360064865,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1360064865,
+    "wof:lastmodified":1536974440,
+    "wof:name":"Cabrajaicuna",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83289,
+    -11.73762,
+    -75.83289,
+    -11.73762
+],
+  "geometry": {"coordinates":[-75.83289000000001,-11.73762],"type":"Point"}
+}

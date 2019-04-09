@@ -1,0 +1,75 @@
+{
+  "id": 1326720531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86667,-13.45,-71.86667,-13.45",
+    "geom:latitude":-13.45,
+    "geom:longitude":-71.86667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"804.0",
+    "gn:admin3_code":"80407.0",
+    "gn:asciiname":"Huancaye",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939460,
+    "gn:latitude":-13.45,
+    "gn:longitude":-71.86667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huancaye",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huancaya",
+        "Huancalli",
+        "Huancaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421175157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939460
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee09ff9d797b3f558d4fc8d0a094aaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175157,
+            "locality_id":1326720531,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1326720531,
+    "wof:lastmodified":1537676794,
+    "wof:name":"Huancaye",
+    "wof:parent_id":421175157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86667,
+    -13.45,
+    -71.86667,
+    -13.45
+],
+  "geometry": {"coordinates":[-71.86667,-13.45],"type":"Point"}
+}

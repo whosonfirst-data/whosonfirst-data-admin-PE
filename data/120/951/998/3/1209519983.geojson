@@ -1,0 +1,63 @@
+{
+  "id": 1209519983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81,-14.31222,-73.81,-14.31222",
+    "geom:latitude":-14.31222,
+    "geom:longitude":-73.81,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50606.0",
+    "gn:asciiname":"Telarhuasi",
+    "gn:country_code":"PE",
+    "gn:dem":4446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959785,
+    "gn:latitude":-14.31222,
+    "gn:longitude":-73.81,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Telarhuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959785
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"31de3f75112767b776537323eeaa0add",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209519983
+        }
+    ],
+    "wof:id":1209519983,
+    "wof:lastmodified":1536284611,
+    "wof:name":"Telarhuasi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81,
+    -14.312220000000002,
+    -73.81,
+    -14.312220000000002
+],
+  "geometry": {"coordinates":[-73.81,-14.31222],"type":"Point"}
+}

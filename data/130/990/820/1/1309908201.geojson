@@ -1,0 +1,74 @@
+{
+  "id": 1309908201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14799,-9.5429,-78.14799,-9.5429",
+    "geom:latitude":-9.5429,
+    "geom:longitude":-78.14799,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"208.0",
+    "gn:admin3_code":"20801.0",
+    "gn:asciiname":"Pacae",
+    "gn:country_code":"PE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694171,
+    "gn:latitude":-9.5429,
+    "gn:longitude":-78.14799,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Pacae",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasae",
+        "Pacay",
+        "Pacae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694171
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"111f5fa1a5b9ae74bd76ec45725ea4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694019,
+            "locality_id":1309908201,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1309908201,
+    "wof:lastmodified":1537676575,
+    "wof:name":"Pacae",
+    "wof:parent_id":1108694019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14799000000002,
+    -9.5429,
+    -78.14799000000002,
+    -9.5429
+],
+  "geometry": {"coordinates":[-78.14799000000002,-9.5429],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344235399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65305,-9.77122,-76.65305,-9.77122",
+    "geom:latitude":-9.77122,
+    "geom:longitude":-76.65305,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101104.0",
+    "gn:asciiname":"Jircacancha",
+    "gn:country_code":"PE",
+    "gn:dem":3504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666111,
+    "gn:latitude":-9.77122,
+    "gn:longitude":-76.65305,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Jircacancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666111
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"163b917ed645b144974a9494649e8981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1344235399,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1344235399,
+    "wof:lastmodified":1536621158,
+    "wof:name":"Jircacancha",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65305,
+    -9.77122,
+    -76.65305,
+    -9.77122
+],
+  "geometry": {"coordinates":[-76.65304999999999,-9.77122],"type":"Point"}
+}

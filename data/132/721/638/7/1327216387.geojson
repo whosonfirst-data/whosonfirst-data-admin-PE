@@ -1,0 +1,83 @@
+{
+  "id": 1327216387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.27148,-11.54896,-77.27148,-11.54896",
+    "geom:latitude":-11.54896,
+    "geom:longitude":-77.27148,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150605.0",
+    "gn:asciiname":"Fundo La Joya",
+    "gn:country_code":"PE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254802,
+    "gn:latitude":-11.54896,
+    "gn:longitude":-77.27148,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Fundo La Joya",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fundo La Joya"
+    ],
+    "name:spa_x_variant":[
+        "La Joya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254802
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2a8d855aac08f8639a990f527ecb17ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1327216387,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1327216387,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327216387,
+    "wof:lastmodified":1537676893,
+    "wof:name":"Fundo La Joya",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.27148000000003,
+    -11.54896,
+    -77.27148000000003,
+    -11.54896
+],
+  "geometry": {"coordinates":[-77.27148000000003,-11.54896],"type":"Point"}
+}

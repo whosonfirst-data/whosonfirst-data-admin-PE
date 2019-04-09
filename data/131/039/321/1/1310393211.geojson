@@ -1,0 +1,72 @@
+{
+  "id": 1310393211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8398,-14.9734,-74.8398,-14.9734",
+    "geom:latitude":-14.9734,
+    "geom:longitude":-74.8398,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110305.0",
+    "gn:asciiname":"Huaquilla",
+    "gn:country_code":"PE",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939343,
+    "gn:latitude":-14.9734,
+    "gn:longitude":-74.8398,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Huaquilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huaquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939343
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c978fb99058318c53e956ccd232c5c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1310393211,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1310393211,
+    "wof:lastmodified":1537676792,
+    "wof:name":"Huaquilla",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8398,
+    -14.9734,
+    -74.8398,
+    -14.9734
+],
+  "geometry": {"coordinates":[-74.8398,-14.9734],"type":"Point"}
+}

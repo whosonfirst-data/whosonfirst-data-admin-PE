@@ -1,0 +1,69 @@
+{
+  "id": 1209824579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15835,-5.88689,-78.15835,-5.88689",
+    "geom:latitude":-5.88689,
+    "geom:longitude":-78.15835,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10705.0",
+    "gn:asciiname":"Aserredero",
+    "gn:country_code":"PE",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812047,
+    "gn:latitude":-5.88689,
+    "gn:longitude":-78.15835,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Aserredero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812047
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8e166505060a57dd23603839c222016f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1209824579,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1209824579,
+    "wof:lastmodified":1536375078,
+    "wof:name":"Aserredero",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15835,
+    -5.88689,
+    -78.15835,
+    -5.88689
+],
+  "geometry": {"coordinates":[-78.15835,-5.88689],"type":"Point"}
+}

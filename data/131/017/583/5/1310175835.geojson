@@ -1,0 +1,75 @@
+{
+  "id": 1310175835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95819,-6.73101,-79.95819,-6.73101",
+    "geom:latitude":-6.73101,
+    "geom:longitude":-79.95819,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140301.0",
+    "gn:asciiname":"Las Palmeras",
+    "gn:country_code":"PE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695692,
+    "gn:latitude":-6.73101,
+    "gn:longitude":-79.95819,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Las Palmeras",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Palmeras"
+    ],
+    "name:und_x_variant":[
+        "La Palmera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695692
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e32c07fcbcfc99212b17a9822b5673b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1310175835,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1310175835,
+    "wof:lastmodified":1537676594,
+    "wof:name":"Las Palmeras",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95819,
+    -6.73101,
+    -79.95819,
+    -6.73101
+],
+  "geometry": {"coordinates":[-79.95819,-6.73101],"type":"Point"}
+}

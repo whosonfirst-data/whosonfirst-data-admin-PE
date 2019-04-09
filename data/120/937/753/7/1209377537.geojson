@@ -1,0 +1,67 @@
+{
+  "id": 1209377537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.94308,-17.16694,-70.94308,-17.16694",
+    "geom:latitude":-17.16694,
+    "geom:longitude":-70.94308,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180101.0",
+    "gn:asciiname":"Huaracane Hacienda",
+    "gn:country_code":"PE",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939331,
+    "gn:latitude":-17.16694,
+    "gn:longitude":-70.94308,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huaracane Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaracane",
+        "Huaracane Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939331
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"04c0827290e9ecb669e59534c82f44ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209377537
+        }
+    ],
+    "wof:id":1209377537,
+    "wof:lastmodified":1537676792,
+    "wof:name":"Huaracane Hacienda",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.94308000000002,
+    -17.16694,
+    -70.94308000000002,
+    -17.16694
+],
+  "geometry": {"coordinates":[-70.94308000000002,-17.16694],"type":"Point"}
+}

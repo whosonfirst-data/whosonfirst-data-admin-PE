@@ -1,0 +1,73 @@
+{
+  "id": 1209837143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.97289,-7.1943,-78.97289,-7.1943",
+    "geom:latitude":-7.1943,
+    "geom:longitude":-78.97289,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60508.0",
+    "gn:asciiname":"Jube",
+    "gn:country_code":"PE",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696056,
+    "gn:latitude":-7.1943,
+    "gn:longitude":-78.97289,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Jube",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yube",
+        "Jube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108694039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696056
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cf30704332db37e0e2db6c6b9e209858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694039,
+            "locality_id":1209837143,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1209837143,
+    "wof:lastmodified":1537676599,
+    "wof:name":"Jube",
+    "wof:parent_id":1108694039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97289,
+    -7.1943,
+    -78.97289,
+    -7.1943
+],
+  "geometry": {"coordinates":[-78.97289000000001,-7.1943],"type":"Point"}
+}

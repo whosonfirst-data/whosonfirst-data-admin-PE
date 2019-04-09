@@ -1,0 +1,69 @@
+{
+  "id": 1193266711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.64778,-10.19361,-76.64778,-10.19361",
+    "geom:latitude":-10.19361,
+    "geom:longitude":-76.64778,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101007.0",
+    "gn:asciiname":"Pupush",
+    "gn:country_code":"PE",
+    "gn:dem":4055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403423,
+    "gn:latitude":-10.19361,
+    "gn:longitude":-76.64778,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pupush",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403423
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"844f2d6cab4cc39a9dc7492053600af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1193266711,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1193266711,
+    "wof:lastmodified":1536375083,
+    "wof:name":"Pupush",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.64778000000003,
+    -10.19361,
+    -76.64778000000003,
+    -10.19361
+],
+  "geometry": {"coordinates":[-76.64778000000003,-10.19361],"type":"Point"}
+}

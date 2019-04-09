@@ -1,0 +1,77 @@
+{
+  "id": 1260265575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1,-10.75,-77.1,-10.75",
+    "geom:latitude":-10.75,
+    "geom:longitude":-77.1,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150904.0",
+    "gn:asciiname":"Yarucalla",
+    "gn:country_code":"PE",
+    "gn:dem":4765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925615,
+    "gn:latitude":-10.75,
+    "gn:longitude":-77.1,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yarucalla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925615
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3d971765c6ff4c5d212bffdc83a8d974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1260265575,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1260265575,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1260265575,
+    "wof:lastmodified":1536736017,
+    "wof:name":"Yarucalla",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1,
+    -10.75,
+    -77.1,
+    -10.75
+],
+  "geometry": {"coordinates":[-77.09999999999999,-10.75],"type":"Point"}
+}

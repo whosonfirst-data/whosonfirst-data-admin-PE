@@ -1,0 +1,75 @@
+{
+  "id": 421186783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.503143,-16.411221,-71.503143,-16.411221",
+    "geom:latitude":-16.411221,
+    "geom:longitude":-71.503143,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Paucarpata",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":406,
+    "qs:photos_1k":82,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":406,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075978,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":411155,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":411155,
+        "qs:id":1075978
+    },
+    "wof:country":"PE",
+    "wof:created":1459009491,
+    "wof:geomhash":"a70c0f188dee9edab517184a4aacc24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":421186783,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421186783,
+    "wof:lastmodified":1500022094,
+    "wof:name":"Paucarpata",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.503143,
+    -16.411221,
+    -71.503143,
+    -16.411221
+],
+  "geometry": {"coordinates":[-71.50314299999999,-16.411221],"type":"Point"}
+}

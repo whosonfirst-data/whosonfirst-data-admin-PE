@@ -1,0 +1,69 @@
+{
+  "id": 1293180523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61035,-11.20279,-74.61035,-11.20279",
+    "geom:latitude":-11.20279,
+    "geom:longitude":-74.61035,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120601.0",
+    "gn:asciiname":"Civichari",
+    "gn:country_code":"PE",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6303043,
+    "gn:latitude":-11.20279,
+    "gn:longitude":-74.61035,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Civichari",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6303043
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46baffbab9e892910fb3791c9426d885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1293180523,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1293180523,
+    "wof:lastmodified":1536732960,
+    "wof:name":"Civichari",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61035,
+    -11.20279,
+    -74.61035,
+    -11.20279
+],
+  "geometry": {"coordinates":[-74.61035,-11.20279],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242599249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68966,-5.75455,-78.68966,-5.75455",
+    "geom:latitude":-5.75455,
+    "geom:longitude":-78.68966,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Corral Quemado",
+    "gn:country_code":"PE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697768,
+    "gn:latitude":-5.75455,
+    "gn:longitude":-78.68966,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Corral Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697768
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"81340dbd164ec0b365c8c90d5242f717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1242599249,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1242599249,
+    "wof:lastmodified":1537031173,
+    "wof:name":"Corral Quemado",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68966,
+    -5.75455,
+    -78.68966,
+    -5.75455
+],
+  "geometry": {"coordinates":[-78.68966,-5.75455],"type":"Point"}
+}

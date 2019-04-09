@@ -1,0 +1,69 @@
+{
+  "id": 1226432391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70171,-12.61459,-72.70171,-12.61459",
+    "geom:latitude":-12.61459,
+    "geom:longitude":-72.70171,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902.0",
+    "gn:asciiname":"Milagros",
+    "gn:country_code":"PE",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6258617,
+    "gn:latitude":-12.61459,
+    "gn:longitude":-72.70171,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Milagros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6258617
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46814dbb3b11b34de808f8400a67a8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1226432391,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1226432391,
+    "wof:lastmodified":1536664754,
+    "wof:name":"Milagros",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70170999999998,
+    -12.61459,
+    -72.70170999999998,
+    -12.61459
+],
+  "geometry": {"coordinates":[-72.70170999999998,-12.61459],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310079853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.77677,-4.85141,-80.77677,-4.85141",
+    "geom:latitude":-4.85141,
+    "geom:longitude":-80.77677,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2006.0",
+    "gn:admin3_code":"200605.0",
+    "gn:asciiname":"Compuerta Negra",
+    "gn:country_code":"PE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3817204,
+    "gn:latitude":-4.85141,
+    "gn:longitude":-80.77677,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Compuerta Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Compuerta Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3817204
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"527e0e1d612dccdb29855b46ccb4a95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":1310079853,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310079853,
+    "wof:lastmodified":1537676660,
+    "wof:name":"Compuerta Negra",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.77677,
+    -4.85141,
+    -80.77677,
+    -4.85141
+],
+  "geometry": {"coordinates":[-80.77677,-4.85141],"type":"Point"}
+}

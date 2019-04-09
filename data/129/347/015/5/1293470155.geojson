@@ -1,0 +1,72 @@
+{
+  "id": 1293470155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80957,-13.07938,-75.80957,-13.07938",
+    "geom:latitude":-13.07938,
+    "geom:longitude":-75.80957,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110209.0",
+    "gn:asciiname":"Huasi Perdida",
+    "gn:country_code":"PE",
+    "gn:dem":4419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939076,
+    "gn:latitude":-13.07938,
+    "gn:longitude":-75.80957,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Huasi Perdida",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huasi Perdida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939076
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7f5222e7f24e243f0fd348b69f07d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1293470155,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293470155,
+    "wof:lastmodified":1537676790,
+    "wof:name":"Huasi Perdida",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80957,
+    -13.07938,
+    -75.80957,
+    -13.07938
+],
+  "geometry": {"coordinates":[-75.80956999999999,-13.07938],"type":"Point"}
+}

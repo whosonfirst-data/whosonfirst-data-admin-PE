@@ -1,0 +1,69 @@
+{
+  "id": 1276972625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55991,-13.45684,-74.55991,-13.45684",
+    "geom:latitude":-13.45684,
+    "geom:longitude":-74.55991,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202.0",
+    "gn:asciiname":"Llirccona",
+    "gn:country_code":"PE",
+    "gn:dem":4447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936172,
+    "gn:latitude":-13.45684,
+    "gn:longitude":-74.55991,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Llirccona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936172
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8fb4018e623ee8685582de49072df518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1276972625,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276972625,
+    "wof:lastmodified":1536917504,
+    "wof:name":"Llirccona",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55991,
+    -13.45684,
+    -74.55991,
+    -13.45684
+],
+  "geometry": {"coordinates":[-74.55991,-13.45684],"type":"Point"}
+}

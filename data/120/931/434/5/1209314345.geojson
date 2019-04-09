@@ -1,0 +1,66 @@
+{
+  "id": 1209314345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1023,-15.66202,-74.1023,-15.66202",
+    "geom:latitude":-15.66202,
+    "geom:longitude":-74.1023,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40309.0",
+    "gn:asciiname":"Sulcacha",
+    "gn:country_code":"PE",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928320,
+    "gn:latitude":-15.66202,
+    "gn:longitude":-74.1023,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sulcacha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sulcacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928320
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"724c00bae4c6e4ea0bab7c15a5d45e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209314345
+        }
+    ],
+    "wof:id":1209314345,
+    "wof:lastmodified":1537676686,
+    "wof:name":"Sulcacha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1023,
+    -15.66202,
+    -74.1023,
+    -15.66202
+],
+  "geometry": {"coordinates":[-74.1023,-15.66202],"type":"Point"}
+}

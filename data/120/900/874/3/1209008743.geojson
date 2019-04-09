@@ -1,0 +1,63 @@
+{
+  "id": 1209008743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03584,-14.13349,-75.03584,-14.13349",
+    "geom:latitude":-14.13349,
+    "geom:longitude":-75.03584,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50607.0",
+    "gn:asciiname":"Jarhuayacu",
+    "gn:country_code":"PE",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959762,
+    "gn:latitude":-14.13349,
+    "gn:longitude":-75.03584,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Jarhuayacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959762
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e88dbe8f5ab5a06188dbb6a583a8ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209008743
+        }
+    ],
+    "wof:id":1209008743,
+    "wof:lastmodified":1536300517,
+    "wof:name":"Jarhuayacu",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03584000000002,
+    -14.13349,
+    -75.03584000000002,
+    -14.13349
+],
+  "geometry": {"coordinates":[-75.03584000000002,-14.13349],"type":"Point"}
+}

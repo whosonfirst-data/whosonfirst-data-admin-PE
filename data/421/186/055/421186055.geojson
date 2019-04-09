@@ -1,0 +1,77 @@
+{
+  "id": 421186055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.68333,-4.9,-80.68333,-4.9",
+    "geom:latitude":-4.9,
+    "geom:longitude":-80.68333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3699368,
+    "qs:gn_pop":0,
+    "qs:name":"Bellavista",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Piura",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":908659,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":397449,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":195,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699368,
+        "gp:id":397449,
+        "qs:id":908659
+    },
+    "wof:country":"PE",
+    "wof:created":1459009463,
+    "wof:geomhash":"e15f6f43dd9e365ec913d086bc8fc4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693969,
+            "locality_id":421186055,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421186055,
+    "wof:lastmodified":1527716313,
+    "wof:name":"Bellavista",
+    "wof:parent_id":1108693969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.68333,
+    -4.9,
+    -80.68333,
+    -4.9
+],
+  "geometry": {"coordinates":[-80.68333,-4.9],"type":"Point"}
+}

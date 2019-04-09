@@ -1,0 +1,73 @@
+{
+  "id": 1259757471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98263,-4.77838,-79.98263,-4.77838",
+    "geom:latitude":-4.77838,
+    "geom:longitude":-79.98263,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200208.0",
+    "gn:asciiname":"Sapillica",
+    "gn:country_code":"PE",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3692030,
+    "gn:latitude":-4.77838,
+    "gn:longitude":-79.98263,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sapillica",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapillica Ciudad",
+        "Sapillica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692030
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"438799a90a5c8439d7678a4012ab2f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1259757471,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1259757471,
+    "wof:lastmodified":1537676543,
+    "wof:name":"Sapillica",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98263,
+    -4.77838,
+    -79.98263,
+    -4.77838
+],
+  "geometry": {"coordinates":[-79.98263,-4.77838],"type":"Point"}
+}

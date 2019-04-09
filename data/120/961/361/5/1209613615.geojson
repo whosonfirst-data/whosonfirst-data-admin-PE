@@ -1,0 +1,63 @@
+{
+  "id": 1209613615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13271,-12.61476,-74.13271,-12.61476",
+    "geom:latitude":-12.61476,
+    "geom:longitude":-74.13271,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50407.0",
+    "gn:asciiname":"Mama",
+    "gn:country_code":"PE",
+    "gn:dem":3541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8648260,
+    "gn:latitude":-12.61476,
+    "gn:longitude":-74.13271,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mama",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8648260
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bf42f754b24280bcd2b1cf92962b9619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209613615
+        }
+    ],
+    "wof:id":1209613615,
+    "wof:lastmodified":1536281765,
+    "wof:name":"Mama",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13271,
+    -12.61476,
+    -74.13271,
+    -12.61476
+],
+  "geometry": {"coordinates":[-74.13271,-12.61476],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293469315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18555,-11.04189,-76.18555,-11.04189",
+    "geom:latitude":-11.04189,
+    "geom:longitude":-76.18555,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1205.0",
+    "gn:admin3_code":"120503.0",
+    "gn:asciiname":"Palomayo",
+    "gn:country_code":"PE",
+    "gn:dem":4108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669255,
+    "gn:latitude":-11.04189,
+    "gn:longitude":-76.18555,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Palomayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421184147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669255
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"46437e954a3e6970b74301cc43329c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184147,
+            "locality_id":1293469315,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1293469315,
+    "wof:lastmodified":1536812772,
+    "wof:name":"Palomayo",
+    "wof:parent_id":421184147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18555,
+    -11.04189,
+    -76.18555,
+    -11.04189
+],
+  "geometry": {"coordinates":[-76.18555000000001,-11.04189],"type":"Point"}
+}

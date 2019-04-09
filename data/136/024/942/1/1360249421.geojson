@@ -1,0 +1,72 @@
+{
+  "id": 1360249421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.98973,-4.69334,-80.98973,-4.69334",
+    "geom:latitude":-4.69334,
+    "geom:longitude":-80.98973,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200703.0",
+    "gn:asciiname":"Carrizal",
+    "gn:country_code":"PE",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698777,
+    "gn:latitude":-4.69334,
+    "gn:longitude":-80.98973,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carrizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698777
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f1f35741c3af48506a574fea5cb6afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1360249421,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1360249421,
+    "wof:lastmodified":1537676635,
+    "wof:name":"Carrizal",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.98973000000002,
+    -4.69334,
+    -80.98973000000002,
+    -4.69334
+],
+  "geometry": {"coordinates":[-80.98973000000002,-4.69334],"type":"Point"}
+}

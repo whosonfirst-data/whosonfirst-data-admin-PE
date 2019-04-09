@@ -1,0 +1,69 @@
+{
+  "id": 1310369105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6,-1.65,-73.6,-1.65",
+    "geom:latitude":-1.65,
+    "geom:longitude":-73.6,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160109.0",
+    "gn:asciiname":"Sibuenes",
+    "gn:country_code":"PE",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691851,
+    "gn:latitude":-1.65,
+    "gn:longitude":-73.6,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Sibuenes",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691851
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"043524aca35be75913d6e6a4c82764d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1310369105,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1310369105,
+    "wof:lastmodified":1536614017,
+    "wof:name":"Sibuenes",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6,
+    -1.65,
+    -73.6,
+    -1.65
+],
+  "geometry": {"coordinates":[-73.59999999999999,-1.65],"type":"Point"}
+}

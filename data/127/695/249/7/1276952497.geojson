@@ -1,0 +1,73 @@
+{
+  "id": 1276952497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81669,-4.80119,-79.81669,-4.80119",
+    "geom:latitude":-4.80119,
+    "geom:longitude":-79.81669,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200204.0",
+    "gn:asciiname":"Yerba Buena",
+    "gn:country_code":"PE",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690721,
+    "gn:latitude":-4.80119,
+    "gn:longitude":-79.81669,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Yerba Buena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerbabuena Ciudad",
+        "Yerba Buena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690721
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f96bf44e6d36def7d013c2481342aa03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1276952497,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276952497,
+    "wof:lastmodified":1537676526,
+    "wof:name":"Yerba Buena",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81669000000002,
+    -4.80119,
+    -79.81669000000002,
+    -4.80119
+],
+  "geometry": {"coordinates":[-79.81669000000002,-4.80119],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326917239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34251,-11.20958,-75.34251,-11.20958",
+    "geom:latitude":-11.20958,
+    "geom:longitude":-75.34251,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1203.0",
+    "gn:admin3_code":"120306.0",
+    "gn:asciiname":"Vitoc",
+    "gn:country_code":"PE",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6560786,
+    "gn:latitude":-11.20958,
+    "gn:longitude":-75.34251,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Vitoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421187849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6560786
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"709b08a3193689fd84d3db121a9c8a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187849,
+            "locality_id":1326917239,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1326917239,
+    "wof:lastmodified":1536927126,
+    "wof:name":"Vitoc",
+    "wof:parent_id":421187849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34251,
+    -11.20958,
+    -75.34251,
+    -11.20958
+],
+  "geometry": {"coordinates":[-75.34251,-11.20958],"type":"Point"}
+}

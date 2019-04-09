@@ -1,0 +1,74 @@
+{
+  "id": 1327218539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45222,-13.46167,-72.45222,-13.46167",
+    "geom:latitude":-13.46167,
+    "geom:longitude":-72.45222,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80306.0",
+    "gn:asciiname":"Mamacoretiro",
+    "gn:country_code":"PE",
+    "gn:dem":3039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935508,
+    "gn:latitude":-13.46167,
+    "gn:longitude":-72.45222,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Mamacoretiro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamaco Hacienda",
+        "Mamaco",
+        "Mamacoretiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935508
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"635153c930416d02e03f33c2c047c8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1327218539,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1327218539,
+    "wof:lastmodified":1537676759,
+    "wof:name":"Mamacoretiro",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45222,
+    -13.46167,
+    -72.45222,
+    -13.46167
+],
+  "geometry": {"coordinates":[-72.45222,-13.46167],"type":"Point"}
+}

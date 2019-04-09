@@ -1,0 +1,73 @@
+{
+  "id": 1209188131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.39886,-15.30118,-69.39886,-15.30118",
+    "geom:latitude":-15.30118,
+    "geom:longitude":-69.39886,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2109.0",
+    "gn:admin3_code":"210903.0",
+    "gn:asciiname":"Anta Alta",
+    "gn:country_code":"PE",
+    "gn:dem":3953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947630,
+    "gn:latitude":-15.30118,
+    "gn:longitude":-69.39886,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Anta Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Anta Alta"
+    ],
+    "name:spa_x_variant":[
+        "Hacienda Anta"
+    ],
+    "name:und_x_variant":[
+        "Anta Hacienda",
+        "Anta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947630
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0a12debc77c7de830c089ddd659d9f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209188131
+        }
+    ],
+    "wof:id":1209188131,
+    "wof:lastmodified":1537676867,
+    "wof:name":"Anta Alta",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.39886,
+    -15.30118,
+    -69.39886,
+    -15.30118
+],
+  "geometry": {"coordinates":[-69.39886,-15.30118],"type":"Point"}
+}

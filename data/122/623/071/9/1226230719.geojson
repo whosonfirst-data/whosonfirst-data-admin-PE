@@ -1,0 +1,72 @@
+{
+  "id": 1226230719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25663,-10.08562,-76.25663,-10.08562",
+    "geom:latitude":-10.08562,
+    "geom:longitude":-76.25663,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100204.0",
+    "gn:asciiname":"Cumbe",
+    "gn:country_code":"PE",
+    "gn:dem":3184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960746,
+    "gn:latitude":-10.08562,
+    "gn:longitude":-76.25663,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cumbe",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Cumbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960746
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1f0d88161d526a7dd80f548eee7bad9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1226230719,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226230719,
+    "wof:lastmodified":1537676882,
+    "wof:name":"Cumbe",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25663,
+    -10.08562,
+    -76.25663,
+    -10.08562
+],
+  "geometry": {"coordinates":[-76.25663,-10.08562],"type":"Point"}
+}

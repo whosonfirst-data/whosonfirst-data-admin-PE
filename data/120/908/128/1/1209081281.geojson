@@ -1,0 +1,62 @@
+{
+  "id": 1209081281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54278,-10.36833,-76.54278,-10.36833",
+    "geom:latitude":-10.36833,
+    "geom:longitude":-76.54278,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Togagalpo",
+    "gn:country_code":"PE",
+    "gn:dem":4268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403513,
+    "gn:latitude":-10.36833,
+    "gn:longitude":-76.54278,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Togagalpo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403513
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c44e29adb0e482bc829b7dd304200ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209081281
+        }
+    ],
+    "wof:id":1209081281,
+    "wof:lastmodified":1536298328,
+    "wof:name":"Togagalpo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54278000000002,
+    -10.36833,
+    -76.54278000000002,
+    -10.36833
+],
+  "geometry": {"coordinates":[-76.54278000000002,-10.36833],"type":"Point"}
+}

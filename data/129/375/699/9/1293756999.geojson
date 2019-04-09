@@ -1,0 +1,75 @@
+{
+  "id": 1293756999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.70598,-6.77303,-79.70598,-6.77303",
+    "geom:latitude":-6.77303,
+    "geom:longitude":-79.70598,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140120.0",
+    "gn:asciiname":"Triunfo",
+    "gn:country_code":"PE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810719,
+    "gn:latitude":-6.77303,
+    "gn:longitude":-79.70598,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Triunfo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Triunfo"
+    ],
+    "name:spa_x_variant":[
+        "El Triunfo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810719
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"564e36371aed85b4b07c7a6cd1a4ecac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1293756999,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1293756999,
+    "wof:lastmodified":1537676655,
+    "wof:name":"Triunfo",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.70598000000003,
+    -6.77303,
+    -79.70598000000003,
+    -6.77303
+],
+  "geometry": {"coordinates":[-79.70598000000003,-6.77303],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1326499975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15103,-10.88997,-77.15103,-10.88997",
+    "geom:latitude":-10.88997,
+    "geom:longitude":-77.15103,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150802.0",
+    "gn:asciiname":"Mani",
+    "gn:country_code":"PE",
+    "gn:dem":3282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935442,
+    "gn:latitude":-10.88997,
+    "gn:longitude":-77.15103,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Martin de Mani",
+        "Mani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693951,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935442
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b840772d25ea6f3ba39bdd972fb415d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1326499975,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693951,
+            "locality_id":1326499975,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1326499975,
+    "wof:lastmodified":1537676759,
+    "wof:name":"Mani",
+    "wof:parent_id":1108693951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15103,
+    -10.88997,
+    -77.15103,
+    -10.88997
+],
+  "geometry": {"coordinates":[-77.15103000000001,-10.88997],"type":"Point"}
+}

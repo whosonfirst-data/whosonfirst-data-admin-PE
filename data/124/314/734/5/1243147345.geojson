@@ -1,0 +1,69 @@
+{
+  "id": 1243147345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38714,-11.04306,-76.38714,-11.04306",
+    "geom:latitude":-11.04306,
+    "geom:longitude":-76.38714,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190104.0",
+    "gn:asciiname":"Garachacpa",
+    "gn:country_code":"PE",
+    "gn:dem":4581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669094,
+    "gn:latitude":-11.04306,
+    "gn:longitude":-76.38714,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Garachacpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669094
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dd0364fec34454284e3c5b94c5b7b3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1243147345,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1243147345,
+    "wof:lastmodified":1536739745,
+    "wof:name":"Garachacpa",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38714,
+    -11.04306,
+    -76.38714,
+    -11.04306
+],
+  "geometry": {"coordinates":[-76.38714,-11.04306],"type":"Point"}
+}

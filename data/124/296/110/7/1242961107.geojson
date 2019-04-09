@@ -1,0 +1,75 @@
+{
+  "id": 1242961107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20115,-14.54289,-75.20115,-14.54289",
+    "geom:latitude":-14.54289,
+    "geom:longitude":-75.20115,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110402.0",
+    "gn:asciiname":"El Jasmin",
+    "gn:country_code":"PE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957503,
+    "gn:latitude":-14.54289,
+    "gn:longitude":-75.20115,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"El Jasm\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Jasm\u00edn"
+    ],
+    "name:spa_x_variant":[
+        "Hacienda El Jasm\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957503
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"87f257e396d6076815b8d9d840b3fff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1242961107,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1242961107,
+    "wof:lastmodified":1537676877,
+    "wof:name":"El Jasmin",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20115,
+    -14.54289,
+    -75.20115,
+    -14.54289
+],
+  "geometry": {"coordinates":[-75.20115,-14.54289],"type":"Point"}
+}

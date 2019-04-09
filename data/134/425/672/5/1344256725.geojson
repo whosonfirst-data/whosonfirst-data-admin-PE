@@ -1,0 +1,69 @@
+{
+  "id": 1344256725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31645,-15.34461,-72.31645,-15.34461",
+    "geom:latitude":-15.34461,
+    "geom:longitude":-72.31645,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40409.0",
+    "gn:asciiname":"Collopampa",
+    "gn:country_code":"PE",
+    "gn:dem":4163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3942758,
+    "gn:latitude":-15.34461,
+    "gn:longitude":-72.31645,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Collopampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942758
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c65a2db20fda759774b2f794b9501711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1344256725,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1344256725,
+    "wof:lastmodified":1537086399,
+    "wof:name":"Collopampa",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31645,
+    -15.34461,
+    -72.31645,
+    -15.34461
+],
+  "geometry": {"coordinates":[-72.31645,-15.34461],"type":"Point"}
+}

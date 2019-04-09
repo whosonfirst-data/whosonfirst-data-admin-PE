@@ -1,0 +1,72 @@
+{
+  "id": 1259351655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69366,-6.6386,-76.69366,-6.6386",
+    "geom:latitude":-6.6386,
+    "geom:longitude":-76.69366,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2203.0",
+    "gn:admin3_code":"220301.0",
+    "gn:asciiname":"Shucush",
+    "gn:country_code":"PE",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10865712,
+    "gn:latitude":-6.6386,
+    "gn:longitude":-76.69366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shucush",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Shucush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10865712
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"de329b98d6e1081d2a054dccc61d6213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693997,
+            "locality_id":1259351655,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1259351655,
+    "wof:lastmodified":1537676939,
+    "wof:name":"Shucush",
+    "wof:parent_id":1108693997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69366,
+    -6.6386,
+    -76.69366,
+    -6.6386
+],
+  "geometry": {"coordinates":[-76.69365999999999,-6.6386],"type":"Point"}
+}

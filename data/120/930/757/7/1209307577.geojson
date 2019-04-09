@@ -1,0 +1,63 @@
+{
+  "id": 1209307577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35054,-12.53096,-74.35054,-12.53096",
+    "geom:latitude":-12.53096,
+    "geom:longitude":-74.35054,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50402.0",
+    "gn:asciiname":"Misquipuquio",
+    "gn:country_code":"PE",
+    "gn:dem":3747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651158,
+    "gn:latitude":-12.53096,
+    "gn:longitude":-74.35054,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Misquipuquio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651158
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fbdb33492df33a2752fa29c900ff1947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307577
+        }
+    ],
+    "wof:id":1209307577,
+    "wof:lastmodified":1536291141,
+    "wof:name":"Misquipuquio",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35054000000002,
+    -12.53096,
+    -74.35054000000002,
+    -12.53096
+],
+  "geometry": {"coordinates":[-74.35054000000002,-12.53096],"type":"Point"}
+}

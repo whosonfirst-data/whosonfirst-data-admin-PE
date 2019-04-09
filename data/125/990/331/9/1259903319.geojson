@@ -1,0 +1,72 @@
+{
+  "id": 1259903319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.87199,-15.74864,-73.87199,-15.74864",
+    "geom:latitude":-15.74864,
+    "geom:longitude":-73.87199,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40308.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"PE",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929871,
+    "gn:latitude":-15.74864,
+    "gn:longitude":-73.87199,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929871
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"59089d5af992d244b07328430cee4451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1259903319,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1259903319,
+    "wof:lastmodified":1537676706,
+    "wof:name":"San Andres",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.87199,
+    -15.74864,
+    -73.87199,
+    -15.74864
+],
+  "geometry": {"coordinates":[-73.87199,-15.74864],"type":"Point"}
+}

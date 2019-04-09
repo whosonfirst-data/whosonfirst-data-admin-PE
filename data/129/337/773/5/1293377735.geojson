@@ -1,0 +1,72 @@
+{
+  "id": 1293377735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.74001,-14.01081,-75.74001,-14.01081",
+    "geom:latitude":-14.01081,
+    "geom:longitude":-75.74001,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110110.0",
+    "gn:asciiname":"Ellespico",
+    "gn:country_code":"PE",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003645,
+    "gn:latitude":-14.01081,
+    "gn:longitude":-75.74001,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ellespico",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ellespico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003645
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5c52504245d53d3b95f84556fbab2d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1293377735,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293377735,
+    "wof:lastmodified":1537676952,
+    "wof:name":"Ellespico",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74001,
+    -14.01081,
+    -75.74001,
+    -14.01081
+],
+  "geometry": {"coordinates":[-75.74001,-14.01081],"type":"Point"}
+}

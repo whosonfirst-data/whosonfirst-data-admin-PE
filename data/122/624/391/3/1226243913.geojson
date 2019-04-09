@@ -1,0 +1,73 @@
+{
+  "id": 1226243913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14222,-13.93528,-72.14222,-13.93528",
+    "geom:latitude":-13.93528,
+    "geom:longitude":-72.14222,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30501.0",
+    "gn:asciiname":"Chacayo",
+    "gn:country_code":"PE",
+    "gn:dem":2984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944701,
+    "gn:latitude":-13.93528,
+    "gn:longitude":-72.14222,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chacayo Hacienda",
+        "Chacayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944701
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"05f50cd88e1152eb0f0cccba3ef6b09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693907,
+            "locality_id":1226243913,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1226243913,
+    "wof:lastmodified":1537676842,
+    "wof:name":"Chacayo",
+    "wof:parent_id":1108693907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14222,
+    -13.93528,
+    -72.14222,
+    -13.93528
+],
+  "geometry": {"coordinates":[-72.14221999999999,-13.93528],"type":"Point"}
+}

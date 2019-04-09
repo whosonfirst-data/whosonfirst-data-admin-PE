@@ -1,0 +1,72 @@
+{
+  "id": 1260207057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3829,-16.42422,-71.3829,-16.42422",
+    "geom:latitude":-16.42422,
+    "geom:longitude":-71.3829,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40106.0",
+    "gn:asciiname":"Killocona",
+    "gn:country_code":"PE",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937417,
+    "gn:latitude":-16.42422,
+    "gn:longitude":-71.3829,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Killocona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Killocona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937417
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"15f11b163412fcf79d0fccb358e1a73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":1260207057,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1260207057,
+    "wof:lastmodified":1537676778,
+    "wof:name":"Killocona",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3829,
+    -16.42422,
+    -71.3829,
+    -16.42422
+],
+  "geometry": {"coordinates":[-71.38290000000001,-16.42422],"type":"Point"}
+}

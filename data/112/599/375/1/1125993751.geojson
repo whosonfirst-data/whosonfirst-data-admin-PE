@@ -1,0 +1,107 @@
+{
+  "id": 1125993751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05,-7.61667,-78.05,-7.61667",
+    "geom:latitude":-7.61667,
+    "geom:longitude":-78.05,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":13486,
+    "gn:population":13486,
+    "iso:country":"PE",
+    "lbl:latitude":-7.61667,
+    "lbl:longitude":-78.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5361\u54c8\u73ed\u5df4"
+    ],
+    "name:dut_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:eng_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:fre_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cf\u30d0\u30f3\u30d0"
+    ],
+    "name:que_x_preferred":[
+        "Kashapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:war_x_preferred":[
+        "Cajabamba"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3699095,
+    "qs_pg:gn_pop":13486,
+    "qs_pg:name":"Cajabamba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1207453,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108694045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3699095,
+        "qs_pg:id":1207453,
+        "wd:id":"Q3344351"
+    },
+    "wof:country":"PE",
+    "wof:created":1497299187,
+    "wof:geomhash":"6b80325aea035f763ac9512d1dcab43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694045,
+            "locality_id":1125993751,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1125993751,
+    "wof:lastmodified":1534379395,
+    "wof:name":"Cajabamba",
+    "wof:parent_id":1108694045,
+    "wof:placetype":"locality",
+    "wof:population":13486,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        1141907055
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05,
+    -7.61667,
+    -78.05,
+    -7.61667
+],
+  "geometry": {"coordinates":[-78.05,-7.61667],"type":"Point"}
+}

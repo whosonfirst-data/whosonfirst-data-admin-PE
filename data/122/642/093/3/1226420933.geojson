@@ -1,0 +1,69 @@
+{
+  "id": 1226420933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69974,-9.85269,-76.69974,-9.85269",
+    "geom:latitude":-9.85269,
+    "geom:longitude":-76.69974,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1011.0",
+    "gn:admin3_code":"101106.0",
+    "gn:asciiname":"Pacta",
+    "gn:country_code":"PE",
+    "gn:dem":3923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6666104,
+    "gn:latitude":-9.85269,
+    "gn:longitude":-76.69974,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pact\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6666104
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8a672fe44ab0ee3b505a7e22aee0a96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194939,
+            "locality_id":1226420933,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1226420933,
+    "wof:lastmodified":1536681246,
+    "wof:name":"Pacta",
+    "wof:parent_id":421194939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69974,
+    -9.85269,
+    -76.69974,
+    -9.85269
+],
+  "geometry": {"coordinates":[-76.69974000000001,-9.85269],"type":"Point"}
+}

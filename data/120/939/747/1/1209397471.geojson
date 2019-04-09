@@ -1,0 +1,63 @@
+{
+  "id": 1209397471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.80742,-10.76788,-76.80742,-10.76788",
+    "geom:latitude":-10.76788,
+    "geom:longitude":-76.80742,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1509.0",
+    "gn:admin3_code":"150906.0",
+    "gn:asciiname":"Tocrac",
+    "gn:country_code":"PE",
+    "gn:dem":4023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962704,
+    "gn:latitude":-10.76788,
+    "gn:longitude":-76.80742,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tocrac",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962704
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"357b2435aee8e356d21520a5f7c078b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209397471
+        }
+    ],
+    "wof:id":1209397471,
+    "wof:lastmodified":1536288253,
+    "wof:name":"Tocrac",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.80742,
+    -10.76788,
+    -76.80742,
+    -10.76788
+],
+  "geometry": {"coordinates":[-76.80741999999999,-10.76788],"type":"Point"}
+}

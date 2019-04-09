@@ -1,0 +1,69 @@
+{
+  "id": 1327412135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.04143,-9.8979,-76.04143,-9.8979",
+    "geom:latitude":-9.8979,
+    "geom:longitude":-76.04143,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1008.0",
+    "gn:admin3_code":"100804.0",
+    "gn:asciiname":"Huanin",
+    "gn:country_code":"PE",
+    "gn:dem":2817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670265,
+    "gn:latitude":-9.8979,
+    "gn:longitude":-76.04143,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huanin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421197577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670265
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5fee3eb9f34ec93161d92d9efe5d64ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197577,
+            "locality_id":1327412135,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327412135,
+    "wof:lastmodified":1536710382,
+    "wof:name":"Huanin",
+    "wof:parent_id":421197577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.04143,
+    -9.8979,
+    -76.04143,
+    -9.8979
+],
+  "geometry": {"coordinates":[-76.04143000000001,-9.8979],"type":"Point"}
+}

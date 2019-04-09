@@ -1,0 +1,75 @@
+{
+  "id": 1242672801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91667,-13.81667,-71.91667,-13.81667",
+    "geom:latitude":-13.81667,
+    "geom:longitude":-71.91667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81007.0",
+    "gn:asciiname":"Pirca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3932192,
+    "gn:latitude":-13.81667,
+    "gn:longitude":-71.91667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pirca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pircca",
+        "Pirca Pueblo",
+        "Pirca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3932192
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e783df00d4c654d4b19f7b93b4a7ae8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194639,
+            "locality_id":1242672801,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1242672801,
+    "wof:lastmodified":1537676729,
+    "wof:name":"Pirca",
+    "wof:parent_id":421194639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91667,
+    -13.81667,
+    -71.91667,
+    -13.81667
+],
+  "geometry": {"coordinates":[-71.91667,-13.81667],"type":"Point"}
+}

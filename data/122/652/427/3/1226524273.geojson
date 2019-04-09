@@ -1,0 +1,74 @@
+{
+  "id": 1226524273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28139,-3.77611,-73.28139,-3.77611",
+    "geom:latitude":-3.77611,
+    "geom:longitude":-73.28139,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160113.0",
+    "gn:asciiname":"San Juan de Miraflores",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692462,
+    "gn:latitude":-3.77611,
+    "gn:longitude":-73.28139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Juan de Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de Miraflores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692462
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d95b777ff24a8585b7d85cb9920b6028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1226524273,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1226524273,
+    "wof:lastmodified":1537676551,
+    "wof:name":"San Juan de Miraflores",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28139,
+    -3.77611,
+    -73.28139,
+    -3.77611
+],
+  "geometry": {"coordinates":[-73.28139,-3.77611],"type":"Point"}
+}

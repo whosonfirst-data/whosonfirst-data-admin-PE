@@ -1,0 +1,69 @@
+{
+  "id": 1343867367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.76878,-6.77521,-77.76878,-6.77521",
+    "geom:latitude":-6.77521,
+    "geom:longitude":-77.76878,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10110.0",
+    "gn:asciiname":"San Roque",
+    "gn:country_code":"PE",
+    "gn:dem":3240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6379326,
+    "gn:latitude":-6.77521,
+    "gn:longitude":-77.76878,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6379326
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c6fcfa40a77e9bb5b1cd982fa8c62564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693895,
+            "locality_id":1343867367,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1343867367,
+    "wof:lastmodified":1536656653,
+    "wof:name":"San Roque",
+    "wof:parent_id":1108693895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.76878,
+    -6.77521,
+    -77.76878,
+    -6.77521
+],
+  "geometry": {"coordinates":[-77.76878000000001,-6.77521],"type":"Point"}
+}

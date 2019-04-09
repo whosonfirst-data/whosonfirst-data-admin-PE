@@ -1,0 +1,69 @@
+{
+  "id": 1343321067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21897,-5.32505,-80.21897,-5.32505",
+    "geom:latitude":-5.32505,
+    "geom:longitude":-80.21897,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200404.0",
+    "gn:asciiname":"Noria La Villegas",
+    "gn:country_code":"PE",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756244,
+    "gn:latitude":-5.32505,
+    "gn:longitude":-80.21897,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Noria La Villegas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421188857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756244
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2562c55b3797e2e136186266121d66d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188857,
+            "locality_id":1343321067,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1343321067,
+    "wof:lastmodified":1536947928,
+    "wof:name":"Noria La Villegas",
+    "wof:parent_id":421188857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21897,
+    -5.32505,
+    -80.21897,
+    -5.32505
+],
+  "geometry": {"coordinates":[-80.21897,-5.32505],"type":"Point"}
+}

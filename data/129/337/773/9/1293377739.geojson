@@ -1,0 +1,72 @@
+{
+  "id": 1293377739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9831,-14.90956,-74.9831,-14.90956",
+    "geom:latitude":-14.90956,
+    "geom:longitude":-74.9831,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110305.0",
+    "gn:asciiname":"San Luis Pajonal",
+    "gn:country_code":"PE",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929435,
+    "gn:latitude":-14.90956,
+    "gn:longitude":-74.9831,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"San Luis Pajonal",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis Pajonal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929435
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a10b795d0fdfb0e2fa65aface7ec00ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1293377739,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293377739,
+    "wof:lastmodified":1537676699,
+    "wof:name":"San Luis Pajonal",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9831,
+    -14.90956,
+    -74.9831,
+    -14.90956
+],
+  "geometry": {"coordinates":[-74.98309999999999,-14.90956],"type":"Point"}
+}

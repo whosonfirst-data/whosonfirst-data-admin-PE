@@ -1,0 +1,69 @@
+{
+  "id": 1243225523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.43332,-11.03446,-76.43332,-11.03446",
+    "geom:latitude":-11.03446,
+    "geom:longitude":-76.43332,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190104.0",
+    "gn:asciiname":"Lagua Puquid",
+    "gn:country_code":"PE",
+    "gn:dem":4630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669121,
+    "gn:latitude":-11.03446,
+    "gn:longitude":-76.43332,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Lagua Puquid",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669121
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a4eb036d14cb932ac72bf064935f8f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1243225523,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1243225523,
+    "wof:lastmodified":1536625250,
+    "wof:name":"Lagua Puquid",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.43332,
+    -11.03446,
+    -76.43332,
+    -11.03446
+],
+  "geometry": {"coordinates":[-76.43331999999999,-11.03446],"type":"Point"}
+}

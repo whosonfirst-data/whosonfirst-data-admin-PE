@@ -1,0 +1,72 @@
+{
+  "id": 1209774225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.69493,-13.50682,-69.69493,-13.50682",
+    "geom:latitude":-13.50682,
+    "geom:longitude":-69.69493,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2112.0",
+    "gn:admin3_code":"211203.0",
+    "gn:asciiname":"Candamo",
+    "gn:country_code":"PE",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945809,
+    "gn:latitude":-13.50682,
+    "gn:longitude":-69.69493,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Candamo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Candamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945809
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dc3e495a5c738a99ac50b7f381e874b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1209774225,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1209774225,
+    "wof:lastmodified":1537676852,
+    "wof:name":"Candamo",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.69493,
+    -13.50682,
+    -69.69493,
+    -13.50682
+],
+  "geometry": {"coordinates":[-69.69493,-13.50682],"type":"Point"}
+}

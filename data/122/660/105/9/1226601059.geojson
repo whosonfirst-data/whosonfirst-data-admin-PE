@@ -1,0 +1,72 @@
+{
+  "id": 1226601059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6971,-7.0663,-76.6971,-7.0663",
+    "geom:latitude":-7.0663,
+    "geom:longitude":-76.6971,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220405.0",
+    "gn:asciiname":"Paucarpata",
+    "gn:country_code":"PE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114267,
+    "gn:latitude":-7.0663,
+    "gn:longitude":-76.6971,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Paucarpata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paucarpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114267
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8b99f2d5327134b8c3413687de2c724d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693995,
+            "locality_id":1226601059,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1226601059,
+    "wof:lastmodified":1537676922,
+    "wof:name":"Paucarpata",
+    "wof:parent_id":1108693995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6971,
+    -7.0663,
+    -76.6971,
+    -7.0663
+],
+  "geometry": {"coordinates":[-76.69710000000001,-7.0663],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344237261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.19167,-14.35972,-75.19167,-14.35972",
+    "geom:latitude":-14.35972,
+    "geom:longitude":-75.19167,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110404.0",
+    "gn:asciiname":"Fundo Botijeria",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946595,
+    "gn:latitude":-14.35972,
+    "gn:longitude":-75.19167,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Fundo Botijer\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botijer\u00eda",
+        "Fundo Botijer\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946595
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"10e4ecac03040100c939fd170dfd50db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1344237261,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1344237261,
+    "wof:lastmodified":1537676858,
+    "wof:name":"Fundo Botijeria",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.19167,
+    -14.35972,
+    -75.19167,
+    -14.35972
+],
+  "geometry": {"coordinates":[-75.19167,-14.35972],"type":"Point"}
+}

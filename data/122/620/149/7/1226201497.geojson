@@ -1,0 +1,69 @@
+{
+  "id": 1226201497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.18786,-4.58296,-81.18786,-4.58296",
+    "geom:latitude":-4.58296,
+    "geom:longitude":-81.18786,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2007.0",
+    "gn:admin3_code":"200701.0",
+    "gn:asciiname":"Luis Negreiros",
+    "gn:country_code":"PE",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811299,
+    "gn:latitude":-4.58296,
+    "gn:longitude":-81.18786,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Luis Negreiros",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811299
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d2d353cfb5478388d14660296ea7b6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":1226201497,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1226201497,
+    "wof:lastmodified":1536996763,
+    "wof:name":"Luis Negreiros",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18786,
+    -4.58296,
+    -81.18786,
+    -4.58296
+],
+  "geometry": {"coordinates":[-81.18786,-4.58296],"type":"Point"}
+}

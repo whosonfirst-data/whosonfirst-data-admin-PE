@@ -1,0 +1,69 @@
+{
+  "id": 1344263837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71476,-13.64391,-73.71476,-13.64391",
+    "geom:latitude":-13.64391,
+    "geom:longitude":-73.71476,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"306.0",
+    "gn:admin3_code":"30603.0",
+    "gn:asciiname":"Osccollo",
+    "gn:country_code":"PE",
+    "gn:dem":2807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933937,
+    "gn:latitude":-13.64391,
+    "gn:longitude":-73.71476,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Osccollo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421194079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933937
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"95b7fe4683daa79541414df5b8eadfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194079,
+            "locality_id":1344263837,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1344263837,
+    "wof:lastmodified":1537076115,
+    "wof:name":"Osccollo",
+    "wof:parent_id":421194079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71476,
+    -13.64391,
+    -73.71476,
+    -13.64391
+],
+  "geometry": {"coordinates":[-73.71476,-13.64391],"type":"Point"}
+}

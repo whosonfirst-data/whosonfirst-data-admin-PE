@@ -1,0 +1,78 @@
+{
+  "id": 890438221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28333,-12.03333,-75.28333,-12.03333",
+    "geom:latitude":-12.03333,
+    "geom:longitude":-75.28333,
+    "gn:country":"PE",
+    "gn:fcode":"PPLA3",
+    "gn:pop":6842,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sicaya"
+    ],
+    "name:eng_x_preferred":[
+        "Sicaya"
+    ],
+    "name:spa_x_preferred":[
+        "Sicaya"
+    ],
+    "qs:name":"Sicaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928691,
+        "gp:id":418721,
+        "qs:id":150959,
+        "wd:id":"Q7507402",
+        "wk:page":"Sicaya"
+    },
+    "wof:country":"PE",
+    "wof:created":1469052185,
+    "wof:geomhash":"48cfcac14493a37611880ffde95a7657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":890438221,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":890438221,
+    "wof:lastmodified":1527735420,
+    "wof:name":"Sicaya",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:population":6842,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28333,
+    -12.03333,
+    -75.28333,
+    -12.03333
+],
+  "geometry": {"coordinates":[-75.28333000000001,-12.03333],"type":"Point"}
+}

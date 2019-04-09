@@ -1,0 +1,63 @@
+{
+  "id": 1209208677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.38075,-10.25813,-76.38075,-10.25813",
+    "geom:latitude":-10.25813,
+    "geom:longitude":-76.38075,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100202.0",
+    "gn:asciiname":"Arco",
+    "gn:country_code":"PE",
+    "gn:dem":3244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962898,
+    "gn:latitude":-10.25813,
+    "gn:longitude":-76.38075,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Arco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962898
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e47518c716bea7df0ddd020fc8361360",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209208677
+        }
+    ],
+    "wof:id":1209208677,
+    "wof:lastmodified":1536294364,
+    "wof:name":"Arco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.38075,
+    -10.25813,
+    -76.38075,
+    -10.25813
+],
+  "geometry": {"coordinates":[-76.38075000000001,-10.25813],"type":"Point"}
+}

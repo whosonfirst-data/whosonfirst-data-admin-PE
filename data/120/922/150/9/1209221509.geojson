@@ -1,0 +1,63 @@
+{
+  "id": 1209221509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.27722,-13.70472,-73.27722,-13.70472",
+    "geom:latitude":-13.70472,
+    "geom:longitude":-73.27722,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30213.0",
+    "gn:asciiname":"Uluylumi",
+    "gn:country_code":"PE",
+    "gn:dem":3986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309374,
+    "gn:latitude":-13.70472,
+    "gn:longitude":-73.27722,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Uluylumi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309374
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b9a73f92105fb03e7e53f61dc3c61831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209221509
+        }
+    ],
+    "wof:id":1209221509,
+    "wof:lastmodified":1536293946,
+    "wof:name":"Uluylumi",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.27722,
+    -13.704720000000002,
+    -73.27722,
+    -13.704720000000002
+],
+  "geometry": {"coordinates":[-73.27722,-13.70472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293250981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.16649,-14.06244,-69.16649,-14.06244",
+    "geom:latitude":-14.06244,
+    "geom:longitude":-69.16649,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Mina Santiagopata",
+    "gn:country_code":"PE",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558308,
+    "gn:latitude":-14.06244,
+    "gn:longitude":-69.16649,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Mina Santiagopata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mina Santiagopata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558308
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a4786e688756a452d85ed1ca76e0a1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1293250981,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293250981,
+    "wof:lastmodified":1537677001,
+    "wof:name":"Mina Santiagopata",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.16649,
+    -14.06244,
+    -69.16649,
+    -14.06244
+],
+  "geometry": {"coordinates":[-69.16649,-14.06244],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209420691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82552,-14.93699,-71.82552,-14.93699",
+    "geom:latitude":-14.93699,
+    "geom:longitude":-71.82552,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40505.0",
+    "gn:asciiname":"Accopunco",
+    "gn:country_code":"PE",
+    "gn:dem":4445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3957196,
+    "gn:latitude":-14.93699,
+    "gn:longitude":-71.82552,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Accopunco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3957196
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f7f467b0d99b206c8bf0a335282736c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209420691
+        }
+    ],
+    "wof:id":1209420691,
+    "wof:lastmodified":1536287541,
+    "wof:name":"Accopunco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82552,
+    -14.93699,
+    -71.82552,
+    -14.93699
+],
+  "geometry": {"coordinates":[-71.82552,-14.93699],"type":"Point"}
+}

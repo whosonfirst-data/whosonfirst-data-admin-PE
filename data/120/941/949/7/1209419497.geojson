@@ -1,0 +1,67 @@
+{
+  "id": 1209419497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73271,-13.55664,-74.73271,-13.55664",
+    "geom:latitude":-13.55664,
+    "geom:longitude":-74.73271,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50205.0",
+    "gn:asciiname":"Ccarhuraccocco",
+    "gn:country_code":"PE",
+    "gn:dem":3726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945048,
+    "gn:latitude":-13.55664,
+    "gn:longitude":-74.73271,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ccarhuraccocco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ccarhuaccocco",
+        "Ccarhuraccocco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945048
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6615beb7a2673b0c175eaa73461af5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209419497
+        }
+    ],
+    "wof:id":1209419497,
+    "wof:lastmodified":1537676845,
+    "wof:name":"Ccarhuraccocco",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73271,
+    -13.55664,
+    -74.73271,
+    -13.55664
+],
+  "geometry": {"coordinates":[-74.73271,-13.55664],"type":"Point"}
+}

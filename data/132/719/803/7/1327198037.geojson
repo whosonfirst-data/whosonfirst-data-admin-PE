@@ -1,0 +1,69 @@
+{
+  "id": 1327198037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.44894,-16.02127,-69.44894,-16.02127",
+    "geom:latitude":-16.02127,
+    "geom:longitude":-69.44894,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2105.0",
+    "gn:admin3_code":"210503.0",
+    "gn:asciiname":"Huayllata",
+    "gn:country_code":"PE",
+    "gn:dem":3823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938893,
+    "gn:latitude":-16.02127,
+    "gn:longitude":-69.44894,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huayllata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938893
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c2cf10835a98130d138f2f8c7d952992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693919,
+            "locality_id":1327198037,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1327198037,
+    "wof:lastmodified":1537018541,
+    "wof:name":"Huayllata",
+    "wof:parent_id":1108693919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.44894000000001,
+    -16.02127,
+    -69.44894000000001,
+    -16.02127
+],
+  "geometry": {"coordinates":[-69.44894000000001,-16.02127],"type":"Point"}
+}

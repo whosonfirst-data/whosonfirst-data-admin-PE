@@ -1,0 +1,116 @@
+{
+  "id": 421186791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.230545,-14.283348,-71.230545,-14.283348",
+    "geom:latitude":-14.283348,
+    "geom:longitude":-71.230545,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Sikuwani"
+    ],
+    "name:chi_x_preferred":[
+        "\u932b\u5938\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Sicuani"
+    ],
+    "name:eng_x_preferred":[
+        "Sicuani"
+    ],
+    "name:fre_x_preferred":[
+        "Sicuani"
+    ],
+    "name:ger_x_preferred":[
+        "Sicuani"
+    ],
+    "name:pol_x_preferred":[
+        "Sicuani"
+    ],
+    "name:por_x_preferred":[
+        "Sicuani"
+    ],
+    "name:que_x_preferred":[
+        "Sikuwani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0443\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Sicuani"
+    ],
+    "name:war_x_preferred":[
+        "Sicuani"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sicuani",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Cusco",
+    "qs:photos":282,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":282,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1076014,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418593,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":418593,
+        "qs:id":1076014,
+        "wd:id":"Q4419079"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009492,
+    "wof:geomhash":"543915d176bbb6e9b2ffa6047a39608a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187843,
+            "locality_id":421186791,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":421186791,
+    "wof:lastmodified":1534379394,
+    "wof:name":"Sicuani",
+    "wof:parent_id":421187843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[
+        890442185
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.230545,
+    -14.283348,
+    -71.230545,
+    -14.283348
+],
+  "geometry": {"coordinates":[-71.23054500000001,-14.283348],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209320339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0487,-15.35252,-71.0487,-15.35252",
+    "geom:latitude":-15.35252,
+    "geom:longitude":-71.0487,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Pata Vizcachane",
+    "gn:country_code":"PE",
+    "gn:dem":4647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3956954,
+    "gn:latitude":-15.35252,
+    "gn:longitude":-71.0487,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Pata Vizcachane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3956954
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ce110a1d81b9da73eccc3c0dc6d1481f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209320339
+        }
+    ],
+    "wof:id":1209320339,
+    "wof:lastmodified":1536290717,
+    "wof:name":"Pata Vizcachane",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.0487,
+    -15.352520000000002,
+    -71.0487,
+    -15.352520000000002
+],
+  "geometry": {"coordinates":[-71.0487,-15.35252],"type":"Point"}
+}

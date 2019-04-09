@@ -1,0 +1,73 @@
+{
+  "id": 1292899021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88543,-13.32194,-73.88543,-13.32194",
+    "geom:latitude":-13.32194,
+    "geom:longitude":-73.88543,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50506.0",
+    "gn:asciiname":"Mayabamba",
+    "gn:country_code":"PE",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3934528,
+    "gn:latitude":-13.32194,
+    "gn:longitude":-73.88543,
+    "gn:modification_date":"2014-01-13",
+    "gn:name":"Mayabamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moyobamba",
+        "Mayabamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3934528
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1e32c2ae3f6d26957bdbfe26694b7bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1292899021,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1292899021,
+    "wof:lastmodified":1537676749,
+    "wof:name":"Mayabamba",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88543,
+    -13.32194,
+    -73.88543,
+    -13.32194
+],
+  "geometry": {"coordinates":[-73.88543,-13.32194],"type":"Point"}
+}

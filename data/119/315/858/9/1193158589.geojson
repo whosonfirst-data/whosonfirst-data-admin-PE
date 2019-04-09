@@ -1,0 +1,69 @@
+{
+  "id": 1193158589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.13438,-6.85424,-79.13438,-6.85424",
+    "geom:latitude":-6.85424,
+    "geom:longitude":-79.13438,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61303.0",
+    "gn:asciiname":"La Montanita",
+    "gn:country_code":"PE",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3742821,
+    "gn:latitude":-6.85424,
+    "gn:longitude":-79.13438,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"La Montanita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3742821
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"79fca0ebc0ad691f4a5b7d2d1f498b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693983,
+            "locality_id":1193158589,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1193158589,
+    "wof:lastmodified":1536370543,
+    "wof:name":"La Montanita",
+    "wof:parent_id":1108693983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.13438000000002,
+    -6.85424,
+    -79.13438000000002,
+    -6.85424
+],
+  "geometry": {"coordinates":[-79.13438000000002,-6.85424],"type":"Point"}
+}

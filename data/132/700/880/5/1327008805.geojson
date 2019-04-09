@@ -1,0 +1,69 @@
+{
+  "id": 1327008805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75422,-7.71572,-77.75422,-7.71572",
+    "geom:latitude":-7.71572,
+    "geom:longitude":-77.75422,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1309.0",
+    "gn:admin3_code":"130908.0",
+    "gn:asciiname":"Cachipampa",
+    "gn:country_code":"PE",
+    "gn:dem":3107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3743721,
+    "gn:latitude":-7.71572,
+    "gn:longitude":-77.75422,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Cachipampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675879,
+        421177079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3743721
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a89d8531add2a99dba78b3c7a4629580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177079,
+            "locality_id":1327008805,
+            "region_id":85675879
+        }
+    ],
+    "wof:id":1327008805,
+    "wof:lastmodified":1536794847,
+    "wof:name":"Cachipampa",
+    "wof:parent_id":421177079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75421999999998,
+    -7.71572,
+    -77.75421999999998,
+    -7.71572
+],
+  "geometry": {"coordinates":[-77.75421999999998,-7.71572],"type":"Point"}
+}

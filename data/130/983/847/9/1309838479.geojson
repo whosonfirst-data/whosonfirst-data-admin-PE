@@ -1,0 +1,69 @@
+{
+  "id": 1309838479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.97361,-15.14861,-72.97361,-15.14861",
+    "geom:latitude":-15.14861,
+    "geom:longitude":-72.97361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40805.0",
+    "gn:asciiname":"Chipana",
+    "gn:country_code":"PE",
+    "gn:dem":4309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3943714,
+    "gn:latitude":-15.14861,
+    "gn:longitude":-72.97361,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chipa\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943714
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2e43f7dacafa72fce4dc04b5046f5d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694023,
+            "locality_id":1309838479,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1309838479,
+    "wof:lastmodified":1536883462,
+    "wof:name":"Chipana",
+    "wof:parent_id":1108694023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.97361,
+    -15.14861,
+    -72.97361,
+    -15.14861
+],
+  "geometry": {"coordinates":[-72.97360999999999,-15.14861],"type":"Point"}
+}

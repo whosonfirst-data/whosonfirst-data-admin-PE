@@ -1,0 +1,69 @@
+{
+  "id": 1226518903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47952,-11.37373,-74.47952,-11.37373",
+    "geom:latitude":-11.37373,
+    "geom:longitude":-74.47952,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1206.0",
+    "gn:admin3_code":"120604.0",
+    "gn:asciiname":"San Jose de Miraflores",
+    "gn:country_code":"PE",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6395598,
+    "gn:latitude":-11.37373,
+    "gn:longitude":-74.47952,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"San Jos\u00e9 de Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6395598
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"9ab9bc8e8d2f03a92bb0fe3d6eaa47f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "locality_id":1226518903,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1226518903,
+    "wof:lastmodified":1537035278,
+    "wof:name":"San Jose de Miraflores",
+    "wof:parent_id":421203221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47952,
+    -11.37373,
+    -74.47952,
+    -11.37373
+],
+  "geometry": {"coordinates":[-74.47951999999999,-11.37373],"type":"Point"}
+}

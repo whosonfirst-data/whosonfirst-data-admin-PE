@@ -1,0 +1,68 @@
+{
+  "id": 1226218193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.73197,-16.01425,-70.73197,-16.01425",
+    "geom:latitude":-16.01425,
+    "geom:longitude":-70.73197,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Taruca Llapa",
+    "gn:country_code":"PE",
+    "gn:dem":4318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3927743,
+    "gn:latitude":-16.01425,
+    "gn:longitude":-70.73197,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Taruca Llapa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421167831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927743
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d08326da9da73bb94c7330b77ab812e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421167831,
+            "locality_id":1226218193,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1226218193,
+    "wof:lastmodified":1536972987,
+    "wof:name":"Taruca Llapa",
+    "wof:parent_id":421167831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.73196999999998,
+    -16.01425,
+    -70.73196999999998,
+    -16.01425
+],
+  "geometry": {"coordinates":[-70.73196999999998,-16.01425],"type":"Point"}
+}

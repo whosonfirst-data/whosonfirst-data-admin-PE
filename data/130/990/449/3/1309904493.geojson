@@ -1,0 +1,69 @@
+{
+  "id": 1309904493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21486,-12.87967,-74.21486,-12.87967",
+    "geom:latitude":-12.87967,
+    "geom:longitude":-74.21486,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Culluchaca",
+    "gn:country_code":"PE",
+    "gn:dem":3759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650022,
+    "gn:latitude":-12.87967,
+    "gn:longitude":-74.21486,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Culluchaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650022
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7f6aabbde3533f29766cae37cbfb1b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1309904493,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1309904493,
+    "wof:lastmodified":1536789291,
+    "wof:name":"Culluchaca",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21486,
+    -12.87967,
+    -74.21486,
+    -12.87967
+],
+  "geometry": {"coordinates":[-74.21486,-12.87967],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209294061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6766,-11.33333,-75.6766,-11.33333",
+    "geom:latitude":-11.33333,
+    "geom:longitude":-75.6766,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120702.0",
+    "gn:asciiname":"Andorra",
+    "gn:country_code":"PE",
+    "gn:dem":3031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670728,
+    "gn:latitude":-11.33333,
+    "gn:longitude":-75.6766,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Andorra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670728
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b28f280f33952ad03b5237e0511dfe80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209294061
+        }
+    ],
+    "wof:id":1209294061,
+    "wof:lastmodified":1536291593,
+    "wof:name":"Andorra",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6766,
+    -11.33333,
+    -75.6766,
+    -11.33333
+],
+  "geometry": {"coordinates":[-75.67659999999999,-11.33333],"type":"Point"}
+}

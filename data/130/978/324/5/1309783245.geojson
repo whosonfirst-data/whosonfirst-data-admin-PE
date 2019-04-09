@@ -1,0 +1,75 @@
+{
+  "id": 1309783245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69179,-14.1453,-75.69179,-14.1453",
+    "geom:latitude":-14.1453,
+    "geom:longitude":-75.69179,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110105.0",
+    "gn:asciiname":"Pachacute",
+    "gn:country_code":"PE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933266,
+    "gn:latitude":-14.1453,
+    "gn:longitude":-75.69179,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pachacute",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pachacute"
+    ],
+    "name:spa_x_variant":[
+        "Pampa de Tate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933266
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a60764f2f5abcade6325b585cf52c676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1309783245,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1309783245,
+    "wof:lastmodified":1537676736,
+    "wof:name":"Pachacute",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69179,
+    -14.1453,
+    -75.69179,
+    -14.1453
+],
+  "geometry": {"coordinates":[-75.69179,-14.1453],"type":"Point"}
+}

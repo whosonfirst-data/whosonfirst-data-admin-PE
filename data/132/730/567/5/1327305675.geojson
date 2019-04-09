@@ -1,0 +1,71 @@
+{
+  "id": 1327305675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46914,-12.30114,-74.46914,-12.30114",
+    "geom:latitude":-12.30114,
+    "geom:longitude":-74.46914,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:asciiname":"Luichubata",
+    "gn:country_code":"PE",
+    "gn:dem":3845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9007779,
+    "gn:latitude":-12.30114,
+    "gn:longitude":-74.46914,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Luichubata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Luichubata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9007779
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bdde74aafd531398bca1a78bb0136388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1327305675,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1327305675,
+    "wof:lastmodified":1537676921,
+    "wof:name":"Luichubata",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46914,
+    -12.30114,
+    -74.46914,
+    -12.30114
+],
+  "geometry": {"coordinates":[-74.46914,-12.30114],"type":"Point"}
+}

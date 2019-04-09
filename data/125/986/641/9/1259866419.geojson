@@ -1,0 +1,68 @@
+{
+  "id": 1259866419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.31101,-11.08972,-76.31101,-11.08972",
+    "geom:latitude":-11.08972,
+    "geom:longitude":-76.31101,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1901.0",
+    "gn:asciiname":"Guchuman",
+    "gn:country_code":"PE",
+    "gn:dem":4480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669294,
+    "gn:latitude":-11.08972,
+    "gn:longitude":-76.31101,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Guchuman",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675883,
+        421194849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669294
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6e960d09233328ed6a11ba8d1a5102ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194849,
+            "locality_id":1259866419,
+            "region_id":85675883
+        }
+    ],
+    "wof:id":1259866419,
+    "wof:lastmodified":1536803713,
+    "wof:name":"Guchuman",
+    "wof:parent_id":421194849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.31101,
+    -11.08972,
+    -76.31101,
+    -11.08972
+],
+  "geometry": {"coordinates":[-76.31101,-11.08972],"type":"Point"}
+}

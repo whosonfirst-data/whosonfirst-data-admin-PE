@@ -1,0 +1,72 @@
+{
+  "id": 1276411871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54453,-5.79681,-76.54453,-5.79681",
+    "geom:latitude":-5.79681,
+    "geom:longitude":-76.54453,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160202.0",
+    "gn:asciiname":"Nuevo Juni",
+    "gn:country_code":"PE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6267338,
+    "gn:latitude":-5.79681,
+    "gn:longitude":-76.54453,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Nuevo Jun\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Jun\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6267338
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"363fe3bd8f5d42a4c92d4e7af742e597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1276411871,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1276411871,
+    "wof:lastmodified":1537676895,
+    "wof:name":"Nuevo Juni",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54453000000002,
+    -5.79681,
+    -76.54453000000002,
+    -5.79681
+],
+  "geometry": {"coordinates":[-76.54453000000002,-5.79681],"type":"Point"}
+}

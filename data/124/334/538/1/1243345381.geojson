@@ -1,0 +1,72 @@
+{
+  "id": 1243345381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60733,-5.68088,-76.60733,-5.68088",
+    "geom:latitude":-5.68088,
+    "geom:longitude":-76.60733,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160202.0",
+    "gn:asciiname":"Villa Alegre",
+    "gn:country_code":"PE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6267237,
+    "gn:latitude":-5.68088,
+    "gn:longitude":-76.60733,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Villa Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Alegre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6267237
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"0e123044816a3f8565327111e5badb38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1243345381,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1243345381,
+    "wof:lastmodified":1537676894,
+    "wof:name":"Villa Alegre",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60733,
+    -5.68088,
+    -76.60733,
+    -5.68088
+],
+  "geometry": {"coordinates":[-76.60733,-5.68088],"type":"Point"}
+}

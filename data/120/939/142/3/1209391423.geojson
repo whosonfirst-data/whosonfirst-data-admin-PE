@@ -1,0 +1,63 @@
+{
+  "id": 1209391423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76872,-11.55363,-75.76872,-11.55363",
+    "geom:latitude":-11.55363,
+    "geom:longitude":-75.76872,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120426.0",
+    "gn:asciiname":"Canchachulla",
+    "gn:country_code":"PE",
+    "gn:dem":4259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670989,
+    "gn:latitude":-11.55363,
+    "gn:longitude":-75.76872,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Canchachulla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670989
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c015be5f4568b4640017effe9c9e9d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209391423
+        }
+    ],
+    "wof:id":1209391423,
+    "wof:lastmodified":1536288448,
+    "wof:name":"Canchachulla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76872,
+    -11.55363,
+    -75.76872,
+    -11.55363
+],
+  "geometry": {"coordinates":[-75.76872,-11.55363],"type":"Point"}
+}

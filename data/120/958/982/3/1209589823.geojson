@@ -1,0 +1,63 @@
+{
+  "id": 1209589823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21667,-5.2,-80.21667,-5.2",
+    "geom:latitude":-5.2,
+    "geom:longitude":-80.21667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2004.0",
+    "gn:admin3_code":"200401.0",
+    "gn:asciiname":"Vega del Caballo",
+    "gn:country_code":"PE",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690981,
+    "gn:latitude":-5.2,
+    "gn:longitude":-80.21667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Vega del Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ef611c8f01e4b46596d63e20075319f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209589823
+        }
+    ],
+    "wof:id":1209589823,
+    "wof:lastmodified":1536282516,
+    "wof:name":"Vega del Caballo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21667,
+    -5.2,
+    -80.21667,
+    -5.2
+],
+  "geometry": {"coordinates":[-80.21666999999999,-5.2],"type":"Point"}
+}

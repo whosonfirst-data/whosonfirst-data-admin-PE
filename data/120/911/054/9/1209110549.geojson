@@ -1,0 +1,63 @@
+{
+  "id": 1209110549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.99278,-14.20722,-73.99278,-14.20722",
+    "geom:latitude":-14.20722,
+    "geom:longitude":-73.99278,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Chacralla",
+    "gn:country_code":"PE",
+    "gn:dem":3118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3959575,
+    "gn:latitude":-14.20722,
+    "gn:longitude":-73.99278,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chacralla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3959575
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"19d1f7117f281106bfe9066955dd83b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209110549
+        }
+    ],
+    "wof:id":1209110549,
+    "wof:lastmodified":1536297421,
+    "wof:name":"Chacralla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99278000000002,
+    -14.20722,
+    -73.99278000000002,
+    -14.20722
+],
+  "geometry": {"coordinates":[-73.99278000000002,-14.20722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326894209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1528,-4.83019,-75.1528,-4.83019",
+    "geom:latitude":-4.83019,
+    "geom:longitude":-75.1528,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1603.0",
+    "gn:admin3_code":"160305.0",
+    "gn:asciiname":"Maipuco",
+    "gn:country_code":"PE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3695062,
+    "gn:latitude":-4.83019,
+    "gn:longitude":-75.1528,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Maipuco",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urarinas",
+        "Malpuco",
+        "Maipuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695062
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"601bd1d7936c4800b63e4a88474ae2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1326894209,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1326894209,
+    "wof:lastmodified":1537676587,
+    "wof:name":"Maipuco",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1528,
+    -4.83019,
+    -75.1528,
+    -4.83019
+],
+  "geometry": {"coordinates":[-75.1528,-4.83019],"type":"Point"}
+}

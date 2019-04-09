@@ -1,0 +1,69 @@
+{
+  "id": 1209789991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6325,-5.58889,-79.6325,-5.58889",
+    "geom:latitude":-5.58889,
+    "geom:longitude":-79.6325,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:admin3_code":"200304.0",
+    "gn:asciiname":"La Pena",
+    "gn:country_code":"PE",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3761393,
+    "gn:latitude":-5.58889,
+    "gn:longitude":-79.6325,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"La Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3761393
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"1904778f4b4b85e59d08d1737c52e4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1209789991,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1209789991,
+    "wof:lastmodified":1536395446,
+    "wof:name":"La Pena",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6325,
+    -5.58889,
+    -79.6325,
+    -5.58889
+],
+  "geometry": {"coordinates":[-79.63249999999999,-5.58889],"type":"Point"}
+}

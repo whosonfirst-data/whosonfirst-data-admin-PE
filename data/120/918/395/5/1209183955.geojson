@@ -1,0 +1,63 @@
+{
+  "id": 1209183955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66222,-12.38333,-75.66222,-12.38333",
+    "geom:latitude":-12.38333,
+    "geom:longitude":-75.66222,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151018.0",
+    "gn:asciiname":"Muquicha",
+    "gn:country_code":"PE",
+    "gn:dem":4562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304606,
+    "gn:latitude":-12.38333,
+    "gn:longitude":-75.66222,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Muquicha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304606
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a54fa0ec01b6516776ae80239fc35621",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209183955
+        }
+    ],
+    "wof:id":1209183955,
+    "wof:lastmodified":1536295164,
+    "wof:name":"Muquicha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66221999999998,
+    -12.38333,
+    -75.66221999999998,
+    -12.38333
+],
+  "geometry": {"coordinates":[-75.66221999999998,-12.38333],"type":"Point"}
+}

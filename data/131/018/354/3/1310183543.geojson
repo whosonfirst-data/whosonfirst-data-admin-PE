@@ -1,0 +1,69 @@
+{
+  "id": 1310183543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58639,-10.04972,-76.58639,-10.04972",
+    "geom:latitude":-10.04972,
+    "geom:longitude":-76.58639,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"Machaypampa",
+    "gn:country_code":"PE",
+    "gn:dem":3950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6403276,
+    "gn:latitude":-10.04972,
+    "gn:longitude":-76.58639,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Machaypampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6403276
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7bf813279672d194147eeda7dc7bfcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1310183543,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1310183543,
+    "wof:lastmodified":1536883427,
+    "wof:name":"Machaypampa",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58639000000002,
+    -10.04972,
+    -76.58639000000002,
+    -10.04972
+],
+  "geometry": {"coordinates":[-76.58639000000002,-10.04972],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209528227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99728,-9.27547,-76.99728,-9.27547",
+    "geom:latitude":-9.27547,
+    "geom:longitude":-76.99728,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"210.0",
+    "gn:admin3_code":"21011.0",
+    "gn:asciiname":"Llahuin",
+    "gn:country_code":"PE",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675632,
+    "gn:latitude":-9.27547,
+    "gn:longitude":-76.99728,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Llahuin",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675632
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"070e77b2b24096fa139e5005d43e3582",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209528227
+        }
+    ],
+    "wof:id":1209528227,
+    "wof:lastmodified":1536284366,
+    "wof:name":"Llahuin",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99728,
+    -9.27547,
+    -76.99728,
+    -9.27547
+],
+  "geometry": {"coordinates":[-76.99728,-9.27547],"type":"Point"}
+}

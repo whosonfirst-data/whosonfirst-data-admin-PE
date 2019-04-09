@@ -1,0 +1,73 @@
+{
+  "id": 1327327205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63052,-10.07865,-76.63052,-10.07865",
+    "geom:latitude":-10.07865,
+    "geom:longitude":-76.63052,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101001.0",
+    "gn:asciiname":"Jesus",
+    "gn:country_code":"PE",
+    "gn:dem":3481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937649,
+    "gn:latitude":-10.07865,
+    "gn:longitude":-76.63052,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jes\u00fas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jes\u00fas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421181301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937649,
+        "wk:page":"Jes%C3%BAs%2C_Peru"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"72e8eac9d692d45dd53d5800da3a1525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421181301,
+            "locality_id":1327327205,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1327327205,
+    "wof:lastmodified":1537676780,
+    "wof:name":"Jesus",
+    "wof:parent_id":421181301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63051999999998,
+    -10.07865,
+    -76.63051999999998,
+    -10.07865
+],
+  "geometry": {"coordinates":[-76.63051999999998,-10.07865],"type":"Point"}
+}

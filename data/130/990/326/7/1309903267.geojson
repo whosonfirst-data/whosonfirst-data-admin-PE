@@ -1,0 +1,69 @@
+{
+  "id": 1309903267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.16349,-5.90537,-79.16349,-5.90537",
+    "geom:latitude":-5.90537,
+    "geom:longitude":-79.16349,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60807.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"PE",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3762123,
+    "gn:latitude":-5.90537,
+    "gn:longitude":-79.16349,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        421185275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3762123
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bdc0238c1b09297cad996e4dbe62e3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185275,
+            "locality_id":1309903267,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1309903267,
+    "wof:lastmodified":1536791010,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":421185275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.16349,
+    -5.90537,
+    -79.16349,
+    -5.90537
+],
+  "geometry": {"coordinates":[-79.16349,-5.90537],"type":"Point"}
+}

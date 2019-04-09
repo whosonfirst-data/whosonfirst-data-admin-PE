@@ -1,0 +1,77 @@
+{
+  "id": 1327012519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57028,-11.08389,-77.57028,-11.08389",
+    "geom:latitude":-11.08389,
+    "geom:longitude":-77.57028,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1508.0",
+    "gn:admin3_code":"150810.0",
+    "gn:asciiname":"Alcantarilla Lomas",
+    "gn:country_code":"PE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970024,
+    "gn:latitude":-11.08389,
+    "gn:longitude":-77.57028,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Alcantarilla Lomas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693961,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970024
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"81925e93c8eb8092e30ae82226a629e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1327012519,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693961,
+            "locality_id":1327012519,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1327012519,
+    "wof:lastmodified":1536789617,
+    "wof:name":"Alcantarilla Lomas",
+    "wof:parent_id":1108693961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57028000000003,
+    -11.08389,
+    -77.57028000000003,
+    -11.08389
+],
+  "geometry": {"coordinates":[-77.57028000000003,-11.08389],"type":"Point"}
+}

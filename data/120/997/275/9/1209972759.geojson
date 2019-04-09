@@ -1,0 +1,69 @@
+{
+  "id": 1209972759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.04972,-17.05833,-70.04972,-17.05833",
+    "geom:latitude":-17.05833,
+    "geom:longitude":-70.04972,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2304.0",
+    "gn:admin3_code":"230406.0",
+    "gn:asciiname":"Incuyo",
+    "gn:country_code":"PE",
+    "gn:dem":4544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3938325,
+    "gn:latitude":-17.05833,
+    "gn:longitude":-70.04972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Incuyo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3938325
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8054d6522901b0ac6101bca1f9ec474d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694033,
+            "locality_id":1209972759,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1209972759,
+    "wof:lastmodified":1536394290,
+    "wof:name":"Incuyo",
+    "wof:parent_id":1108694033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.04972,
+    -17.05833,
+    -70.04972,
+    -17.05833
+],
+  "geometry": {"coordinates":[-70.04971999999999,-17.05833],"type":"Point"}
+}

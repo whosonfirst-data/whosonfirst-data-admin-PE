@@ -1,0 +1,69 @@
+{
+  "id": 1327207297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78333,-6.48333,-79.78333,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":-79.78333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1402.0",
+    "gn:admin3_code":"140205.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"PE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3692422,
+    "gn:latitude":-6.48333,
+    "gn:longitude":-79.78333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421188727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3692422
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7736f0653048f95fcf49a7b36d9f8467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188727,
+            "locality_id":1327207297,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327207297,
+    "wof:lastmodified":1537005232,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421188727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78333,
+    -6.48333,
+    -79.78333,
+    -6.48333
+],
+  "geometry": {"coordinates":[-79.78333000000001,-6.48333],"type":"Point"}
+}

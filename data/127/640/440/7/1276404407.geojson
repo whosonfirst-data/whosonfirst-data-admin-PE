@@ -1,0 +1,68 @@
+{
+  "id": 1276404407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28552,-9.86018,-75.28552,-9.86018",
+    "geom:latitude":-9.86018,
+    "geom:longitude":-75.28552,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Rumitambo",
+    "gn:country_code":"PE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304878,
+    "gn:latitude":-9.86018,
+    "gn:longitude":-75.28552,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Rumitambo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304878
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b2da4f5865f9adbce6aa501c9e76ed5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194457,
+            "locality_id":1276404407,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1276404407,
+    "wof:lastmodified":1536683438,
+    "wof:name":"Rumitambo",
+    "wof:parent_id":421194457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28551999999998,
+    -9.86018,
+    -75.28551999999998,
+    -9.86018
+],
+  "geometry": {"coordinates":[-75.28551999999998,-9.86018],"type":"Point"}
+}

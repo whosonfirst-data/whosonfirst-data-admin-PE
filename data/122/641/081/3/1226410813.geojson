@@ -1,0 +1,73 @@
+{
+  "id": 1226410813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23531,-17.25875,-70.23531,-17.25875",
+    "geom:latitude":-17.25875,
+    "geom:longitude":-70.23531,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2302.0",
+    "gn:admin3_code":"230201.0",
+    "gn:asciiname":"Yucumane Pampa",
+    "gn:country_code":"PE",
+    "gn:dem":3396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925523,
+    "gn:latitude":-17.25875,
+    "gn:longitude":-70.23531,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yucumane Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yocumane Pampa",
+        "Yucumane Pampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        1108694031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925523
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8243e9b67a2e2cd8dd3a2079c39151ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694031,
+            "locality_id":1226410813,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1226410813,
+    "wof:lastmodified":1537676663,
+    "wof:name":"Yucumane Pampa",
+    "wof:parent_id":1108694031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23531,
+    -17.25875,
+    -70.23531,
+    -17.25875
+],
+  "geometry": {"coordinates":[-70.23531,-17.25875],"type":"Point"}
+}

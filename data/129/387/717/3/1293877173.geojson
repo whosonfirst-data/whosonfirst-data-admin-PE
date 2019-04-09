@@ -1,0 +1,69 @@
+{
+  "id": 1293877173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54651,-9.56709,-76.54651,-9.56709",
+    "geom:latitude":-9.56709,
+    "geom:longitude":-76.54651,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100311.0",
+    "gn:asciiname":"Mojon Punta",
+    "gn:country_code":"PE",
+    "gn:dem":4181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665777,
+    "gn:latitude":-9.56709,
+    "gn:longitude":-76.54651,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Moj\u00f3n Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421176081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665777
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"eb81c3245d912b9c52376274bf3d4c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421176081,
+            "locality_id":1293877173,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1293877173,
+    "wof:lastmodified":1536722816,
+    "wof:name":"Mojon Punta",
+    "wof:parent_id":421176081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54651,
+    -9.56709,
+    -76.54651,
+    -9.56709
+],
+  "geometry": {"coordinates":[-76.54651,-9.56709],"type":"Point"}
+}

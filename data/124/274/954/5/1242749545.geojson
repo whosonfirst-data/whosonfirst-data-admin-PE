@@ -1,0 +1,72 @@
+{
+  "id": 1242749545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53271,-5.80354,-76.53271,-5.80354",
+    "geom:latitude":-5.80354,
+    "geom:longitude":-76.53271,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1602.0",
+    "gn:admin3_code":"160202.0",
+    "gn:asciiname":"Nueva Barranquita",
+    "gn:country_code":"PE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6267337,
+    "gn:latitude":-5.80354,
+    "gn:longitude":-76.53271,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Nueva Barranquita",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Barranquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421188085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6267337
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f5e2a0f6acc1b561a7ca215781456ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188085,
+            "locality_id":1242749545,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1242749545,
+    "wof:lastmodified":1537676894,
+    "wof:name":"Nueva Barranquita",
+    "wof:parent_id":421188085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53271,
+    -5.80354,
+    -76.53271,
+    -5.80354
+],
+  "geometry": {"coordinates":[-76.53270999999999,-5.80354],"type":"Point"}
+}

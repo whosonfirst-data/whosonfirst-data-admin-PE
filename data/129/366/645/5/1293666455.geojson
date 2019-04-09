@@ -1,0 +1,73 @@
+{
+  "id": 1293666455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13534,-14.47001,-75.13534,-14.47001",
+    "geom:latitude":-14.47001,
+    "geom:longitude":-75.13534,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110401.0",
+    "gn:asciiname":"Chicchitara",
+    "gn:country_code":"PE",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3944059,
+    "gn:latitude":-14.47001,
+    "gn:longitude":-75.13534,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Chicchitara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicchitara Hacienda",
+        "Chicchitara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421197033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944059
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"cad61550647f475e21668969762f3c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197033,
+            "locality_id":1293666455,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293666455,
+    "wof:lastmodified":1537676836,
+    "wof:name":"Chicchitara",
+    "wof:parent_id":421197033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13534,
+    -14.47001,
+    -75.13534,
+    -14.47001
+],
+  "geometry": {"coordinates":[-75.13534,-14.47001],"type":"Point"}
+}

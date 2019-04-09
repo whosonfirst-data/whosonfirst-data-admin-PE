@@ -1,0 +1,69 @@
+{
+  "id": 1293612623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53128,-16.43535,-72.53128,-16.43535",
+    "geom:latitude":-16.43535,
+    "geom:longitude":-72.53128,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40205.0",
+    "gn:asciiname":"Huamboy",
+    "gn:country_code":"PE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939663,
+    "gn:latitude":-16.43535,
+    "gn:longitude":-72.53128,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huamboy",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421175159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939663
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b20afcb5e4ac5772af073d18a0543c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175159,
+            "locality_id":1293612623,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1293612623,
+    "wof:lastmodified":1536603694,
+    "wof:name":"Huamboy",
+    "wof:parent_id":421175159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53128000000002,
+    -16.43535,
+    -72.53128000000002,
+    -16.43535
+],
+  "geometry": {"coordinates":[-72.53128000000002,-16.43535],"type":"Point"}
+}

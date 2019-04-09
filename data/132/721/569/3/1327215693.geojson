@@ -1,0 +1,69 @@
+{
+  "id": 1327215693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2866,-0.15298,-75.2866,-0.15298",
+    "geom:latitude":-0.15298,
+    "geom:longitude":-75.2866,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160114.0",
+    "gn:asciiname":"Puerto Peru",
+    "gn:country_code":"PE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693207,
+    "gn:latitude":-0.15298,
+    "gn:longitude":-75.2866,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Puerto Per\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693207
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"94dcb8ed986de3b0ca79ee6e864113f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1327215693,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1327215693,
+    "wof:lastmodified":1536992953,
+    "wof:name":"Puerto Peru",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2866,
+    -0.15298,
+    -75.2866,
+    -0.15298
+],
+  "geometry": {"coordinates":[-75.28660000000001,-0.15298],"type":"Point"}
+}

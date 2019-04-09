@@ -1,0 +1,69 @@
+{
+  "id": 1277003587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9,-7.38333,-78.9,-7.38333",
+    "geom:latitude":-7.38333,
+    "geom:longitude":-78.9,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60504.0",
+    "gn:asciiname":"Guzmango",
+    "gn:country_code":"PE",
+    "gn:dem":2450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3696764,
+    "gn:latitude":-7.38333,
+    "gn:longitude":-78.9,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Guzmango",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108694039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696764
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dc218405c0f064ce985e2fb732897137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694039,
+            "locality_id":1277003587,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1277003587,
+    "wof:lastmodified":1536874461,
+    "wof:name":"Guzmango",
+    "wof:parent_id":1108694039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9,
+    -7.38333,
+    -78.9,
+    -7.38333
+],
+  "geometry": {"coordinates":[-78.90000000000001,-7.38333],"type":"Point"}
+}

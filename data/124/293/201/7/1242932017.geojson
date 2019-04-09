@@ -1,0 +1,72 @@
+{
+  "id": 1242932017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.40661,-5.46496,-79.40661,-5.46496",
+    "geom:latitude":-5.46496,
+    "geom:longitude":-79.40661,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Mandor",
+    "gn:country_code":"PE",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694995,
+    "gn:latitude":-5.46496,
+    "gn:longitude":-79.40661,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Mandor",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandor Hacienda",
+        "Mandor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421192883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694995
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"32ec42d19095ae7dc885688d7410072d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421192883,
+            "locality_id":1242932017,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1242932017,
+    "wof:lastmodified":1537676586,
+    "wof:name":"Mandor",
+    "wof:parent_id":421192883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.40661,
+    -5.46496,
+    -79.40661,
+    -5.46496
+],
+  "geometry": {"coordinates":[-79.40661,-5.46496],"type":"Point"}
+}

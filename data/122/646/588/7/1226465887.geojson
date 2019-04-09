@@ -1,0 +1,69 @@
+{
+  "id": 1226465887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25696,-15.52413,-72.25696,-15.52413",
+    "geom:latitude":-15.52413,
+    "geom:longitude":-72.25696,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Allachay",
+    "gn:country_code":"PE",
+    "gn:dem":2981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3948146,
+    "gn:latitude":-15.52413,
+    "gn:longitude":-72.25696,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Allachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421202523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3948146
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"643ed7fc69eb8a869820438f2b50398e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202523,
+            "locality_id":1226465887,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1226465887,
+    "wof:lastmodified":1536614127,
+    "wof:name":"Allachay",
+    "wof:parent_id":421202523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25695999999998,
+    -15.52413,
+    -72.25695999999998,
+    -15.52413
+],
+  "geometry": {"coordinates":[-72.25695999999998,-15.52413],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209278453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.42656,-15.127,-69.42656,-15.127",
+    "geom:latitude":-15.127,
+    "geom:longitude":-69.42656,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210608.0",
+    "gn:asciiname":"Machacollo",
+    "gn:country_code":"PE",
+    "gn:dem":4206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935681,
+    "gn:latitude":-15.127,
+    "gn:longitude":-69.42656,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Machacollo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Machacollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935681
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f241e4754db76f4e408c916fe56da948",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209278453
+        }
+    ],
+    "wof:id":1209278453,
+    "wof:lastmodified":1537676761,
+    "wof:name":"Machacollo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.42656,
+    -15.127,
+    -69.42656,
+    -15.127
+],
+  "geometry": {"coordinates":[-69.42655999999999,-15.127],"type":"Point"}
+}

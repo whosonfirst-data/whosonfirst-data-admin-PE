@@ -1,0 +1,72 @@
+{
+  "id": 1343862763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76559,-15.0743,-73.76559,-15.0743",
+    "geom:latitude":-15.0743,
+    "geom:longitude":-73.76559,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50701.0",
+    "gn:asciiname":"Saramarca",
+    "gn:country_code":"PE",
+    "gn:dem":3012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928960,
+    "gn:latitude":-15.0743,
+    "gn:longitude":-73.76559,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Saramarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Saramarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928960
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"abe2d13110833cc2e01502be2a80d292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693937,
+            "locality_id":1343862763,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1343862763,
+    "wof:lastmodified":1537676691,
+    "wof:name":"Saramarca",
+    "wof:parent_id":1108693937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76559,
+    -15.0743,
+    -73.76559,
+    -15.0743
+],
+  "geometry": {"coordinates":[-73.76559,-15.0743],"type":"Point"}
+}

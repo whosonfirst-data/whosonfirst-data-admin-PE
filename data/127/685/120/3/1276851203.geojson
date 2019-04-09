@@ -1,0 +1,74 @@
+{
+  "id": 1276851203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.10217,-13.67768,-76.10217,-13.67768",
+    "geom:latitude":-13.67768,
+    "geom:longitude":-76.10217,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110507.0",
+    "gn:asciiname":"Hacienda Bandin",
+    "gn:country_code":"PE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3946852,
+    "gn:latitude":-13.67768,
+    "gn:longitude":-76.10217,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda Band\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Band\u00edn",
+        "Band\u00edn Hacienda",
+        "Band\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946852
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f8e2e4d38c7320a9bb332889acf89679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1276851203,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1276851203,
+    "wof:lastmodified":1537676861,
+    "wof:name":"Hacienda Bandin",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.10217,
+    -13.67768,
+    -76.10217,
+    -13.67768
+],
+  "geometry": {"coordinates":[-76.10217,-13.67768],"type":"Point"}
+}

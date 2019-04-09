@@ -1,0 +1,74 @@
+{
+  "id": 1293354453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33972,-16.75639,-69.33972,-16.75639",
+    "geom:latitude":-16.75639,
+    "geom:longitude":-69.33972,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"2104.0",
+    "gn:admin3_code":"210404.0",
+    "gn:asciiname":"Totoroma",
+    "gn:country_code":"PE",
+    "gn:dem":3995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3926981,
+    "gn:latitude":-16.75639,
+    "gn:longitude":-69.33972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Totoroma",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Totoruma Aillo",
+        "Totoruma",
+        "Totoroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        421186269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3926981
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"10087822d7dd8694f65405c422f3cb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421186269,
+            "locality_id":1293354453,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1293354453,
+    "wof:lastmodified":1537676675,
+    "wof:name":"Totoroma",
+    "wof:parent_id":421186269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33972,
+    -16.75639,
+    -69.33972,
+    -16.75639
+],
+  "geometry": {"coordinates":[-69.33972,-16.75639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310685125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3981,-13.30969,-75.3981,-13.30969",
+    "geom:latitude":-13.30969,
+    "geom:longitude":-75.3981,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90406.0",
+    "gn:asciiname":"Quintara",
+    "gn:country_code":"PE",
+    "gn:dem":2554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3930744,
+    "gn:latitude":-13.30969,
+    "gn:longitude":-75.3981,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Quintara",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quincara",
+        "Quintara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        1108693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930744
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c012f5afd7a7a01137b4dee8f67b7568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693931,
+            "locality_id":1310685125,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1310685125,
+    "wof:lastmodified":1537676715,
+    "wof:name":"Quintara",
+    "wof:parent_id":1108693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3981,
+    -13.30969,
+    -75.3981,
+    -13.30969
+],
+  "geometry": {"coordinates":[-75.3981,-13.30969],"type":"Point"}
+}

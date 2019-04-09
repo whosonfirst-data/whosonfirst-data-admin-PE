@@ -1,0 +1,69 @@
+{
+  "id": 1225957917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18972,-6.24722,-77.18972,-6.24722",
+    "geom:latitude":-6.24722,
+    "geom:longitude":-77.18972,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10612.0",
+    "gn:asciiname":"Galilea",
+    "gn:country_code":"PE",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6389202,
+    "gn:latitude":-6.24722,
+    "gn:longitude":-77.18972,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Galilea",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        1108693897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6389202
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c9504f9aad9bbc2e3c29d6a5c6843a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693897,
+            "locality_id":1225957917,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1225957917,
+    "wof:lastmodified":1536850581,
+    "wof:name":"Galilea",
+    "wof:parent_id":1108693897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18972,
+    -6.24722,
+    -77.18972,
+    -6.24722
+],
+  "geometry": {"coordinates":[-77.18971999999999,-6.24722],"type":"Point"}
+}

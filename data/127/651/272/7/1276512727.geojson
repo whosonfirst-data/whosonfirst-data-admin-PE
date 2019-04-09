@@ -1,0 +1,73 @@
+{
+  "id": 1276512727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2163,-16.69673,-71.2163,-16.69673",
+    "geom:latitude":-16.69673,
+    "geom:longitude":-71.2163,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180205.0",
+    "gn:asciiname":"Seche",
+    "gn:country_code":"PE",
+    "gn:dem":2370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928814,
+    "gn:latitude":-16.69673,
+    "gn:longitude":-71.2163,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Seche",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Secho",
+        "Seche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421171959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928814
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a73913713e1bd715573fe86372f22260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171959,
+            "locality_id":1276512727,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1276512727,
+    "wof:lastmodified":1537676690,
+    "wof:name":"Seche",
+    "wof:parent_id":421171959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2163,
+    -16.69673,
+    -71.2163,
+    -16.69673
+],
+  "geometry": {"coordinates":[-71.2163,-16.69673],"type":"Point"}
+}

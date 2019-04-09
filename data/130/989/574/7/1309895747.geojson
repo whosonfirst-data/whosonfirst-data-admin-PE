@@ -1,0 +1,69 @@
+{
+  "id": 1309895747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.8375,-12.50399,-73.8375,-12.50399",
+    "geom:latitude":-12.50399,
+    "geom:longitude":-73.8375,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80910.0",
+    "gn:asciiname":"Picharialto",
+    "gn:country_code":"PE",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8689277,
+    "gn:latitude":-12.50399,
+    "gn:longitude":-73.8375,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Picharialto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421194085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8689277
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ccfb76c14720eb7c2dcbb60843e538da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194085,
+            "locality_id":1309895747,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1309895747,
+    "wof:lastmodified":1536801434,
+    "wof:name":"Picharialto",
+    "wof:parent_id":421194085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.8375,
+    -12.50399,
+    -73.8375,
+    -12.50399
+],
+  "geometry": {"coordinates":[-73.83750000000001,-12.50399],"type":"Point"}
+}

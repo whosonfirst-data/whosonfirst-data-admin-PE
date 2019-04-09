@@ -1,0 +1,112 @@
+{
+  "id": 421173127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.0475,-4.10778,-81.0475,-4.10778",
+    "geom:latitude":-4.10778,
+    "geom:longitude":-81.0475,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:dut_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:ger_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:que_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e1ncora"
+    ],
+    "name:unk_x_variant":[
+        "Hacienda Mancora"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3695000,
+    "qs:gn_pop":9101,
+    "qs:name":"M\u00e1ncora",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Piura",
+    "qs:photos":273,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":273,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":489723,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419003,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421187177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3695000,
+        "gp:id":419003,
+        "qs:id":489723,
+        "wd:id":"Q529807",
+        "wk:page":"M\u00e1ncora"
+    },
+    "wof:country":"PE",
+    "wof:created":1459008971,
+    "wof:geomhash":"efbca7ae83ee107f336b7656ef379a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187177,
+            "locality_id":421173127,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":421173127,
+    "wof:lastmodified":1527716257,
+    "wof:name":"M\u00e1ncora",
+    "wof:parent_id":421187177,
+    "wof:placetype":"locality",
+    "wof:population":9101,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.0475,
+    -4.10778,
+    -81.0475,
+    -4.10778
+],
+  "geometry": {"coordinates":[-81.0475,-4.10778],"type":"Point"}
+}

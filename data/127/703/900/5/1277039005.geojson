@@ -1,0 +1,74 @@
+{
+  "id": 1277039005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.08028,-14.17225,-69.08028,-14.17225",
+    "geom:latitude":-14.17225,
+    "geom:longitude":-69.08028,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Ccollpani",
+    "gn:country_code":"PE",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558398,
+    "gn:latitude":-14.17225,
+    "gn:longitude":-69.08028,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Ccollpani",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ccollpani"
+    ],
+    "name:spa_x_variant":[
+        "Colpani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558398
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5d9e9ecfd585bd23559532a173bdfe77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1277039005,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1277039005,
+    "wof:lastmodified":1537677005,
+    "wof:name":"Ccollpani",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.08028,
+    -14.17225,
+    -69.08028,
+    -14.17225
+],
+  "geometry": {"coordinates":[-69.08028,-14.17225],"type":"Point"}
+}

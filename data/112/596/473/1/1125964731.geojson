@@ -1,0 +1,91 @@
+{
+  "id": 1125964731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.39389,-14.47278,-71.39389,-14.47278",
+    "geom:latitude":-14.47278,
+    "geom:longitude":-71.39389,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":3810,
+    "gn:population":3810,
+    "iso:country":"PE",
+    "lbl:latitude":-14.47278,
+    "lbl:longitude":-71.39389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Checca"
+    ],
+    "name:eng_x_preferred":[
+        "Checca"
+    ],
+    "name:spa_x_preferred":[
+        "Checca"
+    ],
+    "name:unk_x_variant":[
+        "Checa"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":3944134,
+    "qs_pg:gn_pop":3810,
+    "qs_pg:name":"Checca",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":151170,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3944134,
+        "qs_pg:id":151170,
+        "wd:id":"Q5089024"
+    },
+    "wof:country":"PE",
+    "wof:created":1497297929,
+    "wof:geomhash":"386e345a4744f2f6c53b54f98d308a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187839,
+            "locality_id":1125964731,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1125964731,
+    "wof:lastmodified":1514495121,
+    "wof:name":"Checca",
+    "wof:parent_id":421187839,
+    "wof:placetype":"locality",
+    "wof:population":3810,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39389,
+    -14.47278,
+    -71.39389,
+    -14.47278
+],
+  "geometry": {"coordinates":[-71.39389,-14.47278],"type":"Point"}
+}

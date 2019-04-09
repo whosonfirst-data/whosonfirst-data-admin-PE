@@ -1,0 +1,83 @@
+{
+  "id": 421200901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.16985,-12.58824,-69.16985,-12.58824",
+    "geom:latitude":-12.58824,
+    "geom:longitude":-69.16985,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Rimac"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edmac"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3930377,
+    "qs:gn_pop":0,
+    "qs:name":"R\u00edmac",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Madre de Dios",
+    "qs:photos":680,
+    "qs:photos_1k":138,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":680,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":899881,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419702,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675847,
+        1108693891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3930377,
+        "gp:id":419702,
+        "qs:id":899881
+    },
+    "wof:country":"PE",
+    "wof:created":1459010045,
+    "wof:geomhash":"80c4d535783b6a6358df455d822cc248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693891,
+            "locality_id":421200901,
+            "region_id":85675847
+        }
+    ],
+    "wof:id":421200901,
+    "wof:lastmodified":1527716420,
+    "wof:name":"R\u00edmac",
+    "wof:parent_id":1108693891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.16985,
+    -12.58824,
+    -69.16985,
+    -12.58824
+],
+  "geometry": {"coordinates":[-69.16985,-12.58824],"type":"Point"}
+}

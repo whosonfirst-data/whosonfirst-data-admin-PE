@@ -1,0 +1,76 @@
+{
+  "id": 421185903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.051925,-12.061144,-77.051925,-12.061144",
+    "geom:latitude":-12.061144,
+    "geom:longitude":-77.051925,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"R\u00edmac",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":4077,
+    "qs:photos_1k":826,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":4077,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1054261,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":413374,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":413374,
+        "qs:id":1054261
+    },
+    "wof:country":"PE",
+    "wof:created":1459009458,
+    "wof:geomhash":"1c8070126c99a9a8e16c11cff5bb5d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":421185903,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":421185903,
+    "wof:lastmodified":1527726507,
+    "wof:name":"R\u00edmac",
+    "wof:parent_id":421202549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.051925,
+    -12.061144,
+    -77.051925,
+    -12.061144
+],
+  "geometry": {"coordinates":[-77.051925,-12.061144],"type":"Point"}
+}

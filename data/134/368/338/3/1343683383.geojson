@@ -1,0 +1,75 @@
+{
+  "id": 1343683383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03583,-6.35889,-79.03583,-6.35889",
+    "geom:latitude":-6.35889,
+    "geom:longitude":-79.03583,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60415.0",
+    "gn:asciiname":"Querocoto",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":2445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3693051,
+    "gn:latitude":-6.35889,
+    "gn:longitude":-79.03583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Querocoto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Querecoto",
+        "Quereccoto",
+        "Querocoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675871,
+        1108693987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693051
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"68965794bc322c49987edcf222896f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693987,
+            "locality_id":1343683383,
+            "region_id":85675871
+        }
+    ],
+    "wof:id":1343683383,
+    "wof:lastmodified":1537676560,
+    "wof:name":"Querocoto",
+    "wof:parent_id":1108693987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03583,
+    -6.35889,
+    -79.03583,
+    -6.35889
+],
+  "geometry": {"coordinates":[-79.03583,-6.35889],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1292979323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.90306,-9.84361,-75.90306,-9.84361",
+    "geom:latitude":-9.84361,
+    "geom:longitude":-75.90306,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1008.0",
+    "gn:admin3_code":"100802.0",
+    "gn:asciiname":"Chaglla",
+    "gn:country_code":"PE",
+    "gn:dem":3011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3698523,
+    "gn:latitude":-9.84361,
+    "gn:longitude":-75.90306,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chaglla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaqlla",
+        "Chaclla",
+        "Choglia",
+        "Chaglla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421197577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698523
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"82fca37967ec4cc23294f9233c581146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421197577,
+            "locality_id":1292979323,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1292979323,
+    "wof:lastmodified":1537676631,
+    "wof:name":"Chaglla",
+    "wof:parent_id":421197577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.90306,
+    -9.84361,
+    -75.90306,
+    -9.84361
+],
+  "geometry": {"coordinates":[-75.90306,-9.84361],"type":"Point"}
+}

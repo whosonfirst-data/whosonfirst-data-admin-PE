@@ -1,0 +1,74 @@
+{
+  "id": 1293885851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.59209,-10.28332,-77.59209,-10.28332",
+    "geom:latitude":-10.28332,
+    "geom:longitude":-77.59209,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"205.0",
+    "gn:admin3_code":"20507.0",
+    "gn:asciiname":"Huaquis",
+    "gn:country_code":"PE",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939339,
+    "gn:latitude":-10.28332,
+    "gn:longitude":-77.59209,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Huaquis",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harquis",
+        "Huaquish",
+        "Huaquis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939339
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ae2d4b95f8c9d7c66b41cbed0a306401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694009,
+            "locality_id":1293885851,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1293885851,
+    "wof:lastmodified":1537676792,
+    "wof:name":"Huaquis",
+    "wof:parent_id":1108694009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.59209,
+    -10.28332,
+    -77.59209,
+    -10.28332
+],
+  "geometry": {"coordinates":[-77.59209,-10.28332],"type":"Point"}
+}

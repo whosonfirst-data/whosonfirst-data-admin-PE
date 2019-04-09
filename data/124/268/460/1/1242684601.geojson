@@ -1,0 +1,69 @@
+{
+  "id": 1242684601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.8,-13.51667,-72.8,-13.51667",
+    "geom:latitude":-13.51667,
+    "geom:longitude":-72.8,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"301.0",
+    "gn:admin3_code":"30108.0",
+    "gn:asciiname":"Pucyutan",
+    "gn:country_code":"PE",
+    "gn:dem":3401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931545,
+    "gn:latitude":-13.51667,
+    "gn:longitude":-72.8,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Pucyutan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        421170655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931545
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ce09df8b05f69ff3ddb2114adc9a7c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170655,
+            "locality_id":1242684601,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1242684601,
+    "wof:lastmodified":1536909951,
+    "wof:name":"Pucyutan",
+    "wof:parent_id":421170655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8,
+    -13.51667,
+    -72.8,
+    -13.51667
+],
+  "geometry": {"coordinates":[-72.8,-13.51667],"type":"Point"}
+}

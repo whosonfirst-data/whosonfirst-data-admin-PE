@@ -1,0 +1,72 @@
+{
+  "id": 1243149575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17839,-13.69983,-76.17839,-13.69983",
+    "geom:latitude":-13.69983,
+    "geom:longitude":-76.17839,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110501.0",
+    "gn:asciiname":"Hacienda Huamani y Anexo",
+    "gn:country_code":"PE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11106366,
+    "gn:latitude":-13.69983,
+    "gn:longitude":-76.17839,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hacienda Huamani y Anexo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Huamani y Anexo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421198071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11106366
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4f1bc7a09e8de7b38c4b376e983c44d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198071,
+            "locality_id":1243149575,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1243149575,
+    "wof:lastmodified":1537676970,
+    "wof:name":"Hacienda Huamani y Anexo",
+    "wof:parent_id":421198071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17839000000002,
+    -13.69983,
+    -76.17839000000002,
+    -13.69983
+],
+  "geometry": {"coordinates":[-76.17839000000002,-13.69983],"type":"Point"}
+}

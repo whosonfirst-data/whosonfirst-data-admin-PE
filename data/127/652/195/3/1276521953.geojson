@@ -1,0 +1,74 @@
+{
+  "id": 1276521953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.03794,-4.88926,-81.03794,-4.88926",
+    "geom:latitude":-4.88926,
+    "geom:longitude":-81.03794,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200503.0",
+    "gn:asciiname":"Tabona",
+    "gn:country_code":"PE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691606,
+    "gn:latitude":-4.88926,
+    "gn:longitude":-81.03794,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Tabona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tahona",
+        "Tahona",
+        "Tabona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691606
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5f93a4c0882b4f40ce02e2a884cd55e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1276521953,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276521953,
+    "wof:lastmodified":1537676537,
+    "wof:name":"Tabona",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.03794,
+    -4.88926,
+    -81.03794,
+    -4.88926
+],
+  "geometry": {"coordinates":[-81.03794000000001,-4.88926],"type":"Point"}
+}

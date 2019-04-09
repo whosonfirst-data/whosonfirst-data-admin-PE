@@ -1,0 +1,74 @@
+{
+  "id": 1326712277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95,-4.55,-71.95,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":-71.95,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160403.0",
+    "gn:asciiname":"Constitucion",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697842,
+    "gn:latitude":-4.55,
+    "gn:longitude":-71.95,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Constituci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Constitution",
+        "Constituci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697842
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"632e75f6c0d3f2788c38d678386af382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175219,
+            "locality_id":1326712277,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1326712277,
+    "wof:lastmodified":1537676622,
+    "wof:name":"Constitucion",
+    "wof:parent_id":421175219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95,
+    -4.55,
+    -71.95,
+    -4.55
+],
+  "geometry": {"coordinates":[-71.95,-4.55],"type":"Point"}
+}

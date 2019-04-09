@@ -1,0 +1,69 @@
+{
+  "id": 1209934389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8089,-9.40165,-76.8089,-9.40165",
+    "geom:latitude":-9.40165,
+    "geom:longitude":-76.8089,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100510.0",
+    "gn:asciiname":"San Gabriel",
+    "gn:country_code":"PE",
+    "gn:dem":3359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675611,
+    "gn:latitude":-9.40165,
+    "gn:longitude":-76.8089,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"San Gabriel",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675611
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3b205e7efd55e9a83cb44f72af0c0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1209934389,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1209934389,
+    "wof:lastmodified":1536391313,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8089,
+    -9.40165,
+    -76.8089,
+    -9.40165
+],
+  "geometry": {"coordinates":[-76.80889999999999,-9.40165],"type":"Point"}
+}

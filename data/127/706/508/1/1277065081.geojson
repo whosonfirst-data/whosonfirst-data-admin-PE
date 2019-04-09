@@ -1,0 +1,69 @@
+{
+  "id": 1277065081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78273,-9.60832,-76.78273,-9.60832",
+    "geom:latitude":-9.60832,
+    "geom:longitude":-76.78273,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100501.0",
+    "gn:asciiname":"Genuaragra",
+    "gn:country_code":"PE",
+    "gn:dem":3906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6665822,
+    "gn:latitude":-9.60832,
+    "gn:longitude":-76.78273,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Genuaragra",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6665822
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e8749a00f489b135f99f6a36f6f846ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1277065081,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1277065081,
+    "wof:lastmodified":1536793059,
+    "wof:name":"Genuaragra",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78273,
+    -9.60832,
+    -76.78273,
+    -9.60832
+],
+  "geometry": {"coordinates":[-76.78273,-9.60832],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1277159941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18443,-11.53238,-77.18443,-11.53238",
+    "geom:latitude":-11.53238,
+    "geom:longitude":-77.18443,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1506.0",
+    "gn:admin3_code":"150604.0",
+    "gn:asciiname":"Tambillo",
+    "gn:country_code":"PE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254812,
+    "gn:latitude":-11.53238,
+    "gn:longitude":-77.18443,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tambillo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tambillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693963,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254812
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"80f2a971c0dcb905d1b1c475a06a2477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1277159941,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693963,
+            "locality_id":1277159941,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277159941,
+    "wof:lastmodified":1537676893,
+    "wof:name":"Tambillo",
+    "wof:parent_id":1108693963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18443,
+    -11.53238,
+    -77.18443,
+    -11.53238
+],
+  "geometry": {"coordinates":[-77.18443000000001,-11.53238],"type":"Point"}
+}

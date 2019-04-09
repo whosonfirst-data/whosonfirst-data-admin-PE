@@ -1,0 +1,74 @@
+{
+  "id": 1193274147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,-13.45,-74.25,-13.45",
+    "geom:latitude":-13.45,
+    "geom:longitude":-74.25,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203.0",
+    "gn:asciiname":"Manaipata",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935480,
+    "gn:latitude":-13.45,
+    "gn:longitude":-74.25,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Manaipata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munaypata",
+        "Manaipata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        1108693941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935480
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d4d58d460f13cf05864ec3147319e9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693941,
+            "locality_id":1193274147,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1193274147,
+    "wof:lastmodified":1537676759,
+    "wof:name":"Manaipata",
+    "wof:parent_id":1108693941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    -13.45,
+    -74.25,
+    -13.45
+],
+  "geometry": {"coordinates":[-74.25,-13.45],"type":"Point"}
+}

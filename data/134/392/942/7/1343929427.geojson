@@ -1,0 +1,69 @@
+{
+  "id": 1343929427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35783,-3.8285,-73.35783,-3.8285",
+    "geom:latitude":-3.8285,
+    "geom:longitude":-73.35783,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160113.0",
+    "gn:asciiname":"Zungaro Cocha",
+    "gn:country_code":"PE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827800,
+    "gn:latitude":-3.8285,
+    "gn:longitude":-73.35783,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Z\u00fangaro Cocha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827800
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bb06f7a3d478a3d1afc6d33da807e509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1343929427,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343929427,
+    "wof:lastmodified":1537062097,
+    "wof:name":"Zungaro Cocha",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35783,
+    -3.8285,
+    -73.35783,
+    -3.8285
+],
+  "geometry": {"coordinates":[-73.35783000000001,-3.8285],"type":"Point"}
+}

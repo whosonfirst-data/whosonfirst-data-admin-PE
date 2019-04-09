@@ -1,0 +1,69 @@
+{
+  "id": 1327327931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94142,-13.20812,-74.94142,-13.20812",
+    "geom:latitude":-13.20812,
+    "geom:longitude":-74.94142,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90607.0",
+    "gn:asciiname":"Tajrapampa",
+    "gn:country_code":"PE",
+    "gn:dem":4470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677224,
+    "gn:latitude":-13.20812,
+    "gn:longitude":-74.94142,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tajrapampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421177937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677224
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"93c3eb2f857ddf173e55bf75b27cd70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421177937,
+            "locality_id":1327327931,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1327327931,
+    "wof:lastmodified":1536830719,
+    "wof:name":"Tajrapampa",
+    "wof:parent_id":421177937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94142,
+    -13.20812,
+    -74.94142,
+    -13.20812
+],
+  "geometry": {"coordinates":[-74.94141999999999,-13.20812],"type":"Point"}
+}

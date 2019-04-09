@@ -1,0 +1,69 @@
+{
+  "id": 1243337785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.10171,-4.87295,-81.10171,-4.87295",
+    "geom:latitude":-4.87295,
+    "geom:longitude":-81.10171,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2005.0",
+    "gn:admin3_code":"200507.0",
+    "gn:asciiname":"Miramar",
+    "gn:country_code":"PE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694750,
+    "gn:latitude":-4.87295,
+    "gn:longitude":-81.10171,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Miramar",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694750
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8a089f623dfceb0d560252bddda2cfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693973,
+            "locality_id":1243337785,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1243337785,
+    "wof:lastmodified":1536962170,
+    "wof:name":"Miramar",
+    "wof:parent_id":1108693973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.10171,
+    -4.87295,
+    -81.10171,
+    -4.87295
+],
+  "geometry": {"coordinates":[-81.10171,-4.87295],"type":"Point"}
+}

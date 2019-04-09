@@ -1,0 +1,81 @@
+{
+  "id": 1277048245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61863,-12.58616,-76.61863,-12.58616",
+    "geom:latitude":-12.58616,
+    "geom:longitude":-76.61863,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1505.0",
+    "gn:admin3_code":"150515.0",
+    "gn:asciiname":"San Vicente de Azpitia",
+    "gn:country_code":"PE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947205,
+    "gn:latitude":-12.58616,
+    "gn:longitude":-76.61863,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"San Vicente de Azpitia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aspitia",
+        "San Vicente de Azpitia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693957,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947205
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"85c2d39f811d4f08b6c91ee4d2d3e971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1277048245,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693957,
+            "locality_id":1277048245,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1277048245,
+    "wof:lastmodified":1537676864,
+    "wof:name":"San Vicente de Azpitia",
+    "wof:parent_id":1108693957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61863000000002,
+    -12.58616,
+    -76.61863000000002,
+    -12.58616
+],
+  "geometry": {"coordinates":[-76.61863000000002,-12.58616],"type":"Point"}
+}

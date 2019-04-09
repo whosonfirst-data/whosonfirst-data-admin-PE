@@ -1,0 +1,69 @@
+{
+  "id": 1226345639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.95833,-6.1361,-77.95833,-6.1361",
+    "geom:latitude":-6.1361,
+    "geom:longitude":-77.95833,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10501.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"PE",
+    "gn:dem":2418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6383112,
+    "gn:latitude":-6.1361,
+    "gn:longitude":-77.95833,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421170663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6383112
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5249816a9c61cfa077cbc02d687d0f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170663,
+            "locality_id":1226345639,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1226345639,
+    "wof:lastmodified":1536789992,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421170663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.95833,
+    -6.1361,
+    -77.95833,
+    -6.1361
+],
+  "geometry": {"coordinates":[-77.95833,-6.1361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209400889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.65389,-8.37049,-78.65389,-8.37049",
+    "geom:latitude":-8.37049,
+    "geom:longitude":-78.65389,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1312.0",
+    "gn:admin3_code":"131201.0",
+    "gn:asciiname":"Huacapongo",
+    "gn:country_code":"PE",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696588,
+    "gn:latitude":-8.37049,
+    "gn:longitude":-78.65389,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huacapongo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huacapongo Hacienda",
+        "Huacapongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696588
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"904bfbbdd0cf8258bb89dcbae79c7835",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209400889
+        }
+    ],
+    "wof:id":1209400889,
+    "wof:lastmodified":1537676607,
+    "wof:name":"Huacapongo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.65389,
+    -8.37049,
+    -78.65389,
+    -8.37049
+],
+  "geometry": {"coordinates":[-78.65389,-8.37049],"type":"Point"}
+}

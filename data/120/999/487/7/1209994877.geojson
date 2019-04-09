@@ -1,0 +1,69 @@
+{
+  "id": 1209994877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71543,-9.28105,-76.71543,-9.28105",
+    "geom:latitude":-9.28105,
+    "geom:longitude":-76.71543,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100505.0",
+    "gn:asciiname":"Pirish",
+    "gn:country_code":"PE",
+    "gn:dem":3411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675572,
+    "gn:latitude":-9.28105,
+    "gn:longitude":-76.71543,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Pirish",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675572
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6bc5a1fc12bfcc6cab97fb3d8d846b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693923,
+            "locality_id":1209994877,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1209994877,
+    "wof:lastmodified":1536384736,
+    "wof:name":"Pirish",
+    "wof:parent_id":1108693923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71543,
+    -9.28105,
+    -76.71543,
+    -9.28105
+],
+  "geometry": {"coordinates":[-76.71543,-9.28105],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209310161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94583,-13.02778,-74.94583,-13.02778",
+    "geom:latitude":-13.02778,
+    "geom:longitude":-74.94583,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90106.0",
+    "gn:asciiname":"Huachocolpa",
+    "gn:country_code":"PE",
+    "gn:dem":3973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3939993,
+    "gn:latitude":-13.02778,
+    "gn:longitude":-74.94583,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huachocolpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939993
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"69b0f04f4f27961954b4a40d068e507c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209310161
+        }
+    ],
+    "wof:id":1209310161,
+    "wof:lastmodified":1536291056,
+    "wof:name":"Huachocolpa",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94583,
+    -13.02778,
+    -74.94583,
+    -13.02778
+],
+  "geometry": {"coordinates":[-74.94583,-13.02778],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 421187377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88333,-11.7,-76.88333,-11.7",
+    "geom:latitude":-11.7,
+    "geom:longitude":-76.88333,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hacienda Hornillos"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3940133,
+    "qs:gn_pop":0,
+    "qs:name":"Chorrillos",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:photos":1196,
+    "qs:photos_1k":242,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1196,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082774,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":400560,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940133,
+        "gp:id":400560,
+        "qs:id":1082774
+    },
+    "wof:country":"PE",
+    "wof:created":1459009511,
+    "wof:geomhash":"a0a3ee572028ea0c5e7d7b27d9dc9ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":421187377,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":421187377,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":421187377,
+    "wof:lastmodified":1527716248,
+    "wof:name":"Chorrillos",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88333,
+    -11.7,
+    -76.88333,
+    -11.7
+],
+  "geometry": {"coordinates":[-76.88333,-11.7],"type":"Point"}
+}

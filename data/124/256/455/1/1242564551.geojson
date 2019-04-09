@@ -1,0 +1,69 @@
+{
+  "id": 1242564551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48333,-12.3,-75.48333,-12.3",
+    "geom:latitude":-12.3,
+    "geom:longitude":-75.48333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1209.0",
+    "gn:admin3_code":"120909.0",
+    "gn:asciiname":"Antajo",
+    "gn:country_code":"PE",
+    "gn:dem":4499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3947574,
+    "gn:latitude":-12.3,
+    "gn:longitude":-75.48333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Antajo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3947574
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"165e6acf02348c11f6960bd3f9057464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188283,
+            "locality_id":1242564551,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1242564551,
+    "wof:lastmodified":1537079322,
+    "wof:name":"Antajo",
+    "wof:parent_id":421188283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48333000000002,
+    -12.3,
+    -75.48333000000002,
+    -12.3
+],
+  "geometry": {"coordinates":[-75.48333000000002,-12.3],"type":"Point"}
+}

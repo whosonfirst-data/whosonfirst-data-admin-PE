@@ -1,0 +1,63 @@
+{
+  "id": 1209190919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64245,-11.03984,-75.64245,-11.03984",
+    "geom:latitude":-11.03984,
+    "geom:longitude":-75.64245,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120708.0",
+    "gn:asciiname":"Huaye",
+    "gn:country_code":"PE",
+    "gn:dem":3627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6670758,
+    "gn:latitude":-11.03984,
+    "gn:longitude":-75.64245,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huaye",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6670758
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c0d503b0552838b43e358709b205154d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209190919
+        }
+    ],
+    "wof:id":1209190919,
+    "wof:lastmodified":1536294937,
+    "wof:name":"Huaye",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64245,
+    -11.03984,
+    -75.64245,
+    -11.03984
+],
+  "geometry": {"coordinates":[-75.64245,-11.03984],"type":"Point"}
+}

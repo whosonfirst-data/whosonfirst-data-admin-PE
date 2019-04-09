@@ -1,0 +1,63 @@
+{
+  "id": 1209619675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61194,-14.46028,-73.61194,-14.46028",
+    "geom:latitude":-14.46028,
+    "geom:longitude":-73.61194,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50606.0",
+    "gn:asciiname":"Cancha Cancha",
+    "gn:country_code":"PE",
+    "gn:dem":4313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3960146,
+    "gn:latitude":-14.46028,
+    "gn:longitude":-73.61194,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cancha Cancha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3960146
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bb7f81ee7002ebe64e00f725f033ad26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209619675
+        }
+    ],
+    "wof:id":1209619675,
+    "wof:lastmodified":1536281564,
+    "wof:name":"Cancha Cancha",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61194,
+    -14.46028,
+    -73.61194,
+    -14.46028
+],
+  "geometry": {"coordinates":[-73.61194,-14.46028],"type":"Point"}
+}

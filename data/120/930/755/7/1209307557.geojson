@@ -1,0 +1,63 @@
+{
+  "id": 1209307557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.27557,-12.82489,-74.27557,-12.82489",
+    "geom:latitude":-12.82489,
+    "geom:longitude":-74.27557,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50405.0",
+    "gn:asciiname":"Pacayhuayjo",
+    "gn:country_code":"PE",
+    "gn:dem":3133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650322,
+    "gn:latitude":-12.82489,
+    "gn:longitude":-74.27557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pacayhuayjo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650322
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"414041c0ea97584168cd5eb9fdd0d22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209307557
+        }
+    ],
+    "wof:id":1209307557,
+    "wof:lastmodified":1536291142,
+    "wof:name":"Pacayhuayjo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.27557,
+    -12.82489,
+    -74.27557,
+    -12.82489
+],
+  "geometry": {"coordinates":[-74.27557,-12.82489],"type":"Point"}
+}

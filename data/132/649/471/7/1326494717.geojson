@@ -1,0 +1,73 @@
+{
+  "id": 1326494717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7266,-5.34552,-80.7266,-5.34552",
+    "geom:latitude":-5.34552,
+    "geom:longitude":-80.7266,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2001.0",
+    "gn:admin3_code":"200110.0",
+    "gn:asciiname":"Penal",
+    "gn:country_code":"PE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693716,
+    "gn:latitude":-5.34552,
+    "gn:longitude":-80.7266,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pe\u00f1al",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pe\u00f1al",
+        "Pe\u00f1al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693716
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"86f97fddaa1ed3950effb2295ee151d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "locality_id":1326494717,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1326494717,
+    "wof:lastmodified":1537676570,
+    "wof:name":"Penal",
+    "wof:parent_id":1108693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7266,
+    -5.34552,
+    -80.7266,
+    -5.34552
+],
+  "geometry": {"coordinates":[-80.7266,-5.34552],"type":"Point"}
+}

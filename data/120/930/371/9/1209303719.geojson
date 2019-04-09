@@ -1,0 +1,63 @@
+{
+  "id": 1209303719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06044,-13.09715,-75.06044,-13.09715",
+    "geom:latitude":-13.09715,
+    "geom:longitude":-75.06044,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90411.0",
+    "gn:asciiname":"Pultoc",
+    "gn:country_code":"PE",
+    "gn:dem":4717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3931390,
+    "gn:latitude":-13.09715,
+    "gn:longitude":-75.06044,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Pultoc",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3931390
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"fc16d9cb0879197cf93fb62045c87230",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209303719
+        }
+    ],
+    "wof:id":1209303719,
+    "wof:lastmodified":1536291267,
+    "wof:name":"Pultoc",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06044,
+    -13.09715,
+    -75.06044,
+    -13.09715
+],
+  "geometry": {"coordinates":[-75.06044,-13.09715],"type":"Point"}
+}

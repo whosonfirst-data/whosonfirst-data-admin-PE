@@ -1,0 +1,69 @@
+{
+  "id": 1243073391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.04763,-15.72165,-71.04763,-15.72165",
+    "geom:latitude":-15.72165,
+    "geom:longitude":-71.04763,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40514.0",
+    "gn:asciiname":"Jaurillane",
+    "gn:country_code":"PE",
+    "gn:dem":4451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937727,
+    "gn:latitude":-15.72165,
+    "gn:longitude":-71.04763,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jaurillane",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421193379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937727
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5bf56464f4a6a3b10b5a275ed41a18a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193379,
+            "locality_id":1243073391,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1243073391,
+    "wof:lastmodified":1536845183,
+    "wof:name":"Jaurillane",
+    "wof:parent_id":421193379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.04763,
+    -15.72165,
+    -71.04763,
+    -15.72165
+],
+  "geometry": {"coordinates":[-71.04763,-15.72165],"type":"Point"}
+}

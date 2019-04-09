@@ -1,0 +1,69 @@
+{
+  "id": 1327135199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26667,-14.1,-72.26667,-14.1",
+    "geom:latitude":-14.1,
+    "geom:longitude":-72.26667,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30506.0",
+    "gn:asciiname":"Capapujro",
+    "gn:country_code":"PE",
+    "gn:dem":4031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945685,
+    "gn:latitude":-14.1,
+    "gn:longitude":-72.26667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Capapujro",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675835,
+        1108693907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945685
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"36c2b0125aa21ce870186ff693332a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693907,
+            "locality_id":1327135199,
+            "region_id":85675835
+        }
+    ],
+    "wof:id":1327135199,
+    "wof:lastmodified":1536609385,
+    "wof:name":"Capapujro",
+    "wof:parent_id":1108693907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26666999999998,
+    -14.1,
+    -72.26666999999998,
+    -14.1
+],
+  "geometry": {"coordinates":[-72.26666999999998,-14.1],"type":"Point"}
+}

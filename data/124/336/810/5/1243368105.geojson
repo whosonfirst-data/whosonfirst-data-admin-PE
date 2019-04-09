@@ -1,0 +1,69 @@
+{
+  "id": 1243368105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71869,-13.10075,-73.71869,-13.10075",
+    "geom:latitude":-13.10075,
+    "geom:longitude":-73.71869,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502.0",
+    "gn:asciiname":"Pampantayo",
+    "gn:country_code":"PE",
+    "gn:dem":3787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6400429,
+    "gn:latitude":-13.10075,
+    "gn:longitude":-73.71869,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Pampantayo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421202681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6400429
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"422f0dfc38463c6ddc50f450c9e0f85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202681,
+            "locality_id":1243368105,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1243368105,
+    "wof:lastmodified":1536919130,
+    "wof:name":"Pampantayo",
+    "wof:parent_id":421202681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71869000000002,
+    -13.10075,
+    -73.71869000000002,
+    -13.10075
+],
+  "geometry": {"coordinates":[-73.71869000000002,-13.10075],"type":"Point"}
+}

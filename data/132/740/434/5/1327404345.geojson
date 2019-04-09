@@ -1,0 +1,73 @@
+{
+  "id": 1327404345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61003,-6.0786,-79.61003,-6.0786",
+    "geom:latitude":-6.0786,
+    "geom:longitude":-79.61003,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140310.0",
+    "gn:asciiname":"Pampa Vernilla",
+    "gn:country_code":"PE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693972,
+    "gn:latitude":-6.0786,
+    "gn:longitude":-79.61003,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pampa Vernilla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampa Vernillo",
+        "Pampa Vernilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693972
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e1872d129290b48447dad4d54cf2d9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1327404345,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1327404345,
+    "wof:lastmodified":1537676573,
+    "wof:name":"Pampa Vernilla",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61003000000002,
+    -6.0786,
+    -79.61003000000002,
+    -6.0786
+],
+  "geometry": {"coordinates":[-79.61003000000002,-6.0786],"type":"Point"}
+}

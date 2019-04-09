@@ -1,0 +1,72 @@
+{
+  "id": 1310606857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10696,-15.66438,-74.10696,-15.66438",
+    "geom:latitude":-15.66438,
+    "geom:longitude":-74.10696,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40309.0",
+    "gn:asciiname":"Carmona",
+    "gn:country_code":"PE",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945421,
+    "gn:latitude":-15.66438,
+    "gn:longitude":-74.10696,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Carmona",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carmona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421194075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945421
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"8cb52102c6de1cd9bfae761864f02bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194075,
+            "locality_id":1310606857,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1310606857,
+    "wof:lastmodified":1537676849,
+    "wof:name":"Carmona",
+    "wof:parent_id":421194075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10696,
+    -15.66438,
+    -74.10696,
+    -15.66438
+],
+  "geometry": {"coordinates":[-74.10696,-15.66438],"type":"Point"}
+}

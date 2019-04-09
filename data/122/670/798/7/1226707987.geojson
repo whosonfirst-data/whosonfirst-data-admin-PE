@@ -1,0 +1,73 @@
+{
+  "id": 1226707987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.40463,-18.27542,-70.40463,-18.27542",
+    "geom:latitude":-18.27542,
+    "geom:longitude":-70.40463,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230101.0",
+    "gn:asciiname":"Las Lagunas",
+    "gn:country_code":"PE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3936751,
+    "gn:latitude":-18.27542,
+    "gn:longitude":-70.40463,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Las Lagunas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Lagunas Hacienda",
+        "Las Lagunas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3936751
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ee2e8a786208c9a4750b8655c5a39c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1226707987,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1226707987,
+    "wof:lastmodified":1537676770,
+    "wof:name":"Las Lagunas",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.40463000000003,
+    -18.27542,
+    -70.40463000000003,
+    -18.27542
+],
+  "geometry": {"coordinates":[-70.40463000000003,-18.27542],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259595847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.66716,-8.07441,-77.66716,-8.07441",
+    "geom:latitude":-8.07441,
+    "geom:longitude":-77.66716,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"215.0",
+    "gn:admin3_code":"21509.0",
+    "gn:asciiname":"Uchupampa",
+    "gn:country_code":"PE",
+    "gn:dem":2613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3691091,
+    "gn:latitude":-8.07441,
+    "gn:longitude":-77.66716,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Uchupampa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchu",
+        "Uchupampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        1108694001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3691091
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"a51bc18e88d1eee1a68560acd2043a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694001,
+            "locality_id":1259595847,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1259595847,
+    "wof:lastmodified":1537676531,
+    "wof:name":"Uchupampa",
+    "wof:parent_id":1108694001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.66716,
+    -8.07441,
+    -77.66716,
+    -8.07441
+],
+  "geometry": {"coordinates":[-77.66716,-8.07441],"type":"Point"}
+}

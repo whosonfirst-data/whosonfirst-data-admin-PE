@@ -1,0 +1,69 @@
+{
+  "id": 1243431035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.97658,-11.87988,-74.97658,-11.87988",
+    "geom:latitude":-11.87988,
+    "geom:longitude":-74.97658,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1201.0",
+    "gn:admin3_code":"120124.0",
+    "gn:asciiname":"Aychana",
+    "gn:country_code":"PE",
+    "gn:dem":3706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307254,
+    "gn:latitude":-11.87988,
+    "gn:longitude":-74.97658,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Aychana",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        1108694037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307254
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4bd8ac6c42c62fe76ca74e59c6bdfb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694037,
+            "locality_id":1243431035,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1243431035,
+    "wof:lastmodified":1536826824,
+    "wof:name":"Aychana",
+    "wof:parent_id":1108694037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.97658,
+    -11.87988,
+    -74.97658,
+    -11.87988
+],
+  "geometry": {"coordinates":[-74.97658,-11.87988],"type":"Point"}
+}

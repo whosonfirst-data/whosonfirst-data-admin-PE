@@ -1,0 +1,69 @@
+{
+  "id": 1293870669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57806,-12.00306,-75.57806,-12.00306",
+    "geom:latitude":-12.00306,
+    "geom:longitude":-75.57806,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120431.0",
+    "gn:asciiname":"Calicanto",
+    "gn:country_code":"PE",
+    "gn:dem":3730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6304239,
+    "gn:latitude":-12.00306,
+    "gn:longitude":-75.57806,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Calicanto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6304239
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4cd7adb7c7883cba7d36a9cb0614343d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1293870669,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1293870669,
+    "wof:lastmodified":1536732110,
+    "wof:name":"Calicanto",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57806,
+    -12.00306,
+    -75.57806,
+    -12.00306
+],
+  "geometry": {"coordinates":[-75.57805999999999,-12.00306],"type":"Point"}
+}

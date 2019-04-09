@@ -1,0 +1,75 @@
+{
+  "id": 1260190663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.56986,-9.04823,-78.56986,-9.04823",
+    "geom:latitude":-9.04823,
+    "geom:longitude":-78.56986,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"218.0",
+    "gn:admin3_code":"21801.0",
+    "gn:asciiname":"La Campina",
+    "gn:country_code":"PE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6198967,
+    "gn:latitude":-9.04823,
+    "gn:longitude":-78.56986,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"La Campi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Campi\u00f1a"
+    ],
+    "name:spa_x_variant":[
+        "Tres y Med\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675865,
+        421202213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6198967
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f0670be800ed7c5e072e192a30d3b8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202213,
+            "locality_id":1260190663,
+            "region_id":85675865
+        }
+    ],
+    "wof:id":1260190663,
+    "wof:lastmodified":1537676892,
+    "wof:name":"La Campina",
+    "wof:parent_id":421202213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.56985999999998,
+    -9.04823,
+    -78.56985999999998,
+    -9.04823
+],
+  "geometry": {"coordinates":[-78.56985999999998,-9.04823],"type":"Point"}
+}

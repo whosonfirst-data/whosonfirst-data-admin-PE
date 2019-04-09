@@ -1,0 +1,100 @@
+{
+  "id": 1126090527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.54444,-16.37361,-71.54444,-16.37361",
+    "geom:latitude":-16.37361,
+    "geom:longitude":-71.54444,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-16.37361,
+    "gn:longitude":-71.54444,
+    "iso:country":"PE",
+    "lbl:latitude":-16.37361,
+    "lbl:longitude":-71.54444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Carmen Pampa"
+    ],
+    "name:unk_x_variant":[
+        "Carmen Pampa"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3949230,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Carmen Pampa",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Arequipa",
+    "qs_pg:photos":396,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":396,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082772,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":398551,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424919,
+    "woe:name_adm0":"Per\u00fa",
+    "woe:name_adm1":"Arequipa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675839,
+        102191577,
+        85632521,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3949230,
+        "gp:id":398551,
+        "qs:id":1082772,
+        "qs_pg:id":1082772
+    },
+    "wof:country":"PE",
+    "wof:created":1497313650,
+    "wof:geomhash":"9c397727deca4977389025717b3349be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":1126090527,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1126090527,
+    "wof:lastmodified":1534379398,
+    "wof:name":"Carmen Pampa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764991
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.54444,
+    -16.37361,
+    -71.54444,
+    -16.37361
+],
+  "geometry": {"coordinates":[-71.54443999999999,-16.37361],"type":"Point"}
+}

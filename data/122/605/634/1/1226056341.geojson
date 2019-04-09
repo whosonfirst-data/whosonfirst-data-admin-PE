@@ -1,0 +1,69 @@
+{
+  "id": 1226056341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.32417,-5.80417,-78.32417,-5.80417",
+    "geom:latitude":-5.80417,
+    "geom:longitude":-78.32417,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10701.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"PE",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811979,
+    "gn:latitude":-5.80417,
+    "gn:longitude":-78.32417,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895,
+        421172895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811979
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ec2ab7fb27188cac1e28e68ec3a68448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421172895,
+            "locality_id":1226056341,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":1226056341,
+    "wof:lastmodified":1536710117,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":421172895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.32417,
+    -5.80417,
+    -78.32417,
+    -5.80417
+],
+  "geometry": {"coordinates":[-78.32417,-5.80417],"type":"Point"}
+}

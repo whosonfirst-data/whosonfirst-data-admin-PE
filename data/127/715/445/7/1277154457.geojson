@@ -1,0 +1,69 @@
+{
+  "id": 1277154457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72139,-14.04639,-75.72139,-14.04639",
+    "geom:latitude":-14.04639,
+    "geom:longitude":-75.72139,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110102.0",
+    "gn:asciiname":"Bambaren",
+    "gn:country_code":"PE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6560069,
+    "gn:latitude":-14.04639,
+    "gn:longitude":-75.72139,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Bambar\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6560069
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2438d734ca2db25a3c1c80f6e0c239dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1277154457,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1277154457,
+    "wof:lastmodified":1536664372,
+    "wof:name":"Bambaren",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72139,
+    -14.04639,
+    -75.72139,
+    -14.04639
+],
+  "geometry": {"coordinates":[-75.72139,-14.04639],"type":"Point"}
+}

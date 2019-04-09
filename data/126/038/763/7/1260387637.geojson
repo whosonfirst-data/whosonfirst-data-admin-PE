@@ -1,0 +1,68 @@
+{
+  "id": 1260387637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46214,-12.83655,-74.46214,-12.83655",
+    "geom:latitude":-12.83655,
+    "geom:longitude":-74.46214,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Cochas",
+    "gn:country_code":"PE",
+    "gn:dem":2934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651498,
+    "gn:latitude":-12.83655,
+    "gn:longitude":-74.46214,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Cochas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421183855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651498
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"18f013e3ed33380e8d5ec5eab64f5a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421183855,
+            "locality_id":1260387637,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1260387637,
+    "wof:lastmodified":1537066522,
+    "wof:name":"Cochas",
+    "wof:parent_id":421183855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46214,
+    -12.83655,
+    -74.46214,
+    -12.83655
+],
+  "geometry": {"coordinates":[-74.46214000000001,-12.83655],"type":"Point"}
+}

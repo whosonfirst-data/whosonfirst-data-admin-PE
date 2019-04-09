@@ -1,0 +1,80 @@
+{
+  "id": 1343331525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75946,-12.83986,-75.75946,-12.83986",
+    "geom:latitude":-12.83986,
+    "geom:longitude":-75.75946,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1510.0",
+    "gn:admin3_code":"151019.0",
+    "gn:asciiname":"Jochamarca",
+    "gn:country_code":"PE",
+    "gn:dem":2743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3937601,
+    "gn:latitude":-12.83986,
+    "gn:longitude":-75.75946,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Jochamarca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cochamarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693955,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3937601
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ca73de02a714fad6ce8df8e4d83c1fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1343331525,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693955,
+            "locality_id":1343331525,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1343331525,
+    "wof:lastmodified":1537676779,
+    "wof:name":"Jochamarca",
+    "wof:parent_id":1108693955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75946,
+    -12.83986,
+    -75.75946,
+    -12.83986
+],
+  "geometry": {"coordinates":[-75.75946,-12.83986],"type":"Point"}
+}

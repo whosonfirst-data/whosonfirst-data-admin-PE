@@ -1,0 +1,68 @@
+{
+  "id": 1243242559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0038,-8.42803,-77.0038,-8.42803",
+    "geom:latitude":-8.42803,
+    "geom:longitude":-77.0038,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2210.0",
+    "gn:asciiname":"Huilacochan",
+    "gn:country_code":"PE",
+    "gn:dem":3603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696266,
+    "gn:latitude":-8.42803,
+    "gn:longitude":-77.0038,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"Huilacoch\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421170671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696266
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"bc93115e8dd233ce0f7feab78e580f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170671,
+            "locality_id":1243242559,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1243242559,
+    "wof:lastmodified":1537096180,
+    "wof:name":"Huilacochan",
+    "wof:parent_id":421170671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0038,
+    -8.42803,
+    -77.0038,
+    -8.42803
+],
+  "geometry": {"coordinates":[-77.0038,-8.42803],"type":"Point"}
+}

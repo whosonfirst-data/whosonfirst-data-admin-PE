@@ -1,0 +1,76 @@
+{
+  "id": 1327418545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,-13.63,-72.23333,-13.63",
+    "geom:latitude":-13.63,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80304.0",
+    "gn:asciiname":"Chinchaypujio",
+    "gn:country_code":"PE",
+    "gn:dem":3098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3943778,
+    "gn:latitude":-13.63,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chinchaypujio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinchaypuquio",
+        "Chinchaipujio",
+        "Chinchaipuquio",
+        "Chinchaypucyo",
+        "Chinchaypujio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675843,
+        421187837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3943778
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b1af4bf899a7cac36745ff3185f23ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187837,
+            "locality_id":1327418545,
+            "region_id":85675843
+        }
+    ],
+    "wof:id":1327418545,
+    "wof:lastmodified":1537676834,
+    "wof:name":"Chinchaypujio",
+    "wof:parent_id":421187837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    -13.63,
+    -72.23333000000002,
+    -13.63
+],
+  "geometry": {"coordinates":[-72.23333000000002,-13.63],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344135179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23097,-10.18681,-76.23097,-10.18681",
+    "geom:latitude":-10.18681,
+    "geom:longitude":-76.23097,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1002.0",
+    "gn:admin3_code":"100205.0",
+    "gn:asciiname":"Huasca",
+    "gn:country_code":"PE",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3962566,
+    "gn:latitude":-10.18681,
+    "gn:longitude":-76.23097,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Huasca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo Huasca",
+        "Huasca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        1108693929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3962566
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7018458640f5f613aeb2f16ab071d2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693929,
+            "locality_id":1344135179,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1344135179,
+    "wof:lastmodified":1537676884,
+    "wof:name":"Huasca",
+    "wof:parent_id":1108693929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23097,
+    -10.18681,
+    -76.23097,
+    -10.18681
+],
+  "geometry": {"coordinates":[-76.23097,-10.18681],"type":"Point"}
+}

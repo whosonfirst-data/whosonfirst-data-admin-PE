@@ -1,0 +1,69 @@
+{
+  "id": 1310565751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85101,-4.60292,-79.85101,-4.60292",
+    "geom:latitude":-4.60292,
+    "geom:longitude":-79.85101,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200205.0",
+    "gn:asciiname":"Cachuto",
+    "gn:country_code":"PE",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6660815,
+    "gn:latitude":-4.60292,
+    "gn:longitude":-79.85101,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Cachuto",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660815
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"21769eef97d4f8e89a39bed4d6fc3da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1310565751,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1310565751,
+    "wof:lastmodified":1536829168,
+    "wof:name":"Cachuto",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85101,
+    -4.60292,
+    -79.85101,
+    -4.60292
+],
+  "geometry": {"coordinates":[-79.85101,-4.60292],"type":"Point"}
+}

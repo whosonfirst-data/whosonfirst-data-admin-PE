@@ -1,0 +1,73 @@
+{
+  "id": 1277145411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.57228,-17.48709,-69.57228,-17.48709",
+    "geom:latitude":-17.48709,
+    "geom:longitude":-69.57228,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230107.0",
+    "gn:asciiname":"Sencca",
+    "gn:country_code":"PE",
+    "gn:dem":4244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928776,
+    "gn:latitude":-17.48709,
+    "gn:longitude":-69.57228,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sencca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seneca",
+        "Sencca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675861,
+        421171961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928776
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e644cfbce9db6f9914ef6a97074d9606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171961,
+            "locality_id":1277145411,
+            "region_id":85675861
+        }
+    ],
+    "wof:id":1277145411,
+    "wof:lastmodified":1537676690,
+    "wof:name":"Sencca",
+    "wof:parent_id":421171961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.57228,
+    -17.48709,
+    -69.57228,
+    -17.48709
+],
+  "geometry": {"coordinates":[-69.57228000000001,-17.48709],"type":"Point"}
+}

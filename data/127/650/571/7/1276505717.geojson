@@ -1,0 +1,69 @@
+{
+  "id": 1276505717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15,-4.46667,-80.15,-4.46667",
+    "geom:latitude":-4.46667,
+    "geom:longitude":-80.15,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"2002.0",
+    "gn:admin3_code":"200210.0",
+    "gn:asciiname":"Chivatos",
+    "gn:country_code":"PE",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3698210,
+    "gn:latitude":-4.46667,
+    "gn:longitude":-80.15,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Chivatos",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        421171561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3698210
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d76998a5e3151e6fa3ea9d1602d6f6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421171561,
+            "locality_id":1276505717,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":1276505717,
+    "wof:lastmodified":1537043453,
+    "wof:name":"Chivatos",
+    "wof:parent_id":421171561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15,
+    -4.46667,
+    -80.15,
+    -4.46667
+],
+  "geometry": {"coordinates":[-80.15000000000001,-4.46667],"type":"Point"}
+}

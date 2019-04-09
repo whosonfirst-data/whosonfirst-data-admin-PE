@@ -1,0 +1,79 @@
+{
+  "id": 421191791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6881,-8.83187,-74.6881,-8.83187",
+    "geom:latitude":-8.83187,
+    "geom:longitude":-74.6881,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ganso Azul"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3696953,
+    "qs:gn_pop":0,
+    "qs:name":"Ganzo Azul",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Hu\u00e1nuco",
+    "qs:photos":769,
+    "qs:photos_1k":156,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":769,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1156075,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":420663,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421194457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696953,
+        "gp:id":420663,
+        "qs:id":1156075
+    },
+    "wof:country":"PE",
+    "wof:created":1459009710,
+    "wof:geomhash":"93dc6db3364e3408dfb0889a75a7a722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194457,
+            "locality_id":421191791,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":421191791,
+    "wof:lastmodified":1501268708,
+    "wof:name":"Ganzo Azul",
+    "wof:parent_id":421194457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6881,
+    -8.83187,
+    -74.6881,
+    -8.83187
+],
+  "geometry": {"coordinates":[-74.68810000000001,-8.83187],"type":"Point"}
+}

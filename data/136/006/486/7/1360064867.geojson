@@ -1,0 +1,76 @@
+{
+  "id": 1360064867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39781,-11.46373,-76.39781,-11.46373",
+    "geom:latitude":-11.46373,
+    "geom:longitude":-76.39781,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Leulasha",
+    "gn:country_code":"PE",
+    "gn:dem":4575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6669362,
+    "gn:latitude":-11.46373,
+    "gn:longitude":-76.39781,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"Leulasha",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693965,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6669362
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"4e479a8dbe1eaec6505ac0902cc3bd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360064867,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693965,
+            "locality_id":1360064867,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1360064867,
+    "wof:lastmodified":1536974437,
+    "wof:name":"Leulasha",
+    "wof:parent_id":1108693965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39780999999998,
+    -11.46373,
+    -76.39780999999998,
+    -11.46373
+],
+  "geometry": {"coordinates":[-76.39780999999998,-11.46373],"type":"Point"}
+}

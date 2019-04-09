@@ -1,0 +1,71 @@
+{
+  "id": 1360049569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22085,-14.30505,-69.22085,-14.30505",
+    "geom:latitude":-14.30505,
+    "geom:longitude":-69.22085,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"2112.0",
+    "gn:asciiname":"Lulimachay",
+    "gn:country_code":"PE",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11558345,
+    "gn:latitude":-14.30505,
+    "gn:longitude":-69.22085,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Lulimachay",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lulimachay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11558345
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5b461777b296af3bc846f6a6a1566d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1360049569,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1360049569,
+    "wof:lastmodified":1537677003,
+    "wof:name":"Lulimachay",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22085,
+    -14.30505,
+    -69.22085,
+    -14.30505
+],
+  "geometry": {"coordinates":[-69.22085,-14.30505],"type":"Point"}
+}

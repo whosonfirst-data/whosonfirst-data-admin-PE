@@ -1,0 +1,75 @@
+{
+  "id": 421187109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.286361,-4.278283,-73.286361,-4.278283",
+    "geom:latitude":-4.278283,
+    "geom:longitude":-73.286361,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Atalaia do Norte",
+    "qs:name_adm0":"Brasil",
+    "qs:name_adm1":"Amazonas",
+    "qs:photos":1085,
+    "qs:photos_1k":220,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1085,
+    "qs:photos_sr":11,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1080406,
+    "qs:woe_adm0":23424768,
+    "qs:woe_id":12578174,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12578174,
+        "qs:id":1080406,
+        "wd:id":"Q1793319"
+    },
+    "wof:country":"PE",
+    "wof:created":1459009502,
+    "wof:geomhash":"745b730c3d1c8f19c96c66b25af157f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187109,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":421187109,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Atalaia do Norte",
+    "wof:parent_id":85675899,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.286361,
+    -4.278283,
+    -73.286361,
+    -4.278283
+],
+  "geometry": {"coordinates":[-73.286361,-4.278283],"type":"Point"}
+}

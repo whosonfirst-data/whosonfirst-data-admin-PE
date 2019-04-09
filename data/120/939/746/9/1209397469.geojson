@@ -1,0 +1,66 @@
+{
+  "id": 1209397469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.69427,-11.62771,-76.69427,-11.62771",
+    "geom:latitude":-11.62771,
+    "geom:longitude":-76.69427,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150402.0",
+    "gn:asciiname":"Collo",
+    "gn:country_code":"PE",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646361,
+    "gn:latitude":-11.62771,
+    "gn:longitude":-76.69427,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Collo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Collo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646361
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"dd0fba9924c3b7a93b39326afb9665dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209397469
+        }
+    ],
+    "wof:id":1209397469,
+    "wof:lastmodified":1537676914,
+    "wof:name":"Collo",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.69426999999997,
+    -11.62771,
+    -76.69426999999997,
+    -11.62771
+],
+  "geometry": {"coordinates":[-76.69426999999997,-11.62771],"type":"Point"}
+}

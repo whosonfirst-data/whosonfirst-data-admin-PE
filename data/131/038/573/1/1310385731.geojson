@@ -1,0 +1,72 @@
+{
+  "id": 1310385731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.96616,-14.96053,-74.96616,-14.96053",
+    "geom:latitude":-14.96053,
+    "geom:longitude":-74.96616,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110305.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"PE",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928998,
+    "gn:latitude":-14.96053,
+    "gn:longitude":-74.96616,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421180077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928998
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f1d583ad3fff48c407997a688cef2d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421180077,
+            "locality_id":1310385731,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1310385731,
+    "wof:lastmodified":1537676691,
+    "wof:name":"San Vicente",
+    "wof:parent_id":421180077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.96616,
+    -14.96053,
+    -74.96616,
+    -14.96053
+],
+  "geometry": {"coordinates":[-74.96616,-14.96053],"type":"Point"}
+}

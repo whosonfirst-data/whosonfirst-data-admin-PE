@@ -1,0 +1,73 @@
+{
+  "id": 1327396461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88986,-16.81104,-70.88986,-16.81104",
+    "geom:latitude":-16.81104,
+    "geom:longitude":-70.88986,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180102.0",
+    "gn:asciiname":"Pachas",
+    "gn:country_code":"PE",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3933689,
+    "gn:latitude":-16.81104,
+    "gn:longitude":-70.88986,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pachas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pachas Hacienda",
+        "Pachas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675857,
+        421193431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3933689
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"ce28fa1c159f2f9a99e101b8d67550f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421193431,
+            "locality_id":1327396461,
+            "region_id":85675857
+        }
+    ],
+    "wof:id":1327396461,
+    "wof:lastmodified":1537676741,
+    "wof:name":"Pachas",
+    "wof:parent_id":421193431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88986,
+    -16.81104,
+    -70.88986,
+    -16.81104
+],
+  "geometry": {"coordinates":[-70.88986,-16.81104],"type":"Point"}
+}

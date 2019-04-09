@@ -1,0 +1,69 @@
+{
+  "id": 1292995015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.57428,-12.22729,-74.57428,-12.22729",
+    "geom:latitude":-12.22729,
+    "geom:longitude":-74.57428,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90718.0",
+    "gn:asciiname":"Llanta Cuna",
+    "gn:country_code":"PE",
+    "gn:dem":3611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665182,
+    "gn:latitude":-12.22729,
+    "gn:longitude":-74.57428,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Llanta Cuna",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421170673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665182
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"2be07864683bf283929b78dfe25184c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421170673,
+            "locality_id":1292995015,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1292995015,
+    "wof:lastmodified":1536999283,
+    "wof:name":"Llanta Cuna",
+    "wof:parent_id":421170673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57428,
+    -12.22729,
+    -74.57428,
+    -12.22729
+],
+  "geometry": {"coordinates":[-74.57428,-12.22729],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343532939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.30343,-4.96097,-76.30343,-4.96097",
+    "geom:latitude":-4.96097,
+    "geom:longitude":-76.30343,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1607.0",
+    "gn:admin3_code":"160701.0",
+    "gn:asciiname":"Papayacu",
+    "gn:country_code":"PE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693919,
+    "gn:latitude":-4.96097,
+    "gn:longitude":-76.30343,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Papayacu",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        1108694051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693919
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"944e1de09034891f2be2b581b83398af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":1343532939,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1343532939,
+    "wof:lastmodified":1536640875,
+    "wof:name":"Papayacu",
+    "wof:parent_id":1108694051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.30343,
+    -4.96097,
+    -76.30343,
+    -4.96097
+],
+  "geometry": {"coordinates":[-76.30343000000001,-4.96097],"type":"Point"}
+}

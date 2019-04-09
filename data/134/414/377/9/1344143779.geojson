@@ -1,0 +1,73 @@
+{
+  "id": 1344143779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57086,-11.72503,-75.57086,-11.72503",
+    "geom:latitude":-11.72503,
+    "geom:longitude":-75.57086,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120432.0",
+    "gn:asciiname":"Concho",
+    "gn:country_code":"PE",
+    "gn:dem":3473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3942533,
+    "gn:latitude":-11.72503,
+    "gn:longitude":-75.57086,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Concho",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cconcho",
+        "Concho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421188715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942533
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"aea1b40f09203499a24055446a6e95c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188715,
+            "locality_id":1344143779,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1344143779,
+    "wof:lastmodified":1537676823,
+    "wof:name":"Concho",
+    "wof:parent_id":421188715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57086,
+    -11.72503,
+    -75.57086,
+    -11.72503
+],
+  "geometry": {"coordinates":[-75.57086,-11.72503],"type":"Point"}
+}

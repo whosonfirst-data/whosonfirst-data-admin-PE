@@ -1,0 +1,76 @@
+{
+  "id": 1327411145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.11534,-13.50358,-76.11534,-13.50358",
+    "geom:latitude":-13.50358,
+    "geom:longitude":-76.11534,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110205.0",
+    "gn:asciiname":"Hacienda San Aurelio",
+    "gn:country_code":"PE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929807,
+    "gn:latitude":-13.50358,
+    "gn:longitude":-76.11534,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hacienda San Aurelio",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda San Aurelio"
+    ],
+    "name:und_x_variant":[
+        "San Aurelio Hacienda",
+        "San Aurelio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929807
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"45fba989e812fbdd014c6fb2eecea760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1327411145,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1327411145,
+    "wof:lastmodified":1537676705,
+    "wof:name":"Hacienda San Aurelio",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.11534,
+    -13.50358,
+    -76.11534,
+    -13.50358
+],
+  "geometry": {"coordinates":[-76.11534,-13.50358],"type":"Point"}
+}

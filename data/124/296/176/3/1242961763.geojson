@@ -1,0 +1,69 @@
+{
+  "id": 1242961763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52818,-9.96773,-76.52818,-9.96773",
+    "geom:latitude":-9.96773,
+    "geom:longitude":-76.52818,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100105.0",
+    "gn:asciiname":"Gasgo",
+    "gn:country_code":"PE",
+    "gn:dem":3856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3696935,
+    "gn:latitude":-9.96773,
+    "gn:longitude":-76.52818,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Gasgo",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675875,
+        421185313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3696935
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"f4f814855f18d91d45d3b2604f6538be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185313,
+            "locality_id":1242961763,
+            "region_id":85675875
+        }
+    ],
+    "wof:id":1242961763,
+    "wof:lastmodified":1537006641,
+    "wof:name":"Gasgo",
+    "wof:parent_id":421185313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52818,
+    -9.96773,
+    -76.52818,
+    -9.96773
+],
+  "geometry": {"coordinates":[-76.52818000000001,-9.96773],"type":"Point"}
+}

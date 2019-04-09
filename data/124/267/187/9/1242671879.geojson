@@ -1,0 +1,69 @@
+{
+  "id": 1242671879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.70743,-13.23819,-74.70743,-13.23819",
+    "geom:latitude":-13.23819,
+    "geom:longitude":-74.70743,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"903.0",
+    "gn:admin3_code":"90301.0",
+    "gn:asciiname":"Ingahuasi",
+    "gn:country_code":"PE",
+    "gn:dem":4401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8679556,
+    "gn:latitude":-13.23819,
+    "gn:longitude":-74.70743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ingahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421188721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8679556
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"77f161dff9df01ce2c20fdfc5f201c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421188721,
+            "locality_id":1242671879,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1242671879,
+    "wof:lastmodified":1536928713,
+    "wof:name":"Ingahuasi",
+    "wof:parent_id":421188721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.70743,
+    -13.23819,
+    -74.70743,
+    -13.23819
+],
+  "geometry": {"coordinates":[-74.70743,-13.23819],"type":"Point"}
+}

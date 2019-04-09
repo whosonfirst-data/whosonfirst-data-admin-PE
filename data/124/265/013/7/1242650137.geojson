@@ -1,0 +1,77 @@
+{
+  "id": 1242650137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.72223,-10.64935,-77.72223,-10.64935",
+    "geom:latitude":-10.64935,
+    "geom:longitude":-77.72223,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"1502.0",
+    "gn:admin3_code":"150203.0",
+    "gn:asciiname":"Caraqueno",
+    "gn:country_code":"PE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3945546,
+    "gn:latitude":-10.64935,
+    "gn:longitude":-77.72223,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Caraque\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675909,
+        1108693959,
+        85675925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3945546
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"99d4f9cbfca6058643144ee83adfaf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1242650137,
+            "region_id":85675909
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693959,
+            "locality_id":1242650137,
+            "region_id":85675925
+        }
+    ],
+    "wof:id":1242650137,
+    "wof:lastmodified":1536959425,
+    "wof:name":"Caraqueno",
+    "wof:parent_id":1108693959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.72223000000002,
+    -10.64935,
+    -77.72223000000002,
+    -10.64935
+],
+  "geometry": {"coordinates":[-77.72223000000002,-10.64935],"type":"Point"}
+}

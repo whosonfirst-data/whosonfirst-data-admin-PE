@@ -1,0 +1,74 @@
+{
+  "id": 1343519959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78333,-6.41667,-75.78333,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":-75.78333,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"2209.0",
+    "gn:admin3_code":"220907.0",
+    "gn:asciiname":"Quillucaca",
+    "gn:cc2":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3693026,
+    "gn:latitude":-6.41667,
+    "gn:longitude":-75.78333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Quillucaca",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quillacaca",
+        "Quillucaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        421175177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693026
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c7b76fecf0c375f5e96c34e9330702bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175177,
+            "locality_id":1343519959,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":1343519959,
+    "wof:lastmodified":1537676559,
+    "wof:name":"Quillucaca",
+    "wof:parent_id":421175177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78333,
+    -6.41667,
+    -75.78333,
+    -6.41667
+],
+  "geometry": {"coordinates":[-75.78333000000001,-6.41667],"type":"Point"}
+}

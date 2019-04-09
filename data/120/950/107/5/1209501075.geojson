@@ -1,0 +1,68 @@
+{
+  "id": 1209501075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.67917,-8.54306,-78.67917,-8.54306",
+    "geom:latitude":-8.54306,
+    "geom:longitude":-78.67917,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1312.0",
+    "gn:admin3_code":"131202.0",
+    "gn:asciiname":"Chao",
+    "gn:country_code":"PE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3693292,
+    "gn:latitude":-8.54306,
+    "gn:longitude":-78.67917,
+    "gn:modification_date":"2018-04-27",
+    "gn:name":"Chao",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puente de Chao",
+        "Chao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3693292,
+        "wk:page":"Chao,_Vir%C3%BA"
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"5484182094d5774b4ac16e269c349a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209501075
+        }
+    ],
+    "wof:id":1209501075,
+    "wof:lastmodified":1537676565,
+    "wof:name":"Chao",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.67917,
+    -8.54306,
+    -78.67917,
+    -8.54306
+],
+  "geometry": {"coordinates":[-78.67917,-8.54306],"type":"Point"}
+}

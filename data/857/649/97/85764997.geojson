@@ -1,0 +1,137 @@
+{
+  "id": 85764997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1563139.100553,
+    "geom:bbox":"-77.098861,-12.053767,-77.098861,-12.053767",
+    "geom:latitude":-12.053767,
+    "geom:longitude":-77.098861,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-12.06667,
+    "gn:longitude":-77.1,
+    "iso:country":"PE",
+    "lbl:latitude":-12.053767,
+    "lbl:longitude":-77.098861,
+    "mps:latitude":-12.055437,
+    "mps:longitude":-77.096561,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Concha"
+    ],
+    "name:spa_x_variant":[
+        "Concha Hacienda"
+    ],
+    "name:unk_x_variant":[
+        "Concha",
+        "Concha Hacienda"
+    ],
+    "qs:gn_adm0_cc":"PE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3936456,
+    "qs:gn_nam_loc":"Lima",
+    "qs:gn_namadm1":"15",
+    "qs:gn_name":"Concha",
+    "qs:local_max":11098,
+    "qs:local_sum":45985,
+    "qs:localhoods":37,
+    "qs:name":"Concha",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Lima Metropolitan Area",
+    "qs:name_adm2":"Lima",
+    "qs:name_local":"Lima",
+    "qs:photo_max":28,
+    "qs:photo_sum":36,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424919,
+    "qs:woe_adm1":28358302,
+    "qs:woe_adm2":26805880,
+    "qs:woe_lau":0,
+    "qs:woe_local":418440,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3942544,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Concha",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Lima Metropolitan Area",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":423406,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":401361,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675817,
+        102191577,
+        85632521,
+        421187933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3942544,
+        "gp:id":401361,
+        "qs:id":423406,
+        "qs_pg:id":423406
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"e5a7fc69a2551e68bedcb573fb9a8aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187933,
+            "locality_id":-1,
+            "neighbourhood_id":85764997,
+            "region_id":85675817
+        }
+    ],
+    "wof:id":85764997,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379397,
+    "wof:name":"Concha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126069243
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.098861,
+    -12.053767,
+    -77.098861,
+    -12.053767
+],
+  "geometry": {"coordinates":[-77.098861,-12.053767],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1126086713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08678,-12.07067,-77.08678,-12.07067",
+    "geom:latitude":-12.07067,
+    "geom:longitude":-77.08678,
+    "gn:gn_country":"PE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-12.07067,
+    "gn:longitude":-77.08678,
+    "iso:country":"PE",
+    "lbl:latitude":-12.07067,
+    "lbl:longitude":-77.08678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "San Miguel"
+    ],
+    "name:spa_x_variant":[
+        "S. Miguel",
+        "S Miguel"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel"
+    ],
+    "qs_pg:aaroncc":"PE",
+    "qs_pg:gn_country":"PE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3929395,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Miguel",
+    "qs_pg:name_adm0":"Per\u00fa",
+    "qs_pg:name_adm1":"Lima Metropolitan Area",
+    "qs_pg:photos":470,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":470,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":300673,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424919,
+    "qs_pg:woe_id":414311,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424919,
+    "woe:name_adm0":"Per\u00fa",
+    "woe:name_adm1":"Lima Metropolitan Area",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675909,
+        102191577,
+        85632521,
+        421202549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3929395,
+        "gp:id":414311,
+        "qs:id":300673,
+        "qs_pg:id":300673
+    },
+    "wof:country":"PE",
+    "wof:created":1497312918,
+    "wof:geomhash":"93a351c93d5c9fb509e04c29fab6ab76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421202549,
+            "locality_id":-1,
+            "neighbourhood_id":1126086713,
+            "region_id":85675909
+        }
+    ],
+    "wof:id":1126086713,
+    "wof:lastmodified":1534379398,
+    "wof:name":"San Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85765035
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08678,
+    -12.07067,
+    -77.08678,
+    -12.07067
+],
+  "geometry": {"coordinates":[-77.08678,-12.07067],"type":"Point"}
+}

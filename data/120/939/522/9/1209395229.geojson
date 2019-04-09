@@ -1,0 +1,67 @@
+{
+  "id": 1209395229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.03123,-13.69044,-76.03123,-13.69044",
+    "geom:latitude":-13.69044,
+    "geom:longitude":-76.03123,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110504.0",
+    "gn:asciiname":"Manrique",
+    "gn:country_code":"PE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3935434,
+    "gn:latitude":-13.69044,
+    "gn:longitude":-76.03123,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Manrique",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Manrique",
+        "Manrique"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3935434
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"adabe5b4ee2ce086bc74f7abb658ed27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209395229
+        }
+    ],
+    "wof:id":1209395229,
+    "wof:lastmodified":1537676758,
+    "wof:name":"Manrique",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.03123000000002,
+    -13.69044,
+    -76.03123000000002,
+    -13.69044
+],
+  "geometry": {"coordinates":[-76.03123000000002,-13.69044],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421179539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54392,-14.21848,-75.54392,-14.21848",
+    "geom:latitude":-14.21848,
+    "geom:longitude":-75.54392,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Tingue"
+    ],
+    "qs:gn_country":"PE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3927457,
+    "qs:gn_pop":490,
+    "qs:name":"Ting\u00fce",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Ica",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":150942,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":419778,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3927457,
+        "gp:id":419778,
+        "qs:id":150942
+    },
+    "wof:country":"PE",
+    "wof:created":1459009224,
+    "wof:geomhash":"fa85032fcd5c9eff343bbcaa129642dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":421179539,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":421179539,
+    "wof:lastmodified":1505340643,
+    "wof:name":"Ting\u00fce",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54392,
+    -14.21848,
+    -75.54392,
+    -14.21848
+],
+  "geometry": {"coordinates":[-75.54392,-14.21848],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276551949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.27713,-12.73132,-74.27713,-12.73132",
+    "geom:latitude":-12.73132,
+    "geom:longitude":-74.27713,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50406.0",
+    "gn:asciiname":"Antapallpa",
+    "gn:country_code":"PE",
+    "gn:dem":3729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650285,
+    "gn:latitude":-12.73132,
+    "gn:longitude":-74.27713,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Antapallpa",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675903,
+        421194081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650285
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"49df0d11a1dd6b9b83139656bd518030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421194081,
+            "locality_id":1276551949,
+            "region_id":85675903
+        }
+    ],
+    "wof:id":1276551949,
+    "wof:lastmodified":1536982350,
+    "wof:name":"Antapallpa",
+    "wof:parent_id":421194081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.27713,
+    -12.73132,
+    -74.27713,
+    -12.73132
+],
+  "geometry": {"coordinates":[-74.27713,-12.73132],"type":"Point"}
+}

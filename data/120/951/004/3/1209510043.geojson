@@ -1,0 +1,63 @@
+{
+  "id": 1209510043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95392,-9.04082,-76.95392,-9.04082",
+    "geom:latitude":-9.04082,
+    "geom:longitude":-76.95392,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100401.0",
+    "gn:asciiname":"Huacarbamba",
+    "gn:country_code":"PE",
+    "gn:dem":3077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675699,
+    "gn:latitude":-9.04082,
+    "gn:longitude":-76.95392,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Huacarbamba",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675699
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"92d7a8c56b2ba28524848411fc2d7b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209510043
+        }
+    ],
+    "wof:id":1209510043,
+    "wof:lastmodified":1536284910,
+    "wof:name":"Huacarbamba",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95392,
+    -9.04082,
+    -76.95392,
+    -9.04082
+],
+  "geometry": {"coordinates":[-76.95392,-9.04082],"type":"Point"}
+}

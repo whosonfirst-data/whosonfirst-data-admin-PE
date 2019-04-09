@@ -1,0 +1,69 @@
+{
+  "id": 1277164235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91495,-11.73094,-75.91495,-11.73094",
+    "geom:latitude":-11.73094,
+    "geom:longitude":-75.91495,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120803.0",
+    "gn:asciiname":"Huayhuay Pata",
+    "gn:country_code":"PE",
+    "gn:dem":4221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6671179,
+    "gn:latitude":-11.73094,
+    "gn:longitude":-75.91495,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huayhuay Pata",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421182239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6671179
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b3c767482ee4984f28ebf517c3b6ddef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182239,
+            "locality_id":1277164235,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":1277164235,
+    "wof:lastmodified":1536649993,
+    "wof:name":"Huayhuay Pata",
+    "wof:parent_id":421182239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91495,
+    -11.73094,
+    -75.91495,
+    -11.73094
+],
+  "geometry": {"coordinates":[-75.91495,-11.73094],"type":"Point"}
+}

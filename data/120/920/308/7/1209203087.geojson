@@ -1,0 +1,63 @@
+{
+  "id": 1209203087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.62386,-9.48745,-76.62386,-9.48745",
+    "geom:latitude":-9.48745,
+    "geom:longitude":-76.62386,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100504.0",
+    "gn:asciiname":"Iscaycorral",
+    "gn:country_code":"PE",
+    "gn:dem":4082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675583,
+    "gn:latitude":-9.48745,
+    "gn:longitude":-76.62386,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Iscaycorral",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675583
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"c56de44f11835e968ae3559b7ed84c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209203087
+        }
+    ],
+    "wof:id":1209203087,
+    "wof:lastmodified":1536294543,
+    "wof:name":"Iscaycorral",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.62386,
+    -9.48745,
+    -76.62386,
+    -9.48745
+],
+  "geometry": {"coordinates":[-76.62385999999999,-9.48745],"type":"Point"}
+}

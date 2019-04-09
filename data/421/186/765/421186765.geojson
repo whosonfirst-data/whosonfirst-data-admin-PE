@@ -1,0 +1,79 @@
+{
+  "id": 421186765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.542968,-16.396565,-71.542968,-16.396565",
+    "geom:latitude":-16.396565,
+    "geom:longitude":-71.542968,
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caima"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cayma",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Arequipa",
+    "qs:photos":233,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":233,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075954,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":398888,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        421198069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3946301,
+        "gp:id":398888,
+        "qs:id":1075954
+    },
+    "wof:country":"PE",
+    "wof:created":1459009491,
+    "wof:geomhash":"b62f562d5816d3cc352cdfbb309fb743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":421186765,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":421186765,
+    "wof:lastmodified":1501269455,
+    "wof:name":"Cayma",
+    "wof:parent_id":421198069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.542968,
+    -16.396565,
+    -71.542968,
+    -16.396565
+],
+  "geometry": {"coordinates":[-71.542968,-16.396565],"type":"Point"}
+}

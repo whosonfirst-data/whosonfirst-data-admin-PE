@@ -1,0 +1,72 @@
+{
+  "id": 1226015265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51563,-6.74106,-79.51563,-6.74106",
+    "geom:latitude":-6.74106,
+    "geom:longitude":-79.51563,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1401.0",
+    "gn:admin3_code":"140117.0",
+    "gn:asciiname":"Desaguadero",
+    "gn:country_code":"PE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3697509,
+    "gn:latitude":-6.74106,
+    "gn:longitude":-79.51563,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Desaguadero",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Desaguadero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421185309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3697509
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"6d059fd163b2e88cce5c4ea8bf0cbd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421185309,
+            "locality_id":1226015265,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1226015265,
+    "wof:lastmodified":1537676618,
+    "wof:name":"Desaguadero",
+    "wof:parent_id":421185309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51563,
+    -6.74106,
+    -79.51563,
+    -6.74106
+],
+  "geometry": {"coordinates":[-79.51563,-6.74106],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226126417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36667,-12.7,-75.36667,-12.7",
+    "geom:latitude":-12.7,
+    "geom:longitude":-75.36667,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90102.0",
+    "gn:asciiname":"Huactachuclia",
+    "gn:country_code":"PE",
+    "gn:dem":4198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3939943,
+    "gn:latitude":-12.7,
+    "gn:longitude":-75.36667,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Huactachuclia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675911,
+        421175167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3939943
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"b1a2a89e5d56cbca1767f0534e6ebe71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175167,
+            "locality_id":1226126417,
+            "region_id":85675911
+        }
+    ],
+    "wof:id":1226126417,
+    "wof:lastmodified":1536605809,
+    "wof:name":"Huactachuclia",
+    "wof:parent_id":421175167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36667,
+    -12.7,
+    -75.36667,
+    -12.7
+],
+  "geometry": {"coordinates":[-75.36667,-12.7],"type":"Point"}
+}

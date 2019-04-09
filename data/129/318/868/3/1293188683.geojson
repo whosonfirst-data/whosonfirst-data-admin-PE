@@ -1,0 +1,72 @@
+{
+  "id": 1293188683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71315,-14.19219,-75.71315,-14.19219",
+    "geom:latitude":-14.19219,
+    "geom:longitude":-75.71315,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110111.0",
+    "gn:asciiname":"Huerta",
+    "gn:country_code":"PE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003700,
+    "gn:latitude":-14.19219,
+    "gn:longitude":-75.71315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Huerta",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huerta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        421182363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003700
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"536ae8fb0b901f7ed21857b215cd7323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182363,
+            "locality_id":1293188683,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1293188683,
+    "wof:lastmodified":1537676954,
+    "wof:name":"Huerta",
+    "wof:parent_id":421182363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71315,
+    -14.19219,
+    -75.71315,
+    -14.19219
+],
+  "geometry": {"coordinates":[-75.71315,-14.19219],"type":"Point"}
+}

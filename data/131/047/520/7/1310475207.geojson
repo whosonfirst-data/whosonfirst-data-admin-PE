@@ -1,0 +1,72 @@
+{
+  "id": 1310475207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84861,-6.51838,-79.84861,-6.51838",
+    "geom:latitude":-6.51838,
+    "geom:longitude":-79.84861,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1403.0",
+    "gn:admin3_code":"140312.0",
+    "gn:asciiname":"Nancolan",
+    "gn:country_code":"PE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3694482,
+    "gn:latitude":-6.51838,
+    "gn:longitude":-79.84861,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Nancolan",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nancolan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675821,
+        421187855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3694482
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"7f31e9f7e442eb53d9a6300d17c3d324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421187855,
+            "locality_id":1310475207,
+            "region_id":85675821
+        }
+    ],
+    "wof:id":1310475207,
+    "wof:lastmodified":1537676580,
+    "wof:name":"Nancolan",
+    "wof:parent_id":421187855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84861,
+    -6.51838,
+    -79.84861,
+    -6.51838
+],
+  "geometry": {"coordinates":[-79.84860999999999,-6.51838],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209721337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20284,-15.51212,-73.20284,-15.51212",
+    "geom:latitude":-15.51212,
+    "geom:longitude":-73.20284,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40608.0",
+    "gn:asciiname":"Hacienda Cocharcas",
+    "gn:country_code":"PE",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3940514,
+    "gn:latitude":-15.51212,
+    "gn:longitude":-73.20284,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hacienda Cocharcas",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675839,
+        1108694027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3940514
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"77d7ddc5093ba8ecb47e54b9bca262a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694027,
+            "locality_id":1209721337,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":1209721337,
+    "wof:lastmodified":1536386236,
+    "wof:name":"Hacienda Cocharcas",
+    "wof:parent_id":1108694027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20284000000002,
+    -15.51212,
+    -73.20284000000002,
+    -15.51212
+],
+  "geometry": {"coordinates":[-73.20284000000002,-15.51212],"type":"Point"}
+}

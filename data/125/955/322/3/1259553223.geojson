@@ -1,0 +1,71 @@
+{
+  "id": 1259553223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93138,-13.02428,-75.93138,-13.02428",
+    "geom:latitude":-13.02428,
+    "geom:longitude":-75.93138,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Socosnia",
+    "gn:country_code":"PE",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928512,
+    "gn:latitude":-13.02428,
+    "gn:longitude":-75.93138,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Socosnia",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Socosnia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675915,
+        1108694021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928512
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"d4248678b6141784d6ebceceaeebe04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108694021,
+            "locality_id":1259553223,
+            "region_id":85675915
+        }
+    ],
+    "wof:id":1259553223,
+    "wof:lastmodified":1537676688,
+    "wof:name":"Socosnia",
+    "wof:parent_id":1108694021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93138,
+    -13.02428,
+    -75.93138,
+    -13.02428
+],
+  "geometry": {"coordinates":[-75.93138,-13.02428],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209209383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23333,-12.5,-75.23333,-12.5",
+    "geom:latitude":-12.5,
+    "geom:longitude":-75.23333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90116.0",
+    "gn:asciiname":"Shulla",
+    "gn:country_code":"PE",
+    "gn:dem":4047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3928708,
+    "gn:latitude":-12.5,
+    "gn:longitude":-75.23333,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Shulla",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"PE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3928708
+    },
+    "wof:country":"PE",
+    "wof:geomhash":"3c67dd259ea6961c6069ef13a90cf628",
+    "wof:hierarchy":[
+        {
+            "country_id":85632521,
+            "locality_id":1209209383
+        }
+    ],
+    "wof:id":1209209383,
+    "wof:lastmodified":1536294341,
+    "wof:name":"Shulla",
+    "wof:parent_id":85632521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23333000000002,
+    -12.5,
+    -75.23333000000002,
+    -12.5
+],
+  "geometry": {"coordinates":[-75.23333000000002,-12.5],"type":"Point"}
+}
