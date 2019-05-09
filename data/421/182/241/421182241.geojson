@@ -10,6 +10,15 @@
     "geom:latitude":-2.571534,
     "geom:longitude":-73.481772,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Maynas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Maynas"
+    ],
     "lbl:latitude":-2.690076,
     "lbl:longitude":-74.000903,
     "meso:admin_1":"Loreto",
@@ -48,6 +57,9 @@
         "Maynas Province"
     ],
     "name:fre_x_preferred":[
+        "Maynas"
+    ],
+    "name:fre_x_variant":[
         "province de Maynas"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +84,9 @@
         "\u041c\u0430\u0439\u043d\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Maynas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Maynas"
     ],
     "name:unk_x_variant":[
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421182241,
-    "wof:lastmodified":1536615981,
+    "wof:lastmodified":1555047504,
     "wof:name":"Maynas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

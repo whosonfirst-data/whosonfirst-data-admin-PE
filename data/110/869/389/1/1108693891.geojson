@@ -10,6 +10,12 @@
     "geom:latitude":-12.199731,
     "geom:longitude":-70.049495,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tambopata Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-12.557831,
     "lbl:longitude":-69.42926,
     "meso:admin_1":"Madre De Dios",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693891,
-    "wof:lastmodified":1536615341,
+    "wof:lastmodified":1553718254,
     "wof:name":"Tambopata",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

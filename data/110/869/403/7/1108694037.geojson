@@ -10,6 +10,15 @@
     "geom:latitude":-12.093988,
     "geom:longitude":-75.065022,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huancayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huancayo"
+    ],
     "lbl:latitude":-11.957663,
     "lbl:longitude":-75.156269,
     "meso:admin_1":"Jun\u00edn",
@@ -44,6 +53,9 @@
         "Huancayo Province"
     ],
     "name:fre_x_preferred":[
+        "Huancayo"
+    ],
+    "name:fre_x_variant":[
         "province de Huancayo"
     ],
     "name:geo_x_preferred":[
@@ -68,6 +80,9 @@
         "\u0423\u0430\u043d\u043a\u0430\u0439\u043e"
     ],
     "name:spa_x_preferred":[
+        "Huancayo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huancayo"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":1108694037,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1555047515,
     "wof:name":"Huancayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

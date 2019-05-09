@@ -10,6 +10,15 @@
     "geom:latitude":-11.028646,
     "geom:longitude":-75.129842,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chanchamayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chanchamayo"
+    ],
     "lbl:latitude":-11.04947,
     "lbl:longitude":-75.137785,
     "meso:admin_1":"Jun\u00edn",
@@ -48,6 +57,9 @@
         "Chanchamayo Province"
     ],
     "name:fre_x_preferred":[
+        "Chanchamayo"
+    ],
+    "name:fre_x_variant":[
         "province de Chanchamayo"
     ],
     "name:geo_x_preferred":[
@@ -81,6 +93,9 @@
         "\u0427\u0430\u043d\u0447\u0430\u043c\u0430\u0439\u043e"
     ],
     "name:spa_x_preferred":[
+        "Chanchamayo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chanchamayo"
     ],
     "name:vie_x_preferred":[
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":421187849,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1555047506,
     "wof:name":"Chanchamayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

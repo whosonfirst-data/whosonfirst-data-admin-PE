@@ -10,6 +10,12 @@
     "geom:latitude":-10.5155,
     "geom:longitude":-77.032547,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cajatambo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.528418,
     "lbl:longitude":-77.013894,
     "meso:admin_1":"Lima",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108693949,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1553718253,
     "wof:name":"Cajatambo",
     "wof:parent_id":-1,
     "wof:placetype":"county",

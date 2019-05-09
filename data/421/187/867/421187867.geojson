@@ -10,6 +10,12 @@
     "geom:latitude":-9.201438,
     "geom:longitude":-77.742954,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Yungay Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.13573,
     "lbl:longitude":-77.689861,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187867,
-    "wof:lastmodified":1536616041,
+    "wof:lastmodified":1553717454,
     "wof:name":"Yungay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

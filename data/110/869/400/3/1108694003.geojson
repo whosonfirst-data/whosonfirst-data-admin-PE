@@ -10,6 +10,12 @@
     "geom:latitude":-10.498989,
     "geom:longitude":-77.429666,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ocros Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.507944,
     "lbl:longitude":-77.449599,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694003,
-    "wof:lastmodified":1536615348,
+    "wof:lastmodified":1553718255,
     "wof:name":"Ocros",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

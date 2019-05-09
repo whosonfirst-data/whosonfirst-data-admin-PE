@@ -10,6 +10,12 @@
     "geom:latitude":-10.373108,
     "geom:longitude":-71.58239,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pur\u00fas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.488746,
     "lbl:longitude":-71.680063,
     "meso:admin_1":"Ucayali",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693893,
-    "wof:lastmodified":1536615342,
+    "wof:lastmodified":1553718253,
     "wof:name":"Pur\u00fas",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-14.940144,
     "geom:longitude":-75.078849,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Nazca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nasca"
+    ],
     "lbl:latitude":-14.943909,
     "lbl:longitude":-75.072443,
     "meso:admin_1":"Ica",
@@ -51,6 +60,9 @@
         "Provincia de Nazca"
     ],
     "name:fre_x_preferred":[
+        "Nazca"
+    ],
+    "name:fre_x_variant":[
         "province de Nazca"
     ],
     "name:geo_x_preferred":[
@@ -87,6 +99,9 @@
         "Provincia Nazca"
     ],
     "name:spa_x_preferred":[
+        "Nasca"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nasca"
     ],
     "name:unk_x_variant":[
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":421180077,
-    "wof:lastmodified":1536615965,
+    "wof:lastmodified":1555047503,
     "wof:name":"Nazca",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

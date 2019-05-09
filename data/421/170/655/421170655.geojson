@@ -10,6 +10,12 @@
     "geom:latitude":-13.733222,
     "geom:longitude":-72.834363,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Abancay Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.743374,
     "lbl:longitude":-72.828567,
     "meso:admin_1":"Apur\u00edmac",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421170655,
-    "wof:lastmodified":1536615914,
+    "wof:lastmodified":1553717318,
     "wof:name":"Abancay",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

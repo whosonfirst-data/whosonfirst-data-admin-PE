@@ -10,6 +10,15 @@
     "geom:latitude":-10.758847,
     "geom:longitude":-76.876549,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Oy\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Oy\u00f3n"
+    ],
     "lbl:latitude":-10.749159,
     "lbl:longitude":-76.796104,
     "meso:admin_1":"Lima",
@@ -44,6 +53,9 @@
         "Oy\u00f3n Province"
     ],
     "name:fre_x_preferred":[
+        "Oy\u00f3n"
+    ],
+    "name:fre_x_variant":[
         "province d'Oy\u00f3n"
     ],
     "name:geo_x_preferred":[
@@ -68,6 +80,9 @@
         "\u041e\u0439\u043e\u043d"
     ],
     "name:spa_x_preferred":[
+        "Oy\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Oy\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1108693951,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1555047514,
     "wof:name":"Oy\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"county",

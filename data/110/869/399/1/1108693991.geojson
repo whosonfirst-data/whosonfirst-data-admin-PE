@@ -10,6 +10,12 @@
     "geom:latitude":-7.282883,
     "geom:longitude":-78.060862,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Marcos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-7.275086,
     "lbl:longitude":-78.064626,
     "meso:admin_1":"Cajamarca",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693991,
-    "wof:lastmodified":1536615347,
+    "wof:lastmodified":1553718257,
     "wof:name":"San Marcos",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

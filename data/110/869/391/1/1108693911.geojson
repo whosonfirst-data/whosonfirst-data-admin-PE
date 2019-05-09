@@ -10,6 +10,15 @@
     "geom:latitude":-10.508668,
     "geom:longitude":-76.482387,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Daniel Alcides Carri\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Daniel Alcides Carri\u00f3n"
+    ],
     "lbl:latitude":-10.520079,
     "lbl:longitude":-76.499182,
     "meso:admin_1":"Pasco",
@@ -44,6 +53,9 @@
         "Daniel Alcides Carri\u00f3n Province"
     ],
     "name:fre_x_preferred":[
+        "Daniel Alcides Carri\u00f3n"
+    ],
+    "name:fre_x_variant":[
         "province de Daniel Alcides Carri\u00f3n"
     ],
     "name:geo_x_preferred":[
@@ -62,6 +74,9 @@
         "Daniel Alcides Carri\u00f3n pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Daniel Alcides Carri\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Daniel Alcides Carri\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108693911,
-    "wof:lastmodified":1536615343,
+    "wof:lastmodified":1555047512,
     "wof:name":"Daniel Alcides Carri\u00f3n",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

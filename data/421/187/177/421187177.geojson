@@ -10,6 +10,15 @@
     "geom:latitude":-4.486109,
     "geom:longitude":-81.080719,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Talara Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Talara"
+    ],
     "lbl:latitude":-4.469461,
     "lbl:longitude":-81.085517,
     "meso:admin_1":"Piura",
@@ -45,6 +54,9 @@
         "Talara Province"
     ],
     "name:fre_x_preferred":[
+        "Talara"
+    ],
+    "name:fre_x_variant":[
         "province de Talara"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "Talara pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Talara"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Talara"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":421187177,
-    "wof:lastmodified":1536616037,
+    "wof:lastmodified":1555047506,
     "wof:name":"Talara",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-9.384167,
     "geom:longitude":-76.60214,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huamal\u00edes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huamal\u00edes"
+    ],
     "lbl:latitude":-9.378958,
     "lbl:longitude":-76.594923,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -44,6 +53,9 @@
         "Huamal\u00edes Province"
     ],
     "name:fre_x_preferred":[
+        "Huamal\u00edes"
+    ],
+    "name:fre_x_variant":[
         "province de Huamal\u00edes"
     ],
     "name:geo_x_preferred":[
@@ -59,6 +71,9 @@
         "Wamali pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Huamal\u00edes"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huamal\u00edes"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":1108693923,
-    "wof:lastmodified":1536615344,
+    "wof:lastmodified":1555047513,
     "wof:name":"Huamal\u00edes",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

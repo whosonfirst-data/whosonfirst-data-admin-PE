@@ -10,6 +10,12 @@
     "geom:latitude":-10.228577,
     "geom:longitude":-76.233534,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ambo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.210513,
     "lbl:longitude":-76.208995,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693929,
-    "wof:lastmodified":1536615344,
+    "wof:lastmodified":1553718251,
     "wof:name":"Ambo",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

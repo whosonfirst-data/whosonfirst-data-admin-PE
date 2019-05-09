@@ -10,6 +10,12 @@
     "geom:latitude":-14.616317,
     "geom:longitude":-74.34606,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Lucanas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.62347,
     "lbl:longitude":-74.291275,
     "meso:admin_1":"Ayacucho",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421193433,
-    "wof:lastmodified":1536616107,
+    "wof:lastmodified":1553717520,
     "wof:name":"Lucanas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

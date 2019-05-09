@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.576913,
-    "geom:area_square_m":6870765386.470471,
+    "geom:area_square_m":6870765386.47348,
     "geom:bbox":"-73.2615351562,-16.4610761719,-71.893890625,-14.6328066406",
     "geom:latitude":-15.598116,
     "geom:longitude":-72.731342,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Condesuyos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Condesuyos"
+    ],
     "lbl:latitude":-15.778057,
     "lbl:longitude":-72.910761,
     "meso:admin_1":"Arequipa",
@@ -44,6 +53,9 @@
         "Condesuyos Province"
     ],
     "name:fre_x_preferred":[
+        "Condesuyos"
+    ],
+    "name:fre_x_variant":[
         "province de Condesuyos"
     ],
     "name:geo_x_preferred":[
@@ -71,6 +83,9 @@
         "\u041a\u043e\u043d\u0434\u0435\u0441\u0443\u0439\u043e\u0441"
     ],
     "name:spa_x_preferred":[
+        "Condesuyos"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Condesuyos"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":1108694027,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555047515,
     "wof:name":"Condesuyos",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

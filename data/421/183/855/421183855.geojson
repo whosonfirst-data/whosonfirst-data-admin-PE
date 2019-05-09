@@ -10,6 +10,12 @@
     "geom:latitude":-12.792479,
     "geom:longitude":-74.583015,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Acobamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-12.729029,
     "lbl:longitude":-74.681839,
     "meso:admin_1":"Huancavelica",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421183855,
-    "wof:lastmodified":1536616014,
+    "wof:lastmodified":1553717418,
     "wof:name":"Acobamba",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

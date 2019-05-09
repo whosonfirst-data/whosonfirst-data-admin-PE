@@ -10,6 +10,15 @@
     "geom:latitude":-10.200651,
     "geom:longitude":-76.703776,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Lauricocha Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Lauricocha"
+    ],
     "lbl:latitude":-10.243559,
     "lbl:longitude":-76.707113,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -48,6 +57,9 @@
         "Lauricocha Province"
     ],
     "name:fre_x_preferred":[
+        "Lauricocha"
+    ],
+    "name:fre_x_variant":[
         "province de Lauricocha"
     ],
     "name:geo_x_preferred":[
@@ -146,7 +158,7 @@
         }
     ],
     "wof:id":421181301,
-    "wof:lastmodified":1536615968,
+    "wof:lastmodified":1555047503,
     "wof:name":"Lauricocha",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

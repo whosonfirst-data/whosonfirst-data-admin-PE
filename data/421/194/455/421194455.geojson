@@ -10,6 +10,12 @@
     "geom:latitude":-7.427562,
     "geom:longitude":-79.425292,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pacasmayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-7.446307,
     "lbl:longitude":-79.428421,
     "meso:admin_1":"La Libertad",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421194455,
-    "wof:lastmodified":1536616115,
+    "wof:lastmodified":1553717530,
     "wof:name":"Pacasmayo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

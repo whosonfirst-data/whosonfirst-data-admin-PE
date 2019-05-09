@@ -10,6 +10,15 @@
     "geom:latitude":-4.582316,
     "geom:longitude":-80.637718,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Sullana Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sullana"
+    ],
     "lbl:latitude":-4.585459,
     "lbl:longitude":-80.643354,
     "meso:admin_1":"Piura",
@@ -44,6 +53,9 @@
         "Sullana Province"
     ],
     "name:fre_x_preferred":[
+        "Sullana"
+    ],
+    "name:fre_x_variant":[
         "province de Sullana"
     ],
     "name:geo_x_preferred":[
@@ -62,6 +74,9 @@
         "Sullana pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Sullana"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sullana"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108693969,
-    "wof:lastmodified":1536615346,
+    "wof:lastmodified":1555047514,
     "wof:name":"Sullana",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

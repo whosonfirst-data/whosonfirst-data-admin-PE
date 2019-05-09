@@ -10,6 +10,12 @@
     "geom:latitude":-13.469999,
     "geom:longitude":-73.672275,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chincheros Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.471793,
     "lbl:longitude":-73.672276,
     "meso:admin_1":"Apur\u00edmac",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421194079,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1553717526,
     "wof:name":"Chincheros",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

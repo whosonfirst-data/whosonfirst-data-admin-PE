@@ -10,6 +10,12 @@
     "geom:latitude":-6.275692,
     "geom:longitude":-76.417985,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Lamas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-6.21759,
     "lbl:longitude":-76.533042,
     "meso:admin_1":"San Mart\u00edn",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694057,
-    "wof:lastmodified":1536615352,
+    "wof:lastmodified":1553718264,
     "wof:name":"Lamas",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

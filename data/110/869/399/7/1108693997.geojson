@@ -10,6 +10,15 @@
     "geom:latitude":-6.558576,
     "geom:longitude":-76.741386,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "El Dorado Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de El Dorado"
+    ],
     "lbl:latitude":-6.557118,
     "lbl:longitude":-76.737999,
     "meso:admin_1":"San Mart\u00edn",
@@ -44,6 +53,9 @@
         "El Dorado Province"
     ],
     "name:fre_x_preferred":[
+        "El Dorado"
+    ],
+    "name:fre_x_variant":[
         "province d'El Dorado"
     ],
     "name:geo_x_preferred":[
@@ -62,6 +74,9 @@
         "Qurisapa pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "El Dorado"
+    ],
+    "name:spa_x_variant":[
         "Provincia de El Dorado"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108693997,
-    "wof:lastmodified":1536615348,
+    "wof:lastmodified":1555047515,
     "wof:name":"El Dorado",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

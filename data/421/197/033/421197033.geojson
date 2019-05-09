@@ -10,6 +10,12 @@
     "geom:latitude":-14.370752,
     "geom:longitude":-75.174304,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Palpa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.279578,
     "lbl:longitude":-75.157986,
     "meso:admin_1":"Ica",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421197033,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1553717539,
     "wof:name":"Palpa",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

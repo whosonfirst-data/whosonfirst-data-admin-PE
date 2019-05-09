@@ -10,6 +10,15 @@
     "geom:latitude":-13.271229,
     "geom:longitude":-74.230146,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huamanga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huamanga"
+    ],
     "lbl:latitude":-13.229525,
     "lbl:longitude":-74.194436,
     "meso:admin_1":"Ayacucho",
@@ -45,6 +54,9 @@
         "Huamanga Province"
     ],
     "name:fre_x_preferred":[
+        "Huamanga"
+    ],
+    "name:fre_x_variant":[
         "province de Huamanga"
     ],
     "name:geo_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":421185311,
-    "wof:lastmodified":1536616028,
+    "wof:lastmodified":1555047506,
     "wof:name":"Huamanga",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

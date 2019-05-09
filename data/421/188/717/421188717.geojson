@@ -10,6 +10,15 @@
     "geom:latitude":-7.840145,
     "geom:longitude":-78.556568,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Otuzco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Otuzco"
+    ],
     "lbl:latitude":-7.871172,
     "lbl:longitude":-78.551517,
     "meso:admin_1":"La Libertad",
@@ -48,6 +57,9 @@
         "Provinco Otuzco"
     ],
     "name:fre_x_preferred":[
+        "Otuzco"
+    ],
+    "name:fre_x_variant":[
         "province d'Otuzco"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +78,9 @@
         "Utusku pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Otuzco"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Otuzco"
     ],
     "name:unk_x_variant":[
@@ -141,7 +156,7 @@
         }
     ],
     "wof:id":421188717,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1555047507,
     "wof:name":"Otuzco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

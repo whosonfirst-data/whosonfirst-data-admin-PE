@@ -10,6 +10,12 @@
     "geom:latitude":-9.484968,
     "geom:longitude":-78.186245,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Casma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.493996,
     "lbl:longitude":-78.191329,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694019,
-    "wof:lastmodified":1536615349,
+    "wof:lastmodified":1553718256,
     "wof:name":"Casma",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

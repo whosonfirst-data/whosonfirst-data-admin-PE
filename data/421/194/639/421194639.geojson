@@ -10,6 +10,12 @@
     "geom:latitude":-13.884525,
     "geom:longitude":-71.9161,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Paruro Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.814035,
     "lbl:longitude":-71.966931,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421194639,
-    "wof:lastmodified":1536616115,
+    "wof:lastmodified":1553717530,
     "wof:name":"Paruro",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

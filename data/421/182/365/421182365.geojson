@@ -10,6 +10,12 @@
     "geom:latitude":-16.960874,
     "geom:longitude":-71.720858,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Islay Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-16.972832,
     "lbl:longitude":-71.714002,
     "meso:admin_1":"Arequipa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421182365,
-    "wof:lastmodified":1536615985,
+    "wof:lastmodified":1553717385,
     "wof:name":"Islay",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

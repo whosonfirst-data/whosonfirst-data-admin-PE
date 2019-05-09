@@ -10,6 +10,12 @@
     "geom:latitude":-7.074808,
     "geom:longitude":-78.749318,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Pablo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-7.109598,
     "lbl:longitude":-78.778481,
     "meso:admin_1":"Cajamarca",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693981,
-    "wof:lastmodified":1536615347,
+    "wof:lastmodified":1553718255,
     "wof:name":"San Pablo",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

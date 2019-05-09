@@ -10,6 +10,15 @@
     "geom:latitude":-4.130357,
     "geom:longitude":-76.985832,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Alto Amazonas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Alto Amazonas"
+    ],
     "lbl:latitude":-4.154863,
     "lbl:longitude":-76.970207,
     "meso:admin_1":"Loreto",
@@ -37,13 +46,18 @@
         "Alto Amazonas"
     ],
     "name:eng_x_preferred":[
-        "Alto Amazonas Province"
+        "Alto Amazonas"
     ],
     "name:eng_x_variant":[
         "Datem del Maranon",
+        "Alto Amazonas",
         "Alto Amazonas"
     ],
     "name:fre_x_preferred":[
+        "province d'Alto Amazonas"
+    ],
+    "name:fre_x_variant":[
+        "province d'Alto Amazonas",
         "province d'Alto Amazonas"
     ],
     "name:geo_x_preferred":[
@@ -68,6 +82,10 @@
         "\u0410\u043b\u044c\u0442\u043e-\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Provincia de Alto Amazonas"
+    ],
+    "name:spa_x_variant":[
+        "Provincia de Alto Amazonas",
         "Provincia de Alto Amazonas"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":1108694051,
-    "wof:lastmodified":1536615351,
+    "wof:lastmodified":1555092041,
     "wof:name":"Datem Del Mara\u00f1\u00f3n",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

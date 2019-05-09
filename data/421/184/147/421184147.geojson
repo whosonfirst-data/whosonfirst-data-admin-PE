@@ -10,6 +10,15 @@
     "geom:latitude":-11.034886,
     "geom:longitude":-75.928789,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Jun\u00edn Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jun\u00edn"
+    ],
     "lbl:latitude":-11.036925,
     "lbl:longitude":-75.990787,
     "meso:admin_1":"Jun\u00edn",
@@ -37,6 +46,9 @@
     "name:fra_x_preferred":[
         "Province de Jun\u00edn"
     ],
+    "name:fre_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Jun\u00edn"
     ],
@@ -59,6 +71,9 @@
         "Sunin pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Jun\u00edn"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421184147,
-    "wof:lastmodified":1536616017,
+    "wof:lastmodified":1555047505,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

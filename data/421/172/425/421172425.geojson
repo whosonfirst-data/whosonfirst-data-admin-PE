@@ -10,6 +10,12 @@
     "geom:latitude":-13.551424,
     "geom:longitude":-71.981656,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cusco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.536859,
     "lbl:longitude":-71.978845,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421172425,
-    "wof:lastmodified":1536615939,
+    "wof:lastmodified":1553717339,
     "wof:name":"Cusco",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

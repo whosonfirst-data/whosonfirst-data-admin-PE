@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411364,
-    "geom:area_square_m":4911726766.19486,
+    "geom:area_square_m":4911726766.193972,
     "geom:bbox":"-73.2939765625,-15.5723652344,-72.3019335937,-14.6440605469",
     "geom:latitude":-15.065511,
     "geom:longitude":-72.804108,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "La Uni\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de La Uni\u00f3n"
+    ],
     "lbl:latitude":-15.022147,
     "lbl:longitude":-72.755465,
     "meso:admin_1":"Arequipa",
@@ -44,6 +53,9 @@
         "La Uni\u00f3n Province"
     ],
     "name:fre_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "name:fre_x_variant":[
         "province de La Uni\u00f3n"
     ],
     "name:geo_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1108694023,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555047515,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

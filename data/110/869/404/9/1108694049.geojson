@@ -10,6 +10,15 @@
     "geom:latitude":-4.165664,
     "geom:longitude":-78.035827,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Condorcanqui Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Condorcanqui"
+    ],
     "lbl:latitude":-4.160148,
     "lbl:longitude":-78.0447,
     "meso:admin_1":"San Mart\u00edn",
@@ -44,6 +53,9 @@
         "Condorcanqui Province"
     ],
     "name:fre_x_preferred":[
+        "Condorcanqui"
+    ],
+    "name:fre_x_variant":[
         "province de Condorcanqui"
     ],
     "name:geo_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1108694049,
-    "wof:lastmodified":1536615351,
+    "wof:lastmodified":1555047516,
     "wof:name":"Condorcanqui",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

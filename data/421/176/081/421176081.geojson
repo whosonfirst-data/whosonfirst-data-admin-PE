@@ -10,6 +10,15 @@
     "geom:latitude":-9.657864,
     "geom:longitude":-76.622493,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Dos De Mayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Dos de Mayo"
+    ],
     "lbl:latitude":-9.6126,
     "lbl:longitude":-76.616908,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -45,6 +54,9 @@
         "Dos de Mayo Province"
     ],
     "name:fre_x_preferred":[
+        "Dos de Mayo"
+    ],
+    "name:fre_x_variant":[
         "province de Dos de Mayo"
     ],
     "name:geo_x_preferred":[
@@ -60,6 +72,9 @@
         "Mayukillap Iskaynin pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Dos de Mayo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Dos de Mayo"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":421176081,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1555047502,
     "wof:name":"Dos De Mayo",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

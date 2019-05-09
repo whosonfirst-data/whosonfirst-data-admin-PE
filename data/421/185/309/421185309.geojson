@@ -10,6 +10,15 @@
     "geom:latitude":-6.80566,
     "geom:longitude":-79.550413,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chiclayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chiclayo"
+    ],
     "lbl:latitude":-6.776652,
     "lbl:longitude":-79.476105,
     "meso:admin_1":"Lambayeque",
@@ -48,6 +57,9 @@
         "Provinco Chiclayo"
     ],
     "name:fre_x_preferred":[
+        "Chiclayo"
+    ],
+    "name:fre_x_variant":[
         "province de Chiclayo"
     ],
     "name:geo_x_preferred":[
@@ -75,6 +87,9 @@
         "\u0427\u0438\u043a\u043b\u0430\u0439\u043e"
     ],
     "name:spa_x_preferred":[
+        "Chiclayo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chiclayo"
     ],
     "name:unk_x_variant":[
@@ -150,7 +165,7 @@
         }
     ],
     "wof:id":421185309,
-    "wof:lastmodified":1536616028,
+    "wof:lastmodified":1555047506,
     "wof:name":"Chiclayo",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

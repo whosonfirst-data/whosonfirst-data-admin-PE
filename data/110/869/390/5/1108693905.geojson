@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178185,
-    "geom:area_square_m":2137264605.831207,
+    "geom:area_square_m":2137264605.831353,
     "geom:bbox":"-72.90234375,-14.3620214844,-72.3494101562,-13.7302597656",
     "geom:latitude":-14.061156,
     "geom:longitude":-72.622472,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Grau Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Grau"
+    ],
     "lbl:latitude":-14.065915,
     "lbl:longitude":-72.618249,
     "meso:admin_1":"Apur\u00edmac",
@@ -44,6 +53,9 @@
         "Grau Province"
     ],
     "name:fre_x_preferred":[
+        "Grau"
+    ],
+    "name:fre_x_variant":[
         "province de Grau"
     ],
     "name:geo_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1108693905,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555047512,
     "wof:name":"Grau",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

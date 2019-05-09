@@ -10,6 +10,15 @@
     "geom:latitude":-8.142388,
     "geom:longitude":-77.323824,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pataz Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pataz"
+    ],
     "lbl:latitude":-8.258391,
     "lbl:longitude":-77.263499,
     "meso:admin_1":"La Libertad",
@@ -48,6 +57,9 @@
         "Provinco Pat\u00e1z"
     ],
     "name:fre_x_preferred":[
+        "Pataz"
+    ],
+    "name:fre_x_variant":[
         "province de Pataz"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "Patas pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Pataz"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Pataz"
     ],
     "name:unk_x_variant":[
@@ -138,7 +153,7 @@
         }
     ],
     "wof:id":421172463,
-    "wof:lastmodified":1536615942,
+    "wof:lastmodified":1555047501,
     "wof:name":"Pataz",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

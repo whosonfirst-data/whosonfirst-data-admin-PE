@@ -10,6 +10,15 @@
     "geom:latitude":-10.050615,
     "geom:longitude":-75.889693,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pachitea Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pachitea"
+    ],
     "lbl:latitude":-10.02885,
     "lbl:longitude":-75.871309,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -45,6 +54,9 @@
         "Pachitea Province"
     ],
     "name:fre_x_preferred":[
+        "Pachitea"
+    ],
+    "name:fre_x_variant":[
         "province de Pachitea"
     ],
     "name:geo_x_preferred":[
@@ -60,6 +72,9 @@
         "Pachitiya pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Pachitea"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Pachitea"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":421197577,
-    "wof:lastmodified":1536616124,
+    "wof:lastmodified":1555047510,
     "wof:name":"Pachitea",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-7.579728,
     "geom:longitude":-78.647636,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Gran Chim\u00fa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Gran Chim\u00fa"
+    ],
     "lbl:latitude":-7.628315,
     "lbl:longitude":-78.668767,
     "meso:admin_1":"La Libertad",
@@ -47,6 +56,9 @@
         "Provinco Gran Chim\u00fa"
     ],
     "name:fre_x_preferred":[
+        "Gran Chim\u00fa"
+    ],
+    "name:fre_x_variant":[
         "province de Gran Chim\u00fa"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +77,9 @@
         "Hatun Chimu pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Gran Chim\u00fa"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Gran Chim\u00fa"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108693887,
-    "wof:lastmodified":1536615341,
+    "wof:lastmodified":1555047511,
     "wof:name":"Gran Chim\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

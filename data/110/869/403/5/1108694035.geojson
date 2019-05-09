@@ -10,6 +10,12 @@
     "geom:latitude":-11.765539,
     "geom:longitude":-75.129926,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Concepci\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.676816,
     "lbl:longitude":-75.055981,
     "meso:admin_1":"Jun\u00edn",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694035,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1553718261,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

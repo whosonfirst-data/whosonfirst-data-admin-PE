@@ -10,6 +10,15 @@
     "geom:latitude":-12.242928,
     "geom:longitude":-74.769131,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tayacaja Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Tayacaja"
+    ],
     "lbl:latitude":-12.263267,
     "lbl:longitude":-74.801388,
     "meso:admin_1":"Huancavelica",
@@ -45,6 +54,9 @@
         "Tayacaja Province"
     ],
     "name:fre_x_preferred":[
+        "Tayacaja"
+    ],
+    "name:fre_x_variant":[
         "province de Tayacaja"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "\u0422\u0430\u044f\u043a\u0430\u0445\u0430"
     ],
     "name:spa_x_preferred":[
+        "Tayacaja"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Tayacaja"
     ],
     "name:unk_x_variant":[
@@ -138,7 +153,7 @@
         }
     ],
     "wof:id":421170673,
-    "wof:lastmodified":1536615915,
+    "wof:lastmodified":1555047500,
     "wof:name":"Tayacaja",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

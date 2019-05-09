@@ -10,6 +10,12 @@
     "geom:latitude":-15.335348,
     "geom:longitude":-69.379982,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Moho Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-15.336169,
     "lbl:longitude":-69.363111,
     "meso:admin_1":"Puno",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421171963,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1553717334,
     "wof:name":"Moho",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

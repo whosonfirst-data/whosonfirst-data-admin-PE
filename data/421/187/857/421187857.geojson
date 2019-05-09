@@ -10,6 +10,12 @@
     "geom:latitude":-15.387115,
     "geom:longitude":-70.639869,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Lampa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-15.453541,
     "lbl:longitude":-70.683626,
     "meso:admin_1":"Puno",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187857,
-    "wof:lastmodified":1536616041,
+    "wof:lastmodified":1553717454,
     "wof:name":"Lampa",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

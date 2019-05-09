@@ -10,6 +10,15 @@
     "geom:latitude":-7.273809,
     "geom:longitude":-77.182611,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Mariscal C\u00e1ceres Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mariscal C\u00e1ceres"
+    ],
     "lbl:latitude":-7.341864,
     "lbl:longitude":-77.182571,
     "meso:admin_1":"San Mart\u00edn",
@@ -44,6 +53,9 @@
         "Mariscal C\u00e1ceres Province"
     ],
     "name:fre_x_preferred":[
+        "Mariscal C\u00e1ceres"
+    ],
+    "name:fre_x_variant":[
         "province de Mariscal C\u00e1ceres"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +77,9 @@
         "\u041c\u0430\u0440\u0438\u0441\u043a\u0430\u043b\u044c-\u041a\u0430\u0441\u0435\u0440\u0435\u0441"
     ],
     "name:spa_x_preferred":[
+        "Mariscal C\u00e1ceres"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mariscal C\u00e1ceres"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108694041,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1555047515,
     "wof:name":"Mariscal C\u00e1ceres",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

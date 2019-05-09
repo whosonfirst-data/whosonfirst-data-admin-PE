@@ -10,6 +10,12 @@
     "geom:latitude":-5.061769,
     "geom:longitude":-81.005301,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Paita Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-5.104086,
     "lbl:longitude":-80.963026,
     "meso:admin_1":"Piura",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693973,
-    "wof:lastmodified":1536615346,
+    "wof:lastmodified":1553718259,
     "wof:name":"Paita",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.926565,
     "geom:longitude":-71.700147,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Mariscal Ram\u00f3n Castilla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-3.904244,
     "lbl:longitude":-71.675744,
     "meso:admin_1":"Loreto",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421175219,
-    "wof:lastmodified":1536615949,
+    "wof:lastmodified":1553717363,
     "wof:name":"Mariscal Ram\u00f3n Castilla",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

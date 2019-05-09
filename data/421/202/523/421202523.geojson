@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.58303,
-    "geom:area_square_m":6943396790.685486,
+    "geom:area_square_m":6943396790.685581,
     "geom:bbox":"-72.7230917969,-16.4305390625,-71.9012460937,-14.8373261719",
     "geom:latitude":-15.604359,
     "geom:longitude":-72.323413,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Castilla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Castilla"
+    ],
     "lbl:latitude":-15.413352,
     "lbl:longitude":-72.215204,
     "meso:admin_1":"Arequipa",
@@ -45,6 +54,9 @@
         "Castilla Province"
     ],
     "name:fre_x_preferred":[
+        "Castilla"
+    ],
+    "name:fre_x_variant":[
         "province de Castilla"
     ],
     "name:geo_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":421202523,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1555047510,
     "wof:name":"Castilla",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

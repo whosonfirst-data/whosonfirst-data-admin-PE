@@ -10,6 +10,12 @@
     "geom:latitude":-17.57615,
     "geom:longitude":-71.210881,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ilo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-17.612555,
     "lbl:longitude":-71.191002,
     "meso:admin_1":"Moquegua",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421185587,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717440,
     "wof:name":"Ilo",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-15.121081,
     "geom:longitude":-69.607648,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huancan\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huancan\u00e9"
+    ],
     "lbl:latitude":-15.088793,
     "lbl:longitude":-69.532104,
     "meso:admin_1":"Puno",
@@ -37,6 +46,9 @@
     "name:fra_x_preferred":[
         "Province de Huancan\u00e9"
     ],
+    "name:fre_x_preferred":[
+        "Huancan\u00e9"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Huancan\u00e9"
     ],
@@ -56,6 +68,9 @@
         "\u0423\u0430\u043d\u043a\u0430\u043d\u0435"
     ],
     "name:spa_x_preferred":[
+        "Huancan\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huancan\u00e9"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1536616014,
+    "wof:lastmodified":1555047505,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

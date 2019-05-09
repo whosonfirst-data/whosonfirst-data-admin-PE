@@ -10,6 +10,12 @@
     "geom:latitude":-6.901117,
     "geom:longitude":-76.255475,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Picota Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-6.916572,
     "lbl:longitude":-76.255439,
     "meso:admin_1":"San Mart\u00edn",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693999,
-    "wof:lastmodified":1536615348,
+    "wof:lastmodified":1553718256,
     "wof:name":"Picota",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-14.083084,
     "geom:longitude":-71.126541,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Canchis Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Canchis"
+    ],
     "lbl:latitude":-14.087995,
     "lbl:longitude":-71.133499,
     "meso:admin_1":"Cusco",
@@ -45,6 +54,9 @@
         "Canchis Province"
     ],
     "name:fre_x_preferred":[
+        "Canchis"
+    ],
+    "name:fre_x_variant":[
         "province de Canchis"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +81,9 @@
         "\u041a\u0430\u043d\u0447\u0438\u0441"
     ],
     "name:spa_x_preferred":[
+        "Canchis"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Canchis"
     ],
     "name:unk_x_variant":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421187843,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1555047506,
     "wof:name":"Canchis",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-8.720775,
     "geom:longitude":-77.435841,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pomabamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.656552,
     "lbl:longitude":-77.393687,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694015,
-    "wof:lastmodified":1536615349,
+    "wof:lastmodified":1553718258,
     "wof:name":"Pomabamba",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

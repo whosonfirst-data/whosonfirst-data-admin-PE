@@ -10,6 +10,12 @@
     "geom:latitude":-17.413945,
     "geom:longitude":-69.971585,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tarata Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-17.401447,
     "lbl:longitude":-69.978281,
     "meso:admin_1":"Tacna",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694033,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1553718260,
     "wof:name":"Tarata",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-11.15141,
     "geom:longitude":-70.328372,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tahuamanu Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.337822,
     "lbl:longitude":-69.903239,
     "meso:admin_1":"Madre De Dios",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693889,
-    "wof:lastmodified":1536615341,
+    "wof:lastmodified":1553718257,
     "wof:name":"Tahuamanu",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

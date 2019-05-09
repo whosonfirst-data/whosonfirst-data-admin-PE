@@ -10,6 +10,15 @@
     "geom:latitude":-6.757703,
     "geom:longitude":-76.900955,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huallaga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huallaga"
+    ],
     "lbl:latitude":-6.74211,
     "lbl:longitude":-76.90596,
     "meso:admin_1":"San Mart\u00edn",
@@ -44,6 +53,9 @@
         "Huallaga Province"
     ],
     "name:fre_x_preferred":[
+        "Huallaga"
+    ],
+    "name:fre_x_variant":[
         "province de Huallaga"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +77,9 @@
         "Wallaqa pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Huallaga"
+    ],
+    "name:spa_x_variant":[
         "Provincia del Huallaga"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108693995,
-    "wof:lastmodified":1536615348,
+    "wof:lastmodified":1555047514,
     "wof:name":"Huallaga",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

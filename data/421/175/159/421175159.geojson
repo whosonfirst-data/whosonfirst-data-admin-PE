@@ -10,6 +10,15 @@
     "geom:latitude":-16.403134,
     "geom:longitude":-72.804252,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Caman\u00e1 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Caman\u00e1"
+    ],
     "lbl:latitude":-16.289822,
     "lbl:longitude":-73.006533,
     "meso:admin_1":"Arequipa",
@@ -35,6 +44,9 @@
         "Caman\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Caman\u00e1"
+    ],
+    "name:fre_x_preferred":[
         "Caman\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":421175159,
-    "wof:lastmodified":1536615947,
+    "wof:lastmodified":1555047501,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

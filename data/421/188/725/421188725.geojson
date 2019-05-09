@@ -10,6 +10,15 @@
     "geom:latitude":-7.279962,
     "geom:longitude":-77.73944,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Bol\u00edvar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bol\u00edvar"
+    ],
     "lbl:latitude":-7.269962,
     "lbl:longitude":-77.743439,
     "meso:admin_1":"La Libertad",
@@ -40,6 +49,9 @@
     "name:fra_x_preferred":[
         "Province de Bol\u00edvar"
     ],
+    "name:fre_x_preferred":[
+        "Bol\u00edvar"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Bol\u00edvar"
     ],
@@ -59,6 +71,9 @@
         "Bol\u00edvar pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Bol\u00edvar"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bol\u00edvar"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421188725,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1555047508,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

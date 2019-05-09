@@ -10,6 +10,12 @@
     "geom:latitude":-13.828168,
     "geom:longitude":-73.392918,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Andahuaylas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.761219,
     "lbl:longitude":-73.432051,
     "meso:admin_1":"Apur\u00edmac",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421170339,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1553717313,
     "wof:name":"Andahuaylas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

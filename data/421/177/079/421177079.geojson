@@ -10,6 +10,15 @@
     "geom:latitude":-7.789545,
     "geom:longitude":-77.905825,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "S\u00e1nchez Carri\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de S\u00e1nchez Carri\u00f3n"
+    ],
     "lbl:latitude":-7.815449,
     "lbl:longitude":-77.867136,
     "meso:admin_1":"La Libertad",
@@ -54,6 +63,9 @@
         "Province de S\u00e1nchez Carri\u00f3n"
     ],
     "name:fre_x_preferred":[
+        "S\u00e1nchez Carri\u00f3n"
+    ],
+    "name:fre_x_variant":[
         "province de S\u00e1nchez Carri\u00f3n"
     ],
     "name:geo_x_preferred":[
@@ -78,6 +90,9 @@
         "\u0421\u0430\u043d\u0447\u0435\u0441 \u041a\u0430\u0440\u0440\u0438\u043e\u043d"
     ],
     "name:spa_x_preferred":[
+        "S\u00e1nchez Carri\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de S\u00e1nchez Carri\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":421177079,
-    "wof:lastmodified":1536615957,
+    "wof:lastmodified":1555047503,
     "wof:name":"S\u00e1nchez Carri\u00f3n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

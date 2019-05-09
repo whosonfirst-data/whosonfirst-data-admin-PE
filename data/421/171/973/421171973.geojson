@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060215,
-    "geom:area_square_m":735664283.344677,
+    "geom:area_square_m":735664283.344546,
     "geom:bbox":"-77.5620800781,-9.00686328125,-77.1607597656,-8.70304882812",
     "geom:latitude":-8.870217,
     "geom:longitude":-77.340456,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Mariscal Luzuriaga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mariscal Luzuriaga"
+    ],
     "lbl:latitude":-8.847347,
     "lbl:longitude":-77.293426,
     "meso:admin_1":"Ancash",
@@ -51,6 +60,9 @@
         "Province de Mariscal Luzuriaga"
     ],
     "name:fre_x_preferred":[
+        "Mariscal Luzuriaga"
+    ],
+    "name:fre_x_variant":[
         "province de Mariscal Luzuriaga"
     ],
     "name:geo_x_preferred":[
@@ -93,6 +105,9 @@
         "\u041c\u0430\u0440\u0438\u0441\u043a\u0430\u043b\u044c-\u041b\u0443\u0441\u0443\u0440\u044c\u044f\u0433\u0430"
     ],
     "name:spa_x_preferred":[
+        "Mariscal Luzuriaga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mariscal Luzuriaga"
     ],
     "name:vie_x_preferred":[
@@ -170,7 +185,7 @@
         }
     ],
     "wof:id":421171973,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555047501,
     "wof:name":"Mariscal Luzuriaga",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

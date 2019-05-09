@@ -10,6 +10,12 @@
     "geom:latitude":-8.484534,
     "geom:longitude":-77.585434,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Sihuas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.471376,
     "lbl:longitude":-77.570686,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694013,
-    "wof:lastmodified":1536615349,
+    "wof:lastmodified":1553718255,
     "wof:name":"Sihuas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

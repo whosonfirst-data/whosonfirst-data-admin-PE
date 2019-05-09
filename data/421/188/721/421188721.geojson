@@ -10,6 +10,15 @@
     "geom:latitude":-13.046557,
     "geom:longitude":-74.626516,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Angaraes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Angaraes"
+    ],
     "lbl:latitude":-13.052351,
     "lbl:longitude":-74.63133,
     "meso:admin_1":"Huancavelica",
@@ -45,6 +54,9 @@
         "Angaraes Province"
     ],
     "name:fre_x_preferred":[
+        "Angaraes"
+    ],
+    "name:fre_x_variant":[
         "province d'Angaraes"
     ],
     "name:geo_x_preferred":[
@@ -60,6 +72,9 @@
         "Anqara pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Angaraes"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Angaraes"
     ],
     "name:unk_x_variant":[
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":421188721,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1555047507,
     "wof:name":"Angaraes",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

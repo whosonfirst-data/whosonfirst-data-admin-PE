@@ -10,6 +10,15 @@
     "geom:latitude":-16.458818,
     "geom:longitude":-70.831346,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Gral. S\u00e1nchez Cerro Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de General S\u00e1nchez Cerro"
+    ],
     "lbl:latitude":-16.297661,
     "lbl:longitude":-70.598507,
     "meso:admin_1":"Moquegua",
@@ -37,6 +46,9 @@
     "name:fra_x_preferred":[
         "Province General S\u00e1nchez Cerro"
     ],
+    "name:fre_x_preferred":[
+        "General S\u00e1nchez Cerro"
+    ],
     "name:ita_x_preferred":[
         "Provincia di General S\u00e1nchez Cerro"
     ],
@@ -56,6 +68,9 @@
         "General S\u00e1nchez Cerro pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "General S\u00e1nchez Cerro"
+    ],
+    "name:spa_x_variant":[
         "Provincia de General S\u00e1nchez Cerro"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421171959,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1555047500,
     "wof:name":"Gral. S\u00e1nchez Cerro",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407239,
-    "geom:area_square_m":4977341313.736182,
+    "geom:area_square_m":4977341313.736217,
     "geom:bbox":"-77.3168183594,-9.05149609375,-76.1909335937,-8.41059765625",
     "geom:latitude":-8.72193,
     "geom:longitude":-76.691551,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Mara\u00f1\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mara\u00f1\u00f3n"
+    ],
     "lbl:latitude":-8.73066,
     "lbl:longitude":-76.606438,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -44,6 +53,9 @@
         "Mara\u00f1\u00f3n Province"
     ],
     "name:fre_x_preferred":[
+        "Mara\u00f1\u00f3n"
+    ],
+    "name:fre_x_variant":[
         "province de Mara\u00f1\u00f3n"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +77,9 @@
         "Mara\u00f1un pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Mara\u00f1\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mara\u00f1\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108693927,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555047513,
     "wof:name":"Mara\u00f1\u00f3n",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

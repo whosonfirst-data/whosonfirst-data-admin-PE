@@ -10,6 +10,12 @@
     "geom:latitude":-17.114197,
     "geom:longitude":-70.302336,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Candarave Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-17.162262,
     "lbl:longitude":-70.285321,
     "meso:admin_1":"Tacna",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694031,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1553718258,
     "wof:name":"Candarave",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

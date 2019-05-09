@@ -10,6 +10,12 @@
     "geom:latitude":-4.714318,
     "geom:longitude":-79.813518,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ayabaca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-4.729586,
     "lbl:longitude":-79.768929,
     "meso:admin_1":"Piura",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421171561,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1553717334,
     "wof:name":"Ayabaca",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

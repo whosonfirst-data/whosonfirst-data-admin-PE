@@ -10,6 +10,12 @@
     "geom:latitude":-7.197702,
     "geom:longitude":-78.469531,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cajamarca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-7.167226,
     "lbl:longitude":-78.441935,
     "meso:admin_1":"Cajamarca",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421172423,
-    "wof:lastmodified":1536615939,
+    "wof:lastmodified":1553717340,
     "wof:name":"Cajamarca",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

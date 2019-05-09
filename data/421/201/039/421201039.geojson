@@ -10,6 +10,12 @@
     "geom:latitude":-8.79775,
     "geom:longitude":-75.440449,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Padre Abad Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.813648,
     "lbl:longitude":-75.449773,
     "meso:admin_1":"Ucayali",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421201039,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1553717554,
     "wof:name":"Padre Abad",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

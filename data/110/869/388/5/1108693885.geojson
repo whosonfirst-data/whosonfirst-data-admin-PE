@@ -10,6 +10,15 @@
     "geom:latitude":-8.175933,
     "geom:longitude":-78.139315,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Santiago De Chuco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Santiago de Chuco"
+    ],
     "lbl:latitude":-8.134301,
     "lbl:longitude":-78.145237,
     "meso:admin_1":"La Libertad",
@@ -47,6 +56,9 @@
         "Provinco Santiago de Chuco"
     ],
     "name:fre_x_preferred":[
+        "Santiago de Chuco"
+    ],
+    "name:fre_x_variant":[
         "province de Santiago de Chuco"
     ],
     "name:geo_x_preferred":[
@@ -62,6 +74,9 @@
         "Santiago Chuku pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Santiago de Chuco"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Santiago de Chuco"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108693885,
-    "wof:lastmodified":1536615341,
+    "wof:lastmodified":1555047511,
     "wof:name":"Santiago De Chuco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

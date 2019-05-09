@@ -10,6 +10,15 @@
     "geom:latitude":-5.125029,
     "geom:longitude":-78.944936,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Ignacio Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de San Ignacio"
+    ],
     "lbl:latitude":-5.221867,
     "lbl:longitude":-78.938956,
     "meso:admin_1":"Cajamarca",
@@ -45,6 +54,9 @@
         "San Ignacio Province"
     ],
     "name:fre_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fre_x_variant":[
         "province de San Ignacio"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +78,9 @@
         "Provincia San Ignacio"
     ],
     "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:spa_x_variant":[
         "Provincia de San Ignacio"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":421177057,
-    "wof:lastmodified":1536615956,
+    "wof:lastmodified":1555047503,
     "wof:name":"San Ignacio",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

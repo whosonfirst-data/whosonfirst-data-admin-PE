@@ -10,6 +10,12 @@
     "geom:latitude":-14.596689,
     "geom:longitude":-70.686258,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Melgar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.601992,
     "lbl:longitude":-70.692737,
     "meso:admin_1":"Puno",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187861,
-    "wof:lastmodified":1536616041,
+    "wof:lastmodified":1553717454,
     "wof:name":"Melgar",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

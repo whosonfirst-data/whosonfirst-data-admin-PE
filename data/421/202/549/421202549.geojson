@@ -10,6 +10,12 @@
     "geom:latitude":-12.017922,
     "geom:longitude":-76.904206,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Lima Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-12.106357,
     "lbl:longitude":-76.875732,
     "meso:admin_1":"Lima",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202549,
-    "wof:lastmodified":1536616147,
+    "wof:lastmodified":1553717563,
     "wof:name":"Lima",
     "wof:parent_id":85675909,
     "wof:placetype":"county",

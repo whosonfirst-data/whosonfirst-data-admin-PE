@@ -10,6 +10,15 @@
     "geom:latitude":-12.207769,
     "geom:longitude":-75.432889,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chupaca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chupaca"
+    ],
     "lbl:latitude":-12.205334,
     "lbl:longitude":-75.411607,
     "meso:admin_1":"Jun\u00edn",
@@ -45,6 +54,9 @@
         "Chupaca Region"
     ],
     "name:fre_x_preferred":[
+        "Chupaca"
+    ],
+    "name:fre_x_variant":[
         "province de Chupaca"
     ],
     "name:geo_x_preferred":[
@@ -146,7 +158,7 @@
         }
     ],
     "wof:id":421188283,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1555047507,
     "wof:name":"Chupaca",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051551,
-    "geom:area_square_m":629506734.808807,
+    "geom:area_square_m":629506734.808733,
     "geom:bbox":"-77.366515625,-9.20858203125,-77.1030195312,-8.89590039062",
     "geom:latitude":-9.044349,
     "geom:longitude":-77.242469,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Carlos F. Fitzcarrald Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Carlos Ferm\u00edn Fitzcarrald"
+    ],
     "lbl:latitude":-9.047106,
     "lbl:longitude":-77.253091,
     "meso:admin_1":"Ancash",
@@ -44,6 +53,9 @@
         "Carlos Ferm\u00edn Fitzcarrald Province"
     ],
     "name:fre_x_preferred":[
+        "Carlos Ferm\u00edn Fitzcarrald"
+    ],
+    "name:fre_x_variant":[
         "province de Carlos Ferm\u00edn Fitzcarrald"
     ],
     "name:geo_x_preferred":[
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1108694005,
-    "wof:lastmodified":1553816462,
+    "wof:lastmodified":1555047515,
     "wof:name":"Carlos F. Fitzcarrald",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

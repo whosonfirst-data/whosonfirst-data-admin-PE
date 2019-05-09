@@ -10,6 +10,15 @@
     "geom:latitude":-15.704292,
     "geom:longitude":-70.425414,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Rom\u00e1n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de San Rom\u00e1n"
+    ],
     "lbl:latitude":-15.86425,
     "lbl:longitude":-70.588281,
     "meso:admin_1":"Puno",
@@ -45,6 +54,9 @@
         "San Rom\u00e1n Province"
     ],
     "name:fre_x_preferred":[
+        "San Rom\u00e1n"
+    ],
+    "name:fre_x_variant":[
         "province de San Rom\u00e1n"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "\u0421\u0430\u043d-\u0420\u043e\u043c\u0430\u043d"
     ],
     "name:spa_x_preferred":[
+        "San Rom\u00e1n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de San Rom\u00e1n"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":421167831,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1555047499,
     "wof:name":"San Rom\u00e1n",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

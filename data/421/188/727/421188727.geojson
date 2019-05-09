@@ -10,6 +10,15 @@
     "geom:latitude":-6.365562,
     "geom:longitude":-79.522209,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ferre\u00f1afe Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ferre\u00f1afe"
+    ],
     "lbl:latitude":-6.452846,
     "lbl:longitude":-79.49921,
     "meso:admin_1":"Lambayeque",
@@ -51,6 +60,9 @@
         "Province de Ferre\u00f1afe"
     ],
     "name:fre_x_preferred":[
+        "Ferre\u00f1afe"
+    ],
+    "name:fre_x_variant":[
         "province de Ferre\u00f1afe"
     ],
     "name:geo_x_preferred":[
@@ -78,6 +90,9 @@
         "Phirri\u00f1aphi pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Ferre\u00f1afe"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ferre\u00f1afe"
     ],
     "name:unk_x_variant":[
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":421188727,
-    "wof:lastmodified":1536616065,
+    "wof:lastmodified":1555047508,
     "wof:name":"Ferre\u00f1afe",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

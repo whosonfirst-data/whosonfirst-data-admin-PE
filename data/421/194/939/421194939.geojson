@@ -10,6 +10,15 @@
     "geom:latitude":-9.803162,
     "geom:longitude":-76.595535,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Yarowilca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Yarowilca"
+    ],
     "lbl:latitude":-9.793681,
     "lbl:longitude":-76.576803,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -45,6 +54,9 @@
         "Yarowilca Province"
     ],
     "name:fre_x_preferred":[
+        "Yarowilca"
+    ],
+    "name:fre_x_variant":[
         "province de Yarowilca"
     ],
     "name:geo_x_preferred":[
@@ -60,6 +72,9 @@
         "Yaruwillka pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Yarowilca"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Yarowilca"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":421194939,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1555047510,
     "wof:name":"Yarowilca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

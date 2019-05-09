@@ -10,6 +10,12 @@
     "geom:latitude":-6.97733,
     "geom:longitude":-78.998185,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-7.01177,
     "lbl:longitude":-79.02269,
     "meso:admin_1":"Cajamarca",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693985,
-    "wof:lastmodified":1536615347,
+    "wof:lastmodified":1553718261,
     "wof:name":"San Miguel",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

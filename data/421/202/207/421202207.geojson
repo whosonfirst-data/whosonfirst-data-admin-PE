@@ -10,6 +10,12 @@
     "geom:latitude":-13.155247,
     "geom:longitude":-71.526003,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Paucartambo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.167221,
     "lbl:longitude":-71.533989,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421202207,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1553717559,
     "wof:name":"Paucartambo",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

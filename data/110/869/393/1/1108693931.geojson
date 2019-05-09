@@ -10,6 +10,15 @@
     "geom:latitude":-13.145122,
     "geom:longitude":-75.406235,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Castrovirreyna Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Castrovirreyna"
+    ],
     "lbl:latitude":-13.151863,
     "lbl:longitude":-75.378307,
     "meso:admin_1":"Huancavelica",
@@ -44,6 +53,9 @@
         "Castrovirreyna Province"
     ],
     "name:fre_x_preferred":[
+        "Castrovirreyna"
+    ],
+    "name:fre_x_variant":[
         "province de Castrovirreyna"
     ],
     "name:geo_x_preferred":[
@@ -62,6 +74,9 @@
         "\u041a\u0430\u0441\u0442\u0440\u043e\u0432\u0438\u0440\u0440\u0435\u0439\u043d\u0430"
     ],
     "name:spa_x_preferred":[
+        "Castrovirreyna"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Castrovirreyna"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1108693931,
-    "wof:lastmodified":1536615344,
+    "wof:lastmodified":1555047513,
     "wof:name":"Castrovirreyna",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

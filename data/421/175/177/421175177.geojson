@@ -10,6 +10,15 @@
     "geom:latitude":-6.501998,
     "geom:longitude":-75.872,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "San Mart\u00edn Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de San Mart\u00edn"
+    ],
     "lbl:latitude":-6.611425,
     "lbl:longitude":-75.738807,
     "meso:admin_1":"San Mart\u00edn",
@@ -48,6 +57,9 @@
         "Province de San Mart\u00edn"
     ],
     "name:fre_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fre_x_variant":[
         "province de San Mart\u00edn"
     ],
     "name:geo_x_preferred":[
@@ -75,6 +87,9 @@
         "San Martin pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:spa_x_variant":[
         "Provincia de San Mart\u00edn"
     ],
     "name:unk_x_variant":[
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421175177,
-    "wof:lastmodified":1536615948,
+    "wof:lastmodified":1555047502,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

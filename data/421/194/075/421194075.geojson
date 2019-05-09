@@ -10,6 +10,15 @@
     "geom:latitude":-15.688842,
     "geom:longitude":-73.963457,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Caravel\u00ed Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Caravel\u00ed"
+    ],
     "lbl:latitude":-15.824034,
     "lbl:longitude":-73.637459,
     "meso:admin_1":"Arequipa",
@@ -37,6 +46,9 @@
     "name:fra_x_preferred":[
         "Province de Caravel\u00ed"
     ],
+    "name:fre_x_preferred":[
+        "Caravel\u00ed"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Caravel\u00ed"
     ],
@@ -59,6 +71,9 @@
         "Qarawili pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Caravel\u00ed"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421194075,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1555047509,
     "wof:name":"Caravel\u00ed",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

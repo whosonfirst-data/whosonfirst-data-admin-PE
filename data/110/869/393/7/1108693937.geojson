@@ -10,6 +10,15 @@
     "geom:latitude":-15.032051,
     "geom:longitude":-73.634985,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Parinacochas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Parinacochas"
+    ],
     "lbl:latitude":-14.943659,
     "lbl:longitude":-73.645738,
     "meso:admin_1":"Ayacucho",
@@ -44,6 +53,9 @@
         "Parinacochas Province"
     ],
     "name:fre_x_preferred":[
+        "Parinacochas"
+    ],
+    "name:fre_x_variant":[
         "province de Parinacochas"
     ],
     "name:geo_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1108693937,
-    "wof:lastmodified":1536615344,
+    "wof:lastmodified":1555047513,
     "wof:name":"Parinacochas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

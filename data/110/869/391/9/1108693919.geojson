@@ -10,6 +10,15 @@
     "geom:latitude":-16.73003,
     "geom:longitude":-69.756161,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "El Collao Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de El Collao"
+    ],
     "lbl:latitude":-16.71755,
     "lbl:longitude":-69.761758,
     "meso:admin_1":"Puno",
@@ -44,6 +53,9 @@
         "El Collao Province"
     ],
     "name:fre_x_preferred":[
+        "El Collao"
+    ],
+    "name:fre_x_variant":[
         "province d'El Collao"
     ],
     "name:geo_x_preferred":[
@@ -59,6 +71,9 @@
         "Qullaw pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "El Collao"
+    ],
+    "name:spa_x_variant":[
         "Provincia de El Collao"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":1108693919,
-    "wof:lastmodified":1536615343,
+    "wof:lastmodified":1555047512,
     "wof:name":"El Collao",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345901,
-    "geom:area_square_m":4143803164.054593,
+    "geom:area_square_m":4143803164.055354,
     "geom:bbox":"-73.5770644531,-14.8428300781,-72.9789433594,-13.799859375",
     "geom:latitude":-14.341193,
     "geom:longitude":-73.247678,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Aymaraes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Aymaraes"
+    ],
     "lbl:latitude":-14.482181,
     "lbl:longitude":-73.243149,
     "meso:admin_1":"Apur\u00edmac",
@@ -45,6 +54,9 @@
         "Aymaraes Province"
     ],
     "name:fre_x_preferred":[
+        "Aymaraes"
+    ],
+    "name:fre_x_variant":[
         "province d'Aymaraes"
     ],
     "name:geo_x_preferred":[
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":421175161,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1555047502,
     "wof:name":"Aymaraes",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

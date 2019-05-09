@@ -10,6 +10,15 @@
     "geom:latitude":-13.787525,
     "geom:longitude":-74.248938,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Fajardo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de V\u00edctor Fajardo"
+    ],
     "lbl:latitude":-13.811643,
     "lbl:longitude":-74.05761,
     "meso:admin_1":"Ayacucho",
@@ -44,6 +53,9 @@
         "V\u00edctor Fajardo Province"
     ],
     "name:fre_x_preferred":[
+        "Victor Fajardo"
+    ],
+    "name:fre_x_variant":[
         "province de Victor Fajardo"
     ],
     "name:geo_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1108693945,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1555047513,
     "wof:name":"Fajardo",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

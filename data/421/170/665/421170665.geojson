@@ -10,6 +10,15 @@
     "geom:latitude":-12.279946,
     "geom:longitude":-71.285274,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Manu Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Manu"
+    ],
     "lbl:latitude":-12.249431,
     "lbl:longitude":-71.366529,
     "meso:admin_1":"Madre De Dios",
@@ -34,6 +43,9 @@
     "name:fra_x_preferred":[
         "Province de Manu"
     ],
+    "name:fre_x_preferred":[
+        "Manu"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Manu"
     ],
@@ -50,6 +62,9 @@
         "Manu pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Manu"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Manu"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421170665,
-    "wof:lastmodified":1536615914,
+    "wof:lastmodified":1555047499,
     "wof:name":"Manu",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

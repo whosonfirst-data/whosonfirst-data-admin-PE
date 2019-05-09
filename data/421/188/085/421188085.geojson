@@ -10,6 +10,15 @@
     "geom:latitude":-5.307404,
     "geom:longitude":-76.109434,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Alto Amazonas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Alto Amazonas"
+    ],
     "lbl:latitude":-5.51141,
     "lbl:longitude":-76.15891,
     "meso:admin_1":"Loreto",
@@ -45,6 +54,9 @@
         "Alto Amazonas Province"
     ],
     "name:fre_x_preferred":[
+        "Alto Amazonas"
+    ],
+    "name:fre_x_variant":[
         "province d'Alto Amazonas"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +81,9 @@
         "\u0410\u043b\u044c\u0442\u043e-\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Alto Amazonas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Alto Amazonas"
     ],
     "name:unk_x_variant":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421188085,
-    "wof:lastmodified":1536616048,
+    "wof:lastmodified":1555047507,
     "wof:name":"Alto Amazonas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

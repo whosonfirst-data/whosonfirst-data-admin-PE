@@ -10,6 +10,12 @@
     "geom:latitude":-12.984528,
     "geom:longitude":-72.03876,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Calca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-12.860111,
     "lbl:longitude":-72.070594,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421175157,
-    "wof:lastmodified":1536615947,
+    "wof:lastmodified":1553717356,
     "wof:name":"Calca",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

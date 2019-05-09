@@ -10,6 +10,12 @@
     "geom:latitude":-11.540932,
     "geom:longitude":-76.710008,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Canta Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.564315,
     "lbl:longitude":-76.742561,
     "meso:admin_1":"Lima",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108693965,
-    "wof:lastmodified":1536615346,
+    "wof:lastmodified":1553718253,
     "wof:name":"Canta",
     "wof:parent_id":-1,
     "wof:placetype":"county",

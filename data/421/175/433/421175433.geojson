@@ -10,6 +10,12 @@
     "geom:latitude":-9.189951,
     "geom:longitude":-77.39885,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Asunci\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.188977,
     "lbl:longitude":-77.409737,
     "meso:admin_1":"Ancash",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421175433,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1553717360,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

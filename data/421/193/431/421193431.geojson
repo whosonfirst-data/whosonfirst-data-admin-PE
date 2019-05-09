@@ -10,6 +10,15 @@
     "geom:latitude":-17.011502,
     "geom:longitude":-70.784554,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Mariscal Nieto Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mariscal Nieto"
+    ],
     "lbl:latitude":-17.051875,
     "lbl:longitude":-70.893803,
     "meso:admin_1":"Moquegua",
@@ -48,6 +57,9 @@
         "Province de Mariscal Nieto"
     ],
     "name:fre_x_preferred":[
+        "Mariscal Nieto"
+    ],
+    "name:fre_x_variant":[
         "province de Mariscal Nieto"
     ],
     "name:geo_x_preferred":[
@@ -75,6 +87,9 @@
         "Mariscal Nieto pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Mariscal Nieto"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mariscal Nieto"
     ],
     "name:unk_x_variant":[
@@ -157,7 +172,7 @@
         }
     ],
     "wof:id":421193431,
-    "wof:lastmodified":1536616107,
+    "wof:lastmodified":1555047509,
     "wof:name":"Mariscal Nieto",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

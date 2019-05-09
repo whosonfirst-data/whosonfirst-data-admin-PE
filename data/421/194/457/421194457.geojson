@@ -10,6 +10,15 @@
     "geom:latitude":-9.37718,
     "geom:longitude":-75.094354,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Puerto Inca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Puerto Inca"
+    ],
     "lbl:latitude":-9.479836,
     "lbl:longitude":-75.042145,
     "meso:admin_1":"Hu\u00e1nuco",
@@ -45,6 +54,9 @@
         "Puerto Inca Province"
     ],
     "name:fre_x_preferred":[
+        "Puerto Inca"
+    ],
+    "name:fre_x_variant":[
         "province de Puerto Inca"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "\u041f\u0443\u044d\u0440\u0442\u043e-\u0418\u043d\u043a\u0430"
     ],
     "name:spa_x_preferred":[
+        "Puerto Inca"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Puerto Inca"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":421194457,
-    "wof:lastmodified":1536616115,
+    "wof:lastmodified":1555047509,
     "wof:name":"Puerto Inca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

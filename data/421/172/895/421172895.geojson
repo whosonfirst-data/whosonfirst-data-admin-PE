@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326805,
-    "geom:area_square_m":4020514685.505751,
+    "geom:area_square_m":4020514685.504601,
     "geom:bbox":"-78.7091679687,-6.18865039062,-77.9303515625,-5.34359179687",
     "geom:latitude":-5.769329,
     "geom:longitude":-78.329042,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Utcubamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Utcubamba"
+    ],
     "lbl:latitude":-5.833514,
     "lbl:longitude":-78.302473,
     "meso:admin_1":"Amazonas",
@@ -51,6 +60,9 @@
         "Province dUtcubamba"
     ],
     "name:fre_x_preferred":[
+        "Utcubamba"
+    ],
+    "name:fre_x_variant":[
         "province d'Utcubamba"
     ],
     "name:geo_x_preferred":[
@@ -87,6 +99,9 @@
         "\u0423\u0442\u043a\u0443\u0431\u0430\u043c\u0431\u0430"
     ],
     "name:spa_x_preferred":[
+        "Utcubamba"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Utcubamba"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":421172895,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1555047501,
     "wof:name":"Utcubamba",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

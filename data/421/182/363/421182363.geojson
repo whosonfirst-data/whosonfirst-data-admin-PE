@@ -10,6 +10,12 @@
     "geom:latitude":-14.299664,
     "geom:longitude":-75.643786,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ica Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.269023,
     "lbl:longitude":-75.608961,
     "meso:admin_1":"Ica",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421182363,
-    "wof:lastmodified":1536615985,
+    "wof:lastmodified":1553717386,
     "wof:name":"Ica",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

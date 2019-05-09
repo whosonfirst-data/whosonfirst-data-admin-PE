@@ -10,6 +10,15 @@
     "geom:latitude":-14.124866,
     "geom:longitude":-73.732032,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Sucre Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sucre"
+    ],
     "lbl:latitude":-14.136887,
     "lbl:longitude":-73.751876,
     "meso:admin_1":"Ayacucho",
@@ -44,6 +53,9 @@
         "Sucre Province"
     ],
     "name:fre_x_preferred":[
+        "Sucre"
+    ],
+    "name:fre_x_variant":[
         "province de Sucre"
     ],
     "name:geo_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1108693947,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1555047514,
     "wof:name":"Sucre",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

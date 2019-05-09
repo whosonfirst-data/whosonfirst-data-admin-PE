@@ -10,6 +10,12 @@
     "geom:latitude":-16.346078,
     "geom:longitude":-71.554958,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Arequipa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-16.339655,
     "lbl:longitude":-71.569099,
     "meso:admin_1":"Arequipa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421198069,
-    "wof:lastmodified":1536616125,
+    "wof:lastmodified":1553717542,
     "wof:name":"Arequipa",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

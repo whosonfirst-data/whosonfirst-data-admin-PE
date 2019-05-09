@@ -10,6 +10,12 @@
     "geom:latitude":-3.806797,
     "geom:longitude":-80.431571,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tumbes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-3.798064,
     "lbl:longitude":-80.427926,
     "meso:admin_1":"Tumbes",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421187863,
-    "wof:lastmodified":1536616041,
+    "wof:lastmodified":1553717455,
     "wof:name":"Tumbes",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

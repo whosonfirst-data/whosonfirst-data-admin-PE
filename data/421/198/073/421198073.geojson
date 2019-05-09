@@ -10,6 +10,12 @@
     "geom:latitude":-16.294465,
     "geom:longitude":-69.081487,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Yunguyo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-16.320213,
     "lbl:longitude":-69.093681,
     "meso:admin_1":"Puno",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421198073,
-    "wof:lastmodified":1536616125,
+    "wof:lastmodified":1553717541,
     "wof:name":"Yunguyo",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

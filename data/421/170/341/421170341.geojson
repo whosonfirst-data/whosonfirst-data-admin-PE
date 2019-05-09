@@ -10,6 +10,15 @@
     "geom:latitude":-5.870557,
     "geom:longitude":-80.671605,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Sechura Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sechura"
+    ],
     "lbl:latitude":-5.898385,
     "lbl:longitude":-80.634443,
     "meso:admin_1":"Piura",
@@ -41,6 +50,9 @@
         "\u0633\u0686\u0648\u0631\u0627"
     ],
     "name:fra_x_preferred":[
+        "Sechura"
+    ],
+    "name:fre_x_preferred":[
         "Sechura"
     ],
     "name:ita_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421170341,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1555047499,
     "wof:name":"Sechura",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-16.086393,
     "geom:longitude":-70.082298,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Puno Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-16.134107,
     "lbl:longitude":-70.049618,
     "meso:admin_1":"Puno",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421200651,
-    "wof:lastmodified":1536616134,
+    "wof:lastmodified":1553717553,
     "wof:name":"Puno",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-7.540054,
     "geom:longitude":-78.099229,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cajabamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Cajabamba"
+    ],
     "lbl:latitude":-7.571359,
     "lbl:longitude":-78.05078,
     "meso:admin_1":"Cajamarca",
@@ -44,6 +53,9 @@
         "Cajabamba Province"
     ],
     "name:fre_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:fre_x_variant":[
         "province de Cajabamba"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +86,9 @@
         "Cajabamba"
     ],
     "name:spa_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Cajabamba"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1108694045,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1555047516,
     "wof:name":"Cajabamba",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

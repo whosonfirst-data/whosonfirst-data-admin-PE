@@ -10,6 +10,15 @@
     "geom:latitude":-6.798982,
     "geom:longitude":-78.208055,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Celend\u00edn Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Celend\u00edn"
+    ],
     "lbl:latitude":-6.805767,
     "lbl:longitude":-78.211811,
     "meso:admin_1":"Cajamarca",
@@ -51,6 +60,9 @@
         "Province de Celend\u00edn"
     ],
     "name:fre_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:fre_x_variant":[
         "province de Celend\u00edn"
     ],
     "name:geo_x_preferred":[
@@ -84,6 +96,9 @@
         "Celend\u00edn"
     ],
     "name:spa_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Celend\u00edn"
     ],
     "name:unk_x_variant":[
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":421183859,
-    "wof:lastmodified":1536616014,
+    "wof:lastmodified":1555047504,
     "wof:name":"Celend\u00edn",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

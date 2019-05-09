@@ -10,6 +10,15 @@
     "geom:latitude":-8.521801,
     "geom:longitude":-78.603652,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Vir\u00fa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Vir\u00fa"
+    ],
     "lbl:latitude":-8.526662,
     "lbl:longitude":-78.598396,
     "meso:admin_1":"La Libertad",
@@ -54,6 +63,9 @@
         "Viru"
     ],
     "name:fre_x_preferred":[
+        "Vir\u00fa"
+    ],
+    "name:fre_x_variant":[
         "province de Vir\u00fa"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +81,9 @@
         "Wiru pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Vir\u00fa"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Vir\u00fa"
     ],
     "name:swe_x_preferred":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421191399,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1555047508,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

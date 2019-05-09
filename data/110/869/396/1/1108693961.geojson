@@ -10,6 +10,12 @@
     "geom:latitude":-11.03354,
     "geom:longitude":-77.237753,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huaura Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.083083,
     "lbl:longitude":-77.340385,
     "meso:admin_1":"Lima",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108693961,
-    "wof:lastmodified":1536615346,
+    "wof:lastmodified":1553718259,
     "wof:name":"Huaura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

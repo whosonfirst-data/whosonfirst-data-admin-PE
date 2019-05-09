@@ -10,6 +10,15 @@
     "geom:latitude":-14.464412,
     "geom:longitude":-72.011361,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chumbivilcas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chumbivilcas"
+    ],
     "lbl:latitude":-14.428064,
     "lbl:longitude":-72.003956,
     "meso:admin_1":"Cusco",
@@ -44,6 +53,9 @@
         "Chumbivilcas Province"
     ],
     "name:fre_x_preferred":[
+        "Chumbivilcas"
+    ],
+    "name:fre_x_variant":[
         "province de Chumbivilcas"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +86,9 @@
         "\u0427\u0443\u043c\u0431\u0438\u0432\u0438\u043b\u043a\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Chumbivilcas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chumbivilcas"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1108693903,
-    "wof:lastmodified":1536615342,
+    "wof:lastmodified":1555047512,
     "wof:name":"Chumbivilcas",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

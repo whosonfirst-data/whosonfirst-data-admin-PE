@@ -10,6 +10,12 @@
     "geom:latitude":-17.892395,
     "geom:longitude":-70.222877,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Tacna Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-18.029692,
     "lbl:longitude":-70.341639,
     "meso:admin_1":"Tacna",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421171961,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1553717336,
     "wof:name":"Tacna",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.849129,
     "geom:longitude":-75.230277,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Loreto Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-3.850121,
     "lbl:longitude":-75.361017,
     "meso:admin_1":"Loreto",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421175173,
-    "wof:lastmodified":1536615948,
+    "wof:lastmodified":1553717357,
     "wof:name":"Loreto",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

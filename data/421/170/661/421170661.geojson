@@ -10,6 +10,12 @@
     "geom:latitude":-8.943659,
     "geom:longitude":-77.828432,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huaylas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.891133,
     "lbl:longitude":-77.778541,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421170661,
-    "wof:lastmodified":1536615914,
+    "wof:lastmodified":1553717318,
     "wof:name":"Huaylas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

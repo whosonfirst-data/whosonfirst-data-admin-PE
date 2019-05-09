@@ -10,6 +10,15 @@
     "geom:latitude":-12.718756,
     "geom:longitude":-75.087145,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huancavelica Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huancavelica"
+    ],
     "lbl:latitude":-12.697061,
     "lbl:longitude":-75.093937,
     "meso:admin_1":"Huancavelica",
@@ -45,6 +54,9 @@
         "Huancavelica Province"
     ],
     "name:fre_x_preferred":[
+        "Huancavelica"
+    ],
+    "name:fre_x_variant":[
         "province de Huancavelica"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +75,9 @@
         "Wankawillka pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Huancavelica"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huancavelica"
     ],
     "name:unk_x_variant":[
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":421175167,
-    "wof:lastmodified":1536615948,
+    "wof:lastmodified":1555047502,
     "wof:name":"Huancavelica",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

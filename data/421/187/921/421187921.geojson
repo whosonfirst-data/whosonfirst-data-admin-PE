@@ -10,6 +10,15 @@
     "geom:latitude":-9.56129,
     "geom:longitude":-77.646309,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huaraz Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huaraz"
+    ],
     "lbl:latitude":-9.526843,
     "lbl:longitude":-77.517479,
     "meso:admin_1":"Ancash",
@@ -56,6 +65,9 @@
         "Huaraz"
     ],
     "name:fra_x_preferred":[
+        "Huaraz"
+    ],
+    "name:fre_x_preferred":[
         "Huaraz"
     ],
     "name:glg_x_preferred":[
@@ -187,7 +199,7 @@
         }
     ],
     "wof:id":421187921,
-    "wof:lastmodified":1536616043,
+    "wof:lastmodified":1555047507,
     "wof:name":"Huaraz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

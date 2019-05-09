@@ -10,6 +10,12 @@
     "geom:latitude":-13.851168,
     "geom:longitude":-69.32557,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Sandia Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.882169,
     "lbl:longitude":-69.335673,
     "meso:admin_1":"Puno",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693913,
-    "wof:lastmodified":1536615343,
+    "wof:lastmodified":1553718251,
     "wof:name":"Sandia",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

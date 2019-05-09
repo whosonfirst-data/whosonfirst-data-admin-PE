@@ -10,6 +10,12 @@
     "geom:latitude":-10.093903,
     "geom:longitude":-77.926775,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huarmey Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.08272,
     "lbl:longitude":-77.950328,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421184497,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1553717430,
     "wof:name":"Huarmey",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

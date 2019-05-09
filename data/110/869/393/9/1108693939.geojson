@@ -10,6 +10,15 @@
     "geom:latitude":-13.944458,
     "geom:longitude":-74.460071,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huanca Sancos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huancasancos"
+    ],
     "lbl:latitude":-13.960451,
     "lbl:longitude":-74.466662,
     "meso:admin_1":"Ayacucho",
@@ -44,6 +53,9 @@
         "Huanca Sancos Province"
     ],
     "name:fre_x_preferred":[
+        "Huanca Sancos"
+    ],
+    "name:fre_x_variant":[
         "province de Huanca Sancos"
     ],
     "name:geo_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1108693939,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1555047513,
     "wof:name":"Huanca Sancos",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

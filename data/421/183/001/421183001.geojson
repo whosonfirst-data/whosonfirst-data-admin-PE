@@ -10,6 +10,12 @@
     "geom:latitude":-13.257138,
     "geom:longitude":-72.289787,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Urubamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.225676,
     "lbl:longitude":-72.263495,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421183001,
-    "wof:lastmodified":1536616006,
+    "wof:lastmodified":1553717404,
     "wof:name":"Urubamba",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

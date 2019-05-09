@@ -10,6 +10,12 @@
     "geom:latitude":-16.605292,
     "geom:longitude":-69.358675,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chucuito Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-16.582065,
     "lbl:longitude":-69.297766,
     "meso:admin_1":"Puno",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421186269,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1553717449,
     "wof:name":"Chucuito",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

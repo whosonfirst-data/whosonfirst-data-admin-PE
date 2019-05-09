@@ -10,6 +10,15 @@
     "geom:latitude":-5.256572,
     "geom:longitude":-79.988955,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Morrop\u00f3n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Morrop\u00f3n"
+    ],
     "lbl:latitude":-5.261985,
     "lbl:longitude":-79.98895,
     "meso:admin_1":"Piura",
@@ -47,6 +56,9 @@
         "Murrupun distritu"
     ],
     "name:spa_x_preferred":[
+        "Morrop\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Distrito de Morrop\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421188857,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1555047508,
     "wof:name":"Morrop\u00f3n",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

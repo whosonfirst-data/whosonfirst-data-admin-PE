@@ -10,6 +10,12 @@
     "geom:latitude":-12.567337,
     "geom:longitude":-74.173078,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huanta Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-12.551414,
     "lbl:longitude":-74.110412,
     "meso:admin_1":"Ayacucho",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421194081,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1553717526,
     "wof:name":"Huanta",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

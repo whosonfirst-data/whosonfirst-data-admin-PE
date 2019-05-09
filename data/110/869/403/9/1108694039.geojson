@@ -10,6 +10,15 @@
     "geom:latitude":-7.356124,
     "geom:longitude":-78.979469,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Contumaz\u00e1 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Contumaz\u00e1"
+    ],
     "lbl:latitude":-7.357012,
     "lbl:longitude":-78.973785,
     "meso:admin_1":"Cajamarca",
@@ -44,6 +53,9 @@
         "Contumaz\u00e1 Province"
     ],
     "name:fre_x_preferred":[
+        "Contumaz\u00e1"
+    ],
+    "name:fre_x_variant":[
         "province de Contumaz\u00e1"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +77,9 @@
         "Contumaz\u00e1"
     ],
     "name:spa_x_preferred":[
+        "Contumaz\u00e1"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Contumaz\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108694039,
-    "wof:lastmodified":1536615350,
+    "wof:lastmodified":1555047515,
     "wof:name":"Contumaz\u00e1",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

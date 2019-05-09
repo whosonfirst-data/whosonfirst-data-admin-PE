@@ -10,6 +10,15 @@
     "geom:latitude":-3.96978,
     "geom:longitude":-80.740812,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Contralmirante Villar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Contralmirante Villar"
+    ],
     "lbl:latitude":-3.995456,
     "lbl:longitude":-80.714964,
     "meso:admin_1":"Tumbes",
@@ -51,6 +60,9 @@
         "Province de Contralmirante Villar"
     ],
     "name:fre_x_preferred":[
+        "Contralmirante Villar"
+    ],
+    "name:fre_x_variant":[
         "province de Contralmirante Villar"
     ],
     "name:geo_x_preferred":[
@@ -81,6 +93,9 @@
         "Provincia Contralmirante Villar"
     ],
     "name:spa_x_preferred":[
+        "Contralmirante Villar"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Contralmirante Villar"
     ],
     "name:unk_x_variant":[
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":421175163,
-    "wof:lastmodified":1536615948,
+    "wof:lastmodified":1555047502,
     "wof:name":"Contralmirante Villar",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

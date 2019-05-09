@@ -10,6 +10,15 @@
     "geom:latitude":-7.310787,
     "geom:longitude":-75.365736,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ucayali Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ucayali"
+    ],
     "lbl:latitude":-7.431359,
     "lbl:longitude":-75.450463,
     "meso:admin_1":"Loreto",
@@ -48,6 +57,9 @@
         "Ucayali Province"
     ],
     "name:fre_x_preferred":[
+        "Ucayali"
+    ],
+    "name:fre_x_variant":[
         "province d'Ucayali"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +84,9 @@
         "\u0423\u043a\u0430\u044f\u043b\u0438"
     ],
     "name:spa_x_preferred":[
+        "Ucayali"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ucayali"
     ],
     "name:unk_x_variant":[
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421187865,
-    "wof:lastmodified":1536616041,
+    "wof:lastmodified":1555047506,
     "wof:name":"Ucayali",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

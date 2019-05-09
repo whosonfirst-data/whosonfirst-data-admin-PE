@@ -10,6 +10,15 @@
     "geom:latitude":-8.676551,
     "geom:longitude":-74.061849,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Coronel Portillo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Coronel Portillo"
+    ],
     "lbl:latitude":-8.765074,
     "lbl:longitude":-73.938746,
     "meso:admin_1":"Ucayali",
@@ -48,6 +57,9 @@
         "Province de Coronel Portillo"
     ],
     "name:fre_x_preferred":[
+        "Coronel Portillo"
+    ],
+    "name:fre_x_variant":[
         "province de Coronel Portillo"
     ],
     "name:geo_x_preferred":[
@@ -78,6 +90,9 @@
         "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c \u041f\u043e\u0440\u0442\u0438\u043b\u044c\u043e"
     ],
     "name:spa_x_preferred":[
+        "Coronel Portillo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Coronel Portillo"
     ],
     "name:unk_x_variant":[
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":421171957,
-    "wof:lastmodified":1536615935,
+    "wof:lastmodified":1555047500,
     "wof:name":"Coronel Portillo",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

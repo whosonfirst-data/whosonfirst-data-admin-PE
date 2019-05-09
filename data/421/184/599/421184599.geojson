@@ -10,6 +10,15 @@
     "geom:latitude":-7.14364,
     "geom:longitude":-79.456994,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chep\u00e9n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chep\u00e9n"
+    ],
     "lbl:latitude":-7.108076,
     "lbl:longitude":-79.453707,
     "meso:admin_1":"La Libertad",
@@ -51,6 +60,9 @@
         "Provinco \u0108epenio"
     ],
     "name:fre_x_preferred":[
+        "Chep\u00e9n"
+    ],
+    "name:fre_x_variant":[
         "province de Chep\u00e9n"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +81,9 @@
         "Chipin pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Chep\u00e9n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chep\u00e9n"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":421184599,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1555047505,
     "wof:name":"Chep\u00e9n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

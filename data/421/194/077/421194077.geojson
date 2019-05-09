@@ -10,6 +10,12 @@
     "geom:latitude":-9.290679,
     "geom:longitude":-77.569036,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Carhuaz Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.289763,
     "lbl:longitude":-77.588119,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421194077,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1553717526,
     "wof:name":"Carhuaz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

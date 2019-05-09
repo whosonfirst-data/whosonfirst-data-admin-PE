@@ -10,6 +10,12 @@
     "geom:latitude":-9.784412,
     "geom:longitude":-77.677441,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Aija Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.770576,
     "lbl:longitude":-77.641005,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421188719,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1553717476,
     "wof:name":"Aija",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

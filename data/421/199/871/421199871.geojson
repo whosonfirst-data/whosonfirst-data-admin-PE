@@ -10,6 +10,15 @@
     "geom:latitude":-3.652925,
     "geom:longitude":-80.256582,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Zarumilla Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Zarumilla"
+    ],
     "lbl:latitude":-3.544807,
     "lbl:longitude":-80.287838,
     "meso:admin_1":"Tumbes",
@@ -32,6 +41,9 @@
         "Zarumilla"
     ],
     "name:fra_x_preferred":[
+        "Zarumilla"
+    ],
+    "name:fre_x_preferred":[
         "Zarumilla"
     ],
     "name:ita_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":421199871,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1555047510,
     "wof:name":"Zarumilla",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

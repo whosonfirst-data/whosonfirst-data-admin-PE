@@ -10,6 +10,12 @@
     "geom:latitude":-6.173696,
     "geom:longitude":-78.839208,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cutervo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-6.209301,
     "lbl:longitude":-78.813051,
     "meso:admin_1":"Cajamarca",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693977,
-    "wof:lastmodified":1536615347,
+    "wof:lastmodified":1553718260,
     "wof:name":"Cutervo",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

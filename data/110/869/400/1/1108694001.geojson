@@ -10,6 +10,12 @@
     "geom:latitude":-8.317476,
     "geom:longitude":-77.901919,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Pallasca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.266821,
     "lbl:longitude":-77.840588,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694001,
-    "wof:lastmodified":1536615348,
+    "wof:lastmodified":1553718259,
     "wof:name":"Pallasca",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

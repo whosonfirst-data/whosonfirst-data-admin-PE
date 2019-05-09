@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211158,
-    "geom:area_square_m":2594863925.96218,
+    "geom:area_square_m":2594863925.962112,
     "geom:bbox":"-77.7530820312,-6.72527734375,-77.13284375,-6.00016796875",
     "geom:latitude":-6.372973,
     "geom:longitude":-77.454828,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Rodriguez De Mendoza Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Rodr\u00edguez de Mendoza"
+    ],
     "lbl:latitude":-6.436009,
     "lbl:longitude":-77.480635,
     "meso:admin_1":"Amazonas",
@@ -44,6 +53,9 @@
         "Rodr\u00edguez de Mendoza Province"
     ],
     "name:fre_x_preferred":[
+        "Rodr\u00edguez de Mendoza"
+    ],
+    "name:fre_x_variant":[
         "province de Rodr\u00edguez de Mendoza"
     ],
     "name:geo_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":1108693897,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555047512,
     "wof:name":"Rodriguez De Mendoza",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

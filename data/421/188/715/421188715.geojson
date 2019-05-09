@@ -10,6 +10,12 @@
     "geom:latitude":-11.687215,
     "geom:longitude":-75.490028,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Jauja Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.669756,
     "lbl:longitude":-75.392115,
     "meso:admin_1":"Jun\u00edn",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421188715,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1553717476,
     "wof:name":"Jauja",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

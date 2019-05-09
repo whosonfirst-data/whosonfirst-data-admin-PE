@@ -10,6 +10,15 @@
     "geom:latitude":-13.656134,
     "geom:longitude":-75.092497,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huaytar\u00e1 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huaytar\u00e1"
+    ],
     "lbl:latitude":-13.705252,
     "lbl:longitude":-75.10134,
     "meso:admin_1":"Huancavelica",
@@ -48,6 +57,9 @@
         "Province de Huaytar\u00e1"
     ],
     "name:fre_x_preferred":[
+        "Huaytar\u00e1"
+    ],
+    "name:fre_x_variant":[
         "province de Huaytar\u00e1"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +84,9 @@
         "Waytara pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Huaytar\u00e1"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huaytar\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421177937,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1555047503,
     "wof:name":"Huaytar\u00e1",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

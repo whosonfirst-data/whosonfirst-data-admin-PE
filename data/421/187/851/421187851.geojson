@@ -10,6 +10,12 @@
     "geom:latitude":-9.43382,
     "geom:longitude":-77.082247,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huari Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.450055,
     "lbl:longitude":-77.12829,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187851,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1553717454,
     "wof:name":"Huari",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

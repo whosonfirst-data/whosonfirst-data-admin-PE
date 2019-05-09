@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243299,
-    "geom:area_square_m":2989398653.294611,
+    "geom:area_square_m":2989398653.29491,
     "geom:bbox":"-78.0381542969,-6.98658007812,-77.4695351562,-5.94255859375",
     "geom:latitude":-6.442966,
     "geom:longitude":-77.77541,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Chachapoyas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chachapoyas"
+    ],
     "lbl:latitude":-6.151967,
     "lbl:longitude":-77.656922,
     "meso:admin_1":"Amazonas",
@@ -44,6 +53,9 @@
         "Chachapoyas Province"
     ],
     "name:fre_x_preferred":[
+        "Chachapoyas"
+    ],
+    "name:fre_x_variant":[
         "province de Chachapoyas"
     ],
     "name:geo_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":1108693895,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555047511,
     "wof:name":"Chachapoyas",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

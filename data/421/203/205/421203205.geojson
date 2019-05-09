@@ -10,6 +10,12 @@
     "geom:latitude":-14.904574,
     "geom:longitude":-71.380533,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Espinar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.855959,
     "lbl:longitude":-71.261513,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421203205,
-    "wof:lastmodified":1536616150,
+    "wof:lastmodified":1553717566,
     "wof:name":"Espinar",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

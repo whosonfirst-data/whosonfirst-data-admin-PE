@@ -10,6 +10,12 @@
     "geom:latitude":-8.567785,
     "geom:longitude":-77.882135,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Corongo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.559505,
     "lbl:longitude":-77.867121,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694011,
-    "wof:lastmodified":1536615349,
+    "wof:lastmodified":1553718260,
     "wof:name":"Corongo",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

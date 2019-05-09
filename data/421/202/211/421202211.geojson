@@ -10,6 +10,12 @@
     "geom:latitude":-9.950972,
     "geom:longitude":-77.426223,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Recuay Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-9.984572,
     "lbl:longitude":-77.39672,
     "meso:admin_1":"Ancash",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421202211,
-    "wof:lastmodified":1536616143,
+    "wof:lastmodified":1553717558,
     "wof:name":"Recuay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

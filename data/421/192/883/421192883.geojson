@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348505,
-    "geom:area_square_m":4289851690.606396,
+    "geom:area_square_m":4289851690.605933,
     "geom:bbox":"-79.8393105469,-5.970296875,-79.210834308,-4.83271002679",
     "geom:latitude":-5.442589,
     "geom:longitude":-79.514771,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Huancabamba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Huancabamba"
+    ],
     "lbl:latitude":-5.393242,
     "lbl:longitude":-79.493535,
     "meso:admin_1":"Piura",
@@ -48,6 +57,9 @@
         "Huancabamba Province"
     ],
     "name:fre_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:fre_x_variant":[
         "province de Huancabamba"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +81,9 @@
         "\u0423\u0430\u043d\u043a\u0430\u0431\u0430\u043c\u0431\u0430"
     ],
     "name:spa_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Huancabamba"
     ],
     "name:unk_x_variant":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421192883,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555047508,
     "wof:name":"Huancabamba",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

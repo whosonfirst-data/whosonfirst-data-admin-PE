@@ -10,6 +10,12 @@
     "geom:latitude":-11.562358,
     "geom:longitude":-74.100878,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Satipo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.617835,
     "lbl:longitude":-74.113693,
     "meso:admin_1":"Jun\u00edn",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421203221,
-    "wof:lastmodified":1536616150,
+    "wof:lastmodified":1553717567,
     "wof:name":"Satipo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-10.114713,
     "geom:longitude":-77.157976,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Bolognesi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-10.019726,
     "lbl:longitude":-77.046566,
     "meso:admin_1":"Ancash",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108694009,
-    "wof:lastmodified":1536615349,
+    "wof:lastmodified":1553718261,
     "wof:name":"Bolognesi",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

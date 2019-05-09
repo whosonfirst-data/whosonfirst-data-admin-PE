@@ -10,6 +10,15 @@
     "geom:latitude":-7.724036,
     "geom:longitude":-79.151756,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ascope Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ascope"
+    ],
     "lbl:latitude":-7.747983,
     "lbl:longitude":-79.18484,
     "meso:admin_1":"La Libertad",
@@ -51,6 +60,9 @@
         "Provinco Ascope"
     ],
     "name:fre_x_preferred":[
+        "Ascope"
+    ],
+    "name:fre_x_variant":[
         "province d'Ascope"
     ],
     "name:geo_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":421193361,
-    "wof:lastmodified":1536616106,
+    "wof:lastmodified":1555047509,
     "wof:name":"Ascope",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

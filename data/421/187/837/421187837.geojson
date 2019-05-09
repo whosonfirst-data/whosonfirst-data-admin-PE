@@ -10,6 +10,12 @@
     "geom:latitude":-13.489196,
     "geom:longitude":-72.36903,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Anta Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.494053,
     "lbl:longitude":-72.310567,
     "meso:admin_1":"Cusco",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187837,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1553717453,
     "wof:name":"Anta",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

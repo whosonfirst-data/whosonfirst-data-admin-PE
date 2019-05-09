@@ -10,6 +10,12 @@
     "geom:latitude":-14.018631,
     "geom:longitude":-72.269809,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cotabambas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.986466,
     "lbl:longitude":-72.230886,
     "meso:admin_1":"Apur\u00edmac",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693907,
-    "wof:lastmodified":1536615343,
+    "wof:lastmodified":1553718250,
     "wof:name":"Cotabambas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

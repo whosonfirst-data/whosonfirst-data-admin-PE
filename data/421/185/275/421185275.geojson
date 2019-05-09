@@ -10,6 +10,15 @@
     "geom:latitude":-5.710993,
     "geom:longitude":-79.004665,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Ja\u00e9n Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ja\u00e9n"
+    ],
     "lbl:latitude":-5.746939,
     "lbl:longitude":-79.073351,
     "meso:admin_1":"Cajamarca",
@@ -40,6 +49,9 @@
     "name:fra_x_preferred":[
         "Province de Ja\u00e9n"
     ],
+    "name:fre_x_preferred":[
+        "Ja\u00e9n"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Ja\u00e9n"
     ],
@@ -59,6 +71,9 @@
         "Ja\u00e9n pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Ja\u00e9n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ja\u00e9n"
     ],
     "name:unk_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421185275,
-    "wof:lastmodified":1536616027,
+    "wof:lastmodified":1555047505,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

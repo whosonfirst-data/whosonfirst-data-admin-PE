@@ -10,6 +10,12 @@
     "geom:latitude":-13.49962,
     "geom:longitude":-74.486921,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Cangallo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-13.519598,
     "lbl:longitude":-74.523179,
     "meso:admin_1":"Ayacucho",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108693941,
-    "wof:lastmodified":1536615345,
+    "wof:lastmodified":1553718253,
     "wof:name":"Cangallo",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-11.497288,
     "geom:longitude":-76.122582,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Yauli Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-11.545545,
     "lbl:longitude":-76.026581,
     "meso:admin_1":"Jun\u00edn",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421182239,
-    "wof:lastmodified":1536615981,
+    "wof:lastmodified":1553717384,
     "wof:name":"Yauli",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

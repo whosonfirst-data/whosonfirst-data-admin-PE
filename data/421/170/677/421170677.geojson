@@ -10,6 +10,12 @@
     "geom:latitude":-8.063381,
     "geom:longitude":-78.897158,
     "iso:country":"PE",
+    "label:eng_x_preferred_longname":[
+        "Trujillo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-8.054762,
     "lbl:longitude":-78.892813,
     "meso:admin_1":"La Libertad",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421170677,
-    "wof:lastmodified":1536615915,
+    "wof:lastmodified":1553717319,
     "wof:name":"Trujillo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",
