@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Amazonas"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-5.592521,
     "lbl:longitude":-78.307041,
     "meso:name_local":"Amazonas",
@@ -339,9 +345,6 @@
         }
     ],
     "wof:id":85675895,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -350,11 +353,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550591,
+    "wof:lastmodified":1560293614,
     "wof:name":"Amazonas",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":375993,
     "wof:population_rank":10,

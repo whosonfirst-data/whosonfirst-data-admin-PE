@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Moquegua"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-16.860454,
     "lbl:longitude":-70.849581,
     "meso:name_local":"Moquegua",
@@ -299,9 +305,6 @@
         }
     ],
     "wof:id":85675857,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -310,11 +313,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550520,
+    "wof:lastmodified":1560293604,
     "wof:name":"Moquegua",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":161533,
     "wof:population_rank":9,

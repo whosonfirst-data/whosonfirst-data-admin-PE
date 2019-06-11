@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Lambayeque"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-6.285248,
     "lbl:longitude":-79.874497,
     "meso:name_local":"Lambayeque",
@@ -321,9 +327,6 @@
         }
     ],
     "wof:id":85675821,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -332,11 +335,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550504,
+    "wof:lastmodified":1560293598,
     "wof:name":"Lambayeque",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1112868,
     "wof:population_rank":12,

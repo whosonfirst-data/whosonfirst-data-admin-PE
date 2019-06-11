@@ -9,13 +9,18 @@
     "geom:bbox":"-77.3168183594,-10.4896152344,-74.5108652344,-8.31433203125",
     "geom:latitude":-9.41971,
     "geom:longitude":-76.038841,
-    "gn:id":"",
     "iso:country":"PE",
     "label:eng_x_preferred_longname":[
-        "Hu\u00e1nuco Region"
+        "Huanuco Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Hu\u00e1nuco"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
     ],
     "lbl:latitude":-9.707104,
     "lbl:longitude":-76.176674,
@@ -64,6 +69,9 @@
         "Hu\u00e1nuco"
     ],
     "name:eng_x_preferred":[
+        "Huanuco"
+    ],
+    "name:eng_x_variant":[
         "Hu\u00e1nuco"
     ],
     "name:epo_x_preferred":[
@@ -320,9 +328,6 @@
         }
     ],
     "wof:id":85675875,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -331,11 +336,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550556,
-    "wof:name":"Hu\u00e1nuco",
+    "wof:lastmodified":1560293608,
+    "wof:name":"Huanuco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":762223,
     "wof:population_rank":11,

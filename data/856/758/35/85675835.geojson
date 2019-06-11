@@ -12,10 +12,16 @@
     "gn:population":418882,
     "iso:country":"PE",
     "label:eng_x_preferred_longname":[
-        "Apur\u00edmac Region"
+        "Apurimac Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Apur\u00edmac"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
     ],
     "lbl:latitude":-14.031789,
     "lbl:longitude":-72.958196,
@@ -69,7 +75,7 @@
         "Apur\u00edmac"
     ],
     "name:eng_x_preferred":[
-        "Apur\u00edmac"
+        "Apurimac"
     ],
     "name:epo_x_preferred":[
         "Regiono Apurimako"
@@ -174,7 +180,9 @@
         "Apurimac"
     ],
     "name:spa_x_preferred":[
-        "Apur\u00edmac",
+        "Apur\u00edmac"
+    ],
+    "name:spa_x_variant":[
         "Departamento de Apur\u00edmac"
     ],
     "name:swe_x_preferred":[
@@ -321,9 +329,6 @@
         }
     ],
     "wof:id":85675835,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -332,11 +337,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550496,
-    "wof:name":"Apur\u00edmac",
+    "wof:lastmodified":1560293601,
+    "wof:name":"Apurimac",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":404190,
     "wof:population_rank":10,

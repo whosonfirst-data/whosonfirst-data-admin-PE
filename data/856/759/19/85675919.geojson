@@ -12,10 +12,16 @@
     "gn:population":1274781,
     "iso:country":"PE",
     "label:eng_x_preferred_longname":[
-        "Jun\u00edn Region"
+        "Junin Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Jun\u00edn"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
     ],
     "lbl:latitude":-11.466484,
     "lbl:longitude":-74.860455,
@@ -67,11 +73,12 @@
         "Jun\u00edn"
     ],
     "name:eng_x_preferred":[
-        "Jun\u00edn Region"
+        "Junin"
     ],
     "name:eng_x_variant":[
         "Junin",
-        "Jun\u00edn"
+        "Jun\u00edn",
+        "Jun\u00edn Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Junino"
@@ -191,7 +198,9 @@
         "Junin"
     ],
     "name:spa_x_preferred":[
-        "Jun\u00edn",
+        "Jun\u00edn"
+    ],
+    "name:spa_x_variant":[
         "Departamento de Jun\u00edn"
     ],
     "name:swe_x_preferred":[
@@ -341,9 +350,6 @@
         }
     ],
     "wof:id":85675919,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -352,11 +358,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550551,
-    "wof:name":"Jun\u00edn",
+    "wof:lastmodified":1560293620,
+    "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1225474,
     "wof:population_rank":12,
