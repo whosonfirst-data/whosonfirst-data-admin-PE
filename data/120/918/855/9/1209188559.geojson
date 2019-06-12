@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421192883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"2e1e124ed38675f5cacad314f470b8a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209188559
+            "county_id":421192883,
+            "locality_id":1209188559,
+            "region_id":85675827
         }
     ],
     "wof:id":1209188559,
-    "wof:lastmodified":1537676603,
+    "wof:lastmodified":1560310613,
     "wof:name":"Huasimal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421192883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

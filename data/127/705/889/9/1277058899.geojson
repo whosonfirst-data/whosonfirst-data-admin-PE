@@ -31,9 +31,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        1108693955,
-        85675925
+        1175613121,
+        1108693955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +46,11 @@
             "country_id":85632521,
             "county_id":1108693955,
             "locality_id":1277058899,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693955,
-            "locality_id":1277058899,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1277058899,
-    "wof:lastmodified":1536801024,
+    "wof:lastmodified":1560310341,
     "wof:name":"San Jose",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421184599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"c519e508e7499107a2b05130d4d36046",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209486515
+            "county_id":421184599,
+            "locality_id":1209486515,
+            "region_id":85675879
         }
     ],
     "wof:id":1209486515,
-    "wof:lastmodified":1537676956,
+    "wof:lastmodified":1560311779,
     "wof:name":"Huaca Rajada",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421184599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -31,9 +31,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        1108693963,
-        85675925
+        1175613121,
+        1108693963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +46,11 @@
             "country_id":85632521,
             "county_id":1108693963,
             "locality_id":1226114963,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693963,
-            "locality_id":1226114963,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1226114963,
-    "wof:lastmodified":1536623316,
+    "wof:lastmodified":1560310229,
     "wof:name":"Puerto Chancay",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

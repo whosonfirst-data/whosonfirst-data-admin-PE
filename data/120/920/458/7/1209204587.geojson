@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421194081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"f59fe7ec6e48671e210f0eb5fac5b111",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209204587
+            "county_id":421194081,
+            "locality_id":1209204587,
+            "region_id":85675903
         }
     ],
     "wof:id":1209204587,
-    "wof:lastmodified":1537676919,
+    "wof:lastmodified":1560314442,
     "wof:name":"Villa Mejorada",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

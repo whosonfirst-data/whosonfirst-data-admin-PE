@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421200651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"ef660a100a45d7e62469deeb0fa50643",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209489283
+            "county_id":421200651,
+            "locality_id":1209489283,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209489283,
-    "wof:lastmodified":1537676709,
+    "wof:lastmodified":1560309971,
     "wof:name":"Sacacani",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421200651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        421182241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"3dd16ac72d67ed9aa0102470fc3e791e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209077797
+            "county_id":421182241,
+            "locality_id":1209077797,
+            "region_id":85675899
         }
     ],
     "wof:id":1209077797,
-    "wof:lastmodified":1537676922,
+    "wof:lastmodified":1560314253,
     "wof:name":"Quistococha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

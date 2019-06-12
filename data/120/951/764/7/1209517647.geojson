@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c6515293b2d69ea4b7f48893f7bda3e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209517647
+            "county_id":1108694009,
+            "locality_id":1209517647,
+            "region_id":85675865
         }
     ],
     "wof:id":1209517647,
-    "wof:lastmodified":1536284681,
+    "wof:lastmodified":1560311439,
     "wof:name":"Canto Cuta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

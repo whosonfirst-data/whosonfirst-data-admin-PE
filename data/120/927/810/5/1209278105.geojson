@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        421187865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"e0d1b3db71c9acc8ff9037d4464c88f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209278105
+            "county_id":421187865,
+            "locality_id":1209278105,
+            "region_id":85675899
         }
     ],
     "wof:id":1209278105,
-    "wof:lastmodified":1537676971,
+    "wof:lastmodified":1560314257,
     "wof:name":"Canelos",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

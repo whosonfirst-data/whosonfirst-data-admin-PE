@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"439796f8d1b5e2d1aeae13ef97839029",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209600059
+            "county_id":421187843,
+            "locality_id":1209600059,
+            "region_id":85675843
         }
     ],
     "wof:id":1209600059,
-    "wof:lastmodified":1536282197,
+    "wof:lastmodified":1560311140,
     "wof:name":"Trapiche",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

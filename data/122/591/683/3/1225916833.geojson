@@ -37,9 +37,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        1108693967,
-        85675925
+        1175613121,
+        1108693967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,18 +52,11 @@
             "country_id":85632521,
             "county_id":1108693967,
             "locality_id":1225916833,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693967,
-            "locality_id":1225916833,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1225916833,
-    "wof:lastmodified":1537676682,
+    "wof:lastmodified":1560310109,
     "wof:name":"Tanquire",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

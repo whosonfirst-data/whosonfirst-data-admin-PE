@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421175163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"81b83024cf05d5242f56d0f24b2787b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209370273
+            "county_id":421175163,
+            "locality_id":1209370273,
+            "region_id":85675831
         }
     ],
     "wof:id":1209370273,
-    "wof:lastmodified":1537676637,
+    "wof:lastmodified":1560310710,
     "wof:name":"Canaveral",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"22f325a26b16d522c91c69424c3eacf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209070775
+            "county_id":1108693969,
+            "locality_id":1209070775,
+            "region_id":85675827
         }
     ],
     "wof:id":1209070775,
-    "wof:lastmodified":1537676529,
+    "wof:lastmodified":1560310609,
     "wof:name":"Vibora",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

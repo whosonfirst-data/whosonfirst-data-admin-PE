@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"a6a1eab875d6c0bac85affd8322afb83",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209688511
+            "county_id":1108693949,
+            "locality_id":1209688511,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209688511,
-    "wof:lastmodified":1536279327,
+    "wof:lastmodified":1560310207,
     "wof:name":"Mani",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

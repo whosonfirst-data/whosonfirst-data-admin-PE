@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        421170675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d74d6809379c7080a398444af03882e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209592245
+            "county_id":421170675,
+            "locality_id":1209592245,
+            "region_id":85675919
         }
     ],
     "wof:id":1209592245,
-    "wof:lastmodified":1537676883,
+    "wof:lastmodified":1560314691,
     "wof:name":"Muruhuay",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

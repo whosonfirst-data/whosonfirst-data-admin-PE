@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        1108694033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"e5b0e4eb6cf1b8a3eaca699f8fd329c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209671403
+            "county_id":1108694033,
+            "locality_id":1209671403,
+            "region_id":85675861
         }
     ],
     "wof:id":1209671403,
-    "wof:lastmodified":1536279909,
+    "wof:lastmodified":1560311409,
     "wof:name":"Acathuta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        1108693887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3696745
     },
     "wof:country":"PE",
-    "wof:geomhash":"307c86719afc374ecf1fcf1fbe7cd7dd",
+    "wof:geomhash":"2c65c3202db8254e82bea804bb84726b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209336133
+            "county_id":1108693887,
+            "locality_id":1209336133,
+            "region_id":85675879
         }
     ],
     "wof:id":1209336133,
-    "wof:lastmodified":1536290215,
+    "wof:lastmodified":1560311773,
     "wof:name":"Hacienda Farrat",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.52444,
-    -7.5571100000000015,
+    -7.55711,
     -78.52444,
-    -7.5571100000000015
+    -7.55711
 ],
   "geometry": {"coordinates":[-78.52444,-7.55711],"type":"Point"}
 }

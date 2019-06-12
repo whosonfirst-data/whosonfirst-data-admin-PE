@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421186269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8ef55ae6506755eaa3006744219ef01e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209479209
+            "county_id":421186269,
+            "locality_id":1209479209,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209479209,
-    "wof:lastmodified":1536285837,
+    "wof:lastmodified":1560309974,
     "wof:name":"Carohumana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421186269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"97446b3f59bcd0b1d05b6cd9721dbe0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209511833
+            "county_id":421187837,
+            "locality_id":1209511833,
+            "region_id":85675843
         }
     ],
     "wof:id":1209511833,
-    "wof:lastmodified":1537676758,
+    "wof:lastmodified":1560311105,
     "wof:name":"Mantoclla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

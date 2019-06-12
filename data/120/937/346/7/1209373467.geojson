@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421186269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"c57f7bf7f35ae41e2eef32e70ae00b2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209373467
+            "county_id":421186269,
+            "locality_id":1209373467,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209373467,
-    "wof:lastmodified":1537676710,
+    "wof:lastmodified":1560309959,
     "wof:name":"Rosario",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421186269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421177937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"872e534a129a4fdac1bbcd5889d5d7b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209610849
+            "county_id":421177937,
+            "locality_id":1209610849,
+            "region_id":85675911
         }
     ],
     "wof:id":1209610849,
-    "wof:lastmodified":1536281852,
+    "wof:lastmodified":1560314592,
     "wof:name":"Antacancha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

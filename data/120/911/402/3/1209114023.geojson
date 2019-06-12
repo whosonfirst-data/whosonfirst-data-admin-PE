@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c3511c44944f9dfd5b7453370f9ec45c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209114023
+            "county_id":1108694009,
+            "locality_id":1209114023,
+            "region_id":85675865
         }
     ],
     "wof:id":1209114023,
-    "wof:lastmodified":1536297313,
+    "wof:lastmodified":1560311467,
     "wof:name":"Huantorma",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3743254
     },
     "wof:country":"PE",
-    "wof:geomhash":"c4ce62619fdb9de8687c145b6a8ef386",
+    "wof:geomhash":"aa30a88badc23e1b8979108b60fa1884",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209079505
+            "county_id":1108693987,
+            "locality_id":1209079505,
+            "region_id":85675871
         }
     ],
     "wof:id":1209079505,
-    "wof:lastmodified":1536298385,
+    "wof:lastmodified":1560311623,
     "wof:name":"Lungan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -79.33038,
-    -6.2855300000000005,
+    -6.28553,
     -79.33038,
-    -6.2855300000000005
+    -6.28553
 ],
   "geometry": {"coordinates":[-79.33038000000001,-6.28553],"type":"Point"}
 }

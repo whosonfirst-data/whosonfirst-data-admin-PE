@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5673705e49e1a74a29d2875ca123cb90",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209487973
+            "county_id":1108693951,
+            "locality_id":1209487973,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209487973,
-    "wof:lastmodified":1536285576,
+    "wof:lastmodified":1560310205,
     "wof:name":"Hacienda Quimahuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

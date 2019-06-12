@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421180077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"f2257992ffa8e1962d4058b5f7413c1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209495525
+            "county_id":421180077,
+            "locality_id":1209495525,
+            "region_id":85675915
         }
     ],
     "wof:id":1209495525,
-    "wof:lastmodified":1536285349,
+    "wof:lastmodified":1560314632,
     "wof:name":"Chile",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421180077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

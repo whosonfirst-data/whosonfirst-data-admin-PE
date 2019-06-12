@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"361bc940a0657a85c9a6313bbb7e0896",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209611757
+            "county_id":421187837,
+            "locality_id":1209611757,
+            "region_id":85675843
         }
     ],
     "wof:id":1209611757,
-    "wof:lastmodified":1537676840,
+    "wof:lastmodified":1560311140,
     "wof:name":"Challabamba",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

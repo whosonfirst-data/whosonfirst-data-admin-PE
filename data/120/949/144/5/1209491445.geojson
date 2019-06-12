@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"8dc726f2f24ba050ef6814a56ed1fa82",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209491445
+            "county_id":1108693889,
+            "locality_id":1209491445,
+            "region_id":85675847
         }
     ],
     "wof:id":1209491445,
-    "wof:lastmodified":1537676811,
+    "wof:lastmodified":1560311311,
     "wof:name":"Fourquilla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

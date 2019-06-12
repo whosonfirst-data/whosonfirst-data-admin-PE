@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421194075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"494ffb6958f5b0592d4dbb2176f27856",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209214563
+            "county_id":421194075,
+            "locality_id":1209214563,
+            "region_id":85675839
         }
     ],
     "wof:id":1209214563,
-    "wof:lastmodified":1536294176,
+    "wof:lastmodified":1560310842,
     "wof:name":"Chincheros",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

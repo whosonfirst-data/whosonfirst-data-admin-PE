@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3763237
     },
     "wof:country":"PE",
-    "wof:geomhash":"e34124bcf63154cc510502a78e9d2e81",
+    "wof:geomhash":"7584fe2eed9ae169881aecd6172ab6b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209272801
+            "county_id":1108694057,
+            "locality_id":1209272801,
+            "region_id":85675885
         }
     ],
     "wof:id":1209272801,
-    "wof:lastmodified":1536292300,
+    "wof:lastmodified":1560312042,
     "wof:name":"Zapatero",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -76.4925,
-    -6.529719999999998,
+    -6.52972,
     -76.4925,
-    -6.529719999999998
+    -6.52972
 ],
   "geometry": {"coordinates":[-76.49250000000001,-6.52972],"type":"Point"}
 }

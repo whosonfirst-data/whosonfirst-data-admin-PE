@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421186269
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6310122
     },
     "wof:country":"PE",
-    "wof:geomhash":"60fb82af98ef0993ce5f46bfa67d78a6",
+    "wof:geomhash":"3af73673191134de36776159ea3c5935",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209378921
+            "county_id":421186269,
+            "locality_id":1209378921,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209378921,
-    "wof:lastmodified":1536288852,
+    "wof:lastmodified":1560309963,
     "wof:name":"Huylluma",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421186269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.47964,
-    -16.924310000000002,
+    -16.92431,
     -69.47964,
-    -16.924310000000002
+    -16.92431
 ],
   "geometry": {"coordinates":[-69.47964,-16.92431],"type":"Point"}
 }

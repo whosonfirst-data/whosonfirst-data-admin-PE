@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6672544
     },
     "wof:country":"PE",
-    "wof:geomhash":"a58874a35382c56ef4d70f23d2c43d80",
+    "wof:geomhash":"eda5e64cc8f4ed7e05a9511f42787777",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209024339
+            "county_id":1108693927,
+            "locality_id":1209024339,
+            "region_id":85675875
         }
     ],
     "wof:id":1209024339,
-    "wof:lastmodified":1536300049,
+    "wof:lastmodified":1560311695,
     "wof:name":"Alto Yanajanca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -76.31508000000002,
-    -8.654580000000001,
+    -8.65458,
     -76.31508000000002,
-    -8.654580000000001
+    -8.65458
 ],
   "geometry": {"coordinates":[-76.31508000000002,-8.65458],"type":"Point"}
 }

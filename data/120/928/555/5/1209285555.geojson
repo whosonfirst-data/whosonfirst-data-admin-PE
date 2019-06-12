@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421194455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"5df95568d1275f15eed91a9a9c448c66",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209285555
+            "county_id":421194455,
+            "locality_id":1209285555,
+            "region_id":85675879
         }
     ],
     "wof:id":1209285555,
-    "wof:lastmodified":1537676612,
+    "wof:lastmodified":1560311773,
     "wof:name":"Faclo Chico",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

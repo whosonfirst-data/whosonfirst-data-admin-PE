@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421181301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"55b0042a962b90b96cfb71b1ddae6a9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209389923
+            "county_id":421181301,
+            "locality_id":1209389923,
+            "region_id":85675875
         }
     ],
     "wof:id":1209389923,
-    "wof:lastmodified":1536288495,
+    "wof:lastmodified":1560311718,
     "wof:name":"Matara",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421181301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

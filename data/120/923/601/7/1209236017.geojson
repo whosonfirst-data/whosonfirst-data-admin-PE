@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108694039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"9349433517ed8f9d9e3e678f1d191979",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209236017
+            "county_id":1108694039,
+            "locality_id":1209236017,
+            "region_id":85675871
         }
     ],
     "wof:id":1209236017,
-    "wof:lastmodified":1537676957,
+    "wof:lastmodified":1560311605,
     "wof:name":"Cajon",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

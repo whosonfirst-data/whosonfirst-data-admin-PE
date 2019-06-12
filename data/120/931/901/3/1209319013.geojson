@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693943
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3943127
     },
     "wof:country":"PE",
-    "wof:geomhash":"da0aca8cc891191eec0840676087ef82",
+    "wof:geomhash":"36d7dd85a990c95481e4bdd47c777f0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209319013
+            "county_id":1108693943,
+            "locality_id":1209319013,
+            "region_id":85675903
         }
     ],
     "wof:id":1209319013,
-    "wof:lastmodified":1536290762,
+    "wof:lastmodified":1560314445,
     "wof:name":"Churia",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.92984,
-    -13.698520000000002,
+    -13.69852,
     -73.92984,
-    -13.698520000000002
+    -13.69852
 ],
   "geometry": {"coordinates":[-73.92984,-13.69852],"type":"Point"}
 }

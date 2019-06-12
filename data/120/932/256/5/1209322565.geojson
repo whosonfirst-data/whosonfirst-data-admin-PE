@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8ad713a65836ad16c4c403ed50dc0d24",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209322565
+            "county_id":1108694013,
+            "locality_id":1209322565,
+            "region_id":85675865
         }
     ],
     "wof:id":1209322565,
-    "wof:lastmodified":1536290641,
+    "wof:lastmodified":1560311449,
     "wof:name":"Ushno",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694013,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"591c05c919356aa3840b80a22ac5cfb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209108343
+            "county_id":1108694019,
+            "locality_id":1209108343,
+            "region_id":85675865
         }
     ],
     "wof:id":1209108343,
-    "wof:lastmodified":1537676640,
+    "wof:lastmodified":1560311446,
     "wof:name":"Buena Vista Baja",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

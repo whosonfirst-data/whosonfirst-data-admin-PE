@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"9fb84f1de8ccf0de819d7dfd9d11a4be",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209012385
+            "county_id":1108694019,
+            "locality_id":1209012385,
+            "region_id":85675865
         }
     ],
     "wof:id":1209012385,
-    "wof:lastmodified":1536300404,
+    "wof:lastmodified":1560311441,
     "wof:name":"Piedra Parada",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

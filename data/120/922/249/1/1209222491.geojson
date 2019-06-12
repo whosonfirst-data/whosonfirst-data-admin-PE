@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"320e8dcc5f3a2a76503f2ea0ebc18462",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209222491
+            "county_id":1108694009,
+            "locality_id":1209222491,
+            "region_id":85675865
         }
     ],
     "wof:id":1209222491,
-    "wof:lastmodified":1536293914,
+    "wof:lastmodified":1560311448,
     "wof:name":"Pacra",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

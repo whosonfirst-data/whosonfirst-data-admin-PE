@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421202213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"10fe0986e6d1382b7c0cbf6cc5c18d1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209417229
+            "county_id":421202213,
+            "locality_id":1209417229,
+            "region_id":85675865
         }
     ],
     "wof:id":1209417229,
-    "wof:lastmodified":1537676597,
+    "wof:lastmodified":1560311454,
     "wof:name":"La Cumbre",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
+        1175613121,
         421202549
     ],
     "wof:breaches":[],
@@ -50,11 +50,11 @@
             "country_id":85632521,
             "county_id":421202549,
             "locality_id":1260052647,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":1260052647,
-    "wof:lastmodified":1537676848,
+    "wof:lastmodified":1560310238,
     "wof:name":"Casa Blanca",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

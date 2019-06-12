@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c07cd3d45620c07f0e70e2a512cdfaf8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209270803
+            "county_id":1108694053,
+            "locality_id":1209270803,
+            "region_id":85675885
         }
     ],
     "wof:id":1209270803,
-    "wof:lastmodified":1536292366,
+    "wof:lastmodified":1560312022,
     "wof:name":"Alto San Martin",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

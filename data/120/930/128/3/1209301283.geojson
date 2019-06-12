@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        1108694035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"e6ce03cf49102c1936834fa69fa3feba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209301283
+            "county_id":1108694035,
+            "locality_id":1209301283,
+            "region_id":85675919
         }
     ],
     "wof:id":1209301283,
-    "wof:lastmodified":1536291349,
+    "wof:lastmodified":1560314682,
     "wof:name":"Aco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

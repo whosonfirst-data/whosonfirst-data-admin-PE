@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"d0be999d790c04336985db6e4fff8c27",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209519997
+            "county_id":1108693943,
+            "locality_id":1209519997,
+            "region_id":85675903
         }
     ],
     "wof:id":1209519997,
-    "wof:lastmodified":1536284610,
+    "wof:lastmodified":1560314455,
     "wof:name":"Raqui Raqui",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

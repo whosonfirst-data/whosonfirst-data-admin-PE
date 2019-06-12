@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421172463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6384938
     },
     "wof:country":"PE",
-    "wof:geomhash":"5854b2d047dd2279285f0ae962fdf77f",
+    "wof:geomhash":"b7048fe7b37149b5110dea6448a9554e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209285551
+            "county_id":421172463,
+            "locality_id":1209285551,
+            "region_id":85675879
         }
     ],
     "wof:id":1209285551,
-    "wof:lastmodified":1536291873,
+    "wof:lastmodified":1560311766,
     "wof:name":"Antamarca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.3725,
-    -8.158610000000001,
+    -8.15861,
     -77.3725,
-    -8.158610000000001
+    -8.15861
 ],
   "geometry": {"coordinates":[-77.3725,-8.15861],"type":"Point"}
 }

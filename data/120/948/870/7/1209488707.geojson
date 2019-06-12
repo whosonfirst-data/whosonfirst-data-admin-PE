@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421185309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"56b7e263eed89b7984ca311bdea4677e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209488707
+            "county_id":421185309,
+            "locality_id":1209488707,
+            "region_id":85675821
         }
     ],
     "wof:id":1209488707,
-    "wof:lastmodified":1537676657,
+    "wof:lastmodified":1560310549,
     "wof:name":"Huaca San Rosa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421202523
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3926612
     },
     "wof:country":"PE",
-    "wof:geomhash":"34577cf413f261b2a4f4e9b0b7202949",
+    "wof:geomhash":"80711ba87070c77bc1aaa503c70b93b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209438391
+            "county_id":421202523,
+            "locality_id":1209438391,
+            "region_id":85675839
         }
     ],
     "wof:id":1209438391,
-    "wof:lastmodified":1536287032,
+    "wof:lastmodified":1560310975,
     "wof:name":"Ucuchachas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -72.0881,
-    -15.538620000000002,
+    -15.53862,
     -72.0881,
-    -15.538620000000002
+    -15.53862
 ],
   "geometry": {"coordinates":[-72.0881,-15.53862],"type":"Point"}
 }

@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421198071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"f8d8ac981982e0b2b560665b05a50ee1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209191745
+            "county_id":421198071,
+            "locality_id":1209191745,
+            "region_id":85675915
         }
     ],
     "wof:id":1209191745,
-    "wof:lastmodified":1537676668,
+    "wof:lastmodified":1560314627,
     "wof:name":"Hacienda La Venturosa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421198071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"2af600fc25e3b945dd6b59c2ece5b7fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209214541
+            "county_id":421193379,
+            "locality_id":1209214541,
+            "region_id":85675839
         }
     ],
     "wof:id":1209214541,
-    "wof:lastmodified":1536294177,
+    "wof:lastmodified":1560310842,
     "wof:name":"Tucalaca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

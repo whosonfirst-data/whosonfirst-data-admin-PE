@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"da181cdcb912886deaaaa59e1965a5af",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209091065
+            "county_id":421203205,
+            "locality_id":1209091065,
+            "region_id":85675843
         }
     ],
     "wof:id":1209091065,
-    "wof:lastmodified":1536298034,
+    "wof:lastmodified":1560311120,
     "wof:name":"Chectachancara",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"8a3c0f2ef7c12034fcaba11fcfd276bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209213273
+            "county_id":1108693937,
+            "locality_id":1209213273,
+            "region_id":85675903
         }
     ],
     "wof:id":1209213273,
-    "wof:lastmodified":1537676959,
+    "wof:lastmodified":1560314441,
     "wof:name":"Sanquini",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

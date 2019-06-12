@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421170673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0ae6ae31c745cb81677a130d5d5a70db",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209504327
+            "county_id":421170673,
+            "locality_id":1209504327,
+            "region_id":85675911
         }
     ],
     "wof:id":1209504327,
-    "wof:lastmodified":1536285082,
+    "wof:lastmodified":1560314563,
     "wof:name":"Llachuajasa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

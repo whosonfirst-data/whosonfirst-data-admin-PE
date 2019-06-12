@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"069da6f6b1955bd24c5ea49932d41986",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209597983
+            "county_id":1108693955,
+            "locality_id":1209597983,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209597983,
-    "wof:lastmodified":1536282261,
+    "wof:lastmodified":1560310204,
     "wof:name":"Cochilca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

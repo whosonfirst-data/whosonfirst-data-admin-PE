@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421194075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"26ed5817415bf784382c448bcd1635f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209614955
+            "county_id":421194075,
+            "locality_id":1209614955,
+            "region_id":85675839
         }
     ],
     "wof:id":1209614955,
-    "wof:lastmodified":1536281721,
+    "wof:lastmodified":1560310989,
     "wof:name":"El Socorro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

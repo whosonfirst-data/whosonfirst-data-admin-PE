@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        1108693905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,17 @@
     "wof:geomhash":"d3c92dc3f8a50919970b9ec331640a71",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209516589
+            "county_id":1108693905,
+            "locality_id":1209516589,
+            "region_id":85675835
         }
     ],
     "wof:id":1209516589,
-    "wof:lastmodified":1537570264,
+    "wof:lastmodified":1560310742,
     "wof:name":"Chuquibambilla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

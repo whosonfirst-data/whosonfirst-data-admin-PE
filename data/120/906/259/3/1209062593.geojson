@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421194089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389188
     },
     "wof:country":"PE",
-    "wof:geomhash":"153fd22d734c9227d22f2a15c80c6a45",
+    "wof:geomhash":"34d4e226891659dc0632b71d038d6eed",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209062593
+            "county_id":421194089,
+            "locality_id":1209062593,
+            "region_id":85675885
         }
     ],
     "wof:id":1209062593,
-    "wof:lastmodified":1536298906,
+    "wof:lastmodified":1560311997,
     "wof:name":"Independencia",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.19389,
-    -6.1291699999999985,
+    -6.12917,
     -77.19389,
-    -6.1291699999999985
+    -6.12917
 ],
   "geometry": {"coordinates":[-77.19389,-6.12917],"type":"Point"}
 }

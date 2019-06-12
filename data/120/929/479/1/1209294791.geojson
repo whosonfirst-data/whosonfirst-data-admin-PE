@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421180077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"d9a2a5a8a3e0777acc5b4e4742e9b9dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209294791
+            "county_id":421180077,
+            "locality_id":1209294791,
+            "region_id":85675915
         }
     ],
     "wof:id":1209294791,
-    "wof:lastmodified":1537676856,
+    "wof:lastmodified":1560314628,
     "wof:name":"Hacienda Cahuachi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421180077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

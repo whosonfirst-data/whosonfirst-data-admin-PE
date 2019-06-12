@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421187855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"3720ac02fade98d65e0b1ccca4da7fcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209184635
+            "county_id":421187855,
+            "locality_id":1209184635,
+            "region_id":85675821
         }
     ],
     "wof:id":1209184635,
-    "wof:lastmodified":1537676614,
+    "wof:lastmodified":1560310543,
     "wof:name":"Porvenir",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

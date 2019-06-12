@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421167831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"6c99020b204a06c22a398821fce66e53",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209178227
+            "county_id":421167831,
+            "locality_id":1209178227,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209178227,
-    "wof:lastmodified":1536295348,
+    "wof:lastmodified":1560310003,
     "wof:name":"Vilcapata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421167831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

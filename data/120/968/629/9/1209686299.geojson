@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421188727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"aad50c78166594e1342480252ebe4eba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209686299
+            "county_id":421188727,
+            "locality_id":1209686299,
+            "region_id":85675821
         }
     ],
     "wof:id":1209686299,
-    "wof:lastmodified":1537676648,
+    "wof:lastmodified":1560310548,
     "wof:name":"Puchaca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

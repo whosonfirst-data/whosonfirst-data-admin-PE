@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"92fd63e4da6f9b034cbddc609730fd1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209623093
+            "county_id":1108693925,
+            "locality_id":1209623093,
+            "region_id":85675875
         }
     ],
     "wof:id":1209623093,
-    "wof:lastmodified":1536281448,
+    "wof:lastmodified":1560311683,
     "wof:name":"San Nicolas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        1108694023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0dcc063c80d8e8c0870aaf5451824a53",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209438381
+            "county_id":1108694023,
+            "locality_id":1209438381,
+            "region_id":85675839
         }
     ],
     "wof:id":1209438381,
-    "wof:lastmodified":1536287033,
+    "wof:lastmodified":1560310969,
     "wof:name":"Maukkallaccta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

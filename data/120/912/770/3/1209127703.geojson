@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421172423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0c2ec35eb529589f667a0779e7e452c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209127703
+            "county_id":421172423,
+            "locality_id":1209127703,
+            "region_id":85675871
         }
     ],
     "wof:id":1209127703,
-    "wof:lastmodified":1536296905,
+    "wof:lastmodified":1560311602,
     "wof:name":"Quinuamayo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172423,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

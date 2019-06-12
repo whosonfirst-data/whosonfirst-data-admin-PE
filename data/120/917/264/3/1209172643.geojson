@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421186269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5dcdd230434e2de4ebfa3ab80a6a33ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209172643
+            "county_id":421186269,
+            "locality_id":1209172643,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209172643,
-    "wof:lastmodified":1536295528,
+    "wof:lastmodified":1560309994,
     "wof:name":"Amotire",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421186269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

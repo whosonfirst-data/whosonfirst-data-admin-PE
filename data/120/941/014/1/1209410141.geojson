@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421176081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c514b31bb2223f0e1d1f1a164748535e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209410141
+            "county_id":421176081,
+            "locality_id":1209410141,
+            "region_id":85675875
         }
     ],
     "wof:id":1209410141,
-    "wof:lastmodified":1536287864,
+    "wof:lastmodified":1560311680,
     "wof:name":"Papa-huasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421176081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

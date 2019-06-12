@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3950252
     },
     "wof:country":"PE",
-    "wof:geomhash":"566f4fcf88951b96d24d64098832f833",
+    "wof:geomhash":"fc329c2e2861b00a20a758cb0b1b43e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209247139
+            "county_id":421193379,
+            "locality_id":1209247139,
+            "region_id":85675839
         }
     ],
     "wof:id":1209247139,
-    "wof:lastmodified":1536293125,
+    "wof:lastmodified":1560310846,
     "wof:name":"Visconoja",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.74105,
-    -15.757829999999998,
+    -15.75783,
     -71.74105,
-    -15.757829999999998
+    -15.75783
 ],
   "geometry": {"coordinates":[-71.74105,-15.75783],"type":"Point"}
 }

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421202523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"ba4b23e90d8dbafb57aa82345711e7fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209247149
+            "county_id":421202523,
+            "locality_id":1209247149,
+            "region_id":85675839
         }
     ],
     "wof:id":1209247149,
-    "wof:lastmodified":1536293125,
+    "wof:lastmodified":1560310846,
     "wof:name":"Choco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

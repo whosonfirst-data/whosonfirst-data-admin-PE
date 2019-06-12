@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421170341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8bd048e33446b081a09ea4aa929501c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209065429
+            "county_id":421170341,
+            "locality_id":1209065429,
+            "region_id":85675827
         }
     ],
     "wof:id":1209065429,
-    "wof:lastmodified":1537676556,
+    "wof:lastmodified":1560310610,
     "wof:name":"Salina",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

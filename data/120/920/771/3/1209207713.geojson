@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421185311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"740cd0f4ad0749656ca584c27fe3ce47",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209207713
+            "county_id":421185311,
+            "locality_id":1209207713,
+            "region_id":85675903
         }
     ],
     "wof:id":1209207713,
-    "wof:lastmodified":1537676918,
+    "wof:lastmodified":1560314442,
     "wof:name":"Maisondo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421200651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"a6e96e621a25f5cb2d47eb456e83ccfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209489297
+            "county_id":421200651,
+            "locality_id":1209489297,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209489297,
-    "wof:lastmodified":1537676851,
+    "wof:lastmodified":1560310044,
     "wof:name":"Capachica",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421200651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

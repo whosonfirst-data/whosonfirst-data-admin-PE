@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3957231
     },
     "wof:country":"PE",
-    "wof:geomhash":"4de25f97d5dfc6078a0cf20930e77aac",
+    "wof:geomhash":"e770e602db9f55ba4c3d1890143f3c52",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209515041
+            "county_id":421193379,
+            "locality_id":1209515041,
+            "region_id":85675839
         }
     ],
     "wof:id":1209515041,
-    "wof:lastmodified":1536284760,
+    "wof:lastmodified":1560310863,
     "wof:name":"Tomaquipa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.88765,
-    -14.843379999999998,
+    -14.84338,
     -71.88765,
-    -14.843379999999998
+    -14.84338
 ],
   "geometry": {"coordinates":[-71.88764999999999,-14.84338],"type":"Point"}
 }

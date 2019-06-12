@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"48a741bfc280b05286bf569cc33247e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209309405
+            "county_id":1108693923,
+            "locality_id":1209309405,
+            "region_id":85675875
         }
     ],
     "wof:id":1209309405,
-    "wof:lastmodified":1536291081,
+    "wof:lastmodified":1560311680,
     "wof:name":"Tapta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

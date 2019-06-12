@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421187863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"dead20cc298c36ee84dc3472037f1bc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209370271
+            "county_id":421187863,
+            "locality_id":1209370271,
+            "region_id":85675831
         }
     ],
     "wof:id":1209370271,
-    "wof:lastmodified":1536289130,
+    "wof:lastmodified":1560310710,
     "wof:name":"Molino La Cruz",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

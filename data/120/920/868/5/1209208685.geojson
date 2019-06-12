@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421181301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c448cf55586fa72033bf5bedd8e41257",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209208685
+            "county_id":421181301,
+            "locality_id":1209208685,
+            "region_id":85675875
         }
     ],
     "wof:id":1209208685,
-    "wof:lastmodified":1536294364,
+    "wof:lastmodified":1560311679,
     "wof:name":"Jerje",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421181301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

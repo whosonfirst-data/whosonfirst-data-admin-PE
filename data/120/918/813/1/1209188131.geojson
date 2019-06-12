@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421171963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"0a12debc77c7de830c089ddd659d9f97",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209188131
+            "county_id":421171963,
+            "locality_id":1209188131,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209188131,
-    "wof:lastmodified":1537676867,
+    "wof:lastmodified":1560309953,
     "wof:name":"Anta Alta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421171963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421170661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b50bcbe747f590857f7f233b07b378f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209523317
+            "county_id":421170661,
+            "locality_id":1209523317,
+            "region_id":85675865
         }
     ],
     "wof:id":1209523317,
-    "wof:lastmodified":1536284511,
+    "wof:lastmodified":1560311455,
     "wof:name":"Utcush",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

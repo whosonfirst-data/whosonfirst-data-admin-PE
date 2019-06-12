@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3959785
     },
     "wof:country":"PE",
-    "wof:geomhash":"31de3f75112767b776537323eeaa0add",
+    "wof:geomhash":"ef806b0187a72503ea3a625ac86b78f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209519983
+            "county_id":421193433,
+            "locality_id":1209519983,
+            "region_id":85675903
         }
     ],
     "wof:id":1209519983,
-    "wof:lastmodified":1536284611,
+    "wof:lastmodified":1560314455,
     "wof:name":"Telarhuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.81,
-    -14.312220000000002,
+    -14.31222,
     -73.81,
-    -14.312220000000002
+    -14.31222
 ],
   "geometry": {"coordinates":[-73.81,-14.31222],"type":"Point"}
 }

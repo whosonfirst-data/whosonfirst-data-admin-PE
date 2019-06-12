@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"75b25e7a97435add1ca6c65d8d74c4d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209094719
+            "county_id":1108693929,
+            "locality_id":1209094719,
+            "region_id":85675875
         }
     ],
     "wof:id":1209094719,
-    "wof:lastmodified":1537676885,
+    "wof:lastmodified":1560311704,
     "wof:name":"Huacas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

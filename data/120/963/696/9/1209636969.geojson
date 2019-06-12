@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108694045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"34d8406b12e27e1556e361024ce15fdd",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209636969
+            "county_id":1108694045,
+            "locality_id":1209636969,
+            "region_id":85675871
         }
     ],
     "wof:id":1209636969,
-    "wof:lastmodified":1537676647,
+    "wof:lastmodified":1560311630,
     "wof:name":"Algamarca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

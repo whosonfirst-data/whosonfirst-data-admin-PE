@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        1108694023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"f0bd621ef58eaede64f393ee44cafa36",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209337925
+            "county_id":1108694023,
+            "locality_id":1209337925,
+            "region_id":85675839
         }
     ],
     "wof:id":1209337925,
-    "wof:lastmodified":1536290157,
+    "wof:lastmodified":1560311054,
     "wof:name":"Taurisma",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

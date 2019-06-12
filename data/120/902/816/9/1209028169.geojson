@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3696231
     },
     "wof:country":"PE",
-    "wof:geomhash":"75d4396d589cad187601d37ac953057d",
+    "wof:geomhash":"2139215635db92f857297c0b5a5331fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209028169
+            "county_id":1108693991,
+            "locality_id":1209028169,
+            "region_id":85675871
         }
     ],
     "wof:id":1209028169,
-    "wof:lastmodified":1536299930,
+    "wof:lastmodified":1560311600,
     "wof:name":"Illuca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.1906,
-    -7.235360000000001,
+    -7.23536,
     -78.1906,
-    -7.235360000000001
+    -7.23536
 ],
   "geometry": {"coordinates":[-78.1906,-7.23536],"type":"Point"}
 }

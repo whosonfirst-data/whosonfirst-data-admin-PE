@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421180077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"a95853a3af109e89f745cdd3445e6a3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209492583
+            "county_id":421180077,
+            "locality_id":1209492583,
+            "region_id":85675915
         }
     ],
     "wof:id":1209492583,
-    "wof:lastmodified":1537676700,
+    "wof:lastmodified":1560314630,
     "wof:name":"San Juan de Marcona",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421180077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

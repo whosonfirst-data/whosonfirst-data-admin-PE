@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8f4b757c0b581ac952078168b084da7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209484037
+            "county_id":1108694041,
+            "locality_id":1209484037,
+            "region_id":85675885
         }
     ],
     "wof:id":1209484037,
-    "wof:lastmodified":1536285692,
+    "wof:lastmodified":1560312005,
     "wof:name":"Chiclayo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

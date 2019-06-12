@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421187855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5bc293db51cee1936baeca96118f9be3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209485831
+            "county_id":421187855,
+            "locality_id":1209485831,
+            "region_id":85675821
         }
     ],
     "wof:id":1209485831,
-    "wof:lastmodified":1536285639,
+    "wof:lastmodified":1560310547,
     "wof:name":"Tamarindo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

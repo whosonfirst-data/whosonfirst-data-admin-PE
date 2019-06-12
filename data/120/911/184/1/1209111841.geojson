@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421202523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"abbd1ba34c12537a17a8ceda47dfc82e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209111841
+            "county_id":421202523,
+            "locality_id":1209111841,
+            "region_id":85675839
         }
     ],
     "wof:id":1209111841,
-    "wof:lastmodified":1537676677,
+    "wof:lastmodified":1560310834,
     "wof:name":"Tolcone",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"afb0e300c190ac882a0b1640666d3686",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209622037
+            "county_id":421170339,
+            "locality_id":1209622037,
+            "region_id":85675835
         }
     ],
     "wof:id":1209622037,
-    "wof:lastmodified":1536281484,
+    "wof:lastmodified":1560310741,
     "wof:name":"Mojanza",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

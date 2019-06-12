@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421185313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5f8aa54f9210b880727982f30fa87b7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209309385
+            "county_id":421185313,
+            "locality_id":1209309385,
+            "region_id":85675875
         }
     ],
     "wof:id":1209309385,
-    "wof:lastmodified":1536291081,
+    "wof:lastmodified":1560311715,
     "wof:name":"Huinchush",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

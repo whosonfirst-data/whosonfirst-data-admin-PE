@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"a6bd4cf7bf74ba1f9d00d208e406aca5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209328187
+            "county_id":1108694047,
+            "locality_id":1209328187,
+            "region_id":85675885
         }
     ],
     "wof:id":1209328187,
-    "wof:lastmodified":1536290461,
+    "wof:lastmodified":1560312001,
     "wof:name":"San Pablo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421185311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"9a039600e00e261a6fdd44088d61988a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209313025
+            "county_id":421185311,
+            "locality_id":1209313025,
+            "region_id":85675903
         }
     ],
     "wof:id":1209313025,
-    "wof:lastmodified":1536290960,
+    "wof:lastmodified":1560314486,
     "wof:name":"Ananoccasa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

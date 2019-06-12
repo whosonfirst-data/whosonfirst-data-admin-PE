@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        421175173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"ff1424b13b2f4351ff4c2ed622ad3167",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209497053
+            "county_id":421175173,
+            "locality_id":1209497053,
+            "region_id":85675899
         }
     ],
     "wof:id":1209497053,
-    "wof:lastmodified":1536285302,
+    "wof:lastmodified":1560314325,
     "wof:name":"Shiviyacu",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

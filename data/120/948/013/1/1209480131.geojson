@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675883,
+        421194849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"016c2a01edfe0fb12ae31afbb5c6f942",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209480131
+            "county_id":421194849,
+            "locality_id":1209480131,
+            "region_id":85675883
         }
     ],
     "wof:id":1209480131,
-    "wof:lastmodified":1536285811,
+    "wof:lastmodified":1560311828,
     "wof:name":"Hishancancha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

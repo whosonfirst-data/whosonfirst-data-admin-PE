@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"ab9dce379110a274b5b35bb690ebde8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209103331
+            "county_id":1108693977,
+            "locality_id":1209103331,
+            "region_id":85675871
         }
     ],
     "wof:id":1209103331,
-    "wof:lastmodified":1536297661,
+    "wof:lastmodified":1560311601,
     "wof:name":"San Jose",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        1108693895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6379518
     },
     "wof:country":"PE",
-    "wof:geomhash":"4d1d76a688fb03306fdca7091f00aa66",
+    "wof:geomhash":"c2a186e65aed55c43ddb01ee723bb774",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209484041
+            "county_id":1108693895,
+            "locality_id":1209484041,
+            "region_id":85675895
         }
     ],
     "wof:id":1209484041,
-    "wof:lastmodified":1536285692,
+    "wof:lastmodified":1560312381,
     "wof:name":"Buenaparte",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -77.74769,
-    -6.8639100000000015,
+    -6.86391,
     -77.74769,
-    -6.8639100000000015
+    -6.86391
 ],
   "geometry": {"coordinates":[-77.74769000000001,-6.86391],"type":"Point"}
 }

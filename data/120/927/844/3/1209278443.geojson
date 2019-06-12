@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"421e132f4e42fd2f55f2e21483f598c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209278443
+            "county_id":1108693913,
+            "locality_id":1209278443,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209278443,
-    "wof:lastmodified":1537676998,
+    "wof:lastmodified":1560309957,
     "wof:name":"Ayo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

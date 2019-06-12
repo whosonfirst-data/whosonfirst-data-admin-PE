@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b591a32b62d9ef99a54a4c0f2e8f68ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209315759
+            "county_id":421170655,
+            "locality_id":1209315759,
+            "region_id":85675835
         }
     ],
     "wof:id":1209315759,
-    "wof:lastmodified":1536290871,
+    "wof:lastmodified":1560310738,
     "wof:name":"Antilla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        1108693909
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3948132
     },
     "wof:country":"PE",
-    "wof:geomhash":"f7f8dbe8f2e8fdf1abe23f8caa72c763",
+    "wof:geomhash":"eff93c2335ceae9a40178cb1be6515b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209421841
+            "county_id":1108693909,
+            "locality_id":1209421841,
+            "region_id":85675835
         }
     ],
     "wof:id":1209421841,
-    "wof:lastmodified":1536287505,
+    "wof:lastmodified":1560310738,
     "wof:name":"Allauca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -72.53333,
-    -14.316670000000002,
+    -14.31667,
     -72.53333,
-    -14.316670000000002
+    -14.31667
 ],
   "geometry": {"coordinates":[-72.53333000000001,-14.31667],"type":"Point"}
 }

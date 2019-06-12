@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421171561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"6f94bf21625ac7dac6aece23c0d62eaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209173061
+            "county_id":421171561,
+            "locality_id":1209173061,
+            "region_id":85675827
         }
     ],
     "wof:id":1209173061,
-    "wof:lastmodified":1536295516,
+    "wof:lastmodified":1560310612,
     "wof:name":"Sanchaya",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421171561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

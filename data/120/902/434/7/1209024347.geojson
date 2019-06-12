@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421170671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6672522
     },
     "wof:country":"PE",
-    "wof:geomhash":"b34a0fc83619ef0887c22f9e0d1e4341",
+    "wof:geomhash":"178250768bbef732cdef2c9d7f9e5df8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209024347
+            "county_id":421170671,
+            "locality_id":1209024347,
+            "region_id":85675885
         }
     ],
     "wof:id":1209024347,
-    "wof:lastmodified":1536300049,
+    "wof:lastmodified":1560311995,
     "wof:name":"Aspuzana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -76.17645999999998,
-    -8.754610000000001,
+    -8.75461,
     -76.17645999999998,
-    -8.754610000000001
+    -8.75461
 ],
   "geometry": {"coordinates":[-76.17645999999998,-8.75461],"type":"Point"}
 }

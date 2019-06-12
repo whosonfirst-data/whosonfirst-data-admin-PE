@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"936b435edf5005000e9e2247b1470cc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209436545
+            "county_id":1108693983,
+            "locality_id":1209436545,
+            "region_id":85675871
         }
     ],
     "wof:id":1209436545,
-    "wof:lastmodified":1537676584,
+    "wof:lastmodified":1560311606,
     "wof:name":"Minabamba",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

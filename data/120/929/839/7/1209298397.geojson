@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421177937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"91714572c23018b61d226f6b9585dd43",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209298397
+            "county_id":421177937,
+            "locality_id":1209298397,
+            "region_id":85675911
         }
     ],
     "wof:id":1209298397,
-    "wof:lastmodified":1536291443,
+    "wof:lastmodified":1560314555,
     "wof:name":"Occoro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

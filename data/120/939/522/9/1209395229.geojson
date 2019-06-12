@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421198071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"adabe5b4ee2ce086bc74f7abb658ed27",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209395229
+            "county_id":421198071,
+            "locality_id":1209395229,
+            "region_id":85675915
         }
     ],
     "wof:id":1209395229,
-    "wof:lastmodified":1537676758,
+    "wof:lastmodified":1560314630,
     "wof:name":"Manrique",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421198071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

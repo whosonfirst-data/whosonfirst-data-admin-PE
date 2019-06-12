@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        1108694031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"cd545ca96c877802342daa4eeb0c1b7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209470903
+            "county_id":1108694031,
+            "locality_id":1209470903,
+            "region_id":85675861
         }
     ],
     "wof:id":1209470903,
-    "wof:lastmodified":1536286084,
+    "wof:lastmodified":1560311408,
     "wof:name":"Curibaya",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

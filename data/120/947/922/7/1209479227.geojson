@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421186269
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3926205
     },
     "wof:country":"PE",
-    "wof:geomhash":"b58aba50a5ab141a9f01e227bd57df4a",
+    "wof:geomhash":"28aa6ae70b557b0fe63a166200caa31e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209479227
+            "county_id":421186269,
+            "locality_id":1209479227,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209479227,
-    "wof:lastmodified":1536285837,
+    "wof:lastmodified":1560310046,
     "wof:name":"Vila-Amaya",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421186269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.59915,
-    -16.322670000000002,
+    -16.32267,
     -69.59915,
-    -16.322670000000002
+    -16.32267
 ],
   "geometry": {"coordinates":[-69.59914999999999,-16.32267],"type":"Point"}
 }

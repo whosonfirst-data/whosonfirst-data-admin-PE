@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421187921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"85ca59b397310bdc25812b45d063c8e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209222493
+            "county_id":421187921,
+            "locality_id":1209222493,
+            "region_id":85675865
         }
     ],
     "wof:id":1209222493,
-    "wof:lastmodified":1536293914,
+    "wof:lastmodified":1560311447,
     "wof:name":"Shinhua",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

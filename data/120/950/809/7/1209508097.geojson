@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e25b07a08d98f969d9e7a2989c974f34",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209508097
+            "county_id":1108693937,
+            "locality_id":1209508097,
+            "region_id":85675903
         }
     ],
     "wof:id":1209508097,
-    "wof:lastmodified":1537676959,
+    "wof:lastmodified":1560314452,
     "wof:name":"Nino Salvador",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

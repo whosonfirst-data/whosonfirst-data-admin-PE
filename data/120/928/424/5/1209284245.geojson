@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"39cf2323dfd78ed0b59760eb053b01aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209284245
+            "county_id":1108693967,
+            "locality_id":1209284245,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209284245,
-    "wof:lastmodified":1536291914,
+    "wof:lastmodified":1560310147,
     "wof:name":"Huaguina",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

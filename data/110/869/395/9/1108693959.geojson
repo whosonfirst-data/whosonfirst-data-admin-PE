@@ -53,8 +53,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        85675925
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,19 +67,13 @@
             "continent_id":102191577,
             "country_id":85632521,
             "county_id":1108693959,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693959,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1108693959,
-    "wof:lastmodified":1553718253,
+    "wof:lastmodified":1560310097,
     "wof:name":"Barranca",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175613121,
     "wof:placetype":"county",
     "wof:placetype_local":"province",
     "wof:population":114051,

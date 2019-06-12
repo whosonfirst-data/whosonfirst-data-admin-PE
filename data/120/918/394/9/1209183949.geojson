@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"1314e25225a746f02200d933954dc1a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209183949
+            "county_id":1108693967,
+            "locality_id":1209183949,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209183949,
-    "wof:lastmodified":1536295165,
+    "wof:lastmodified":1560310279,
     "wof:name":"Coranche",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

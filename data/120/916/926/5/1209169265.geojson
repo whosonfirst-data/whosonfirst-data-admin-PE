@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675891,
+        421171957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"212281f1f0dca4a986729b31f90383d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209169265
+            "county_id":421171957,
+            "locality_id":1209169265,
+            "region_id":85675891
         }
     ],
     "wof:id":1209169265,
-    "wof:lastmodified":1536295636,
+    "wof:lastmodified":1560312304,
     "wof:name":"San Antonio Viejo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421171957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3934557
     },
     "wof:country":"PE",
-    "wof:geomhash":"f9bf19a1fc6dd926e5c62399905e53a6",
+    "wof:geomhash":"e6922b0c59ddbf850f6b3be3028b291f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209489301
+            "county_id":1108693919,
+            "locality_id":1209489301,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209489301,
-    "wof:lastmodified":1536285537,
+    "wof:lastmodified":1560309971,
     "wof:name":"Morullo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.62833,
-    -17.154420000000002,
+    -17.15442,
     -69.62833,
-    -17.154420000000002
+    -17.15442
 ],
   "geometry": {"coordinates":[-69.62833000000001,-17.15442],"type":"Point"}
 }

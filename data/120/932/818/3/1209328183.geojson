@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421170663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"730fb37aec770e34abd50d364e09d850",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209328183
+            "county_id":421170663,
+            "locality_id":1209328183,
+            "region_id":85675895
         }
     ],
     "wof:id":1209328183,
-    "wof:lastmodified":1536290461,
+    "wof:lastmodified":1560312379,
     "wof:name":"San Francisco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

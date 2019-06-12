@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
+        1175613121,
         421202549
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632521,
             "county_id":421202549,
             "locality_id":421193073,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":421193073,
-    "wof:lastmodified":1501269294,
+    "wof:lastmodified":1560310350,
     "wof:name":"San Borja",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

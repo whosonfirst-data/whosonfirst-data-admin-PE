@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"fecdc823b5b4f2782c5fa7442ea04206",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209491443
+            "county_id":1108693891,
+            "locality_id":1209491443,
+            "region_id":85675847
         }
     ],
     "wof:id":1209491443,
-    "wof:lastmodified":1537676992,
+    "wof:lastmodified":1560311310,
     "wof:name":"Bajo Tambopata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

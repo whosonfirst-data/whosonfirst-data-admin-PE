@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        421182241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"94675d6f6e2edcdf8cbfeaf19d5448c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209378619
+            "county_id":421182241,
+            "locality_id":1209378619,
+            "region_id":85675899
         }
     ],
     "wof:id":1209378619,
-    "wof:lastmodified":1537676562,
+    "wof:lastmodified":1560314309,
     "wof:name":"Puesto Arturo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

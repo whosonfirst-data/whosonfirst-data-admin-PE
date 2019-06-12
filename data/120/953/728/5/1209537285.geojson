@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108694039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3694842
     },
     "wof:country":"PE",
-    "wof:geomhash":"03d8767f9f55111f5e41efd2af81b4be",
+    "wof:geomhash":"1d3cc37393b4da83edab61ee946ad2e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209537285
+            "county_id":1108694039,
+            "locality_id":1209537285,
+            "region_id":85675871
         }
     ],
     "wof:id":1209537285,
-    "wof:lastmodified":1536284099,
+    "wof:lastmodified":1560311611,
     "wof:name":"Membrillar",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.847,
-    -7.4039899999999985,
+    -7.40399,
     -78.847,
-    -7.4039899999999985
+    -7.40399
 ],
   "geometry": {"coordinates":[-78.84699999999999,-7.40399],"type":"Point"}
 }

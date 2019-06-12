@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"79479c37834159f2f2399833c69de542",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209582023
+            "county_id":1108693891,
+            "locality_id":1209582023,
+            "region_id":85675847
         }
     ],
     "wof:id":1209582023,
-    "wof:lastmodified":1537676992,
+    "wof:lastmodified":1560311311,
     "wof:name":"Barrio Nuevo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

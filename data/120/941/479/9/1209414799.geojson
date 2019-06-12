@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421202523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"42aebd3bc621d466bbb348ec87121f7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209414799
+            "county_id":421202523,
+            "locality_id":1209414799,
+            "region_id":85675839
         }
     ],
     "wof:id":1209414799,
-    "wof:lastmodified":1536287723,
+    "wof:lastmodified":1560310852,
     "wof:name":"Ocoruro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

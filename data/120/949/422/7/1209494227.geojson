@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421177079
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3743917
     },
     "wof:country":"PE",
-    "wof:geomhash":"d57ab7c885a4b9fa07a7ffc06d95b781",
+    "wof:geomhash":"7d2580d83756dd11e8554c90b280d167",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209494227
+            "county_id":421177079,
+            "locality_id":1209494227,
+            "region_id":85675879
         }
     ],
     "wof:id":1209494227,
-    "wof:lastmodified":1536285388,
+    "wof:lastmodified":1560311777,
     "wof:name":"Huachimin",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.81003,
-    -7.554189999999998,
+    -7.55419,
     -77.81003,
-    -7.554189999999998
+    -7.55419
 ],
   "geometry": {"coordinates":[-77.81003,-7.55419],"type":"Point"}
 }

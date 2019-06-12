@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3928069
     },
     "wof:country":"PE",
-    "wof:geomhash":"360403a2f23ef1d42d7876a83f9f2855",
+    "wof:geomhash":"c7b382bd402f35828200d462151e9142",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209508095
+            "county_id":421193433,
+            "locality_id":1209508095,
+            "region_id":85675903
         }
     ],
     "wof:id":1209508095,
-    "wof:lastmodified":1536284969,
+    "wof:lastmodified":1560314495,
     "wof:name":"Tajapucro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.13266,
-    -14.987520000000002,
+    -14.98752,
     -74.13266,
-    -14.987520000000002
+    -14.98752
 ],
   "geometry": {"coordinates":[-74.13266,-14.98752],"type":"Point"}
 }

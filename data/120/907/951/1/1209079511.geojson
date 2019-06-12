@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421188727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f3ac7174ec373e8f37501114edb24765",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209079511
+            "county_id":421188727,
+            "locality_id":1209079511,
+            "region_id":85675821
         }
     ],
     "wof:id":1209079511,
-    "wof:lastmodified":1537676948,
+    "wof:lastmodified":1560310542,
     "wof:name":"Senor de la Justicia",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

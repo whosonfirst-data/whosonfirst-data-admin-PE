@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421183859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"64ecda2024ee8735f76ae9436c60f950",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209098137
+            "county_id":421183859,
+            "locality_id":1209098137,
+            "region_id":85675871
         }
     ],
     "wof:id":1209098137,
-    "wof:lastmodified":1536297821,
+    "wof:lastmodified":1560311601,
     "wof:name":"Conicorque",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

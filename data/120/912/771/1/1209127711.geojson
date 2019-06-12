@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        1108693887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3692386
     },
     "wof:country":"PE",
-    "wof:geomhash":"bc35819ff08a9354d5fe6a920b6516eb",
+    "wof:geomhash":"324c2eb5856a5b46f256f4dc97d60f14",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209127711
+            "county_id":1108693887,
+            "locality_id":1209127711,
+            "region_id":85675879
         }
     ],
     "wof:id":1209127711,
-    "wof:lastmodified":1536296904,
+    "wof:lastmodified":1560311771,
     "wof:name":"San Martin",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -78.75341999999998,
-    -7.4295399999999985,
+    -7.42954,
     -78.75341999999998,
-    -7.4295399999999985
+    -7.42954
 ],
   "geometry": {"coordinates":[-78.75341999999998,-7.42954],"type":"Point"}
 }

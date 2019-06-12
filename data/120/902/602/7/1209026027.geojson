@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"df01bcc5e4f9242ed7bbb7e1e71fb771",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209026027
+            "county_id":421187837,
+            "locality_id":1209026027,
+            "region_id":85675843
         }
     ],
     "wof:id":1209026027,
-    "wof:lastmodified":1536299996,
+    "wof:lastmodified":1560311095,
     "wof:name":"Huiquegrande",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

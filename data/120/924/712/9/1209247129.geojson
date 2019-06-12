@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421194075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3940438
     },
     "wof:country":"PE",
-    "wof:geomhash":"78e0f4cb51f8754350b4be152ac4588b",
+    "wof:geomhash":"60cc08966f19d5513ce002cb5ba47aa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209247129
+            "county_id":421194075,
+            "locality_id":1209247129,
+            "region_id":85675839
         }
     ],
     "wof:id":1209247129,
-    "wof:lastmodified":1536293126,
+    "wof:lastmodified":1560310847,
     "wof:name":"Hacienda Lacantera",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.33111,
-    -15.785279999999998,
+    -15.78528,
     -73.33111,
-    -15.785279999999998
+    -15.78528
 ],
   "geometry": {"coordinates":[-73.33111,-15.78528],"type":"Point"}
 }

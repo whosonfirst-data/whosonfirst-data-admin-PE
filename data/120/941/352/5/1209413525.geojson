@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"336faccf4a68d1fec2ac4b259f6462af",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209413525
+            "county_id":1108693947,
+            "locality_id":1209413525,
+            "region_id":85675903
         }
     ],
     "wof:id":1209413525,
-    "wof:lastmodified":1537676835,
+    "wof:lastmodified":1560314445,
     "wof:name":"Chilcayoc",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421185313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b780747ffdef7fab7c3a9e695fa05c52",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209084661
+            "county_id":421185313,
+            "locality_id":1209084661,
+            "region_id":85675875
         }
     ],
     "wof:id":1209084661,
-    "wof:lastmodified":1536298226,
+    "wof:lastmodified":1560311673,
     "wof:name":"San Francisco de Llamapashillon",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"f9ffa87acc4dd2ede003d18a42bfe894",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209419493
+            "county_id":421193433,
+            "locality_id":1209419493,
+            "region_id":85675903
         }
     ],
     "wof:id":1209419493,
-    "wof:lastmodified":1536287578,
+    "wof:lastmodified":1560314449,
     "wof:name":"Pucasora",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

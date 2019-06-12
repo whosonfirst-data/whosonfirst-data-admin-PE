@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        1108693885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"9128018c07619fc7596cf10738bb5909",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209393949
+            "county_id":1108693885,
+            "locality_id":1209393949,
+            "region_id":85675879
         }
     ],
     "wof:id":1209393949,
-    "wof:lastmodified":1536288367,
+    "wof:lastmodified":1560311774,
     "wof:name":"Colpa Seca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421183855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"d2c3627fd58e4d321d293e410d0683d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209209389
+            "county_id":421183855,
+            "locality_id":1209209389,
+            "region_id":85675911
         }
     ],
     "wof:id":1209209389,
-    "wof:lastmodified":1536294341,
+    "wof:lastmodified":1560314556,
     "wof:name":"Huallpahuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

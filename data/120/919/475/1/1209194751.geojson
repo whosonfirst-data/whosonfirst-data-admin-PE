@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        1108694021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"bb24a71bd8b7e44e5bd98bd5f72f2e09",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209194751
+            "county_id":1108694021,
+            "locality_id":1209194751,
+            "region_id":85675915
         }
     ],
     "wof:id":1209194751,
-    "wof:lastmodified":1537676802,
+    "wof:lastmodified":1560314640,
     "wof:name":"Hijaya",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

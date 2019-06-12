@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675891,
+        421201039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"50d54ab8c8df2a220b9473d5a8f1103b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209269491
+            "county_id":421201039,
+            "locality_id":1209269491,
+            "region_id":85675891
         }
     ],
     "wof:id":1209269491,
-    "wof:lastmodified":1536292409,
+    "wof:lastmodified":1560312305,
     "wof:name":"Puerto Bolivar",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421201039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

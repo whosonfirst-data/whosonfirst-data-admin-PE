@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"6021afffc2603c943572f98871025472",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209283195
+            "county_id":1108694053,
+            "locality_id":1209283195,
+            "region_id":85675885
         }
     ],
     "wof:id":1209283195,
-    "wof:lastmodified":1536291949,
+    "wof:lastmodified":1560312023,
     "wof:name":"Sapote",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

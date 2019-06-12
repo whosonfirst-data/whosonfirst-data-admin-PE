@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421177079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b3b3c38d61a74d0bb475cc934756abc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209386127
+            "county_id":421177079,
+            "locality_id":1209386127,
+            "region_id":85675879
         }
     ],
     "wof:id":1209386127,
-    "wof:lastmodified":1536288619,
+    "wof:lastmodified":1560311775,
     "wof:name":"San Miguel",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

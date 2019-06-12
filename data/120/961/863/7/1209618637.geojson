@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        1108693895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"cc4bafc68aa3289b640a6714ac332ec0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209618637
+            "county_id":1108693895,
+            "locality_id":1209618637,
+            "region_id":85675895
         }
     ],
     "wof:id":1209618637,
-    "wof:lastmodified":1537676623,
+    "wof:lastmodified":1560312383,
     "wof:name":"Illabamba",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

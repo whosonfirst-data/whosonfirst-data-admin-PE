@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"e5bc3c2c7a215d2aa0aa34f8db3611c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209111815
+            "county_id":421193379,
+            "locality_id":1209111815,
+            "region_id":85675839
         }
     ],
     "wof:id":1209111815,
-    "wof:lastmodified":1536297382,
+    "wof:lastmodified":1560310903,
     "wof:name":"Corrales",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        1108693903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"4d24e4b4394bbd716d601ab726eb34f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209299185
+            "county_id":1108693903,
+            "locality_id":1209299185,
+            "region_id":85675843
         }
     ],
     "wof:id":1209299185,
-    "wof:lastmodified":1536291417,
+    "wof:lastmodified":1560311100,
     "wof:name":"Huaynahuarcco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

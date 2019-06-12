@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421184497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"70e20ec848ec8b4ce73e47f6728b6836",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209316839
+            "county_id":421184497,
+            "locality_id":1209316839,
+            "region_id":85675865
         }
     ],
     "wof:id":1209316839,
-    "wof:lastmodified":1536290834,
+    "wof:lastmodified":1560311477,
     "wof:name":"Santo Domingo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421184497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"83b26ad1bb2b35737892d682d956360a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209597979
+            "county_id":421202549,
+            "locality_id":1209597979,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209597979,
-    "wof:lastmodified":1537676930,
+    "wof:lastmodified":1560310203,
     "wof:name":"Las Brisas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

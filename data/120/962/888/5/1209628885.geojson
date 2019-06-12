@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        1108693897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b898cf6857f7e9fb1887f2774f586798",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209628885
+            "county_id":1108693897,
+            "locality_id":1209628885,
+            "region_id":85675895
         }
     ],
     "wof:id":1209628885,
-    "wof:lastmodified":1536281258,
+    "wof:lastmodified":1560312382,
     "wof:name":"Chontapampa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

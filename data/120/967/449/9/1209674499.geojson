@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c9316d18d7e4c74fdb5440299e11bf0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209674499
+            "county_id":1108693969,
+            "locality_id":1209674499,
+            "region_id":85675827
         }
     ],
     "wof:id":1209674499,
-    "wof:lastmodified":1536279803,
+    "wof:lastmodified":1560310620,
     "wof:name":"El Cuarenta y Uno",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

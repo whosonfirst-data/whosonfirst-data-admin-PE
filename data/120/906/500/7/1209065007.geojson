@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421200651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3941023
     },
     "wof:country":"PE",
-    "wof:geomhash":"5eb11662c7b1fd22b740b5b17aa30d45",
+    "wof:geomhash":"f521fb4cc2aa1d1172b5a054425d8190",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209065007
+            "county_id":421200651,
+            "locality_id":1209065007,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209065007,
-    "wof:lastmodified":1536298833,
+    "wof:lastmodified":1560309950,
     "wof:name":"Estancia Marcapata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421200651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -70.01563,
-    -16.382460000000002,
+    -16.38246,
     -70.01563,
-    -16.382460000000002
+    -16.38246
 ],
   "geometry": {"coordinates":[-70.01563,-16.38246],"type":"Point"}
 }

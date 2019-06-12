@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421197033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"df963892fda18e13c7e10fe8660877c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209395237
+            "county_id":421197033,
+            "locality_id":1209395237,
+            "region_id":85675915
         }
     ],
     "wof:id":1209395237,
-    "wof:lastmodified":1537676877,
+    "wof:lastmodified":1560314630,
     "wof:name":"Arenal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421197033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

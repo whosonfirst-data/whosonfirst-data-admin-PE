@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"7a03daf72f2785a72c1126c1e19af788",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209403237
+            "county_id":1108694009,
+            "locality_id":1209403237,
+            "region_id":85675865
         }
     ],
     "wof:id":1209403237,
-    "wof:lastmodified":1536288077,
+    "wof:lastmodified":1560311452,
     "wof:name":"Shiripata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

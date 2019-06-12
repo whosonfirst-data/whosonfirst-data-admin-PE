@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6901339.516331,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.015002,-12.045414,-77.015002,-12.045414",
     "geom:latitude":-12.045414,
     "geom:longitude":-77.015002,
@@ -62,8 +62,9 @@
     "wof:belongsto":[
         102191577,
         85632521,
+        421186805,
         421202549,
-        85675909
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,18 +79,18 @@
             "continent_id":102191577,
             "country_id":85632521,
             "county_id":421202549,
-            "locality_id":-1,
+            "locality_id":421186805,
             "neighbourhood_id":85765715,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":85765715,
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859039,
+    "wof:lastmodified":1560310476,
     "wof:name":"Barrios Altos",
-    "wof:parent_id":-1,
+    "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

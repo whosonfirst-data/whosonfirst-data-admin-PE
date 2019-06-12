@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675891,
+        421201039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"de98e408b2c2266e51d331cd154b631a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209670251
+            "county_id":421201039,
+            "locality_id":1209670251,
+            "region_id":85675891
         }
     ],
     "wof:id":1209670251,
-    "wof:lastmodified":1537676921,
+    "wof:lastmodified":1560312305,
     "wof:name":"Santa Rosa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421201039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

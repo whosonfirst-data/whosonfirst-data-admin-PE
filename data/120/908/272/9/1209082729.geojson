@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        1108694037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"3160c94817672582291bcad5f28c0ae7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209082729
+            "county_id":1108694037,
+            "locality_id":1209082729,
+            "region_id":85675919
         }
     ],
     "wof:id":1209082729,
-    "wof:lastmodified":1536298285,
+    "wof:lastmodified":1560314712,
     "wof:name":"Chuupata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

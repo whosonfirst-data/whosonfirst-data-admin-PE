@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        421188715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"e77e4b56e79fc213201d87e3cb2a21e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209391427
+            "county_id":421188715,
+            "locality_id":1209391427,
+            "region_id":85675919
         }
     ],
     "wof:id":1209391427,
-    "wof:lastmodified":1536288448,
+    "wof:lastmodified":1560314686,
     "wof:name":"Hinostroza",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

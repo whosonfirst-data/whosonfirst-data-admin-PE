@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421202209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"4a358e3f6454643a5b4a25c612073db7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209499851
+            "county_id":421202209,
+            "locality_id":1209499851,
+            "region_id":85675843
         }
     ],
     "wof:id":1209499851,
-    "wof:lastmodified":1537676777,
+    "wof:lastmodified":1560311141,
     "wof:name":"Labramarca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202209,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

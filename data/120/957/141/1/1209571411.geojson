@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        421171961
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3940114
     },
     "wof:country":"PE",
-    "wof:geomhash":"53868779502f020991f9d852361d188f",
+    "wof:geomhash":"8b2a7d674c927833c97a2fa65f5ef26f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209571411
+            "county_id":421171961,
+            "locality_id":1209571411,
+            "region_id":85675861
         }
     ],
     "wof:id":1209571411,
-    "wof:lastmodified":1536283072,
+    "wof:lastmodified":1560311409,
     "wof:name":"Hospicio",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421171961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.60861,
-    -17.546110000000002,
+    -17.54611,
     -69.60861,
-    -17.546110000000002
+    -17.54611
 ],
   "geometry": {"coordinates":[-69.60861,-17.54611],"type":"Point"}
 }

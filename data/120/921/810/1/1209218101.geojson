@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421172895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"ce8ace2809d8421dec60f6a7691e13ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209218101
+            "county_id":421172895,
+            "locality_id":1209218101,
+            "region_id":85675895
         }
     ],
     "wof:id":1209218101,
-    "wof:lastmodified":1536294059,
+    "wof:lastmodified":1560312379,
     "wof:name":"Jamalca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

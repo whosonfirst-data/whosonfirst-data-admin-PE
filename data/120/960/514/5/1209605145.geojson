@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"6466f0987c6a02f656de8ad4ee693232",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209605145
+            "county_id":421203205,
+            "locality_id":1209605145,
+            "region_id":85675843
         }
     ],
     "wof:id":1209605145,
-    "wof:lastmodified":1537676664,
+    "wof:lastmodified":1560311107,
     "wof:name":"Espinar",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

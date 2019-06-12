@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108693997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"bc046803dc571bf748ea57add2741092",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209673841
+            "county_id":1108693997,
+            "locality_id":1209673841,
+            "region_id":85675885
         }
     ],
     "wof:id":1209673841,
-    "wof:lastmodified":1537676939,
+    "wof:lastmodified":1560312004,
     "wof:name":"San Isidro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

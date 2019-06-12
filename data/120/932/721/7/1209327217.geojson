@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421194077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"146d733f48f2184fedaee7a911e34671",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209327217
+            "county_id":421194077,
+            "locality_id":1209327217,
+            "region_id":85675865
         }
     ],
     "wof:id":1209327217,
-    "wof:lastmodified":1536290493,
+    "wof:lastmodified":1560311451,
     "wof:name":"Saucipuquio",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

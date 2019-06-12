@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"050936c3801a7c842b07136ba8e5ffc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209489691
+            "county_id":1108693975,
+            "locality_id":1209489691,
+            "region_id":85675827
         }
     ],
     "wof:id":1209489691,
-    "wof:lastmodified":1536285526,
+    "wof:lastmodified":1560310624,
     "wof:name":"San Baltazar",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

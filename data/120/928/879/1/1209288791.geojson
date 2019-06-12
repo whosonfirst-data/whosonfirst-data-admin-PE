@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421170341
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3697722
     },
     "wof:country":"PE",
-    "wof:geomhash":"7ab4435970ebedf4bbe623bbe56d7835",
+    "wof:geomhash":"980efb6a687781f5a6bdc36285a7d5e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209288791
+            "county_id":421170341,
+            "locality_id":1209288791,
+            "region_id":85675827
         }
     ],
     "wof:id":1209288791,
-    "wof:lastmodified":1536291767,
+    "wof:lastmodified":1560310662,
     "wof:name":"Cristobal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -80.75,
-    -5.4833300000000005,
+    -5.48333,
     -80.75,
-    -5.4833300000000005
+    -5.48333
 ],
   "geometry": {"coordinates":[-80.75,-5.48333],"type":"Point"}
 }
