@@ -36,7 +36,9 @@
         "state_id":2346489
     },
     "wof:belongsto":[
+        102191577,
         85632521,
+        1108694041,
         85675885
     ],
     "wof:breaches":[],
@@ -52,14 +54,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102552499,
+            "continent_id":102191577,
             "country_id":85632521,
+            "county_id":1108694041,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85675885
         }
     ],
     "wof:id":102552499,
-    "wof:lastmodified":1543846099,
+    "wof:lastmodified":1560312043,
     "wof:name":"Juanjui Airport",
-    "wof:parent_id":85675885,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

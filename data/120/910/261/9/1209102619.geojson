@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        1108693903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"65582a3c3f44354fbfd23f1079530cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209102619
+            "county_id":1108693903,
+            "locality_id":1209102619,
+            "region_id":85675843
         }
     ],
     "wof:id":1209102619,
-    "wof:lastmodified":1536297684,
+    "wof:lastmodified":1560311096,
     "wof:name":"Changaimarca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421172895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3762559
     },
     "wof:country":"PE",
-    "wof:geomhash":"d88fc941d80dbc387e6adf1139a87b28",
+    "wof:geomhash":"efce5b4b8d88f95de4f7b8d83dc01aa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209624353
+            "county_id":421172895,
+            "locality_id":1209624353,
+            "region_id":85675895
         }
     ],
     "wof:id":1209624353,
-    "wof:lastmodified":1536281407,
+    "wof:lastmodified":1560312381,
     "wof:name":"Playa Hermosa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.58106,
-    -5.8939900000000005,
+    -5.89399,
     -78.58106,
-    -5.8939900000000005
+    -5.89399
 ],
   "geometry": {"coordinates":[-78.58105999999999,-5.89399],"type":"Point"}
 }

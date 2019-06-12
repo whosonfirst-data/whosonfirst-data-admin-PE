@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3954043
     },
     "wof:country":"PE",
-    "wof:geomhash":"8fd47410baf744b78b6c626d697a20fd",
+    "wof:geomhash":"7fc3ab4ddeda1a5e27fc85c8d7292286",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209102623
+            "county_id":421203205,
+            "locality_id":1209102623,
+            "region_id":85675843
         }
     ],
     "wof:id":1209102623,
-    "wof:lastmodified":1536297684,
+    "wof:lastmodified":1560311096,
     "wof:name":"Sora",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.03381,
-    -15.047579999999998,
+    -15.04758,
     -71.03381,
-    -15.047579999999998
+    -15.04758
 ],
   "geometry": {"coordinates":[-71.03381,-15.04758],"type":"Point"}
 }

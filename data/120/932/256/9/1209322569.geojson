@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421172463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385113
     },
     "wof:country":"PE",
-    "wof:geomhash":"f2ab61d1716ffe47e5ddc6bb0c2dc7bb",
+    "wof:geomhash":"203d9f402491c2ea44aac32eaa3eaa1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209322569
+            "county_id":421172463,
+            "locality_id":1209322569,
+            "region_id":85675879
         }
     ],
     "wof:id":1209322569,
-    "wof:lastmodified":1536290641,
+    "wof:lastmodified":1560311772,
     "wof:name":"Viru",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -77.43222,
-    -8.343060000000001,
+    -8.34306,
     -77.43222,
-    -8.343060000000001
+    -8.34306
 ],
   "geometry": {"coordinates":[-77.43222,-8.34306],"type":"Point"}
 }

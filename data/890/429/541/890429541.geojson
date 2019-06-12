@@ -23,7 +23,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
+        1175613121,
         421202549
     ],
     "wof:breaches":[],
@@ -41,11 +41,11 @@
             "country_id":85632521,
             "county_id":421202549,
             "locality_id":890429541,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":890429541,
-    "wof:lastmodified":1505343513,
+    "wof:lastmodified":1560310260,
     "wof:name":"Las Flores Las Sensitivas 533 Quispe",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

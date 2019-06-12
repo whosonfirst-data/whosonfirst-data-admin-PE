@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"e8ecfdaca0d5c75ffa69349eba11d7e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209183933
+            "county_id":1108693955,
+            "locality_id":1209183933,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209183933,
-    "wof:lastmodified":1537676798,
+    "wof:lastmodified":1560310184,
     "wof:name":"Huayllampi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

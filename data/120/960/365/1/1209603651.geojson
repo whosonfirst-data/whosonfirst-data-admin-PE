@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"43a59497530b0a45b5225289c32e41c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209603651
+            "county_id":1108693923,
+            "locality_id":1209603651,
+            "region_id":85675875
         }
     ],
     "wof:id":1209603651,
-    "wof:lastmodified":1536282084,
+    "wof:lastmodified":1560311683,
     "wof:name":"Rupash",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        1108694021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"25c5af548c0f4594efbdb071a9f44385",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209402577
+            "county_id":1108694021,
+            "locality_id":1209402577,
+            "region_id":85675915
         }
     ],
     "wof:id":1209402577,
-    "wof:lastmodified":1537676969,
+    "wof:lastmodified":1560314644,
     "wof:name":"Hacienda Santa Luisa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

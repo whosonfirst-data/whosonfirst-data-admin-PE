@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        421203221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"86fe32456fb351213fa55565c85510a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209201511
+            "county_id":421203221,
+            "locality_id":1209201511,
+            "region_id":85675919
         }
     ],
     "wof:id":1209201511,
-    "wof:lastmodified":1536294594,
+    "wof:lastmodified":1560314681,
     "wof:name":"Ipoquiari",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

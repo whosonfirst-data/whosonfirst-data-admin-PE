@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        1108694033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3938878
     },
     "wof:country":"PE",
-    "wof:geomhash":"b0300fdb2a430a68510b41b2835dbb34",
+    "wof:geomhash":"438faa3167884333f007d00cf63eb019",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209571409
+            "county_id":1108694033,
+            "locality_id":1209571409,
+            "region_id":85675861
         }
     ],
     "wof:id":1209571409,
-    "wof:lastmodified":1536283072,
+    "wof:lastmodified":1560311409,
     "wof:name":"Huaylluma",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -70.06944,
-    -17.170560000000002,
+    -17.17056,
     -70.06944,
-    -17.170560000000002
+    -17.17056
 ],
   "geometry": {"coordinates":[-70.06944,-17.17056],"type":"Point"}
 }

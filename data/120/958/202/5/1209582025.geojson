@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"a86ad96d10816824aa4cfcefafe2ec1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209582025
+            "county_id":1108693891,
+            "locality_id":1209582025,
+            "region_id":85675847
         }
     ],
     "wof:id":1209582025,
-    "wof:lastmodified":1537676770,
+    "wof:lastmodified":1560311329,
     "wof:name":"Boca Piedras",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

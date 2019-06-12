@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421175163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"ac03aa1c51df471643bec9b935a38991",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209182385
+            "county_id":421175163,
+            "locality_id":1209182385,
+            "region_id":85675831
         }
     ],
     "wof:id":1209182385,
-    "wof:lastmodified":1536295214,
+    "wof:lastmodified":1560310712,
     "wof:name":"Quebrada Seca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

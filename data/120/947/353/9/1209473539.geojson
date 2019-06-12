@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"b8254bc6325d0bddcdfcdf38f206c358",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209473539
+            "county_id":1108693921,
+            "locality_id":1209473539,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209473539,
-    "wof:lastmodified":1537677003,
+    "wof:lastmodified":1560309967,
     "wof:name":"Cochayoc",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

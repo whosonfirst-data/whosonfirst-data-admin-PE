@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421175163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"662d0c194ca4b223d0493bc4119d8ddc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209483501
+            "county_id":421175163,
+            "locality_id":1209483501,
+            "region_id":85675831
         }
     ],
     "wof:id":1209483501,
-    "wof:lastmodified":1536285708,
+    "wof:lastmodified":1560310714,
     "wof:name":"El Sauce",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

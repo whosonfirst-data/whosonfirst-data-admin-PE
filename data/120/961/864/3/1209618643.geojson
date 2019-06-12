@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421172895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"9d65ef229d6ca295972c6ea6405bed51",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209618643
+            "county_id":421172895,
+            "locality_id":1209618643,
+            "region_id":85675895
         }
     ],
     "wof:id":1209618643,
-    "wof:lastmodified":1537676657,
+    "wof:lastmodified":1560312383,
     "wof:name":"El Tesoro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

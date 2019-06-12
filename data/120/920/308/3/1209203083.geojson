@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421176081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"a2d1ccd1cd111adf165b9f3d597669be",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209203083
+            "county_id":421176081,
+            "locality_id":1209203083,
+            "region_id":85675875
         }
     ],
     "wof:id":1209203083,
-    "wof:lastmodified":1536294544,
+    "wof:lastmodified":1560311698,
     "wof:name":"San Juan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421176081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421194075
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3935928
     },
     "wof:country":"PE",
-    "wof:geomhash":"16f3ede9dbdbb86a8b71f6981d22414c",
+    "wof:geomhash":"42677f40b63d3785ec99b8cc7f89bb0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209220333
+            "county_id":421194075,
+            "locality_id":1209220333,
+            "region_id":85675839
         }
     ],
     "wof:id":1209220333,
-    "wof:lastmodified":1536293984,
+    "wof:lastmodified":1560310838,
     "wof:name":"Los Conchales",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.76666999999998,
-    -15.566670000000002,
+    -15.56667,
     -74.76666999999998,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[-74.76666999999998,-15.56667],"type":"Point"}
 }

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421187867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"14cc8fd5434982863fbd65857f2cb698",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209322567
+            "county_id":421187867,
+            "locality_id":1209322567,
+            "region_id":85675865
         }
     ],
     "wof:id":1209322567,
-    "wof:lastmodified":1536290641,
+    "wof:lastmodified":1560311449,
     "wof:name":"La Victoria",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

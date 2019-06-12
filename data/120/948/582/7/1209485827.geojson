@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421185309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"ef55bcdf7032ee7f547d7788bf929144",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209485827
+            "county_id":421185309,
+            "locality_id":1209485827,
+            "region_id":85675821
         }
     ],
     "wof:id":1209485827,
-    "wof:lastmodified":1537676649,
+    "wof:lastmodified":1560310548,
     "wof:name":"Guayaquil",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

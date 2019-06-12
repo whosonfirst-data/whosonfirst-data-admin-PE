@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421175159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"098f43fae8e80edca88a6ac86868e7d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209320351
+            "county_id":421175159,
+            "locality_id":1209320351,
+            "region_id":85675839
         }
     ],
     "wof:id":1209320351,
-    "wof:lastmodified":1537676770,
+    "wof:lastmodified":1560310839,
     "wof:name":"Las Higueritas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

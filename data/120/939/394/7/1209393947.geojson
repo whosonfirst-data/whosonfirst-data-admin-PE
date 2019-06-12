@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421177079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"055723a02fe5310c1dd54f2711ab3400",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209393947
+            "county_id":421177079,
+            "locality_id":1209393947,
+            "region_id":85675879
         }
     ],
     "wof:id":1209393947,
-    "wof:lastmodified":1536288367,
+    "wof:lastmodified":1560311774,
     "wof:name":"Las Majadas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108694039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d331e99af3576158da9ca6881c17527b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209436555
+            "county_id":1108694039,
+            "locality_id":1209436555,
+            "region_id":85675871
         }
     ],
     "wof:id":1209436555,
-    "wof:lastmodified":1537676957,
+    "wof:lastmodified":1560311631,
     "wof:name":"Pampa Amorador",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c278a162e5957bc4005f7d2578e2c75d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209311085
+            "county_id":421187839,
+            "locality_id":1209311085,
+            "region_id":85675843
         }
     ],
     "wof:id":1209311085,
-    "wof:lastmodified":1536291027,
+    "wof:lastmodified":1560311098,
     "wof:name":"Uyouyo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

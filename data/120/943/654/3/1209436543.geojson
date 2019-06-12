@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421185275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3762023
     },
     "wof:country":"PE",
-    "wof:geomhash":"9ef2bd9fc514d58dbf4e8ba0dede606c",
+    "wof:geomhash":"b6c3e069482dcc1fe01d35612a273c3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209436543
+            "county_id":421185275,
+            "locality_id":1209436543,
+            "region_id":85675871
         }
     ],
     "wof:id":1209436543,
-    "wof:lastmodified":1536287087,
+    "wof:lastmodified":1560311607,
     "wof:name":"Pashuil",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -79.2842,
-    -5.757630000000002,
+    -5.75763,
     -79.2842,
-    -5.757630000000002
+    -5.75763
 ],
   "geometry": {"coordinates":[-79.2842,-5.75763],"type":"Point"}
 }

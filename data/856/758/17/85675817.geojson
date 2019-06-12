@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Callao"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-11.904273,
     "lbl:longitude":-77.119709,
     "meso:name_local":"Callao",
@@ -36,10 +42,10 @@
         "Qallaw Suyu"
     ],
     "name:spa_x_preferred":[
-        "Provincia Constitucional del Callao"
+        "Callao"
     ],
     "name:spa_x_variant":[
-        "Callao"
+        "Provincia Constitucional del Callao"
     ],
     "name:unk_x_variant":[
         "Provincia Constitucional Callao"
@@ -155,9 +161,6 @@
         }
     ],
     "wof:id":85675817,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -166,11 +169,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550488,
+    "wof:lastmodified":1560310482,
     "wof:name":"Callao",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":876877,
     "wof:population_rank":11,

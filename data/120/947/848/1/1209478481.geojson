@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0ca0e317b8f5365f0f88aee969ee505f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209478481
+            "county_id":1108693891,
+            "locality_id":1209478481,
+            "region_id":85675847
         }
     ],
     "wof:id":1209478481,
-    "wof:lastmodified":1536285859,
+    "wof:lastmodified":1560311329,
     "wof:name":"Pastora",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

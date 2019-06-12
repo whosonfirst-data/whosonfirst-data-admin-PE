@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b2d54cc7f786ef502302019860d347b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209106979
+            "county_id":421170339,
+            "locality_id":1209106979,
+            "region_id":85675835
         }
     ],
     "wof:id":1209106979,
-    "wof:lastmodified":1536297536,
+    "wof:lastmodified":1560310734,
     "wof:name":"Chuco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

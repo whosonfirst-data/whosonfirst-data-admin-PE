@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"53a259c0963859e4c6fe876796f6beff",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209574545
+            "county_id":1108693973,
+            "locality_id":1209574545,
+            "region_id":85675827
         }
     ],
     "wof:id":1209574545,
-    "wof:lastmodified":1536282980,
+    "wof:lastmodified":1560310622,
     "wof:name":"Cara de Gato",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

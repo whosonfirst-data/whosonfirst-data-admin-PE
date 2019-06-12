@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8df32b1b709cc8052440fe942f6d714c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209589801
+            "county_id":1108693969,
+            "locality_id":1209589801,
+            "region_id":85675827
         }
     ],
     "wof:id":1209589801,
-    "wof:lastmodified":1536282517,
+    "wof:lastmodified":1560310623,
     "wof:name":"Nariz del Diablo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

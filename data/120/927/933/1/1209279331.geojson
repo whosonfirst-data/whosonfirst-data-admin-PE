@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675883,
+        1108693911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0e44826709172a6a588cdb4c9e62a869",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209279331
+            "county_id":1108693911,
+            "locality_id":1209279331,
+            "region_id":85675883
         }
     ],
     "wof:id":1209279331,
-    "wof:lastmodified":1536292080,
+    "wof:lastmodified":1560311828,
     "wof:name":"Huayrapata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

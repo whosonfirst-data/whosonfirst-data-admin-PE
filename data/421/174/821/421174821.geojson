@@ -169,9 +169,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        1108693957,
-        85675925
+        1175613121,
+        1108693957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,18 +189,11 @@
             "country_id":85632521,
             "county_id":1108693957,
             "locality_id":421174821,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693957,
-            "locality_id":421174821,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":421174821,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1560310310,
     "wof:name":"San Vicente de Ca\u00f1ete",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

@@ -394,9 +394,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        421187933,
-        85675817
+        85675817,
+        421187933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -415,18 +414,11 @@
             "country_id":85632521,
             "county_id":421187933,
             "locality_id":421169179,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":421187933,
-            "locality_id":421169179,
             "region_id":85675817
         }
     ],
     "wof:id":421169179,
-    "wof:lastmodified":1553816357,
+    "wof:lastmodified":1560310482,
     "wof:name":"Callao",
     "wof:parent_id":421187933,
     "wof:placetype":"locality",

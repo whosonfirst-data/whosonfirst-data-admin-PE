@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"5f5a422b6d2166bbdac1cf2e688d7425",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209327225
+            "county_id":1108693923,
+            "locality_id":1209327225,
+            "region_id":85675875
         }
     ],
     "wof:id":1209327225,
-    "wof:lastmodified":1536290492,
+    "wof:lastmodified":1560311678,
     "wof:name":"Lliulla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

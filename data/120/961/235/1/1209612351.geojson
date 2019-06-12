@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421183859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"0e61d9ffc459c3d6ee4948bbf745eb42",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209612351
+            "county_id":421183859,
+            "locality_id":1209612351,
+            "region_id":85675871
         }
     ],
     "wof:id":1209612351,
-    "wof:lastmodified":1536281806,
+    "wof:lastmodified":1560311608,
     "wof:name":"Santa Clara",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421187855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"66008c0e8e0ab68728c2c42d3895ee6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209689245
+            "county_id":421187855,
+            "locality_id":1209689245,
+            "region_id":85675821
         }
     ],
     "wof:id":1209689245,
-    "wof:lastmodified":1537676590,
+    "wof:lastmodified":1560310550,
     "wof:name":"Lobace",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

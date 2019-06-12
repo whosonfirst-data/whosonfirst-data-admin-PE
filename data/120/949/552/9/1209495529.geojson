@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421198071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"022437f7991f3c3988e8a371d8ff8d24",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209495529
+            "county_id":421198071,
+            "locality_id":1209495529,
+            "region_id":85675915
         }
     ],
     "wof:id":1209495529,
-    "wof:lastmodified":1537676798,
+    "wof:lastmodified":1560314632,
     "wof:name":"Huaya Chica",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421198071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

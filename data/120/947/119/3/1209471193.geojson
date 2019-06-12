@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108693997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"182d6a0691b96514e691f8a0b877547c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209471193
+            "county_id":1108693997,
+            "locality_id":1209471193,
+            "region_id":85675885
         }
     ],
     "wof:id":1209471193,
-    "wof:lastmodified":1536286076,
+    "wof:lastmodified":1560312003,
     "wof:name":"Shatoja",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

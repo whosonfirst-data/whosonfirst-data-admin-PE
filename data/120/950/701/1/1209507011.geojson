@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"87918161d349920a88f801413af5c9ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209507011
+            "county_id":1108693985,
+            "locality_id":1209507011,
+            "region_id":85675871
         }
     ],
     "wof:id":1209507011,
-    "wof:lastmodified":1536285003,
+    "wof:lastmodified":1560311611,
     "wof:name":"Palmica",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

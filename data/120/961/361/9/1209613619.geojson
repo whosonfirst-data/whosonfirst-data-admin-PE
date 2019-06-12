@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3931662
     },
     "wof:country":"PE",
-    "wof:geomhash":"b82ce210effe1409df1a95a0dee7ded4",
+    "wof:geomhash":"74f64fae2b2c2a580ee3ac8b38df3154",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209613619
+            "county_id":421193433,
+            "locality_id":1209613619,
+            "region_id":85675903
         }
     ],
     "wof:id":1209613619,
-    "wof:lastmodified":1536281764,
+    "wof:lastmodified":1560314451,
     "wof:name":"Pucara",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.89376999999998,
-    -14.225370000000002,
+    -14.22537,
     -74.89376999999998,
-    -14.225370000000002
+    -14.22537
 ],
   "geometry": {"coordinates":[-74.89376999999998,-14.22537],"type":"Point"}
 }

@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"c38c5dfc48ef2a61eab576ba42093576",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209493615
+            "county_id":1108693925,
+            "locality_id":1209493615,
+            "region_id":85675875
         }
     ],
     "wof:id":1209493615,
-    "wof:lastmodified":1537676606,
+    "wof:lastmodified":1560311722,
     "wof:name":"Huacaybamba",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

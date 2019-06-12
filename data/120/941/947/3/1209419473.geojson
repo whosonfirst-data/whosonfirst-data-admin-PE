@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"ff782adba189ea4e2e06c722472b31f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209419473
+            "county_id":421193433,
+            "locality_id":1209419473,
+            "region_id":85675903
         }
     ],
     "wof:id":1209419473,
-    "wof:lastmodified":1537676678,
+    "wof:lastmodified":1560314450,
     "wof:name":"Tocyasca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

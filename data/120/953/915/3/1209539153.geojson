@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"84e6fff88ccda7052e12837ca34b7f4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209539153
+            "county_id":421193379,
+            "locality_id":1209539153,
+            "region_id":85675839
         }
     ],
     "wof:id":1209539153,
-    "wof:lastmodified":1537676797,
+    "wof:lastmodified":1560310983,
     "wof:name":"Huallpane",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

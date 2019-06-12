@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +43,17 @@
     "wof:geomhash":"d4177a53677fc8d5d9107afc0d69290c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209517639
+            "county_id":1108694019,
+            "locality_id":1209517639,
+            "region_id":85675865
         }
     ],
     "wof:id":1209517639,
-    "wof:lastmodified":1537570237,
+    "wof:lastmodified":1560311458,
     "wof:name":"Chanquillo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

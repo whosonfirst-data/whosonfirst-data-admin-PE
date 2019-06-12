@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"62713699d4ddd5901ef6fa1f31a1851d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209415947
+            "county_id":421170339,
+            "locality_id":1209415947,
+            "region_id":85675835
         }
     ],
     "wof:id":1209415947,
-    "wof:lastmodified":1536287688,
+    "wof:lastmodified":1560310755,
     "wof:name":"Huinchos",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

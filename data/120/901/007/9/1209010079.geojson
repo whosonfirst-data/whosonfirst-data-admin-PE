@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"454fbd30bf4fc764ad8eb01bc622c9ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209010079
+            "county_id":421193379,
+            "locality_id":1209010079,
+            "region_id":85675839
         }
     ],
     "wof:id":1209010079,
-    "wof:lastmodified":1536300476,
+    "wof:lastmodified":1560310808,
     "wof:name":"Artana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

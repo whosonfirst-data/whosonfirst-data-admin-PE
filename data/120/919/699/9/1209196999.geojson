@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"7c22bb8d44f6e4ad39b091c4353eb5cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209196999
+            "county_id":1108693951,
+            "locality_id":1209196999,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209196999,
-    "wof:lastmodified":1537676856,
+    "wof:lastmodified":1560310193,
     "wof:name":"Cagapaqui",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

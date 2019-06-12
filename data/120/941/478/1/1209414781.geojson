@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"56d279fb771434c89e3c08876620dd04",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209414781
+            "county_id":421203205,
+            "locality_id":1209414781,
+            "region_id":85675843
         }
     ],
     "wof:id":1209414781,
-    "wof:lastmodified":1536287724,
+    "wof:lastmodified":1560311102,
     "wof:name":"Quenco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

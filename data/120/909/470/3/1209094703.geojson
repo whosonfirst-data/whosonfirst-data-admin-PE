@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421194939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5d1a42392674bd43904b26d641635d51",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209094703
+            "county_id":421194939,
+            "locality_id":1209094703,
+            "region_id":85675875
         }
     ],
     "wof:id":1209094703,
-    "wof:lastmodified":1536297925,
+    "wof:lastmodified":1560311699,
     "wof:name":"Ancaratanan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

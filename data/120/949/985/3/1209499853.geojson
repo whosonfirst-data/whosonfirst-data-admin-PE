@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"e8494790886b96f658995ec1a5a1e72c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209499853
+            "county_id":421203205,
+            "locality_id":1209499853,
+            "region_id":85675843
         }
     ],
     "wof:id":1209499853,
-    "wof:lastmodified":1537676827,
+    "wof:lastmodified":1560311110,
     "wof:name":"Churulluta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

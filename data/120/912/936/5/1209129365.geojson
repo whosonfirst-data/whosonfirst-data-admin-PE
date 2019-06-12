@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3945134
     },
     "wof:country":"PE",
-    "wof:geomhash":"f6b857bf9fd649942d3d7c8a9c550b3c",
+    "wof:geomhash":"5a8267cee7eefc537de3f9e3a375f56f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209129365
+            "county_id":421193379,
+            "locality_id":1209129365,
+            "region_id":85675839
         }
     ],
     "wof:id":1209129365,
-    "wof:lastmodified":1536296854,
+    "wof:lastmodified":1560310837,
     "wof:name":"Cayllume",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.6,
-    -15.183329999999998,
+    -15.18333,
     -71.6,
-    -15.183329999999998
+    -15.18333
 ],
   "geometry": {"coordinates":[-71.59999999999999,-15.18333],"type":"Point"}
 }

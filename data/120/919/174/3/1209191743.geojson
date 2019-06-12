@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421180077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"05499ec9b6cd4268ff366556d3895cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209191743
+            "county_id":421180077,
+            "locality_id":1209191743,
+            "region_id":85675915
         }
     ],
     "wof:id":1209191743,
-    "wof:lastmodified":1536294910,
+    "wof:lastmodified":1560314637,
     "wof:name":"Carrizal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421180077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

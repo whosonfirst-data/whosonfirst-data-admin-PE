@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693979
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3752620
     },
     "wof:country":"PE",
-    "wof:geomhash":"88e23068f4142352cb6800b63968a8f7",
+    "wof:geomhash":"bad3e948a9e43ac6298fb06e2d99ef2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209311769
+            "county_id":1108693979,
+            "locality_id":1209311769,
+            "region_id":85675871
         }
     ],
     "wof:id":1209311769,
-    "wof:lastmodified":1536291003,
+    "wof:lastmodified":1560311603,
     "wof:name":"Tayamayo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.47655999999998,
-    -6.7556600000000016,
+    -6.75566,
     -78.47655999999998,
-    -6.7556600000000016
+    -6.75566
 ],
   "geometry": {"coordinates":[-78.47655999999998,-6.75566],"type":"Point"}
 }

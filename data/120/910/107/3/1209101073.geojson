@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421194457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"027061dcebed5ef8ef7d748d82508510",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209101073
+            "county_id":421194457,
+            "locality_id":1209101073,
+            "region_id":85675875
         }
     ],
     "wof:id":1209101073,
-    "wof:lastmodified":1537676564,
+    "wof:lastmodified":1560311702,
     "wof:name":"Puerto Carbajal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421172895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377706
     },
     "wof:country":"PE",
-    "wof:geomhash":"46ece10a5316194793362ae5a0b63f9b",
+    "wof:geomhash":"ab59272fce0645a5901d17319496ca10",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209115195
+            "county_id":421172895,
+            "locality_id":1209115195,
+            "region_id":85675895
         }
     ],
     "wof:id":1209115195,
-    "wof:lastmodified":1536297276,
+    "wof:lastmodified":1560312378,
     "wof:name":"Cequiapampa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.43824000000002,
-    -6.0793300000000015,
+    -6.07933,
     -78.43824000000002,
-    -6.0793300000000015
+    -6.07933
 ],
   "geometry": {"coordinates":[-78.43824000000002,-6.07933],"type":"Point"}
 }

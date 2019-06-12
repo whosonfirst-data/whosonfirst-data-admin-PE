@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389382
     },
     "wof:country":"PE",
-    "wof:geomhash":"89a4829fd9750e49e8ddb2c325d5034a",
+    "wof:geomhash":"5c3d4d19ca50b09bf5a85e71407b5a37",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209270805
+            "county_id":1108694053,
+            "locality_id":1209270805,
+            "region_id":85675885
         }
     ],
     "wof:id":1209270805,
-    "wof:lastmodified":1536292366,
+    "wof:lastmodified":1560311999,
     "wof:name":"Malvinas",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.00583,
-    -5.907780000000002,
+    -5.90778,
     -77.00583,
-    -5.907780000000002
+    -5.90778
 ],
   "geometry": {"coordinates":[-77.00583,-5.90778],"type":"Point"}
 }

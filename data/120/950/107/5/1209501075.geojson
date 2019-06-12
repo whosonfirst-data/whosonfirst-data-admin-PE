@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421191399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"5484182094d5774b4ac16e269c349a06",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209501075
+            "county_id":421191399,
+            "locality_id":1209501075,
+            "region_id":85675879
         }
     ],
     "wof:id":1209501075,
-    "wof:lastmodified":1537676565,
+    "wof:lastmodified":1560311775,
     "wof:name":"Chao",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421191399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421185309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"453caa3c0e6fc8e7b5eda727471fd22d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209287809
+            "county_id":421185309,
+            "locality_id":1209287809,
+            "region_id":85675821
         }
     ],
     "wof:id":1209287809,
-    "wof:lastmodified":1537676951,
+    "wof:lastmodified":1560310535,
     "wof:name":"Huaca La Cofradia",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

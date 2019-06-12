@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3956954
     },
     "wof:country":"PE",
-    "wof:geomhash":"ce110a1d81b9da73eccc3c0dc6d1481f",
+    "wof:geomhash":"e65087bf3c65e66ca0bdf0e51c0c6305",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209320339
+            "county_id":421203205,
+            "locality_id":1209320339,
+            "region_id":85675843
         }
     ],
     "wof:id":1209320339,
-    "wof:lastmodified":1536290717,
+    "wof:lastmodified":1560311159,
     "wof:name":"Pata Vizcachane",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -71.0487,
-    -15.352520000000002,
+    -15.35252,
     -71.0487,
-    -15.352520000000002
+    -15.35252
 ],
   "geometry": {"coordinates":[-71.0487,-15.35252],"type":"Point"}
 }

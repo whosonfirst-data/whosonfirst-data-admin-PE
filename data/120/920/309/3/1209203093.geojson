@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421170671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6394326
     },
     "wof:country":"PE",
-    "wof:geomhash":"0f8f41a2653ca445bc11661df5b73ff3",
+    "wof:geomhash":"087dd56a1f16cea6e1e95e021a4ca214",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209203093
+            "county_id":421170671,
+            "locality_id":1209203093,
+            "region_id":85675885
         }
     ],
     "wof:id":1209203093,
-    "wof:lastmodified":1536294543,
+    "wof:lastmodified":1560312000,
     "wof:name":"Alto Manteca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -76.30523000000002,
-    -8.433819999999999,
+    -8.43382,
     -76.30523000000002,
-    -8.433819999999999
+    -8.43382
 ],
   "geometry": {"coordinates":[-76.30523000000002,-8.43382],"type":"Point"}
 }

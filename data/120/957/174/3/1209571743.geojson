@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421194089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6389333
     },
     "wof:country":"PE",
-    "wof:geomhash":"65a1cfb3cf297e2154499016c3af44a6",
+    "wof:geomhash":"f7fcd6d37670854f074016e09a76e32f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209571743
+            "county_id":421194089,
+            "locality_id":1209571743,
+            "region_id":85675885
         }
     ],
     "wof:id":1209571743,
-    "wof:lastmodified":1536283062,
+    "wof:lastmodified":1560312004,
     "wof:name":"Ucrania",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.28139,
-    -5.9447199999999984,
+    -5.94472,
     -77.28139,
-    -5.9447199999999984
+    -5.94472
 ],
   "geometry": {"coordinates":[-77.28139,-5.94472],"type":"Point"}
 }

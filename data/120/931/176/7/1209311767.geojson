@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421177057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"c5ec41ba6a32d054a388191bf6727fa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209311767
+            "county_id":421177057,
+            "locality_id":1209311767,
+            "region_id":85675871
         }
     ],
     "wof:id":1209311767,
-    "wof:lastmodified":1536291003,
+    "wof:lastmodified":1560311603,
     "wof:name":"Balsal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

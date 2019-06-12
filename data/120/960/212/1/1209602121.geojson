@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        421188283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"40168a40eef26ef0f9db4e4d9b8cb8f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209602121
+            "county_id":421188283,
+            "locality_id":1209602121,
+            "region_id":85675919
         }
     ],
     "wof:id":1209602121,
-    "wof:lastmodified":1536282132,
+    "wof:lastmodified":1560314733,
     "wof:name":"Vista Alegre",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

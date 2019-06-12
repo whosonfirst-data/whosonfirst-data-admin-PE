@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Ancash"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-9.36785,
     "lbl:longitude":-77.684668,
     "meso:name_local":"Ancash",
@@ -189,7 +195,8 @@
         "Ancash"
     ],
     "name:spa_x_variant":[
-        "Departamento de \u00c1ncash"
+        "Departamento de \u00c1ncash",
+        "\u00c1ncash"
     ],
     "name:swe_x_preferred":[
         "Ancash"
@@ -338,9 +345,6 @@
         }
     ],
     "wof:id":85675865,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -349,11 +353,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550600,
+    "wof:lastmodified":1560311499,
     "wof:name":"Ancash",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1063459,
     "wof:population_rank":12,

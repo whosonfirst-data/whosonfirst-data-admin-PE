@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421170663
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6377800
     },
     "wof:country":"PE",
-    "wof:geomhash":"f0b0e394a292be1f75252cb120a6d193",
+    "wof:geomhash":"8c136d81b8ca93b09cce416aa1c650e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209618633
+            "county_id":421170663,
+            "locality_id":1209618633,
+            "region_id":85675895
         }
     ],
     "wof:id":1209618633,
-    "wof:lastmodified":1536281599,
+    "wof:lastmodified":1560312382,
     "wof:name":"Gramalote",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.28493,
-    -6.2933900000000005,
+    -6.29339,
     -78.28493,
-    -6.2933900000000005
+    -6.29339
 ],
   "geometry": {"coordinates":[-78.28493,-6.29339],"type":"Point"}
 }

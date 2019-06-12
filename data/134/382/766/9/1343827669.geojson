@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
+        1175613121,
         421202549
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632521,
             "county_id":421202549,
             "locality_id":1343827669,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":1343827669,
-    "wof:lastmodified":1537676779,
+    "wof:lastmodified":1560310446,
     "wof:name":"Jose Galvez",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

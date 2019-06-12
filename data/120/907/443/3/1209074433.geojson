@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421187863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5db92a99b9ae40a69206d24d90e3c699",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209074433
+            "county_id":421187863,
+            "locality_id":1209074433,
+            "region_id":85675831
         }
     ],
     "wof:id":1209074433,
-    "wof:lastmodified":1536298541,
+    "wof:lastmodified":1560310711,
     "wof:name":"Loyola",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

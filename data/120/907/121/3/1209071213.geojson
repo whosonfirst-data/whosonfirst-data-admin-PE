@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675883,
+        1108693911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"082db9f6d0c540bc6a97f7fe86a23256",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209071213
+            "county_id":1108693911,
+            "locality_id":1209071213,
+            "region_id":85675883
         }
     ],
     "wof:id":1209071213,
-    "wof:lastmodified":1536298641,
+    "wof:lastmodified":1560311832,
     "wof:name":"Yacuricanan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693911,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

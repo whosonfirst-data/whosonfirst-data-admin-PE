@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421194457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":10344567
     },
     "wof:country":"PE",
-    "wof:geomhash":"54cef43757b8a1c226d5ecc7be9b764b",
+    "wof:geomhash":"6780b117d91b56704471e0fa07d42ca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209593967
+            "county_id":421194457,
+            "locality_id":1209593967,
+            "region_id":85675875
         }
     ],
     "wof:id":1209593967,
-    "wof:lastmodified":1536282386,
+    "wof:lastmodified":1560311685,
     "wof:name":"Auagua Caliente",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.72291,
-    -8.812389999999997,
+    -8.81239,
     -74.72291,
-    -8.812389999999997
+    -8.81239
 ],
   "geometry": {"coordinates":[-74.72291,-8.81239],"type":"Point"}
 }

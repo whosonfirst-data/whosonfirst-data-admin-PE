@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421172425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"e59b7e05dc0b5b907642126824337854",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209611775
+            "county_id":421172425,
+            "locality_id":1209611775,
+            "region_id":85675843
         }
     ],
     "wof:id":1209611775,
-    "wof:lastmodified":1537676726,
+    "wof:lastmodified":1560311106,
     "wof:name":"Poroy",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

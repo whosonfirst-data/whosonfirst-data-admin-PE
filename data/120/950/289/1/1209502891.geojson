@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675915,
+        421197033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"d08af77c42091c06cef422e26e96df3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209502891
+            "county_id":421197033,
+            "locality_id":1209502891,
+            "region_id":85675915
         }
     ],
     "wof:id":1209502891,
-    "wof:lastmodified":1536285125,
+    "wof:lastmodified":1560314631,
     "wof:name":"Chochoca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421197033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

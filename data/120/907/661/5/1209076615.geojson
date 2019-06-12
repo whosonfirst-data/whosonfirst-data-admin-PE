@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675821,
+        421187855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"1bbc63173565314f1a3bbbcf32ed5dd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209076615
+            "county_id":421187855,
+            "locality_id":1209076615,
+            "region_id":85675821
         }
     ],
     "wof:id":1209076615,
-    "wof:lastmodified":1536298473,
+    "wof:lastmodified":1560310541,
     "wof:name":"Poma",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

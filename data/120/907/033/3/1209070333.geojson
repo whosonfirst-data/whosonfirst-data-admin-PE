@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"3a6694e94182e554266251bf81bfe2eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209070333
+            "county_id":1108693919,
+            "locality_id":1209070333,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209070333,
-    "wof:lastmodified":1537676798,
+    "wof:lastmodified":1560309947,
     "wof:name":"Huallapujo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

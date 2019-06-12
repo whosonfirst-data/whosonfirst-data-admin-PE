@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3943305
     },
     "wof:country":"PE",
-    "wof:geomhash":"0cb65a9579c8b94d6d06fa691a067d1a",
+    "wof:geomhash":"d5d30a408d7246c2de96281fb7a44737",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209516587
+            "county_id":421170339,
+            "locality_id":1209516587,
+            "region_id":85675835
         }
     ],
     "wof:id":1209516587,
-    "wof:lastmodified":1536284714,
+    "wof:lastmodified":1560310742,
     "wof:name":"Chullizana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.62767,
-    -13.813670000000002,
+    -13.81367,
     -73.62767,
-    -13.813670000000002
+    -13.81367
 ],
   "geometry": {"coordinates":[-73.62766999999999,-13.81367],"type":"Point"}
 }

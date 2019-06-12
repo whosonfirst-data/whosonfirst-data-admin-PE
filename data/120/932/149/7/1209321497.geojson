@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421175161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"a1c242d155d30e2daace57c578af2247",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209321497
+            "county_id":421175161,
+            "locality_id":1209321497,
+            "region_id":85675835
         }
     ],
     "wof:id":1209321497,
-    "wof:lastmodified":1536290678,
+    "wof:lastmodified":1560310736,
     "wof:name":"Uray Tarccacca",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421175161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

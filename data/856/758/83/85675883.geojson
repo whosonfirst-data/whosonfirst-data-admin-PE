@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Pasco"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-10.339418,
     "lbl:longitude":-75.281043,
     "meso:name_local":"Pasco",
@@ -330,9 +336,6 @@
         }
     ],
     "wof:id":85675883,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -341,11 +344,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550508,
+    "wof:lastmodified":1560311847,
     "wof:name":"Pasco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":280449,
     "wof:population_rank":10,

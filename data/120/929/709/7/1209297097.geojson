@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b7c1bde45f41fe010763ae85d454f2f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209297097
+            "county_id":1108693957,
+            "locality_id":1209297097,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209297097,
-    "wof:lastmodified":1536291486,
+    "wof:lastmodified":1560310192,
     "wof:name":"Pampa de Los Lobos",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

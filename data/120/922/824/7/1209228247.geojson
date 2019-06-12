@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421170663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"addabc25c05d43899e0353eaaff7a2f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209228247
+            "county_id":421170663,
+            "locality_id":1209228247,
+            "region_id":85675895
         }
     ],
     "wof:id":1209228247,
-    "wof:lastmodified":1536293724,
+    "wof:lastmodified":1560312379,
     "wof:name":"Choctamal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

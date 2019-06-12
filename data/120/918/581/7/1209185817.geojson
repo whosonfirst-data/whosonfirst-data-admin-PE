@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        1108694055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3698985
     },
     "wof:country":"PE",
-    "wof:geomhash":"4cbea01225d09e1ed2ce50b5c182c9d8",
+    "wof:geomhash":"836e84fe1493da5555948ce80abe9ca1",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209185817
+            "county_id":1108694055,
+            "locality_id":1209185817,
+            "region_id":85675899
         }
     ],
     "wof:id":1209185817,
-    "wof:lastmodified":1536295105,
+    "wof:lastmodified":1560314254,
     "wof:name":"Campamento",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.8,
-    -5.4333300000000015,
+    -5.43333,
     -73.8,
-    -5.4333300000000015
+    -5.43333
 ],
   "geometry": {"coordinates":[-73.8,-5.43333],"type":"Point"}
 }

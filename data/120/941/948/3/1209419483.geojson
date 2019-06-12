@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421194081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"f8b01c504b9bbd49d61ca8de96f90db7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209419483
+            "county_id":421194081,
+            "locality_id":1209419483,
+            "region_id":85675903
         }
     ],
     "wof:id":1209419483,
-    "wof:lastmodified":1536287578,
+    "wof:lastmodified":1560314449,
     "wof:name":"Hilcaccasa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

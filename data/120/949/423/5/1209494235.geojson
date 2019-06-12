@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421193361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"401e6153c645b21bd1dd0694f5829a17",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209494235
+            "county_id":421193361,
+            "locality_id":1209494235,
+            "region_id":85675879
         }
     ],
     "wof:id":1209494235,
-    "wof:lastmodified":1537676627,
+    "wof:lastmodified":1560311777,
     "wof:name":"Chiquitoy",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

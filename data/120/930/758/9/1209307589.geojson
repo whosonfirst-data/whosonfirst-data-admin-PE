@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3933084
     },
     "wof:country":"PE",
-    "wof:geomhash":"a71ea456cde193ec74bf5e576421c206",
+    "wof:geomhash":"012d61d87565b030e8f9dd5ac8d1feb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209307589
+            "county_id":1108693941,
+            "locality_id":1209307589,
+            "region_id":85675903
         }
     ],
     "wof:id":1209307589,
-    "wof:lastmodified":1536291140,
+    "wof:lastmodified":1560314491,
     "wof:name":"Pantin",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.13333,
-    -13.583329999999998,
+    -13.58333,
     -74.13333,
-    -13.583329999999998
+    -13.58333
 ],
   "geometry": {"coordinates":[-74.13333,-13.58333],"type":"Point"}
 }

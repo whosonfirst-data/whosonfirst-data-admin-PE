@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421187867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"37105c2bd6a312ea770bf05e9f81c2b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209627823
+            "county_id":421187867,
+            "locality_id":1209627823,
+            "region_id":85675865
         }
     ],
     "wof:id":1209627823,
-    "wof:lastmodified":1536281294,
+    "wof:lastmodified":1560311457,
     "wof:name":"Cochco Nani",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

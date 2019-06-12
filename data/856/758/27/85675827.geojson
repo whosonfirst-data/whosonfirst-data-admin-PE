@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Piura"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-5.10655,
     "lbl:longitude":-80.354721,
     "meso:name_local":"Piura",
@@ -327,9 +333,6 @@
         }
     ],
     "wof:id":85675827,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -338,11 +341,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550546,
+    "wof:lastmodified":1560310696,
     "wof:name":"Piura",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1676315,
     "wof:population_rank":12,

@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"9b6420faf8bee19b405bb0b56643f05a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209190933
+            "county_id":1108693965,
+            "locality_id":1209190933,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209190933,
-    "wof:lastmodified":1536294937,
+    "wof:lastmodified":1560310189,
     "wof:name":"Torococha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

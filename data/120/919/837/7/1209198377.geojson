@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421177937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8676128
     },
     "wof:country":"PE",
-    "wof:geomhash":"f6d0ca59bbf513074a5db8648a072a77",
+    "wof:geomhash":"f03323cc1ff48d9e818c19ab39774d34",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209198377
+            "county_id":421177937,
+            "locality_id":1209198377,
+            "region_id":85675911
         }
     ],
     "wof:id":1209198377,
-    "wof:lastmodified":1536294695,
+    "wof:lastmodified":1560314557,
     "wof:name":"Patahuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.93318000000002,
-    -13.345770000000002,
+    -13.34577,
     -74.93318000000002,
-    -13.345770000000002
+    -13.34577
 ],
   "geometry": {"coordinates":[-74.93318000000002,-13.34577],"type":"Point"}
 }

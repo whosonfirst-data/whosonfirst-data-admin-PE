@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675847,
+        1108693891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"511f0dc4139a4a82e5408118bbb0ea3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209381207
+            "county_id":1108693891,
+            "locality_id":1209381207,
+            "region_id":85675847
         }
     ],
     "wof:id":1209381207,
-    "wof:lastmodified":1537676990,
+    "wof:lastmodified":1560311310,
     "wof:name":"Fundo Lidia",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

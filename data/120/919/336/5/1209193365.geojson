@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421170671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6385551
     },
     "wof:country":"PE",
-    "wof:geomhash":"8d6829f03c10e4cf1221a86db1852421",
+    "wof:geomhash":"cdcac33d4e6c7e2987cd3c259d671852",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209193365
+            "county_id":421170671,
+            "locality_id":1209193365,
+            "region_id":85675885
         }
     ],
     "wof:id":1209193365,
-    "wof:lastmodified":1536294857,
+    "wof:lastmodified":1560312000,
     "wof:name":"Tingo Grande",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -77.105,
-    -8.466389999999999,
+    -8.46639,
     -77.105,
-    -8.466389999999999
+    -8.46639
 ],
   "geometry": {"coordinates":[-77.105,-8.46639],"type":"Point"}
 }

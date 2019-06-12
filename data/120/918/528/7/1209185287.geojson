@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421172463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3743734
     },
     "wof:country":"PE",
-    "wof:geomhash":"0c76cfc35b7e22125c5822dd09892904",
+    "wof:geomhash":"ca183f5148777eaf245cd172c78b7c44",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209185287
+            "county_id":421172463,
+            "locality_id":1209185287,
+            "region_id":85675879
         }
     ],
     "wof:id":1209185287,
-    "wof:lastmodified":1536295122,
+    "wof:lastmodified":1560311771,
     "wof:name":"Pampa Racra",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.57207,
-    -7.863539999999999,
+    -7.86354,
     -77.57207,
-    -7.863539999999999
+    -7.86354
 ],
   "geometry": {"coordinates":[-77.57207,-7.86354],"type":"Point"}
 }

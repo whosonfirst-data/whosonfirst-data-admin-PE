@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        1108694055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3693258
     },
     "wof:country":"PE",
-    "wof:geomhash":"2986315d5342a2d787af08616f4d5211",
+    "wof:geomhash":"27d0460ab06b1809b4bd753a62c59a09",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209478891
+            "county_id":1108694055,
+            "locality_id":1209478891,
+            "region_id":85675899
         }
     ],
     "wof:id":1209478891,
-    "wof:lastmodified":1536285847,
+    "wof:lastmodified":1560314266,
     "wof:name":"Puerto Canuco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -72.95,
-    -5.1833300000000015,
+    -5.18333,
     -72.95,
-    -5.1833300000000015
+    -5.18333
 ],
   "geometry": {"coordinates":[-72.95,-5.18333],"type":"Point"}
 }

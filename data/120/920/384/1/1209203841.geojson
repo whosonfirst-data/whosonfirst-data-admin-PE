@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421177937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"854ae19f439efd8b6e6ac935bc06ab59",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209203841
+            "county_id":421177937,
+            "locality_id":1209203841,
+            "region_id":85675911
         }
     ],
     "wof:id":1209203841,
-    "wof:lastmodified":1536294519,
+    "wof:lastmodified":1560314554,
     "wof:name":"Rupahuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

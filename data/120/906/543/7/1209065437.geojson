@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421192883
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3761297
     },
     "wof:country":"PE",
-    "wof:geomhash":"fe17900908e50dce2846a9bfdaf66e7c",
+    "wof:geomhash":"4a500d9765bd323345160d3b5b63ff33",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209065437
+            "county_id":421192883,
+            "locality_id":1209065437,
+            "region_id":85675827
         }
     ],
     "wof:id":1209065437,
-    "wof:lastmodified":1536298820,
+    "wof:lastmodified":1560310692,
     "wof:name":"Gavilan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421192883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -79.58417,
-    -5.798769999999998,
+    -5.79877,
     -79.58417,
-    -5.798769999999998
+    -5.79877
 ],
   "geometry": {"coordinates":[-79.58417,-5.79877],"type":"Point"}
 }

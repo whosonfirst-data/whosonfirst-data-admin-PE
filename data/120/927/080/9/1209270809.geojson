@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108694057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"9c4224686b689274ca7b81171e0a0371",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209270809
+            "county_id":1108694057,
+            "locality_id":1209270809,
+            "region_id":85675885
         }
     ],
     "wof:id":1209270809,
-    "wof:lastmodified":1537676653,
+    "wof:lastmodified":1560312000,
     "wof:name":"Cunumbuqui",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

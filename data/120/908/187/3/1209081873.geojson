@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675857,
+        421193431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"70144fb17a8aa3c3db7927f61b4cd5b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209081873
+            "county_id":421193431,
+            "locality_id":1209081873,
+            "region_id":85675857
         }
     ],
     "wof:id":1209081873,
-    "wof:lastmodified":1536298310,
+    "wof:lastmodified":1560311351,
     "wof:name":"Jaguay Grande",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

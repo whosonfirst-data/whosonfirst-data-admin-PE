@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421183859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3752937
     },
     "wof:country":"PE",
-    "wof:geomhash":"4e3e233777f42471abfea6bb1843b108",
+    "wof:geomhash":"d62bd41dc21c0540a13a795414903847",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209406835
+            "county_id":421183859,
+            "locality_id":1209406835,
+            "region_id":85675871
         }
     ],
     "wof:id":1209406835,
-    "wof:lastmodified":1536287969,
+    "wof:lastmodified":1560311607,
     "wof:name":"Chacato",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.23576,
-    -6.9004699999999985,
+    -6.90047,
     -78.23576,
-    -6.9004699999999985
+    -6.90047
 ],
   "geometry": {"coordinates":[-78.23576,-6.90047],"type":"Point"}
 }

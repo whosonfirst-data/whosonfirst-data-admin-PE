@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        1108694019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"27f86d4ed001e3c85c8d7d35638a7261",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209617461
+            "county_id":1108694019,
+            "locality_id":1209617461,
+            "region_id":85675865
         }
     ],
     "wof:id":1209617461,
-    "wof:lastmodified":1536281638,
+    "wof:lastmodified":1560311482,
     "wof:name":"Hacienda San Miguel",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421198073
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3926107
     },
     "wof:country":"PE",
-    "wof:geomhash":"552f3a338ba615e18ecbeb663e54c133",
+    "wof:geomhash":"94f1108b6fd6acc81ddcc144a8b039d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209674055
+            "county_id":421198073,
+            "locality_id":1209674055,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209674055,
-    "wof:lastmodified":1536279818,
+    "wof:lastmodified":1560309964,
     "wof:name":"Vilqui Patja",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421198073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.14563000000001,
-    -16.269560000000002,
+    -16.26956,
     -69.14563000000001,
-    -16.269560000000002
+    -16.26956
 ],
   "geometry": {"coordinates":[-69.14563000000001,-16.26956],"type":"Point"}
 }

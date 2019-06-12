@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421199871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"cedf94f51a1278156b67e5b7795690ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209063851
+            "county_id":421199871,
+            "locality_id":1209063851,
+            "region_id":85675831
         }
     ],
     "wof:id":1209063851,
-    "wof:lastmodified":1536298867,
+    "wof:lastmodified":1560310711,
     "wof:name":"El Corral",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421199871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

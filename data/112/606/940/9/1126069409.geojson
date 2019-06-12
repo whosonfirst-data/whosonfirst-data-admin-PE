@@ -48,8 +48,7 @@
         102191577,
         85632521,
         1108693963,
-        85675909,
-        85675925
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,19 +66,11 @@
             "county_id":1108693963,
             "locality_id":-1,
             "neighbourhood_id":1126069409,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693963,
-            "locality_id":-1,
-            "neighbourhood_id":1126069409,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1126069409,
-    "wof:lastmodified":1509410594,
+    "wof:lastmodified":1560310474,
     "wof:name":"Los Sauces",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

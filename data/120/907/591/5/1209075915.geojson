@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"30fe64229577e8cc214968b4e2db06a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209075915
+            "county_id":1108693951,
+            "locality_id":1209075915,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209075915,
-    "wof:lastmodified":1536298495,
+    "wof:lastmodified":1560310179,
     "wof:name":"Raura",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

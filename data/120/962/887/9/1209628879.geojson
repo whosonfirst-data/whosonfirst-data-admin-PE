@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        1108693895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3692325
     },
     "wof:country":"PE",
-    "wof:geomhash":"2af661575fe81c9b5f08cbc9cc11cfb6",
+    "wof:geomhash":"fcd08f416357cfdef172e079b5db169e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209628879
+            "county_id":1108693895,
+            "locality_id":1209628879,
+            "region_id":85675895
         }
     ],
     "wof:id":1209628879,
-    "wof:lastmodified":1536281258,
+    "wof:lastmodified":1560312395,
     "wof:name":"San Pedro",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -77.80086,
-    -6.603039999999999,
+    -6.60304,
     -77.80086,
-    -6.603039999999999
+    -6.60304
 ],
   "geometry": {"coordinates":[-77.80086,-6.60304],"type":"Point"}
 }

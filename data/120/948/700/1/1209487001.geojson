@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        1108694051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"5a1bf45112a64e5640879c2ce47bd8c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209487001
+            "county_id":1108694051,
+            "locality_id":1209487001,
+            "region_id":85675899
         }
     ],
     "wof:id":1209487001,
-    "wof:lastmodified":1536285605,
+    "wof:lastmodified":1560314263,
     "wof:name":"Shoroyacocha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

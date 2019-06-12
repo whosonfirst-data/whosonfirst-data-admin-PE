@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        1108693907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b95340b92cad4038206f94da1c815b15",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209106983
+            "county_id":1108693907,
+            "locality_id":1209106983,
+            "region_id":85675835
         }
     ],
     "wof:id":1209106983,
-    "wof:lastmodified":1536297536,
+    "wof:lastmodified":1560310734,
     "wof:name":"Huayramocco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

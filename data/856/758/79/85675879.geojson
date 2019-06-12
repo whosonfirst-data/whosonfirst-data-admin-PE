@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de La Libertad"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-8.062733,
     "lbl:longitude":-78.578365,
     "meso:name_local":"La Libertad",
@@ -188,7 +194,9 @@
         "\u0dbd\u0dcf \u0dbd\u0dd2\u0db6\u0dbb\u0dd9\u0da7\u0dd9\u0da9\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
     "name:spa_x_preferred":[
-        "La Libertad",
+        "La Libertad"
+    ],
+    "name:spa_x_variant":[
         "Departamento de La Libertad"
     ],
     "name:swe_x_preferred":[
@@ -345,9 +353,6 @@
         }
     ],
     "wof:id":85675879,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -356,11 +361,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550573,
+    "wof:lastmodified":1560311817,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1617050,
     "wof:population_rank":12,

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108694039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3695336
     },
     "wof:country":"PE",
-    "wof:geomhash":"526281079223630c2ebe511f5c17ec7a",
+    "wof:geomhash":"486cbaf3bc39624131160010bf92ba39",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209103327
+            "county_id":1108694039,
+            "locality_id":1209103327,
+            "region_id":85675871
         }
     ],
     "wof:id":1209103327,
-    "wof:lastmodified":1536297661,
+    "wof:lastmodified":1560311601,
     "wof:name":"Llallan",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.91859000000002,
-    -7.214810000000001,
+    -7.21481,
     -78.91859000000002,
-    -7.214810000000001
+    -7.21481
 ],
   "geometry": {"coordinates":[-78.91859000000002,-7.21481],"type":"Point"}
 }

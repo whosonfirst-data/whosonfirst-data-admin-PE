@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"9ed9b36c4c04e35094e26b0018f268f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209210357
+            "county_id":421187843,
+            "locality_id":1209210357,
+            "region_id":85675843
         }
     ],
     "wof:id":1209210357,
-    "wof:lastmodified":1536294311,
+    "wof:lastmodified":1560311115,
     "wof:name":"Pasto Grande",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

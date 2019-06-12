@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421197577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"6e67b68c6665ad2d1992297fe51343f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209694231
+            "county_id":421197577,
+            "locality_id":1209694231,
+            "region_id":85675875
         }
     ],
     "wof:id":1209694231,
-    "wof:lastmodified":1536279132,
+    "wof:lastmodified":1560311686,
     "wof:name":"Chagraoto",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421197577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

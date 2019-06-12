@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"26aba171b6aeb3c63cc96c0d9e663757",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209104593
+            "county_id":1108693943,
+            "locality_id":1209104593,
+            "region_id":85675903
         }
     ],
     "wof:id":1209104593,
-    "wof:lastmodified":1536297618,
+    "wof:lastmodified":1560314470,
     "wof:name":"Sahua Rumi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

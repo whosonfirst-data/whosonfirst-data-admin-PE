@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"6603edcdd5325c094fdb32cb6efcbad8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209436547
+            "county_id":1108693991,
+            "locality_id":1209436547,
+            "region_id":85675871
         }
     ],
     "wof:id":1209436547,
-    "wof:lastmodified":1536287087,
+    "wof:lastmodified":1560311607,
     "wof:name":"Kamish",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

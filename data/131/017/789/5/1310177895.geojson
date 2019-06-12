@@ -31,9 +31,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675909,
-        1108693963,
-        85675925
+        1175613121,
+        1108693963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +46,11 @@
             "country_id":85632521,
             "county_id":1108693963,
             "locality_id":1310177895,
-            "region_id":85675909
-        },
-        {
-            "continent_id":102191577,
-            "country_id":85632521,
-            "county_id":1108693963,
-            "locality_id":1310177895,
-            "region_id":85675925
+            "region_id":1175613121
         }
     ],
     "wof:id":1310177895,
-    "wof:lastmodified":1536891913,
+    "wof:lastmodified":1560310334,
     "wof:name":"Canahuasi",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

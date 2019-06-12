@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3951607
     },
     "wof:country":"PE",
-    "wof:geomhash":"ef59558c5cd84b85d24a11194f0436a4",
+    "wof:geomhash":"dd22c38f127916dc1a2102fe240b53bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209438385
+            "county_id":421193379,
+            "locality_id":1209438385,
+            "region_id":85675839
         }
     ],
     "wof:id":1209438385,
-    "wof:lastmodified":1536287033,
+    "wof:lastmodified":1560310854,
     "wof:name":"Murutana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.33856999999998,
-    -15.539879999999998,
+    -15.53988,
     -71.33856999999998,
-    -15.539879999999998
+    -15.53988
 ],
   "geometry": {"coordinates":[-71.33856999999998,-15.53988],"type":"Point"}
 }

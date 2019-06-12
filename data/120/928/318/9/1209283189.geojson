@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421170671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"f7067a7303ef49612314a0d0d84643f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209283189
+            "county_id":421170671,
+            "locality_id":1209283189,
+            "region_id":85675885
         }
     ],
     "wof:id":1209283189,
-    "wof:lastmodified":1537676541,
+    "wof:lastmodified":1560312000,
     "wof:name":"Shilco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

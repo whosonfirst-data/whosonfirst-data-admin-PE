@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3958742
     },
     "wof:country":"PE",
-    "wof:geomhash":"5c3e415d1d68e06fb2dae6533ea83078",
+    "wof:geomhash":"b101488af7895939610c4938c77fec5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209508105
+            "county_id":1108693947,
+            "locality_id":1209508105,
+            "region_id":85675903
         }
     ],
     "wof:id":1209508105,
-    "wof:lastmodified":1536284969,
+    "wof:lastmodified":1560314493,
     "wof:name":"Chacachimpa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.91056,
-    -14.117779999999998,
+    -14.11778,
     -73.91056,
-    -14.117779999999998
+    -14.11778
 ],
   "geometry": {"coordinates":[-73.91056,-14.11778],"type":"Point"}
 }

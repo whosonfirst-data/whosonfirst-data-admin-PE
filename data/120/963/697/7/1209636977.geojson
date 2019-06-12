@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421185275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3761948
     },
     "wof:country":"PE",
-    "wof:geomhash":"258159b0b0774d9ab052d6ea2a82f547",
+    "wof:geomhash":"414cd47fa033d6e980ef5273fdae7109",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209636977
+            "county_id":421185275,
+            "locality_id":1209636977,
+            "region_id":85675871
         }
     ],
     "wof:id":1209636977,
-    "wof:lastmodified":1536281012,
+    "wof:lastmodified":1560311632,
     "wof:name":"Tabacal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -79.30911,
-    -5.6380300000000005,
+    -5.63803,
     -79.30911,
-    -5.6380300000000005
+    -5.63803
 ],
   "geometry": {"coordinates":[-79.30911,-5.63803],"type":"Point"}
 }

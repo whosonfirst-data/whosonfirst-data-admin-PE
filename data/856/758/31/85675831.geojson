@@ -17,6 +17,12 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:spa_x_preferred_longname":[
+        "Departamento de Tumbes"
+    ],
+    "label:spa_x_preferred_placetype":[
+        "departmento"
+    ],
     "lbl:latitude":-3.874742,
     "lbl:longitude":-80.613935,
     "meso:name_local":"Tumbes",
@@ -325,9 +331,6 @@
         }
     ],
     "wof:id":85675831,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -336,11 +339,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550506,
+    "wof:lastmodified":1560310724,
     "wof:name":"Tumbes",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":200306,
     "wof:population_rank":10,

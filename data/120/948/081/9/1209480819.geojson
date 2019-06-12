@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675857,
+        421193431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"13c9bd54c6a4321c7bbce99339ee0842",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209480819
+            "county_id":421193431,
+            "locality_id":1209480819,
+            "region_id":85675857
         }
     ],
     "wof:id":1209480819,
-    "wof:lastmodified":1536285789,
+    "wof:lastmodified":1560311353,
     "wof:name":"Soquezane",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193431,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

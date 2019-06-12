@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421194455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"63b950d93ae4a8de820359397e2b6bba",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209386125
+            "county_id":421194455,
+            "locality_id":1209386125,
+            "region_id":85675879
         }
     ],
     "wof:id":1209386125,
-    "wof:lastmodified":1536288619,
+    "wof:lastmodified":1560311775,
     "wof:name":"Lechuza",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

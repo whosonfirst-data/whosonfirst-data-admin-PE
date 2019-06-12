@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675865,
+        421202213
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6368119
     },
     "wof:country":"PE",
-    "wof:geomhash":"b4511e48fcefa037dbf18d3feab0986e",
+    "wof:geomhash":"5df35db6645f21e13ce8e441e882b982",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209118723
+            "county_id":421202213,
+            "locality_id":1209118723,
+            "region_id":85675865
         }
     ],
     "wof:id":1209118723,
-    "wof:lastmodified":1536297171,
+    "wof:lastmodified":1560311467,
     "wof:name":"Gansha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421202213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -78.20833,
-    -8.886389999999997,
+    -8.88639,
     -78.20833,
-    -8.886389999999997
+    -8.88639
 ],
   "geometry": {"coordinates":[-78.20833,-8.88639],"type":"Point"}
 }

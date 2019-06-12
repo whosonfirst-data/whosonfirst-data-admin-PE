@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421187843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"215d6001e44adc2a6b942bcf87c95d4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209299189
+            "county_id":421187843,
+            "locality_id":1209299189,
+            "region_id":85675843
         }
     ],
     "wof:id":1209299189,
-    "wof:lastmodified":1536291417,
+    "wof:lastmodified":1560311091,
     "wof:name":"Canahui",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421183001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"96b089c85e72dc228ec5eb576462006f",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209026021
+            "county_id":421183001,
+            "locality_id":1209026021,
+            "region_id":85675843
         }
     ],
     "wof:id":1209026021,
-    "wof:lastmodified":1536299996,
+    "wof:lastmodified":1560311094,
     "wof:name":"Chicon",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

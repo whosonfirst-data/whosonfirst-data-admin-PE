@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"6ea4c824ee5e3f9c2c1daf0ea32daa1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209688527
+            "county_id":1108693963,
+            "locality_id":1209688527,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209688527,
-    "wof:lastmodified":1537676893,
+    "wof:lastmodified":1560310208,
     "wof:name":"Asentamiento Humano Contigo Peru",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

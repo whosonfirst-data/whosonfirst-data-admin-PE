@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        1108694029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"815da691a86a40b07d69a954a61baca5",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209062267
+            "county_id":1108694029,
+            "locality_id":1209062267,
+            "region_id":85675861
         }
     ],
     "wof:id":1209062267,
-    "wof:lastmodified":1537676828,
+    "wof:lastmodified":1560311406,
     "wof:name":"Chululuni",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

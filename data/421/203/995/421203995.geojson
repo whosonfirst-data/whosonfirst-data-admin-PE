@@ -108,8 +108,9 @@
     "wof:belongsto":[
         102191577,
         85632521,
+        421186805,
         421202549,
-        85675909
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,15 +126,15 @@
             "continent_id":102191577,
             "country_id":85632521,
             "county_id":421202549,
-            "locality_id":-1,
+            "locality_id":421186805,
             "neighbourhood_id":421203995,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":421203995,
-    "wof:lastmodified":1531858836,
+    "wof:lastmodified":1560310474,
     "wof:name":"Jacaranda",
-    "wof:parent_id":-1,
+    "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

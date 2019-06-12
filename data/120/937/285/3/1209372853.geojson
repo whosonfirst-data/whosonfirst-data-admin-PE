@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675861,
+        1108694031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"7a42cc4fe7a84edefb25ded87c12a0e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209372853
+            "county_id":1108694031,
+            "locality_id":1209372853,
+            "region_id":85675861
         }
     ],
     "wof:id":1209372853,
-    "wof:lastmodified":1536289048,
+    "wof:lastmodified":1560311408,
     "wof:name":"Miraflorez",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

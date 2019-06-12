@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693943
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3939683
     },
     "wof:country":"PE",
-    "wof:geomhash":"ef8ca18c93e5a9906e18fc97f7952be8",
+    "wof:geomhash":"3ddde3d976a032a702ba148c426da571",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209313011
+            "county_id":1108693943,
+            "locality_id":1209313011,
+            "region_id":85675903
         }
     ],
     "wof:id":1209313011,
-    "wof:lastmodified":1536290961,
+    "wof:lastmodified":1560314440,
     "wof:name":"Huambalpa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.93111,
-    -13.749720000000002,
+    -13.74972,
     -73.93111,
-    -13.749720000000002
+    -13.74972
 ],
   "geometry": {"coordinates":[-73.93111,-13.74972],"type":"Point"}
 }

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        421188717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"b149ba0e8c475c21a6e90128d5c36464",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209494231
+            "county_id":421188717,
+            "locality_id":1209494231,
+            "region_id":85675879
         }
     ],
     "wof:id":1209494231,
-    "wof:lastmodified":1536285388,
+    "wof:lastmodified":1560311777,
     "wof:name":"Fundo Platanal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675879,
+        1108693883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"049290b3c5d9a068ddc190cf87e9ff1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209092389
+            "county_id":1108693883,
+            "locality_id":1209092389,
+            "region_id":85675879
         }
     ],
     "wof:id":1209092389,
-    "wof:lastmodified":1536297996,
+    "wof:lastmodified":1560311769,
     "wof:name":"Parasibe",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3957058
     },
     "wof:country":"PE",
-    "wof:geomhash":"984923b87ac09b507ec88a0dfbe845b7",
+    "wof:geomhash":"5c7e7cb94efe42817bb80528c58f57e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209611759
+            "county_id":421203205,
+            "locality_id":1209611759,
+            "region_id":85675843
         }
     ],
     "wof:id":1209611759,
-    "wof:lastmodified":1536281824,
+    "wof:lastmodified":1560311106,
     "wof:name":"Choccune",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.75263000000002,
-    -14.812829999999998,
+    -14.81283,
     -71.75263000000002,
-    -14.812829999999998
+    -14.81283
 ],
   "geometry": {"coordinates":[-71.75263000000002,-14.81283],"type":"Point"}
 }

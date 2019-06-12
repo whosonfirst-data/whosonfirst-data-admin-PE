@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421184603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"99a266c260ac41d41ac2bd69ea298215",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209508109
+            "county_id":421184603,
+            "locality_id":1209508109,
+            "region_id":85675911
         }
     ],
     "wof:id":1209508109,
-    "wof:lastmodified":1536284969,
+    "wof:lastmodified":1560314564,
     "wof:name":"Jacir",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421184603,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675843,
+        421203205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"bcbc9f55486f8deb1906c44318b4cc80",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209199165
+            "county_id":421203205,
+            "locality_id":1209199165,
+            "region_id":85675843
         }
     ],
     "wof:id":1209199165,
-    "wof:lastmodified":1536294670,
+    "wof:lastmodified":1560311101,
     "wof:name":"Viscachani",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

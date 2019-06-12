@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        1108693947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"a0c9029c0dcd7d03322c46d5bc4d7a9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209313029
+            "county_id":1108693947,
+            "locality_id":1209313029,
+            "region_id":85675903
         }
     ],
     "wof:id":1209313029,
-    "wof:lastmodified":1536290960,
+    "wof:lastmodified":1560314489,
     "wof:name":"Lluchcanta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

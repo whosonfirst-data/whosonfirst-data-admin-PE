@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        1108693931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3946631
     },
     "wof:country":"PE",
-    "wof:geomhash":"d148e23f6946a4dc347fca076d8e597d",
+    "wof:geomhash":"9f6c2377c78ea2b3d27365567a2541d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209403965
+            "county_id":1108693931,
+            "locality_id":1209403965,
+            "region_id":85675911
         }
     ],
     "wof:id":1209403965,
-    "wof:lastmodified":1536288055,
+    "wof:lastmodified":1560314558,
     "wof:name":"Bonanza",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -75.31667,
-    -13.183329999999998,
+    -13.18333,
     -75.31667,
-    -13.183329999999998
+    -13.18333
 ],
   "geometry": {"coordinates":[-75.31667,-13.18333],"type":"Point"}
 }

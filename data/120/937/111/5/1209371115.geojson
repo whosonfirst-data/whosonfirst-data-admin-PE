@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108693995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"624b5d08e33a74ecfde0e9684915e466",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209371115
+            "county_id":1108693995,
+            "locality_id":1209371115,
+            "region_id":85675885
         }
     ],
     "wof:id":1209371115,
-    "wof:lastmodified":1537676908,
+    "wof:lastmodified":1560312001,
     "wof:name":"Nuevo Oriente",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

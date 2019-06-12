@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        1108694037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"2506ca5c3e024b1e0d4cfdd10256c13c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209198365
+            "county_id":1108694037,
+            "locality_id":1209198365,
+            "region_id":85675919
         }
     ],
     "wof:id":1209198365,
-    "wof:lastmodified":1536294695,
+    "wof:lastmodified":1560314686,
     "wof:name":"Chilifruta",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108694037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

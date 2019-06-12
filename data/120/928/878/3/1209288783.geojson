@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        1108693973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"643c6b72efb96133c8f349140f9ec583",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209288783
+            "county_id":1108693973,
+            "locality_id":1209288783,
+            "region_id":85675827
         }
     ],
     "wof:id":1209288783,
-    "wof:lastmodified":1537676612,
+    "wof:lastmodified":1560310603,
     "wof:name":"Felicidad",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

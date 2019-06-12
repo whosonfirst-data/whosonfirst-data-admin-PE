@@ -32,7 +32,9 @@
         "state_id":2346483
     },
     "wof:belongsto":[
+        102191577,
         85632521,
+        1108694051,
         85675899
     ],
     "wof:breaches":[],
@@ -48,14 +50,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102552515,
+            "continent_id":102191577,
             "country_id":85632521,
+            "county_id":1108694051,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85675899
         }
     ],
     "wof:id":102552515,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1560314362,
     "wof:name":"Andoas Airport",
-    "wof:parent_id":85675899,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675899,
+        421182241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"23a64790f234d4c962b41ec4bef15b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209497055
+            "county_id":421182241,
+            "locality_id":1209497055,
+            "region_id":85675899
         }
     ],
     "wof:id":1209497055,
-    "wof:lastmodified":1536285302,
+    "wof:lastmodified":1560314262,
     "wof:name":"Flor de Coco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

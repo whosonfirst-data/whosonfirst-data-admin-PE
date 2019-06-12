@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675919,
+        421182239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"00a67a1f3b11d0afcfb196509507dc07",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209289575
+            "county_id":421182239,
+            "locality_id":1209289575,
+            "region_id":85675919
         }
     ],
     "wof:id":1209289575,
-    "wof:lastmodified":1536291741,
+    "wof:lastmodified":1560314686,
     "wof:name":"Huayhuay",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421182239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

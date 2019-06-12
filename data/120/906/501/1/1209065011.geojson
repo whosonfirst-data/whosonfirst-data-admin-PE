@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"cc76e22e41e47319f8ac2d89c537bcab",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209065011
+            "county_id":421193379,
+            "locality_id":1209065011,
+            "region_id":85675839
         }
     ],
     "wof:id":1209065011,
-    "wof:lastmodified":1536298832,
+    "wof:lastmodified":1560310832,
     "wof:name":"Llaminuyoc",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

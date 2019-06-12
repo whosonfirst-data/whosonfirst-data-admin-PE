@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"f1ce8a105077dd60cbb11e2fc21b2b07",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209284239
+            "county_id":1108693955,
+            "locality_id":1209284239,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209284239,
-    "wof:lastmodified":1536291914,
+    "wof:lastmodified":1560310327,
     "wof:name":"Totora",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675895,
+        421172895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8797c2a02e28e1e5e2c0bfd99e0e71f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209418455
+            "county_id":421172895,
+            "locality_id":1209418455,
+            "region_id":85675895
         }
     ],
     "wof:id":1209418455,
-    "wof:lastmodified":1536287609,
+    "wof:lastmodified":1560312380,
     "wof:name":"Esperanza",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"47b165b2578a4070e43cbe044f28512c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209608165
+            "county_id":421193433,
+            "locality_id":1209608165,
+            "region_id":85675903
         }
     ],
     "wof:id":1209608165,
-    "wof:lastmodified":1536281938,
+    "wof:lastmodified":1560314426,
     "wof:name":"Cuchuhuasi",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        421183859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"1256fed051a3204589d091ee5b2e3ebc",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209636979
+            "county_id":421183859,
+            "locality_id":1209636979,
+            "region_id":85675871
         }
     ],
     "wof:id":1209636979,
-    "wof:lastmodified":1536281012,
+    "wof:lastmodified":1560311610,
     "wof:name":"El Lirio",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421183859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

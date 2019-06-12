@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3943832
     },
     "wof:country":"PE",
-    "wof:geomhash":"981b8bd07162a12c5079be84aa28067c",
+    "wof:geomhash":"1567325de5c672b2b21bc255fb143d9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209438379
+            "county_id":421193379,
+            "locality_id":1209438379,
+            "region_id":85675839
         }
     ],
     "wof:id":1209438379,
-    "wof:lastmodified":1536287033,
+    "wof:lastmodified":1560310853,
     "wof:name":"Chillpa",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.13441,
-    -15.821129999999998,
+    -15.82113,
     -71.13441,
-    -15.821129999999998
+    -15.82113
 ],
   "geometry": {"coordinates":[-71.13441,-15.82113],"type":"Point"}
 }

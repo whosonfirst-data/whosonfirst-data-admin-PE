@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675835,
+        421170339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6308388
     },
     "wof:country":"PE",
-    "wof:geomhash":"a2a98c1fd414c8b3b1de4ae5b2735624",
+    "wof:geomhash":"009bf16faf9a5921721820ec0602d2c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209315761
+            "county_id":421170339,
+            "locality_id":1209315761,
+            "region_id":85675835
         }
     ],
     "wof:id":1209315761,
-    "wof:lastmodified":1536290871,
+    "wof:lastmodified":1560310738,
     "wof:name":"Atacori",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -73.34456999999998,
-    -13.751920000000002,
+    -13.75192,
     -73.34456999999998,
-    -13.751920000000002
+    -13.75192
 ],
   "geometry": {"coordinates":[-73.34456999999998,-13.75192],"type":"Point"}
 }

@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3940919
     },
     "wof:country":"PE",
-    "wof:geomhash":"1d162d78284f3e3b6074072e08ce906e",
+    "wof:geomhash":"31b3b3226fb38ea81666f9bd638c45be",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209638811
+            "county_id":421193379,
+            "locality_id":1209638811,
+            "region_id":85675839
         }
     ],
     "wof:id":1209638811,
-    "wof:lastmodified":1536280951,
+    "wof:lastmodified":1560310966,
     "wof:name":"Flor del Mundo",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -71.85599,
-    -15.182720000000002,
+    -15.18272,
     -71.85599,
-    -15.182720000000002
+    -15.18272
 ],
   "geometry": {"coordinates":[-71.85599000000001,-15.18272],"type":"Point"}
 }

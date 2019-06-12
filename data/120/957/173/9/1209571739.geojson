@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        1108693999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3691202
     },
     "wof:country":"PE",
-    "wof:geomhash":"603a63dfe32d3d5e587367e911d7c5a9",
+    "wof:geomhash":"67847279f97cf372ab2dc78f89d10dd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209571739
+            "county_id":1108693999,
+            "locality_id":1209571739,
+            "region_id":85675885
         }
     ],
     "wof:id":1209571739,
-    "wof:lastmodified":1536283062,
+    "wof:lastmodified":1560312004,
     "wof:name":"Tres Unidos",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -76.22944,
-    -6.806939999999999,
+    -6.80694,
     -76.22944,
-    -6.806939999999999
+    -6.80694
 ],
   "geometry": {"coordinates":[-76.22944,-6.80694],"type":"Point"}
 }

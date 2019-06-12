@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421193379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"4f7f467b0d99b206c8bf0a335282736c",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209420691
+            "county_id":421193379,
+            "locality_id":1209420691,
+            "region_id":85675839
         }
     ],
     "wof:id":1209420691,
-    "wof:lastmodified":1536287541,
+    "wof:lastmodified":1560310850,
     "wof:name":"Accopunco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

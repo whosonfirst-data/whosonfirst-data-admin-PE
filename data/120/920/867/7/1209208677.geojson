@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"e47518c716bea7df0ddd020fc8361360",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209208677
+            "county_id":1108693929,
+            "locality_id":1209208677,
+            "region_id":85675875
         }
     ],
     "wof:id":1209208677,
-    "wof:lastmodified":1536294364,
+    "wof:lastmodified":1560311660,
     "wof:name":"Arco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

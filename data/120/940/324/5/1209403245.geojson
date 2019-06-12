@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675885,
+        421170671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6394328
     },
     "wof:country":"PE",
-    "wof:geomhash":"8ebacd558463a244c6f5239694b74181",
+    "wof:geomhash":"c08aadacc1a60408b8f0ae999a5c8775",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209403245
+            "county_id":421170671,
+            "locality_id":1209403245,
+            "region_id":85675885
         }
     ],
     "wof:id":1209403245,
-    "wof:lastmodified":1536288077,
+    "wof:lastmodified":1560312002,
     "wof:name":"Cucaracha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421170671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -76.2951,
-    -8.486989999999999,
+    -8.48699,
     -76.2951,
-    -8.486989999999999
+    -8.48699
 ],
   "geometry": {"coordinates":[-76.29510000000001,-8.48699],"type":"Point"}
 }

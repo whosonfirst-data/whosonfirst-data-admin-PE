@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675911,
+        421177937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8677174
     },
     "wof:country":"PE",
-    "wof:geomhash":"2f924a47eaf86dd374ba6460dc3deaa1",
+    "wof:geomhash":"c890ec07f47a7660b1cfa7f332e5fae0",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209610865
+            "county_id":421177937,
+            "locality_id":1209610865,
+            "region_id":85675911
         }
     ],
     "wof:id":1209610865,
-    "wof:lastmodified":1536281851,
+    "wof:lastmodified":1560314561,
     "wof:name":"Occecocha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -74.91816,
-    -13.284720000000002,
+    -13.28472,
     -74.91816,
-    -13.284720000000002
+    -13.28472
 ],
   "geometry": {"coordinates":[-74.91816,-13.28472],"type":"Point"}
 }

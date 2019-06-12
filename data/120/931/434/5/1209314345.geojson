@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675839,
+        421194075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"724c00bae4c6e4ea0bab7c15a5d45e30",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209314345
+            "county_id":421194075,
+            "locality_id":1209314345,
+            "region_id":85675839
         }
     ],
     "wof:id":1209314345,
-    "wof:lastmodified":1537676686,
+    "wof:lastmodified":1560310843,
     "wof:name":"Sulcacha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421194075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

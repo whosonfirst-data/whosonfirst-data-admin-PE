@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5045758.766472,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.994967,-12.097303,-76.994967,-12.097303",
     "geom:latitude":-12.097303,
     "geom:longitude":-76.994967,
@@ -67,8 +67,9 @@
     "wof:belongsto":[
         102191577,
         85632521,
+        421186805,
         421202549,
-        85675909
+        1175613121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,18 +85,18 @@
             "continent_id":102191577,
             "country_id":85632521,
             "county_id":421202549,
-            "locality_id":-1,
+            "locality_id":421186805,
             "neighbourhood_id":85765681,
-            "region_id":85675909
+            "region_id":1175613121
         }
     ],
     "wof:id":85765681,
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859033,
+    "wof:lastmodified":1560310473,
     "wof:name":"San Borja Norte",
-    "wof:parent_id":-1,
+    "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

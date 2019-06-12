@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1175613121,
+        1108693967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"b6cdd1d6dc73b3b4d659fcc392fff9fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209297095
+            "county_id":1108693967,
+            "locality_id":1209297095,
+            "region_id":1175613121
         }
     ],
     "wof:id":1209297095,
-    "wof:lastmodified":1537676688,
+    "wof:lastmodified":1560310333,
     "wof:name":"Pampa Sisicaya",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

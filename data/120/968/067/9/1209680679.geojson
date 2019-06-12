@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421181301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"b11c637966ea8816d393e94eb664ef63",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209680679
+            "county_id":421181301,
+            "locality_id":1209680679,
+            "region_id":85675875
         }
     ],
     "wof:id":1209680679,
-    "wof:lastmodified":1536279588,
+    "wof:lastmodified":1560311683,
     "wof:name":"Mesapata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421181301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

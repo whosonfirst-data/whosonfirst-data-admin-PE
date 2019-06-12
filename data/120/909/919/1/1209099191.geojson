@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675903,
+        421193433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"45e205a67c7cd10fce251e76009de7d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209099191
+            "county_id":421193433,
+            "locality_id":1209099191,
+            "region_id":85675903
         }
     ],
     "wof:id":1209099191,
-    "wof:lastmodified":1537676704,
+    "wof:lastmodified":1560314438,
     "wof:name":"San Cristobal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f18e9bae18a1eccf15a03fb1e1c3252a",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209589441
+            "county_id":1108693913,
+            "locality_id":1209589441,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209589441,
-    "wof:lastmodified":1537676875,
+    "wof:lastmodified":1560310037,
     "wof:name":"Curva Alegre",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675827,
+        421188857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"54103ff312215890a6c48a28bb33d4af",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209479675
+            "county_id":421188857,
+            "locality_id":1209479675,
+            "region_id":85675827
         }
     ],
     "wof:id":1209479675,
-    "wof:lastmodified":1537676639,
+    "wof:lastmodified":1560310624,
     "wof:name":"Cabuyal",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421188857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

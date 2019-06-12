@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675871,
+        1108693985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"5288dce51cb65bfa4653046654dce007",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209336125
+            "county_id":1108693985,
+            "locality_id":1209336125,
+            "region_id":85675871
         }
     ],
     "wof:id":1209336125,
-    "wof:lastmodified":1537676648,
+    "wof:lastmodified":1560311604,
     "wof:name":"Chinchiquipe",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

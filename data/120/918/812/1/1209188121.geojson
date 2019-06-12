@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        421200651
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3927194
     },
     "wof:country":"PE",
-    "wof:geomhash":"43119636d39f339a0e6354c08e36c6d0",
+    "wof:geomhash":"db3a8ec2829976acc3511bd0043b3e7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209188121
+            "county_id":421200651,
+            "locality_id":1209188121,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209188121,
-    "wof:lastmodified":1536295029,
+    "wof:lastmodified":1560309952,
     "wof:name":"Tomoco",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421200651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -69.68333,
-    -16.066670000000002,
+    -16.06667,
     -69.68333,
-    -16.066670000000002
+    -16.06667
 ],
   "geometry": {"coordinates":[-69.68333,-16.06667],"type":"Point"}
 }

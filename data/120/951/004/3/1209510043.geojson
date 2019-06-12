@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        1108693925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"92d7a8c56b2ba28524848411fc2d7b24",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209510043
+            "county_id":1108693925,
+            "locality_id":1209510043,
+            "region_id":85675875
         }
     ],
     "wof:id":1209510043,
-    "wof:lastmodified":1536284910,
+    "wof:lastmodified":1560311718,
     "wof:name":"Huacarbamba",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

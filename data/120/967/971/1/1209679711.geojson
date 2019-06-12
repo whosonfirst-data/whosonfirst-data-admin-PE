@@ -29,24 +29,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        1108805617,
+        1108693915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3938382
     },
     "wof:country":"PE",
-    "wof:geomhash":"a26b762fbd8434f035a87d9015083bda",
+    "wof:geomhash":"ae6f39f98d460bccec8c12a7a5dea601",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209679711
+            "county_id":1108693915,
+            "locality_id":1209679711,
+            "region_id":1108805617
         }
     ],
     "wof:id":1209679711,
-    "wof:lastmodified":1536279621,
+    "wof:lastmodified":1560309972,
     "wof:name":"Inaspata",
-    "wof:parent_id":85632521,
+    "wof:parent_id":1108693915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
@@ -55,9 +61,9 @@
 },
   "bbox": [
     -70.08333,
-    -15.333329999999998,
+    -15.33333,
     -70.08333,
-    -15.333329999999998
+    -15.33333
 ],
   "geometry": {"coordinates":[-70.08333,-15.33333],"type":"Point"}
 }

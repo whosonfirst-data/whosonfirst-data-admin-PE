@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675857,
+        421171959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"93ba1cc3bbf1a06a58e23b8d7aa9379e",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209581285
+            "county_id":421171959,
+            "locality_id":1209581285,
+            "region_id":85675857
         }
     ],
     "wof:id":1209581285,
-    "wof:lastmodified":1536282780,
+    "wof:lastmodified":1560311353,
     "wof:name":"La Cuchilla",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421171959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

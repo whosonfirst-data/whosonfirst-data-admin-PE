@@ -29,7 +29,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675875,
+        421185313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"84c863aee60eca586ede971c206e264b",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209603653
+            "county_id":421185313,
+            "locality_id":1209603653,
+            "region_id":85675875
         }
     ],
     "wof:id":1209603653,
-    "wof:lastmodified":1536282084,
+    "wof:lastmodified":1560311675,
     "wof:name":"Huarocancha",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421185313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],

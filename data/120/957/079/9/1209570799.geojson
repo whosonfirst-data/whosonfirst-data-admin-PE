@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632521
+        102191577,
+        85632521,
+        85675831,
+        421187863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"93cce50c34b5ab80a2b45e2f2d723664",
     "wof:hierarchy":[
         {
+            "continent_id":102191577,
             "country_id":85632521,
-            "locality_id":1209570799
+            "county_id":421187863,
+            "locality_id":1209570799,
+            "region_id":85675831
         }
     ],
     "wof:id":1209570799,
-    "wof:lastmodified":1537676598,
+    "wof:lastmodified":1560310713,
     "wof:name":"Capitana",
-    "wof:parent_id":85632521,
+    "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
