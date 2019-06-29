@@ -42,9 +42,6 @@
         "Ayaquchu jacha suyu",
         "Ayaquchu jach'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Ayacucho"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0410\u044f\u043a\u0443\u0447\u0430"
     ],
@@ -57,23 +54,26 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 dAyacucho"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u4e9a\u5e93\u4e54\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ayacucho"
     ],
     "name:dan_x_preferred":[
         "Ayacucho"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ayacucho"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b9\u03b1\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ayacucho"
     ],
     "name:epo_x_preferred":[
         "Departemento Ajaku\u0109o"
+    ],
+    "name:eus_x_preferred":[
+        "Ayacucho"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0622\u06cc\u0627\u06a9\u0648\u0686\u0648"
@@ -84,20 +84,11 @@
     "name:fra_x_preferred":[
         "R\u00e9gion dAyacucho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion d'Ayacucho"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10d0\u10d9\u10e3\u10e9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Ayacucho"
     ],
     "name:glg_x_preferred":[
         "Departamento de Ayacucho"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03b9\u03b1\u03ba\u03bf\u03cd\u03c4\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0abe\u0a95\u0ac1\u0a9a\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -126,6 +117,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10d0\u10d9\u10e3\u10e9\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10d8\u10d0\u10d9\u10e3\u10e9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc57c\ucfe0\ucd08 \uc8fc"
     ],
@@ -138,14 +132,8 @@
     "name:lit_x_preferred":[
         "Ajaku\u010do departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0458\u0430\u043a\u0443\u0447\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0945\u0915\u0941\u091a\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Ayacucho"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0458\u0430\u043a\u0443\u0447\u043e"
@@ -159,14 +147,14 @@
     "name:nan_x_preferred":[
         "Ayacucho Khu"
     ],
+    "name:nld_x_preferred":[
+        "Ayacucho"
+    ],
     "name:nno_x_preferred":[
         "Ayacucho-regionen"
     ],
     "name:nob_x_preferred":[
         "Ayacucho"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0622\u06cc\u0627\u06a9\u0648\u0686\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u06cc\u0627\u06a9\u0648\u0686\u0648"
@@ -183,7 +171,7 @@
     "name:que_x_variant":[
         "Ayakuchu suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ayacucho"
     ],
     "name:rus_x_preferred":[
@@ -350,7 +338,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560314522,
+    "wof:lastmodified":1561777525,
     "wof:name":"Ayacucho",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Pataz"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5854\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Pat\u00e1z"
-    ],
     "name:eng_x_preferred":[
         "Pataz"
     ],
@@ -56,17 +50,20 @@
     "name:epo_x_preferred":[
         "Provinco Pat\u00e1z"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pataz"
     ],
     "name:fre_x_variant":[
         "province de Pataz"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e2\u10d0\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Pataz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e2\u10d0\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Pat\u00e1z"
     ],
     "name:por_x_preferred":[
         "Pat\u00e1z"
@@ -91,6 +88,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10e2\u10d0\u10e1\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5854\u65af\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":421172463,
-    "wof:lastmodified":1555047501,
+    "wof:lastmodified":1561777728,
     "wof:name":"Pataz",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

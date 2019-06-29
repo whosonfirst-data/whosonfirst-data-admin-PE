@@ -40,14 +40,8 @@
     "name:cat_x_preferred":[
         "La Convenci\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5b54\u672c\u897f\u7fc1\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz La Convenci\u00f3n"
-    ],
-    "name:dut_x_preferred":[
-        "La Convenci\u00f3n"
     ],
     "name:eng_x_preferred":[
         "La Convenci\u00f3n"
@@ -59,17 +53,11 @@
     "name:fra_x_preferred":[
         "Province de La Convenci\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "La Convenci\u00f3n"
     ],
     "name:fre_x_variant":[
         "province de La Convenci\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10d9\u10dd\u10dc\u10d5\u10d4\u10dc\u10e1\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz La Convenci\u00f3n"
     ],
     "name:ita_x_preferred":[
         "Provincia di La Convenci\u00f3n"
@@ -77,8 +65,8 @@
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10d9\u10dd\u10dc\u10d5\u10d4\u10dc\u10e1\u10d8\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430 \u041a\u043e\u043d\u0432\u0435\u043d\u0441\u0438\u043e\u043d"
+    "name:kat_x_variant":[
+        "\u10da\u10d0-\u10d9\u10dd\u10dc\u10d5\u10d4\u10dc\u10e1\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430 \u041a\u043e\u043d\u0432\u0435\u043d\u0441\u0438\u043e\u043d"
@@ -112,6 +100,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d0-\u10d9\u10dd\u10dc\u10d5\u10d4\u10dc\u10e1\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5b54\u672c\u897f\u7fc1\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -175,7 +166,7 @@
         }
     ],
     "wof:id":421194085,
-    "wof:lastmodified":1555047509,
+    "wof:lastmodified":1561777720,
     "wof:name":"La Convenci\u00f3n",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

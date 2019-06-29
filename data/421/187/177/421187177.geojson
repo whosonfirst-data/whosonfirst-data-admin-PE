@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Talara"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u62c9\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Talara"
-    ],
     "name:eng_x_preferred":[
         "Talara"
     ],
@@ -53,20 +47,23 @@
         "Talara",
         "Talara Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Talara"
     ],
     "name:fre_x_variant":[
         "province de Talara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10d0\u10e0\u10d0"
     ],
     "name:ita_x_preferred":[
         "Provincia di Talara"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30e9\u30e9\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10da\u10d0\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Talara"
     ],
     "name:por_x_preferred":[
         "Talara"
@@ -85,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Talara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u62c9\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":421187177,
-    "wof:lastmodified":1555047506,
+    "wof:lastmodified":1561777726,
     "wof:name":"Talara",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

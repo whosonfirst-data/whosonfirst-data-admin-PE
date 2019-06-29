@@ -25,16 +25,7 @@
     "name:ces_x_preferred":[
         "La Oroya"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5967\u7f85\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "La Oroya"
-    ],
     "name:deu_x_preferred":[
-        "La Oroya"
-    ],
-    "name:dut_x_preferred":[
         "La Oroya"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "La Oroya"
     ],
     "name:fra_x_preferred":[
-        "La Oroya"
-    ],
-    "name:fre_x_preferred":[
-        "La Oroya"
-    ],
-    "name:ger_x_preferred":[
         "La Oroya"
     ],
     "name:ind_x_preferred":[
@@ -151,7 +136,7 @@
         }
     ],
     "wof:id":421179895,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777738,
     "wof:name":"La Oroya",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

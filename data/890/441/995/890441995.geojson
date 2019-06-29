@@ -18,7 +18,7 @@
     "name:eng_x_preferred":[
         "Mala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mala"
     ],
     "name:spa_x_preferred":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890441995,
-    "wof:lastmodified":1560310317,
+    "wof:lastmodified":1561777741,
     "wof:name":"Mala",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

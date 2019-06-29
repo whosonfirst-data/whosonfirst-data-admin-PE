@@ -16,14 +16,14 @@
     "name:dan_x_preferred":[
         "Za\u0146as pagasts"
     ],
-    "name:dut_x_preferred":[
-        "Za\u00f1a"
-    ],
     "name:eng_x_preferred":[
         "Za\u00f1a"
     ],
     "name:lav_x_preferred":[
         "Za\u0146as pagasts"
+    ],
+    "name:nld_x_preferred":[
+        "Za\u00f1a"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043d\u0430"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421205027,
-    "wof:lastmodified":1514495832,
+    "wof:lastmodified":1561777724,
     "wof:name":"Za\u00f1a",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

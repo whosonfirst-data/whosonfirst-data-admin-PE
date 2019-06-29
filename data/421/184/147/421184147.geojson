@@ -46,7 +46,7 @@
     "name:fra_x_preferred":[
         "Province de Jun\u00edn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Jun\u00edn"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421184147,
-    "wof:lastmodified":1555047505,
+    "wof:lastmodified":1561777735,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

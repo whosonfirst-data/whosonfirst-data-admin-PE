@@ -42,9 +42,6 @@
         "Ukayali jacha suyu",
         "Ukayali jach'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Ucayali"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0423\u043a\u0430\u044f\u043b\u0456"
     ],
@@ -60,17 +57,17 @@
     "name:cat_x_preferred":[
         "Departament dUcayali"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u5361\u4e9a\u5229\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ucayali"
     ],
     "name:dan_x_preferred":[
         "Ucayali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ucayali"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ba\u03b1\u03b3\u03b9\u03ac\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ucayali"
@@ -78,23 +75,20 @@
     "name:est_x_preferred":[
         "Ucayali piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Ucayali"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647\u0654 \u0627\u0648\u06a9\u0627\u06cc\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ucayalin alue"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion dUcayali"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion d'Ucayali"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d9\u10d0\u10d8\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ucayali"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03ba\u03b1\u03b3\u03b9\u03ac\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0a95\u0abe\u0aaf\u0ab2\u0ac0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -132,17 +126,14 @@
     "name:lit_x_preferred":[
         "Ukajalio departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u043a\u0430\u0458\u0430\u043b\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0915\u093e\u092f\u0932\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Ucayali Region"
-    ],
     "name:mkd_x_preferred":[
         "\u0423\u043a\u0430\u0458\u0430\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ucayali Region"
     ],
     "name:nah_x_preferred":[
         "Ucayali"
@@ -150,14 +141,14 @@
     "name:nan_x_preferred":[
         "Ucayali Khu"
     ],
+    "name:nld_x_preferred":[
+        "Ucayali"
+    ],
     "name:nno_x_preferred":[
         "Ucayali-regionen"
     ],
     "name:nob_x_preferred":[
         "Ucayali"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647\u0654 \u0627\u0648\u06a9\u0627\u06cc\u0627\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u06a9\u06cc\u0627\u0644\u06cc"
@@ -338,7 +329,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560312323,
+    "wof:lastmodified":1561777517,
     "wof:name":"Ucayali",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

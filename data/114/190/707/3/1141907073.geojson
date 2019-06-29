@@ -22,16 +22,10 @@
     "name:aym_x_preferred":[
         "Qura Qura"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u62c9\u79d1\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Coracora"
-    ],
     "name:eng_x_preferred":[
         "Coracora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Coracora"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Korakora"
+    ],
+    "name:nld_x_preferred":[
+        "Coracora"
     ],
     "name:pol_x_preferred":[
         "Coracora"
@@ -54,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Coracora"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9\u79d1\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1141907073,
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1561777869,
     "wof:name":"Coracora",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

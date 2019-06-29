@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Yauri"
     ],
-    "name:chi_x_preferred":[
-        "\u582f\u91cc"
-    ],
     "name:eng_x_preferred":[
         "Yauri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yauri"
     ],
     "name:pol_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:war_x_preferred":[
         "Yauri"
+    ],
+    "name:zho_x_preferred":[
+        "\u582f\u91cc"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":421186855,
-    "wof:lastmodified":1527716318,
+    "wof:lastmodified":1561777729,
     "wof:name":"Yauri",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

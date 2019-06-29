@@ -14,22 +14,13 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u70cf\u9b6f\u73ed\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Urubamba"
-    ],
-    "name:dut_x_preferred":[
         "Urubamba"
     ],
     "name:eng_x_preferred":[
         "Urubamba"
     ],
-    "name:fre_x_preferred":[
-        "Urubamba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Urubamba"
     ],
     "name:hun_x_preferred":[
@@ -44,10 +35,10 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30eb\u30d0\u30f3\u30d0\u30bf\u30a6\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Urubamba"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Urubamba"
     ],
     "name:pol_x_preferred":[
@@ -213,7 +204,7 @@
         }
     ],
     "wof:id":421173123,
-    "wof:lastmodified":1527716261,
+    "wof:lastmodified":1561777726,
     "wof:name":"Urubamba",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

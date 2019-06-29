@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Yarowilca"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u7f85\u7dad\u723e\u5361\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Yarowilca"
-    ],
     "name:eng_x_preferred":[
         "Yarowilca"
     ],
@@ -53,17 +47,20 @@
         "Yarowilca",
         "Yarowilca Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yarowilca"
     ],
     "name:fre_x_variant":[
         "province de Yarowilca"
     ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d0\u10e0\u10dd\u10d5\u10d8\u10da\u10d9\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Yarowilca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10e0\u10dd\u10d5\u10d8\u10da\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Yarowilca"
     ],
     "name:por_x_preferred":[
         "Yarowilca"
@@ -88,6 +85,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10ef\u10d0\u10e0\u10dd\u10d5\u10d8\u10da\u10d9\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u7f85\u7dad\u723e\u5361\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":421194939,
-    "wof:lastmodified":1555047510,
+    "wof:lastmodified":1561777720,
     "wof:name":"Yarowilca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

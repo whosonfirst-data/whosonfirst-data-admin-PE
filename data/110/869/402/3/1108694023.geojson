@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "La Uni\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u70cf\u5c3c\u7fc1\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "La Uni\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -52,20 +46,23 @@
         "La Uni\u00f3n",
         "La Uni\u00f3n Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:fre_x_variant":[
         "province de La Uni\u00f3n"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10e3\u10dc\u10d8\u10dd\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Provincia di La Uni\u00f3n"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10e3\u10dc\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lit_x_preferred":[
         "La Uniono provincija"
+    ],
+    "name:nld_x_preferred":[
+        "La Uni\u00f3n"
     ],
     "name:nob_x_preferred":[
         "La Uni\u00f3n"
@@ -76,7 +73,7 @@
     "name:que_x_preferred":[
         "Unyun pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d0-\u10e3\u10dc\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u70cf\u5c3c\u7fc1\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108694023,
-    "wof:lastmodified":1555047515,
+    "wof:lastmodified":1561777653,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

@@ -17,9 +17,6 @@
     "name:afr_x_preferred":[
         "Cusco"
     ],
-    "name:alb_x_preferred":[
-        "Cusco"
-    ],
     "name:ang_x_preferred":[
         "Cosco"
     ],
@@ -29,17 +26,11 @@
     "name:arg_x_preferred":[
         "Cuzco"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u057d\u056f\u0578"
-    ],
     "name:ast_x_preferred":[
         "Cusco"
     ],
     "name:aym_x_preferred":[
         "Qusqu"
-    ],
-    "name:baq_x_preferred":[
-        "Cusco"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u0441\u043a\u0430"
@@ -56,20 +47,23 @@
     "name:cat_x_preferred":[
         "Cusco"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u65af\u79d1"
+    "name:ces_x_preferred":[
+        "Cuzco"
     ],
     "name:cos_x_preferred":[
         "Cuscu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Cuzco"
     ],
     "name:dan_x_preferred":[
         "Cusco"
     ],
-    "name:dut_x_preferred":[
-        "Cuzco"
+    "name:deu_x_preferred":[
+        "Cusco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03b6\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Cusco"
@@ -77,8 +71,14 @@
     "name:epo_x_preferred":[
         "Kusko"
     ],
+    "name:eus_x_preferred":[
+        "Cusco"
+    ],
     "name:ext_x_preferred":[
         "Cuscu"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u06a9\u0648"
     ],
     "name:fij_x_preferred":[
         "Cusco"
@@ -86,23 +86,14 @@
     "name:fin_x_preferred":[
         "Cusco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cuzco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e1\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Cusco"
     ],
     "name:gle_x_preferred":[
         "Cusco"
     ],
     "name:glg_x_preferred":[
         "Cuzco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03b6\u03ba\u03bf"
     ],
     "name:grn_x_preferred":[
         "Cusco"
@@ -121,6 +112,9 @@
     ],
     "name:hun_x_preferred":[
         "Cuzco"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u057d\u056f\u0578"
     ],
     "name:ido_x_preferred":[
         "Cuzco"
@@ -146,6 +140,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb8\u0ccd\u0c95\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e1\u10d9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc2a4\ucf54"
     ],
@@ -164,19 +161,22 @@
     "name:lit_x_preferred":[
         "Kuskas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0441\u043a\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0938\u094d\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0441\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Cusco"
     ],
     "name:nah_x_preferred":[
         "Cuzco"
     ],
     "name:nau_x_preferred":[
+        "Cuzco"
+    ],
+    "name:nld_x_preferred":[
         "Cuzco"
     ],
     "name:nno_x_preferred":[
@@ -191,9 +191,6 @@
     "name:oss_x_preferred":[
         "\u041a\u0443\u0441\u043a\u043e"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0633\u06a9\u0648"
-    ],
     "name:pih_x_preferred":[
         "Cusco"
     ],
@@ -206,7 +203,7 @@
     "name:que_x_preferred":[
         "Qusqu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cuzco"
     ],
     "name:rus_x_preferred":[
@@ -221,7 +218,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dc3\u0dca\u0d9a\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cusco"
     ],
     "name:slv_x_preferred":[
@@ -229,6 +226,9 @@
     ],
     "name:spa_x_preferred":[
         "Cuzco"
+    ],
+    "name:sqi_x_preferred":[
+        "Cusco"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0441\u043a\u043e"
@@ -269,14 +269,14 @@
     "name:war_x_preferred":[
         "Cusco"
     ],
-    "name:wel_x_preferred":[
-        "Cuzco"
-    ],
     "name:yid_x_preferred":[
         "\u05e7\u05d5\u05e1\u05e7\u05d0"
     ],
     "name:yue_x_preferred":[
         "\u54e5\u65af\u54e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u65af\u79d1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -397,7 +397,7 @@
         }
     ],
     "wof:id":1141909347,
-    "wof:lastmodified":1514495176,
+    "wof:lastmodified":1561777870,
     "wof:name":"Cusco",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

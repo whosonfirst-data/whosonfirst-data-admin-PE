@@ -16,16 +16,10 @@
     "name:bre_x_preferred":[
         "Pampas"
     ],
-    "name:chi_x_preferred":[
-        "\u6f58\u5e15\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Pampas"
-    ],
     "name:eng_x_preferred":[
         "Pampas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pampas"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +27,9 @@
     ],
     "name:lit_x_preferred":[
         "Pampasas"
+    ],
+    "name:nld_x_preferred":[
+        "Pampas"
     ],
     "name:por_x_preferred":[
         "Pampas"
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421182075,
-    "wof:lastmodified":1527726457,
+    "wof:lastmodified":1561777739,
     "wof:name":"Pampas",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Condesuyos"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u5fb7\u8607\u7d04\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Condesuyos"
-    ],
     "name:eng_x_preferred":[
         "Condesuyos"
     ],
@@ -52,20 +46,23 @@
         "Condesuyos",
         "Condesuyos Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Condesuyos"
     ],
     "name:fre_x_variant":[
         "province de Condesuyos"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d3\u10d4\u10e1\u10e3\u10d8\u10dd\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Condesuyos"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10d3\u10d4\u10e1\u10e3\u10d8\u10dd\u10e1\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Kondesujoso provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Condesuyos"
     ],
     "name:nob_x_preferred":[
         "Condesuyos"
@@ -76,7 +73,7 @@
     "name:que_x_preferred":[
         "Kuntisuyus pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Condesuyos"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10dc\u10d3\u10d4\u10e1\u10e3\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u5fb7\u8607\u7d04\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108694027,
-    "wof:lastmodified":1555047515,
+    "wof:lastmodified":1561777653,
     "wof:name":"Condesuyos",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

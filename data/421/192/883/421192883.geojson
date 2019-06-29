@@ -40,14 +40,11 @@
     "name:cat_x_preferred":[
         "Huancabamba"
     ],
-    "name:chi_x_preferred":[
-        "\u5b9b\u5361\u73ed\u5df4\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Huancabamba"
     ],
-    "name:dut_x_preferred":[
-        "Huancabamba"
+    "name:deu_x_preferred":[
+        "Provinz Huancabamba"
     ],
     "name:eng_x_preferred":[
         "Huancabamba"
@@ -56,20 +53,20 @@
         "Huancabamba",
         "Huancabamba Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huancabamba"
     ],
     "name:fre_x_variant":[
         "province de Huancabamba"
     ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10dc\u10d9\u10d0\u10d1\u10d0\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Huancabamba"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Huancabamba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10d9\u10d0\u10d1\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Huancabamba"
     ],
     "name:por_x_preferred":[
         "Huancabamba"
@@ -97,6 +94,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e3\u10d0\u10dc\u10d9\u10d0\u10d1\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9b\u5361\u73ed\u5df4\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":421192883,
-    "wof:lastmodified":1555047508,
+    "wof:lastmodified":1561777719,
     "wof:name":"Huancabamba",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

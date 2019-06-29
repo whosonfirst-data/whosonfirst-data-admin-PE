@@ -24,16 +24,10 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u8d1d\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tumbes"
     ],
     "name:deu_x_preferred":[
-        "Tumbes"
-    ],
-    "name:dut_x_preferred":[
         "Tumbes"
     ],
     "name:eng_x_preferred":[
@@ -48,13 +42,7 @@
     "name:fin_x_preferred":[
         "Tumbes"
     ],
-    "name:fre_x_preferred":[
-        "Tumbes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10db\u10d1\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tumbes"
     ],
     "name:hun_x_preferred":[
@@ -90,9 +78,6 @@
     "name:nno_x_preferred":[
         "Tumbes"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0645\u0628\u0633"
-    ],
     "name:pol_x_preferred":[
         "Tumbes"
     ],
@@ -102,7 +87,7 @@
     "name:que_x_preferred":[
         "Tumpis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tumbes"
     ],
     "name:rus_x_preferred":[
@@ -260,7 +245,7 @@
         }
     ],
     "wof:id":890445025,
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1561777744,
     "wof:name":"Tumbes",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

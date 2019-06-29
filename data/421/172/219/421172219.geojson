@@ -14,22 +14,19 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5fb7\u85a9\u74dc\u5fb7\u7f85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Desaguadero"
     ],
     "name:eng_x_preferred":[
         "Desaguadero"
     ],
-    "name:fre_x_preferred":[
-        "Desaguadero"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Desaguadero"
     ],
     "name:hrv_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:nld_x_preferred":[
         "Desaguadero"
     ],
     "name:pol_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Desaguadero"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u85a9\u74dc\u5fb7\u7f85"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":421172219,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1561777727,
     "wof:name":"Desaguadero",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

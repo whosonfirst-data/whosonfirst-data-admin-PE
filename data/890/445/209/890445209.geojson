@@ -15,19 +15,13 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u99ac\u5716\u5361\u7d0d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matucana"
     ],
     "name:eng_x_preferred":[
         "Matucana"
     ],
-    "name:fre_x_preferred":[
-        "Matucana"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Matucana"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30c4\u30ab\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Matucana"
     ],
     "name:por_x_preferred":[
         "Matucana"
@@ -50,6 +47,9 @@
     ],
     "name:war_x_preferred":[
         "Matucana"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5716\u5361\u7d0d"
     ],
     "qs:name":"Matucana",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890445209,
-    "wof:lastmodified":1560310344,
+    "wof:lastmodified":1561777746,
     "wof:name":"Matucana",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

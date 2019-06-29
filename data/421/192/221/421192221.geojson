@@ -17,16 +17,10 @@
     "name:aym_x_preferred":[
         "Kasma"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u65af\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Casma"
-    ],
     "name:eng_x_preferred":[
         "Casma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Casma"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +28,9 @@
     ],
     "name:lit_x_preferred":[
         "Kasma"
+    ],
+    "name:nld_x_preferred":[
+        "Casma"
     ],
     "name:por_x_preferred":[
         "Casma"
@@ -193,7 +190,7 @@
         }
     ],
     "wof:id":421192221,
-    "wof:lastmodified":1527716109,
+    "wof:lastmodified":1561777718,
     "wof:name":"Casma",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

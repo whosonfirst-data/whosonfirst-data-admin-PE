@@ -67,9 +67,6 @@
     "name:fra_x_preferred":[
         "Huaraz"
     ],
-    "name:fre_x_preferred":[
-        "Huaraz"
-    ],
     "name:glg_x_preferred":[
         "Huaraz"
     ],
@@ -199,7 +196,7 @@
         }
     ],
     "wof:id":421187921,
-    "wof:lastmodified":1555047507,
+    "wof:lastmodified":1561777726,
     "wof:name":"Huaraz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

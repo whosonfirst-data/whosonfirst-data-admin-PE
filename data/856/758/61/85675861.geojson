@@ -54,17 +54,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Tacna"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u514b\u7eb3\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tacna"
     ],
     "name:dan_x_preferred":[
         "Tacna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tacna"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03ba\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tacna"
@@ -72,23 +72,14 @@
     "name:est_x_preferred":[
         "Tacna piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u06a9\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tacnan alue"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Tacna"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Tacna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d9\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tacna"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03ba\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a95\u0acd\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -126,14 +117,8 @@
     "name:lit_x_preferred":[
         "Taknos departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u043a\u043d\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u093e\u0915\u094d\u0928\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Tacna"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u043a\u043d\u0430"
@@ -147,14 +132,14 @@
     "name:nan_x_preferred":[
         "Tacna Khu"
     ],
+    "name:nld_x_preferred":[
+        "Tacna"
+    ],
     "name:nno_x_preferred":[
         "Tacna-regionen"
     ],
     "name:nob_x_preferred":[
         "Tacna"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u06a9\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u06cc\u06a9\u0646\u0627"
@@ -171,7 +156,7 @@
     "name:que_x_variant":[
         "Taqna suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tacna"
     ],
     "name:rus_x_preferred":[
@@ -338,7 +323,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560311420,
+    "wof:lastmodified":1561777513,
     "wof:name":"Tacna",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

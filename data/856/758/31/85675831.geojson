@@ -54,17 +54,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Tumbes"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u8d1d\u65af\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tumbes"
     ],
     "name:dan_x_preferred":[
         "Tumbes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tumbes"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bc\u03c0\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tumbes"
@@ -76,23 +76,14 @@
     "name:epo_x_preferred":[
         "Departemento Tumbes"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0648\u0645\u0628\u0633"
+    ],
     "name:fin_x_preferred":[
         "Tumbesin alue"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Tumbes"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Tumbes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10db\u10d1\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tumbes"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03bc\u03c0\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0aae\u0acd\u0aac\u0acd\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -130,14 +121,8 @@
     "name:lit_x_preferred":[
         "Tumbeso departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0443\u043c\u0431\u0435\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0941\u092c\u0947\u0938 \u0935\u093f\u092d\u093e\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Tumbes"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
@@ -151,14 +136,14 @@
     "name:nan_x_preferred":[
         "Tumbes Khu"
     ],
+    "name:nld_x_preferred":[
+        "Tumbes"
+    ],
     "name:nno_x_preferred":[
         "Tumbes-regionen"
     ],
     "name:nob_x_preferred":[
         "Tumbes"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0648\u0645\u0628\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u0645\u0628\u0633"
@@ -339,7 +324,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560310724,
+    "wof:lastmodified":1561777517,
     "wof:name":"Tumbes",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

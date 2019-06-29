@@ -37,16 +37,7 @@
     "name:aym_x_preferred":[
         "Maynas jisk'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Maynas probintzia"
-    ],
     "name:cat_x_preferred":[
-        "Maynas"
-    ],
-    "name:chi_x_preferred":[
-        "\u9081\u7d0d\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
         "Maynas"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +47,14 @@
         "Maynas",
         "Maynas Province"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Maynas probintzia"
+    ],
+    "name:fra_x_preferred":[
         "Maynas"
     ],
     "name:fre_x_variant":[
         "province de Maynas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d8\u10dc\u10d0\u10e1\u10d8"
     ],
     "name:ita_x_preferred":[
         "Provincia di Maynas"
@@ -71,13 +62,19 @@
     "name:jpn_x_preferred":[
         "\u30de\u30a4\u30ca\u30b9\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d8\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Maynas"
+    ],
     "name:por_x_preferred":[
         "Maynas"
     ],
     "name:que_x_preferred":[
         "Maynas pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Maynas"
     ],
     "name:rus_x_preferred":[
@@ -100,6 +97,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d8\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u7d0d\u65af\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":421182241,
-    "wof:lastmodified":1555047504,
+    "wof:lastmodified":1561777738,
     "wof:name":"Maynas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

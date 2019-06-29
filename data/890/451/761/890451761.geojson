@@ -18,16 +18,10 @@
     "name:aym_x_preferred":[
         "Tarata"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Tarata"
-    ],
     "name:eng_x_preferred":[
         "Tarata"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tarata"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +29,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30e9\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Tarata"
     ],
     "name:pol_x_preferred":[
         "Tarata"
@@ -53,6 +50,9 @@
     ],
     "name:war_x_preferred":[
         "Tarata"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u5854"
     ],
     "qs:name":"Tarata",
     "qs:photos_9r":0,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890451761,
-    "wof:lastmodified":1527792939,
+    "wof:lastmodified":1561777746,
     "wof:name":"Tarata",
     "wof:parent_id":1108694033,
     "wof:placetype":"locality",

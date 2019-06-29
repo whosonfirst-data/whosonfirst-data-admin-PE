@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Jorge Basadre"
     ],
-    "name:chi_x_preferred":[
-        "\u8c6a\u723e\u8d6b\u5df4\u85a9\u5fb7\u96f7\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Jorge Basadre"
-    ],
     "name:eng_x_preferred":[
         "Jorge Basadre"
     ],
@@ -52,14 +46,11 @@
         "Jorge Basadre",
         "Jorge Basadre Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jorge Basadre"
     ],
     "name:fre_x_variant":[
         "province de Jorge Basadre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10dd\u10e0\u10ee\u10d4-\u10d1\u10d0\u10e1\u10d0\u10d3\u10e0\u10d4"
     ],
     "name:ita_x_preferred":[
         "Provincia di Jorge Basadre"
@@ -67,8 +58,14 @@
     "name:jpn_x_preferred":[
         "\u30db\u30eb\u30d8\u30fb\u30d0\u30b5\u30c9\u30ec\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10e0\u10ee\u10d4-\u10d1\u10d0\u10e1\u10d0\u10d3\u10e0\u10d4"
+    ],
     "name:nan_x_preferred":[
         "Jorge Basadre S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Jorge Basadre"
     ],
     "name:por_x_preferred":[
         "Jorge Basadre"
@@ -76,7 +73,7 @@
     "name:que_x_preferred":[
         "Jorge Basadre pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Jorge Basadre"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10ee\u10dd\u10e0\u10ee\u10d4-\u10d1\u10d0\u10e1\u10d0\u10d3\u10e0\u10d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u723e\u8d6b\u5df4\u85a9\u5fb7\u96f7\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108694029,
-    "wof:lastmodified":1555047515,
+    "wof:lastmodified":1561777653,
     "wof:name":"Jorge Basadre",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Requena"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u514b\u7d0d\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Requena"
-    ],
     "name:eng_x_preferred":[
         "Requena"
     ],
@@ -52,20 +46,23 @@
         "Requena",
         "Requena Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Requena"
     ],
     "name:fre_x_variant":[
         "province de Requena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d4\u10d9\u10d4\u10dc\u10d0"
     ],
     "name:ita_x_preferred":[
         "Provincia di Requena"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30b1\u30fc\u30ca\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10d9\u10d4\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Requena"
     ],
     "name:por_x_preferred":[
         "Requena"
@@ -87,6 +84,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e0\u10d4\u10d9\u10d4\u10dc\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u514b\u7d0d\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108694055,
-    "wof:lastmodified":1555047517,
+    "wof:lastmodified":1561777652,
     "wof:name":"Requena",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

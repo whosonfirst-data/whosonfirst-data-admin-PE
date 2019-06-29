@@ -24,10 +24,7 @@
     "name:aym_x_preferred":[
         "Xauxa"
     ],
-    "name:chi_x_preferred":[
-        "\u8c6a\u54c8"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jauja"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,10 @@
     "name:epo_x_preferred":[
         "Jauja"
     ],
-    "name:fre_x_preferred":[
-        "Jauja"
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0626\u0648\u062d\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jauja"
     ],
     "name:heb_x_preferred":[
@@ -57,11 +54,11 @@
     "name:lit_x_preferred":[
         "Chaucha"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Jauja"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u0627\u0626\u0648\u062d\u0627"
+    "name:nob_x_preferred":[
+        "Jauja"
     ],
     "name:pol_x_preferred":[
         "Jauja"
@@ -86,6 +83,9 @@
     ],
     "name:war_x_preferred":[
         "Jauja"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u54c8"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -215,7 +215,7 @@
         }
     ],
     "wof:id":890442205,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777743,
     "wof:name":"Jauja",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

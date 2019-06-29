@@ -52,9 +52,6 @@
     "name:fra_x_preferred":[
         "Sechura"
     ],
-    "name:fre_x_preferred":[
-        "Sechura"
-    ],
     "name:ita_x_preferred":[
         "Sechura"
     ],
@@ -133,7 +130,7 @@
         }
     ],
     "wof:id":421170341,
-    "wof:lastmodified":1555047499,
+    "wof:lastmodified":1561777736,
     "wof:name":"Sechura",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

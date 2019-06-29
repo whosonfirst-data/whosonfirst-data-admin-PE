@@ -16,14 +16,8 @@
     "name:afr_x_preferred":[
         "Machu Picchu"
     ],
-    "name:alb_x_preferred":[
-        "Ma\u00e7u Pi\u00e7u"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0634\u0648 \u0628\u064a\u062a\u0634\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0579\u0578\u0582 \u054a\u056b\u056f\u0579\u0578\u0582"
     ],
     "name:ast_x_preferred":[
         "Machu Picchu"
@@ -34,9 +28,6 @@
     "name:aze_x_preferred":[
         "Ma\u00e7u-Pik\u00e7u"
     ],
-    "name:baq_x_preferred":[
-        "Machu Picchu"
-    ],
     "name:bcl_x_preferred":[
         "Machu Picchu"
     ],
@@ -45,6 +36,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099a\u09c1 \u09aa\u09bf\u099a\u09c1"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f0b\u0f46\u0f7c\u0f0b\u0f54\u0f7a\u0f0b\u0f46\u0f7c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Machu Picchu"
@@ -55,19 +49,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0447\u0443 \u041f\u0438\u043a\u0447\u0443"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u102c\u1001\u103b\u1030\u1038\u1015\u102e\u1001\u103b\u1030\u1038"
-    ],
     "name:cat_x_preferred":[
         "Machu Picchu"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u4e18\u6bd4\u4e18"
+    "name:ces_x_preferred":[
+        "Machu Picchu"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Machu Picchu"
     ],
     "name:dan_x_preferred":[
+        "Machu Picchu"
+    ],
+    "name:deu_x_preferred":[
         "Machu Picchu"
     ],
     "name:diq_x_preferred":[
@@ -76,8 +70,8 @@
     "name:div_x_preferred":[
         "\u0789\u07a7\u0797\u07ab \u0795\u07a9\u0786\u07b0\u0797\u07ab"
     ],
-    "name:dut_x_preferred":[
-        "Machu Picchu"
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c4\u03c3\u03bf\u03c5 \u03a0\u03af\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Machu Picchu"
@@ -88,19 +82,19 @@
     "name:est_x_preferred":[
         "Machu Picchu"
     ],
+    "name:eus_x_preferred":[
+        "Machu Picchu"
+    ],
     "name:fao_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0686\u0648 \u067e\u06cc\u0686\u0648"
     ],
     "name:fin_x_preferred":[
         "Machu Picchu"
     ],
-    "name:fre_x_preferred":[
-        "Machu Picchu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e9\u10e3-\u10de\u10d8\u10e5\u10e9\u10e3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Machu Picchu"
     ],
     "name:gle_x_preferred":[
@@ -108,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "Machu Picchu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c4\u03c3\u03bf\u03c5 \u03a0\u03af\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:grn_x_preferred":[
         "Machu Picchu"
@@ -130,10 +121,13 @@
     "name:hun_x_preferred":[
         "Machu Picchu"
     ],
-    "name:ice_x_preferred":[
-        "Machu Picchu"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0579\u0578\u0582 \u054a\u056b\u056f\u0579\u0578\u0582"
     ],
     "name:ind_x_preferred":[
+        "Machu Picchu"
+    ],
+    "name:isl_x_preferred":[
         "Machu Picchu"
     ],
     "name:ita_x_preferred":[
@@ -147,6 +141,9 @@
     ],
     "name:kan_x_preferred":[
         "Machu picchu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e9\u10e3-\u10de\u10d8\u10e5\u10e9\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0447\u0443-\u041f\u0438\u043a\u0447\u0443"
@@ -172,9 +169,6 @@
     "name:ltz_x_preferred":[
         "Machu Picchu"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0447\u0443 \u041f\u0438\u043a\u0447\u0443"
-    ],
     "name:mai_x_preferred":[
         "\u092e\u093e\u091a\u0942 \u092a\u093f\u091a\u0942"
     ],
@@ -184,11 +178,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0915\u094d\u0938\u0942 \u092a\u093f\u0915\u094d\u0924\u094d\u0938\u0942"
     ],
-    "name:may_x_preferred":[
-        "Machu Picchu"
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0447\u0443 \u041f\u0438\u043a\u0447\u0443"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0447\u0443 \u041f\u0438\u043a\u0447\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Machu Picchu"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u1001\u103b\u1030\u1038\u1015\u102e\u1001\u103b\u1030\u1038"
     ],
     "name:nah_x_preferred":[
         "Machu Picchu"
@@ -198,6 +198,9 @@
     ],
     "name:nep_x_preferred":[
         "\u092e\u093e\u091a\u0942 \u092a\u093f\u091a\u0942"
+    ],
+    "name:nld_x_preferred":[
+        "Machu Picchu"
     ],
     "name:nno_x_preferred":[
         "Machu Picchu"
@@ -214,9 +217,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a1a\u0a42 \u0a2a\u0a3f\u0a15\u0a1a\u0a42"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0686\u0648 \u067e\u06cc\u0686\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0686\u0648 \u067e\u0686\u0648"
     ],
@@ -229,7 +229,7 @@
     "name:que_x_preferred":[
         "Machu Pikchu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Machu Picchu"
     ],
     "name:rus_x_preferred":[
@@ -244,7 +244,7 @@
     "name:sco_x_preferred":[
         "Macchu Piccu"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Machu Picchu"
     ],
     "name:slv_x_preferred":[
@@ -252,6 +252,9 @@
     ],
     "name:spa_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:sqi_x_preferred":[
+        "Ma\u00e7u Pi\u00e7u"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0447\u0443 \u041f\u0438\u043a\u0447\u0443"
@@ -277,9 +280,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e0a\u0e39\u0e1b\u0e34\u0e01\u0e0a\u0e39"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f46\u0f7c\u0f0b\u0f54\u0f7a\u0f0b\u0f46\u0f7c\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Machu Picchu"
     ],
@@ -295,9 +295,6 @@
     "name:war_x_preferred":[
         "Machu Picchu"
     ],
-    "name:wel_x_preferred":[
-        "Machu Picchu"
-    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e9\u10e3-\u10de\u10d8\u10e5\u10e9\u10e3"
     ],
@@ -309,6 +306,9 @@
     ],
     "name:zea_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u4e18\u6bd4\u4e18"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -354,7 +354,7 @@
         }
     ],
     "wof:id":421186835,
-    "wof:lastmodified":1514495487,
+    "wof:lastmodified":1561777729,
     "wof:name":"Machupicchu",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

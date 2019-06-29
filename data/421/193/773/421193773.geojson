@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Matucana"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5716\u5361\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Matucana"
-    ],
-    "name:dut_x_preferred":[
         "Matucana"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:fin_x_preferred":[
         "Toppakaktukset"
     ],
-    "name:fre_x_preferred":[
-        "Matucana"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Matucana"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Matucana"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5716\u5361\u7d0d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -121,7 +115,7 @@
         }
     ],
     "wof:id":421193773,
-    "wof:lastmodified":1560310178,
+    "wof:lastmodified":1561777722,
     "wof:name":"Matucana",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

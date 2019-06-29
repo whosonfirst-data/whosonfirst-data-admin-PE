@@ -15,10 +15,10 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sicaya"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sicaya"
     ],
     "name:spa_x_preferred":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890438221,
-    "wof:lastmodified":1527735420,
+    "wof:lastmodified":1561777742,
     "wof:name":"Sicaya",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

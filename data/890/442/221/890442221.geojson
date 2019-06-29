@@ -21,16 +21,13 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u064a\u0627\u0641\u064a\u0631\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u4e9e\u7dad\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "Ayaviri"
-    ],
     "name:eng_x_preferred":[
         "Ayaviri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:nld_x_preferred":[
         "Ayaviri"
     ],
     "name:pol_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:war_x_preferred":[
         "Ayaviri"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4e9e\u7dad\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -173,7 +173,7 @@
         }
     ],
     "wof:id":890442221,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1561777743,
     "wof:name":"Ayaviri",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",

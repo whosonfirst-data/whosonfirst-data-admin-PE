@@ -30,17 +30,17 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043a\u043b\u0430\u0439\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u514b\u62c9\u7ea6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chiclayo"
     ],
     "name:dan_x_preferred":[
         "Chiclayo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chiclayo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03ba\u03bb\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Chiclayo"
@@ -48,23 +48,17 @@
     "name:epo_x_preferred":[
         "Chiclayo"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u06a9\u0644\u0627\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chiclayo"
     ],
-    "name:fre_x_preferred":[
-        "Chiclayo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10d9\u10da\u10d0\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiclayo"
     ],
     "name:glg_x_preferred":[
         "Chiclayo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03ba\u03bb\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0a95\u0acd\u0ab2\u0abe\u0aaf\u0acb"
@@ -90,6 +84,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0cbf\u0c95\u0ccd\u0cb2\u0cc6\u0caf\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d9\u10da\u10d0\u10d8\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uce58\ud074\ub77c\uc694"
     ],
@@ -102,16 +99,16 @@
     "name:lit_x_preferred":[
         "\u010ciklajas"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0438\u043a\u043b\u0430\u0458\u043e"
-    ],
-    "name:mao_x_preferred":[
-        "Chiclayo"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0915\u094d\u0932\u093e\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u043a\u043b\u0430\u0458\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "Chiclayo"
+    ],
+    "name:msa_x_preferred":[
         "Chiclayo"
     ],
     "name:nah_x_preferred":[
@@ -120,11 +117,11 @@
     "name:nau_x_preferred":[
         "Chiclayo"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Chiclayo"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u06a9\u0644\u0627\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Chiclayo"
     ],
     "name:pol_x_preferred":[
         "Chiclayo"
@@ -135,7 +132,7 @@
     "name:que_x_preferred":[
         "Chiklayu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chiclayo"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:war_x_preferred":[
         "Chiclayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u514b\u62c9\u7ea6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":421186793,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777729,
     "wof:name":"Chiclayo",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

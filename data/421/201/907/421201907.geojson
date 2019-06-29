@@ -21,26 +21,23 @@
     "name:aym_x_preferred":[
         "Wanuku"
     ],
-    "name:baq_x_preferred":[
-        "Hu\u00e1nuco"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09a8\u0999\u09cd\u0995\u09c1"
     ],
     "name:cat_x_preferred":[
         "Hu\u00e1nuco"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u52aa\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hu\u00e1nuco"
     ],
     "name:dan_x_preferred":[
         "Hu\u00e1nuco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hu\u00e1nuco"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03ac\u03bd\u03bf\u03c5\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Hu\u00e1nuco"
@@ -48,20 +45,17 @@
     "name:epo_x_preferred":[
         "\u016canuko"
     ],
+    "name:eus_x_preferred":[
+        "Hu\u00e1nuco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0627\u0646\u0648\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Hu\u00e1nuco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hu\u00e1nuco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10dc\u10e3\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Hu\u00e1nuco"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03ac\u03bd\u03bf\u03c5\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acd\u0aaf\u0ac1\u0a86\u0aa8\u0ac1\u0a95\u0acb"
@@ -84,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cc1\u0ca8\u0cbe\u0ca8\u0ccd\u0c95\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10e3\u10d9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc544\ub204\ucf54"
     ],
@@ -96,26 +93,26 @@
     "name:lit_x_preferred":[
         "Huanukas"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u0430\u043d\u0443\u043a\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0928\u0941\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0423\u0430\u043d\u0443\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Huanuco"
     ],
     "name:nah_x_preferred":[
         "Huanuco"
+    ],
+    "name:nld_x_preferred":[
+        "Hu\u00e1nuco"
     ],
     "name:nno_x_preferred":[
         "Hu\u00e1nuco"
     ],
     "name:nob_x_preferred":[
         "Huanuco"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0627\u0646\u0648\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Hu\u00e1nuco"
@@ -126,7 +123,7 @@
     "name:que_x_preferred":[
         "Wanuku"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hu\u00e1nuco"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +164,9 @@
     ],
     "name:war_x_preferred":[
         "Hu\u00e1nuco"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u52aa\u79d1"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":421201907,
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1561777733,
     "wof:name":"Hu\u00e1nuco",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

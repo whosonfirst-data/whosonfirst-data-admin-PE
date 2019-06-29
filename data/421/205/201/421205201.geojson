@@ -25,13 +25,7 @@
     "name:bar_x_preferred":[
         "Juli"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5229"
-    ],
     "name:deu_x_preferred":[
-        "Juli"
-    ],
-    "name:dut_x_preferred":[
         "Juli"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +34,14 @@
     "name:fra_x_preferred":[
         "Juli"
     ],
-    "name:fre_x_preferred":[
-        "Juli"
-    ],
     "name:ita_x_preferred":[
         "Juli"
     ],
     "name:jpn_x_preferred":[
         "\u30e6\u30fc\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Juli"
     ],
     "name:pol_x_preferred":[
         "Juli"
@@ -69,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Juli"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5229"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -121,7 +118,7 @@
         }
     ],
     "wof:id":421205201,
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1561777724,
     "wof:name":"Juli",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

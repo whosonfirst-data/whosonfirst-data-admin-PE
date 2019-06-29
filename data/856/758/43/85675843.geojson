@@ -38,9 +38,6 @@
     "name:aym_x_preferred":[
         "Kusku Jach\u2019a Suyu"
     ],
-    "name:baq_x_preferred":[
-        "Cuscoko eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u041a\u0443\u0441\u043a\u0430"
     ],
@@ -53,17 +50,17 @@
     "name:cat_x_preferred":[
         "Departament de Cusco"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u65af\u79d1\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cuzco"
     ],
     "name:dan_x_preferred":[
         "Cusco"
     ],
-    "name:dut_x_preferred":[
-        "Cuzco"
+    "name:deu_x_preferred":[
+        "Cusco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Cusco"
@@ -74,20 +71,17 @@
     "name:epo_x_preferred":[
         "Regiono Kusko"
     ],
+    "name:eus_x_preferred":[
+        "Cuscoko eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0648\u0632\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Cuscon alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion de Cuzco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e1\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Cusco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03cd\u03c3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab8\u0acd\u0a95\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -110,6 +104,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb8\u0ccd\u0c95\u0cca \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e1\u10d9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc2a4\ucf54 \uc8fc"
     ],
@@ -122,13 +119,13 @@
     "name:lit_x_preferred":[
         "Kusko departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0441\u043a\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0938\u094d\u0915\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0441\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Cusco"
     ],
     "name:nah_x_preferred":[
@@ -137,14 +134,14 @@
     "name:nan_x_preferred":[
         "Cusco Khu"
     ],
+    "name:nld_x_preferred":[
+        "Cuzco"
+    ],
     "name:nno_x_preferred":[
         "Cuzco-regionen"
     ],
     "name:nob_x_preferred":[
         "Cusco"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0648\u0632\u06a9\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0633\u06a9\u0648"
@@ -158,7 +155,7 @@
     "name:que_x_preferred":[
         "Qusqu Suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cusco"
     ],
     "name:rus_x_preferred":[
@@ -204,6 +201,9 @@
     ],
     "name:war_x_preferred":[
         "Cusco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u65af\u79d1\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PER",
@@ -327,7 +327,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560311161,
+    "wof:lastmodified":1561777516,
     "wof:name":"Cusco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

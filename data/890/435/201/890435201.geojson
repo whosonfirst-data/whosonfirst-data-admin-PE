@@ -21,10 +21,7 @@
     "name:aym_x_preferred":[
         "Qaras"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Caraz"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +30,7 @@
     "name:epo_x_preferred":[
         "Caraz"
     ],
-    "name:fre_x_preferred":[
-        "Caraz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Caraz"
     ],
     "name:hin_x_preferred":[
@@ -54,11 +45,17 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\uc988"
     ],
     "name:lit_x_preferred":[
         "Karasas"
+    ],
+    "name:nld_x_preferred":[
+        "Caraz"
     ],
     "name:por_x_preferred":[
         "Caraz"
@@ -66,7 +63,7 @@
     "name:que_x_preferred":[
         "Qaras"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Caraz"
     ],
     "name:rus_x_preferred":[
@@ -80,6 +77,9 @@
     ],
     "name:war_x_preferred":[
         "Caraz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u65af"
     ],
     "qs:name":"Car\u00e1s",
     "qs:photos_9r":0,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":890435201,
-    "wof:lastmodified":1514495101,
+    "wof:lastmodified":1561777747,
     "wof:name":"Car\u00e1s",
     "wof:parent_id":421170661,
     "wof:placetype":"locality",

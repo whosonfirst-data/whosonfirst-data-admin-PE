@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Ferre\u00f1afe"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u96f7\u5c3c\u4e9e\u8cbb\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Ferre\u00f1afe"
+    "name:deu_x_preferred":[
+        "Ferre\u00f1afe Provinz"
     ],
     "name:eng_x_preferred":[
         "Ferre\u00f1afe"
@@ -59,17 +56,11 @@
     "name:fra_x_preferred":[
         "Province de Ferre\u00f1afe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ferre\u00f1afe"
     ],
     "name:fre_x_variant":[
         "province de Ferre\u00f1afe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10e0\u10d4\u10dc\u10d8\u10d0\u10e4\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Ferre\u00f1afe Provinz"
     ],
     "name:hun_x_preferred":[
         "Ferre\u00f1afe tartom\u00e1ny"
@@ -79,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d4\u10e0\u10d4\u10dc\u10d8\u10d0\u10e4\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10e4\u10d4\u10e0\u10d4\u10dc\u10d8\u10d0\u10e4\u10d4"
     ],
     "name:nld_x_preferred":[
         "Ferre\u00f1afe"
@@ -106,6 +100,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e4\u10d4\u10e0\u10d4\u10dc\u10d8\u10d0\u10e4\u10d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u96f7\u5c3c\u4e9e\u8cbb\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -168,7 +165,7 @@
         }
     ],
     "wof:id":421188727,
-    "wof:lastmodified":1555047508,
+    "wof:lastmodified":1561777727,
     "wof:name":"Ferre\u00f1afe",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

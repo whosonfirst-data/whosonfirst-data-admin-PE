@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Sullana"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u4e9e\u7d0d\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sullana"
-    ],
     "name:eng_x_preferred":[
         "Sullana"
     ],
@@ -52,20 +46,23 @@
         "Sullana",
         "Sullana Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sullana"
     ],
     "name:fre_x_variant":[
         "province de Sullana"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10da\u10d8\u10d0\u10dc\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Sullana"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10da\u10d8\u10d0\u10dc\u10d0"
+    ],
     "name:nan_x_preferred":[
         "Sullana S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Sullana"
     ],
     "name:por_x_preferred":[
         "Sullana"
@@ -87,6 +84,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10e3\u10da\u10d8\u10d0\u10dc\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u4e9e\u7d0d\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108693969,
-    "wof:lastmodified":1555047514,
+    "wof:lastmodified":1561777648,
     "wof:name":"Sullana",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

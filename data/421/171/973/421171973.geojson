@@ -40,14 +40,8 @@
     "name:cat_x_preferred":[
         "Mariscal Luzuriaga"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u91cc\u65af\u5361\u723e\u76e7\u8607\u91cc\u52a0\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Mariscal Luzuriaga"
-    ],
-    "name:dut_x_preferred":[
-        "Mariscal Luzuriaga"
     ],
     "name:eng_x_preferred":[
         "Mariscal Luzuriaga"
@@ -59,23 +53,20 @@
     "name:fra_x_preferred":[
         "Province de Mariscal Luzuriaga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Mariscal Luzuriaga"
     ],
     "name:fre_x_variant":[
         "province de Mariscal Luzuriaga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d8\u10e1\u10d9\u10d0\u10da-\u10da\u10e3\u10e1\u10d8\u10e0\u10d8\u10d0\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Mariscal Luzuriaga"
     ],
     "name:ita_x_preferred":[
         "Provincia di Mariscal Luzuriaga"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10d8\u10e1\u10d9\u10d0\u10da-\u10da\u10e3\u10e1\u10d8\u10e0\u10d8\u10d0\u10d2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10e0\u10d8\u10e1\u10d9\u10d0\u10da-\u10da\u10e3\u10e1\u10d8\u10e0\u10d8\u10d0\u10d2\u10d0"
     ],
     "name:lit_x_preferred":[
         "Mariscal Luzuriaga provincija"
@@ -96,9 +87,6 @@
         "Pisqupanpa pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Mariscal Luzuriaga"
-    ],
-    "name:rum_x_preferred":[
         "Mariscal Luzuriaga"
     ],
     "name:rus_x_preferred":[
@@ -185,7 +173,7 @@
         }
     ],
     "wof:id":421171973,
-    "wof:lastmodified":1555047501,
+    "wof:lastmodified":1561777740,
     "wof:name":"Mariscal Luzuriaga",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

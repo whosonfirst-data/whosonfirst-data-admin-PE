@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Chosica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chosica"
     ],
     "name:por_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421186767,
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1561777729,
     "wof:name":"Chosica",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

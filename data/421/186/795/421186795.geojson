@@ -29,10 +29,7 @@
     "name:bul_x_preferred":[
         "\u0418\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ica"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +38,8 @@
     "name:deu_x_preferred":[
         "Ica"
     ],
-    "name:dut_x_preferred":[
-        "Ica"
+    "name:ell_x_preferred":[
+        "\u038a\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ica"
@@ -58,18 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Ica"
-    ],
-    "name:fre_x_preferred":[
-        "Ica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ica"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a95\u0abe"
@@ -110,17 +95,14 @@
     "name:lit_x_preferred":[
         "Ika"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u043a\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0938\u093e"
     ],
-    "name:may_x_preferred":[
-        "Ica"
-    ],
     "name:mkd_x_preferred":[
         "\u0418\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ica"
     ],
     "name:nah_x_preferred":[
         "Ica"
@@ -128,11 +110,11 @@
     "name:nau_x_preferred":[
         "Ica"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ica"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u06a9\u0627\u060c \u067e\u0631\u0648"
+    "name:nob_x_preferred":[
+        "Ica"
     ],
     "name:pol_x_preferred":[
         "Ica"
@@ -143,7 +125,7 @@
     "name:que_x_preferred":[
         "Ika"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ica"
     ],
     "name:rus_x_preferred":[
@@ -329,7 +311,7 @@
         }
     ],
     "wof:id":421186795,
-    "wof:lastmodified":1514495252,
+    "wof:lastmodified":1561777729,
     "wof:name":"Ica",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -20,22 +20,16 @@
     "name:cat_x_preferred":[
         "Chivay"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u74e6\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chivay"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chivay"
     ],
     "name:eng_x_preferred":[
         "Chivay"
     ],
-    "name:fre_x_preferred":[
-        "Chivay"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chivay"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010civajus"
+    ],
+    "name:nld_x_preferred":[
+        "Chivay"
     ],
     "name:pol_x_preferred":[
         "Chivay"
@@ -53,7 +50,7 @@
     "name:que_x_preferred":[
         "Chiway"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chivay"
     ],
     "name:rus_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:war_x_preferred":[
         "Chivay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u74e6\u4f0a"
     ],
     "qs:name":"Chivay",
     "qs:photos_9r":0,
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":890434681,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1561777746,
     "wof:name":"Chivay",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

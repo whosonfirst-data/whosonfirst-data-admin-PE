@@ -39,11 +39,8 @@
     "name:cat_x_preferred":[
         "Condorcanqui"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u591a\u723e\u574e\u57fa\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Condorcanqui"
+    "name:deu_x_preferred":[
+        "Provinz Condorcanqui"
     ],
     "name:eng_x_preferred":[
         "Condorcanqui"
@@ -52,23 +49,23 @@
         "Condorcanqui",
         "Condorcanqui Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Condorcanqui"
     ],
     "name:fre_x_variant":[
         "province de Condorcanqui"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d3\u10dd\u10e0\u10d9\u10d0\u10dc\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Condorcanqui"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Condorcanqui"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10d3\u10dd\u10e0\u10d9\u10d0\u10dc\u10d9\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Kondorkankio provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Condorcanqui"
     ],
     "name:nob_x_preferred":[
         "Condorcanqui"
@@ -79,7 +76,7 @@
     "name:que_x_preferred":[
         "Kunturkanki pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Condorcanqui"
     ],
     "name:spa_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10dc\u10d3\u10dd\u10e0\u10d9\u10d0\u10dc\u10d9\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u591a\u723e\u574e\u57fa\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108694049,
-    "wof:lastmodified":1555047516,
+    "wof:lastmodified":1561777653,
     "wof:name":"Condorcanqui",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

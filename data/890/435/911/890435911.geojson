@@ -18,19 +18,16 @@
     "name:aym_x_preferred":[
         "Makusani"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5eab\u85a9\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Macusani"
-    ],
     "name:eng_x_preferred":[
         "Macusani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Macusani"
     ],
     "name:ita_x_preferred":[
+        "Macusani"
+    ],
+    "name:nld_x_preferred":[
         "Macusani"
     ],
     "name:pol_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:war_x_preferred":[
         "Macusani"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5eab\u85a9\u5c3c"
     ],
     "qs:name":"Macusani",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890435911,
-    "wof:lastmodified":1527793053,
+    "wof:lastmodified":1561777747,
     "wof:name":"Macusani",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",
