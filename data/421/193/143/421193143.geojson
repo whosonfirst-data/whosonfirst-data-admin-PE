@@ -16,16 +16,13 @@
     "name:aym_x_preferred":[
         "Yanawanka"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u7d0d\u842c\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Yanahuanca"
-    ],
     "name:eng_x_preferred":[
         "Yanahuanca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Yanahuanca"
+    ],
+    "name:nld_x_preferred":[
         "Yanahuanca"
     ],
     "name:que_x_preferred":[
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421193143,
-    "wof:lastmodified":1527716145,
+    "wof:lastmodified":1561777721,
     "wof:name":"Yanahuanca",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

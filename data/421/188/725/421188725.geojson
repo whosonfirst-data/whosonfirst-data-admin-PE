@@ -49,7 +49,7 @@
     "name:fra_x_preferred":[
         "Province de Bol\u00edvar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Bol\u00edvar"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421188725,
-    "wof:lastmodified":1555047508,
+    "wof:lastmodified":1561777727,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

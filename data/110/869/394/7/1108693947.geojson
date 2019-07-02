@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Sucre"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u514b\u96f7\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sucre"
-    ],
     "name:eng_x_preferred":[
         "Sucre"
     ],
@@ -52,20 +46,23 @@
         "Sucre",
         "Sucre Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sucre"
     ],
     "name:fre_x_variant":[
         "province de Sucre"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d9\u10e0\u10d4"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Sucre"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d9\u10e0\u10d4"
+    ],
     "name:lit_x_preferred":[
         "Sukr\u0117s provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Sucre"
     ],
     "name:nob_x_preferred":[
         "Sucre"
@@ -76,7 +73,7 @@
     "name:que_x_preferred":[
         "Qirupampa pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sucre"
     ],
     "name:spa_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10e3\u10d9\u10e0\u10d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u514b\u96f7\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108693947,
-    "wof:lastmodified":1555047514,
+    "wof:lastmodified":1561777651,
     "wof:name":"Sucre",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

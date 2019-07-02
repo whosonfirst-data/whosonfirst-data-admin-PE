@@ -19,19 +19,16 @@
     "name:aym_x_preferred":[
         "Utusku jisk'a t'aqa suyu"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5716\u65af\u79d1"
-    ],
-    "name:dut_x_preferred":[
-        "Otuzco"
-    ],
     "name:eng_x_preferred":[
         "Otuzco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Otuzco"
     ],
     "name:ita_x_preferred":[
+        "Otuzco"
+    ],
+    "name:nld_x_preferred":[
         "Otuzco"
     ],
     "name:por_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:war_x_preferred":[
         "Otuzco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5716\u65af\u79d1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":890440183,
-    "wof:lastmodified":1527727110,
+    "wof:lastmodified":1561777741,
     "wof:name":"Otuzco",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

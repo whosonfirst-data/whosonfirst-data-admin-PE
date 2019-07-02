@@ -29,9 +29,6 @@
     "name:aka_x_preferred":[
         "Lima"
     ],
-    "name:alb_x_preferred":[
-        "Lima"
-    ],
     "name:amh_x_preferred":[
         "\u120a\u121b"
     ],
@@ -40,9 +37,6 @@
     ],
     "name:arg_x_preferred":[
         "Lima"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0644\u064a\u0645\u0627"
@@ -54,9 +48,6 @@
         "Lima"
     ],
     "name:aze_x_preferred":[
-        "Lima"
-    ],
-    "name:baq_x_preferred":[
         "Lima"
     ],
     "name:bar_x_preferred":[
@@ -98,13 +89,10 @@
     "name:che_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u99ac"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lima"
     ],
     "name:dan_x_preferred":[
@@ -118,9 +106,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0932\u093f\u092e\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Lima"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bc\u03b1"
@@ -155,9 +140,6 @@
     "name:fra_x_preferred":[
         "Lima"
     ],
-    "name:fre_x_preferred":[
-        "Lima"
-    ],
     "name:frp_x_preferred":[
         "Lima"
     ],
@@ -165,12 +147,6 @@
         "Lima"
     ],
     "name:gag_x_preferred":[
-        "Lima"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Lima"
     ],
     "name:gla_x_preferred":[
@@ -181,9 +157,6 @@
     ],
     "name:glg_x_preferred":[
         "Lima"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03b1"
     ],
     "name:grn_x_preferred":[
         "Lima"
@@ -223,9 +196,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "L\u00edma"
     ],
     "name:ido_x_preferred":[
         "Lima"
@@ -308,20 +278,11 @@
     "name:ltz_x_preferred":[
         "Lima"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d2e"
     ],
-    "name:mao_x_preferred":[
-        "Lima"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Lima"
     ],
     "name:mhr_x_preferred":[
         "\u041b\u0438\u043c\u0435"
@@ -334,6 +295,12 @@
     ],
     "name:mon_x_preferred":[
         "\u041b\u0438\u043c\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Lima"
+    ],
+    "name:msa_x_preferred":[
+        "Lima"
     ],
     "name:mwl_x_preferred":[
         "Lima"
@@ -380,9 +347,6 @@
     "name:pap_x_preferred":[
         "Lima"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0645\u0627"
-    ],
     "name:pms_x_preferred":[
         "Lima"
     ],
@@ -407,9 +371,6 @@
     "name:ron_x_preferred":[
         "Lima"
     ],
-    "name:rum_x_preferred":[
-        "Lima"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
@@ -428,9 +389,6 @@
     "name:slk_x_preferred":[
         "Lima"
     ],
-    "name:slo_x_preferred":[
-        "Lima"
-    ],
     "name:slv_x_preferred":[
         "Lima"
     ],
@@ -441,6 +399,9 @@
         "Lima"
     ],
     "name:spa_x_preferred":[
+        "Lima"
+    ],
+    "name:sqi_x_preferred":[
         "Lima"
     ],
     "name:srd_x_preferred":[
@@ -482,9 +443,6 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e21\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f72\u0f0b\u0f58\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Lima"
     ],
@@ -519,9 +477,6 @@
         "Lima"
     ],
     "name:war_x_preferred":[
-        "Lima"
-    ],
-    "name:wel_x_preferred":[
         "Lima"
     ],
     "name:xmf_x_preferred":[
@@ -664,7 +619,7 @@
         }
     ],
     "wof:id":890442199,
-    "wof:lastmodified":1537229405,
+    "wof:lastmodified":1561777744,
     "wof:name":"Lima",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

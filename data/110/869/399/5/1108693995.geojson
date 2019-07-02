@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Huallaga"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u4e9e\u52a0\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Huallaga"
-    ],
     "name:eng_x_preferred":[
         "Huallaga"
     ],
@@ -52,14 +46,11 @@
         "Huallaga",
         "Huallaga Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huallaga"
     ],
     "name:fre_x_variant":[
         "province de Huallaga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10da\u10d8\u10d0\u10d2\u10d0"
     ],
     "name:ita_x_preferred":[
         "Provincia di Huallaga"
@@ -67,8 +58,14 @@
     "name:jpn_x_preferred":[
         "\u30ef\u30b8\u30e3\u30ac\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10da\u10d8\u10d0\u10d2\u10d0"
+    ],
     "name:nan_x_preferred":[
         "Huallaga S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Huallaga"
     ],
     "name:por_x_preferred":[
         "Huallaga"
@@ -90,6 +87,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e3\u10d0\u10da\u10d8\u10d0\u10d2\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4e9e\u52a0\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108693995,
-    "wof:lastmodified":1555047514,
+    "wof:lastmodified":1561777649,
     "wof:name":"Huallaga",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

@@ -40,13 +40,7 @@
     "name:cat_x_preferred":[
         "Ascope"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u79d1\u4f69\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Ascope"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Ascope"
     ],
     "name:eng_x_preferred":[
@@ -59,23 +53,26 @@
     "name:epo_x_preferred":[
         "Provinco Ascope"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ascope"
     ],
     "name:fre_x_variant":[
         "province d'Ascope"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10d9\u10dd\u10de\u10d4"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Ascope"
     ],
-    "name:mac_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10d9\u10dd\u10de\u10d4"
+    ],
+    "name:mkd_x_preferred":[
         "\u0410\u0441\u043a\u043e\u043f\u0435"
     ],
     "name:nan_x_preferred":[
         "Ascope S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Ascope"
     ],
     "name:pol_x_preferred":[
         "Prowincja Ascope"
@@ -103,6 +100,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u79d1\u4f69"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u65af\u79d1\u4f69\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":421193361,
-    "wof:lastmodified":1555047509,
+    "wof:lastmodified":1561777721,
     "wof:name":"Ascope",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

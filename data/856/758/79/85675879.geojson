@@ -57,10 +57,7 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de La Libertad"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5229\u4f2f\u5854\u5fb7\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Libertad"
     ],
     "name:dan_x_preferred":[
@@ -69,8 +66,8 @@
     "name:deu_x_preferred":[
         "La Libertad"
     ],
-    "name:dut_x_preferred":[
-        "La Libertad"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "La Libertad"
@@ -86,18 +83,6 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de La Libertad"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de La Libertad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "La Libertad"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -123,6 +108,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10da\u10d0-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc \uc8fc"
     ],
@@ -135,14 +123,8 @@
     "name:lit_x_preferred":[
         "La Libertado departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430 \u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e \u0932\u093f\u092c\u0930\u094d\u091f\u0926 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah La Libertad"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430 \u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
@@ -167,9 +149,6 @@
     ],
     "name:nor_x_preferred":[
         "La Libertad"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0627 \u0644\u06cc\u0628\u0631\u062a\u0627\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0627 \u0644\u0628\u0631\u0679\u0688"
@@ -361,7 +340,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560311817,
+    "wof:lastmodified":1561777522,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

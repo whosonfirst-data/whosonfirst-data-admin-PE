@@ -43,12 +43,6 @@
     "name:cat_x_preferred":[
         "S\u00e1nchez Carri\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u5207\u65af\u5361\u91cc\u7fc1\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e1nchez Carri\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1nchez Carri\u00f3n"
     ],
@@ -62,20 +56,20 @@
     "name:fra_x_preferred":[
         "Province de S\u00e1nchez Carri\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "S\u00e1nchez Carri\u00f3n"
     ],
     "name:fre_x_variant":[
         "province de S\u00e1nchez Carri\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e9\u10d4\u10e1-\u10d9\u10d0\u10e0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Provincia di S\u00e1nchez Carri\u00f3n"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e9\u10d4\u10e1-\u10d9\u10d0\u10e0\u10d8\u10dd\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10dc\u10e9\u10d4\u10e1-\u10d9\u10d0\u10e0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:nld_x_preferred":[
         "S\u00e1nchez Carri\u00f3n"
@@ -103,6 +97,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e9\u10d4\u10e1-\u10d9\u10d0\u10e0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5207\u65af\u5361\u91cc\u7fc1\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -164,7 +161,7 @@
         }
     ],
     "wof:id":421177079,
-    "wof:lastmodified":1555047503,
+    "wof:lastmodified":1561777737,
     "wof:name":"S\u00e1nchez Carri\u00f3n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

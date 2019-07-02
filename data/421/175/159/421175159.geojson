@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "Caman\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Caman\u00e1"
-    ],
     "name:ita_x_preferred":[
         "Caman\u00e1"
     ],
@@ -135,7 +132,7 @@
         }
     ],
     "wof:id":421175159,
-    "wof:lastmodified":1555047501,
+    "wof:lastmodified":1561777730,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

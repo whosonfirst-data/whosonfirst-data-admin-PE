@@ -16,19 +16,13 @@
     "name:aym_x_preferred":[
         "Qarwas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u74e6\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Carhuaz"
     ],
     "name:eng_x_preferred":[
         "Carhuas"
     ],
-    "name:fre_x_preferred":[
-        "Carhuaz"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Carhuaz"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:lit_x_preferred":[
         "Karuasas"
+    ],
+    "name:nld_x_preferred":[
+        "Carhuaz"
     ],
     "name:por_x_preferred":[
         "Carhuaz"
@@ -48,6 +45,9 @@
     ],
     "name:war_x_preferred":[
         "Carhuaz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u74e6\u65af"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421192225,
-    "wof:lastmodified":1514495100,
+    "wof:lastmodified":1561777719,
     "wof:name":"Carhu\u00e1s",
     "wof:parent_id":421187867,
     "wof:placetype":"locality",

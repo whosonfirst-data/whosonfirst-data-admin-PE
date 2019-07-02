@@ -15,16 +15,13 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e18\u5e15\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Chupaca"
-    ],
     "name:eng_x_preferred":[
         "Chupaca"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u067e\u0627\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Chupaca"
     ],
     "name:ita_x_preferred":[
@@ -33,8 +30,8 @@
     "name:lit_x_preferred":[
         "\u010ciupaka"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u067e\u0627\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Chupaca"
     ],
     "name:pol_x_preferred":[
         "Chupaca"
@@ -47,6 +44,9 @@
     ],
     "name:war_x_preferred":[
         "Chupaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u5e15\u5361"
     ],
     "qs:name":"Chupaca",
     "qs:photos_9r":0,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890435269,
-    "wof:lastmodified":1527793047,
+    "wof:lastmodified":1561777746,
     "wof:name":"Chupaca",
     "wof:parent_id":421188283,
     "wof:placetype":"locality",

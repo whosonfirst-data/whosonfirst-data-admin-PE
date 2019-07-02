@@ -43,9 +43,6 @@
     "name:fra_x_preferred":[
         "Zarumilla"
     ],
-    "name:fre_x_preferred":[
-        "Zarumilla"
-    ],
     "name:ita_x_preferred":[
         "Zarumilla"
     ],
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":421199871,
-    "wof:lastmodified":1555047510,
+    "wof:lastmodified":1561777733,
     "wof:name":"Zarumilla",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

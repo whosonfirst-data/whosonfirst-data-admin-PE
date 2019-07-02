@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4e9e\u5854"
-    ],
     "name:eng_x_preferred":[
         "Llata"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:war_x_preferred":[
         "Llata"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5854"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":421177897,
-    "wof:lastmodified":1514495383,
+    "wof:lastmodified":1561777737,
     "wof:name":"Llata",
     "wof:parent_id":1108693923,
     "wof:placetype":"locality",

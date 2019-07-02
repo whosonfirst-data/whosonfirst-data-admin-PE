@@ -54,17 +54,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de lAmazones"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u9a6c\u5b59\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Amazonas"
     ],
     "name:dan_x_preferred":[
         "Amazonas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Amazonas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03b1\u03b6\u03cc\u03bd\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Amazonas"
@@ -81,23 +81,17 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0622\u0645\u0627\u0632\u0648\u0646\u0627\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0645\u0627\u0632\u0648\u0646\u0627\u0633"
+    ],
     "name:fin_x_preferred":[
         "Amazonasin alue"
     ],
-    "name:fre_x_preferred":[
-        "Amazonas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d0\u10e1\u10dd\u10dc\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Amazonas"
     ],
     "name:glg_x_preferred":[
         "Amazonas"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03b1\u03b6\u03cc\u03bd\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0ac7\u0a9d\u0acb\u0aa8\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -123,6 +117,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10db\u10d0\u10e1\u10dd\u10dc\u10d0\u10e1\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10db\u10d0\u10e1\u10dd\u10dc\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub9c8\uc18c\ub098\uc2a4 \uc8fc"
     ],
@@ -135,14 +132,8 @@
     "name:lit_x_preferred":[
         "Amazon\u0117s departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043c\u0430\u0437\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u092e\u0945\u091d\u0949\u0928\u0938 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Amazonas"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d"
@@ -156,14 +147,14 @@
     "name:nan_x_preferred":[
         "Amazonas Khu"
     ],
+    "name:nld_x_preferred":[
+        "Amazonas"
+    ],
     "name:nno_x_preferred":[
         "Amazonas i Peru"
     ],
     "name:nob_x_preferred":[
         "Amazonas"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0645\u0627\u0632\u0648\u0646\u0627\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0645\u06cc\u0632\u0648\u0646\u0627\u0633"
@@ -180,7 +171,7 @@
     "name:que_x_variant":[
         "Amarumayu suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Amazonas"
     ],
     "name:rus_x_preferred":[
@@ -353,7 +344,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560312406,
+    "wof:lastmodified":1561777513,
     "wof:name":"Amazonas",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

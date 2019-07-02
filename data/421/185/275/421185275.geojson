@@ -49,7 +49,7 @@
     "name:fra_x_preferred":[
         "Province de Ja\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ja\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421185275,
-    "wof:lastmodified":1555047505,
+    "wof:lastmodified":1561777740,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

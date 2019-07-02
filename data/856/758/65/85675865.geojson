@@ -35,9 +35,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0623\u0646\u0643\u0627\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u056f\u0561\u0577"
-    ],
     "name:aym_x_preferred":[
         "Ankashu Jach\u2019a Suyu"
     ],
@@ -59,17 +56,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Ancash"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5361\u4ec0\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ancash"
     ],
     "name:dan_x_preferred":[
         "Ancash"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ancash"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ba\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ancash"
@@ -77,26 +74,17 @@
     "name:epo_x_preferred":[
         "Departemento Anka\u015do"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0646\u06a9\u0627\u0634"
+    ],
     "name:fin_x_preferred":[
         "Ancash"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion d'Ancash"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion d'Ancash"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d9\u10d0\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ancash"
-    ],
     "name:glg_x_preferred":[
         "Ancash"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ba\u03ac\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a95\u0ac7\u0ab6 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -109,6 +97,9 @@
     ],
     "name:hun_x_preferred":[
         "Ancash megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u056f\u0561\u0577"
     ],
     "name:ind_x_preferred":[
         "Region Ancash"
@@ -137,14 +128,8 @@
     "name:lit_x_preferred":[
         "Anka\u0161o departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u043a\u0430\u0448"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u0915\u0945\u0936 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Ancash"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043d\u043a\u0430\u0448"
@@ -158,14 +143,14 @@
     "name:nan_x_preferred":[
         "Ancash Khu"
     ],
+    "name:nld_x_preferred":[
+        "Ancash"
+    ],
     "name:nno_x_preferred":[
         "Ancash-regionen"
     ],
     "name:nob_x_preferred":[
         "Ancash"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0646\u06a9\u0627\u0634"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0646\u06a9\u0627\u0634"
@@ -182,7 +167,7 @@
     "name:que_x_variant":[
         "Anqash suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ancash"
     ],
     "name:rus_x_preferred":[
@@ -353,7 +338,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560311499,
+    "wof:lastmodified":1561777518,
     "wof:name":"Ancash",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

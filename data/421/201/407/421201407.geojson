@@ -20,7 +20,7 @@
     "name:eng_x_preferred":[
         "Huaura"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huaura"
     ],
     "name:por_x_preferred":[
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421201407,
-    "wof:lastmodified":1560310356,
+    "wof:lastmodified":1561777733,
     "wof:name":"Huaura",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:aym_x_preferred":[
         "San Jusiya Sisa jisk'a t'aqa suyu"
     ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 de Sisa"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 de Sisa"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10e1\u10d8\u10e1\u10d0\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de Sisa"
     ],
     "name:por_x_preferred":[
         "San Jose de Sisa"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":421205011,
-    "wof:lastmodified":1527716220,
+    "wof:lastmodified":1561777724,
     "wof:name":"San Jos\u00e9 de Sisa",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

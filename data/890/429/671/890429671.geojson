@@ -27,14 +27,17 @@
     "name:cat_x_preferred":[
         "La Rinconada"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Rinconada"
     ],
     "name:dan_x_preferred":[
         "La Rinconada Venezolana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Rinconada"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a1\u03b9\u03bd\u03ba\u03bf\u03bd\u03ac\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Rinconada Venezolana"
@@ -42,14 +45,8 @@
     "name:fin_x_preferred":[
         "La Rinconada Venezolana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Rinconada"
-    ],
-    "name:ger_x_preferred":[
-        "La Rinconada"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a1\u03b9\u03bd\u03ba\u03bf\u03bd\u03ac\u03b4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0ab0\u0abf\u0aa8\u0acd\u0a95\u0acb\u0aa8\u0abe\u0aa1\u0abe \u0ab5\u0ac7\u0aa8\u0ac7\u0a9d\u0acb\u0ab2\u0abe\u0aa8\u0abe"
@@ -90,8 +87,11 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u0930\u093f\u0902\u0915\u093e\u0928\u094d\u0928\u093e\u0921\u093e \u0935\u094d\u0939\u0947\u0928\u0947\u091d\u0941\u0932\u093e\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "La Rinconada Venezolana"
+    ],
+    "name:nld_x_preferred":[
+        "La Rinconada"
     ],
     "name:nob_x_preferred":[
         "La Rinconada"
@@ -114,7 +114,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dcf \u0dbb\u0dd2\u0db1\u0dca\u0d9a\u0ddc\u0db1\u0da9 \u0dc0\u0dd9\u0db1\u0dda\u0dc3\u0ddc\u0dbd\u0dcf\u0db1\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "La Rinconada"
     ],
     "name:spa_x_preferred":[
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":890429671,
-    "wof:lastmodified":1527792794,
+    "wof:lastmodified":1561777743,
     "wof:name":"La Rinconada",
     "wof:parent_id":1108693921,
     "wof:placetype":"locality",

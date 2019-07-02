@@ -16,19 +16,13 @@
     "name:aym_x_preferred":[
         "Muju"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u970d"
-    ],
     "name:deu_x_preferred":[
-        "Moho"
-    ],
-    "name:dut_x_preferred":[
         "Moho"
     ],
     "name:eng_x_preferred":[
         "Moho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moho"
     ],
     "name:ind_x_preferred":[
@@ -60,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Moho"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u970d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":421166791,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1561777718,
     "wof:name":"Moho",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

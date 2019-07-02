@@ -39,11 +39,8 @@
     "name:cat_x_preferred":[
         "Huaral"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u62c9\u723e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Huaral"
+    "name:deu_x_preferred":[
+        "Provinz Huaral"
     ],
     "name:eng_x_preferred":[
         "Huaral"
@@ -52,23 +49,23 @@
         "Huaral",
         "Huaral Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huaral"
     ],
     "name:fre_x_variant":[
         "province de Huaral"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d0\u10e0\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Huaral"
     ],
     "name:ita_x_preferred":[
         "Provincia di Huaral"
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30e9\u30eb\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10e0\u10d0\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Huaral"
     ],
     "name:por_x_preferred":[
         "Huaral"
@@ -93,6 +90,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e3\u10d0\u10e0\u10d0\u10da\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u62c9\u723e\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108693963,
-    "wof:lastmodified":1560310099,
+    "wof:lastmodified":1561777648,
     "wof:name":"Huaral",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

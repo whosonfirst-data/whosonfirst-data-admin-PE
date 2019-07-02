@@ -19,13 +19,7 @@
     "name:cat_x_preferred":[
         "Andahuaylas"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u9054\u97cb\u62c9\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Andahuaylas"
-    ],
-    "name:dut_x_preferred":[
         "Andahuaylas"
     ],
     "name:eng_x_preferred":[
@@ -35,15 +29,6 @@
         "\u0627\u0646\u062f\u0627\u0647\u0648\u0627\u06cc\u0644\u0627\u0633"
     ],
     "name:fra_x_preferred":[
-        "Andahuaylas"
-    ],
-    "name:fre_x_preferred":[
-        "Andahuaylas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d3\u10d0\u10e3\u10d0\u10d8\u10da\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Andahuaylas"
     ],
     "name:glg_x_preferred":[
@@ -64,8 +49,8 @@
     "name:nah_x_preferred":[
         "Andahuaylas"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062f\u0627\u0647\u0648\u0627\u06cc\u0644\u0627\u0633"
+    "name:nld_x_preferred":[
+        "Andahuaylas"
     ],
     "name:por_x_preferred":[
         "Andahuaylas"
@@ -139,7 +124,7 @@
         }
     ],
     "wof:id":421201201,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1561777734,
     "wof:name":"Andahuaylas",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

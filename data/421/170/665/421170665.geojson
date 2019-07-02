@@ -43,7 +43,7 @@
     "name:fra_x_preferred":[
         "Province de Manu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Manu"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421170665,
-    "wof:lastmodified":1555047499,
+    "wof:lastmodified":1561777736,
     "wof:name":"Manu",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

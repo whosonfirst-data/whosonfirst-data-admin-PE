@@ -16,29 +16,26 @@
     "name:aym_x_preferred":[
         "Chiqllan"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u585e\u5b89"
+    "name:cym_x_preferred":[
+        "Chiqui\u00e1n"
     ],
     "name:deu_x_preferred":[
         "Chiquian"
     ],
-    "name:dut_x_preferred":[
-        "Chiqui\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Chiqui\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiqui\u00e1n"
-    ],
-    "name:ger_x_preferred":[
-        "Chiquian"
     ],
     "name:ita_x_preferred":[
         "Chiqui\u00e1n"
     ],
     "name:lit_x_preferred":[
         "\u010cikijanas"
+    ],
+    "name:nld_x_preferred":[
+        "Chiqui\u00e1n"
     ],
     "name:por_x_preferred":[
         "Chiqui\u00e1n"
@@ -53,9 +50,6 @@
         "Chiqui\u00f3n"
     ],
     "name:war_x_preferred":[
-        "Chiqui\u00e1n"
-    ],
-    "name:wel_x_preferred":[
         "Chiqui\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":421197827,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1561777732,
     "wof:name":"Chiqui\u00e1n",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

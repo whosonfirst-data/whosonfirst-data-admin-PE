@@ -19,16 +19,10 @@
     "name:aym_x_preferred":[
         "Satipu"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u8482\u6ce2"
-    ],
-    "name:dut_x_preferred":[
-        "Satipo"
-    ],
     "name:eng_x_preferred":[
         "Satipo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Satipo"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Satipas"
+    ],
+    "name:nld_x_preferred":[
+        "Satipo"
     ],
     "name:pol_x_preferred":[
         "Satipo"
@@ -54,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Satipo"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u8482\u6ce2"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":421170889,
-    "wof:lastmodified":1527716459,
+    "wof:lastmodified":1561777735,
     "wof:name":"Satipo",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

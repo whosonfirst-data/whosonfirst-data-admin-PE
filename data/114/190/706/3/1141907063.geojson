@@ -14,23 +14,23 @@
     "lbl:longitude":-76.402479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5b89\u591a\u963f\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Andoas"
-    ],
     "name:eng_x_preferred":[
         "Andoas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d3\u10dd\u10d0\u10e1\u10d8"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c9\u30a2\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10dd\u10d0\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Andoas"
+    ],
     "name:spa_x_preferred":[
         "Andoas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u591a\u963f\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1141907063,
-    "wof:lastmodified":1514494980,
+    "wof:lastmodified":1561777869,
     "wof:name":"Andoas",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

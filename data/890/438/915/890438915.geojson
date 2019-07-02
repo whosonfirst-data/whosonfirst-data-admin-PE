@@ -15,19 +15,16 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u574e\u9054\u62c9\u97cb"
-    ],
-    "name:dut_x_preferred":[
-        "Candarave"
-    ],
     "name:eng_x_preferred":[
         "Candarave"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Candarave"
     ],
     "name:ita_x_preferred":[
+        "Candarave"
+    ],
+    "name:nld_x_preferred":[
         "Candarave"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:war_x_preferred":[
         "Candarave"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u9054\u62c9\u97cb"
     ],
     "qs:name":"Candarave",
     "qs:photos_9r":0,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890438915,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1561777742,
     "wof:name":"Candarave",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

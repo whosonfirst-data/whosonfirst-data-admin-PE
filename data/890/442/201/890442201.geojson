@@ -24,13 +24,10 @@
     "name:aym_x_preferred":[
         "Uruya"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5967\u7f85\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "La Oroya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Oroya"
     ],
     "name:eng_x_preferred":[
@@ -39,10 +36,7 @@
     "name:epo_x_preferred":[
         "La Oroya"
     ],
-    "name:fre_x_preferred":[
-        "La Oroya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "La Oroya"
     ],
     "name:ind_x_preferred":[
@@ -56,6 +50,9 @@
     ],
     "name:lit_x_preferred":[
         "La Oroja"
+    ],
+    "name:nld_x_preferred":[
+        "La Oroya"
     ],
     "name:nob_x_preferred":[
         "La Oroya"
@@ -212,7 +209,7 @@
         }
     ],
     "wof:id":890442201,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777744,
     "wof:name":"La Oroya",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

@@ -40,14 +40,11 @@
     "name:cat_x_preferred":[
         "Chanchamayo"
     ],
-    "name:chi_x_preferred":[
-        "\u9322\u67e5\u99ac\u7d04\u7701"
-    ],
     "name:deu_x_preferred":[
         "Chanchamayo"
     ],
-    "name:dut_x_preferred":[
-        "Chanchamayo"
+    "name:deu_x_variant":[
+        "Provinz Chanchamayo"
     ],
     "name:eng_x_preferred":[
         "Chanchamayo"
@@ -56,20 +53,17 @@
         "Chanchamayo",
         "Chanchamayo Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chanchamayo"
     ],
     "name:fre_x_variant":[
         "province de Chanchamayo"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10dc\u10e9\u10d0\u10db\u10d0\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Chanchamayo"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Chanchamayo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10e9\u10d0\u10db\u10d0\u10d8\u10dd"
     ],
     "name:lit_x_preferred":[
         "\u010can\u010damajo provincija"
@@ -106,6 +100,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e9\u10d0\u10dc\u10e9\u10d0\u10db\u10d0\u10d8\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u9322\u67e5\u99ac\u7d04\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -168,7 +165,7 @@
         }
     ],
     "wof:id":421187849,
-    "wof:lastmodified":1555047506,
+    "wof:lastmodified":1561777725,
     "wof:name":"Chanchamayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

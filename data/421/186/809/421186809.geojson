@@ -19,25 +19,16 @@
     "name:cat_x_preferred":[
         "Chivay"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u74e6\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chivay"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chivay"
     ],
     "name:eng_x_preferred":[
         "Chivay"
     ],
     "name:fra_x_preferred":[
-        "Chivay"
-    ],
-    "name:fre_x_preferred":[
-        "Chivay"
-    ],
-    "name:ger_x_preferred":[
         "Chivay"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Chiway"
     ],
     "name:ron_x_preferred":[
-        "Chivay"
-    ],
-    "name:rum_x_preferred":[
         "Chivay"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
         }
     ],
     "wof:id":421186809,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1561777729,
     "wof:name":"Chivay",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

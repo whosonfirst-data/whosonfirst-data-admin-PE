@@ -46,7 +46,7 @@
     "name:fra_x_preferred":[
         "Province de Huancan\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Huancan\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1555047505,
+    "wof:lastmodified":1561777737,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -48,16 +48,13 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Puno"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u8bfa\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Puno"
     ],
     "name:dan_x_preferred":[
         "Puno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puno"
     ],
     "name:eng_x_preferred":[
@@ -66,20 +63,14 @@
     "name:epo_x_preferred":[
         "Departemento de Puno"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0648\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Punon alue"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Puno"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Puno"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Puno"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e0\u05d5"
@@ -108,12 +99,6 @@
     "name:lit_x_preferred":[
         "Puno departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u043d\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Puno"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u0443\u043d\u043e"
     ],
@@ -126,14 +111,14 @@
     "name:nan_x_preferred":[
         "Puno Khu"
     ],
+    "name:nld_x_preferred":[
+        "Puno"
+    ],
     "name:nno_x_preferred":[
         "Puno-regionen"
     ],
     "name:nob_x_preferred":[
         "Puno"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u067e\u0648\u0646\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0648\u0646\u0648"
@@ -150,7 +135,7 @@
     "name:que_x_variant":[
         "Punu suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Puno"
     ],
     "name:rus_x_preferred":[
@@ -235,7 +220,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560310092,
+    "wof:lastmodified":1561777646,
     "wof:name":"Puno",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

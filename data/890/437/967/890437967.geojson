@@ -20,9 +20,6 @@
     "name:aym_x_preferred":[
         "Anta"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5854"
-    ],
     "name:eng_x_preferred":[
         "Anta"
     ],
@@ -40,6 +37,9 @@
     ],
     "name:war_x_preferred":[
         "Anta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5854"
     ],
     "qs:name":"Anta",
     "qs:photos_9r":0,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":890437967,
-    "wof:lastmodified":1534379394,
+    "wof:lastmodified":1561777742,
     "wof:name":"Anta",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

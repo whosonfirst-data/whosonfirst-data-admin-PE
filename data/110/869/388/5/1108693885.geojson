@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Santiago de Chuco"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5730\u4e9e\u54e5\u5fb7\u4e18\u79d1\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Santiago de Chuco"
-    ],
     "name:eng_x_preferred":[
         "Santiago de Chuco"
     ],
@@ -55,17 +49,20 @@
     "name:epo_x_preferred":[
         "Provinco Santiago de Chuco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santiago de Chuco"
     ],
     "name:fre_x_variant":[
         "province de Santiago de Chuco"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4-\u10e9\u10e3\u10d9\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Santiago de Chuco"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4-\u10e9\u10e3\u10d9\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago de Chuco"
     ],
     "name:por_x_preferred":[
         "Prov\u00edncia de Santiago de Chuco"
@@ -87,6 +84,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd-\u10d3\u10d4-\u10e9\u10e3\u10d9\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5\u5fb7\u4e18\u79d1\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108693885,
-    "wof:lastmodified":1555047511,
+    "wof:lastmodified":1561777656,
     "wof:name":"Santiago De Chuco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

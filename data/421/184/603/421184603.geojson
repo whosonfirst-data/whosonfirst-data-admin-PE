@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Churcampa"
     ],
-    "name:chi_x_preferred":[
-        "\u4e18\u723e\u574e\u5e15\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Churcampa"
-    ],
     "name:eng_x_preferred":[
         "Churcampa"
     ],
@@ -53,17 +47,20 @@
         "Churcampa",
         "Churcampa Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Churcampa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10e0\u10d9\u10d0\u10db\u10de\u10d0"
     ],
     "name:ita_x_preferred":[
         "Churcampa"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10e0\u10d9\u10d0\u10db\u10de\u10d0"
+    ],
     "name:nan_x_preferred":[
         "Churcampa S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Churcampa"
     ],
     "name:por_x_preferred":[
         "Churcampa"
@@ -82,6 +79,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e9\u10e3\u10e0\u10d9\u10d0\u10db\u10de\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u723e\u574e\u5e15\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":421184603,
-    "wof:lastmodified":1555047505,
+    "wof:lastmodified":1561777734,
     "wof:name":"Churcampa",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

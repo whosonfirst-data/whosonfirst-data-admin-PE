@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u064a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5be7"
-    ],
-    "name:dut_x_preferred":[
-        "Jun\u00edn"
-    ],
     "name:eng_x_preferred":[
         "Jun\u00edn"
     ],
     "name:epo_x_preferred":[
         "Hunino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jun\u00edn"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "Chuninas"
+    ],
+    "name:nld_x_preferred":[
+        "Jun\u00edn"
     ],
     "name:por_x_preferred":[
         "Jun\u00edn"
@@ -199,7 +196,7 @@
         }
     ],
     "wof:id":421174549,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561777724,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

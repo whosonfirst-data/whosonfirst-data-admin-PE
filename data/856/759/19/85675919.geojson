@@ -57,10 +57,7 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Jun\u00edn"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5b81\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jun\u00edn"
     ],
     "name:dan_x_preferred":[
@@ -69,8 +66,8 @@
     "name:deu_x_preferred":[
         "Jun\u00edn"
     ],
-    "name:dut_x_preferred":[
-        "Jun\u00edn"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03bd\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Junin"
@@ -91,18 +88,6 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Jun\u00edn"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion de Jun\u00edn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10dc\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jun\u00edn"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03c5\u03bd\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0aa8\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -128,6 +113,9 @@
     "name:kat_x_preferred":[
         "\u10ee\u10e3\u10dc\u10d8\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10ee\u10e3\u10dc\u10d8\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud6c4\ub2cc \uc8fc"
     ],
@@ -140,14 +128,8 @@
     "name:lit_x_preferred":[
         "Chunino departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0443\u043d\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0941\u0928\u093f\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Jun\u00edn"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0443\u043d\u0438\u043d"
@@ -161,14 +143,14 @@
     "name:nan_x_preferred":[
         "Jun\u00edn Khu"
     ],
+    "name:nld_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:nno_x_preferred":[
         "Jun\u00edn-regionen"
     ],
     "name:nob_x_preferred":[
         "Jun\u00edn"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u062e\u0648\u0646\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0648\u0646\u06cc\u0646"
@@ -185,7 +167,7 @@
     "name:que_x_variant":[
         "Sunin suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jun\u00edn"
     ],
     "name:rus_x_preferred":[
@@ -358,7 +340,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560314758,
+    "wof:lastmodified":1561777526,
     "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

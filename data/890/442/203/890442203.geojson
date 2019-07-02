@@ -25,10 +25,7 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5229\u4e9e\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Juliaca"
     ],
     "name:dan_x_preferred":[
@@ -37,8 +34,8 @@
     "name:deu_x_preferred":[
         "Juliaca"
     ],
-    "name:dut_x_preferred":[
-        "Juliaca"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03bb\u03b9\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Juliaca"
@@ -54,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Juliaca"
-    ],
-    "name:fre_x_preferred":[
-        "Juliaca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10da\u10d8\u10d0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Juliaca"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03c5\u03bb\u03b9\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0ab2\u0abf\u0aaf\u0abe\u0a95\u0abe"
@@ -97,17 +82,14 @@
     "name:lit_x_preferred":[
         "Chuliaka"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0443\u043b\u0438\u0458\u0430\u043a\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0941\u0932\u093f\u0905\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Juliaca"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u0443\u043b\u0438\u0458\u0430\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Juliaca"
     ],
     "name:nah_x_preferred":[
         "Juliaca"
@@ -117,9 +99,6 @@
     ],
     "name:nob_x_preferred":[
         "Juliaca"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0648\u0644\u06cc\u0627\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Juliaca"
@@ -133,16 +112,13 @@
     "name:ron_x_preferred":[
         "Juliaca"
     ],
-    "name:rum_x_preferred":[
-        "Juliaca"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u043b\u044c\u044f\u043a\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0dd4\u0dbd\u0dd2\u0dba\u0dcf\u0d9a\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Juliaca"
     ],
     "name:spa_x_preferred":[
@@ -312,7 +288,7 @@
         }
     ],
     "wof:id":890442203,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777743,
     "wof:name":"Juliaca",
     "wof:parent_id":421167831,
     "wof:placetype":"locality",

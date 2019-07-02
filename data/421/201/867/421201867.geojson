@@ -13,10 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Paij\u00e1n"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Paij\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":421201867,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561777734,
     "wof:name":"Paij\u00e1n",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

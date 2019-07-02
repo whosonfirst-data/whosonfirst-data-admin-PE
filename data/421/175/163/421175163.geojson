@@ -40,14 +40,8 @@
     "name:cat_x_preferred":[
         "Contralmirante Villar"
     ],
-    "name:chi_x_preferred":[
-        "\u5eb7\u7279\u62c9\u723e\u7c73\u862d\u7279\u6bd4\u5229\u4e9e\u723e\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Contralmirante Villar"
-    ],
-    "name:dut_x_preferred":[
-        "Contralmirante Villar"
     ],
     "name:eng_x_preferred":[
         "Contralmirante Villar"
@@ -59,23 +53,20 @@
     "name:fra_x_preferred":[
         "Province de Contralmirante Villar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Contralmirante Villar"
     ],
     "name:fre_x_variant":[
         "province de Contralmirante Villar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10e2\u10e0\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10dc\u10e2\u10d4-\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Contralmirante Villar"
     ],
     "name:ita_x_preferred":[
         "Provincia di Contralmirante Villar"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10dc\u10e2\u10e0\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10dc\u10e2\u10d4-\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10dc\u10e2\u10e0\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10dc\u10e2\u10d4-\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10d8"
     ],
     "name:nld_x_preferred":[
         "Contralmirante Villar"
@@ -87,9 +78,6 @@
         "Contralmirante Villar pruwinsya"
     ],
     "name:ron_x_preferred":[
-        "Provincia Contralmirante Villar"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Contralmirante Villar"
     ],
     "name:spa_x_preferred":[
@@ -177,7 +165,7 @@
         }
     ],
     "wof:id":421175163,
-    "wof:lastmodified":1555047502,
+    "wof:lastmodified":1561777731,
     "wof:name":"Contralmirante Villar",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

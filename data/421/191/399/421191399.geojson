@@ -40,14 +40,8 @@
     "name:cat_x_preferred":[
         "Vir\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u9b6f\u7701"
-    ],
     "name:deu_x_preferred":[
         "Viru"
-    ],
-    "name:dut_x_preferred":[
-        "Vir\u00fa"
     ],
     "name:eng_x_preferred":[
         "Viru"
@@ -62,17 +56,20 @@
     "name:est_x_preferred":[
         "Viru"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vir\u00fa"
     ],
     "name:fre_x_variant":[
         "province de Vir\u00fa"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e0\u10e3"
-    ],
     "name:ita_x_preferred":[
         "Viru"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e0\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Vir\u00fa"
     ],
     "name:por_x_preferred":[
         "Vir\u00fa"
@@ -97,6 +94,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d5\u10d8\u10e0\u10e3"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u9b6f\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":421191399,
-    "wof:lastmodified":1555047508,
+    "wof:lastmodified":1561777732,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

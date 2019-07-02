@@ -64,9 +64,6 @@
     "name:fra_x_preferred":[
         "Pisco"
     ],
-    "name:fre_x_preferred":[
-        "Pisco"
-    ],
     "name:glg_x_preferred":[
         "Pisco"
     ],
@@ -170,7 +167,7 @@
         }
     ],
     "wof:id":421198071,
-    "wof:lastmodified":1555047510,
+    "wof:lastmodified":1561777732,
     "wof:name":"Pisco",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

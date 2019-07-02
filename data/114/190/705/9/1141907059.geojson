@@ -17,20 +17,17 @@
     "name:aym_x_preferred":[
         "Kawalluqucha"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u74e6\u7d04\u79d1\u67e5"
-    ],
-    "name:dut_x_preferred":[
-        "Caballococha"
-    ],
     "name:eng_x_preferred":[
         "Caballococha"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Caballococha"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30ea\u30e7\u30b3\u30c1\u30e3"
+    ],
+    "name:nld_x_preferred":[
+        "Caballococha"
     ],
     "name:por_x_preferred":[
         "Caballococha"
@@ -43,6 +40,9 @@
     ],
     "name:war_x_preferred":[
         "Caballococha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u74e6\u7d04\u79d1\u67e5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1141907059,
-    "wof:lastmodified":1514495054,
+    "wof:lastmodified":1561777869,
     "wof:name":"Caballococha",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

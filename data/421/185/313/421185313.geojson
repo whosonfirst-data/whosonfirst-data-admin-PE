@@ -46,7 +46,7 @@
     "name:fra_x_preferred":[
         "Province de Hu\u00e1nuco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Hu\u00e1nuco"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421185313,
-    "wof:lastmodified":1555047506,
+    "wof:lastmodified":1561777741,
     "wof:name":"Hu\u00e1nuco",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

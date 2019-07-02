@@ -39,12 +39,6 @@
     "name:cat_x_preferred":[
         "Parinacochas"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u91cc\u7d0d\u79d1\u67e5\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Parinacochas"
-    ],
     "name:eng_x_preferred":[
         "Parinacochas"
     ],
@@ -52,23 +46,26 @@
         "Parinacochas",
         "Parinacochas Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Parinacochas"
     ],
     "name:fre_x_variant":[
         "province de Parinacochas"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10d8\u10dc\u10d0\u10d9\u10dd\u10e9\u10d0\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Provincia di Parinacochas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10d8\u10dc\u10d0\u10d9\u10dd\u10e9\u10d0\u10e1\u10d8"
     ],
     "name:lit_x_preferred":[
         "Parinako\u010dios provincija"
     ],
     "name:nan_x_preferred":[
         "Parinacochas S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Parinacochas"
     ],
     "name:nob_x_preferred":[
         "Parinacochas"
@@ -79,7 +76,7 @@
     "name:que_x_preferred":[
         "Pariwanaqucha pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Parinacochas"
     ],
     "name:spa_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10e0\u10d8\u10dc\u10d0\u10d9\u10dd\u10e9\u10d0\u10e1\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u91cc\u7d0d\u79d1\u67e5\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108693937,
-    "wof:lastmodified":1555047513,
+    "wof:lastmodified":1561777651,
     "wof:name":"Parinacochas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

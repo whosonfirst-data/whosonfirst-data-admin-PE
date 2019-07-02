@@ -19,13 +19,16 @@
     "name:aym_x_preferred":[
         "Catacaos jisk'a t'aqa suyu"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Catacaos"
     ],
     "name:eng_x_preferred":[
         "Catacaos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Catacaos"
+    ],
+    "name:nld_x_preferred":[
         "Catacaos"
     ],
     "name:pol_x_preferred":[
@@ -38,9 +41,6 @@
         "Catacaos distritu"
     ],
     "name:spa_x_preferred":[
-        "Catacaos"
-    ],
-    "name:wel_x_preferred":[
         "Catacaos"
     ],
     "qs:gn_country":null,
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421176745,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1561777739,
     "wof:name":"Catacaos",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

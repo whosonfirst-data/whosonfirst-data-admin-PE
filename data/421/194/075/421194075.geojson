@@ -46,7 +46,7 @@
     "name:fra_x_preferred":[
         "Province de Caravel\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Caravel\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421194075,
-    "wof:lastmodified":1555047509,
+    "wof:lastmodified":1561777720,
     "wof:name":"Caravel\u00ed",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

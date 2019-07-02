@@ -27,10 +27,7 @@
     "name:cat_x_preferred":[
         "Chachapoyas"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u67e5\u6ce2\u4e9a\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chachapoyas"
     ],
     "name:dan_x_preferred":[
@@ -39,11 +36,14 @@
     "name:deu_x_preferred":[
         "Chachapoyas"
     ],
-    "name:dut_x_preferred":[
-        "Chachapoyas"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c4\u03c3\u03b1\u03c0\u03cc\u03b3\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Chachapoyas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0686\u0627\u067e\u0648\u06cc\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Chachapoyas"
@@ -51,20 +51,8 @@
     "name:fra_x_preferred":[
         "Chachapoyas"
     ],
-    "name:fre_x_preferred":[
-        "Chachapoyas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10e9\u10d0\u10de\u10dd\u10d8\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chachapoyas"
-    ],
     "name:glg_x_preferred":[
         "Chachapoyas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03c4\u03c3\u03b1\u03c0\u03cc\u03b3\u03b9\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a9a\u0abe\u0aaa\u0acb\u0aaf\u0abe\u0ab8"
@@ -84,6 +72,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0cbe\u0c9a\u0caa\u0ccb\u0caf\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e9\u10d0\u10de\u10dd\u10d8\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc28\ucc28\ud3ec\uc57c\uc2a4"
     ],
@@ -99,7 +90,7 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u091a\u093e\u092a\u094b\u092f\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chachapoyas"
     ],
     "name:nah_x_preferred":[
@@ -111,9 +102,6 @@
     "name:nob_x_preferred":[
         "Chachapoyas"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0686\u0627\u067e\u0648\u06cc\u0627\u0633"
-    ],
     "name:pol_x_preferred":[
         "Chachapoyas"
     ],
@@ -123,7 +111,7 @@
     "name:que_x_preferred":[
         "Chachapuyas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chachapoyas"
     ],
     "name:rus_x_preferred":[
@@ -167,6 +155,9 @@
     ],
     "name:war_x_preferred":[
         "Chachapoyas"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u67e5\u6ce2\u4e9a\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -213,7 +204,7 @@
         }
     ],
     "wof:id":421169581,
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1561777722,
     "wof:name":"Chachapoyas",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

@@ -22,17 +22,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b8\u0995\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u65af\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Pisco"
     ],
     "name:deu_x_preferred":[
         "Pisco"
     ],
-    "name:dut_x_preferred":[
-        "Pisco"
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03c3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Pisco"
@@ -42,18 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Pisco"
-    ],
-    "name:fre_x_preferred":[
-        "Pisco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e1\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Pisco"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03af\u03c3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0ab8\u0acd\u0a95\u0acb"
@@ -88,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u092a\u093f\u0938\u094d\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pisco"
     ],
     "name:nah_x_preferred":[
@@ -112,7 +97,7 @@
     "name:que_x_preferred":[
         "Pisqu llaqta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pisco"
     ],
     "name:rus_x_preferred":[
@@ -204,7 +189,7 @@
         }
     ],
     "wof:id":421201909,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1561777733,
     "wof:name":"Pisco",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

@@ -18,7 +18,7 @@
     "name:cat_x_preferred":[
         "Paracas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paracas"
     ],
     "name:eng_x_preferred":[
@@ -27,16 +27,16 @@
     "name:epo_x_preferred":[
         "Paracas"
     ],
-    "name:fre_x_preferred":[
-        "Paracas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Paracas"
     ],
     "name:hrv_x_preferred":[
         "Paracas"
     ],
     "name:ita_x_preferred":[
+        "Paracas"
+    ],
+    "name:nld_x_preferred":[
         "Paracas"
     ],
     "name:pol_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":890433359,
-    "wof:lastmodified":1527792954,
+    "wof:lastmodified":1561777746,
     "wof:name":"Paracas",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

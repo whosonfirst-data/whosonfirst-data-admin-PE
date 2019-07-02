@@ -46,7 +46,7 @@
     "name:fra_x_preferred":[
         "Province General S\u00e1nchez Cerro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "General S\u00e1nchez Cerro"
     ],
     "name:ita_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421171959,
-    "wof:lastmodified":1555047500,
+    "wof:lastmodified":1561777740,
     "wof:name":"Gral. S\u00e1nchez Cerro",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

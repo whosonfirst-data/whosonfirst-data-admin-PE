@@ -40,12 +40,6 @@
     "name:cat_x_preferred":[
         "Coronel Portillo"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u8482\u7565\u4e0a\u6821\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Coronel Portillo"
-    ],
     "name:eng_x_preferred":[
         "Coronel Portillo"
     ],
@@ -56,20 +50,20 @@
     "name:fra_x_preferred":[
         "Province de Coronel Portillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Coronel Portillo"
     ],
     "name:fre_x_variant":[
         "province de Coronel Portillo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10dd\u10dc\u10d4\u10da-\u10de\u10dd\u10e0\u10e2\u10d8\u10da\u10d8\u10dd"
     ],
     "name:ita_x_preferred":[
         "Provincia di Coronel Portillo"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e0\u10dd\u10dc\u10d4\u10da-\u10de\u10dd\u10e0\u10e2\u10d8\u10da\u10d8\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10e0\u10dd\u10dc\u10d4\u10da-\u10de\u10dd\u10e0\u10e2\u10d8\u10da\u10d8\u10dd"
     ],
     "name:nan_x_preferred":[
         "Coronel Portillo S\u00e9ng"
@@ -174,7 +168,7 @@
         }
     ],
     "wof:id":421171957,
-    "wof:lastmodified":1555047500,
+    "wof:lastmodified":1561777739,
     "wof:name":"Coronel Portillo",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

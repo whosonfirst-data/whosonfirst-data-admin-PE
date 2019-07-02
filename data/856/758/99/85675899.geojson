@@ -42,9 +42,6 @@
         "Luritu jacha suyu",
         "Luritu jach'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Loreto departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u041b\u0430\u0440\u044d\u0442\u0430"
     ],
@@ -60,17 +57,17 @@
     "name:cat_x_preferred":[
         "Departament de Loreto"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u96f7\u6258\u5927\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Loreto"
     ],
     "name:dan_x_preferred":[
         "Loreto"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Loreto"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c1\u03ad\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Loreto"
@@ -84,23 +81,17 @@
     "name:eus_x_preferred":[
         "Loreto departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0631\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Loreton alue"
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Loreto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "r\u00e9gion de Loreto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e0\u10d4\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Loreto"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c1\u03ad\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab0\u0ac7\u0a9f\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -138,14 +129,8 @@
     "name:lit_x_preferred":[
         "Loreto departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u043e\u0440\u0435\u0442\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u094b\u0930\u0947\u0930\u0947 \u092a\u094d\u0930\u0926\u0947\u0936"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Loreto"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0440\u0435\u0442\u043e"
@@ -159,14 +144,14 @@
     "name:nan_x_preferred":[
         "Loreto Khu"
     ],
+    "name:nld_x_preferred":[
+        "Loreto"
+    ],
     "name:nno_x_preferred":[
         "Loreto-regionen"
     ],
     "name:nob_x_preferred":[
         "Loreto"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0644\u0648\u0631\u062a\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0648\u0631\u06cc\u0679\u0648"
@@ -183,7 +168,7 @@
     "name:que_x_variant":[
         "Luritu suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Loreto"
     ],
     "name:rus_x_preferred":[
@@ -353,7 +338,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1560314369,
+    "wof:lastmodified":1561777520,
     "wof:name":"Loreto",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

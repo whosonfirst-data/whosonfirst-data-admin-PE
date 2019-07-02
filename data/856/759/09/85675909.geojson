@@ -40,10 +40,7 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Lima"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u99ac\u5927\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lima"
     ],
     "name:dan_x_preferred":[
@@ -52,8 +49,11 @@
     "name:deu_x_preferred":[
         "Provinz Lima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Lima"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lima Province"
@@ -66,26 +66,20 @@
     "name:epo_x_preferred":[
         "Lima Regiono"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0644\u06cc\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Liman metropolialue"
     ],
     "name:fra_x_preferred":[
         "Province de Lima"
     ],
-    "name:fre_x_preferred":[
-        "Lima"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Lima"
     ],
     "name:glg_x_preferred":[
         "Provincia de Lima"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -125,13 +119,13 @@
     "name:lit_x_preferred":[
         "Limos provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Lima"
     ],
     "name:nah_x_preferred":[
@@ -148,9 +142,6 @@
     ],
     "name:nob_x_preferred":[
         "Lima"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0644\u06cc\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Lima"
@@ -214,7 +205,8 @@
         "\u5229\u99ac\u7701"
     ],
     "name:zho_x_variant":[
-        "\u5229\u739b\u5927\u90fd\u4f1a\u533a"
+        "\u5229\u739b\u5927\u90fd\u4f1a\u533a",
+        "\u5229\u99ac\u5927\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PER",
@@ -339,7 +331,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1536616675,
+    "wof:lastmodified":1561777526,
     "wof:name":"Lima",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
