@@ -44,7 +44,6 @@
         "Chupaca"
     ],
     "name:eng_x_variant":[
-        "Chupaca",
         "Chupaca Region"
     ],
     "name:fra_x_preferred":[
@@ -62,17 +61,29 @@
     "name:lit_x_preferred":[
         "\u010cupaka"
     ],
+    "name:lit_x_variant":[
+        "\u010ciupakos provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Chupaca S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Chupaca"
     ],
     "name:pol_x_preferred":[
         "Chupaca"
     ],
+    "name:pol_x_variant":[
+        "Prowincja Chupaca"
+    ],
     "name:por_x_preferred":[
         "Chupaca"
     ],
     "name:que_x_preferred":[
         "Chupaka"
+    ],
+    "name:que_x_variant":[
+        "Chupaka pruwinsya"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043f\u0430\u043a\u0430"
@@ -158,7 +169,7 @@
         }
     ],
     "wof:id":421188283,
-    "wof:lastmodified":1561777727,
+    "wof:lastmodified":1563315277,
     "wof:name":"Chupaca",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

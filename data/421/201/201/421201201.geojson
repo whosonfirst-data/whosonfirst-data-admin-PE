@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Andahuaylas"
     ],
+    "name:ceb_x_preferred":[
+        "Andahuaylas"
+    ],
     "name:deu_x_preferred":[
         "Andahuaylas"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:lit_x_preferred":[
         "Andahuailasas"
+    ],
+    "name:lit_x_variant":[
+        "Andavajlasas"
     ],
     "name:nah_x_preferred":[
         "Andahuaylas"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421201201,
-    "wof:lastmodified":1561777734,
+    "wof:lastmodified":1563315345,
     "wof:name":"Andahuaylas",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

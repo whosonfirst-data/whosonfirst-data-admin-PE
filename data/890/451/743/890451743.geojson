@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0634\u0648\u0631\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Sechura"
+    ],
     "name:ces_x_preferred":[
         "Sechura"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890451743,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315462,
     "wof:name":"Sechura",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

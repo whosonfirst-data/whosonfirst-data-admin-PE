@@ -16,13 +16,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0646\u0643\u0627\u0641\u0644\u064a\u0643\u0627"
+    ],
     "name:aym_x_preferred":[
         "Wankawillka"
+    ],
+    "name:aym_x_variant":[
+        "Wankawelika"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0443\u0430\u043d\u043a\u0430\u0432\u0435\u043b\u0456\u043a\u0430"
     ],
     "name:cat_x_preferred":[
+        "Huancavelica"
+    ],
+    "name:ceb_x_preferred":[
         "Huancavelica"
     ],
     "name:ces_x_preferred":[
@@ -93,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Huancavelica"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e34\u0e01\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0430\u043d\u043a\u0430\u0432\u0435\u043b\u0456\u043a\u0430"
@@ -237,7 +249,7 @@
         }
     ],
     "wof:id":890445215,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1563315453,
     "wof:name":"Huancavelica",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Desaguadero"
+    ],
     "name:deu_x_preferred":[
         "Desaguadero"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421172219,
-    "wof:lastmodified":1561777727,
+    "wof:lastmodified":1563315281,
     "wof:name":"Desaguadero",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

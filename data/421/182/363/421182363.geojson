@@ -31,14 +31,56 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u064a\u0643\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Ica"
+    ],
+    "name:ces_x_preferred":[
+        "Ica"
+    ],
     "name:eng_x_preferred":[
         "Ica"
     ],
     "name:eng_x_variant":[
+        "Ica Province"
+    ],
+    "name:fra_x_preferred":[
         "Ica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ab\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d9\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Ikos provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Ica S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Ica"
+    ],
+    "name:por_x_preferred":[
+        "Ica"
+    ],
+    "name:que_x_preferred":[
+        "Ika pruwinsya"
     ],
     "name:unk_x_variant":[
         "Provincia de Ica"
+    ],
+    "name:war_x_preferred":[
+        "Ica"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10d9\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5361\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +143,7 @@
         }
     ],
     "wof:id":421182363,
-    "wof:lastmodified":1553717386,
+    "wof:lastmodified":1563315372,
     "wof:name":"Ica",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

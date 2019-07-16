@@ -16,6 +16,9 @@
     "name:aym_x_preferred":[
         "Qarwas"
     ],
+    "name:ceb_x_preferred":[
+        "Carhuaz"
+    ],
     "name:deu_x_preferred":[
         "Carhuaz"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421192225,
-    "wof:lastmodified":1561777719,
+    "wof:lastmodified":1563315208,
     "wof:name":"Carhu\u00e1s",
     "wof:parent_id":421187867,
     "wof:placetype":"locality",

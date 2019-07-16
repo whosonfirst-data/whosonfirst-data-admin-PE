@@ -31,14 +31,50 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Rioja"
+    ],
     "name:eng_x_preferred":[
         "Rioja"
     ],
     "name:eng_x_variant":[
+        "Rioja Province"
+    ],
+    "name:fra_x_preferred":[
         "Rioja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30cf\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10dd\u10ee\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Rioja S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Rioja"
+    ],
+    "name:por_x_preferred":[
+        "Rioja"
+    ],
+    "name:que_x_preferred":[
+        "Rioja pruwinsya"
     ],
     "name:unk_x_variant":[
         "Provincia de Rioja"
+    ],
+    "name:vie_x_preferred":[
+        "Rioja"
+    ],
+    "name:war_x_preferred":[
+        "Rioja"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d8\u10dd\u10ee\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u54c8\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +137,7 @@
         }
     ],
     "wof:id":421194089,
-    "wof:lastmodified":1553717529,
+    "wof:lastmodified":1563315213,
     "wof:name":"Rioja",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

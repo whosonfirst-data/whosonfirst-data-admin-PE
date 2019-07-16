@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Manu"
     ],
+    "name:eng_x_variant":[
+        "Boca Manu"
+    ],
     "name:fra_x_preferred":[
         "Man\u00fa"
     ],
@@ -37,8 +40,14 @@
     "name:por_x_preferred":[
         "Emanuel de Jesus Bonfim Evaristo"
     ],
+    "name:que_x_preferred":[
+        "Manu llaqta"
+    ],
     "name:spa_x_preferred":[
         "Man\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "Boca Manu"
     ],
     "name:unk_x_variant":[
         "Puerto del Manu"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421173119,
-    "wof:lastmodified":1514495501,
+    "wof:lastmodified":1563315272,
     "wof:name":"Man\u00fa",
     "wof:parent_id":421170665,
     "wof:placetype":"locality",

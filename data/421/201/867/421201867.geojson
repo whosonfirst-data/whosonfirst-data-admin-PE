@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u062e\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Paij\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Paij\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Paij\u00e1n"
     ],
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":421201867,
-    "wof:lastmodified":1561777734,
+    "wof:lastmodified":1563315339,
     "wof:name":"Paij\u00e1n",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

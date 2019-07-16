@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Celend\u00edn"
+    ],
+    "name:ceb_x_preferred":[
+        "Celend\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Celend\u00edn"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421199645,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1563315330,
     "wof:name":"Celend\u00edn",
     "wof:parent_id":421183859,
     "wof:placetype":"locality",

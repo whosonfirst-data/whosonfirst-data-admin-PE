@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Yanawka"
     ],
+    "name:ceb_x_preferred":[
+        "Yanaoca"
+    ],
     "name:eng_x_preferred":[
         "Yanaoca"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890435237,
-    "wof:lastmodified":1561777747,
+    "wof:lastmodified":1563315477,
     "wof:name":"Yanaoca",
     "wof:parent_id":421187839,
     "wof:placetype":"locality",

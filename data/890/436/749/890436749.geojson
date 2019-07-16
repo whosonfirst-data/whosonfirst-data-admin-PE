@@ -15,6 +15,96 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0630\u064a\u0644\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u043f\u0430\u0440\u043e\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "vici"
+    ],
+    "name:dan_x_preferred":[
+        "afh\u00e6ngighed"
+    ],
+    "name:deu_x_preferred":[
+        "Laster"
+    ],
+    "name:eng_x_preferred":[
+        "vice"
+    ],
+    "name:epo_x_preferred":[
+        "malvirto"
+    ],
+    "name:est_x_preferred":[
+        "Pahe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0630\u06cc\u0644\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "pahe"
+    ],
+    "name:fra_x_preferred":[
+        "vice"
+    ],
+    "name:glg_x_preferred":[
+        "Vicio"
+    ],
+    "name:hrv_x_preferred":[
+        "Porok"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0561\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "vizio"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cc1\u0cb0\u0ccd\u0c97\u0cc1\u0ca3"
+    ],
+    "name:lat_x_preferred":[
+        "Vitium"
+    ],
+    "name:lit_x_preferred":[
+        "Yda"
+    ],
+    "name:mkd_x_preferred":[
+        "\u043f\u043e\u0440\u043e\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "wada"
+    ],
+    "name:por_x_preferred":[
+        "v\u00edcio"
+    ],
+    "name:ron_x_preferred":[
+        "Viciu"
+    ],
+    "name:rus_x_preferred":[
+        "\u043f\u043e\u0440\u043e\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "neres\u0165"
+    ],
+    "name:spa_x_preferred":[
+        "vicio"
+    ],
+    "name:srp_x_preferred":[
+        "\u043f\u043e\u0440\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "last"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e1a\u0e32\u0e22\u0e21\u0e38\u0e02"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043f\u043e\u0440\u043e\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f6a\u60e1"
+    ],
     "qs:name":"Vice",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +138,7 @@
         }
     ],
     "wof:id":890436749,
-    "wof:lastmodified":1527735402,
+    "wof:lastmodified":1563315424,
     "wof:name":"Vice",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

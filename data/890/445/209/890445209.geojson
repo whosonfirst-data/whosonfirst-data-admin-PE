@@ -15,6 +15,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Matukana"
+    ],
+    "name:ceb_x_preferred":[
+        "Matucana"
+    ],
     "name:deu_x_preferred":[
         "Matucana"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890445209,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315457,
     "wof:name":"Matucana",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

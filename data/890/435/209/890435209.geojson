@@ -15,8 +15,29 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Campoverde"
+    ],
+    "name:eng_x_preferred":[
+        "Campoverde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10de\u10dd\u10d5\u10d4\u10e0\u10d3\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Campoverde"
+    ],
+    "name:por_x_preferred":[
+        "Campoverde"
+    ],
+    "name:que_x_preferred":[
+        "Campoverde distritu"
+    ],
     "name:spa_x_preferred":[
         "Campoverde"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u6ce2\u97cb\u723e\u8fea\u5340"
     ],
     "qs:name":"Campoverde",
     "qs:photos_9r":0,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":890435209,
-    "wof:lastmodified":1527793051,
+    "wof:lastmodified":1563315476,
     "wof:name":"Campoverde",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

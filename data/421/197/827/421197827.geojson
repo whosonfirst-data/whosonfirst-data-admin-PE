@@ -43,6 +43,9 @@
     "name:que_x_preferred":[
         "Chiqllan"
     ],
+    "name:que_x_variant":[
+        "Chiqui\u00e1n"
+    ],
     "name:spa_x_preferred":[
         "Chiqui\u00e1n"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421197827,
-    "wof:lastmodified":1561777732,
+    "wof:lastmodified":1563315328,
     "wof:name":"Chiqui\u00e1n",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

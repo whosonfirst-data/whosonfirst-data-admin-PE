@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Warmiy"
     ],
+    "name:ceb_x_preferred":[
+        "Huarmey"
+    ],
     "name:eng_x_preferred":[
         "Huarmey"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890442209,
-    "wof:lastmodified":1561777744,
+    "wof:lastmodified":1563315442,
     "wof:name":"Huarmey",
     "wof:parent_id":421184497,
     "wof:placetype":"locality",

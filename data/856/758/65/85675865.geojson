@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0623\u0646\u0643\u0627\u0634"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0623\u0646\u0643\u0627\u0634"
+    ],
     "name:aym_x_preferred":[
         "Ankashu Jach\u2019a Suyu"
     ],
@@ -56,6 +59,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Ancash"
     ],
+    "name:ceb_x_preferred":[
+        "Ancash"
+    ],
     "name:ces_x_preferred":[
         "Ancash"
     ],
@@ -71,6 +77,9 @@
     "name:eng_x_preferred":[
         "Ancash"
     ],
+    "name:eng_x_variant":[
+        "\u00c1ncash"
+    ],
     "name:epo_x_preferred":[
         "Departemento Anka\u015do"
     ],
@@ -82,6 +91,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion d'Ancash"
+    ],
+    "name:fra_x_variant":[
+        "Ancash"
     ],
     "name:glg_x_preferred":[
         "Ancash"
@@ -107,6 +119,9 @@
     "name:ita_x_preferred":[
         "Regione di Ancash"
     ],
+    "name:ita_x_variant":[
+        "Ancash"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30ab\u30b7\u30e5\u770c"
     ],
@@ -118,6 +133,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc559\uce74\uc2dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc559\uce74\uc2dc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Ancash"
     ],
     "name:lat_x_preferred":[
         "Regio Ancatiensis"
@@ -338,7 +359,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777518,
+    "wof:lastmodified":1563311186,
     "wof:name":"Ancash",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

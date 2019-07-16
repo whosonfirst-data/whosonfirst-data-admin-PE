@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0644\u064a\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u064a\u0645\u0627"
+    ],
     "name:aym_x_preferred":[
         "Lima Jach\u2019a Suyu"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u041b\u0456\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0456\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ae\u09be \u0985\u099e\u09cd\u099a\u09b2"
@@ -112,6 +118,9 @@
     "name:ita_x_preferred":[
         "Regione di Lima"
     ],
+    "name:ita_x_variant":[
+        "Lima"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30de"
     ],
@@ -126,6 +135,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ub9c8"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ub9c8\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Lima"
     ],
     "name:lat_x_preferred":[
         "Regio Limensis"
@@ -195,6 +210,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e21\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e25\u0e34\u0e21\u0e32"
     ],
     "name:tur_x_preferred":[
         "Lima B\u00f6lgesi"
@@ -344,7 +362,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777656,
+    "wof:lastmodified":1563314110,
     "wof:name":"Lima",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

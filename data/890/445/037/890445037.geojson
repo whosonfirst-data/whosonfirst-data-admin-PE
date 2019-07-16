@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Paita"
     ],
+    "name:ceb_x_preferred":[
+        "Paita"
+    ],
     "name:deu_x_preferred":[
         "Paita"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890445037,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1563315449,
     "wof:name":"Paita",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

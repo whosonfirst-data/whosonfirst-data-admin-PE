@@ -12,17 +12,32 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Juanjui"
+    ],
+    "name:eng_x_preferred":[
+        "Juanju\u00ed Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0627\u0646\u062e\u0648\u06cc"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30f3\u30d5\u30a4\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Juanjui"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Juanju\u00ed"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Juanju\u00ed"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0425\u0443\u0430\u043d\u0445\u0443\u0439"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0445\u0443\u043e\u043d\u0445\u0443\u0438"
     ],
     "oa:elevation_ft":"1148",
     "oa:type":"medium_airport",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":102552499,
-    "wof:lastmodified":1560312043,
+    "wof:lastmodified":1563310342,
     "wof:name":"Juanjui Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

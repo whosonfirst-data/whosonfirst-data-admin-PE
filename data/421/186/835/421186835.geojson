@@ -16,8 +16,14 @@
     "name:afr_x_preferred":[
         "Machu Picchu"
     ],
+    "name:amh_x_preferred":[
+        "\u121b\u1279 \u1352\u1279"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0634\u0648 \u0628\u064a\u062a\u0634\u0648"
+    ],
+    "name:arn_x_preferred":[
+        "mari mari"
     ],
     "name:ast_x_preferred":[
         "Machu Picchu"
@@ -51,6 +57,9 @@
     ],
     "name:cat_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:ceb_x_preferred":[
+        "Machupicchu"
     ],
     "name:ces_x_preferred":[
         "Machu Picchu"
@@ -148,6 +157,9 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0447\u0443-\u041f\u0438\u043a\u0447\u0443"
     ],
+    "name:kbp_x_preferred":[
+        "Machu Picchu"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u1787\u17bc \u1796\u17b8\u1787\u17bc"
     ],
@@ -210,6 +222,9 @@
     ],
     "name:oci_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:olo_x_preferred":[
+        "Ma\u010du Pik\u010du"
     ],
     "name:oss_x_preferred":[
         "\u041c\u0430\u0447\u0443-\u041f\u0438\u043a\u0447\u0443"
@@ -277,6 +292,9 @@
     "name:tel_x_preferred":[
         "machu pichu"
     ],
+    "name:tgl_x_preferred":[
+        "Machu Picchu"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e0a\u0e39\u0e1b\u0e34\u0e01\u0e0a\u0e39"
     ],
@@ -289,11 +307,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0686\u0648 \u067e\u06cc\u0686\u0648"
     ],
+    "name:vep_x_preferred":[
+        "Ma\u010du Pik\u010du"
+    ],
     "name:vie_x_preferred":[
         "Machu Picchu"
     ],
     "name:war_x_preferred":[
         "Machu Picchu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u4e18\u6bd4\u4e18"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e9\u10e3-\u10de\u10d8\u10e5\u10e9\u10e3"
@@ -354,7 +378,7 @@
         }
     ],
     "wof:id":421186835,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315290,
     "wof:name":"Machupicchu",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Tinku Mariya"
     ],
+    "name:ceb_x_preferred":[
+        "Tingo Mar\u00eda"
+    ],
     "name:deu_x_preferred":[
         "Tingo Mar\u00eda"
     ],
@@ -41,14 +44,23 @@
     "name:nld_x_preferred":[
         "Tingo Mar\u00eda"
     ],
+    "name:pol_x_preferred":[
+        "Tingo Mar\u00eda"
+    ],
     "name:por_x_preferred":[
         "Tingo Mar\u00eda"
     ],
     "name:que_x_preferred":[
         "Tinku Mariya"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0433\u043e-\u041c\u0430\u0440\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Tingo Mar\u00eda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043d\u0433\u043e-\u041c\u0430\u0440\u0456\u044f"
     ],
     "name:war_x_preferred":[
         "Tingo Mar\u00eda"
@@ -198,7 +210,7 @@
         }
     ],
     "wof:id":421173121,
-    "wof:lastmodified":1561777726,
+    "wof:lastmodified":1563315272,
     "wof:name":"Tingo Mar\u00eda",
     "wof:parent_id":421187925,
     "wof:placetype":"locality",

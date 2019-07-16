@@ -25,6 +25,9 @@
     "name:aym_x_preferred":[
         "Qura Qura"
     ],
+    "name:ceb_x_preferred":[
+        "Coracora"
+    ],
     "name:eng_x_preferred":[
         "Coracora"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125942333,
-    "wof:lastmodified":1561777747,
+    "wof:lastmodified":1563315480,
     "wof:name":"Coracora",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

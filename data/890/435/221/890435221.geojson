@@ -15,6 +15,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Barranca"
+    ],
     "name:eng_x_preferred":[
         "Barranca"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890435221,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315468,
     "wof:name":"Barranca",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

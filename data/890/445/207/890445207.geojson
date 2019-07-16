@@ -15,17 +15,35 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mazamari"
+    ],
     "name:eng_x_preferred":[
         "Mazamari"
     ],
+    "name:eng_x_variant":[
+        "Mazamari District"
+    ],
     "name:fra_x_preferred":[
         "Mazamari"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e1\u10d0\u10db\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Mazamari"
+    ],
+    "name:que_x_preferred":[
+        "Masamari distritu"
     ],
     "name:spa_x_preferred":[
         "Mazamari"
     ],
     "name:unk_x_variant":[
         "Mazamani"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u85a9\u99ac\u91cc\u5340"
     ],
     "qs:name":"Mazamari",
     "qs:photos_9r":0,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":890445207,
-    "wof:lastmodified":1527792873,
+    "wof:lastmodified":1563315458,
     "wof:name":"Mazamari",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

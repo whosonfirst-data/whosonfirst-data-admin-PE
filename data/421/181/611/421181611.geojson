@@ -16,6 +16,12 @@
     "name:aym_x_preferred":[
         "Lobitos jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Lobitos"
+    ],
+    "name:eng_x_preferred":[
+        "Lobitos District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Lobitos"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421181611,
-    "wof:lastmodified":1527716322,
+    "wof:lastmodified":1563315309,
     "wof:name":"Lobitos",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

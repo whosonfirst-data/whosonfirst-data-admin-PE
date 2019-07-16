@@ -46,7 +46,8 @@
         "\u0420\u044d\u0433\u0456\u0451\u043d \u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:bel_x_variant":[
-        "\u041b\u044f-\u041b\u0456\u0431\u044d\u0440\u0442\u0430\u0434"
+        "\u041b\u044f-\u041b\u0456\u0431\u044d\u0440\u0442\u0430\u0434",
+        "\u0440\u044d\u0433\u0456\u0451\u043d \u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09b2\u09bf\u09ac\u09be\u09b0\u09cd\u099f\u09c7\u09a1 \u0985\u099e\u09cd\u099a\u09b2"
@@ -54,8 +55,14 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u041b\u0430 \u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
+    ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de La Libertad"
+    ],
+    "name:ceb_x_preferred":[
+        "La Libertad"
     ],
     "name:ces_x_preferred":[
         "La Libertad"
@@ -84,6 +91,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de La Libertad"
     ],
+    "name:fra_x_variant":[
+        "La Libertad"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0ab2\u0abf\u0aac\u0ab0\u0acd\u0a9f\u0abe\u0aa1 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -99,6 +109,9 @@
     "name:ita_x_preferred":[
         "Regione di La Libertad"
     ],
+    "name:ita_x_variant":[
+        "La Libertad"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30ea\u30d9\u30eb\u30bf\u770c"
     ],
@@ -113,6 +126,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "La Libertad"
     ],
     "name:lat_x_preferred":[
         "Libertas Regio"
@@ -189,6 +208,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e25\u0e32 \u0e25\u0e34\u0e41\u0e1a\u0e23\u0e4c\u0e15\u0e31\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e25\u0e32\u0e25\u0e34\u0e40\u0e1a\u0e23\u0e4c\u0e15\u0e31\u0e14"
     ],
     "name:tur_x_preferred":[
         "La Libertad B\u00f6lgesi"
@@ -340,7 +362,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777522,
+    "wof:lastmodified":1563311192,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vir\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Vir\u00fa"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421168407,
-    "wof:lastmodified":1561777717,
+    "wof:lastmodified":1563315199,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":421191399,
     "wof:placetype":"locality",

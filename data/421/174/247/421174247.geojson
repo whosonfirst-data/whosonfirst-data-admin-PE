@@ -16,6 +16,9 @@
     "name:aym_x_preferred":[
         "Pirini jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Peren\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Peren\u00e9"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421174247,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315245,
     "wof:name":"Peren\u00e9",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

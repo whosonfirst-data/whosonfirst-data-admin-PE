@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Pukyu"
     ],
+    "name:ceb_x_preferred":[
+        "Puquio"
+    ],
     "name:eng_x_preferred":[
         "Puquio"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890442191,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315439,
     "wof:name":"Puquio",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u062e\u0627\u0645\u0627\u0631\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0643\u0627\u062e\u0627\u0645\u0627\u0631\u0643\u0627"
+    ],
     "name:aym_x_preferred":[
         "Qajamarka Jach\u2019a Suyu"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Cajamarca"
+    ],
+    "name:ceb_x_preferred":[
+        "Cajamarca"
     ],
     "name:ces_x_preferred":[
         "Cajamarca"
@@ -77,6 +83,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de Cajamarca"
     ],
+    "name:fra_x_variant":[
+        "Cajamarca"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a9c\u0aae\u0abe\u0ab0\u0acd\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -92,6 +101,9 @@
     "name:ita_x_preferred":[
         "regione di Cajamarca"
     ],
+    "name:ita_x_variant":[
+        "Cajamarca"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30cf\u30de\u30eb\u30ab\u770c"
     ],
@@ -103,6 +115,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ud558\ub9c8\ub974\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ud558\ub9c8\ub974\uce74\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Cajamarca"
     ],
     "name:lat_x_preferred":[
         "Regio Caxamarcensis"
@@ -149,6 +167,9 @@
     "name:que_x_preferred":[
         "Kashamarka Suyu"
     ],
+    "name:que_x_variant":[
+        "Kashamarka suyu"
+    ],
     "name:ron_x_preferred":[
         "Cajamarca"
     ],
@@ -172,6 +193,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e2e\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e01\u0e32\u0e06\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Cajamarca"
@@ -316,7 +340,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777524,
+    "wof:lastmodified":1563311197,
     "wof:name":"Cajamarca",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -31,14 +31,56 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0645\u0628\u0627\u064a\u0643\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Lambayeque"
+    ],
     "name:eng_x_preferred":[
         "Lambayeque"
     ],
     "name:eng_x_variant":[
+        "Lambayeque Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Lambajeko"
+    ],
+    "name:fra_x_preferred":[
         "Lambayeque"
+    ],
+    "name:hun_x_preferred":[
+        "Lambayeque tartom\u00e1ny"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30d0\u30a4\u30a8\u30b1\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10db\u10d1\u10d0\u10d8\u10d4\u10d9\u10d4"
+    ],
+    "name:nan_x_preferred":[
+        "Lambayeque S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Lambayeque"
+    ],
+    "name:por_x_preferred":[
+        "Lambayeque"
+    ],
+    "name:que_x_preferred":[
+        "Lampalliqi pruwinsya"
     ],
     "name:unk_x_variant":[
         "Provincia de Lambayeque"
+    ],
+    "name:war_x_preferred":[
+        "Lambayeque"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d0\u10db\u10d1\u10d0\u10d8\u10d4\u10d9\u10d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u5df4\u8036\u514b\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +143,7 @@
         }
     ],
     "wof:id":421187855,
-    "wof:lastmodified":1553717455,
+    "wof:lastmodified":1563315263,
     "wof:name":"Lambayeque",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Huaraz"
     ],
+    "name:ceb_x_preferred":[
+        "Huaraz"
+    ],
     "name:ces_x_preferred":[
         "Huaraz"
     ],
@@ -100,6 +103,9 @@
     "name:lit_x_preferred":[
         "Huarasas"
     ],
+    "name:lit_x_variant":[
+        "Uarasas"
+    ],
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0930\u093e\u091c"
     ],
@@ -145,11 +151,17 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c2f\u0c30\u0c3e\u0c1c\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e31\u0e27\u0e23\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e27\u0e23\u0e31\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Huaraz"
@@ -307,7 +319,7 @@
         }
     ],
     "wof:id":890445053,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1563315447,
     "wof:name":"Huaraz",
     "wof:parent_id":421187921,
     "wof:placetype":"locality",

@@ -31,14 +31,62 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "prov\u00edncia d'Urubamba"
+    ],
     "name:eng_x_preferred":[
         "Urubamba"
     ],
     "name:eng_x_variant":[
+        "Urubamba Province"
+    ],
+    "name:eus_x_preferred":[
+        "Urubamba probintzia"
+    ],
+    "name:fra_x_preferred":[
+        "Urubamba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10e3\u10d1\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0440\u0443\u0431\u0430\u043c\u0431\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Urubamba S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Urubamba"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Urubamba"
+    ],
+    "name:por_x_preferred":[
+        "Urubamba"
+    ],
+    "name:que_x_preferred":[
+        "Urupampa pruwinsya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0443\u0431\u0430\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Urubamba"
     ],
     "name:unk_x_variant":[
         "Provincia de Urubamba"
+    ],
+    "name:vie_x_preferred":[
+        "Urubamba"
+    ],
+    "name:war_x_preferred":[
+        "Urubamba"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10e0\u10e3\u10d1\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u9b6f\u73ed\u5df4\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +149,7 @@
         }
     ],
     "wof:id":421183001,
-    "wof:lastmodified":1553717404,
+    "wof:lastmodified":1563315369,
     "wof:name":"Urubamba",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

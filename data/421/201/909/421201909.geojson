@@ -19,8 +19,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0643\u0648\u060c \u0628\u064a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0633\u0643\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b8\u0995\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Pisco"
+    ],
+    "name:ceb_x_preferred":[
+        "Pisco"
+    ],
+    "name:ces_x_preferred":[
+        "Pisco"
     ],
     "name:dan_x_preferred":[
         "Pisco"
@@ -106,10 +118,16 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dd2\u0dc3\u0dca\u0d9a\u0ddd"
     ],
+    "name:slk_x_preferred":[
+        "Pisco"
+    ],
     "name:spa_x_preferred":[
         "Pisco"
     ],
     "name:swe_x_preferred":[
+        "Pisco"
+    ],
+    "name:szl_x_preferred":[
         "Pisco"
     ],
     "name:tam_x_preferred":[
@@ -189,7 +207,7 @@
         }
     ],
     "wof:id":421201909,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1563315338,
     "wof:name":"Pisco",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

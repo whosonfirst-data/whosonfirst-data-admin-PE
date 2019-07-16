@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043a\u043b\u0430\u0439\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Chiclayo"
+    ],
+    "name:ceb_x_preferred":[
+        "Chiclayo"
+    ],
     "name:ces_x_preferred":[
         "Chiclayo"
     ],
@@ -67,6 +73,9 @@
     "name:heb_x_preferred":[
         "\u05e6\u05d9\u05e7\u05dc\u05d0\u05d9\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05d9\u05e7\u05dc\u05d0\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u0915\u094d\u0932\u093e\u092f\u094b"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010ciklajus"
+    ],
+    "name:lit_x_variant":[
+        "\u010ciklajas"
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0915\u094d\u0932\u093e\u092f\u094b"
@@ -156,6 +168,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e34\u0e04\u0e25\u0e32\u0e42\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e34\u0e01\u0e25\u0e32\u0e42\u0e22"
     ],
     "name:tur_x_preferred":[
         "Chichlayo"
@@ -309,7 +324,7 @@
         }
     ],
     "wof:id":890445067,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315461,
     "wof:name":"Chiclayo",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

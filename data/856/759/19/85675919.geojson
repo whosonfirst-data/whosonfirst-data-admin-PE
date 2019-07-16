@@ -57,6 +57,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Jun\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Jun\u00edn"
     ],
@@ -73,12 +76,14 @@
         "Junin"
     ],
     "name:eng_x_variant":[
-        "Junin",
         "Jun\u00edn",
         "Jun\u00edn Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Junino"
+    ],
+    "name:epo_x_variant":[
+        "Junina Regiono"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u062e\u0648\u0646\u06cc\u0646"
@@ -88,6 +93,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Jun\u00edn"
+    ],
+    "name:fra_x_variant":[
+        "Jun\u00edn"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0aa8\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -104,6 +112,9 @@
     "name:ita_x_preferred":[
         "Regione di Jun\u00edn"
     ],
+    "name:ita_x_variant":[
+        "Jun\u00edn"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30cb\u30f3\u770c"
     ],
@@ -118,6 +129,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud6c4\ub2cc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud6c4\ub2cc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Jun\u00edn"
     ],
     "name:lat_x_preferred":[
         "Regio Xuninensis"
@@ -196,6 +213,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e39\u0e19\u0e34\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e06\u0e39\u0e19\u0e34\u0e19"
     ],
     "name:tur_x_preferred":[
         "Junin Region"
@@ -340,7 +360,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777526,
+    "wof:lastmodified":1563311200,
     "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

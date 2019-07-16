@@ -89,6 +89,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de San Mart\u00edn"
     ],
+    "name:fra_x_variant":[
+        "San Mart\u00edn"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -110,6 +113,9 @@
     "name:ita_x_preferred":[
         "regione di San Mart\u00edn"
     ],
+    "name:ita_x_variant":[
+        "San Mart\u00edn"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3\u770c"
     ],
@@ -121,6 +127,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ub9c8\ub974\ud2f4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub9c8\ub974\ud2f4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Mart\u00edn"
     ],
     "name:lat_x_preferred":[
         "Regio Sancti Martini"
@@ -166,6 +178,9 @@
     ],
     "name:que_x_preferred":[
         "San Martin Suyu"
+    ],
+    "name:que_x_variant":[
+        "San Martin suyu"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d"
@@ -338,7 +353,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777523,
+    "wof:lastmodified":1563311195,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

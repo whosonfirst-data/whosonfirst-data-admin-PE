@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Utusku jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Otuzco"
+    ],
     "name:eng_x_preferred":[
         "Otuzco"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":890440183,
-    "wof:lastmodified":1561777741,
+    "wof:lastmodified":1563315407,
     "wof:name":"Otuzco",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

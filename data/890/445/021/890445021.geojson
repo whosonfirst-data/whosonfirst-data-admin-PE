@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Yurimaguas"
     ],
+    "name:ceb_x_preferred":[
+        "Yurimaguas"
+    ],
     "name:deu_x_preferred":[
         "Yurimaguas"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890445021,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1563315457,
     "wof:name":"Yurimaguas",
     "wof:parent_id":421188085,
     "wof:placetype":"locality",

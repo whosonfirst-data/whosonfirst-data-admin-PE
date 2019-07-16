@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Bagua Grande"
     ],
+    "name:ceb_x_preferred":[
+        "Bagua Grande"
+    ],
     "name:eng_x_preferred":[
         "Bagua Grande"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890436009,
-    "wof:lastmodified":1561777742,
+    "wof:lastmodified":1563315423,
     "wof:name":"Bagua Grande",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

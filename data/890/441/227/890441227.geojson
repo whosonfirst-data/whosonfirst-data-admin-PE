@@ -15,6 +15,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Waral"
+    ],
+    "name:cat_x_preferred":[
+        "Huaral"
+    ],
+    "name:ceb_x_preferred":[
+        "Huaral"
+    ],
     "name:deu_x_preferred":[
         "Huaral"
     ],
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890441227,
-    "wof:lastmodified":1561777741,
+    "wof:lastmodified":1563315411,
     "wof:name":"Huaral",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

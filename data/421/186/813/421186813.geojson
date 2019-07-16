@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Xauxa"
     ],
+    "name:ceb_x_preferred":[
+        "Jauja"
+    ],
     "name:deu_x_preferred":[
         "Jauja"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421186813,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315299,
     "wof:name":"Jauja",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

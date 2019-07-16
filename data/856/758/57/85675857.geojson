@@ -74,6 +74,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de Moquegua"
     ],
+    "name:fra_x_variant":[
+        "Moquegua"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a95\u0ac7\u0a97\u0ac1\u0a86 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -89,6 +92,9 @@
     "name:ita_x_preferred":[
         "regione di Moquegua"
     ],
+    "name:ita_x_variant":[
+        "Moquegua"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30b1\u30b0\u30a2\u770c"
     ],
@@ -100,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ucf00\uacfc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaa8\ucf00\uacfc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Moquegua"
     ],
     "name:lat_x_preferred":[
         "Moqueguensis"
@@ -169,6 +181,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e42\u0e21\u0e40\u0e01\u0e01\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e42\u0e21\u0e40\u0e01\u0e01\u0e31\u0e27"
     ],
     "name:tur_x_preferred":[
         "Moquegua B\u00f6lgesi"
@@ -313,7 +328,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777514,
+    "wof:lastmodified":1563311177,
     "wof:name":"Moquegua",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

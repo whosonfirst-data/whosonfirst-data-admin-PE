@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u0627\u0646\u0643\u0627\u0641\u0644\u064a\u0643\u0627"
+    ],
     "name:aym_x_preferred":[
         "Wankawillka jisk'a suyu"
     ],
@@ -44,7 +47,6 @@
         "Huancavelica"
     ],
     "name:eng_x_variant":[
-        "Huancavelica",
         "Huancavelica Province"
     ],
     "name:fra_x_preferred":[
@@ -58,6 +60,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10d0\u10dc\u10d9\u10d0\u10d5\u10d4\u10da\u10d8\u10d9\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Huancavelica S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Huancavelica"
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":421175167,
-    "wof:lastmodified":1561777730,
+    "wof:lastmodified":1563315311,
     "wof:name":"Huancavelica",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

@@ -15,8 +15,29 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yauca del Rosario District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10d9\u10d0-\u10d3\u10d4\u10da-\u10e0\u10dd\u10e1\u10d0\u10e0\u10d8\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Yauca del Rosario District"
+    ],
+    "name:por_x_preferred":[
+        "Yauca del Rosario"
+    ],
+    "name:que_x_preferred":[
+        "Yauca del Rosario distritu"
+    ],
     "name:unk_x_variant":[
         "Llauca"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u0627 \u062f\u0644 \u0631\u0648\u0633\u0627\u0631\u06cc\u0648 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u582f\u5361\u5fb7\u723e\u7f85\u85a9\u91cc\u5967\u5340"
     ],
     "qs:name":"Rosario de Yauca",
     "qs:photos_9r":0,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":890434715,
-    "wof:lastmodified":1527792946,
+    "wof:lastmodified":1563315463,
     "wof:name":"Rosario de Yauca",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

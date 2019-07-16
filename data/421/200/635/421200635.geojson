@@ -19,8 +19,20 @@
     "name:cat_x_preferred":[
         "Pueblo Libre"
     ],
+    "name:eng_x_preferred":[
+        "Pueblo Libre"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Libre"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Pueblo Libre"
+    ],
+    "name:ita_x_variant":[
+        "Pueblo Libre"
+    ],
+    "name:nld_x_preferred":[
+        "Pueblo Libre"
     ],
     "name:por_x_preferred":[
         "Pueblo Libre"
@@ -30,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Pueblo Libre"
+    ],
+    "name:spa_x_variant":[
+        "Pueblo Libre"
     ],
     "name:zho_x_preferred":[
         "\u81ea\u7531\u90e8\u843d\u5340"
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":421200635,
-    "wof:lastmodified":1560310183,
+    "wof:lastmodified":1563315335,
     "wof:name":"Pueblo Libre",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

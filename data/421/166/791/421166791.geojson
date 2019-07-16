@@ -31,6 +31,9 @@
     "name:ita_x_preferred":[
         "Moho"
     ],
+    "name:jav_x_preferred":[
+        "Moho"
+    ],
     "name:nld_x_preferred":[
         "Moho"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421166791,
-    "wof:lastmodified":1561777718,
+    "wof:lastmodified":1563315201,
     "wof:name":"Moho",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

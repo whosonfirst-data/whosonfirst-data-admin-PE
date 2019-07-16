@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Uruya"
     ],
+    "name:ceb_x_preferred":[
+        "La Oroya"
+    ],
     "name:ces_x_preferred":[
         "La Oroya"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421179895,
-    "wof:lastmodified":1561777738,
+    "wof:lastmodified":1563315370,
     "wof:name":"La Oroya",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

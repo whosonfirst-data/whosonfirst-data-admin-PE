@@ -15,6 +15,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ayabaca"
+    ],
     "name:deu_x_preferred":[
         "Ayabaca"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890436011,
-    "wof:lastmodified":1561777742,
+    "wof:lastmodified":1563315425,
     "wof:name":"Ayabaca",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

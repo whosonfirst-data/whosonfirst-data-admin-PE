@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Tarma"
     ],
+    "name:ceb_x_preferred":[
+        "Tarma"
+    ],
+    "name:dan_x_preferred":[
+        "Tarma"
+    ],
     "name:deu_x_preferred":[
         "Tarma"
     ],
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":421174783,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315244,
     "wof:name":"Tarma",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

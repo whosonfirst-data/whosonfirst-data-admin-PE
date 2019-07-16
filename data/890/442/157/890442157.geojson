@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Pucallpa"
     ],
+    "name:ceb_x_preferred":[
+        "Pucallpa"
+    ],
     "name:ces_x_preferred":[
         "Pucallpa"
     ],
@@ -47,6 +50,9 @@
         "Pucallpa"
     ],
     "name:epo_x_preferred":[
+        "Pucallpa"
+    ],
+    "name:eus_x_preferred":[
         "Pucallpa"
     ],
     "name:fas_x_preferred":[
@@ -90,6 +96,9 @@
     ],
     "name:lit_x_preferred":[
         "Pukalpa"
+    ],
+    "name:lit_x_variant":[
+        "Pukaljpa"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0941\u0938\u093e\u0932\u094d\u0932\u092a\u093e"
@@ -144,6 +153,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u043b\u044c\u043f\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c15\u0c3e\u0c32\u0c4d\u0c2a"
@@ -307,7 +319,7 @@
         }
     ],
     "wof:id":890442157,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315434,
     "wof:name":"Pucallpa",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

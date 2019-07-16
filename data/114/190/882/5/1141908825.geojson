@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Ilu"
     ],
+    "name:cat_x_preferred":[
+        "Ilo"
+    ],
+    "name:ceb_x_preferred":[
+        "Ilo"
+    ],
     "name:deu_x_preferred":[
         "Ilo"
     ],
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":1141908825,
-    "wof:lastmodified":1561777870,
+    "wof:lastmodified":1563317755,
     "wof:name":"Ilo",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",

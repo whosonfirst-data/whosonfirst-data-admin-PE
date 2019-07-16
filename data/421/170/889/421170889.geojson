@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Satipu"
     ],
+    "name:ceb_x_preferred":[
+        "Satipo"
+    ],
     "name:eng_x_preferred":[
         "Satipo"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421170889,
-    "wof:lastmodified":1561777735,
+    "wof:lastmodified":1563315350,
     "wof:name":"Satipo",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

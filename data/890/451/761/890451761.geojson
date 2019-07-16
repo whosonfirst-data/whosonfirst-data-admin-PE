@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Tarata"
     ],
+    "name:ceb_x_preferred":[
+        "Tarata"
+    ],
     "name:eng_x_preferred":[
         "Tarata"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890451761,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315462,
     "wof:name":"Tarata",
     "wof:parent_id":1108694033,
     "wof:placetype":"locality",

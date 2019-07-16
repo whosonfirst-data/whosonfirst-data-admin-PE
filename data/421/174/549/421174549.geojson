@@ -17,6 +17,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Jun\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Jun\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Jun\u00edn"
     ],
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":421174549,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315246,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

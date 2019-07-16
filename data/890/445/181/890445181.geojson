@@ -25,8 +25,17 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043a\u043d\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u043a\u043d\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09a8\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Tacna"
+    ],
+    "name:ceb_x_preferred":[
+        "Tacna"
     ],
     "name:ces_x_preferred":[
         "Tacna"
@@ -84,6 +93,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0c95\u0ccd\u0ca8"
+    ],
+    "name:kan_x_variant":[
+        "\u0c9f\u0cbe\u0c95\u0ccd\u0ca8 ,"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10d9\u10dc\u10d0"
@@ -303,7 +315,7 @@
         }
     ],
     "wof:id":890445181,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1563315451,
     "wof:name":"Tacna",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

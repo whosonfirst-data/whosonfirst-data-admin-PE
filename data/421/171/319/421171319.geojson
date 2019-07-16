@@ -25,6 +25,12 @@
     "name:lit_x_preferred":[
         "\u010cala"
     ],
+    "name:lit_x_variant":[
+        "\u010ciala"
+    ],
+    "name:nan_x_preferred":[
+        "Chala"
+    ],
     "name:nld_x_preferred":[
         "Chala"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Chala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u62c9\u8a9e"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421171319,
-    "wof:lastmodified":1527726498,
+    "wof:lastmodified":1563315401,
     "wof:name":"Chala",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

@@ -57,6 +57,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Huancavelica"
     ],
+    "name:ceb_x_preferred":[
+        "Huancavelica"
+    ],
     "name:ces_x_preferred":[
         "Huancavelica"
     ],
@@ -84,6 +87,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion de Huancavelica"
     ],
+    "name:fra_x_variant":[
+        "Huancavelica"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0aa8\u0acd\u0a95\u0abe\u0ab5\u0ac7\u0ab2\u0abf\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -102,6 +108,9 @@
     "name:ita_x_preferred":[
         "Regione di Huancavelica"
     ],
+    "name:ita_x_variant":[
+        "Huancavelica"
+    ],
     "name:jpn_x_preferred":[
         "\u30ef\u30f3\u30ab\u30d9\u30ea\u30ab\u770c"
     ],
@@ -116,6 +125,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc559\uce74\ubca8\ub9ac\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc559\uce74\ubca8\ub9ac\uce74\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Huancavelica"
     ],
     "name:lat_x_preferred":[
         "Regio Vancavelicensis"
@@ -192,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e35\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e34\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Huancavelica B\u00f6lgesi"
@@ -340,7 +358,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777526,
+    "wof:lastmodified":1563311199,
     "wof:name":"Huancavelica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

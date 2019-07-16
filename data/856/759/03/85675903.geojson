@@ -54,6 +54,12 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 dAyacucho"
     ],
+    "name:cat_x_variant":[
+        "Regi\u00f3 d'Ayacucho"
+    ],
+    "name:ceb_x_preferred":[
+        "Ayacucho"
+    ],
     "name:ces_x_preferred":[
         "Ayacucho"
     ],
@@ -72,6 +78,9 @@
     "name:epo_x_preferred":[
         "Departemento Ajaku\u0109o"
     ],
+    "name:epo_x_variant":[
+        "Ayacucho"
+    ],
     "name:eus_x_preferred":[
         "Ayacucho"
     ],
@@ -85,7 +94,8 @@
         "R\u00e9gion dAyacucho"
     ],
     "name:fra_x_variant":[
-        "R\u00e9gion d'Ayacucho"
+        "R\u00e9gion d'Ayacucho",
+        "Ayacucho"
     ],
     "name:glg_x_preferred":[
         "Departamento de Ayacucho"
@@ -95,6 +105,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05d9\u05e7\u05d5\u05e6\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05d9\u05e7\u05d5\u05e6'\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0905\u092f\u093e\u0915\u0941\u091a\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -107,6 +120,9 @@
     ],
     "name:ita_x_preferred":[
         "Regione di Ayacucho"
+    ],
+    "name:ita_x_variant":[
+        "Ayacucho"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e4\u30af\u30fc\u30c1\u30e7\u770c"
@@ -122,6 +138,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc57c\ucfe0\ucd08 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc57c\ucfe0\ucd08\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Ayacucho"
     ],
     "name:lat_x_preferred":[
         "Regio Aiacuchensis"
@@ -194,6 +216,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2d\u0e22\u0e32\u0e04\u0e31\u0e15\u0e42\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e32\u0e22\u0e32\u0e01\u0e39\u0e42\u0e0a"
     ],
     "name:tur_x_preferred":[
         "Ayacuch\u0131 B\u00f6lgesi"
@@ -338,7 +363,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777525,
+    "wof:lastmodified":1563311199,
     "wof:name":"Ayacucho",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

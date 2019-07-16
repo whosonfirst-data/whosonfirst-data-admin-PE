@@ -13,8 +13,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Comas"
+    ],
+    "name:deu_x_preferred":[
+        "Comas"
+    ],
+    "name:eng_x_preferred":[
+        "Comas"
+    ],
+    "name:fra_x_preferred":[
+        "Comas"
+    ],
+    "name:ita_x_preferred":[
+        "Comas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30de\u30b9\u5730\u533a"
+    ],
+    "name:nld_x_preferred":[
+        "Comas"
+    ],
+    "name:por_x_preferred":[
+        "Comas"
+    ],
+    "name:que_x_preferred":[
+        "Qumas distritu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Comas"
+    ],
     "name:unk_x_variant":[
         "Hacienda Comas"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u99ac\u65af\u5340"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -62,7 +98,7 @@
         }
     ],
     "wof:id":421200637,
-    "wof:lastmodified":1560310183,
+    "wof:lastmodified":1563315335,
     "wof:name":"Comas",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

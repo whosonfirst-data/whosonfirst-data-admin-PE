@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Urqus"
     ],
+    "name:ceb_x_preferred":[
+        "Urcos"
+    ],
     "name:eng_x_preferred":[
         "Urcos"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421186825,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315300,
     "wof:name":"Urcos",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

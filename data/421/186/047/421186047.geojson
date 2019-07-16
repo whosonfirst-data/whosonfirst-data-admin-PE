@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Desaguadero"
     ],
+    "name:eng_x_preferred":[
+        "Desaguadero"
+    ],
     "name:fra_x_preferred":[
         "Desaguadero"
     ],
@@ -38,6 +41,9 @@
         "Desaguadero"
     ],
     "name:pol_x_preferred":[
+        "Desaguadero"
+    ],
+    "name:por_x_preferred":[
         "Desaguadero"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421186047,
-    "wof:lastmodified":1527716312,
+    "wof:lastmodified":1563315288,
     "wof:name":"Desaguadero",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

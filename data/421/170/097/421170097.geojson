@@ -28,6 +28,12 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u041c\u0430\u043b\u0434\u043e\u043d\u0430\u0434\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Puerto Maldonado"
+    ],
+    "name:ceb_x_preferred":[
+        "Puerto Maldonado"
+    ],
     "name:ces_x_preferred":[
         "Puerto Maldonado"
     ],
@@ -41,6 +47,9 @@
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03b1\u03bb\u03bd\u03c4\u03bf\u03bd\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Puerto Maldonado"
+    ],
+    "name:eus_x_preferred":[
         "Puerto Maldonado"
     ],
     "name:fas_x_preferred":[
@@ -145,6 +154,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e35\u0e22\u0e27\u0e42\u0e15 \u0e21\u0e31\u0e25\u0e42\u0e14\u0e19\u0e32\u0e42\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e21\u0e31\u0e25\u0e42\u0e14\u0e19\u0e32\u0e42\u0e14"
+    ],
     "name:tur_x_preferred":[
         "Puerto Maldonado"
     ],
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":421170097,
-    "wof:lastmodified":1561777736,
+    "wof:lastmodified":1563315353,
     "wof:name":"Puerto Maldonado",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

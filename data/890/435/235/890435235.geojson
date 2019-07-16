@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Yunkuyu"
     ],
+    "name:ceb_x_preferred":[
+        "Yunguyo"
+    ],
     "name:deu_x_preferred":[
         "Yunguyo"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890435235,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315470,
     "wof:name":"Yunguyo",
     "wof:parent_id":421198073,
     "wof:placetype":"locality",

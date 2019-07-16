@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0632\u0643\u0627\u060c \u0628\u064a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u0632\u0643\u0627"
+    ],
     "name:bar_x_preferred":[
         "Nazca"
     ],
@@ -32,6 +35,12 @@
         "\u041d\u0430\u0441\u043a\u0430"
     ],
     "name:cat_x_preferred":[
+        "Nazca"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazca"
+    ],
+    "name:ces_x_preferred":[
         "Nazca"
     ],
     "name:dan_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:fin_x_preferred":[
         "Nasca"
+    ],
+    "name:fin_x_variant":[
+        "Nazca"
     ],
     "name:fra_x_preferred":[
         "Nazca"
@@ -115,8 +127,14 @@
     "name:pol_x_preferred":[
         "P\u0142askowy\u017c Nazca"
     ],
+    "name:pol_x_variant":[
+        "Nazca"
+    ],
     "name:por_x_preferred":[
         "Placa de Nazca"
+    ],
+    "name:por_x_variant":[
+        "Nazca"
     ],
     "name:que_x_preferred":[
         "Naska"
@@ -135,6 +153,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Nazca"
+    ],
+    "name:spa_x_variant":[
+        "Nasca"
     ],
     "name:swe_x_preferred":[
         "Nasca"
@@ -297,7 +318,7 @@
         }
     ],
     "wof:id":890442195,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315435,
     "wof:name":"Nazca",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

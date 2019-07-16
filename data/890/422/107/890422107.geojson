@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Pumapampa"
     ],
+    "name:ceb_x_preferred":[
+        "Pomabamba"
+    ],
     "name:eng_x_preferred":[
         "Pomabamba"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890422107,
-    "wof:lastmodified":1561777741,
+    "wof:lastmodified":1563315408,
     "wof:name":"Pomabamba",
     "wof:parent_id":1108694015,
     "wof:placetype":"locality",

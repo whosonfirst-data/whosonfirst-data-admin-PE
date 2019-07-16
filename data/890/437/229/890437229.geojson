@@ -15,8 +15,32 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u043e\u043d\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Paramonga"
+    ],
+    "name:eng_x_preferred":[
+        "Paramonga"
+    ],
+    "name:fra_x_preferred":[
+        "Paramonga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30e2\u30f3\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10d0\u10db\u10dd\u10dc\u10d2\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Paramonga"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u043e\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Paramonga"
     ],
     "name:unk_x_variant":[
         "Hacienda Paramonga"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":890437229,
-    "wof:lastmodified":1560310173,
+    "wof:lastmodified":1563315418,
     "wof:name":"Paramonga",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

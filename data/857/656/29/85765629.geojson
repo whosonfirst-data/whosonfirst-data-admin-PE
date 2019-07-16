@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4164570.426813,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099302,-12.041636,-77.099302,-12.041636",
     "geom:latitude":-12.041636,
     "geom:longitude":-77.099302,
@@ -29,6 +29,9 @@
     ],
     "name:cat_x_preferred":[
         "Carmen de la Legua Reynoso"
+    ],
+    "name:ceb_x_preferred":[
+        "Carmen De La Legua Reynoso"
     ],
     "name:ita_x_preferred":[
         "Distretto di Carmen de la Legua-Reynoso"
@@ -86,10 +89,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wk:wordcount":177,
     "wof:belongsto":[
+        85675817,
         102191577,
         85632521,
-        421187933,
-        85675817
+        421187933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859026,
+    "wof:lastmodified":1563311162,
     "wof:name":"Carmen de la Legua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Anta"
     ],
+    "name:ceb_x_preferred":[
+        "Anta"
+    ],
     "name:eng_x_preferred":[
         "Anta"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421177389,
-    "wof:lastmodified":1561777737,
+    "wof:lastmodified":1563315366,
     "wof:name":"Anta",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

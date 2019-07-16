@@ -15,8 +15,26 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marcavelica"
+    ],
+    "name:eng_x_preferred":[
+        "Marcavelica District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d9\u10d0\u10d5\u10d4\u10da\u10d8\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Marcavelica"
+    ],
+    "name:que_x_preferred":[
+        "Markawillka distritu"
+    ],
     "name:unk_x_variant":[
         "Marcavelica Hacienda"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u5361\u97cb\u5229\u5361\u5340"
     ],
     "qs:name":"Marcavelica",
     "qs:photos_9r":0,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":890445047,
-    "wof:lastmodified":1527792869,
+    "wof:lastmodified":1563315446,
     "wof:name":"Marcavelica",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",
