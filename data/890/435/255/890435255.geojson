@@ -15,6 +15,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quilahuani"
+    ],
+    "name:eng_x_preferred":[
+        "Quilahuani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d0\u10e3\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Quilahuani"
+    ],
+    "name:por_x_preferred":[
+        "Quilahuani"
+    ],
+    "name:que_x_preferred":[
+        "Kilawani distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u62c9\u74e6\u5c3c\u5340"
+    ],
     "qs:name":"Quilahuani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":890435255,
-    "wof:lastmodified":1527793052,
+    "wof:lastmodified":1563315478,
     "wof:name":"Quilahuani",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

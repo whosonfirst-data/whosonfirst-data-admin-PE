@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Moyobamba"
     ],
+    "name:ceb_x_preferred":[
+        "Moyobamba"
+    ],
     "name:ces_x_preferred":[
         "Moyobamba"
     ],
@@ -47,6 +50,9 @@
         "\u039c\u03bf\u03b3\u03b9\u03bf\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Moyobamba"
+    ],
+    "name:eus_x_preferred":[
         "Moyobamba"
     ],
     "name:fas_x_preferred":[
@@ -139,6 +145,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e42\u0e22\u0e41\u0e1a\u0e21\u0e1a\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e42\u0e22\u0e1a\u0e31\u0e21\u0e1a\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Moyobamba"
     ],
@@ -210,7 +219,7 @@
         }
     ],
     "wof:id":421200839,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1563315337,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

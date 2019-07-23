@@ -74,6 +74,9 @@
     "name:epo_x_preferred":[
         "\u016canuko"
     ],
+    "name:epo_x_variant":[
+        "Departemento Hu\u00e1nuco"
+    ],
     "name:eus_x_preferred":[
         "Hu\u00e1nuco"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:fin_x_preferred":[
         "Hu\u00e1nuco"
+    ],
+    "name:fin_x_variant":[
+        "Hu\u00e1nucon alue"
     ],
     "name:fra_x_preferred":[
         "Hu\u00e1nuco"
@@ -118,6 +124,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc544\ub204\ucf54 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc544\ub204\ucf54\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Hu\u00e1nuco"
     ],
     "name:lat_x_preferred":[
         "Regio Vanucensis"
@@ -164,8 +176,14 @@
     "name:por_x_preferred":[
         "Departamento Ju\u00e1nuco"
     ],
+    "name:por_x_variant":[
+        "Hu\u00e1nuco"
+    ],
     "name:que_x_preferred":[
         "Wanuku Suyu"
+    ],
+    "name:que_x_variant":[
+        "Wanuku suyu"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0430\u043d\u0443\u043a\u043e"
@@ -190,6 +208,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e27\u0e19\u0e39\u0e42\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e31\u0e27\u0e19\u0e39\u0e42\u0e01"
     ],
     "name:tur_x_preferred":[
         "Huanuco Region"
@@ -333,7 +354,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777516,
+    "wof:lastmodified":1563311182,
     "wof:name":"Huanuco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

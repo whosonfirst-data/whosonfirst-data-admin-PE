@@ -15,6 +15,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chupaca"
+    ],
     "name:eng_x_preferred":[
         "Chupaca"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890435269,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315471,
     "wof:name":"Chupaca",
     "wof:parent_id":421188283,
     "wof:placetype":"locality",

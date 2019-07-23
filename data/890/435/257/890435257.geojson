@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Pisac"
+    ],
     "name:deu_x_preferred":[
         "Pisac"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890435257,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315469,
     "wof:name":"Pisac",
     "wof:parent_id":421175157,
     "wof:placetype":"locality",

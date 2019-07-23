@@ -15,6 +15,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chongoyape"
+    ],
+    "name:eng_x_preferred":[
+        "Chongoyape District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10dc\u10d2\u10dd\u10d8\u10d0\u10de\u10d4\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Chongoyape"
+    ],
+    "name:que_x_preferred":[
+        "Chunkuyapi distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u74ca\u6208\u4e9e\u4f69\u5340"
+    ],
     "qs:name":"Chongoyape",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":890436003,
-    "wof:lastmodified":1527735405,
+    "wof:lastmodified":1563315426,
     "wof:name":"Chongoyape",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

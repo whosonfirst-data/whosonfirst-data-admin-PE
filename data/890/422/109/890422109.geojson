@@ -15,8 +15,26 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Huaca District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10e3\u10d0\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "La Huaca"
+    ],
+    "name:que_x_preferred":[
+        "Waka distritu"
+    ],
     "name:unk_x_variant":[
         "Lattuaca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06c1\u0648\u0627\u06a9\u0627 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u74e6\u5361\u5340"
     ],
     "qs:name":"La Huaca",
     "qs:photos_9r":0,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":890422109,
-    "wof:lastmodified":1527727162,
+    "wof:lastmodified":1563315408,
     "wof:name":"La Huaca",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

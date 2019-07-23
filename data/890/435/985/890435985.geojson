@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0627\u0646\u0627\u060c \u0628\u064a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0644\u0627\u0646\u0627"
+    ],
     "name:aym_x_preferred":[
         "Sullana"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09be\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Sullana"
     ],
     "name:dan_x_preferred":[
         "Sullana"
@@ -38,6 +44,9 @@
         "Sullana"
     ],
     "name:epo_x_preferred":[
+        "Sullana"
+    ],
+    "name:eus_x_preferred":[
         "Sullana"
     ],
     "name:fas_x_preferred":[
@@ -123,6 +132,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0ba9\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u043b\u044c\u044f\u043d\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c32\u0c4d\u0c32\u0c3e\u0c28\u0c3e"
@@ -278,7 +290,7 @@
         }
     ],
     "wof:id":890435985,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315472,
     "wof:name":"Sullana",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

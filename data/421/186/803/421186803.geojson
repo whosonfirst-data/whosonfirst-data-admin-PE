@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u062e\u064a\u0644\u0648\u060c \u0628\u064a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0631\u0648\u062e\u064a\u0644\u0648"
+    ],
     "name:aym_x_preferred":[
         "Trujillo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0440\u0443\u0445\u0456\u043b\u044c\u0451"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0440\u0443\u0445\u0456\u043b\u044c\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09cd\u09b0\u09c1\u099c\u09bf\u09b2\u09c1"
@@ -35,6 +41,9 @@
         "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e"
     ],
     "name:cat_x_preferred":[
+        "Trujillo"
+    ],
+    "name:ceb_x_preferred":[
         "Trujillo"
     ],
     "name:ces_x_preferred":[
@@ -85,6 +94,9 @@
     "name:hun_x_preferred":[
         "Trujillo"
     ],
+    "name:ina_x_preferred":[
+        "Trujillo"
+    ],
     "name:ind_x_preferred":[
         "Trujillo"
     ],
@@ -118,11 +130,17 @@
     "name:lit_x_preferred":[
         "Truchiljas"
     ],
+    "name:ltz_x_preferred":[
+        "Trujillo"
+    ],
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0941\u091c\u093f\u0932\u094d\u0932\u094b"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0438\u043b\u0458\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0422\u0440\u0443\u0445\u0438\u0459\u043e"
     ],
     "name:mri_x_preferred":[
         "Trujillo"
@@ -175,11 +193,17 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bbf\u0baf\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c30\u0c41\u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e23\u0e39\u0e08\u0e34\u0e25\u0e42\u0e25\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e23\u0e39\u0e06\u0e34\u0e42\u0e22"
     ],
     "name:tur_x_preferred":[
         "Trujillo"
@@ -189,6 +213,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0648\u062e\u06cc\u0648\u060c \u067e\u06cc\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0631\u0648\u062e\u06cc\u0648"
     ],
     "name:vie_x_preferred":[
         "Trujillo"
@@ -252,7 +279,7 @@
         }
     ],
     "wof:id":421186803,
-    "wof:lastmodified":1561777728,
+    "wof:lastmodified":1563315289,
     "wof:name":"Trujillo",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

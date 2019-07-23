@@ -15,6 +15,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cascas"
+    ],
     "name:eng_x_preferred":[
         "Cascas"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890435197,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315474,
     "wof:name":"Cascas",
     "wof:parent_id":1108693887,
     "wof:placetype":"locality",

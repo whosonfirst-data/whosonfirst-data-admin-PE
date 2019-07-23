@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Wankayu"
     ],
+    "name:aze_x_preferred":[
+        "Huankayo"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0443\u0430\u043d\u043a\u0430\u0451"
     ],
@@ -32,6 +35,9 @@
         "\u0423\u0430\u043d\u043a\u0430\u0439\u043e"
     ],
     "name:cat_x_preferred":[
+        "Huancayo"
+    ],
+    "name:ceb_x_preferred":[
         "Huancayo"
     ],
     "name:ces_x_preferred":[
@@ -50,6 +56,9 @@
         "Huancayo"
     ],
     "name:epo_x_preferred":[
+        "Huancayo"
+    ],
+    "name:eus_x_preferred":[
         "Huancayo"
     ],
     "name:fas_x_preferred":[
@@ -75,6 +84,9 @@
     ],
     "name:hun_x_preferred":[
         "Huancayo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0561\u0576\u056f\u0561\u0575\u0578"
     ],
     "name:ind_x_preferred":[
         "Huancayo"
@@ -103,6 +115,9 @@
     "name:lit_x_preferred":[
         "Huankajus"
     ],
+    "name:lit_x_variant":[
+        "Huankajas"
+    ],
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0902\u0915\u0947\u092f\u094b"
     ],
@@ -130,6 +145,9 @@
     "name:que_x_preferred":[
         "Wankayu"
     ],
+    "name:que_x_variant":[
+        "Wankayuq"
+    ],
     "name:ron_x_preferred":[
         "Huancayo"
     ],
@@ -148,11 +166,17 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0bbe\u0baf\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043d\u043a\u0430\u0439\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c2f\u0c3e\u0c02\u0c15\u0c3e\u0c2f\u0c4b"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e27\u0e07\u0e44\u0e01\u0e22\u0e4c\u0e42\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e42\u0e22"
     ],
     "name:tur_x_preferred":[
         "Huancayo"
@@ -307,7 +331,7 @@
         }
     ],
     "wof:id":890442211,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315436,
     "wof:name":"Huancayo",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

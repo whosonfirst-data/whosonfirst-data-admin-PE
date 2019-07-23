@@ -17,6 +17,9 @@
     "name:aym_x_preferred":[
         "Kawalluqucha"
     ],
+    "name:ceb_x_preferred":[
+        "Caballococha"
+    ],
     "name:eng_x_preferred":[
         "Caballococha"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1141907059,
-    "wof:lastmodified":1561777869,
+    "wof:lastmodified":1563317752,
     "wof:name":"Caballococha",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

@@ -15,6 +15,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Atuncolla"
+    ],
+    "name:eng_x_preferred":[
+        "Atuncolla District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10e3\u10dc\u10d9\u10dd\u10da\u10d8\u10d0\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Atuncolla District"
+    ],
+    "name:por_x_preferred":[
+        "Atuncolla"
+    ],
+    "name:que_x_preferred":[
+        "Hatunqulla distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u901a\u79d1\u5229\u4e9e\u5340"
+    ],
     "qs:name":"Atuncolla",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":890445227,
-    "wof:lastmodified":1534379395,
+    "wof:lastmodified":1563315443,
     "wof:name":"Atuncolla",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

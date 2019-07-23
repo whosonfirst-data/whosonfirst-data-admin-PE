@@ -25,6 +25,9 @@
     "name:bar_x_preferred":[
         "Juli"
     ],
+    "name:ceb_x_preferred":[
+        "Juli"
+    ],
     "name:deu_x_preferred":[
         "Juli"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421205201,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315243,
     "wof:name":"Juli",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

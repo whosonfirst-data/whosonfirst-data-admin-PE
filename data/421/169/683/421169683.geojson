@@ -22,10 +22,19 @@
     "name:cat_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:ceb_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:cym_x_preferred":[
+        "Concepci\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:eng_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:eus_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:fra_x_preferred":[
@@ -43,8 +52,14 @@
     "name:oci_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n"
+    ],
     "name:que_x_preferred":[
         "Kunsipsyun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "Concepci\u00f3n"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421169683,
-    "wof:lastmodified":1561777722,
+    "wof:lastmodified":1563315227,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

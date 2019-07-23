@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Cajamarca"
     ],
+    "name:ceb_x_preferred":[
+        "Cajamarca"
+    ],
     "name:ces_x_preferred":[
         "Cajamarca"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05d9\u05d0\u05de\u05d0\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d7\u05d0\u05de\u05e8\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0939\u093e\u092e\u0930\u0915\u093e"
@@ -166,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e2e\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e06\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Cajamarca"
@@ -331,7 +340,7 @@
         }
     ],
     "wof:id":421176505,
-    "wof:lastmodified":1561777739,
+    "wof:lastmodified":1563315376,
     "wof:name":"Cajamarca",
     "wof:parent_id":421172423,
     "wof:placetype":"locality",

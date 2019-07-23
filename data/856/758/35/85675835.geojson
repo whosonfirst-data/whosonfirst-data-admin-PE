@@ -59,6 +59,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Apur\u00edmac"
     ],
+    "name:ceb_x_preferred":[
+        "Apurimac"
+    ],
     "name:ces_x_preferred":[
         "Apur\u00edmac"
     ],
@@ -77,8 +80,14 @@
     "name:eng_x_preferred":[
         "Apurimac"
     ],
+    "name:eng_x_variant":[
+        "Apur\u00edmac"
+    ],
     "name:epo_x_preferred":[
         "Regiono Apurimako"
+    ],
+    "name:epo_x_variant":[
+        "Apurimaka Regiono"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0627\u067e\u0648\u0631\u06cc\u0645\u0627\u06a9"
@@ -88,6 +97,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion d'Apur\u00edmac"
+    ],
+    "name:fra_x_variant":[
+        "Apur\u00edmac"
     ],
     "name:gle_x_preferred":[
         "Apur\u00edmac"
@@ -110,6 +122,9 @@
     "name:ita_x_preferred":[
         "regione di Apur\u00edmac"
     ],
+    "name:ita_x_variant":[
+        "Apur\u00edmac"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d7\u30ea\u30de\u30af\u770c"
     ],
@@ -121,6 +136,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ud478\ub9ac\ub9c9 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud478\ub9ac\ub9c9\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Apur\u00edmac"
     ],
     "name:lat_x_preferred":[
         "Regio Apurimensis"
@@ -164,6 +185,9 @@
     "name:que_x_preferred":[
         "Apurimaq Suyu"
     ],
+    "name:que_x_variant":[
+        "Apurimaq suyu"
+    ],
     "name:ron_x_preferred":[
         "Apur\u00edmac"
     ],
@@ -193,6 +217,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e32\u0e1b\u0e39\u0e23\u0e35\u0e21\u0e31\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e32\u0e1b\u0e39\u0e23\u0e34\u0e21\u0e31\u0e01"
     ],
     "name:tur_x_preferred":[
         "Apur\u00edmac B\u00f6lgesi"
@@ -337,7 +364,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561777514,
+    "wof:lastmodified":1563311178,
     "wof:name":"Apurimac",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

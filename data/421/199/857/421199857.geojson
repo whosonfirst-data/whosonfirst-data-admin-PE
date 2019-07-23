@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Monsef\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Monsef\u00fa"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:spa_x_preferred":[
         "Monsef\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u585e\u5bcc"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421199857,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1563315331,
     "wof:name":"Monsef\u00fa",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

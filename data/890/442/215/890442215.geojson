@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u062a\u0634\u0648\u0633\u064a\u0643\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Chosica"
+    ],
     "name:eng_x_preferred":[
         "Chosica"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890442215,
-    "wof:lastmodified":1561777744,
+    "wof:lastmodified":1563315441,
     "wof:name":"Chosica",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

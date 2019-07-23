@@ -31,14 +31,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Oxapampa"
+    ],
     "name:eng_x_preferred":[
         "Oxapampa"
     ],
     "name:eng_x_variant":[
+        "Oxapampa Province"
+    ],
+    "name:fra_x_preferred":[
         "Oxapampa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10d0\u10de\u10d0\u10db\u10de\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Oxapampa S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Oxapampa"
+    ],
+    "name:por_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:que_x_preferred":[
+        "Uqshapampa pruwinsya"
     ],
     "name:unk_x_variant":[
         "Provincia de Oxapampa"
+    ],
+    "name:vie_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:war_x_preferred":[
+        "Oxapampa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10e1\u10d0\u10de\u10d0\u10db\u10de\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u85a9\u6f58\u5e15\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +140,7 @@
         }
     ],
     "wof:id":421175175,
-    "wof:lastmodified":1553717357,
+    "wof:lastmodified":1563315316,
     "wof:name":"Oxapampa",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

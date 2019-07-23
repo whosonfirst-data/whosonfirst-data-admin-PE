@@ -17,17 +17,29 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0643\u0627\u060c \u0628\u064a\u0631\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0643\u0627"
+    ],
     "name:aym_x_preferred":[
         "Ika"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0406\u043a\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u0995\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0418\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ica"
+    ],
+    "name:ceb_x_preferred":[
+        "Ica"
     ],
     "name:ces_x_preferred":[
         "Ica"
@@ -47,8 +59,14 @@
     "name:epo_x_preferred":[
         "Ica"
     ],
+    "name:eus_x_preferred":[
+        "Ica"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u06a9\u0627\u060c \u067e\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u06a9\u0627"
     ],
     "name:fin_x_preferred":[
         "Ica"
@@ -143,6 +161,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0b95\u0bcd\u0b95\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u043a\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c15\u0c3e"
     ],
@@ -157,6 +178,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627\u060c \u067e\u06cc\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
         "Ica"
@@ -311,7 +335,7 @@
         }
     ],
     "wof:id":421186795,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315296,
     "wof:name":"Ica",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -35,10 +35,19 @@
         "Pacasmayo"
     ],
     "name:eng_x_variant":[
+        "Pacasmayo District"
+    ],
+    "name:por_x_preferred":[
         "Pacasmayo"
+    ],
+    "name:que_x_preferred":[
+        "Pakasmayu distritu"
     ],
     "name:unk_x_variant":[
         "Provincia de Pacasmayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5361\u65af\u99ac\u7d04\u5340"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421194455,
-    "wof:lastmodified":1553717530,
+    "wof:lastmodified":1563315212,
     "wof:name":"Pacasmayo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

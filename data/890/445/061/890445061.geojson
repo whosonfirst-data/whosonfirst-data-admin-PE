@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0644\u0648\u0643\u0627\u0646\u0627\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Chulucanas"
+    ],
     "name:deu_x_preferred":[
         "Chulucanas"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043b\u0443\u043a\u0430\u043d\u0430\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0443\u043b\u0443\u043a\u0430\u043d\u0430\u0441"
     ],
     "name:spa_x_preferred":[
         "Chulucanas"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":890445061,
-    "wof:lastmodified":1561777746,
+    "wof:lastmodified":1563315458,
     "wof:name":"Chulucanas",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

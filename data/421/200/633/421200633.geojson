@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0643\u0627\u062a\u0634\u064a\u0646\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Huacachina"
+    ],
     "name:ces_x_preferred":[
         "Huacachina"
     ],
@@ -41,6 +44,9 @@
         "\u0540\u0561\u0578\u0582\u056f\u0561\u0579\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
+        "Huacachina"
+    ],
+    "name:jav_x_preferred":[
         "Huacachina"
     ],
     "name:jpn_x_preferred":[
@@ -84,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0430\u043a\u0430\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u0430\u043a\u0430\u0447\u0456\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Laguna Huacachina"
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":421200633,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1563315333,
     "wof:name":"Huacachina",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

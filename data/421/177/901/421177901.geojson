@@ -16,6 +16,9 @@
     "name:aym_x_preferred":[
         "Uyutun jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Oyot\u00fan"
+    ],
     "name:eng_x_preferred":[
         "Oyot\u00fan"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Oyot\u00fan"
+    ],
+    "name:spa_x_variant":[
+        "Oyot\u00fan"
     ],
     "name:unk_x_variant":[
         "Oyont\u00fan"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421177901,
-    "wof:lastmodified":1527716476,
+    "wof:lastmodified":1563315359,
     "wof:name":"Oyot\u00fan",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

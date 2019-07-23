@@ -15,6 +15,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0627\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Pucar\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Pukara"
+    ],
+    "name:fra_x_preferred":[
+        "Pucar\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Pucar\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Pucar\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6ce2\u7d22\u963f"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u5361\u62c9"
+    ],
     "qs:name":"Pucara",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":890441993,
-    "wof:lastmodified":1527727231,
+    "wof:lastmodified":1563315416,
     "wof:name":"Pucara",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

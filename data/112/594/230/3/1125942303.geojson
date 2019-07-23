@@ -25,6 +25,9 @@
     "name:aym_x_preferred":[
         "Illawi"
     ],
+    "name:ceb_x_preferred":[
+        "Ilave"
+    ],
     "name:eng_x_preferred":[
         "Ilave"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125942303,
-    "wof:lastmodified":1561777747,
+    "wof:lastmodified":1563315481,
     "wof:name":"Ilave",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

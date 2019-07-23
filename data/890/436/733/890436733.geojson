@@ -15,6 +15,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soritor"
+    ],
+    "name:eng_x_preferred":[
+        "Soritor District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e0\u10d8\u10e2\u10dd\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Soritor"
+    ],
+    "name:que_x_preferred":[
+        "Soritor distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u91cc\u6258\u723e\u5340"
+    ],
     "qs:name":"Soritor",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":890436733,
-    "wof:lastmodified":1527735403,
+    "wof:lastmodified":1563315425,
     "wof:name":"Soritor",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

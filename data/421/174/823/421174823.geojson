@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Supe"
+    ],
     "name:eng_x_preferred":[
         "Supe"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421174823,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315244,
     "wof:name":"Puerto Supe",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

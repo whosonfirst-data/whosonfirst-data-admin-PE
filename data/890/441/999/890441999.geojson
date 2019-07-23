@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Lampa"
     ],
+    "name:ceb_x_preferred":[
+        "Lampa"
+    ],
     "name:eng_x_preferred":[
         "Lampa"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890441999,
-    "wof:lastmodified":1561777741,
+    "wof:lastmodified":1563315410,
     "wof:name":"Lampa",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

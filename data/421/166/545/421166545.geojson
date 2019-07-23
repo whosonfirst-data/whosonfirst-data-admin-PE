@@ -16,11 +16,20 @@
     "name:aym_x_preferred":[
         "Suqawaya jisk'a t'aqa suyu"
     ],
+    "name:eng_x_preferred":[
+        "Socabaya District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Socabaya"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10d9\u10d0\u10d1\u10d0\u10d8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Socabaya District"
+    ],
+    "name:nob_x_preferred":[
+        "Socabaya"
     ],
     "name:nor_x_preferred":[
         "Socabaya"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":421166545,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1563315202,
     "wof:name":"Socabaya",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

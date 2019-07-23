@@ -19,6 +19,9 @@
     "name:bpy_x_preferred":[
         "\u099f\u09be\u09ac\u09be\u099f\u09bf\u0999\u09cd\u0997\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Tabatinga"
+    ],
     "name:deu_x_preferred":[
         "Tabatinga"
     ],
@@ -88,6 +91,9 @@
     "name:swe_x_preferred":[
         "Tabatinga"
     ],
+    "name:vie_x_preferred":[
+        "Tabatinga"
+    ],
     "name:vol_x_preferred":[
         "Tabatinga"
     ],
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421186057,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315302,
     "wof:name":"Tabatinga",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

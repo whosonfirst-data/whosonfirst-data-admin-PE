@@ -15,6 +15,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u0641\u0631\u0632 \u0627\u0641\u200c\u0627\u06cc\u200c\u067e\u06cc \u0627\u0644\u0641\u0631\u062f\u0648 \u0648\u0644\u0627\u06cc\u062f\u0645\u06cc\u0631 \u0633\u0627\u0631\u0627 \u0628\u0627\u0648\u0631"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d5\u30a7\u30ec\u30b9\u30fbFAP\u30fb\u30a2\u30eb\u30d5\u30ec\u30c9\u30fb\u30a6\u30e9\u30b8\u30fc\u30df\u30eb\u30fb\u30b5\u30e9\u30fb\u30d0\u30a6\u30a2\u30fc\u7a7a\u6e2f"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Alf. FAP Alfredo Vladimir Sara Bauer"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102552515,
-    "wof:lastmodified":1560314362,
+    "wof:lastmodified":1563310342,
     "wof:name":"Andoas Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

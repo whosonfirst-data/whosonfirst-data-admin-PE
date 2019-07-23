@@ -16,7 +16,13 @@
     "name:deu_x_preferred":[
         "Huanchaco"
     ],
+    "name:eng_x_preferred":[
+        "Huanchaco"
+    ],
     "name:fra_x_preferred":[
+        "Huanchaco"
+    ],
+    "name:nld_x_preferred":[
         "Huanchaco"
     ],
     "name:que_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421192231,
-    "wof:lastmodified":1527716114,
+    "wof:lastmodified":1563315208,
     "wof:name":"Huanchaco",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

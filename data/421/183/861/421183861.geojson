@@ -37,11 +37,14 @@
     "name:aym_x_preferred":[
         "Wankani jisk'a suyu"
     ],
+    "name:cat_x_preferred":[
+        "Huancan\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Huancane"
     ],
     "name:eng_x_variant":[
-        "Huancane"
+        "Huancan\u00e9 Province"
     ],
     "name:fra_x_preferred":[
         "Province de Huancan\u00e9"
@@ -54,6 +57,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10d0\u10dc\u10d9\u10d0\u10dc\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10d0\u10dc\u10d9\u10d0\u10dc\u10d4"
+    ],
+    "name:nan_x_preferred":[
+        "Huancan\u00e9 S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Huancan\u00e9"
@@ -78,6 +87,15 @@
     ],
     "name:vie_x_preferred":[
         "Huancane"
+    ],
+    "name:war_x_preferred":[
+        "Huancan\u00e9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10d9\u10d0\u10dc\u10d4"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u5361\u5167\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1561777737,
+    "wof:lastmodified":1563315367,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

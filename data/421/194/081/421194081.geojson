@@ -31,14 +31,62 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Huanta"
+    ],
     "name:eng_x_preferred":[
         "Huanta"
     ],
     "name:eng_x_variant":[
+        "Huanta Province"
+    ],
+    "name:fra_x_preferred":[
+        "Huanta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a2\u30f3\u30bf\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10e2\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Uantos provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Huanta S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Huanta"
+    ],
+    "name:nob_x_preferred":[
+        "Huanta"
+    ],
+    "name:por_x_preferred":[
+        "Huanta"
+    ],
+    "name:que_x_preferred":[
+        "Wanta pruwinsya"
+    ],
+    "name:ron_x_preferred":[
+        "Huanta"
+    ],
+    "name:spa_x_preferred":[
         "Huanta"
     ],
     "name:unk_x_variant":[
         "Provincia de Huanta"
+    ],
+    "name:vie_x_preferred":[
+        "Huanta"
+    ],
+    "name:war_x_preferred":[
+        "Huanta"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10e2\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u5854\u7701"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -101,7 +149,7 @@
         }
     ],
     "wof:id":421194081,
-    "wof:lastmodified":1553717526,
+    "wof:lastmodified":1563315214,
     "wof:name":"Huanta",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

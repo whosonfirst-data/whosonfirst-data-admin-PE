@@ -15,6 +15,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zarumilla"
+    ],
     "name:eng_x_preferred":[
         "Zarumilla"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890441585,
-    "wof:lastmodified":1561777741,
+    "wof:lastmodified":1563315416,
     "wof:name":"Zarumilla",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",

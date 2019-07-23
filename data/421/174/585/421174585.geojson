@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Wanta"
     ],
+    "name:ceb_x_preferred":[
+        "Huanta"
+    ],
     "name:deu_x_preferred":[
         "Huanta"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:lit_x_preferred":[
         "Huanta"
+    ],
+    "name:lit_x_variant":[
+        "Uanta"
     ],
     "name:nld_x_preferred":[
         "Huanta"
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":421174585,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1563315246,
     "wof:name":"Huanta",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

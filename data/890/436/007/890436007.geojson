@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "Pampamarka"
     ],
+    "name:eng_x_preferred":[
+        "Bambamarca District"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Bambamarca"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890436007,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1563315423,
     "wof:name":"Bambamarca",
     "wof:parent_id":1108693979,
     "wof:placetype":"locality",

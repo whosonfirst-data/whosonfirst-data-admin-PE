@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Sikuwani"
     ],
+    "name:ceb_x_preferred":[
+        "Sicuani"
+    ],
     "name:deu_x_preferred":[
         "Sicuani"
     ],
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890442185,
-    "wof:lastmodified":1561777744,
+    "wof:lastmodified":1563315442,
     "wof:name":"Sicuani",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

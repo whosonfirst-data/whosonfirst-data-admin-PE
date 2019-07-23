@@ -24,15 +24,49 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:aym_x_preferred":[
+        "San Borja jisk'a t'aqa suyu"
+    ],
+    "name:cat_x_preferred":[
+        "San Borja"
+    ],
+    "name:ceb_x_preferred":[
+        "San Borja"
+    ],
+    "name:eng_x_preferred":[
+        "San Borja"
+    ],
+    "name:fra_x_preferred":[
+        "San Borja"
+    ],
+    "name:ita_x_preferred":[
+        "San Borja"
+    ],
+    "name:nld_x_preferred":[
+        "San Borja"
+    ],
+    "name:por_x_preferred":[
+        "San Borja"
+    ],
+    "name:que_x_preferred":[
+        "San Borja distritu"
+    ],
     "name:spa_x_preferred":[
         "San Borja Norte"
     ],
     "name:spa_x_variant":[
         "S Borja Norte",
-        "S. Borja Norte"
+        "S. Borja Norte",
+        "San Borja"
+    ],
+    "name:swe_x_preferred":[
+        "San Borja"
     ],
     "name:unk_x_variant":[
         "San Borja Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u535a\u723e\u54c8\u5340"
     ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_id":0,
@@ -65,11 +99,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wk:wordcount":2014,
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
         421186805,
-        421202549,
-        1175613121
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1560310473,
+    "wof:lastmodified":1563311162,
     "wof:name":"San Borja Norte",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

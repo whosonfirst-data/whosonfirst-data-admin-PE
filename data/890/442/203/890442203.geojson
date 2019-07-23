@@ -25,6 +25,12 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b2\u09bf\u09af\u09bc\u09be\u0995\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Juliaca"
+    ],
+    "name:ceb_x_preferred":[
+        "Juliaca"
+    ],
     "name:ces_x_preferred":[
         "Juliaca"
     ],
@@ -41,6 +47,9 @@
         "Juliaca"
     ],
     "name:epo_x_preferred":[
+        "Juliaca"
+    ],
+    "name:eus_x_preferred":[
         "Juliaca"
     ],
     "name:fas_x_preferred":[
@@ -129,6 +138,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bc2\u0bb2\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0443\u043b\u044c\u044f\u043a\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c41\u0c32\u0c3f\u0c2f\u0c3e\u0c15\u0c3e"
@@ -288,7 +300,7 @@
         }
     ],
     "wof:id":890442203,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315438,
     "wof:name":"Juliaca",
     "wof:parent_id":421167831,
     "wof:placetype":"locality",

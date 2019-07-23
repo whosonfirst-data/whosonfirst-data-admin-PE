@@ -49,6 +49,9 @@
     "name:aym_x_preferred":[
         "Lima"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Lima"
     ],
@@ -85,6 +88,9 @@
     "name:cdo_x_preferred":[
         "Lima"
     ],
+    "name:ceb_x_preferred":[
+        "Lima"
+    ],
     "name:ces_x_preferred":[
         "Lima"
     ],
@@ -93,6 +99,9 @@
     ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u043c\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Lima"
     ],
     "name:cym_x_preferred":[
         "Lima"
@@ -163,6 +172,9 @@
     "name:grn_x_preferred":[
         "Lima"
     ],
+    "name:gsw_x_preferred":[
+        "Lima"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0aae\u0abe"
     ],
@@ -199,6 +211,9 @@
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u056b\u0574\u0561"
+    ],
     "name:ido_x_preferred":[
         "Lima"
     ],
@@ -224,6 +239,9 @@
         "\u30ea\u30de"
     ],
     "name:kaa_x_preferred":[
+        "Lima"
+    ],
+    "name:kab_x_preferred":[
         "Lima"
     ],
     "name:kal_x_preferred":[
@@ -263,6 +281,9 @@
         "Lima"
     ],
     "name:lav_x_preferred":[
+        "Lima"
+    ],
+    "name:lfn_x_preferred":[
         "Lima"
     ],
     "name:lij_x_preferred":[
@@ -335,6 +356,9 @@
         "Lima"
     ],
     "name:oci_x_preferred":[
+        "Lima"
+    ],
+    "name:olo_x_preferred":[
         "Lima"
     ],
     "name:ori_x_preferred":[
@@ -451,6 +475,9 @@
     "name:tur_x_preferred":[
         "Lima"
     ],
+    "name:udm_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
+    ],
     "name:uig_x_preferred":[
         "\u0644\u0649\u0645\u0627"
     ],
@@ -480,6 +507,9 @@
     ],
     "name:war_x_preferred":[
         "Lima"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u9a6c"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d8\u10db\u10d0"
@@ -550,7 +580,7 @@
         }
     ],
     "wof:id":421186805,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1563315294,
     "wof:name":"Lima",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

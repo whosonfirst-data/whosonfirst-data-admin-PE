@@ -15,11 +15,29 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Picsi"
+    ],
+    "name:eng_x_preferred":[
+        "Picsi District"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10d9\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Picsi"
+    ],
+    "name:que_x_preferred":[
+        "Piksi distritu"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043a\u0441\u0438"
     ],
     "name:unk_x_variant":[
         "Pixi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u514b\u897f\u5340"
     ],
     "qs:name":"Picsi",
     "qs:photos_9r":0,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":890453983,
-    "wof:lastmodified":1527736641,
+    "wof:lastmodified":1563315431,
     "wof:name":"Picsi",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

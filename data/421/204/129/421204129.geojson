@@ -16,11 +16,20 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Pisac"
+    ],
     "name:deu_x_preferred":[
         "Pisac"
     ],
+    "name:eng_x_preferred":[
+        "P\u00edsac"
+    ],
     "name:epo_x_preferred":[
         "Pisak"
+    ],
+    "name:fin_x_preferred":[
+        "P'isaq"
     ],
     "name:fra_x_preferred":[
         "P\u00edsac"
@@ -31,6 +40,9 @@
     "name:ita_x_preferred":[
         "P\u00edsac"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30b5\u30c3\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e1\u10d0\u10d9\u10d8"
     ],
@@ -40,8 +52,38 @@
     "name:nld_x_preferred":[
         "P\u00edsac"
     ],
+    "name:pol_x_preferred":[
+        "P\u00edsac"
+    ],
+    "name:por_x_preferred":[
+        "P\u00edsac"
+    ],
+    "name:que_x_preferred":[
+        "P'isaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00edsac"
+    ],
     "name:spa_x_preferred":[
         "P\u00edsac"
+    ],
+    "name:swe_x_preferred":[
+        "Pisac"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3f\u0c38\u0c15\u0c4d"
+    ],
+    "name:tur_x_preferred":[
+        "Pisac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0441\u0430\u043a"
+    ],
+    "name:yor_x_preferred":[
+        "Pisac"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -92,7 +134,7 @@
         }
     ],
     "wof:id":421204129,
-    "wof:lastmodified":1527716182,
+    "wof:lastmodified":1563315229,
     "wof:name":"Pisac",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

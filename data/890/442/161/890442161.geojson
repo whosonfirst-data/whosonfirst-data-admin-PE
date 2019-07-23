@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0423\u0430\u043c\u0430\u0447\u0443\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Huamachuco"
+    ],
     "name:deu_x_preferred":[
         "Huamachuco"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":890442161,
-    "wof:lastmodified":1561777743,
+    "wof:lastmodified":1563315435,
     "wof:name":"Huamachuco",
     "wof:parent_id":421177079,
     "wof:placetype":"locality",

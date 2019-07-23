@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u064a\u0641\u064a\u0644\u0643\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Pativilca"
+    ],
+    "name:dan_x_preferred":[
+        "Pativilca"
+    ],
     "name:eng_x_preferred":[
         "Pativilca"
     ],
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125768347,
-    "wof:lastmodified":1561777747,
+    "wof:lastmodified":1563315492,
     "wof:name":"Pativilca",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
