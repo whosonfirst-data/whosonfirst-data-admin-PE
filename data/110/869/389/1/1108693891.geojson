@@ -30,10 +30,16 @@
     "mps:longitude":-69.42926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tambopata"
+    ],
     "name:eng_x_preferred":[
         "Tambopata"
     ],
     "name:eng_x_variant":[
+        "Tambopata"
+    ],
+    "name:nld_x_preferred":[
         "Tambopata"
     ],
     "src:geom":"meso",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108693891,
-    "wof:lastmodified":1553718254,
+    "wof:lastmodified":1564165130,
     "wof:name":"Tambopata",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

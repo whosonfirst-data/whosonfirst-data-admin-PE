@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huambo"
+    ],
+    "name:spa_x_preferred":[
+        "Huambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226575375,
-    "wof:lastmodified":1537570259,
+    "wof:lastmodified":1564168337,
     "wof:name":"Huambo",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

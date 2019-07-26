@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barranco"
+    ],
+    "name:deu_x_preferred":[
+        "Barranco"
+    ],
+    "name:glg_x_preferred":[
+        "Barranco"
+    ],
+    "name:nds_x_preferred":[
+        "Barranco"
+    ],
+    "name:por_x_preferred":[
+        "Barranco"
+    ],
+    "name:spa_x_preferred":[
+        "Barranco"
+    ],
+    "name:swe_x_preferred":[
+        "Barranco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1260101783,
-    "wof:lastmodified":1536961671,
+    "wof:lastmodified":1564165048,
     "wof:name":"Barranco",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

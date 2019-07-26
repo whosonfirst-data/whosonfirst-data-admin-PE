@@ -30,11 +30,35 @@
     "mps:longitude":-72.803823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Antabamba"
+    ],
     "name:eng_x_preferred":[
         "Antabamba"
     ],
     "name:eng_x_variant":[
         "Antabamba"
+    ],
+    "name:glg_x_preferred":[
+        "Antabamba"
+    ],
+    "name:ita_x_preferred":[
+        "Antabamba"
+    ],
+    "name:por_x_preferred":[
+        "Antabamba"
+    ],
+    "name:que_x_preferred":[
+        "Antapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Antabamba"
+    ],
+    "name:war_x_preferred":[
+        "Antabamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5854\u73ed\u5df4"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1108693909,
-    "wof:lastmodified":1553718251,
+    "wof:lastmodified":1564165120,
     "wof:name":"Antabamba",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

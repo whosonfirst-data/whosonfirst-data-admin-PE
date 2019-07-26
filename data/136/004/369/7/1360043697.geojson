@@ -27,8 +27,17 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bermudez"
+    ],
     "name:spa_x_preferred":[
         "Berm\u00fadez"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u043c\u0443\u0434\u0435\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Bermudez"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360043697,
-    "wof:lastmodified":1537676939,
+    "wof:lastmodified":1564165970,
     "wof:name":"Bermudez",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

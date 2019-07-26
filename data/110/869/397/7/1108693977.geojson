@@ -36,6 +36,21 @@
     "name:eng_x_variant":[
         "Cutervo"
     ],
+    "name:fra_x_preferred":[
+        "Cutervo"
+    ],
+    "name:que_x_preferred":[
+        "Cutervo"
+    ],
+    "name:spa_x_preferred":[
+        "Cutervo"
+    ],
+    "name:war_x_preferred":[
+        "Cutervo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u7279\u723e\u6c83"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1108693977,
-    "wof:lastmodified":1553718260,
+    "wof:lastmodified":1564165118,
     "wof:name":"Cutervo",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

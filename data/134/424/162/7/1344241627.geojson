@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Paco"
+    ],
     "name:und_x_variant":[
         "Paco Hacienda",
         "Paco"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344241627,
-    "wof:lastmodified":1537676741,
+    "wof:lastmodified":1564161278,
     "wof:name":"Paco",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

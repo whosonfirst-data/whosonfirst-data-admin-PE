@@ -31,6 +31,9 @@
     "name:por_x_preferred":[
         "Lince"
     ],
+    "name:que_x_preferred":[
+        "Lince"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u044b\u0441\u044c"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421179891,
-    "wof:lastmodified":1560310174,
+    "wof:lastmodified":1564166368,
     "wof:name":"Lince",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

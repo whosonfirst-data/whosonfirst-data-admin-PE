@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "\u00cdllimo"
+    ],
     "name:und_x_variant":[
         "\u00cdllimo"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360155245,
-    "wof:lastmodified":1537676601,
+    "wof:lastmodified":1564165742,
     "wof:name":"Illimo",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

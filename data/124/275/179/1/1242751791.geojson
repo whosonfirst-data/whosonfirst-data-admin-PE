@@ -28,6 +28,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaca"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\uce74\uc18d"
+    ],
+    "name:swe_x_preferred":[
+        "Chaca"
+    ],
     "name:und_x_variant":[
         "Estancia Chaca",
         "Chaca"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1242751791,
-    "wof:lastmodified":1537676843,
+    "wof:lastmodified":1564166612,
     "wof:name":"Chaca",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

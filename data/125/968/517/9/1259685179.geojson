@@ -26,6 +26,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Palla eh!"
+    ],
+    "name:ita_x_preferred":[
+        "Palla eh!"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259685179,
-    "wof:lastmodified":1537061806,
+    "wof:lastmodified":1564167673,
     "wof:name":"Palla",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

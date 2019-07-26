@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Los Horcones"
+    ],
+    "name:por_x_preferred":[
+        "Los horcones"
+    ],
     "name:und_x_variant":[
         "Los Horcones Hacienda",
         "Los Horcones"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243146511,
-    "wof:lastmodified":1537676589,
+    "wof:lastmodified":1564166852,
     "wof:name":"Los Horcones",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

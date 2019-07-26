@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Siwas"
+    ],
+    "name:fra_x_preferred":[
+        "Sihuas"
+    ],
+    "name:ita_x_preferred":[
+        "Sihuas"
+    ],
+    "name:lit_x_preferred":[
+        "Sihuasas"
+    ],
+    "name:por_x_preferred":[
+        "Sihuas"
+    ],
+    "name:que_x_preferred":[
+        "Siwas"
+    ],
+    "name:spa_x_preferred":[
+        "Sihuas"
+    ],
+    "name:war_x_preferred":[
+        "Sihuas"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u74e6\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1326832363,
-    "wof:lastmodified":1537570225,
+    "wof:lastmodified":1564160793,
     "wof:name":"Sihuas",
     "wof:parent_id":1108694013,
     "wof:placetype":"locality",

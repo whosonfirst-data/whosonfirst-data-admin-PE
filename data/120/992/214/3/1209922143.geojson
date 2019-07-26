@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Macna"
+    ],
+    "name:swe_x_preferred":[
+        "Macna"
+    ],
+    "name:war_x_preferred":[
+        "Macna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209922143,
-    "wof:lastmodified":1536396536,
+    "wof:lastmodified":1564164180,
     "wof:name":"Macna",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

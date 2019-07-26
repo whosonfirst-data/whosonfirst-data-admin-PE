@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Siwya"
+    ],
+    "name:spa_x_preferred":[
+        "Sivia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276225871,
-    "wof:lastmodified":1537570280,
+    "wof:lastmodified":1564163331,
     "wof:name":"Sivia",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

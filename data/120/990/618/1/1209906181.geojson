@@ -28,6 +28,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Matis"
+    ],
+    "name:hrv_x_preferred":[
+        "Mat\u00eds"
+    ],
+    "name:ita_x_preferred":[
+        "Matis"
+    ],
+    "name:por_x_preferred":[
+        "Matis"
+    ],
+    "name:spa_x_preferred":[
+        "Matis"
+    ],
     "name:und_x_variant":[
         "Mates Hacienda",
         "Matis"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209906181,
-    "wof:lastmodified":1537676755,
+    "wof:lastmodified":1564163882,
     "wof:name":"Matis",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

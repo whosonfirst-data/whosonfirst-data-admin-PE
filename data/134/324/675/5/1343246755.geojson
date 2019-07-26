@@ -31,17 +31,44 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u043a\u0435\u043a\u0438\u0440\u0430\u043e"
     ],
+    "name:dan_x_preferred":[
+        "Choquequirau"
+    ],
+    "name:deu_x_preferred":[
+        "Choquequirao"
+    ],
+    "name:fra_x_preferred":[
+        "Choquequirao"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e7\u05e7\u05d9\u05e8\u05d0\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Choquequirao"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10dd\u10d9\u10d4\u10d9\u10d8\u10e0\u10d0\u10dd"
     ],
     "name:mkd_x_preferred":[
         "\u0427\u043e\u043a\u0435\u043a\u0438\u0440\u0430\u043e"
     ],
+    "name:por_x_preferred":[
+        "Choquequirao"
+    ],
     "name:que_x_preferred":[
         "Chuqikiraw"
     ],
+    "name:que_x_variant":[
+        "Chuqik'iraw"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u043a\u0435\u043a\u0438\u0440\u0430\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Choquequirao"
+    ],
+    "name:swe_x_preferred":[
+        "Choquequirao"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043a\u0435\u043a\u0456\u0440\u0430\u043e"
@@ -50,6 +77,9 @@
         "Choqquequirau",
         "Choquequirau",
         "Choquequirao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u6606\u4e18\u62c9\u57ce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +105,7 @@
         }
     ],
     "wof:id":1343246755,
-    "wof:lastmodified":1537676830,
+    "wof:lastmodified":1564161370,
     "wof:name":"Choquequirao",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

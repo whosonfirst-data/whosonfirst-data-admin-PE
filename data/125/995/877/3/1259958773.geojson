@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicl\u00edn"
+    ],
     "name:und_x_variant":[
         "Hacienda Chiclin",
         "Chiclir",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259958773,
-    "wof:lastmodified":1537676629,
+    "wof:lastmodified":1564167693,
     "wof:name":"Chiclin",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

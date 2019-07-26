@@ -28,6 +28,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:deu_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:spa_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:swe_x_preferred":[
+        "La Puntilla"
+    ],
     "name:und_x_variant":[
         "Puntilla",
         "La Puntilla"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242677535,
-    "wof:lastmodified":1537676718,
+    "wof:lastmodified":1564166704,
     "wof:name":"La Puntilla",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

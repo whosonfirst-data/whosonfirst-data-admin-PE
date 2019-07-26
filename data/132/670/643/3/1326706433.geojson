@@ -26,6 +26,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Madama"
+    ],
+    "name:fin_x_preferred":[
+        "Madama"
+    ],
+    "name:fra_x_preferred":[
+        "Madama"
+    ],
     "name:spa_x_preferred":[
         "Madama"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326706433,
-    "wof:lastmodified":1537676993,
+    "wof:lastmodified":1564160765,
     "wof:name":"Madama",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

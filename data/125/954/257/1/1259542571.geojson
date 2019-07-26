@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gigante"
+    ],
+    "name:deu_x_preferred":[
+        "Gigante"
+    ],
+    "name:fra_x_preferred":[
+        "Gigante"
+    ],
+    "name:ita_x_preferred":[
+        "Gigante"
+    ],
+    "name:nld_x_preferred":[
+        "Gigante"
+    ],
+    "name:por_x_preferred":[
+        "Gigante"
+    ],
+    "name:spa_x_preferred":[
+        "Gigante"
+    ],
+    "name:swe_x_preferred":[
+        "Gigante"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0438\u0433\u0430\u043d\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Hacienda Gigante",
         "Gigante Hacienda",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1259542571,
-    "wof:lastmodified":1537676610,
+    "wof:lastmodified":1564167380,
     "wof:name":"Gigante",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

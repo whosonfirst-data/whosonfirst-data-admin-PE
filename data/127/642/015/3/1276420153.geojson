@@ -30,6 +30,12 @@
     "name:spa_x_preferred":[
         "Alto San Juan"
     ],
+    "name:spa_x_variant":[
+        "Cerro Alto San Juan"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6258\u8056\u80e1\u5b89\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276420153,
-    "wof:lastmodified":1537676904,
+    "wof:lastmodified":1564162955,
     "wof:name":"Alto San Juan",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carpas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309724591,
-    "wof:lastmodified":1537046177,
+    "wof:lastmodified":1564166286,
     "wof:name":"Carpa",
     "wof:parent_id":421202211,
     "wof:placetype":"locality",

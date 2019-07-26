@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ocopa"
+    ],
+    "name:fra_x_preferred":[
+        "Ocopa"
+    ],
+    "name:ita_x_preferred":[
+        "Ocopa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b3\u30d1"
+    ],
+    "name:spa_x_preferred":[
+        "Ocopa"
+    ],
+    "name:swe_x_preferred":[
+        "Ocopa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209819849,
-    "wof:lastmodified":1536379928,
+    "wof:lastmodified":1564164508,
     "wof:name":"Ocopa",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

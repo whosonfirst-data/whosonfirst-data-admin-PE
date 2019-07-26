@@ -27,9 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chavinillo"
+    ],
+    "name:que_x_preferred":[
+        "Chawinillu"
+    ],
+    "name:spa_x_preferred":[
+        "Chavinillo"
+    ],
     "name:und_x_variant":[
         "Chavanillo",
         "Chavinillo"
+    ],
+    "name:war_x_preferred":[
+        "Chavinillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u7dad\u5c3c\u7d04"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360180427,
-    "wof:lastmodified":1537676630,
+    "wof:lastmodified":1564165861,
     "wof:name":"Chavinillo",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",

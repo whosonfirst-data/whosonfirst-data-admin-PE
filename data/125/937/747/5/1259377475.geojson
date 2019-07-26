@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jachin"
+    ],
+    "name:nds_x_preferred":[
+        "Jachin"
+    ],
+    "name:por_x_preferred":[
+        "Jaquim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259377475,
-    "wof:lastmodified":1537010251,
+    "wof:lastmodified":1564167440,
     "wof:name":"Jachin",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Llucha"
+    ],
+    "name:ceb_x_preferred":[
+        "Lucha"
+    ],
+    "name:deu_x_preferred":[
+        "Lucha"
+    ],
+    "name:spa_x_preferred":[
+        "Lucha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1360061917,
-    "wof:lastmodified":1536978581,
+    "wof:lastmodified":1564165824,
     "wof:name":"Lucha",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

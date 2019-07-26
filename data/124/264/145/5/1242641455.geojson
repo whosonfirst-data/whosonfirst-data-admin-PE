@@ -26,8 +26,23 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:ita_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:que_x_preferred":[
+        "Wankapampa"
+    ],
     "name:spa_x_preferred":[
         "Huancabamba"
+    ],
+    "name:war_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9b\u5361\u73ed\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242641455,
-    "wof:lastmodified":1537677007,
+    "wof:lastmodified":1564167201,
     "wof:name":"Huancabamba",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

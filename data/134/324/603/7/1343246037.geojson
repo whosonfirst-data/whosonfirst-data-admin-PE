@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Enrique"
+    ],
+    "name:deu_x_preferred":[
+        "Enrique"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0631\u06cc\u06a9\u0647"
+    ],
+    "name:spa_x_preferred":[
+        "Enrique"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u0440\u0456\u043a\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1343246037,
-    "wof:lastmodified":1537053493,
+    "wof:lastmodified":1564161377,
     "wof:name":"Enrique",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

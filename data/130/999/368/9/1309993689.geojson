@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Matias"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309993689,
-    "wof:lastmodified":1536660405,
+    "wof:lastmodified":1564166058,
     "wof:name":"Matias",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

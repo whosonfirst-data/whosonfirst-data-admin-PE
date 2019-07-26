@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Suyo"
+    ],
+    "name:ita_x_preferred":[
+        "Suyo"
+    ],
+    "name:spa_x_preferred":[
+        "Suyo"
+    ],
+    "name:tgl_x_preferred":[
+        "Suyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242742411,
-    "wof:lastmodified":1536825535,
+    "wof:lastmodified":1564166546,
     "wof:name":"Suyo",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

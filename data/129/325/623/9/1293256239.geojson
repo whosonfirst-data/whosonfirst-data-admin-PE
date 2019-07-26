@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cotana"
+    ],
+    "name:por_x_preferred":[
+        "Cotana"
+    ],
+    "name:swe_x_preferred":[
+        "Cotana"
+    ],
+    "name:war_x_preferred":[
+        "Cotana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293256239,
-    "wof:lastmodified":1536621417,
+    "wof:lastmodified":1564162302,
     "wof:name":"Cotana",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

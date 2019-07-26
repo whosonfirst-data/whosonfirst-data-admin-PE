@@ -26,6 +26,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "The Solitario"
+    ],
     "name:spa_x_preferred":[
         "Solitario"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309872117,
-    "wof:lastmodified":1537676981,
+    "wof:lastmodified":1564166217,
     "wof:name":"Solitario",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

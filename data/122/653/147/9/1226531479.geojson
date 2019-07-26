@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lucumon"
+    ],
+    "name:ita_x_preferred":[
+        "Lucumone"
+    ],
     "name:spa_x_preferred":[
         "L\u00facumo"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226531479,
-    "wof:lastmodified":1537676762,
+    "wof:lastmodified":1564168719,
     "wof:name":"Lucumo",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

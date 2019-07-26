@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Singo"
+    ],
+    "name:msa_x_preferred":[
+        "Singo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1243027267,
-    "wof:lastmodified":1536913353,
+    "wof:lastmodified":1564167046,
     "wof:name":"Singo",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

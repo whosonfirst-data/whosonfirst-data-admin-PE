@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Chachakumani"
+    ],
+    "name:deu_x_preferred":[
+        "Chachacomani"
+    ],
+    "name:ita_x_preferred":[
+        "Chachacomani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e9\u10d0\u10d9\u10dd\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ca\u010dakomanis"
+    ],
+    "name:por_x_preferred":[
+        "Chachacomani"
+    ],
+    "name:que_x_preferred":[
+        "Chachakumani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0447\u0430\u043a\u0443\u043c\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Chachacomani"
+    ],
+    "name:swa_x_preferred":[
+        "Chachacomani"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u67e5\u79d1\u99ac\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1242735963,
-    "wof:lastmodified":1536834764,
+    "wof:lastmodified":1564166553,
     "wof:name":"Chachacomani",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

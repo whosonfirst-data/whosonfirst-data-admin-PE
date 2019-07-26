@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chupa"
+    ],
+    "name:ita_x_preferred":[
+        "Chupa"
+    ],
+    "name:spa_x_preferred":[
+        "Chupa"
+    ],
+    "name:swe_x_preferred":[
+        "Chupa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259670649,
-    "wof:lastmodified":1537082365,
+    "wof:lastmodified":1564167744,
     "wof:name":"Chupa",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Yunkuyu"
+    ],
+    "name:ceb_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:deu_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:ita_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10dc\u10d2\u10e3\u10d8\u10dd"
+    ],
+    "name:pol_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:que_x_preferred":[
+        "Yunkuyu"
+    ],
+    "name:spa_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:war_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u53e4\u7d04"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1276954073,
-    "wof:lastmodified":1536942496,
+    "wof:lastmodified":1564163179,
     "wof:name":"Yunguyo",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

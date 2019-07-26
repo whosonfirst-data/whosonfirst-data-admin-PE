@@ -26,6 +26,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Corral Quemado"
+    ],
+    "name:por_x_preferred":[
+        "Corral Quemado"
+    ],
+    "name:spa_x_preferred":[
+        "Corral Quemado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242599249,
-    "wof:lastmodified":1537031173,
+    "wof:lastmodified":1564166658,
     "wof:name":"Corral Quemado",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
         "Occobamba",
         "Ocobamba"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u79d1\u73ed\u5df4\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293105601,
-    "wof:lastmodified":1537676746,
+    "wof:lastmodified":1564162697,
     "wof:name":"Ocobamba",
     "wof:parent_id":421194079,
     "wof:placetype":"locality",

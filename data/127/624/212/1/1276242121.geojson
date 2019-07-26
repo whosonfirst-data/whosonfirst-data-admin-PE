@@ -27,9 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:lit_x_preferred":[
+        "Chumbilija"
+    ],
+    "name:pol_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:que_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:ron_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:spa_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u043c\u0431\u0438\u0459\u0430"
+    ],
     "name:und_x_variant":[
         "Tumbilla",
         "Jumbilla"
+    ],
+    "name:war_x_preferred":[
+        "Jumbilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u6bd4\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1276242121,
-    "wof:lastmodified":1537676599,
+    "wof:lastmodified":1564163412,
     "wof:name":"Jumbilla",
     "wof:parent_id":1108694047,
     "wof:placetype":"locality",

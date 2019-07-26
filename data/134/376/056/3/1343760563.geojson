@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Lukanamarka jisk'a t'aqa suyu"
+    ],
+    "name:ceb_x_preferred":[
+        "Santiago De Lucanamarca"
+    ],
+    "name:que_x_preferred":[
+        "Lukanamarka distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5\u5fb7\u76e7\u5361\u7d0d\u99ac\u723e\u5361\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343760563,
-    "wof:lastmodified":1537570246,
+    "wof:lastmodified":1564161435,
     "wof:name":"Santiago de Lucanamarca",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",

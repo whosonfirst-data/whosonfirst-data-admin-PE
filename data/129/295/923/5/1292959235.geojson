@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Txurra ardi"
+    ],
+    "name:por_x_preferred":[
+        "Churra"
+    ],
+    "name:spa_x_preferred":[
+        "Oveja churra"
+    ],
+    "name:swe_x_preferred":[
+        "Churra"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1eebu Churra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1292959235,
-    "wof:lastmodified":1537049604,
+    "wof:lastmodified":1564162125,
     "wof:name":"Churra",
     "wof:parent_id":1108694041,
     "wof:placetype":"locality",

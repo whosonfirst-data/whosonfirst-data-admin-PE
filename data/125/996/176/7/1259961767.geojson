@@ -28,6 +28,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jeberos"
+    ],
     "name:und_x_variant":[
         "Nuestra Se\u00f1ora de la Concepc\u00edon de Jeberos",
         "Jeveros",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259961767,
-    "wof:lastmodified":1537676600,
+    "wof:lastmodified":1564167429,
     "wof:name":"Jeberos",
     "wof:parent_id":421188085,
     "wof:placetype":"locality",

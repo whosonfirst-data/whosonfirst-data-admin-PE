@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u666e\u5361\u963f\u723e\u5e15\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293173513,
-    "wof:lastmodified":1560310262,
+    "wof:lastmodified":1564162688,
     "wof:name":"Puca Allpa",
     "wof:parent_id":1108693949,
     "wof:placetype":"locality",

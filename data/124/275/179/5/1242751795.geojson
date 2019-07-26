@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chinga"
+    ],
+    "name:deu_x_preferred":[
+        "Chinga"
+    ],
+    "name:swe_x_preferred":[
+        "Chinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1242751795,
-    "wof:lastmodified":1536812304,
+    "wof:lastmodified":1564166612,
     "wof:name":"Chinga",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

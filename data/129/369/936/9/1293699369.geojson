@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rayan"
+    ],
+    "name:ita_x_preferred":[
+        "Rayyan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293699369,
-    "wof:lastmodified":1536978256,
+    "wof:lastmodified":1564162379,
     "wof:name":"Rayan",
     "wof:parent_id":421187867,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ina_x_preferred":[
+        "Media Luna"
+    ],
+    "name:por_x_preferred":[
+        "Media Luna"
+    ],
     "name:spa_x_preferred":[
         "Media Luna"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1292959469,
-    "wof:lastmodified":1537677010,
+    "wof:lastmodified":1564162120,
     "wof:name":"Media Luna",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

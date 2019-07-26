@@ -32,6 +32,9 @@
     "name:spa_x_variant":[
         "Huayrurur\u00f3"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u9b6f\u9b6f\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243136191,
-    "wof:lastmodified":1537677005,
+    "wof:lastmodified":1564166831,
     "wof:name":"Huayruruni",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

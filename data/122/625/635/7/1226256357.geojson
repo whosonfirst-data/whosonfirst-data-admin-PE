@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lamud"
+    ],
+    "name:lit_x_preferred":[
+        "Lamudas"
+    ],
+    "name:pol_x_preferred":[
+        "Lamud"
+    ],
+    "name:por_x_preferred":[
+        "Lamud"
+    ],
+    "name:que_x_preferred":[
+        "Lamud"
+    ],
+    "name:ron_x_preferred":[
+        "Lamud"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0443\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e1mud"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u043c\u0443\u0434"
+    ],
+    "name:war_x_preferred":[
+        "Lamud"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7a46\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1226256357,
-    "wof:lastmodified":1537570232,
+    "wof:lastmodified":1564168442,
     "wof:name":"Lamud",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

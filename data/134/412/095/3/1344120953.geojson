@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khasani"
+    ],
+    "name:spa_x_preferred":[
+        "Kasani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344120953,
-    "wof:lastmodified":1537570257,
+    "wof:lastmodified":1564161267,
     "wof:name":"Kasani",
     "wof:parent_id":421198073,
     "wof:placetype":"locality",

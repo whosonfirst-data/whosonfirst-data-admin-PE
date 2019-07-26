@@ -26,8 +26,23 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fortin"
+    ],
+    "name:eus_x_preferred":[
+        "Fort\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Fortin"
+    ],
+    "name:ita_x_preferred":[
+        "Fortin"
+    ],
     "name:spa_x_preferred":[
         "Fortin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u043e\u0440\u0442\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276726085,
-    "wof:lastmodified":1537677000,
+    "wof:lastmodified":1564162867,
     "wof:name":"Fortin",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

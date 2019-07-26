@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Putina"
+    ],
+    "name:que_x_preferred":[
+        "Putina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Putina"
+    ],
+    "name:war_x_preferred":[
+        "Putina"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u8482\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1310575031,
-    "wof:lastmodified":1537570249,
+    "wof:lastmodified":1564165608,
     "wof:name":"Putina",
     "wof:parent_id":1108693921,
     "wof:placetype":"locality",

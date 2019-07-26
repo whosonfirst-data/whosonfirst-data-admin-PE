@@ -27,7 +27,19 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Colorada"
+    ],
+    "name:deu_x_preferred":[
+        "La Colorada"
+    ],
+    "name:ita_x_preferred":[
+        "La Colorada"
+    ],
     "name:spa_x_preferred":[
+        "La Colorada"
+    ],
+    "name:swe_x_preferred":[
         "La Colorada"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1225828353,
-    "wof:lastmodified":1537676947,
+    "wof:lastmodified":1564168772,
     "wof:name":"La Colorada",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

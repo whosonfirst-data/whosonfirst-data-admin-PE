@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "Hacienda Yanama"
     ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u7d0d\u99ac\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327034413,
-    "wof:lastmodified":1537676917,
+    "wof:lastmodified":1564160675,
     "wof:name":"Yanama",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

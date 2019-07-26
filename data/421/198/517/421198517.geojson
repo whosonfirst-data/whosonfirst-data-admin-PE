@@ -16,6 +16,9 @@
     "name:als_x_preferred":[
         "Colla"
     ],
+    "name:ceb_x_preferred":[
+        "Colla"
+    ],
     "name:deu_x_preferred":[
         "Colla"
     ],
@@ -28,6 +31,9 @@
     "name:ita_x_preferred":[
         "Colla"
     ],
+    "name:lat_x_preferred":[
+        "Colla"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043b\u0430"
     ],
@@ -35,6 +41,9 @@
         "Colla"
     ],
     "name:srp_x_preferred":[
+        "Colla"
+    ],
+    "name:swe_x_preferred":[
         "Colla"
     ],
     "name:ukr_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421198517,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1564166350,
     "wof:name":"Colla",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

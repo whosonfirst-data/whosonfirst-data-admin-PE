@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Torno"
+    ],
+    "name:deu_x_preferred":[
+        "Torno"
+    ],
+    "name:fra_x_preferred":[
+        "Torno"
+    ],
+    "name:glg_x_preferred":[
+        "Torno"
+    ],
+    "name:ita_x_preferred":[
+        "Torno"
+    ],
+    "name:por_x_preferred":[
+        "Torno"
+    ],
+    "name:spa_x_preferred":[
+        "Torno"
+    ],
+    "name:srp_x_preferred":[
+        "Torno"
+    ],
+    "name:swe_x_preferred":[
+        "Torno"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1327205713,
-    "wof:lastmodified":1537007533,
+    "wof:lastmodified":1564161022,
     "wof:name":"Torno",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

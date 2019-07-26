@@ -27,9 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Chinchiru"
+    ],
+    "name:ceb_x_preferred":[
+        "Chinchero"
+    ],
+    "name:deu_x_preferred":[
+        "Chinchero"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10dc\u10e9\u10d4\u10e0\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u043d\u0447\u0435\u0440\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Chinchero"
+    ],
+    "name:que_x_preferred":[
+        "Chinchiru distritu"
+    ],
+    "name:swe_x_preferred":[
+        "Chinchero"
+    ],
     "name:und_x_variant":[
         "Chincheros",
         "Chinchero"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u5207\u7f85\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1327318457,
-    "wof:lastmodified":1537676834,
+    "wof:lastmodified":1564160258,
     "wof:name":"Chinchero",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

@@ -27,7 +27,28 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0648\u062a\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Nawta"
+    ],
+    "name:epo_x_preferred":[
+        "Nauta"
+    ],
+    "name:nor_x_preferred":[
+        "Nauta"
+    ],
+    "name:por_x_preferred":[
+        "Nauta"
+    ],
+    "name:que_x_preferred":[
+        "Nawta"
+    ],
     "name:spa_x_preferred":[
+        "Nauta"
+    ],
+    "name:war_x_preferred":[
         "Nauta"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1242929793,
-    "wof:lastmodified":1537676909,
+    "wof:lastmodified":1564166639,
     "wof:name":"Nauta",
     "wof:parent_id":1108693993,
     "wof:placetype":"locality",

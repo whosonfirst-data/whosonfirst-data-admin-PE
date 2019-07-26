@@ -29,6 +29,9 @@
     "name:spa_x_preferred":[
         "Yanamayo"
     ],
+    "name:spa_x_variant":[
+        "R\u00edo Yanamayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343434821,
-    "wof:lastmodified":1537677005,
+    "wof:lastmodified":1564161868,
     "wof:name":"Yanamayo",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

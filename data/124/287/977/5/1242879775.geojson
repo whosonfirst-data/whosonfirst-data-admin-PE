@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cukibamba"
+    ],
+    "name:pol_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:por_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:que_x_preferred":[
+        "Chuqipampa"
+    ],
+    "name:ron_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:spa_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:war_x_preferred":[
+        "Chuquibamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u57fa\u73ed\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1242879775,
-    "wof:lastmodified":1537570264,
+    "wof:lastmodified":1564166563,
     "wof:name":"Chuquibamba",
     "wof:parent_id":1108694027,
     "wof:placetype":"locality",

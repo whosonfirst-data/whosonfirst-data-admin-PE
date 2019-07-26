@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0628\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Borbor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0628\u0648\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Borbor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276852885,
-    "wof:lastmodified":1537074167,
+    "wof:lastmodified":1564163360,
     "wof:name":"Borbor",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

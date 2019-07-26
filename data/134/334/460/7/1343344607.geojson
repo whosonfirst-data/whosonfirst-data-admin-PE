@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Suazo"
+    ],
+    "name:ita_x_preferred":[
+        "Suazo"
+    ],
+    "name:por_x_preferred":[
+        "Suazo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0430\u0441\u043e"
+    ],
     "name:spa_x_preferred":[
         "Suazo"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343344607,
-    "wof:lastmodified":1537676950,
+    "wof:lastmodified":1564161629,
     "wof:name":"Suazo",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

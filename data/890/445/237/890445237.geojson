@@ -15,6 +15,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10db\u10de\u10d0\u10d9\u10dd\u10da\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Pampacolca"
+    ],
+    "name:que_x_preferred":[
+        "Pampaqullqa distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5e15\u79d1\u723e\u5361\u5340"
+    ],
     "qs:name":"Callanca",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":890445237,
-    "wof:lastmodified":1527792873,
+    "wof:lastmodified":1564166388,
     "wof:name":"Callanca",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

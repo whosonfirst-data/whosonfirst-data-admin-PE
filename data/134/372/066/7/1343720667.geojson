@@ -26,6 +26,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chinta"
+    ],
     "name:spa_x_preferred":[
         "Chinta"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343720667,
-    "wof:lastmodified":1537676997,
+    "wof:lastmodified":1564161855,
     "wof:name":"Chinta",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

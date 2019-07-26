@@ -27,6 +27,42 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Galicia"
+    ],
+    "name:ceb_x_preferred":[
+        "Galicia"
+    ],
+    "name:deu_x_preferred":[
+        "Galicia"
+    ],
+    "name:fin_x_preferred":[
+        "Galicia"
+    ],
+    "name:glg_x_preferred":[
+        "Galicia"
+    ],
+    "name:glv_x_preferred":[
+        "Galicia"
+    ],
+    "name:nno_x_preferred":[
+        "Galicia"
+    ],
+    "name:nor_x_preferred":[
+        "Galicia"
+    ],
+    "name:spa_x_preferred":[
+        "Galicia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0441\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Galicia"
+    ],
+    "name:tgl_x_preferred":[
+        "Galicia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1242954979,
-    "wof:lastmodified":1537016456,
+    "wof:lastmodified":1564166671,
     "wof:name":"Galicia",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

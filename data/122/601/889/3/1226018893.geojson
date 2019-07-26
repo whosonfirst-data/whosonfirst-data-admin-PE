@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chimo"
+    ],
+    "name:deu_x_preferred":[
+        "Chimo"
+    ],
+    "name:fra_x_preferred":[
+        "Chimo"
+    ],
+    "name:spa_x_preferred":[
+        "Chimo"
+    ],
+    "name:swe_x_preferred":[
+        "Chimo"
+    ],
     "name:und_x_variant":[
         "Chiimo",
         "Chimo"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226018893,
-    "wof:lastmodified":1537676835,
+    "wof:lastmodified":1564168673,
     "wof:name":"Chimo",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

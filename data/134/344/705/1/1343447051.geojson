@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jequetepeque"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343447051,
-    "wof:lastmodified":1537570233,
+    "wof:lastmodified":1564161862,
     "wof:name":"Jequetepeque",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",

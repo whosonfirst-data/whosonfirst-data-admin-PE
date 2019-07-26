@@ -28,6 +28,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Callejones"
+    ],
     "name:und_x_variant":[
         "Callejones Hacienda",
         "Callejones"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293548473,
-    "wof:lastmodified":1537676638,
+    "wof:lastmodified":1564162005,
     "wof:name":"Callejones",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

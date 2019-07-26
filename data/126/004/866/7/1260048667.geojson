@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Leche"
+    ],
+    "name:spa_x_preferred":[
+        "Leche"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1260048667,
-    "wof:lastmodified":1537036738,
+    "wof:lastmodified":1564165075,
     "wof:name":"Leche",
     "wof:parent_id":421175177,
     "wof:placetype":"locality",

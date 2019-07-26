@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quinua"
+    ],
+    "name:spa_x_preferred":[
+        "Quinua"
+    ],
+    "name:swe_x_preferred":[
+        "Quinua"
+    ],
     "name:und_x_variant":[
         "Quinual",
         "Quinual Hacienda",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1344121385,
-    "wof:lastmodified":1537676559,
+    "wof:lastmodified":1564161265,
     "wof:name":"Quinua",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

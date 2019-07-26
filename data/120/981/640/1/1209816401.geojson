@@ -27,9 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Tambobamba"
+    ],
+    "name:ita_x_preferred":[
+        "Tambobamba"
+    ],
+    "name:por_x_preferred":[
+        "Tambobamba"
+    ],
+    "name:que_x_preferred":[
+        "Tampupampa"
+    ],
+    "name:spa_x_preferred":[
+        "Tambobamba"
+    ],
     "name:und_x_variant":[
         "Tampobamba",
         "Tambobamba"
+    ],
+    "name:war_x_preferred":[
+        "Tambobamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u535a\u73ed\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209816401,
-    "wof:lastmodified":1537676684,
+    "wof:lastmodified":1564164512,
     "wof:name":"Tambobamba",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

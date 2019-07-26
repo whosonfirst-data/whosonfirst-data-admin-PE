@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0627\u0628\u0645\u0628\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Khillaypampa"
+    ],
+    "name:fra_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:ita_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:pol_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:por_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:que_x_preferred":[
+        "Killapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:war_x_preferred":[
+        "Quillabamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4e9e\u73ed\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1293091063,
-    "wof:lastmodified":1537570249,
+    "wof:lastmodified":1564161974,
     "wof:name":"Quillabamba",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

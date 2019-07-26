@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nupe"
+    ],
+    "name:deu_x_preferred":[
+        "Nupe"
+    ],
+    "name:fra_x_preferred":[
+        "Nupe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1242852805,
-    "wof:lastmodified":1536667324,
+    "wof:lastmodified":1564167138,
     "wof:name":"Nupe",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

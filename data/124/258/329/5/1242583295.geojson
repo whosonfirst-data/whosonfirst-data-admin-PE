@@ -33,6 +33,9 @@
         "Tarucane",
         "Tarucani"
     ],
+    "name:zho_x_preferred":[
+        "\u5854\u9b6f\u5361\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242583295,
-    "wof:lastmodified":1537676681,
+    "wof:lastmodified":1564166738,
     "wof:name":"Tarucani",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

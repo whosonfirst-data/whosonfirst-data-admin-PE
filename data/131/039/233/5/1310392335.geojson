@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Macar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03b1\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:eus_x_preferred":[
+        "Makareo"
+    ],
+    "name:fin_x_preferred":[
+        "Makareus"
+    ],
+    "name:fra_x_preferred":[
+        "Macar\u00e9e"
+    ],
+    "name:lit_x_preferred":[
+        "Makaras"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Macareo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0435\u0458"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1310392335,
-    "wof:lastmodified":1537077142,
+    "wof:lastmodified":1564165389,
     "wof:name":"Macar",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

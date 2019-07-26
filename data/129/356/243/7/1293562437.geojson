@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Olivos"
+    ],
+    "name:sco_x_preferred":[
+        "Olivos"
+    ],
     "name:spa_x_preferred":[
         "Olivos"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293562437,
-    "wof:lastmodified":1537676947,
+    "wof:lastmodified":1564162403,
     "wof:name":"Olivos",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

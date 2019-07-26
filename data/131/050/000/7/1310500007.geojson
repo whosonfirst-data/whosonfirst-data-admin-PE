@@ -27,6 +27,45 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Wisk'achu"
+    ],
+    "name:bos_x_preferred":[
+        "Viska\u010da"
+    ],
+    "name:bre_x_preferred":[
+        "Viskacha"
+    ],
+    "name:fin_x_preferred":[
+        "Viskatsat"
+    ],
+    "name:fra_x_preferred":[
+        "Viscache"
+    ],
+    "name:ita_x_preferred":[
+        "Viscaccia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b9\u30ab\u30c3\u30c1\u30e3"
+    ],
+    "name:lit_x_preferred":[
+        "Viska\u0161a"
+    ],
+    "name:por_x_preferred":[
+        "Viscacha"
+    ],
+    "name:que_x_preferred":[
+        "Wisk'acha"
+    ],
+    "name:spa_x_preferred":[
+        "Vizcacha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0441\u043a\u0430\u0448\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Viscacha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +89,7 @@
         }
     ],
     "wof:id":1310500007,
-    "wof:lastmodified":1536925574,
+    "wof:lastmodified":1564165598,
     "wof:name":"Viscacha",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

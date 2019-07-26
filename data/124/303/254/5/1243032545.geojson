@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Troncoso"
+    ],
+    "name:deu_x_preferred":[
+        "Troncoso"
+    ],
+    "name:fra_x_preferred":[
+        "Troncoso"
+    ],
+    "name:glg_x_preferred":[
+        "Troncoso"
+    ],
+    "name:swe_x_preferred":[
+        "Troncoso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243032545,
-    "wof:lastmodified":1536905494,
+    "wof:lastmodified":1564166921,
     "wof:name":"Troncoso",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

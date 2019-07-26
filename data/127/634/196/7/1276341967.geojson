@@ -28,6 +28,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yanaca"
+    ],
+    "name:que_x_preferred":[
+        "Yanaqa"
+    ],
+    "name:spa_x_preferred":[
+        "Yanaca"
+    ],
     "name:und_x_variant":[
         "Tapairihua",
         "Yanaca"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276341967,
-    "wof:lastmodified":1537676665,
+    "wof:lastmodified":1564163077,
     "wof:name":"Yanaca",
     "wof:parent_id":421175161,
     "wof:placetype":"locality",

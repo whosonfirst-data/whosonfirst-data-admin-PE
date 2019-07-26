@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u74e6\u4e9e\u5948\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209774731,
-    "wof:lastmodified":1536380105,
+    "wof:lastmodified":1564163951,
     "wof:name":"Huayanay",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

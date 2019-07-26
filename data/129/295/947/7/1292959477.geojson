@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cachena-Rind"
+    ],
+    "name:fra_x_preferred":[
+        "Cachena"
+    ],
+    "name:glg_x_preferred":[
+        "Cachena"
+    ],
+    "name:por_x_preferred":[
+        "Carne Barros\u00e3"
+    ],
+    "name:spa_x_preferred":[
+        "Cachena"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f2 Cachena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1292959477,
-    "wof:lastmodified":1537049259,
+    "wof:lastmodified":1564162126,
     "wof:name":"Cachena",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lucumon"
+    ],
+    "name:ita_x_preferred":[
+        "Lucumone"
+    ],
     "name:und_x_variant":[
         "L\u00facumo Hacienda",
         "Lucmo",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276853675,
-    "wof:lastmodified":1560310307,
+    "wof:lastmodified":1564163370,
     "wof:name":"Lucumo",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

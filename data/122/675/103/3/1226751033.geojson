@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Aramango"
+    ],
+    "name:spa_x_preferred":[
+        "Aramango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226751033,
-    "wof:lastmodified":1537570239,
+    "wof:lastmodified":1564168007,
     "wof:name":"Aramango",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

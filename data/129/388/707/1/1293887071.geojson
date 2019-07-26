@@ -27,10 +27,37 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mendoza"
+    ],
+    "name:lit_x_preferred":[
+        "Mendosa"
+    ],
+    "name:por_x_preferred":[
+        "Mendoza"
+    ],
+    "name:que_x_preferred":[
+        "Mendoza"
+    ],
+    "name:ron_x_preferred":[
+        "Mendoza"
+    ],
+    "name:spa_x_preferred":[
+        "Mendoza"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043d\u0434\u043e\u0437\u0430"
+    ],
     "name:und_x_variant":[
         "San Nicolas",
         "Mondoza",
         "Mendoza"
+    ],
+    "name:war_x_preferred":[
+        "Mendoza"
+    ],
+    "name:zho_x_preferred":[
+        "\u9580\u591a\u85a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1293887071,
-    "wof:lastmodified":1537676585,
+    "wof:lastmodified":1564162793,
     "wof:name":"Mendoza",
     "wof:parent_id":1108693897,
     "wof:placetype":"locality",

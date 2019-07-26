@@ -27,6 +27,51 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nevado Chachani"
+    ],
+    "name:ces_x_preferred":[
+        "Nevado Chachani"
+    ],
+    "name:deu_x_preferred":[
+        "Chachani"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108a\u0109ani"
+    ],
+    "name:fra_x_preferred":[
+        "Chachani"
+    ],
+    "name:ita_x_preferred":[
+        "Chachani"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ca\u010danis"
+    ],
+    "name:nld_x_preferred":[
+        "Chachani"
+    ],
+    "name:pol_x_preferred":[
+        "Chachani"
+    ],
+    "name:por_x_preferred":[
+        "Chachani"
+    ],
+    "name:que_x_preferred":[
+        "Chhachani"
+    ],
+    "name:slk_x_preferred":[
+        "Nevado Chachani"
+    ],
+    "name:spa_x_preferred":[
+        "Chachani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0447\u0430\u043d\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u67e5\u5c3c\u5cf0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +95,7 @@
         }
     ],
     "wof:id":1293807227,
-    "wof:lastmodified":1536822341,
+    "wof:lastmodified":1564162645,
     "wof:name":"Chachani",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

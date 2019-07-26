@@ -27,8 +27,134 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0646\u0643\u0627\u0634\u0648"
+    ],
+    "name:aym_x_preferred":[
+        "Wankayu"
+    ],
+    "name:aze_x_preferred":[
+        "Huankayo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043a\u0430\u0451"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u043d\u043a\u0430\u0439\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Huancayo"
+    ],
+    "name:ceb_x_preferred":[
+        "Huancayo"
+    ],
+    "name:ces_x_preferred":[
+        "Huancayo"
+    ],
+    "name:dan_x_preferred":[
+        "Huancayo"
+    ],
+    "name:deu_x_preferred":[
+        "Huancayo"
+    ],
+    "name:epo_x_preferred":[
+        "Huancayo"
+    ],
+    "name:eus_x_preferred":[
+        "Huancayo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0627\u0646\u06a9\u0627\u06cc\u0648"
+    ],
+    "name:fij_x_preferred":[
+        "Huancayo"
+    ],
+    "name:fin_x_preferred":[
+        "Huancayo"
+    ],
+    "name:fra_x_preferred":[
+        "Huancayo"
+    ],
+    "name:hun_x_preferred":[
+        "Huancayo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0561\u0576\u056f\u0561\u0575\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Huancayo"
+    ],
+    "name:ita_x_preferred":[
+        "Huancayo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30f3\u30ab\u30e8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10dc\u10d9\u10d0\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc559\uce74\uc694"
+    ],
+    "name:lat_x_preferred":[
+        "Huancaium"
+    ],
+    "name:lit_x_preferred":[
+        "Huankajus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0430\u043d\u043a\u0430\u0458\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Huancayo"
+    ],
+    "name:nor_x_preferred":[
+        "Huancayo"
+    ],
+    "name:pol_x_preferred":[
+        "Huancayo"
+    ],
+    "name:por_x_preferred":[
+        "Huancayo"
+    ],
+    "name:que_x_preferred":[
+        "Wankayu"
+    ],
+    "name:ron_x_preferred":[
+        "Huancayo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u043d\u043a\u0430\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "Huancayo"
+    ],
+    "name:swe_x_preferred":[
+        "Huancayo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043d\u043a\u0430\u0439\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e42\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Huancayo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0430\u043d\u043a\u0430\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646\u06a9\u0627\u06cc\u0648"
+    ],
+    "name:vol_x_preferred":[
+        "Huancayo"
+    ],
+    "name:war_x_preferred":[
+        "Huancayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u5361\u7ea6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +179,7 @@
         }
     ],
     "wof:id":1293647663,
-    "wof:lastmodified":1537676941,
+    "wof:lastmodified":1564162100,
     "wof:name":"Huancayo",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",

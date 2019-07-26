@@ -26,6 +26,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Callapa"
+    ],
+    "name:deu_x_preferred":[
+        "Callapa"
+    ],
+    "name:que_x_preferred":[
+        "Qallapa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326692751,
-    "wof:lastmodified":1536752725,
+    "wof:lastmodified":1564160387,
     "wof:name":"Callapa",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

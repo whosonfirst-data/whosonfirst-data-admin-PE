@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chacana"
+    ],
+    "name:ces_x_preferred":[
+        "Chacana"
+    ],
+    "name:que_x_preferred":[
+        "Chakana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Chacana"
+    ],
+    "name:swe_x_preferred":[
+        "Chacana"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u5361\u7d0d\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1343774647,
-    "wof:lastmodified":1536790812,
+    "wof:lastmodified":1564161350,
     "wof:name":"Chacana",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

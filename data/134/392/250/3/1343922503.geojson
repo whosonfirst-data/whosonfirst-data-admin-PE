@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Trones"
+    ],
+    "name:nor_x_preferred":[
+        "Trones"
+    ],
+    "name:spa_x_preferred":[
+        "Trones"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343922503,
-    "wof:lastmodified":1537071803,
+    "wof:lastmodified":1564161512,
     "wof:name":"Trones",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

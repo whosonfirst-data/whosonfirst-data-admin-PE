@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Popo"
+    ],
+    "name:deu_x_preferred":[
+        "Popo"
+    ],
+    "name:epo_x_preferred":[
+        "Popo"
+    ],
+    "name:eus_x_preferred":[
+        "Popo"
+    ],
+    "name:fra_x_preferred":[
+        "Popo"
+    ],
+    "name:ind_x_preferred":[
+        "Popo"
+    ],
+    "name:ita_x_preferred":[
+        "Popo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30dd"
+    ],
+    "name:pol_x_preferred":[
+        "Popo"
+    ],
+    "name:swe_x_preferred":[
+        "Popo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1259785709,
-    "wof:lastmodified":1536920578,
+    "wof:lastmodified":1564167594,
     "wof:name":"Popo",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

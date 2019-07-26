@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tayabamba"
+    ],
+    "name:que_x_preferred":[
+        "Tayapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Tayabamba"
+    ],
+    "name:war_x_preferred":[
+        "Tayabamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4e9e\u73ed\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1259662765,
-    "wof:lastmodified":1537570224,
+    "wof:lastmodified":1564167705,
     "wof:name":"Tayabamba",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",

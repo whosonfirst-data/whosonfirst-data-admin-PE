@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Santa Tanca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310664781,
-    "wof:lastmodified":1536687255,
+    "wof:lastmodified":1564165572,
     "wof:name":"Tanca",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

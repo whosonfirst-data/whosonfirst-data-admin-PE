@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanga"
+    ],
+    "name:deu_x_preferred":[
+        "Sanga"
+    ],
+    "name:fra_x_preferred":[
+        "Sanga"
+    ],
+    "name:ita_x_preferred":[
+        "Sanga"
+    ],
+    "name:por_x_preferred":[
+        "Sanga"
+    ],
+    "name:swe_x_preferred":[
+        "Sanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1343565659,
-    "wof:lastmodified":1537088725,
+    "wof:lastmodified":1564161575,
     "wof:name":"Sanga",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",

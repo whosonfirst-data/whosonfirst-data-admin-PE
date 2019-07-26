@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pachia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c7\u03b5\u03b9\u03ac"
+    ],
+    "name:ron_x_preferred":[
+        "Pachia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259847955,
-    "wof:lastmodified":1536829452,
+    "wof:lastmodified":1564167548,
     "wof:name":"Pachia",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

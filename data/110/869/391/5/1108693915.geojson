@@ -30,11 +30,38 @@
     "mps:longitude":-70.200411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Asankaru"
+    ],
+    "name:ceb_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
     "name:eng_x_preferred":[
         "Az\u00e1ngaro"
     ],
     "name:eng_x_variant":[
         "Az\u00e1ngaro"
+    ],
+    "name:ita_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:pol_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:que_x_preferred":[
+        "Asankaru"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0430\u043d\u0433\u0430\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:war_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6851\u52a0\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +98,7 @@
         }
     ],
     "wof:id":1108693915,
-    "wof:lastmodified":1553718252,
+    "wof:lastmodified":1564165112,
     "wof:name":"Az\u00e1ngaro",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

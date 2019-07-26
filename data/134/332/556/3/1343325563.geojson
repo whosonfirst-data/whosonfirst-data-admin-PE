@@ -28,6 +28,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Paleta"
+    ],
+    "name:ces_x_preferred":[
+        "Paleta"
+    ],
+    "name:deu_x_preferred":[
+        "Paleta"
+    ],
+    "name:eus_x_preferred":[
+        "Paleta"
+    ],
+    "name:fra_x_preferred":[
+        "Paleta"
+    ],
+    "name:pol_x_preferred":[
+        "Paleta"
+    ],
+    "name:por_x_preferred":[
+        "Paleta"
+    ],
+    "name:slk_x_preferred":[
+        "Paleta"
+    ],
+    "name:spa_x_preferred":[
+        "Paleta"
+    ],
     "name:und_x_variant":[
         "Palata",
         "Paleta"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1343325563,
-    "wof:lastmodified":1537676574,
+    "wof:lastmodified":1564161545,
     "wof:name":"Paleta",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

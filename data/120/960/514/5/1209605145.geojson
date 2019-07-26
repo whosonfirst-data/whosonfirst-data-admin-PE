@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Espinar"
+    ],
+    "name:deu_x_preferred":[
+        "Espinar"
+    ],
+    "name:ita_x_preferred":[
+        "Espinar"
+    ],
+    "name:nld_x_preferred":[
+        "Espinar"
+    ],
+    "name:por_x_preferred":[
+        "Espinar"
+    ],
+    "name:spa_x_preferred":[
+        "Espinar"
+    ],
+    "name:swe_x_preferred":[
+        "Espinar"
+    ],
     "name:und_x_variant":[
         "Yauri",
         "Espinar"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209605145,
-    "wof:lastmodified":1560311107,
+    "wof:lastmodified":1564164251,
     "wof:name":"Espinar",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

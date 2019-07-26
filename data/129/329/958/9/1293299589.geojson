@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lucre"
+    ],
+    "name:fra_x_preferred":[
+        "Lucre"
+    ],
+    "name:spa_x_preferred":[
+        "Lucro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293299589,
-    "wof:lastmodified":1537055425,
+    "wof:lastmodified":1564162604,
     "wof:name":"Lucre",
     "wof:parent_id":421175161,
     "wof:placetype":"locality",

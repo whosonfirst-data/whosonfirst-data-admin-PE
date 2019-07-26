@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kordilyer"
+    ],
+    "name:bos_x_preferred":[
+        "Kordiljeri"
+    ],
+    "name:deu_x_preferred":[
+        "Kordillere"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03b4\u03b9\u03bb\u03b9\u03ad\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Kordilero"
+    ],
+    "name:fra_x_preferred":[
+        "Cordill\u00e8re"
+    ],
+    "name:hun_x_preferred":[
+        "Kordiller\u00e1k"
+    ],
+    "name:tgl_x_preferred":[
+        "Cordillera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1193096143,
-    "wof:lastmodified":1536365866,
+    "wof:lastmodified":1564164580,
     "wof:name":"Cordillera",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

@@ -28,11 +28,26 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Bagua"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0433\u0443\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0433\u0443\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Bagua"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06af\u0648\u0622\u060c \u067e\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u06af\u0648\u0622"
+    ],
+    "name:ita_x_preferred":[
+        "Bagua"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d2\u10d5\u10d0"
@@ -40,14 +55,29 @@
     "name:lit_x_preferred":[
         "Bagva"
     ],
+    "name:nor_x_preferred":[
+        "Bagua"
+    ],
+    "name:que_x_preferred":[
+        "Bagua"
+    ],
+    "name:ron_x_preferred":[
+        "Bagua"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u0443\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bagua"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0433\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Bagua Chica",
+        "Bagua"
+    ],
+    "name:war_x_preferred":[
         "Bagua"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +107,7 @@
         }
     ],
     "wof:id":1309725681,
-    "wof:lastmodified":1537676642,
+    "wof:lastmodified":1564166284,
     "wof:name":"Bagua",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

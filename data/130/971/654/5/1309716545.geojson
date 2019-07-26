@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Patara"
+    ],
+    "name:deu_x_preferred":[
+        "Patara"
+    ],
+    "name:slk_x_preferred":[
+        "Patara"
+    ],
+    "name:swe_x_preferred":[
+        "Patara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1309716545,
-    "wof:lastmodified":1537057239,
+    "wof:lastmodified":1564166144,
     "wof:name":"Patara",
     "wof:parent_id":1108693945,
     "wof:placetype":"locality",

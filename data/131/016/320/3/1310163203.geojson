@@ -27,8 +27,17 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Plateros"
+    ],
+    "name:swe_x_preferred":[
+        "Plateros"
+    ],
     "name:und_x_variant":[
         "Plateros Hacienda",
+        "Plateros"
+    ],
+    "name:war_x_preferred":[
         "Plateros"
     ],
     "src:geom":"geonames",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310163203,
-    "wof:lastmodified":1537676568,
+    "wof:lastmodified":1564165469,
     "wof:name":"Plateros",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caleta"
+    ],
+    "name:spa_x_preferred":[
+        "Caleta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1343236349,
-    "wof:lastmodified":1537066924,
+    "wof:lastmodified":1564161386,
     "wof:name":"Caleta",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

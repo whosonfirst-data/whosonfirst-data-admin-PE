@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1563139.100553,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.098861,-12.053767,-77.098861,-12.053767",
     "geom:latitude":-12.053767,
     "geom:longitude":-77.098861,
@@ -28,11 +28,35 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Concha"
+    ],
+    "name:deu_x_preferred":[
+        "Concha"
+    ],
+    "name:fra_x_preferred":[
+        "Concha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30c1\u30e7"
+    ],
+    "name:por_x_preferred":[
+        "Concha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u0430"
+    ],
     "name:spa_x_preferred":[
         "Concha"
     ],
     "name:spa_x_variant":[
         "Concha Hacienda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0447\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Concha"
     ],
     "name:unk_x_variant":[
         "Concha",
@@ -116,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1564161895,
     "wof:name":"Concha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

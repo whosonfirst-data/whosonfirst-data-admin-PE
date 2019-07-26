@@ -27,6 +27,54 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Palmera"
+    ],
+    "name:cat_x_preferred":[
+        "Palmera"
+    ],
+    "name:ceb_x_preferred":[
+        "Palmera"
+    ],
+    "name:eus_x_preferred":[
+        "Palmera"
+    ],
+    "name:fra_x_preferred":[
+        "Palmera"
+    ],
+    "name:hun_x_preferred":[
+        "Palmera"
+    ],
+    "name:ita_x_preferred":[
+        "Palmera"
+    ],
+    "name:msa_x_preferred":[
+        "Palmera"
+    ],
+    "name:oci_x_preferred":[
+        "Palmera"
+    ],
+    "name:pol_x_preferred":[
+        "Palmera"
+    ],
+    "name:por_x_preferred":[
+        "Palmera"
+    ],
+    "name:spa_x_preferred":[
+        "Palmera"
+    ],
+    "name:sqi_x_preferred":[
+        "Palmera"
+    ],
+    "name:swe_x_preferred":[
+        "Palmera"
+    ],
+    "name:war_x_preferred":[
+        "Palmera"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c14\u6885\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +98,7 @@
         }
     ],
     "wof:id":1260051605,
-    "wof:lastmodified":1537032645,
+    "wof:lastmodified":1564165100,
     "wof:name":"Palmera",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

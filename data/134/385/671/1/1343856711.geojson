@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cabildo"
+    ],
+    "name:deu_x_preferred":[
+        "Cabildo"
+    ],
+    "name:fra_x_preferred":[
+        "Cabildo"
+    ],
+    "name:ita_x_preferred":[
+        "Cabildo"
+    ],
+    "name:por_x_preferred":[
+        "Cabildo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u044c\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cabildo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1343856711,
-    "wof:lastmodified":1536671995,
+    "wof:lastmodified":1564161412,
     "wof:name":"Cabildo",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

@@ -27,8 +27,41 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:lit_x_preferred":[
+        "Karavelis"
+    ],
+    "name:pol_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:que_x_preferred":[
+        "Qarawili"
+    ],
+    "name:ron_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Caravel\u00ed"
+    ],
     "name:und_x_variant":[
         "Caravel\u00ed"
+    ],
+    "name:war_x_preferred":[
+        "Caravel\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u97cb\u5229"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1277080007,
-    "wof:lastmodified":1537676849,
+    "wof:lastmodified":1564162822,
     "wof:name":"Caraveli",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

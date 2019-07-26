@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ka\u00e7upa"
+    ],
+    "name:cat_x_preferred":[
+        "Cachupa"
+    ],
+    "name:fra_x_preferred":[
+        "Cachupa"
+    ],
+    "name:mwl_x_preferred":[
+        "Cachupa"
+    ],
+    "name:nld_x_preferred":[
+        "Cachupa"
+    ],
+    "name:pol_x_preferred":[
+        "Cachupa"
+    ],
+    "name:por_x_preferred":[
+        "Cachupa"
+    ],
+    "name:spa_x_preferred":[
+        "Cachupa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1225821881,
-    "wof:lastmodified":1537046228,
+    "wof:lastmodified":1564168777,
     "wof:name":"Cachupa",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

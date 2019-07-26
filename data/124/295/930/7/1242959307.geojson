@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Copla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242959307,
-    "wof:lastmodified":1537010240,
+    "wof:lastmodified":1564166667,
     "wof:name":"Copla",
     "wof:parent_id":421177079,
     "wof:placetype":"locality",

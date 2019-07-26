@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Shilla"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043b\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Shilla"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":421166551,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1564166296,
     "wof:name":"Shilla",
     "wof:parent_id":1108693923,
     "wof:placetype":"locality",

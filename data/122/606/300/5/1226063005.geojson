@@ -27,9 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Puerto Inca"
+    ],
+    "name:que_x_preferred":[
+        "Inka wamp'uwatana llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Inca"
+    ],
     "name:und_x_variant":[
         "Inca",
         "Puerto Inca"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Inca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5370\u52a0\u6e2f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226063005,
-    "wof:lastmodified":1537676564,
+    "wof:lastmodified":1564168663,
     "wof:name":"Puerto Inca",
     "wof:parent_id":421194457,
     "wof:placetype":"locality",

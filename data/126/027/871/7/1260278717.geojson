@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Chunka Pichqayuq Waranqa llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Quincemil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260278717,
-    "wof:lastmodified":1537570249,
+    "wof:lastmodified":1564164989,
     "wof:name":"Quince Mil",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

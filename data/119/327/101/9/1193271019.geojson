@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Uchuraccay"
+    ],
+    "name:que_x_preferred":[
+        "Uchuraqay"
+    ],
+    "name:spa_x_preferred":[
+        "Uchuraccay"
+    ],
+    "name:swe_x_preferred":[
+        "Uchuraccay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1193271019,
-    "wof:lastmodified":1537570279,
+    "wof:lastmodified":1564164744,
     "wof:name":"Uchuracay",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

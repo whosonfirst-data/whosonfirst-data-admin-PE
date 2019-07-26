@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "La Jalca"
+    ],
+    "name:que_x_preferred":[
+        "Shallka"
+    ],
+    "name:spa_x_preferred":[
+        "La Jalca"
+    ],
     "name:und_x_variant":[
         "Jalca",
         "La Jalca"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1242586677,
-    "wof:lastmodified":1537676596,
+    "wof:lastmodified":1564166729,
     "wof:name":"La Jalca",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

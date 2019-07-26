@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041c\u0430\u0440\u0438\u0458\u0430 \u0434\u0435 \u041d\u0438\u0458\u0435\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Santa Mar\u00eda",
         "Santa Mar\u00eda de Nieva"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242984377,
-    "wof:lastmodified":1537676545,
+    "wof:lastmodified":1564167155,
     "wof:name":"Santa Maria de Nieva",
     "wof:parent_id":1108694049,
     "wof:placetype":"locality",

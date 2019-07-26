@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Toquepala"
+    ],
     "name:und_x_variant":[
         "Villa Toquepala",
         "Toquepala"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293346365,
-    "wof:lastmodified":1537676677,
+    "wof:lastmodified":1564162464,
     "wof:name":"Toquepala",
     "wof:parent_id":1108694029,
     "wof:placetype":"locality",

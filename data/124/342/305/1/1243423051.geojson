@@ -28,6 +28,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naranjal"
+    ],
+    "name:deu_x_preferred":[
+        "Naranjal"
+    ],
+    "name:pol_x_preferred":[
+        "Naranjal"
+    ],
+    "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "name:swe_x_preferred":[
+        "Naranjal"
+    ],
     "name:und_x_variant":[
         "Naranja",
         "Naranjal"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243423051,
-    "wof:lastmodified":1537676580,
+    "wof:lastmodified":1564167273,
     "wof:name":"Naranjal",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

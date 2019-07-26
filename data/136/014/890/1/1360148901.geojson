@@ -27,8 +27,23 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mu\u00f1ani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10dc\u10d8\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Mu\u00f1ani"
+    ],
+    "name:que_x_preferred":[
+        "Mu\u00f1ani distritu"
+    ],
     "name:und_x_variant":[
         "Mu\u00f1ani"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c3c\u4e9e\u5c3c\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1360148901,
-    "wof:lastmodified":1537676749,
+    "wof:lastmodified":1564165757,
     "wof:name":"Munani",
     "wof:parent_id":1108693915,
     "wof:placetype":"locality",

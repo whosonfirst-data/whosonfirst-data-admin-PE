@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malco"
+    ],
+    "name:glg_x_preferred":[
+        "Malco"
+    ],
+    "name:ita_x_preferred":[
+        "Malco"
+    ],
     "name:spa_x_preferred":[
         "Malco"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310004427,
-    "wof:lastmodified":1537676760,
+    "wof:lastmodified":1564165283,
     "wof:name":"Malco",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Yaque"
+    ],
     "name:und_x_variant":[
         "Hacienda Yaque",
         "Yaque"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242866127,
-    "wof:lastmodified":1537676526,
+    "wof:lastmodified":1564166589,
     "wof:name":"Yaque",
     "wof:parent_id":1108693987,
     "wof:placetype":"locality",

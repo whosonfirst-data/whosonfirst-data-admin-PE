@@ -27,7 +27,34 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Urva"
+    ],
+    "name:ceb_x_preferred":[
+        "Urva"
+    ],
+    "name:ita_x_preferred":[
+        "Urva"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10d5\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0412\u0443\u0440\u0432\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Urva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Urva"
+    ],
+    "name:swe_x_preferred":[
         "Urva"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1259570895,
-    "wof:lastmodified":1537676954,
+    "wof:lastmodified":1564167663,
     "wof:name":"Urva",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",
