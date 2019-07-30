@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Guardiola"
+    ],
+    "name:deu_x_preferred":[
+        "Guardiola"
+    ],
+    "name:fra_x_preferred":[
+        "Guardiola"
+    ],
+    "name:ita_x_preferred":[
+        "Guardiola"
+    ],
+    "name:por_x_preferred":[
+        "Guardiola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0430\u0440\u0434\u0438\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Guardiola"
+    ],
+    "name:srp_x_preferred":[
+        "Gvardiola"
+    ],
+    "name:swe_x_preferred":[
+        "Guardiola"
+    ],
+    "name:tur_x_preferred":[
+        "Guardiola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1292909197,
-    "wof:lastmodified":1536624647,
+    "wof:lastmodified":1564162513,
     "wof:name":"Guardiola",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

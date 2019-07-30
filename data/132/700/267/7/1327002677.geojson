@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yaso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1327002677,
-    "wof:lastmodified":1560310416,
+    "wof:lastmodified":1564160277,
     "wof:name":"Yaso",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

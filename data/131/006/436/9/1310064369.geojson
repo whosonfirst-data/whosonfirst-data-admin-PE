@@ -27,8 +27,26 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saman"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Saman"
+    ],
+    "name:que_x_preferred":[
+        "Saman distritu"
+    ],
+    "name:tur_x_preferred":[
+        "Saman bah\u015f\u0131"
+    ],
     "name:und_x_variant":[
         "Sam\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u66fc\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310064369,
-    "wof:lastmodified":1537676706,
+    "wof:lastmodified":1564165400,
     "wof:name":"Saman",
     "wof:parent_id":1108693915,
     "wof:placetype":"locality",

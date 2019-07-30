@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Conor"
+    ],
+    "name:ita_x_preferred":[
+        "Conor"
+    ],
+    "name:nld_x_preferred":[
+        "Conor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1193272953,
-    "wof:lastmodified":1536368518,
+    "wof:lastmodified":1564164740,
     "wof:name":"Conor",
     "wof:parent_id":421172423,
     "wof:placetype":"locality",

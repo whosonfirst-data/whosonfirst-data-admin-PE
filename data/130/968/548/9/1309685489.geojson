@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0430\u043d\u0438\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Serranito"
+    ],
     "name:und_x_variant":[
         "Sefranito"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309685489,
-    "wof:lastmodified":1537676541,
+    "wof:lastmodified":1564166173,
     "wof:name":"Serranito",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

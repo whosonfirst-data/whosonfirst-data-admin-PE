@@ -26,7 +26,13 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llerena"
+    ],
     "name:spa_x_preferred":[
+        "Llerena"
+    ],
+    "name:swe_x_preferred":[
         "Llerena"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360051905,
-    "wof:lastmodified":1537676974,
+    "wof:lastmodified":1564165981,
     "wof:name":"Llerena",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

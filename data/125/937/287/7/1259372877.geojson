@@ -27,6 +27,45 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Moray laboratoriyas\u0131"
+    ],
+    "name:deu_x_preferred":[
+        "Moray"
+    ],
+    "name:fra_x_preferred":[
+        "Moray"
+    ],
+    "name:ita_x_preferred":[
+        "Moray"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d0\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Moray"
+    ],
+    "name:que_x_preferred":[
+        "Muray"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Moray"
+    ],
+    "name:swe_x_preferred":[
+        "Moray"
+    ],
+    "name:tur_x_preferred":[
+        "Moray laboratuvar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Moray"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1259372877,
-    "wof:lastmodified":1537570275,
+    "wof:lastmodified":1564167435,
     "wof:name":"Moray",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

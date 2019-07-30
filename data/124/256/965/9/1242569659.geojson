@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ichoc\u00e1n"
+    ],
     "name:und_x_variant":[
         "Chocan",
         "Ichoc\u00e1n"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242569659,
-    "wof:lastmodified":1537676602,
+    "wof:lastmodified":1564166740,
     "wof:name":"Ichocan",
     "wof:parent_id":1108693991,
     "wof:placetype":"locality",

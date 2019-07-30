@@ -27,7 +27,25 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:deu_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:fra_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:ita_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0435-\u042d\u0440\u043c\u043e\u0441\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Valle Hermoso"
+    ],
+    "name:swe_x_preferred":[
         "Valle Hermoso"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310288137,
-    "wof:lastmodified":1537676529,
+    "wof:lastmodified":1564165528,
     "wof:name":"Valle Hermoso",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

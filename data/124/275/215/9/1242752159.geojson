@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Tambo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u062a\u0627\u0645\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Tambo"
+    ],
+    "name:ita_x_preferred":[
+        "El Tambo"
+    ],
+    "name:nld_x_preferred":[
+        "El Tambo"
+    ],
+    "name:swe_x_preferred":[
+        "El Tambo"
+    ],
     "name:und_x_variant":[
         "Hacienda El Tambo",
         "El Tambo"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1242752159,
-    "wof:lastmodified":1537676614,
+    "wof:lastmodified":1564166607,
     "wof:name":"El Tambo",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

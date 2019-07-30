@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Llactapata"
+    ],
+    "name:ita_x_preferred":[
+        "Llactapata"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d0\u10e5\u10e2\u10d0\u10de\u10d0\u10e2\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u043a\u0442\u0430\u043f\u0430\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Llactapata"
+    ],
+    "name:que_x_preferred":[
+        "Patallaqta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u044f\u043a\u0442\u0430\u043f\u0430\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Patallacta"
+    ],
+    "name:stq_x_preferred":[
+        "Llaqtapata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u044f\u043a\u0442\u0430\u043f\u0430\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1243452877,
-    "wof:lastmodified":1536796486,
+    "wof:lastmodified":1564167279,
     "wof:name":"Patallacta",
     "wof:parent_id":1108693945,
     "wof:placetype":"locality",

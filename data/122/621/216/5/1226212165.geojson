@@ -27,6 +27,105 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0626\u0648\u0644\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Paullo"
+    ],
+    "name:deu_x_preferred":[
+        "Paullo"
+    ],
+    "name:epo_x_preferred":[
+        "Paullo"
+    ],
+    "name:eus_x_preferred":[
+        "Paullo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0626\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Paullo"
+    ],
+    "name:hun_x_preferred":[
+        "Paullo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0578\u0582\u056c\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Paullo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a6\u30c3\u30ed"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u043b\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Palus"
+    ],
+    "name:lmo_x_preferred":[
+        "Pa\u00f9"
+    ],
+    "name:msa_x_preferred":[
+        "Paullo"
+    ],
+    "name:nap_x_preferred":[
+        "Paullo"
+    ],
+    "name:nld_x_preferred":[
+        "Paullo"
+    ],
+    "name:pms_x_preferred":[
+        "Paullo"
+    ],
+    "name:pol_x_preferred":[
+        "Paullo"
+    ],
+    "name:por_x_preferred":[
+        "Paullo"
+    ],
+    "name:ron_x_preferred":[
+        "Paullo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u043b\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Paullo"
+    ],
+    "name:sco_x_preferred":[
+        "Paullo"
+    ],
+    "name:spa_x_preferred":[
+        "Paullo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Paullo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u043b\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Paullo"
+    ],
+    "name:vie_x_preferred":[
+        "Paullo"
+    ],
+    "name:vol_x_preferred":[
+        "Paullo"
+    ],
+    "name:war_x_preferred":[
+        "Paullo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +149,7 @@
         }
     ],
     "wof:id":1226212165,
-    "wof:lastmodified":1560310114,
+    "wof:lastmodified":1564168072,
     "wof:name":"Paullo",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

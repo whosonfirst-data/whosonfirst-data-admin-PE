@@ -27,9 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Wankani"
+    ],
+    "name:ita_x_preferred":[
+        "Huancan\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Huancan\u00e9"
+    ],
+    "name:que_x_preferred":[
+        "Wankani llaqta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u043d\u043a\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Huancan\u00e9"
+    ],
     "name:und_x_variant":[
         "Huankjane",
         "Huancan\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "Huancan\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u5361\u5167"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1310565279,
-    "wof:lastmodified":1537676795,
+    "wof:lastmodified":1564165647,
     "wof:name":"Huancane",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Capilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Capilla"
+    ],
+    "name:deu_x_preferred":[
+        "Capilla"
+    ],
+    "name:fra_x_preferred":[
+        "Capilla"
+    ],
+    "name:por_x_preferred":[
+        "Capilla"
+    ],
+    "name:spa_x_preferred":[
+        "Capilla"
+    ],
+    "name:swe_x_preferred":[
+        "Capilla"
+    ],
     "name:und_x_variant":[
         "Capilla Hacienda",
         "Capilla"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209918625,
-    "wof:lastmodified":1537676851,
+    "wof:lastmodified":1564163758,
     "wof:name":"Capilla",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

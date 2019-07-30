@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0631\u064a\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Taraya"
+    ],
     "name:spa_x_preferred":[
         "Taraya"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327314137,
-    "wof:lastmodified":1537676681,
+    "wof:lastmodified":1564160258,
     "wof:name":"Taraya",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

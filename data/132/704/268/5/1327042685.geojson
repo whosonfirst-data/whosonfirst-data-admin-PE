@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pucajirca"
+    ],
+    "name:ita_x_preferred":[
+        "Pucajirca"
+    ],
+    "name:que_x_preferred":[
+        "Pukahirka"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5361\u5e0c\u723e\u5361\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327042685,
-    "wof:lastmodified":1536745249,
+    "wof:lastmodified":1564160682,
     "wof:name":"Pucajirca",
     "wof:parent_id":421187851,
     "wof:placetype":"locality",

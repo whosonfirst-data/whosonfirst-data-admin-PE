@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Chimpu llaqta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226516185,
-    "wof:lastmodified":1537039078,
+    "wof:lastmodified":1564168246,
     "wof:name":"Chimbo",
     "wof:parent_id":421198073,
     "wof:placetype":"locality",

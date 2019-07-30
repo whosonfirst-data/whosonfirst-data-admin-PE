@@ -28,9 +28,78 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Clavillo"
+    ],
+    "name:cat_x_preferred":[
+        "Clavijo"
+    ],
+    "name:ceb_x_preferred":[
+        "Clavijo"
+    ],
+    "name:deu_x_preferred":[
+        "Clavijo"
+    ],
+    "name:eus_x_preferred":[
+        "Clavijo"
+    ],
+    "name:fra_x_preferred":[
+        "Clavijo"
+    ],
+    "name:hun_x_preferred":[
+        "Clavijo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u0561\u057e\u056b\u056d\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Clavijo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043b\u0430\u0432\u0438\u0445\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Clavijo"
+    ],
+    "name:oci_x_preferred":[
+        "Clavijo"
+    ],
+    "name:pol_x_preferred":[
+        "Clavijo"
+    ],
+    "name:por_x_preferred":[
+        "Clavijo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0432\u0438\u0445\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Clavijo"
+    ],
+    "name:sqi_x_preferred":[
+        "Clavijo"
+    ],
+    "name:swe_x_preferred":[
+        "Clavijo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0430\u0432\u0456\u0445\u043e"
+    ],
     "name:und_x_variant":[
         "Hacienda Clavijo",
         "Clavijo"
+    ],
+    "name:uzb_x_preferred":[
+        "Clavijo"
+    ],
+    "name:vie_x_preferred":[
+        "Clavijo"
+    ],
+    "name:war_x_preferred":[
+        "Clavijo"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u7ef4\u970d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +124,7 @@
         }
     ],
     "wof:id":1259557885,
-    "wof:lastmodified":1537676624,
+    "wof:lastmodified":1564167502,
     "wof:name":"Clavijo",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

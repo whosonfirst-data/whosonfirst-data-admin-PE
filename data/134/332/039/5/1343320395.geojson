@@ -27,7 +27,31 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Codo"
+    ],
+    "name:ceb_x_preferred":[
+        "Codo"
+    ],
+    "name:deu_x_preferred":[
+        "Codo"
+    ],
+    "name:eus_x_preferred":[
+        "Ukondo"
+    ],
+    "name:fra_x_preferred":[
+        "Codo"
+    ],
+    "name:por_x_preferred":[
+        "Codo"
+    ],
+    "name:ron_x_preferred":[
+        "Codo"
+    ],
     "name:spa_x_preferred":[
+        "Codo"
+    ],
+    "name:swe_x_preferred":[
         "Codo"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343320395,
-    "wof:lastmodified":1537676652,
+    "wof:lastmodified":1564161549,
     "wof:name":"Codo",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Porongo"
+    ],
+    "name:spa_x_preferred":[
+        "Porongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1326888725,
-    "wof:lastmodified":1536967295,
+    "wof:lastmodified":1564160320,
     "wof:name":"Porongo",
     "wof:parent_id":421170671,
     "wof:placetype":"locality",

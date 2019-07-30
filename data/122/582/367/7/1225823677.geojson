@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Nause"
+    ],
+    "name:por_x_preferred":[
+        "Nause"
+    ],
+    "name:swe_x_preferred":[
+        "Nause"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1225823677,
-    "wof:lastmodified":1537043740,
+    "wof:lastmodified":1564168779,
     "wof:name":"Nause",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

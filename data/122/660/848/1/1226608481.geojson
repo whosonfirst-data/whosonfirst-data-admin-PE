@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Reducto"
+    ],
+    "name:deu_x_preferred":[
+        "Reducto"
+    ],
     "name:spa_x_preferred":[
         "Reducto"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226608481,
-    "wof:lastmodified":1537676712,
+    "wof:lastmodified":1564168272,
     "wof:name":"Reducto",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Con\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Cono"
+    ],
+    "name:deu_x_preferred":[
+        "Cono"
+    ],
+    "name:ita_x_preferred":[
+        "Cono"
+    ],
+    "name:ron_x_preferred":[
+        "Cono"
+    ],
+    "name:spa_x_preferred":[
+        "Cono"
+    ],
+    "name:swe_x_preferred":[
+        "Cono"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1259359579,
-    "wof:lastmodified":1537035204,
+    "wof:lastmodified":1564167720,
     "wof:name":"Cono",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

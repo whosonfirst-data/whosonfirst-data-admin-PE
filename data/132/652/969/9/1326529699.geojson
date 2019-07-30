@@ -31,6 +31,9 @@
         "Hacienda Jayune",
         "Jayuni"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5c24\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326529699,
-    "wof:lastmodified":1537676780,
+    "wof:lastmodified":1564160824,
     "wof:name":"Jayuni",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

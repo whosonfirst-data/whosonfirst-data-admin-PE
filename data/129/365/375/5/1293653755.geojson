@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Cacan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293653755,
-    "wof:lastmodified":1537042914,
+    "wof:lastmodified":1564162002,
     "wof:name":"Jajan",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

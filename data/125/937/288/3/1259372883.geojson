@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Arin"
+    ],
+    "name:eus_x_preferred":[
+        "Arin"
+    ],
+    "name:ind_x_preferred":[
+        "Arin"
+    ],
+    "name:sco_x_preferred":[
+        "Arin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259372883,
-    "wof:lastmodified":1537016826,
+    "wof:lastmodified":1564167437,
     "wof:name":"Arin",
     "wof:parent_id":421175157,
     "wof:placetype":"locality",

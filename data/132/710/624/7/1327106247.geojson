@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Saramiriza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327106247,
-    "wof:lastmodified":1537570275,
+    "wof:lastmodified":1564160969,
     "wof:name":"Saramiriza",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

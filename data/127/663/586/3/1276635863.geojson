@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Castillos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Castillos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1276635863,
-    "wof:lastmodified":1536869560,
+    "wof:lastmodified":1564163526,
     "wof:name":"Los Castillos",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

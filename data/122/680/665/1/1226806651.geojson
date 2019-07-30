@@ -27,9 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Salto"
+    ],
+    "name:deu_x_preferred":[
+        "El Salto"
+    ],
+    "name:epo_x_preferred":[
+        "El Salto"
+    ],
+    "name:ita_x_preferred":[
+        "El Salto"
+    ],
+    "name:spa_x_preferred":[
+        "El Salto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0421\u0430\u043b\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Salto"
+    ],
     "name:und_x_variant":[
         "Puesto El Salto",
         "Puesto del Salto",
+        "El Salto"
+    ],
+    "name:vie_x_preferred":[
         "El Salto"
     ],
     "src:geom":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1226806651,
-    "wof:lastmodified":1537676614,
+    "wof:lastmodified":1564168116,
     "wof:name":"El Salto",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",

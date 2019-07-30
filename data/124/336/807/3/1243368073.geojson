@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Pawsa"
+    ],
+    "name:ita_x_preferred":[
+        "Pausa"
+    ],
+    "name:lit_x_preferred":[
+        "Pausa"
+    ],
+    "name:pol_x_preferred":[
+        "Pausa"
+    ],
+    "name:que_x_preferred":[
+        "Pawsa"
+    ],
+    "name:spa_x_preferred":[
+        "Pausa"
+    ],
+    "name:war_x_preferred":[
+        "Pausa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u85a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1243368073,
-    "wof:lastmodified":1537570251,
+    "wof:lastmodified":1564166429,
     "wof:name":"Pausa",
     "wof:parent_id":1108693933,
     "wof:placetype":"locality",

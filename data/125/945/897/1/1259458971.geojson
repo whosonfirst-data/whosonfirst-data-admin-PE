@@ -26,6 +26,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Mandor"
+    ],
     "name:spa_x_preferred":[
         "Mandor"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259458971,
-    "wof:lastmodified":1537676979,
+    "wof:lastmodified":1564167889,
     "wof:name":"Mandor",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

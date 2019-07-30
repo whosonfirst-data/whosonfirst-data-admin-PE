@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Uyo Uyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1260381063,
-    "wof:lastmodified":1537075166,
+    "wof:lastmodified":1564164883,
     "wof:name":"Uyu Uyu",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

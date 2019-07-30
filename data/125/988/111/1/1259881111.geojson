@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10db\u10de\u10d0\u10e9\u10d8\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Pampachiri"
+    ],
+    "name:por_x_preferred":[
+        "Pampachiri"
+    ],
+    "name:que_x_preferred":[
+        "Pampachiri distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5e15\u5947\u91cc\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1259881111,
-    "wof:lastmodified":1537570251,
+    "wof:lastmodified":1564167906,
     "wof:name":"Pampachiri",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

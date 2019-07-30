@@ -36,6 +36,21 @@
     "name:eng_x_variant":[
         "Huacaybamba"
     ],
+    "name:por_x_preferred":[
+        "Huacaybamba"
+    ],
+    "name:que_x_preferred":[
+        "Waqaypampa"
+    ],
+    "name:spa_x_preferred":[
+        "Huacaybamba"
+    ],
+    "name:war_x_preferred":[
+        "Huacaybamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u51f1\u73ed\u5df4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +86,7 @@
         }
     ],
     "wof:id":1108693925,
-    "wof:lastmodified":1553718252,
+    "wof:lastmodified":1564165125,
     "wof:name":"Huacaybamba",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

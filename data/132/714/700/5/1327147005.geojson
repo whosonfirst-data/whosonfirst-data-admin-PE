@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aclla-cuna"
+    ],
+    "name:ita_x_preferred":[
+        "Aclla"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u043b\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Acllas"
+    ],
+    "name:spa_x_preferred":[
+        "Acllas"
+    ],
+    "name:tur_x_preferred":[
+        "Aklya Kona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1327147005,
-    "wof:lastmodified":1537089635,
+    "wof:lastmodified":1564160528,
     "wof:name":"Aclla",
     "wof:parent_id":421187921,
     "wof:placetype":"locality",

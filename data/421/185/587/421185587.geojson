@@ -31,10 +31,37 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ilo"
+    ],
     "name:eng_x_preferred":[
         "Ilo"
     ],
     "name:eng_x_variant":[
+        "Ilo"
+    ],
+    "name:est_x_preferred":[
+        "ILO"
+    ],
+    "name:fin_x_preferred":[
+        "Ilo"
+    ],
+    "name:fra_x_preferred":[
+        "Ilo"
+    ],
+    "name:lit_x_preferred":[
+        "Ilas"
+    ],
+    "name:por_x_preferred":[
+        "Ilo"
+    ],
+    "name:spa_x_preferred":[
+        "Ilo"
+    ],
+    "name:swe_x_preferred":[
+        "Ilo"
+    ],
+    "name:war_x_preferred":[
         "Ilo"
     ],
     "qs:gn_country":null,
@@ -95,7 +122,7 @@
         }
     ],
     "wof:id":421185587,
-    "wof:lastmodified":1553717440,
+    "wof:lastmodified":1564166373,
     "wof:name":"Ilo",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0646\u0633\u0627\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Chancay"
+    ],
+    "name:ceb_x_preferred":[
+        "Chancay"
+    ],
+    "name:fra_x_preferred":[
+        "Chancay"
+    ],
+    "name:que_x_preferred":[
+        "Chankay"
+    ],
+    "name:spa_x_preferred":[
+        "Chancay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226816773,
-    "wof:lastmodified":1536610772,
+    "wof:lastmodified":1564168022,
     "wof:name":"Chancay",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

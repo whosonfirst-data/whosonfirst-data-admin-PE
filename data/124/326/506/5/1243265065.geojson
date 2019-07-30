@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1243265065,
-    "wof:lastmodified":1537064178,
+    "wof:lastmodified":1564167305,
     "wof:name":"Chura",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

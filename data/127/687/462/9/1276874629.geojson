@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aco"
+    ],
+    "name:por_x_preferred":[
+        "Aco"
+    ],
+    "name:spa_x_preferred":[
+        "Aco"
+    ],
+    "name:swe_x_preferred":[
+        "Aco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276874629,
-    "wof:lastmodified":1537046238,
+    "wof:lastmodified":1564163016,
     "wof:name":"Aco",
     "wof:parent_id":1108694003,
     "wof:placetype":"locality",

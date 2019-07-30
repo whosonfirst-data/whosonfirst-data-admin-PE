@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76ae\u65af\u5361\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1276546889,
-    "wof:lastmodified":1536989041,
+    "wof:lastmodified":1564163624,
     "wof:name":"Pisacani",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

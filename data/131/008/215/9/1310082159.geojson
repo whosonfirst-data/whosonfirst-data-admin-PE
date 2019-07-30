@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Monterrico"
+    ],
+    "name:ita_x_preferred":[
+        "Monterrico"
+    ],
+    "name:pol_x_preferred":[
+        "Monterrrico"
+    ],
+    "name:spa_x_preferred":[
+        "Monterrico"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310082159,
-    "wof:lastmodified":1537028989,
+    "wof:lastmodified":1564165348,
     "wof:name":"Monterrico",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

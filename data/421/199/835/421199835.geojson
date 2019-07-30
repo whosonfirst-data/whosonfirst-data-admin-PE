@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yauli"
+    ],
+    "name:nld_x_preferred":[
+        "Yauli"
+    ],
+    "name:por_x_preferred":[
+        "Yauli"
+    ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3966612,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":421199835,
-    "wof:lastmodified":1560310366,
+    "wof:lastmodified":1564166354,
     "wof:name":"Yauli",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

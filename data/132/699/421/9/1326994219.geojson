@@ -31,7 +31,8 @@
         "Caque\u00f1a"
     ],
     "name:spa_x_variant":[
-        "Kaquida"
+        "Kaquida",
+        "Caquena"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1326994219,
-    "wof:lastmodified":1537676851,
+    "wof:lastmodified":1564160810,
     "wof:name":"Caquena",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

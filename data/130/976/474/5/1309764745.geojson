@@ -29,6 +29,9 @@
     "name:spa_x_preferred":[
         "Chilcayoc"
     ],
+    "name:zho_x_preferred":[
+        "\u5947\u723e\u5361\u7d04\u514b\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309764745,
-    "wof:lastmodified":1537677001,
+    "wof:lastmodified":1564166154,
     "wof:name":"Chilcayoc",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

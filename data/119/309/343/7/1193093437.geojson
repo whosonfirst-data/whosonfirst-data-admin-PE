@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valle Grande"
+    ],
+    "name:nld_x_preferred":[
+        "Valle Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Valle Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1193093437,
-    "wof:lastmodified":1536367951,
+    "wof:lastmodified":1564164583,
     "wof:name":"Valle Grande",
     "wof:parent_id":421194089,
     "wof:placetype":"locality",

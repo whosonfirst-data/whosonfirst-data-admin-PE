@@ -27,7 +27,13 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chorrillos"
+    ],
     "name:spa_x_preferred":[
+        "Chorrillos"
+    ],
+    "name:swe_x_preferred":[
         "Chorrillos"
     ],
     "src:geom":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327053531,
-    "wof:lastmodified":1537676830,
+    "wof:lastmodified":1564160615,
     "wof:name":"Chorrillos",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

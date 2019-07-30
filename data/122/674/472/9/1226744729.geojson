@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:nds_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cuevas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226744729,
-    "wof:lastmodified":1536717328,
+    "wof:lastmodified":1564168122,
     "wof:name":"Las Cuevas",
     "wof:parent_id":421177057,
     "wof:placetype":"locality",

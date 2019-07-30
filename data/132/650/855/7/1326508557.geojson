@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u0443\u0440\u0430"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10e3\u10e0\u10dd"
+    ],
+    "name:que_x_preferred":[
+        "Phiruru"
+    ],
+    "name:spa_x_preferred":[
+        "Piruro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326508557,
-    "wof:lastmodified":1537017479,
+    "wof:lastmodified":1564160496,
     "wof:name":"Piruro",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",

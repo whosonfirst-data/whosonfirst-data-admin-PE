@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huarina"
+    ],
+    "name:deu_x_preferred":[
+        "Huarina"
+    ],
+    "name:spa_x_preferred":[
+        "Huarina"
+    ],
+    "name:swe_x_preferred":[
+        "Huarina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326806101,
-    "wof:lastmodified":1537083315,
+    "wof:lastmodified":1564160336,
     "wof:name":"Huarina",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

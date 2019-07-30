@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vuelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1225848529,
-    "wof:lastmodified":1537008919,
+    "wof:lastmodified":1564168806,
     "wof:name":"Vuelo",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

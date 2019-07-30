@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e15\u5854\u574e\u67e5\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343936253,
-    "wof:lastmodified":1537052744,
+    "wof:lastmodified":1564161595,
     "wof:name":"Patacancha",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

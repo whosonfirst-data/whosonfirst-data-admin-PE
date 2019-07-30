@@ -28,6 +28,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moco"
+    ],
+    "name:spa_x_preferred":[
+        "Moco"
+    ],
+    "name:swe_x_preferred":[
+        "Moco"
+    ],
     "name:und_x_variant":[
         "Mocco",
         "Moco"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310069651,
-    "wof:lastmodified":1537676753,
+    "wof:lastmodified":1564165397,
     "wof:name":"Moco",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

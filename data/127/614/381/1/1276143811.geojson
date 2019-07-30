@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marcal"
+    ],
+    "name:ces_x_preferred":[
+        "Marcal"
+    ],
+    "name:deu_x_preferred":[
+        "Marcal"
+    ],
+    "name:epo_x_preferred":[
+        "Marcal"
+    ],
+    "name:hun_x_preferred":[
+        "Marcal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c4\u30a1\u30eb\u5ddd"
+    ],
+    "name:nor_x_preferred":[
+        "Marcal"
+    ],
+    "name:pol_x_preferred":[
+        "Marcal"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Marcal"
+    ],
+    "name:swe_x_preferred":[
+        "Marcal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1276143811,
-    "wof:lastmodified":1537031330,
+    "wof:lastmodified":1564163311,
     "wof:name":"Marcal",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

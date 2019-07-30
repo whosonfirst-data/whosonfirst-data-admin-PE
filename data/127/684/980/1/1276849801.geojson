@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Qirupampa"
+    ],
+    "name:lit_x_preferred":[
+        "Kerobamba"
+    ],
+    "name:pol_x_preferred":[
+        "Querobamba"
+    ],
+    "name:que_x_preferred":[
+        "Qirupampa"
+    ],
+    "name:spa_x_preferred":[
+        "Querobamba"
+    ],
+    "name:war_x_preferred":[
+        "Querobamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7f85\u73ed\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276849801,
-    "wof:lastmodified":1537078299,
+    "wof:lastmodified":1564163458,
     "wof:name":"Querobamba",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",

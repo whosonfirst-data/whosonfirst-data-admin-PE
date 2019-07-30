@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Ayana"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc57c\ub098"
+    ],
+    "name:sco_x_preferred":[
+        "Ayana"
+    ],
+    "name:spa_x_preferred":[
+        "Ayana"
+    ],
+    "name:tgl_x_preferred":[
+        "Ayana"
+    ],
+    "name:vie_x_preferred":[
+        "Ayana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209307565,
-    "wof:lastmodified":1560314491,
+    "wof:lastmodified":1564163823,
     "wof:name":"Ayana",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

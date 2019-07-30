@@ -27,8 +27,62 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Claca"
+    ],
+    "name:ces_x_preferred":[
+        "Klaka"
+    ],
+    "name:dan_x_preferred":[
+        "Klak\u00f8r"
+    ],
+    "name:deu_x_preferred":[
+        "Claqueur"
+    ],
+    "name:est_x_preferred":[
+        "Klak\u00f6\u00f6r"
+    ],
+    "name:fra_x_preferred":[
+        "Claque"
+    ],
+    "name:hrv_x_preferred":[
+        "Klaka"
+    ],
+    "name:hun_x_preferred":[
+        "Klakk"
+    ],
+    "name:ita_x_preferred":[
+        "Claque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30c3\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043b\u0430\u043a\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Klak\u00f8r"
+    ],
+    "name:nor_x_preferred":[
+        "Klak\u00f8r"
+    ],
+    "name:pol_x_preferred":[
+        "Klaka"
+    ],
+    "name:por_x_preferred":[
+        "Claque"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u043a\u0451\u0440"
+    ],
     "name:spa_x_preferred":[
         "Claque"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eak\u015fak\u00e7\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c6\u5718\u559d\u5f69"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1226325697,
-    "wof:lastmodified":1537676624,
+    "wof:lastmodified":1564168306,
     "wof:name":"Claque",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

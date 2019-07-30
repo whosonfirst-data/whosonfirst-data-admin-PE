@@ -19,10 +19,19 @@
     "name:deu_x_preferred":[
         "Barranco"
     ],
+    "name:glg_x_preferred":[
+        "Barranco"
+    ],
+    "name:nds_x_preferred":[
+        "Barranco"
+    ],
     "name:por_x_preferred":[
         "Barranco"
     ],
     "name:spa_x_preferred":[
+        "Barranco"
+    ],
+    "name:swe_x_preferred":[
         "Barranco"
     ],
     "name:unk_x_variant":[
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":421203811,
-    "wof:lastmodified":1560310354,
+    "wof:lastmodified":1564166313,
     "wof:name":"Barranco",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

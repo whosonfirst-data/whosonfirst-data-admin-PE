@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:deu_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:por_x_preferred":[
+        "Novo Mundo"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Mundo"
+    ],
+    "name:swe_x_preferred":[
+        "Nuevo Mundo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1310715359,
-    "wof:lastmodified":1536611594,
+    "wof:lastmodified":1564165183,
     "wof:name":"Nuevo Mundo",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

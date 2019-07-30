@@ -30,11 +30,38 @@
     "mps:longitude":-77.867121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Corongo"
+    ],
     "name:eng_x_preferred":[
         "Corongo"
     ],
     "name:eng_x_variant":[
         "Corongo"
+    ],
+    "name:fra_x_preferred":[
+        "Corongo"
+    ],
+    "name:ita_x_preferred":[
+        "Corongo"
+    ],
+    "name:lit_x_preferred":[
+        "Korongas"
+    ],
+    "name:por_x_preferred":[
+        "Corongo"
+    ],
+    "name:que_x_preferred":[
+        "Quriyunka"
+    ],
+    "name:spa_x_preferred":[
+        "Corongo"
+    ],
+    "name:war_x_preferred":[
+        "Corongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9f8d\u6208"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +98,7 @@
         }
     ],
     "wof:id":1108694011,
-    "wof:lastmodified":1553718260,
+    "wof:lastmodified":1564165122,
     "wof:name":"Corongo",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

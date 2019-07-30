@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Borja"
+    ],
+    "name:que_x_preferred":[
+        "Borja"
+    ],
+    "name:spa_x_preferred":[
+        "Borja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242659515,
-    "wof:lastmodified":1537570238,
+    "wof:lastmodified":1564167189,
     "wof:name":"Borja",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

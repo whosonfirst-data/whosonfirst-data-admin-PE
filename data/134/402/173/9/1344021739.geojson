@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "San Antonio del Estrecho"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio del Estrecho"
+    ],
     "name:und_x_variant":[
         "Estrecho",
         "San Antonio del Estrecho"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1344021739,
-    "wof:lastmodified":1537676612,
+    "wof:lastmodified":1564161705,
     "wof:name":"San Antonio del Estrecho",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

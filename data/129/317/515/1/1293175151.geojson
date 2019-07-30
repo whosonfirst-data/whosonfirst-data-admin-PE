@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0641\u0648\u0646\u0633\u0648 \u0623\u0648\u062c\u0627\u0631\u062a"
+    ],
+    "name:aym_x_preferred":[
+        "Alfonso Ugarte"
+    ],
+    "name:pol_x_preferred":[
+        "Alfonso Ugarte y Vernal"
+    ],
+    "name:que_x_preferred":[
+        "Alfonso Ugarte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0433\u0430\u0440\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Alfonso Ugarte"
+    ],
+    "name:vie_x_preferred":[
+        "Alfonso Ugarte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1293175151,
-    "wof:lastmodified":1536740330,
+    "wof:lastmodified":1564162697,
     "wof:name":"Alfonso Ugarte",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cosme"
+    ],
+    "name:ceb_x_preferred":[
+        "Cosme"
+    ],
+    "name:deu_x_preferred":[
+        "Cosme"
+    ],
+    "name:por_x_preferred":[
+        "Cosme"
+    ],
     "name:und_x_variant":[
         "Cosma",
         "Cosme"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276322987,
-    "wof:lastmodified":1537676819,
+    "wof:lastmodified":1564163150,
     "wof:name":"Cosme",
     "wof:parent_id":421184603,
     "wof:placetype":"locality",

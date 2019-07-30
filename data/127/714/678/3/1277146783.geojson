@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lupo"
+    ],
+    "name:deu_x_preferred":[
+        "Lupo"
+    ],
+    "name:fra_x_preferred":[
+        "Lupo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e4\u05d5"
+    ],
+    "name:ina_x_preferred":[
+        "Lupo"
+    ],
+    "name:ita_x_preferred":[
+        "Lupo"
+    ],
+    "name:por_x_preferred":[
+        "Lupo"
+    ],
+    "name:spa_x_preferred":[
+        "Lupo"
+    ],
+    "name:swe_x_preferred":[
+        "Lupo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1277146783,
-    "wof:lastmodified":1560310402,
+    "wof:lastmodified":1564163227,
     "wof:name":"Lupo",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

@@ -28,9 +28,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Antabamba"
+    ],
+    "name:glg_x_preferred":[
+        "Antabamba"
+    ],
+    "name:ita_x_preferred":[
+        "Antabamba"
+    ],
+    "name:por_x_preferred":[
+        "Antabamba"
+    ],
+    "name:que_x_preferred":[
+        "Antapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Antabamba"
+    ],
     "name:und_x_variant":[
         "Antabamba Hacienda",
         "Antabamba"
+    ],
+    "name:war_x_preferred":[
+        "Antabamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5854\u73ed\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1293679101,
-    "wof:lastmodified":1537676867,
+    "wof:lastmodified":1564162446,
     "wof:name":"Antabamba",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

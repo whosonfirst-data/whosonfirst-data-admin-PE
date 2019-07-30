@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Intihuatana"
+    ],
+    "name:glg_x_preferred":[
+        "Intihuatana"
+    ],
+    "name:pol_x_preferred":[
+        "Intihuatana"
+    ],
+    "name:que_x_preferred":[
+        "Intiwatana"
+    ],
     "name:spa_x_preferred":[
         "Intihuatana"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1242682169,
-    "wof:lastmodified":1537676783,
+    "wof:lastmodified":1564166629,
     "wof:name":"Intihuatana",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

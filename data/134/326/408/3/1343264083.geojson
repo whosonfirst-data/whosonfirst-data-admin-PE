@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ollada"
+    ],
+    "name:fra_x_preferred":[
+        "Ouillade"
+    ],
+    "name:spa_x_preferred":[
+        "Ollada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343264083,
-    "wof:lastmodified":1537028451,
+    "wof:lastmodified":1564161813,
     "wof:name":"Ollada",
     "wof:parent_id":1108694019,
     "wof:placetype":"locality",

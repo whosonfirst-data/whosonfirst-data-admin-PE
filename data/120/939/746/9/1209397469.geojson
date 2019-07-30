@@ -27,7 +27,31 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Collo"
+    ],
+    "name:ita_x_preferred":[
+        "Collo"
+    ],
+    "name:kab_x_preferred":[
+        "Lqull"
+    ],
+    "name:msa_x_preferred":[
+        "Collo"
+    ],
+    "name:por_x_preferred":[
+        "Collo"
+    ],
+    "name:ron_x_preferred":[
+        "Collo"
+    ],
     "name:spa_x_preferred":[
+        "Collo"
+    ],
+    "name:vie_x_preferred":[
         "Collo"
     ],
     "src:geom":"geonames",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209397469,
-    "wof:lastmodified":1560310197,
+    "wof:lastmodified":1564163795,
     "wof:name":"Collo",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

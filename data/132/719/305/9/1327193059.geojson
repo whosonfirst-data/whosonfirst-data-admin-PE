@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Potrerillo"
+    ],
     "name:und_x_variant":[
         "Potrero",
         "Potrerillo"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327193059,
-    "wof:lastmodified":1537676566,
+    "wof:lastmodified":1564160944,
     "wof:name":"Potrerillo",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

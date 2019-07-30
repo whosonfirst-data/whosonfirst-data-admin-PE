@@ -40,6 +40,9 @@
     "name:spa_x_preferred":[
         "Oropesa"
     ],
+    "name:swe_x_preferred":[
+        "Oropesa"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421185925,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1564166373,
     "wof:name":"Oropesa",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

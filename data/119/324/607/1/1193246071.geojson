@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Esperanza"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "Esperanza"
+    ],
+    "name:que_x_preferred":[
+        "Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Esperanza"
+    ],
+    "name:war_x_preferred":[
+        "Esperanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1193246071,
-    "wof:lastmodified":1537570235,
+    "wof:lastmodified":1564164612,
     "wof:name":"Puerto Esperanza",
     "wof:parent_id":1108693893,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tantara"
+    ],
     "name:und_x_variant":[
         "Iantara",
         "Tantaria",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327123511,
-    "wof:lastmodified":1537676682,
+    "wof:lastmodified":1564160569,
     "wof:name":"Tantara",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

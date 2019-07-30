@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Elida"
+    ],
+    "name:deu_x_preferred":[
+        "Elida"
+    ],
+    "name:ita_x_preferred":[
+        "Elida"
+    ],
+    "name:nld_x_preferred":[
+        "Elida"
+    ],
+    "name:pol_x_preferred":[
+        "Elida"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0438\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Elida"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b\u0438\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0456\u0434\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Elida"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1243246191,
-    "wof:lastmodified":1560310323,
+    "wof:lastmodified":1564166775,
     "wof:name":"Elida",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

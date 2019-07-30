@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mogollon"
+    ],
+    "name:ita_x_preferred":[
+        "Mogoll\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u043b\u044c\u043e\u043d"
+    ],
     "name:spa_x_preferred":[
         "Mogoll\u00f3n"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1292965331,
-    "wof:lastmodified":1537676583,
+    "wof:lastmodified":1564162489,
     "wof:name":"Mogollon",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

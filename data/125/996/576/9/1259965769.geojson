@@ -28,6 +28,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Huanchaco"
+    ],
+    "name:fra_x_preferred":[
+        "Huanchaco"
+    ],
+    "name:que_x_preferred":[
+        "Wanchaku"
+    ],
+    "name:spa_x_preferred":[
+        "Huanchaco"
+    ],
+    "name:swe_x_preferred":[
+        "Huanchaco"
+    ],
     "name:und_x_variant":[
         "Hacienda Huanchaco",
         "Huanchaco"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259965769,
-    "wof:lastmodified":1537676604,
+    "wof:lastmodified":1564167426,
     "wof:name":"Huanchaco",
     "wof:parent_id":421184599,
     "wof:placetype":"locality",

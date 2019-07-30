@@ -28,6 +28,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Vilcanota"
+    ],
+    "name:spa_x_preferred":[
+        "Vilcanota"
+    ],
     "name:und_x_variant":[
         "Vilcanota Hacienda",
         "Vilcanota"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360174613,
-    "wof:lastmodified":1537676667,
+    "wof:lastmodified":1564165918,
     "wof:name":"Vilcanota",
     "wof:parent_id":421187839,
     "wof:placetype":"locality",

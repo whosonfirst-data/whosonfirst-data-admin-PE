@@ -28,6 +28,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tarqui"
+    ],
+    "name:deu_x_preferred":[
+        "Tarqui"
+    ],
+    "name:spa_x_preferred":[
+        "Tarqui"
+    ],
+    "name:swe_x_preferred":[
+        "Tarqui"
+    ],
     "name:und_x_variant":[
         "Posto Ecuatoriano",
         "Tarqui"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293671015,
-    "wof:lastmodified":1537676535,
+    "wof:lastmodified":1564162440,
     "wof:name":"Tarqui",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rompe"
+    ],
+    "name:por_x_preferred":[
+        "Rompe"
+    ],
     "name:spa_x_preferred":[
         "Rompe"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293748121,
-    "wof:lastmodified":1537676659,
+    "wof:lastmodified":1564162659,
     "wof:name":"Rompe",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

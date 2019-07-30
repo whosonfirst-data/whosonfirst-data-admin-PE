@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Pawqartampu"
+    ],
+    "name:fra_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:ita_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:pol_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:por_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:que_x_preferred":[
+        "Pawqartampu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0443\u043a\u0430\u0440\u0442\u0430\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:war_x_preferred":[
+        "Paucartambo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u5361\u5766\u535a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1344141615,
-    "wof:lastmodified":1537570251,
+    "wof:lastmodified":1564161229,
     "wof:name":"Paucartambo",
     "wof:parent_id":421202207,
     "wof:placetype":"locality",

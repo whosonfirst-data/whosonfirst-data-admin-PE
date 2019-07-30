@@ -27,6 +27,90 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Malaval"
+    ],
+    "name:ceb_x_preferred":[
+        "Malval"
+    ],
+    "name:deu_x_preferred":[
+        "Malval"
+    ],
+    "name:epo_x_preferred":[
+        "Malval"
+    ],
+    "name:eus_x_preferred":[
+        "Malval"
+    ],
+    "name:fra_x_preferred":[
+        "Malval"
+    ],
+    "name:hun_x_preferred":[
+        "Malval"
+    ],
+    "name:ind_x_preferred":[
+        "Malval"
+    ],
+    "name:ita_x_preferred":[
+        "Malval"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0432\u0430\u043b\u044c"
+    ],
+    "name:lat_x_preferred":[
+        "Malval"
+    ],
+    "name:msa_x_preferred":[
+        "Malval"
+    ],
+    "name:nld_x_preferred":[
+        "Malval"
+    ],
+    "name:oci_x_preferred":[
+        "Malaval"
+    ],
+    "name:pms_x_preferred":[
+        "Malval"
+    ],
+    "name:pol_x_preferred":[
+        "Malval"
+    ],
+    "name:por_x_preferred":[
+        "Malval"
+    ],
+    "name:ron_x_preferred":[
+        "Malval"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0432\u0430\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Malval"
+    ],
+    "name:spa_x_preferred":[
+        "Malval"
+    ],
+    "name:swe_x_preferred":[
+        "Malval"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0432\u0430\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Malval"
+    ],
+    "name:vie_x_preferred":[
+        "Malval"
+    ],
+    "name:vol_x_preferred":[
+        "Malval"
+    ],
+    "name:war_x_preferred":[
+        "Malval"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u74e6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1310470139,
-    "wof:lastmodified":1536967741,
+    "wof:lastmodified":1564165209,
     "wof:name":"Malval",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

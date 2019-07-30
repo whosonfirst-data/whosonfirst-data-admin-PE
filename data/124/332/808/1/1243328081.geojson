@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Juntas"
+    ],
     "name:und_x_variant":[
         "Juntas Hacienda",
         "Juntas",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243328081,
-    "wof:lastmodified":1537676599,
+    "wof:lastmodified":1564166949,
     "wof:name":"Las Juntas",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

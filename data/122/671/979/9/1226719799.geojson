@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vinac"
+    ],
+    "name:ceb_x_preferred":[
+        "Vinac"
+    ],
+    "name:fra_x_preferred":[
+        "Vinac"
+    ],
+    "name:hrv_x_preferred":[
+        "Vinac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vinac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226719799,
-    "wof:lastmodified":1560310156,
+    "wof:lastmodified":1564168485,
     "wof:name":"Vinac",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",

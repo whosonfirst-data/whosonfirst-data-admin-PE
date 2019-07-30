@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Machin"
+    ],
+    "name:fra_x_preferred":[
+        "Machin"
+    ],
+    "name:pol_x_preferred":[
+        "Machin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Machin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1277138769,
-    "wof:lastmodified":1536687027,
+    "wof:lastmodified":1564163218,
     "wof:name":"Machin",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

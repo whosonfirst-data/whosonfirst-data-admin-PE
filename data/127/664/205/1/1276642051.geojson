@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coton"
+    ],
+    "name:fra_x_preferred":[
+        "Coton"
+    ],
+    "name:ita_x_preferred":[
+        "Coton"
+    ],
+    "name:pol_x_preferred":[
+        "Coton"
+    ],
+    "name:swe_x_preferred":[
+        "Coton"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1276642051,
-    "wof:lastmodified":1536860834,
+    "wof:lastmodified":1564163506,
     "wof:name":"Coton",
     "wof:parent_id":421184599,
     "wof:placetype":"locality",

@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0438\u043e \u0420\u0430\u0439\u043c\u043e\u043d\u0434\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:ita_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:lat_x_preferred":[
+        "Antonius Raimondi"
+    ],
+    "name:nld_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:por_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:que_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u043c\u043e\u043d\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Antonio Raimondi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0456\u043e \u0420\u0430\u0439\u043c\u043e\u043d\u0434\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1209303007,
-    "wof:lastmodified":1560311676,
+    "wof:lastmodified":1564163815,
     "wof:name":"Antonio Raimondi",
     "wof:parent_id":421187925,
     "wof:placetype":"locality",

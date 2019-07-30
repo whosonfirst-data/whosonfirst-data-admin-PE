@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Chuquibambilla"
+    ],
+    "name:ita_x_preferred":[
+        "Chuquibambilla"
+    ],
+    "name:por_x_preferred":[
+        "Chuquibambilla"
+    ],
+    "name:que_x_preferred":[
+        "Chuqipampilla"
+    ],
+    "name:spa_x_preferred":[
+        "Chuquibambilla"
+    ],
+    "name:war_x_preferred":[
+        "Chuquibambilla"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u57fa\u73ed\u6bd4\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1209516589,
-    "wof:lastmodified":1560310742,
+    "wof:lastmodified":1564164275,
     "wof:name":"Chuquibambilla",
     "wof:parent_id":1108693905,
     "wof:placetype":"locality",

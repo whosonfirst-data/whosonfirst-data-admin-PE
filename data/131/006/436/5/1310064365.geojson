@@ -26,6 +26,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Trapig"
+    ],
+    "name:fra_x_preferred":[
+        "Trapiche"
+    ],
+    "name:por_x_preferred":[
+        "Trapiche"
+    ],
+    "name:spa_x_preferred":[
+        "Trapiche"
+    ],
     "name:und_x_variant":[
         "Hacienda Trapiche",
         "Trapiche Hacienda",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310064365,
-    "wof:lastmodified":1537676674,
+    "wof:lastmodified":1564165400,
     "wof:name":"Trapiche",
     "wof:parent_id":1108693921,
     "wof:placetype":"locality",

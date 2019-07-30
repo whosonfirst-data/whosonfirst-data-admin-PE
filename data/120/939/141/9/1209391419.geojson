@@ -26,6 +26,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Purus"
+    ],
+    "name:deu_x_preferred":[
+        "Purus"
+    ],
+    "name:nld_x_preferred":[
+        "Purus"
+    ],
     "name:spa_x_preferred":[
         "Pur\u00fas"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209391419,
-    "wof:lastmodified":1560314756,
+    "wof:lastmodified":1564163801,
     "wof:name":"Purus",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

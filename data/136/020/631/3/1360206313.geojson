@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "San Pablo"
+    ],
+    "name:que_x_preferred":[
+        "San Pawlu"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "name:war_x_preferred":[
+        "San Pablo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1360206313,
-    "wof:lastmodified":1537570226,
+    "wof:lastmodified":1564165842,
     "wof:name":"San Pablo",
     "wof:parent_id":1108693981,
     "wof:placetype":"locality",

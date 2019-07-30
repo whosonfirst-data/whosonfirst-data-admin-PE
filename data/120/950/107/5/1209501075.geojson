@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chao"
+    ],
     "name:und_x_variant":[
         "Puente de Chao",
         "Chao"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209501075,
-    "wof:lastmodified":1560311775,
+    "wof:lastmodified":1564164118,
     "wof:name":"Chao",
     "wof:parent_id":421191399,
     "wof:placetype":"locality",

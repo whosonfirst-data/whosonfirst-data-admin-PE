@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Huajtapaljana"
+    ],
+    "name:lit_x_preferred":[
+        "Uajtapaljana"
+    ],
+    "name:que_x_preferred":[
+        "Waytapallana"
+    ],
+    "name:spa_x_preferred":[
+        "Huaytapallana"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u5854\u5e15\u5229\u4e9e\u7d0d\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226438231,
-    "wof:lastmodified":1536656437,
+    "wof:lastmodified":1564168030,
     "wof:name":"Huaytapallana",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

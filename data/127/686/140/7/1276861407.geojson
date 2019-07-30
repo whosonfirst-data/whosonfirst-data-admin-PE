@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0643\u0648\u0631\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Qura Qura"
+    ],
+    "name:ceb_x_preferred":[
+        "Coracora"
+    ],
+    "name:ita_x_preferred":[
+        "Coracora"
+    ],
+    "name:lit_x_preferred":[
+        "Korakora"
+    ],
+    "name:pol_x_preferred":[
+        "Coracora"
+    ],
+    "name:que_x_preferred":[
+        "Qura Qura"
+    ],
+    "name:spa_x_preferred":[
+        "Coracora"
+    ],
+    "name:war_x_preferred":[
+        "Coracora"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9\u79d1\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1276861407,
-    "wof:lastmodified":1537063076,
+    "wof:lastmodified":1564162854,
     "wof:name":"Coracora",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

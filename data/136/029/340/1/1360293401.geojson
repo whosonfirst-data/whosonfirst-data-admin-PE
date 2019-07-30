@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Corongo"
+    ],
+    "name:fra_x_preferred":[
+        "Corongo"
+    ],
+    "name:ita_x_preferred":[
+        "Corongo"
+    ],
+    "name:lit_x_preferred":[
+        "Korongas"
+    ],
+    "name:por_x_preferred":[
+        "Corongo"
+    ],
+    "name:que_x_preferred":[
+        "Quriyunka"
+    ],
+    "name:spa_x_preferred":[
+        "Corongo"
+    ],
+    "name:war_x_preferred":[
+        "Corongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9f8d\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1360293401,
-    "wof:lastmodified":1537570236,
+    "wof:lastmodified":1564165897,
     "wof:name":"Corongo",
     "wof:parent_id":1108694011,
     "wof:placetype":"locality",

@@ -27,6 +27,69 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rauma"
+    ],
+    "name:ceb_x_preferred":[
+        "Rauma"
+    ],
+    "name:dan_x_preferred":[
+        "Rauma"
+    ],
+    "name:deu_x_preferred":[
+        "Rauma"
+    ],
+    "name:fin_x_preferred":[
+        "Rauma"
+    ],
+    "name:fra_x_preferred":[
+        "Rauma"
+    ],
+    "name:ita_x_preferred":[
+        "Rauma"
+    ],
+    "name:lim_x_preferred":[
+        "Rauma"
+    ],
+    "name:nds_x_preferred":[
+        "Rauma"
+    ],
+    "name:nld_x_preferred":[
+        "Rauma"
+    ],
+    "name:nno_x_preferred":[
+        "Rauma"
+    ],
+    "name:nor_x_preferred":[
+        "Rauma"
+    ],
+    "name:pol_x_preferred":[
+        "Rauma"
+    ],
+    "name:por_x_preferred":[
+        "Rauma"
+    ],
+    "name:ron_x_preferred":[
+        "Rauma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0451\u0443\u043c\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Rauma"
+    ],
+    "name:slk_x_preferred":[
+        "Rauma"
+    ],
+    "name:sme_x_preferred":[
+        "Rauma"
+    ],
+    "name:swe_x_preferred":[
+        "Rauma"
+    ],
+    "name:vie_x_preferred":[
+        "Rauma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +113,7 @@
         }
     ],
     "wof:id":1310177883,
-    "wof:lastmodified":1560310334,
+    "wof:lastmodified":1564165509,
     "wof:name":"Rauma",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

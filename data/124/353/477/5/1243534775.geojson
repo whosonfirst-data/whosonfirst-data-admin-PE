@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Comatrana"
+    ],
+    "name:spa_x_preferred":[
+        "Comatrana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243534775,
-    "wof:lastmodified":1537570263,
+    "wof:lastmodified":1564166461,
     "wof:name":"Comatrana",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

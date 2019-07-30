@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:cat_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Monzon"
+    ],
+    "name:deu_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30bd\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Monz\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Monzon"
+    ],
     "name:und_x_variant":[
         "Mons\u00f3n",
         "Monz\u00f3n"
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1209094715,
-    "wof:lastmodified":1560311704,
+    "wof:lastmodified":1564163655,
     "wof:name":"Monzon",
     "wof:parent_id":1108693923,
     "wof:placetype":"locality",

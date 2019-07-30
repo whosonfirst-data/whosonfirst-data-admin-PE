@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Yupana"
+    ],
+    "name:deu_x_preferred":[
+        "Yupana"
+    ],
+    "name:est_x_preferred":[
+        "Yupana"
+    ],
+    "name:fra_x_preferred":[
+        "Yupana"
+    ],
+    "name:ind_x_preferred":[
+        "Yupana"
+    ],
+    "name:ita_x_preferred":[
+        "Yupana"
+    ],
+    "name:msa_x_preferred":[
+        "Yupana"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043f\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Yupana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u043f\u0430\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1310479955,
-    "wof:lastmodified":1536953884,
+    "wof:lastmodified":1564165215,
     "wof:name":"Yupana",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

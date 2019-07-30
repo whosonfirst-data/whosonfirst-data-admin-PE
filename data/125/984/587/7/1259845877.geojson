@@ -26,7 +26,19 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Juan Pablo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\uc548 \ud30c\ube14\ub85c"
+    ],
+    "name:por_x_preferred":[
+        "Juan Pablo"
+    ],
     "name:spa_x_preferred":[
+        "Juan Pablo"
+    ],
+    "name:swe_x_preferred":[
         "Juan Pablo"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259845877,
-    "wof:lastmodified":1537676972,
+    "wof:lastmodified":1564167545,
     "wof:name":"Juan Pablo",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

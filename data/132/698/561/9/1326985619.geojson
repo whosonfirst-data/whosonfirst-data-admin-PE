@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Puertu Pizarro"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Pizarro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326985619,
-    "wof:lastmodified":1537570241,
+    "wof:lastmodified":1564160895,
     "wof:name":"Puerto Pizarro",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

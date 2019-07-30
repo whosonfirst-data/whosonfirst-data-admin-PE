@@ -27,8 +27,29 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jes\u00fas"
+    ],
+    "name:ita_x_preferred":[
+        "Jes\u00fas"
+    ],
+    "name:por_x_preferred":[
+        "Jes\u00fas"
+    ],
+    "name:que_x_preferred":[
+        "Hisus llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Jes\u00fas"
+    ],
     "name:und_x_variant":[
         "Jes\u00fas"
+    ],
+    "name:war_x_preferred":[
+        "Jes\u00fas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u8607\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1327327205,
-    "wof:lastmodified":1537676780,
+    "wof:lastmodified":1564160667,
     "wof:name":"Jesus",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

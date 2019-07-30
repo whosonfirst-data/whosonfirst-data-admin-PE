@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Andamarca"
+    ],
+    "name:deu_x_preferred":[
+        "Andamarca"
+    ],
+    "name:fra_x_preferred":[
+        "Andamarca"
+    ],
+    "name:que_x_preferred":[
+        "Antamarka"
+    ],
+    "name:swe_x_preferred":[
+        "Andamarca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243072115,
-    "wof:lastmodified":1536847022,
+    "wof:lastmodified":1564166406,
     "wof:name":"Andamarca",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u54c8\u54c8\u67e5\u5361\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1276312501,
-    "wof:lastmodified":1536806420,
+    "wof:lastmodified":1564163635,
     "wof:name":"Jajachaca",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

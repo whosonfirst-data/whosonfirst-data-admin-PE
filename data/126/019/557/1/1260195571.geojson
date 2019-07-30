@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pill\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Pillan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1260195571,
-    "wof:lastmodified":1536830292,
+    "wof:lastmodified":1564165062,
     "wof:name":"Pillan",
     "wof:parent_id":421202211,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Laurana"
+    ],
+    "name:deu_x_preferred":[
+        "Laurana"
+    ],
+    "name:ita_x_preferred":[
+        "Laurana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226166227,
-    "wof:lastmodified":1537046259,
+    "wof:lastmodified":1564168165,
     "wof:name":"Laurana",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

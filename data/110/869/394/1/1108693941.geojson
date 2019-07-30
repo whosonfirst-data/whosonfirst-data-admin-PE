@@ -30,11 +30,35 @@
     "mps:longitude":-74.523179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aym_x_preferred":[
+        "Kankallu"
+    ],
     "name:eng_x_preferred":[
         "Cangallo"
     ],
     "name:eng_x_variant":[
         "Cangallo"
+    ],
+    "name:ita_x_preferred":[
+        "Cangallo"
+    ],
+    "name:lit_x_preferred":[
+        "Kangaljas"
+    ],
+    "name:pol_x_preferred":[
+        "Cangallo"
+    ],
+    "name:que_x_preferred":[
+        "Kankallu"
+    ],
+    "name:spa_x_preferred":[
+        "Cangallo"
+    ],
+    "name:war_x_preferred":[
+        "Cangallo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u52a0\u7d04"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1108693941,
-    "wof:lastmodified":1553718253,
+    "wof:lastmodified":1564165126,
     "wof:name":"Cangallo",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

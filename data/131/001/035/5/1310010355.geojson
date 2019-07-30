@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Encanto"
+    ],
+    "name:ita_x_preferred":[
+        "Encanto"
+    ],
+    "name:por_x_preferred":[
+        "Encanto"
+    ],
+    "name:swe_x_preferred":[
+        "Encanto"
+    ],
+    "name:tgl_x_preferred":[
+        "Encanto"
+    ],
+    "name:vie_x_preferred":[
+        "Encanto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1310010355,
-    "wof:lastmodified":1536635004,
+    "wof:lastmodified":1564165379,
     "wof:name":"Encanto",
     "wof:parent_id":1108693945,
     "wof:placetype":"locality",

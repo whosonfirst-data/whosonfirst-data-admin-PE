@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0439\u043e"
+    ],
+    "name:fin_x_preferred":[
+        "Ajo"
+    ],
+    "name:por_x_preferred":[
+        "Ajo"
+    ],
+    "name:spa_x_preferred":[
+        "Ajo"
+    ],
     "name:und_x_variant":[
         "Hacienda Ajo"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259682419,
-    "wof:lastmodified":1537676872,
+    "wof:lastmodified":1564167676,
     "wof:name":"Ajo",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

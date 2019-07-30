@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Uchpa"
+    ],
+    "name:fra_x_preferred":[
+        "Uchpa"
+    ],
+    "name:glg_x_preferred":[
+        "Uchpa"
+    ],
+    "name:que_x_preferred":[
+        "Uchpa"
+    ],
+    "name:rus_x_preferred":[
+        "Uchpa"
+    ],
+    "name:spa_x_preferred":[
+        "Uchpa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293272459,
-    "wof:lastmodified":1537093846,
+    "wof:lastmodified":1564162578,
     "wof:name":"Uchpa",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

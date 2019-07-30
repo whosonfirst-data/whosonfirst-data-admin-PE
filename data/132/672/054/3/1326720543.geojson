@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e9e\u7d0d\u5eab\u4e18\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1326720543,
-    "wof:lastmodified":1536712957,
+    "wof:lastmodified":1564160290,
     "wof:name":"Yanacucho",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

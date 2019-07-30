@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Trampa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242937613,
-    "wof:lastmodified":1537040573,
+    "wof:lastmodified":1564166725,
     "wof:name":"La Trampa",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

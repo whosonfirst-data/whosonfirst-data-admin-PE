@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Yacas"
+    ],
+    "name:deu_x_preferred":[
+        "Yacas"
+    ],
+    "name:fra_x_preferred":[
+        "Yacas"
+    ],
+    "name:ita_x_preferred":[
+        "Yacas"
+    ],
+    "name:jpn_x_preferred":[
+        "Yacas"
+    ],
+    "name:pol_x_preferred":[
+        "Yacas"
+    ],
+    "name:snd_x_preferred":[
+        "\u064a\u0627\u06aa\u0627\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Yacas"
+    ],
+    "name:srp_x_preferred":[
+        "Yacas"
+    ],
+    "name:swe_x_preferred":[
+        "Yacas"
+    ],
+    "name:zho_x_preferred":[
+        "Yacas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1226104691,
-    "wof:lastmodified":1536639152,
+    "wof:lastmodified":1564168068,
     "wof:name":"Yacas",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

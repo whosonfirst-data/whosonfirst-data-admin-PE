@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carman"
+    ],
+    "name:fin_x_preferred":[
+        "Carman"
+    ],
+    "name:fra_x_preferred":[
+        "Carman"
+    ],
+    "name:pol_x_preferred":[
+        "Carman"
+    ],
+    "name:por_x_preferred":[
+        "Carman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1343960215,
-    "wof:lastmodified":1537019475,
+    "wof:lastmodified":1564161076,
     "wof:name":"Carman",
     "wof:parent_id":421202211,
     "wof:placetype":"locality",

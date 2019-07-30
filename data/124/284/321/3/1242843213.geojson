@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Palmasola"
+    ],
+    "name:fra_x_preferred":[
+        "Palmasola"
+    ],
     "name:spa_x_preferred":[
         "Palmasola"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242843213,
-    "wof:lastmodified":1537676927,
+    "wof:lastmodified":1564167068,
     "wof:name":"Palmasola",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",

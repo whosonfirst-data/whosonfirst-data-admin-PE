@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Yunkuyu"
+    ],
+    "name:ceb_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:deu_x_preferred":[
+        "Yunguyo"
+    ],
     "name:eng_x_preferred":[
         "Yunguyo"
     ],
     "name:eng_x_variant":[
         "Yunguyo"
+    ],
+    "name:ita_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10dc\u10d2\u10e3\u10d8\u10dd"
+    ],
+    "name:pol_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:que_x_preferred":[
+        "Yunkuyu"
+    ],
+    "name:spa_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:war_x_preferred":[
+        "Yunguyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u53e4\u7d04"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421198073,
-    "wof:lastmodified":1553717541,
+    "wof:lastmodified":1564166350,
     "wof:name":"Yunguyo",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

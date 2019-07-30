@@ -26,6 +26,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Rusia"
+    ],
     "name:spa_x_preferred":[
         "Rusia"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360248325,
-    "wof:lastmodified":1537676984,
+    "wof:lastmodified":1564165715,
     "wof:name":"Rusia",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

@@ -27,8 +27,98 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u064a\u0646\u0627 \u0643\u0627\u0628\u0627\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0627\u06cc\u0646\u0627 \u06a9\u0627\u067e\u0627\u06a9"
+    ],
+    "name:cat_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:dan_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:deu_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ac\u03b9\u03bd\u03b1 \u039a\u03ac\u03c0\u03b1\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:eus_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0627\u06cc\u0646\u0627 \u06a9\u0627\u067e\u0627\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:fra_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:hrv_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:hun_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:ind_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:ita_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a4\u30ca\u30fb\u30ab\u30d1\u30c3\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d0\u10d8\u10dc\u10d0 \u10d9\u10d0\u10de\u10d0\u10d9\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0458\u043d\u0430 \u041a\u0430\u043f\u0430\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:nno_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:nor_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:pol_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:por_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:que_x_preferred":[
+        "Wayna Qhapaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0439\u043d\u0430 \u041a\u0430\u043f\u0430\u043a"
+    ],
     "name:spa_x_preferred":[
         "Huayna Capac"
+    ],
+    "name:spa_x_variant":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:swe_x_preferred":[
+        "Huayna C\u00e1pac"
+    ],
+    "name:tur_x_preferred":[
+        "Huayna Capac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0430\u0439\u043d\u0430 \u041a\u0430\u043f\u0430\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u7d0d\u00b7\u5361\u5e15\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +143,7 @@
         }
     ],
     "wof:id":1326688365,
-    "wof:lastmodified":1537676936,
+    "wof:lastmodified":1564160480,
     "wof:name":"Huayna Capac",
     "wof:parent_id":1108693993,
     "wof:placetype":"locality",

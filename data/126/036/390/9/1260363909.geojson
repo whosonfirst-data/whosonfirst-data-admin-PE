@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b3\u03ba\u03b1\u03c2"
+    ],
+    "name:spa_x_preferred":[
+        "Mangas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1260363909,
-    "wof:lastmodified":1536600962,
+    "wof:lastmodified":1564164907,
     "wof:name":"Mangas",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

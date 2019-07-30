@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pichari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1344246999,
-    "wof:lastmodified":1537570250,
+    "wof:lastmodified":1564161281,
     "wof:name":"Pichari",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0686\u0648\u06cc\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0626\u06cc\u0646"
+    ],
     "name:und_x_variant":[
         "Hacienda Chuin",
         "Chuin Hacienda",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1293361539,
-    "wof:lastmodified":1537676626,
+    "wof:lastmodified":1564161951,
     "wof:name":"Chuin",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

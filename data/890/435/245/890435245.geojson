@@ -15,6 +15,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:fra_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:por_x_preferred":[
+        "Villa Rica"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Rica"
+    ],
     "qs:name":"Villa Rica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":890435245,
-    "wof:lastmodified":1534379396,
+    "wof:lastmodified":1564166389,
     "wof:name":"Villa Rica",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

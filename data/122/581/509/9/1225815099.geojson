@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Morococha"
+    ],
+    "name:nor_x_preferred":[
+        "Morococha"
+    ],
+    "name:swe_x_preferred":[
+        "Morococha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1225815099,
-    "wof:lastmodified":1560310243,
+    "wof:lastmodified":1564168360,
     "wof:name":"Morococha",
     "wof:parent_id":1108693951,
     "wof:placetype":"locality",

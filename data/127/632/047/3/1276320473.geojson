@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Mikaela Bastidas"
+    ],
+    "name:bre_x_preferred":[
+        "Micaela Bastidas"
+    ],
+    "name:deu_x_preferred":[
+        "Micaela Bastidas"
+    ],
+    "name:fra_x_preferred":[
+        "Micaela Bastidas"
+    ],
+    "name:que_x_preferred":[
+        "Micaela Bastidas"
+    ],
+    "name:spa_x_preferred":[
+        "Micaela Bastidas"
+    ],
+    "name:swe_x_preferred":[
+        "Micaela Bastidas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276320473,
-    "wof:lastmodified":1536796237,
+    "wof:lastmodified":1564163142,
     "wof:name":"Micaela Bastidas",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

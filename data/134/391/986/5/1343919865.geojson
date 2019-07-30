@@ -26,6 +26,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rampon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343919865,
-    "wof:lastmodified":1537075629,
+    "wof:lastmodified":1564161046,
     "wof:name":"Rampon",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

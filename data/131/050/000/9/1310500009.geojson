@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Sikuwani"
+    ],
+    "name:ceb_x_preferred":[
+        "Sicuani"
+    ],
+    "name:deu_x_preferred":[
+        "Sicuani"
+    ],
+    "name:fra_x_preferred":[
+        "Sicuani"
+    ],
+    "name:pol_x_preferred":[
+        "Sicuani"
+    ],
+    "name:por_x_preferred":[
+        "Sicuani"
+    ],
+    "name:que_x_preferred":[
+        "Sikuwani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0443\u0430\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Sicuani"
+    ],
+    "name:war_x_preferred":[
+        "Sicuani"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5938\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1310500009,
-    "wof:lastmodified":1536925570,
+    "wof:lastmodified":1564165598,
     "wof:name":"Sicuani",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

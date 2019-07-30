@@ -27,6 +27,24 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Foronda"
+    ],
+    "name:ceb_x_preferred":[
+        "Foronda"
+    ],
+    "name:eus_x_preferred":[
+        "Foronda"
+    ],
+    "name:fra_x_preferred":[
+        "Foronda"
+    ],
+    "name:spa_x_preferred":[
+        "Foronda"
+    ],
+    "name:swe_x_preferred":[
+        "Foronda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1327321491,
-    "wof:lastmodified":1536840010,
+    "wof:lastmodified":1564160668,
     "wof:name":"Foronda",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

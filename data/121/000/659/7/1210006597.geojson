@@ -27,9 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cotahuasi"
+    ],
+    "name:lit_x_preferred":[
+        "Kotahuasis"
+    ],
+    "name:por_x_preferred":[
+        "Cotahuasi"
+    ],
+    "name:que_x_preferred":[
+        "Kutawasi"
+    ],
+    "name:ron_x_preferred":[
+        "Cotahuasi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0443\u0430\u0441\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Cotahuasi"
+    ],
     "name:und_x_variant":[
         "Cotahuasi Hacienda",
         "Cotahuasi"
+    ],
+    "name:war_x_preferred":[
+        "Cotahuasi"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5854\u74e6\u897f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1210006597,
-    "wof:lastmodified":1537676819,
+    "wof:lastmodified":1564164526,
     "wof:name":"Cotahuasi",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

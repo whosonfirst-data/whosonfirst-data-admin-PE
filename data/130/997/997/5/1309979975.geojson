@@ -27,6 +27,57 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pocoy\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0648\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:glg_x_preferred":[
+        "Pocoy\u00f3"
+    ],
+    "name:hun_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:ita_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4a\u0d15\u0d4a\u0d2f\u0d4b"
+    ],
+    "name:nor_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a4b\u0a15\u0a4b\u0a2f\u0a4b"
+    ],
+    "name:pol_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:por_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:ron_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:spa_x_preferred":[
+        "Pocoy\u00f3"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043a\u043e\u0458\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Pocoyo"
+    ],
+    "name:vie_x_preferred":[
+        "Pocoyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +101,7 @@
         }
     ],
     "wof:id":1309979975,
-    "wof:lastmodified":1536680117,
+    "wof:lastmodified":1564166025,
     "wof:name":"Pocoyo",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

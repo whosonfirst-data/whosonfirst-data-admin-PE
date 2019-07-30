@@ -27,6 +27,66 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0648\u0628\u064a\u0643\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "Tropico"
+    ],
+    "name:ces_x_preferred":[
+        "Tropico"
+    ],
+    "name:deu_x_preferred":[
+        "Tropico"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u067e\u06cc\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Tropico"
+    ],
+    "name:fra_x_preferred":[
+        "Tropico"
+    ],
+    "name:ita_x_preferred":[
+        "Tropico"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub85c\ud53c\ucf54"
+    ],
+    "name:lmo_x_preferred":[
+        "Tropico"
+    ],
+    "name:nld_x_preferred":[
+        "Tropico"
+    ],
+    "name:pol_x_preferred":[
+        "Tropico"
+    ],
+    "name:por_x_preferred":[
+        "Tropico"
+    ],
+    "name:rus_x_preferred":[
+        "Tropico"
+    ],
+    "name:spa_x_preferred":[
+        "Tropico"
+    ],
+    "name:swe_x_preferred":[
+        "Tropico"
+    ],
+    "name:ukr_x_preferred":[
+        "Tropico"
+    ],
+    "name:vie_x_preferred":[
+        "Tropico"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d77\u5c9b\u5927\u4ea8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c9b\u5927\u4ea8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +110,7 @@
         }
     ],
     "wof:id":1209801491,
-    "wof:lastmodified":1536390511,
+    "wof:lastmodified":1564164396,
     "wof:name":"Tropico",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

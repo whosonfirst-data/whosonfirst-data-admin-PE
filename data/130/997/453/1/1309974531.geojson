@@ -27,6 +27,12 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ciudad Nueva"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Nueva"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1309974531,
-    "wof:lastmodified":1536688089,
+    "wof:lastmodified":1564166031,
     "wof:name":"Ciudad Nueva",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

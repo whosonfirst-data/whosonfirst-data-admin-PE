@@ -14,6 +14,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Putina"
+    ],
+    "name:por_x_preferred":[
+        "Putina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043d\u0430"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
     "ne:ADM0_A3":"PER",
@@ -151,7 +163,7 @@
         }
     ],
     "wof:id":421172819,
-    "wof:lastmodified":1505340614,
+    "wof:lastmodified":1564166334,
     "wof:name":"Putina",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

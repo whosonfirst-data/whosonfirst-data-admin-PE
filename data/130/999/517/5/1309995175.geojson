@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Lirqay"
+    ],
+    "name:spa_x_preferred":[
+        "Lircay"
+    ],
+    "name:war_x_preferred":[
+        "Lircay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u723e\u51f1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1309995175,
-    "wof:lastmodified":1537570255,
+    "wof:lastmodified":1564166056,
     "wof:name":"Lircay",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

@@ -27,8 +27,62 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Galeria"
+    ],
+    "name:ceb_x_preferred":[
+        "Galeria"
+    ],
+    "name:deu_x_preferred":[
+        "Galeria"
+    ],
+    "name:epo_x_preferred":[
+        "Galerio"
+    ],
+    "name:eus_x_preferred":[
+        "Galeria"
+    ],
+    "name:glg_x_preferred":[
+        "Galer\u00eda"
+    ],
+    "name:ido_x_preferred":[
+        "Galerio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30e3\u30e9\u30ea\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uac24\ub7ec\ub9ac"
+    ],
+    "name:lat_x_preferred":[
+        "Galeria"
+    ],
+    "name:nld_x_preferred":[
+        "Galerij"
+    ],
+    "name:pol_x_preferred":[
+        "Galeria"
+    ],
+    "name:por_x_preferred":[
+        "Galeria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0435\u0440\u0435\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Gallar\u00eca"
+    ],
     "name:spa_x_preferred":[
         "Galer\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Galeria"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e01\u0e25\u0e40\u0e25\u0e2d\u0e23\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0435\u0440\u0435\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1293248775,
-    "wof:lastmodified":1537676937,
+    "wof:lastmodified":1564162200,
     "wof:name":"Galeria",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

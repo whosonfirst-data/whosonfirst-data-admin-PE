@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0430\u0440\u0430\u0439"
+    ],
+    "name:fra_x_preferred":[
+        "Acaray"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10d0\u10e0\u10d0\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0430\u0440\u0430\u0458"
+    ],
+    "name:por_x_preferred":[
+        "Acaray"
+    ],
+    "name:que_x_preferred":[
+        "Akaray"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u0440\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Hacienda Acaray",
         "Acaray Hacienda",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1326702877,
-    "wof:lastmodified":1560310365,
+    "wof:lastmodified":1564160766,
     "wof:name":"Acaray",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

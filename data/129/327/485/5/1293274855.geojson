@@ -27,6 +27,45 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chanquillo"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108ankijo"
+    ],
+    "name:fra_x_preferred":[
+        "Chanquillo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0576\u056f\u056b\u056c\u056c\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Chankillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30f3\u30ad\u30fc\u30e8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10d9\u10d8\u10da\u10d8\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cankilijas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u0438\u043b\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Chankillo"
+    ],
+    "name:que_x_preferred":[
+        "Chankillu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u0438\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Chanquillo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +89,7 @@
         }
     ],
     "wof:id":1293274855,
-    "wof:lastmodified":1560310302,
+    "wof:lastmodified":1564162578,
     "wof:name":"Chanquillo",
     "wof:parent_id":1108693949,
     "wof:placetype":"locality",

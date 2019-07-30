@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pian"
+    ],
+    "name:deu_x_preferred":[
+        "Pian"
+    ],
+    "name:fra_x_preferred":[
+        "Pian"
+    ],
+    "name:ita_x_preferred":[
+        "Pian"
+    ],
+    "name:por_x_preferred":[
+        "Pian"
+    ],
+    "name:spa_x_preferred":[
+        "Pian"
+    ],
+    "name:srp_x_preferred":[
+        "Pjan"
+    ],
+    "name:swe_x_preferred":[
+        "Pian"
+    ],
     "name:und_x_variant":[
         "Pran"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1259858977,
-    "wof:lastmodified":1537676883,
+    "wof:lastmodified":1564167625,
     "wof:name":"Pian",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

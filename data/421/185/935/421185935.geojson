@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Ingenio"
     ],
+    "name:swe_x_preferred":[
+        "Ingenio"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421185935,
-    "wof:lastmodified":1527726507,
+    "wof:lastmodified":1564166374,
     "wof:name":"Ingenio",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

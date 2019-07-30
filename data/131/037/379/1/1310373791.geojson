@@ -27,6 +27,39 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Pukarani"
+    ],
+    "name:ceb_x_preferred":[
+        "Pucarani"
+    ],
+    "name:deu_x_preferred":[
+        "Pucarani"
+    ],
+    "name:fra_x_preferred":[
+        "Pucarani"
+    ],
+    "name:nor_x_preferred":[
+        "Pucarani"
+    ],
+    "name:pol_x_preferred":[
+        "Pucarani"
+    ],
+    "name:que_x_preferred":[
+        "Pukarani"
+    ],
+    "name:spa_x_preferred":[
+        "Pucarani"
+    ],
+    "name:swe_x_preferred":[
+        "Pucarani"
+    ],
+    "name:war_x_preferred":[
+        "Pucarani"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5361\u62c9\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1310373791,
-    "wof:lastmodified":1536606725,
+    "wof:lastmodified":1564165362,
     "wof:name":"Pucarani",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

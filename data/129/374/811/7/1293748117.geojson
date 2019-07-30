@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bazan"
+    ],
+    "name:ita_x_preferred":[
+        "Bazan"
+    ],
+    "name:slv_x_preferred":[
+        "Bazan"
+    ],
+    "name:swe_x_preferred":[
+        "Bazan"
+    ],
     "name:und_x_variant":[
         "Hacienda Bazan",
         "Baz\u00e1n"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293748117,
-    "wof:lastmodified":1537676641,
+    "wof:lastmodified":1564162654,
     "wof:name":"Bazan",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

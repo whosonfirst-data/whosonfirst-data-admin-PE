@@ -27,11 +27,44 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vilcashuaman"
+    ],
+    "name:ita_x_preferred":[
+        "Vilcas Huam\u00e1n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d9\u10d0\u10e1\u10e3\u10d0\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Vilkashuamanas"
+    ],
+    "name:pol_x_preferred":[
+        "Vilcas Huam\u00e1n"
+    ],
+    "name:que_x_preferred":[
+        "Willkawaman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u043a\u0430\u0441\u0443\u0430\u043c\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Vilcashuam\u00e1n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u043a\u0430\u0441\u0443\u0430\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Vitcashum\u00e1n",
         "Vilcas Huam\u00e1n",
         "Vilcashuam\u00e1n",
         "Vilcashuaman"
+    ],
+    "name:war_x_preferred":[
+        "Vilcashuam\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u5361\u8212\u74e6\u66fc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":1209207719,
-    "wof:lastmodified":1560314442,
+    "wof:lastmodified":1564164330,
     "wof:name":"Vilcashuaman",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u064a\u0646\u0634\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u044f\u043c\u0443\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Quincha"
+    ],
+    "name:pol_x_preferred":[
+        "Lamus"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u043c\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Quincha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u043c\u0443\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1226529157,
-    "wof:lastmodified":1537021067,
+    "wof:lastmodified":1564168606,
     "wof:name":"Quincha",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

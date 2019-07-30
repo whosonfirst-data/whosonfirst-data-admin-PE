@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Cerrillos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cerrillos"
+    ],
+    "name:swe_x_preferred":[
+        "Los Cerrillos"
+    ],
     "name:und_x_variant":[
         "Cerrillo",
         "Los Cerrillos"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1193255695,
-    "wof:lastmodified":1537676764,
+    "wof:lastmodified":1564164662,
     "wof:name":"Los Cerrillos",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

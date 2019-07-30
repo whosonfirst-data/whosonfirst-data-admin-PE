@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ciudad Constituci\u00f3n"
+    ],
     "name:und_x_variant":[
         "Ciudad Constituci\u00f3n"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259358045,
-    "wof:lastmodified":1537676896,
+    "wof:lastmodified":1564167718,
     "wof:name":"Ciudad Constitucion",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

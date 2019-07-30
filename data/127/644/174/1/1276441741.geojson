@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pitis"
+    ],
     "name:und_x_variant":[
         "Pitis Hacienda",
         "Pitis"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276441741,
-    "wof:lastmodified":1537676727,
+    "wof:lastmodified":1564162910,
     "wof:name":"Pitis",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

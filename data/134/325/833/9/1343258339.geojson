@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ayo"
+    ],
+    "name:deu_x_preferred":[
+        "Ayo"
+    ],
+    "name:swe_x_preferred":[
+        "Ayo"
+    ],
+    "name:yor_x_preferred":[
+        "Ayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1343258339,
-    "wof:lastmodified":1537036399,
+    "wof:lastmodified":1564161487,
     "wof:name":"Ayo",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

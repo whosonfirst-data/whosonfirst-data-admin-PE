@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Xipa"
+    ],
+    "name:epo_x_preferred":[
+        "Chipa"
+    ],
+    "name:grn_x_preferred":[
+        "Chipa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d7\u05de\u05e0\u05d9\u05d9\u05ea \u05d2\u05d1\u05d9\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Chipa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30fb\u30c7\u30fb\u30b1\u30a4\u30b8\u30e7"
+    ],
+    "name:pol_x_preferred":[
+        "Cu\u00f1ap\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Chipa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1309781065,
-    "wof:lastmodified":1536966579,
+    "wof:lastmodified":1564166123,
     "wof:name":"Chipa",
     "wof:parent_id":421194849,
     "wof:placetype":"locality",

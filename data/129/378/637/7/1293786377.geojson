@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Merced"
+    ],
+    "name:deu_x_preferred":[
+        "La Merced"
+    ],
+    "name:fra_x_preferred":[
+        "La Merced"
+    ],
+    "name:ita_x_preferred":[
+        "La Merced"
+    ],
+    "name:nld_x_preferred":[
+        "La Merced"
+    ],
+    "name:pol_x_preferred":[
+        "La Merced"
+    ],
+    "name:por_x_preferred":[
+        "La Merced"
+    ],
+    "name:spa_x_preferred":[
+        "La Merced"
+    ],
+    "name:swe_x_preferred":[
+        "La Merced"
+    ],
+    "name:vie_x_preferred":[
+        "La Merced"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1293786377,
-    "wof:lastmodified":1536852117,
+    "wof:lastmodified":1564162287,
     "wof:name":"La Merced",
     "wof:parent_id":1108694003,
     "wof:placetype":"locality",

@@ -30,10 +30,46 @@
     "mps:longitude":-76.349906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Bellavista"
+    ],
+    "name:ceb_x_preferred":[
+        "Bellavista"
+    ],
+    "name:deu_x_preferred":[
+        "Bellavista"
+    ],
     "name:eng_x_preferred":[
         "Bellavista"
     ],
     "name:eng_x_variant":[
+        "Bellavista"
+    ],
+    "name:fra_x_preferred":[
+        "Bellavista"
+    ],
+    "name:ita_x_preferred":[
+        "Bellavista"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub77c\ube44\uc2a4\ud0c0"
+    ],
+    "name:nld_x_preferred":[
+        "Bellavista"
+    ],
+    "name:pol_x_preferred":[
+        "Bellavista"
+    ],
+    "name:por_x_preferred":[
+        "Bellavista"
+    ],
+    "name:spa_x_preferred":[
+        "Bellavista"
+    ],
+    "name:srp_x_preferred":[
+        "Bellavista"
+    ],
+    "name:swe_x_preferred":[
         "Bellavista"
     ],
     "src:geom":"meso",
@@ -71,7 +107,7 @@
         }
     ],
     "wof:id":1108693993,
-    "wof:lastmodified":1553718262,
+    "wof:lastmodified":1564165117,
     "wof:name":"Bellavista",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

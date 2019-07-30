@@ -27,8 +27,29 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nerio"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03c1\u03b9\u03bf"
+    ],
+    "name:epo_x_preferred":[
+        "Nerio"
+    ],
+    "name:fra_x_preferred":[
+        "Nerio"
+    ],
+    "name:pol_x_preferred":[
+        "Nerio"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u0438\u043e"
+    ],
     "name:spa_x_preferred":[
         "Nerio"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u9ece\u5965"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1276531179,
-    "wof:lastmodified":1537676945,
+    "wof:lastmodified":1564163616,
     "wof:name":"Nerio",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

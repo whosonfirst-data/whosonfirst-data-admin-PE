@@ -27,6 +27,36 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0648\u0646\u0627\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "Gamonal"
+    ],
+    "name:deu_x_preferred":[
+        "Gamonal"
+    ],
+    "name:epo_x_preferred":[
+        "Gamonal"
+    ],
+    "name:fra_x_preferred":[
+        "Gamonal"
+    ],
+    "name:ita_x_preferred":[
+        "Gamonal"
+    ],
+    "name:pol_x_preferred":[
+        "Gamonal"
+    ],
+    "name:por_x_preferred":[
+        "Gamonal"
+    ],
+    "name:spa_x_preferred":[
+        "Gamonal"
+    ],
+    "name:swe_x_preferred":[
+        "Gamonal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1327311235,
-    "wof:lastmodified":1536854693,
+    "wof:lastmodified":1564160267,
     "wof:name":"Gamonal",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

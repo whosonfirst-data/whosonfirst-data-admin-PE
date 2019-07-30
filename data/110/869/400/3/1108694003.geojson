@@ -36,6 +36,27 @@
     "name:eng_x_variant":[
         "Ocros"
     ],
+    "name:fra_x_preferred":[
+        "Ocros"
+    ],
+    "name:lit_x_preferred":[
+        "Okrosas"
+    ],
+    "name:por_x_preferred":[
+        "Ocros"
+    ],
+    "name:que_x_preferred":[
+        "Uqrus"
+    ],
+    "name:spa_x_preferred":[
+        "Ocros"
+    ],
+    "name:war_x_preferred":[
+        "Ocros"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u7f85\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1108694003,
-    "wof:lastmodified":1553718255,
+    "wof:lastmodified":1564165123,
     "wof:name":"Ocros",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

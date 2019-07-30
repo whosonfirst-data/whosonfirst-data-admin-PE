@@ -25,6 +25,9 @@
     "name:que_x_preferred":[
         "Uqrus"
     ],
+    "name:spa_x_preferred":[
+        "Ocros"
+    ],
     "name:war_x_preferred":[
         "Ocros"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421184035,
-    "wof:lastmodified":1527716453,
+    "wof:lastmodified":1564166361,
     "wof:name":"Ocros",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

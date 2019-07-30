@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Ayha"
+    ],
+    "name:cat_x_preferred":[
+        "Aija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062c\u0627"
+    ],
+    "name:lit_x_preferred":[
+        "Aicha"
+    ],
+    "name:nor_x_preferred":[
+        "Aija"
+    ],
+    "name:por_x_preferred":[
+        "Aija"
+    ],
+    "name:que_x_preferred":[
+        "Ayha"
+    ],
+    "name:spa_x_preferred":[
+        "Aija"
+    ],
+    "name:war_x_preferred":[
+        "Aija"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1360087229,
-    "wof:lastmodified":1537570239,
+    "wof:lastmodified":1564165808,
     "wof:name":"Aija",
     "wof:parent_id":421188719,
     "wof:placetype":"locality",

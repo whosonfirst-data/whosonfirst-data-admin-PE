@@ -37,6 +37,33 @@
     "name:eng_x_variant":[
         "Chincheros"
     ],
+    "name:epo_x_preferred":[
+        "\u0108in\u0109eros"
+    ],
+    "name:glg_x_preferred":[
+        "Chincheros"
+    ],
+    "name:ita_x_preferred":[
+        "Chincheros"
+    ],
+    "name:nld_x_preferred":[
+        "Chincheros"
+    ],
+    "name:por_x_preferred":[
+        "Chincheros"
+    ],
+    "name:que_x_preferred":[
+        "Chinchiru"
+    ],
+    "name:spa_x_preferred":[
+        "Chincheros"
+    ],
+    "name:war_x_preferred":[
+        "Chincheros"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b3d\u5207\u7f85\u65af"
+    ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":8349550,
@@ -96,7 +123,7 @@
         }
     ],
     "wof:id":421194079,
-    "wof:lastmodified":1553717526,
+    "wof:lastmodified":1564166302,
     "wof:name":"Chincheros",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

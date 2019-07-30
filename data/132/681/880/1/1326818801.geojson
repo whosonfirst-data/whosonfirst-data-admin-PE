@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ogo"
+    ],
+    "name:deu_x_preferred":[
+        "Ogo"
+    ],
+    "name:swe_x_preferred":[
+        "Ogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1326818801,
-    "wof:lastmodified":1537065267,
+    "wof:lastmodified":1564160305,
     "wof:name":"Ogo",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",

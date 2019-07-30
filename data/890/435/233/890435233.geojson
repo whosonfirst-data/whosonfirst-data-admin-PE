@@ -15,6 +15,27 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Yura"
+    ],
+    "name:fra_x_preferred":[
+        "Yura"
+    ],
+    "name:ita_x_preferred":[
+        "Yura"
+    ],
+    "name:kor_x_preferred":[
+        "\uc720\ub77c"
+    ],
+    "name:lin_x_preferred":[
+        "Yura"
+    ],
+    "name:spa_x_preferred":[
+        "Yura"
+    ],
+    "name:swe_x_preferred":[
+        "Yura"
+    ],
     "name:unk_x_variant":[
         "Balneario de Yura"
     ],
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":890435233,
-    "wof:lastmodified":1527793047,
+    "wof:lastmodified":1564166390,
     "wof:name":"Yura",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

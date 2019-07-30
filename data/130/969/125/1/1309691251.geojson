@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tres Rios"
+    ],
+    "name:ita_x_preferred":[
+        "Tres Rios"
+    ],
+    "name:lit_x_preferred":[
+        "Tres Riosas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0435\u0441 \u0420\u0438\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Tres Rios"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1309691251,
-    "wof:lastmodified":1537093068,
+    "wof:lastmodified":1564166210,
     "wof:name":"Tres Rios",
     "wof:parent_id":1108693885,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ea\u30a7\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\ub808\ub77c"
+    ],
+    "name:que_x_preferred":[
+        "Pullira"
+    ],
+    "name:spa_x_preferred":[
+        "Pollera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310564893,
-    "wof:lastmodified":1536830408,
+    "wof:lastmodified":1564165651,
     "wof:name":"Pollera",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

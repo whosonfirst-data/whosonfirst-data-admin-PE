@@ -27,6 +27,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "El Gringo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u06af\u0631\u06cc\u0646\u06af\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u0433\u043e"
+    ],
     "name:spa_x_preferred":[
         "El Gringo"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1193160495,
-    "wof:lastmodified":1537676814,
+    "wof:lastmodified":1564164770,
     "wof:name":"El Gringo",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

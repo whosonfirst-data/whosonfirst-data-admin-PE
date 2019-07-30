@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Honcopampa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242685649,
-    "wof:lastmodified":1537570274,
+    "wof:lastmodified":1564166630,
     "wof:name":"Hornopampa",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

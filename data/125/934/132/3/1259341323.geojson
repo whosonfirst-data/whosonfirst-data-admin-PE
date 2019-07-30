@@ -26,6 +26,15 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ventanilla"
+    ],
+    "name:spa_x_preferred":[
+        "Ventanilla"
+    ],
+    "name:swe_x_preferred":[
+        "Ventanilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259341323,
-    "wof:lastmodified":1537060400,
+    "wof:lastmodified":1564167827,
     "wof:name":"Ventanilla",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",

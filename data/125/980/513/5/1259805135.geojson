@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cutervo"
+    ],
+    "name:que_x_preferred":[
+        "Cutervo"
+    ],
+    "name:spa_x_preferred":[
+        "Cutervo"
+    ],
+    "name:war_x_preferred":[
+        "Cutervo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u7279\u723e\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1259805135,
-    "wof:lastmodified":1537570235,
+    "wof:lastmodified":1564167878,
     "wof:name":"Cutervo",
     "wof:parent_id":1108693977,
     "wof:placetype":"locality",

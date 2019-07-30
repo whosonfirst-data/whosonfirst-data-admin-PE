@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u3067\u3059\u307a\u3089"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1225940621,
-    "wof:lastmodified":1536875894,
+    "wof:lastmodified":1564167947,
     "wof:name":"Despera",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

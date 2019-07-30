@@ -27,6 +27,33 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuyo"
+    ],
+    "name:deu_x_preferred":[
+        "Cuyo"
+    ],
+    "name:fra_x_preferred":[
+        "Cuyo"
+    ],
+    "name:ind_x_preferred":[
+        "Cuyo"
+    ],
+    "name:ita_x_preferred":[
+        "Cuyo"
+    ],
+    "name:nld_x_preferred":[
+        "Cuyo"
+    ],
+    "name:por_x_preferred":[
+        "Cuyo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cuyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1226327195,
-    "wof:lastmodified":1536815501,
+    "wof:lastmodified":1564168317,
     "wof:name":"Cuyo",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

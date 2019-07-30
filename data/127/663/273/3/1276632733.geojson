@@ -27,6 +27,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Orongo"
+    ],
+    "name:ces_x_preferred":[
+        "Orongo"
+    ],
+    "name:deu_x_preferred":[
+        "Orongo"
+    ],
+    "name:fra_x_preferred":[
+        "Orongo"
+    ],
+    "name:ita_x_preferred":[
+        "Orongo"
+    ],
+    "name:pol_x_preferred":[
+        "Orongo"
+    ],
+    "name:por_x_preferred":[
+        "Orongo"
+    ],
+    "name:slv_x_preferred":[
+        "Orongo"
+    ],
     "name:spa_x_preferred":[
         "Orongo"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1276632733,
-    "wof:lastmodified":1537676743,
+    "wof:lastmodified":1564163522,
     "wof:name":"Orongo",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

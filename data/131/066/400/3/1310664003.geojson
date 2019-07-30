@@ -28,8 +28,65 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Rioja"
+    ],
+    "name:cat_x_preferred":[
+        "Rioja"
+    ],
+    "name:ceb_x_preferred":[
+        "Rioja"
+    ],
+    "name:deu_x_preferred":[
+        "Rioja"
+    ],
+    "name:epo_x_preferred":[
+        "Rio\u0125o"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u062e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Rioja"
+    ],
+    "name:ita_x_preferred":[
+        "Rioja"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ud558"
+    ],
+    "name:ltz_x_preferred":[
+        "Rioja"
+    ],
+    "name:pol_x_preferred":[
+        "Rioja"
+    ],
+    "name:por_x_preferred":[
+        "Rioja"
+    ],
+    "name:ron_x_preferred":[
+        "Rioja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e\u0445\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Rioja"
+    ],
+    "name:spa_x_preferred":[
+        "Rioja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043e\u0445\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Rioja"
+    ],
     "name:und_x_variant":[
         "Nueva Rioja",
+        "Rioja"
+    ],
+    "name:war_x_preferred":[
         "Rioja"
     ],
     "src:geom":"geonames",
@@ -55,7 +112,7 @@
         }
     ],
     "wof:id":1310664003,
-    "wof:lastmodified":1537676711,
+    "wof:lastmodified":1564165574,
     "wof:name":"Rioja",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

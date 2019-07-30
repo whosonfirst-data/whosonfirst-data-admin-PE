@@ -27,6 +27,21 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Andamarca"
+    ],
+    "name:deu_x_preferred":[
+        "Andamarca"
+    ],
+    "name:fra_x_preferred":[
+        "Andamarca"
+    ],
+    "name:que_x_preferred":[
+        "Antamarka"
+    ],
+    "name:swe_x_preferred":[
+        "Andamarca"
+    ],
     "name:und_x_variant":[
         "Hacienda Andamarca",
         "Andamarca Hacienda",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293757557,
-    "wof:lastmodified":1537676868,
+    "wof:lastmodified":1564162746,
     "wof:name":"Andamarca",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

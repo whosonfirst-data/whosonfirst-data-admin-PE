@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mostaza"
+    ],
     "name:und_x_variant":[
         "Mostazas Ciudad",
         "Mostazas",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327099019,
-    "wof:lastmodified":1537676581,
+    "wof:lastmodified":1564160242,
     "wof:name":"Mostaza",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

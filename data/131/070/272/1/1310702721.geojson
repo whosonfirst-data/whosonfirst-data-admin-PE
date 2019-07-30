@@ -27,6 +27,18 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pumahuasi"
+    ],
+    "name:ita_x_preferred":[
+        "Pumahuasi"
+    ],
+    "name:spa_x_preferred":[
+        "Pumahuasi"
+    ],
+    "name:swe_x_preferred":[
+        "Pumahuasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310702721,
-    "wof:lastmodified":1536630773,
+    "wof:lastmodified":1564165167,
     "wof:name":"Pumahuasi",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

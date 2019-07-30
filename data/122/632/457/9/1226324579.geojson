@@ -27,6 +27,9 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Orellana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226324579,
-    "wof:lastmodified":1537570230,
+    "wof:lastmodified":1564168316,
     "wof:name":"Orellana",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",

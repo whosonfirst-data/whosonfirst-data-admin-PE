@@ -15,6 +15,30 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Iberia"
+    ],
+    "name:cat_x_preferred":[
+        "Ib\u00e8ria"
+    ],
+    "name:glg_x_preferred":[
+        "Iberia"
+    ],
+    "name:hrv_x_preferred":[
+        "Iberija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0431\u0435\u0440\u0438\u0458\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Ib\u00e9ria"
+    ],
+    "name:spa_x_preferred":[
+        "Iberia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0431\u0435\u0440\u0438\u0458\u0430"
+    ],
     "qs:name":"Iberia",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":890435265,
-    "wof:lastmodified":1505343546,
+    "wof:lastmodified":1564166392,
     "wof:name":"Iberia",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

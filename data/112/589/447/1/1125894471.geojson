@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pacocha"
+    ],
     "name:unk_x_variant":[
         "Pacoch"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125894471,
-    "wof:lastmodified":1509399023,
+    "wof:lastmodified":1564166394,
     "wof:name":"Pacocha",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",

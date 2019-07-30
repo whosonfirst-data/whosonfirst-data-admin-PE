@@ -27,7 +27,13 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puente Piedra"
+    ],
     "name:spa_x_preferred":[
+        "Puente Piedra"
+    ],
+    "name:swe_x_preferred":[
         "Puente Piedra"
     ],
     "src:geom":"geonames",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276321467,
-    "wof:lastmodified":1537676969,
+    "wof:lastmodified":1564163152,
     "wof:name":"Puente Piedra",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",
