@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JU"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Jun\u00edn"
     ],
@@ -360,7 +363,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311200,
+    "wof:lastmodified":1565732283,
     "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

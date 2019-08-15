@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IC"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Ica"
     ],
@@ -354,7 +357,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311201,
+    "wof:lastmodified":1565732284,
     "wof:name":"Ica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

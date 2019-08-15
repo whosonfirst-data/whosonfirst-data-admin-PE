@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Lima"
     ],
@@ -362,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563314110,
+    "wof:lastmodified":1565892477,
     "wof:name":"Lima",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
@@ -370,6 +373,7 @@
     "wof:population":839469,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-pe",
+    "wof:shortcode":"LR",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85675909,

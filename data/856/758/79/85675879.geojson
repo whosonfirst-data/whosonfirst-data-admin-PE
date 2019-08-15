@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LL"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de La Libertad"
     ],
@@ -362,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311192,
+    "wof:lastmodified":1565732279,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

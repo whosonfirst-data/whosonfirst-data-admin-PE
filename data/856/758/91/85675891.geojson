@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UC"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Ucayali"
     ],
@@ -351,7 +354,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311185,
+    "wof:lastmodified":1565732275,
     "wof:name":"Ucayali",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

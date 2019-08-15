@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Amazonas"
     ],
@@ -356,7 +359,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311176,
+    "wof:lastmodified":1565732272,
     "wof:name":"Amazonas",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

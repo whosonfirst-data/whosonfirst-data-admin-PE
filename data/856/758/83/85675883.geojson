@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Pasco"
     ],
@@ -350,7 +353,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311194,
+    "wof:lastmodified":1565732280,
     "wof:name":"Pasco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

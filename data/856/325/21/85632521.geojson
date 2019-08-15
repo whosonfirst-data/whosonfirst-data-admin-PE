@@ -15,6 +15,9 @@
     "itu:country_code":[
         "51"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":-12.98078,
     "lbl:longitude":-72.876651,
     "mps:latitude":-12.98078,
@@ -985,9 +988,6 @@
         }
     ],
     "wof:id":85632521,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -996,7 +996,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311172,
+    "wof:lastmodified":1565732269,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

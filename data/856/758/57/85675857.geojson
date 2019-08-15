@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MQ"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Moquegua"
     ],
@@ -328,7 +331,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311177,
+    "wof:lastmodified":1565732272,
     "wof:name":"Moquegua",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

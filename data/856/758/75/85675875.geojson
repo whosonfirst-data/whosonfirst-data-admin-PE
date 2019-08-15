@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HC"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Hu\u00e1nuco"
     ],
@@ -354,7 +357,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311182,
+    "wof:lastmodified":1565732274,
     "wof:name":"Huanuco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

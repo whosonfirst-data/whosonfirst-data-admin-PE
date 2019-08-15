@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PU"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Puno"
     ],
@@ -241,7 +244,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563314080,
+    "wof:lastmodified":1565732339,
     "wof:name":"Puno",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

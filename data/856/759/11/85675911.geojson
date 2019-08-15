@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HV"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de "
     ],
@@ -358,7 +361,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311199,
+    "wof:lastmodified":1565732283,
     "wof:name":"Huancavelica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

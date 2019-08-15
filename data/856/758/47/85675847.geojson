@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "label:spa_x_preferred_longname":[
         "Departamento de Madre de Dios"
     ],
@@ -352,7 +355,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563311198,
+    "wof:lastmodified":1565732282,
     "wof:name":"Madre de Dios",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
