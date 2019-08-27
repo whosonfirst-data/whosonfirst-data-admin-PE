@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.25759,-11.70005,-69.21759,-11.66005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Vencedor"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226508767,
-    "wof:lastmodified":1537676975,
+    "wof:lastmodified":1566677466,
     "wof:name":"El Vencedor",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

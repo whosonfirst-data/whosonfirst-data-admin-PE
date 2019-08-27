@@ -11,10 +11,14 @@
     "geom:longitude":-73.402405,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":17444,
+    "gn:population":17444,
     "iso:country":"PE",
+    "lbl:bbox":"-73.4224045,-13.676329,-73.3824045,-13.636329",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Andahuaylas"
@@ -67,7 +71,7 @@
     "name:spa_x_preferred":[
         "Andahuaylas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Andahuavlas"
     ],
     "name:war_x_preferred":[
@@ -110,12 +114,12 @@
     "wof:concordances":{
         "gn:id":3947740,
         "gp:id":418472,
-        "qs:id":210401,
+        "qs_pg:id":210401,
         "wd:id":"Q489660",
         "wk:page":"Andahuaylas"
     },
     "wof:concordances_alt":{
-        "qs:id":151191
+        "qs_pg:id":151191
     },
     "wof:country":"PE",
     "wof:created":1459010065,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421201201,
-    "wof:lastmodified":1563315345,
+    "wof:lastmodified":1566676533,
     "wof:name":"Andahuaylas",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

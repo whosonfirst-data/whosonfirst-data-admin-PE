@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.30741,-10.24142,-76.26741,-10.20142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Moscatuna"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209704173,
-    "wof:lastmodified":1537676884,
+    "wof:lastmodified":1566675399,
     "wof:name":"Moscatuna",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

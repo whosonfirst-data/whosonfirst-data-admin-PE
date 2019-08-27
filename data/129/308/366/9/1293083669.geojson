@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.20278,-11.93722,-76.16278,-11.89722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tonto"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293083669,
-    "wof:lastmodified":1564162038,
+    "wof:lastmodified":1566674562,
     "wof:name":"Tonto",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

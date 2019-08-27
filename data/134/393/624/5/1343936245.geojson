@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.94917,-10.19806,-76.90917,-10.15806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Rondoi"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343936245,
-    "wof:lastmodified":1564161597,
+    "wof:lastmodified":1566674329,
     "wof:name":"Rondoy",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

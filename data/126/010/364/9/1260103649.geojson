@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.61556,-15.21806,-71.57556,-15.17806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ccota\u00f1a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260103649,
-    "wof:lastmodified":1537676844,
+    "wof:lastmodified":1566675893,
     "wof:name":"Ccotana",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

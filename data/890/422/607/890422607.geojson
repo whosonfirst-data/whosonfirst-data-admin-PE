@@ -11,10 +11,14 @@
     "geom:longitude":-75.71793,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":392,
+    "gn:population":392,
     "iso:country":"PE",
+    "lbl:bbox":"-75.73793,-14.1729,-75.69793,-14.1329",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aym_x_preferred":[
         "Tati jisk'a t'aqa suyu"
     ],
@@ -30,7 +34,7 @@
     "name:que_x_preferred":[
         "Tati distritu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tate de Capilla"
     ],
     "qs:name":"Tate de La Capilla",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3927694,
         "gp:id":412156,
-        "qs:id":585866,
+        "qs_pg:id":585866,
         "wd:id":"Q3826064",
         "wk:page":"Tate District"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890422607,
-    "wof:lastmodified":1563315409,
+    "wof:lastmodified":1566676552,
     "wof:name":"Tate de La Capilla",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

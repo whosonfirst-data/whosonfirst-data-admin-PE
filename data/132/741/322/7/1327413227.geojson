@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.26201,-10.88215,-75.22201,-10.84215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tupac Amaru"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327413227,
-    "wof:lastmodified":1537676945,
+    "wof:lastmodified":1566673858,
     "wof:name":"Tupac Amaru",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

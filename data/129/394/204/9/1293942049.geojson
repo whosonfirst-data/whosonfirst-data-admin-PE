@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.94928,-14.39628,-69.90928,-14.35628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293942049,
-    "wof:lastmodified":1536627319,
+    "wof:lastmodified":1566674739,
     "wof:name":"Huacacancha",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

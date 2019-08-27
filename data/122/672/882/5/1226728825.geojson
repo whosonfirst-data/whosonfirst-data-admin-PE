@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.57222,-8.96528,-78.53222,-8.92528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226728825,
-    "wof:lastmodified":1536739793,
+    "wof:lastmodified":1566677298,
     "wof:name":"Bajo Canal",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

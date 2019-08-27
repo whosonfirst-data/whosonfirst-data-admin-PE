@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.80751,-17.04808,-71.76751,-17.00808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259506887,
-    "wof:lastmodified":1536824275,
+    "wof:lastmodified":1566677135,
     "wof:name":"Cahuintala",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.07917,-13.82333,-72.03917,-13.78333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277095965,
-    "wof:lastmodified":1536748443,
+    "wof:lastmodified":1566674910,
     "wof:name":"Perccapampa",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

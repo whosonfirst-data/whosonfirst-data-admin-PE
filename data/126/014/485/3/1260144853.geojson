@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.7304,-5.44342,-79.6904,-5.40342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chanrro",
         "Chanrro Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260144853,
-    "wof:lastmodified":1537676630,
+    "wof:lastmodified":1566675801,
     "wof:name":"Chanro",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.341,-6.87155,-76.301,-6.83155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1326788871,
-    "wof:lastmodified":1564160742,
+    "wof:lastmodified":1566673920,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

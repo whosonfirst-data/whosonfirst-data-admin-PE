@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.57728,-16.14461,-69.53728,-16.10461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ubijuyo",
         "Ubijuvo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344120959,
-    "wof:lastmodified":1537676672,
+    "wof:lastmodified":1566674173,
     "wof:name":"Ubijuvo",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

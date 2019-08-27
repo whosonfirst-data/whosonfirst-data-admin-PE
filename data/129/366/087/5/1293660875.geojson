@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.41849,-4.91247,-76.37849,-4.87247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Patria"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1293660875,
-    "wof:lastmodified":1564162328,
+    "wof:lastmodified":1566674689,
     "wof:name":"Patria",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

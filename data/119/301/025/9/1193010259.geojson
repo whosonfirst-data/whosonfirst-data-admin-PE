@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.2896,-6.90636,-78.2496,-6.86636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193010259,
-    "wof:lastmodified":1536384243,
+    "wof:lastmodified":1566675692,
     "wof:name":"Pueblo Nueve",
     "wof:parent_id":421183859,
     "wof:placetype":"locality",

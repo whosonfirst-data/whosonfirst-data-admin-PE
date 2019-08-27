@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.63716,-5.61495,-78.59716,-5.57495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276759423,
-    "wof:lastmodified":1536705182,
+    "wof:lastmodified":1566674934,
     "wof:name":"El Mango",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

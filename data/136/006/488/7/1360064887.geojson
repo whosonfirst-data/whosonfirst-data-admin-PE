@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.20315,-11.20463,-76.16315,-11.16463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Condorbado",
         "Condorvado"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360064887,
-    "wof:lastmodified":1537676822,
+    "wof:lastmodified":1566676276,
     "wof:name":"Condorvado",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-15.74711,
     "geom:longitude":-71.37026,
     "iso:country":"PE",
+    "lbl:bbox":"-71.39026,-15.76711,-71.35026,-15.72711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Achoma"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3951512,
         "gp:id":418613,
-        "qs:id":211198,
+        "qs_pg:id":211198,
         "wd:id":"Q5656601"
     },
     "wof:country":"PE",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421201411,
-    "wof:lastmodified":1514494915,
+    "wof:lastmodified":1566676533,
     "wof:name":"Achoma",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

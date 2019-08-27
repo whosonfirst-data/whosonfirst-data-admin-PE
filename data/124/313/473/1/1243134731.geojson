@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.72475,-16.81265,-70.68475,-16.77265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lune"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243134731,
-    "wof:lastmodified":1564166843,
+    "wof:lastmodified":1566676768,
     "wof:name":"Lune",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

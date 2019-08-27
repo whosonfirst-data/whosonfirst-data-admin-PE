@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.07,-7.08667,-74.03,-7.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Venus"
     ],
@@ -608,7 +612,7 @@
         }
     ],
     "wof:id":1309675697,
-    "wof:lastmodified":1564166180,
+    "wof:lastmodified":1566676428,
     "wof:name":"Venus",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

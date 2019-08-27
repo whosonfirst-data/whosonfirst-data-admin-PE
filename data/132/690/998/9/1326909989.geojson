@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.35234,-11.23271,-76.31234,-11.19271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326909989,
-    "wof:lastmodified":1536937650,
+    "wof:lastmodified":1566673962,
     "wof:name":"Uchucchaca",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-13.07556,
     "geom:longitude":-76.38528,
     "iso:country":"PE",
+    "lbl:bbox":"-76.40528,-13.09556,-76.36528,-13.05556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u064a\u0633\u064a\u0646\u062a\u064a \u062f\u064a \u0643\u0627\u0646\u064a\u062a\u064a"
@@ -104,7 +108,7 @@
         "San Vicente de Ca\u00f1ete"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9f\u0bbf \u0b95\u0bbe\u0ba8\u0bc0\u0b9f\u0bcd"
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd \u0b9f\u0bbf \u0b95\u0bbe\u0ba8\u0bc0\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c28\u0c4d \u0c35\u0c3f\u0c38\u0c46\u0c02\u0c1f\u0c47 \u0c21\u0c3f \u0c15\u0c3e\u0c28\u0c47\u0c1f\u0c47"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u0435-\u0434\u0435-\u041a\u0430\u043d\u044c\u0454\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pueblo Nuevo"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +171,7 @@
     "wof:concordances":{
         "gn:id":3928993,
         "gp:id":414470,
-        "qs:id":899791,
+        "qs_pg:id":899791,
         "wd:id":"Q1853969",
         "wk:page":"San Vicente de Ca\u00f1ete"
     },
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":421174821,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1566676493,
     "wof:name":"San Vicente de Ca\u00f1ete",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

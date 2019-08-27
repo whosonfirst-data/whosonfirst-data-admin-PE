@@ -11,8 +11,11 @@
     "geom:longitude":-70.93567,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":54517,
+    "gn:population":54517,
     "iso:country":"PE",
+    "lbl:bbox":"-70.95567,-17.21832,-70.91567,-17.17832",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -283,12 +286,12 @@
     "wof:concordances":{
         "gn:id":3934608,
         "gp:id":418556,
-        "qs:id":274556,
+        "qs_pg:id":274556,
         "wd:id":"Q1000346",
         "wk:page":"Moquegua"
     },
     "wof:concordances_alt":{
-        "qs:id":268884
+        "qs_pg:id":268884
     },
     "wof:country":"PE",
     "wof:created":1469052354,
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":890442197,
-    "wof:lastmodified":1563315440,
+    "wof:lastmodified":1566676561,
     "wof:name":"Moquegua",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

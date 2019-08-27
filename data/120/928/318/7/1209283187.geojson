@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.75481,-6.61422,-76.71481,-6.57422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huaja"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209283187,
-    "wof:lastmodified":1560312041,
+    "wof:lastmodified":1566675638,
     "wof:name":"Huaja",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

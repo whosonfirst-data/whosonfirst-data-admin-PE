@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.60455,-15.0641,-70.56455,-15.0241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326694231,
-    "wof:lastmodified":1536750532,
+    "wof:lastmodified":1566673757,
     "wof:name":"Hacienda Belen",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",

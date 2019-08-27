@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.09983,-15.95941,-70.05983,-15.91941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -122,8 +126,7 @@
     ],
     "name:und_x_variant":[
         "San Miguel Hacienda",
-        "San Miguel Huallalaca",
-        "San Miguel"
+        "San Miguel Huallalaca"
     ],
     "name:war_x_preferred":[
         "San Miguel"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1292959483,
-    "wof:lastmodified":1564162120,
+    "wof:lastmodified":1566674598,
     "wof:name":"San Miguel",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

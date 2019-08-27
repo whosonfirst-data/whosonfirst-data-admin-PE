@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.41307,-11.90532,-75.37307,-11.86532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226622697,
-    "wof:lastmodified":1536892474,
+    "wof:lastmodified":1566677628,
     "wof:name":"Huasanga",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

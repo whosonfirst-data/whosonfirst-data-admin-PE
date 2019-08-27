@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.47435,-14.33794,-69.43435,-14.29794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Apallani"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360059289,
-    "wof:lastmodified":1537676997,
+    "wof:lastmodified":1566676344,
     "wof:name":"Apallani",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

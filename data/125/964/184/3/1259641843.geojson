@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.74495,-6.6677,-76.70495,-6.6277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arequipa"
     ],
@@ -263,7 +267,7 @@
         }
     ],
     "wof:id":1259641843,
-    "wof:lastmodified":1564167484,
+    "wof:lastmodified":1566677056,
     "wof:name":"Arequipa",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.16831,-11.10651,-76.12831,-11.06651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ordones",
         "Ondores"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309699189,
-    "wof:lastmodified":1537676745,
+    "wof:lastmodified":1566676438,
     "wof:name":"Ondores",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

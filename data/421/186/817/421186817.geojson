@@ -10,8 +10,12 @@
     "geom:latitude":-11.066559,
     "geom:longitude":-75.353714,
     "iso:country":"PE",
+    "lbl:bbox":"-75.373714,-11.086559,-75.333714,-11.046559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "La Merced"
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":418539,
-        "qs:id":1076006,
+        "qs_pg:id":1076006,
         "wd:id":"Q1014543"
     },
     "wof:country":"PE",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421186817,
-    "wof:lastmodified":1561777728,
+    "wof:lastmodified":1566676512,
     "wof:name":"La Merced",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

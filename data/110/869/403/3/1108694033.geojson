@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.401447,
     "lbl:longitude":-69.978281,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tacna",
     "meso:gadm_admin":"Tarata",
     "meso:gadm_hasc2":"PE.TA.TA",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.978281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tarata"
     ],
@@ -58,9 +61,9 @@
         "Tarata"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,820.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Tarata",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108694033,
-    "wof:lastmodified":1564165128,
+    "wof:lastmodified":1566675948,
     "wof:name":"Tarata",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

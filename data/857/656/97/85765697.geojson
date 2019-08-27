@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4627038.85436,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.115964,-12.058532,-77.115964,-12.058532",
     "geom:latitude":-12.058532,
     "geom:longitude":-77.115964,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-77.120964,-12.063532,-77.110964,-12.053532",
     "lbl:latitude":-12.058532,
     "lbl:longitude":-77.115964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.053865,
     "mps:longitude":-77.109173,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Cuidad del Pescador"
-    ],
-    "name:unk_x_variant":[
         "Cuidad del Pescador"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675817,
         102191577,
         85632521,
-        421187933,
-        85675817
+        421187933
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723514,
-        "qs:id":268821,
         "qs_pg:id":268821
     },
     "wof:country":"PE",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859036,
+    "wof:lastmodified":1566674470,
     "wof:name":"Cuidad del Pescador",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

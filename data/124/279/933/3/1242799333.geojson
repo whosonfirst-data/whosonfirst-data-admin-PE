@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.15885,-6.46741,-79.11885,-6.42741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Molle"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242799333,
-    "wof:lastmodified":1564167105,
+    "wof:lastmodified":1566676883,
     "wof:name":"Molle",
     "wof:parent_id":1108693987,
     "wof:placetype":"locality",

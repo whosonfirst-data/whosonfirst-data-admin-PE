@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.88792,-4.61411,-77.84792,-4.57411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041c\u0430\u0440\u0438\u0458\u0430 \u0434\u0435 \u041d\u0438\u0458\u0435\u0432\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242984377,
-    "wof:lastmodified":1564167155,
+    "wof:lastmodified":1566676904,
     "wof:name":"Santa Maria de Nieva",
     "wof:parent_id":1108694049,
     "wof:placetype":"locality",

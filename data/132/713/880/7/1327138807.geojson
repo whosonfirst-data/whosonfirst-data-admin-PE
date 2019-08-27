@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.38778,-14.97139,-73.34778,-14.93139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10d9\u10d0\u10de\u10d0\u10e3\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327138807,
-    "wof:lastmodified":1564160516,
+    "wof:lastmodified":1566673815,
     "wof:name":"Pacapausa",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

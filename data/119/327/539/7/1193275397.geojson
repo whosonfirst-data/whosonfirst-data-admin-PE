@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.51496,-15.66758,-72.47496,-15.62758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u043d\u0430"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1193275397,
-    "wof:lastmodified":1564164743,
+    "wof:lastmodified":1566675758,
     "wof:name":"Muna",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

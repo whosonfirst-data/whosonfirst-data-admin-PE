@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.43504,-3.77088,-76.39504,-3.73088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
     ],
@@ -115,8 +119,7 @@
         "Santa Rosa"
     ],
     "name:und_x_variant":[
-        "La Rosa",
-        "Santa Rosa"
+        "La Rosa"
     ],
     "name:vol_x_preferred":[
         "Santa Rosa"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1209088273,
-    "wof:lastmodified":1564163833,
+    "wof:lastmodified":1566675341,
     "wof:name":"Santa Rosa",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

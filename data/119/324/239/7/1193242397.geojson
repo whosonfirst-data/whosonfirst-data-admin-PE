@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.36934,-14.20582,-69.32934,-14.16582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lifon"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193242397,
-    "wof:lastmodified":1537676997,
+    "wof:lastmodified":1566675700,
     "wof:name":"Lifon",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

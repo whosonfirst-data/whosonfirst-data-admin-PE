@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.60566,-5.01019,-80.56566,-4.97019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -94,8 +98,7 @@
         "San Rafael"
     ],
     "name:und_x_variant":[
-        "San Rafael Hacienda",
-        "San Rafael"
+        "San Rafael Hacienda"
     ],
     "name:vie_x_preferred":[
         "San Rafael"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1242636353,
-    "wof:lastmodified":1564167224,
+    "wof:lastmodified":1566676935,
     "wof:name":"San Rafael",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

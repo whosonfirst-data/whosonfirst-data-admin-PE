@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.69191,-5.36708,-80.65191,-5.32708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276306845,
-    "wof:lastmodified":1536813572,
+    "wof:lastmodified":1566675215,
     "wof:name":"Pozo de Los Ramos",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

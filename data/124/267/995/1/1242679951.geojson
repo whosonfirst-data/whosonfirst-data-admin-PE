@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.08667,-9.00333,-78.04667,-8.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huarchuy",
         "Huanchuy"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242679951,
-    "wof:lastmodified":1537676604,
+    "wof:lastmodified":1566676715,
     "wof:name":"Huanchuy",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

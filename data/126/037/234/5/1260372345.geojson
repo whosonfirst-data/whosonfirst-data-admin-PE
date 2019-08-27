@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.34767,-6.64088,-74.30767,-6.60088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Talaboso",
         "Tabalosos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260372345,
-    "wof:lastmodified":1537676537,
+    "wof:lastmodified":1566675843,
     "wof:name":"Tabalosos",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.00287,-10.92873,-74.96287,-10.88873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "6 de Agosto"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243340101,
-    "wof:lastmodified":1537676923,
+    "wof:lastmodified":1566676834,
     "wof:name":"Seis de Agosto",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

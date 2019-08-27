@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.96083,-6.75639,-77.92083,-6.71639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gollan",
         "Golian",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226649541,
-    "wof:lastmodified":1537676610,
+    "wof:lastmodified":1566677594,
     "wof:name":"Gollon",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

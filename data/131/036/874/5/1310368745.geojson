@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.2571,-11.71639,-69.2171,-11.67639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Rafael Caler\u00f3n"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310368745,
-    "wof:lastmodified":1537676975,
+    "wof:lastmodified":1566676034,
     "wof:name":"Rafael Caleron",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

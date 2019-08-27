@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.80494,-11.01174,-74.76494,-10.97174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Amauta"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259569927,
-    "wof:lastmodified":1564167812,
+    "wof:lastmodified":1566677209,
     "wof:name":"Amauta",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

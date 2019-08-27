@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.99639,-14.11417,-73.95639,-14.07417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276332767,
-    "wof:lastmodified":1536779833,
+    "wof:lastmodified":1566675015,
     "wof:name":"Eranja",
     "wof:parent_id":1108693945,
     "wof:placetype":"locality",

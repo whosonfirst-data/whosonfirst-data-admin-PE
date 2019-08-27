@@ -11,8 +11,10 @@
     "geom:longitude":-76.970642,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-76.975642,-12.116539,-76.965642,-12.106539",
     "lbl:latitude":-12.111539,
     "lbl:longitude":-76.970642,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.110607,
     "mps:longitude":-76.965041,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:swe_x_preferred":[
         "Valle Hermoso"
     ],
-    "name:unk_x_variant":[
-        "Valle Hermoso"
-    ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_id":0,
     "qs:gn_local":3936456,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -87,7 +86,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723509,
-        "qs:id":1061902,
         "qs_pg:id":1061902
     },
     "wof:country":"PE",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161891,
+    "wof:lastmodified":1566674470,
     "wof:name":"Valle Hermoso",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

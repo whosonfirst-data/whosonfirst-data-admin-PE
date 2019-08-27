@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.60594,-15.63497,-71.56594,-15.59497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Calera"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242976519,
-    "wof:lastmodified":1564167212,
+    "wof:lastmodified":1566676929,
     "wof:name":"La Calera",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

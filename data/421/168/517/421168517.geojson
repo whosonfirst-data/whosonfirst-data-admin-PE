@@ -10,8 +10,12 @@
     "geom:latitude":-10.7975,
     "geom:longitude":-77.71306,
     "iso:country":"PE",
+    "lbl:bbox":"-77.73306,-10.8175,-77.69306,-10.7775",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Puerto Supe"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3928274,
         "gp:id":419312,
-        "qs:id":150955,
+        "qs_pg:id":150955,
         "wd:id":"Q3504032"
     },
     "wof:country":"PE",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421168517,
-    "wof:lastmodified":1563315199,
+    "wof:lastmodified":1566676474,
     "wof:name":"Supe",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

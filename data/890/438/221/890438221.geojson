@@ -11,10 +11,14 @@
     "geom:longitude":-75.28333,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":6842,
+    "gn:population":6842,
     "iso:country":"PE",
+    "lbl:bbox":"-75.30333,-12.05333,-75.26333,-12.01333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sicaya"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3928691,
         "gp:id":418721,
-        "qs:id":150959,
+        "qs_pg:id":150959,
         "wd:id":"Q7507402",
         "wk:page":"Sicaya"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890438221,
-    "wof:lastmodified":1563315428,
+    "wof:lastmodified":1566676557,
     "wof:name":"Sicaya",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

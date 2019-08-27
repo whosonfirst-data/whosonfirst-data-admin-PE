@@ -11,10 +11,14 @@
     "geom:longitude":-70.15,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":12654,
+    "gn:population":12654,
     "iso:country":"PE",
+    "lbl:bbox":"-70.17,-15.70333,-70.13,-15.66333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Atuncolla"
     ],
@@ -52,12 +56,12 @@
     "wof:concordances":{
         "gn:id":3947110,
         "gp:id":397148,
-        "qs:id":1047435,
+        "qs_pg:id":1047435,
         "wd:id":"Q3826204",
         "wk:page":"Atuncolla District"
     },
     "wof:concordances_alt":{
-        "qs:id":1054255
+        "qs_pg:id":1054255
     },
     "wof:country":"PE",
     "wof:created":1469052502,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890445227,
-    "wof:lastmodified":1563315443,
+    "wof:lastmodified":1566676562,
     "wof:name":"Atuncolla",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

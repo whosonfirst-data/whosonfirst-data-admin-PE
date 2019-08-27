@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.02633,-17.36985,-70.98633,-17.32985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f\u043b\u043e\u0431\u043e\u0441"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1225909991,
-    "wof:lastmodified":1564168377,
+    "wof:lastmodified":1566677482,
     "wof:name":"Villalobos",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

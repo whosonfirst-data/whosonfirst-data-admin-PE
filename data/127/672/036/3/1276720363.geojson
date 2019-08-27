@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.02359,-15.41835,-70.98359,-15.37835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276720363,
-    "wof:lastmodified":1536757494,
+    "wof:lastmodified":1566674926,
     "wof:name":"Chachacumani",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

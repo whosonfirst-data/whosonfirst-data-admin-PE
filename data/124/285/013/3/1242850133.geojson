@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.7627,-16.3704,-70.7227,-16.3304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242850133,
-    "wof:lastmodified":1536671140,
+    "wof:lastmodified":1566676896,
     "wof:name":"Torata",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

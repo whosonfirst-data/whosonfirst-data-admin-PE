@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.8575,-12.52399,-73.8175,-12.48399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309895747,
-    "wof:lastmodified":1536801434,
+    "wof:lastmodified":1566676454,
     "wof:name":"Picharialto",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

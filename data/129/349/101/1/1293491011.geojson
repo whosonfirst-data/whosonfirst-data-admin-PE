@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.80104,-6.7754,-77.76104,-6.7354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Playa"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1293491011,
-    "wof:lastmodified":1564162249,
+    "wof:lastmodified":1566674655,
     "wof:name":"La Playa",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

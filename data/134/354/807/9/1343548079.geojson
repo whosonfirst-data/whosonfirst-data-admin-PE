@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.31015,-11.87422,-75.27015,-11.83422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barrio 3ro",
         "Barrio Tercero"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343548079,
-    "wof:lastmodified":1537676905,
+    "wof:lastmodified":1566674087,
     "wof:name":"Barrio Tercero",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

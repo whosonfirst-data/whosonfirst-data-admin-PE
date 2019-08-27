@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.82423,-6.72774,-77.78423,-6.68774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Distrikt Leymebamba"
     ],
@@ -47,10 +51,6 @@
     ],
     "name:que_x_preferred":[
         "Leymebamba distritu"
-    ],
-    "name:und_x_variant":[
-        "Leimebamba",
-        "Leymebamba"
     ],
     "name:zho_x_preferred":[
         "\u840a\u6885\u73ed\u5df4\u5340"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1276766077,
-    "wof:lastmodified":1564163346,
+    "wof:lastmodified":1566675127,
     "wof:name":"Leymebamba",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

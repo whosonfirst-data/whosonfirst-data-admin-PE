@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.49499,-10.42036,-77.45499,-10.38036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marihuacha",
         "Mariahuachac"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293208429,
-    "wof:lastmodified":1537676756,
+    "wof:lastmodified":1566674784,
     "wof:name":"Mariahuachac",
     "wof:parent_id":1108694003,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.41666,-10.42294,-77.37666,-10.38294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ocros"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1209322563,
-    "wof:lastmodified":1564164202,
+    "wof:lastmodified":1566675507,
     "wof:name":"Ocros",
     "wof:parent_id":1108694003,
     "wof:placetype":"locality",

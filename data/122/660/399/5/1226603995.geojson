@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.61725,-4.96243,-79.57725,-4.92243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vilcas Hacienda",
         "Vilcas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226603995,
-    "wof:lastmodified":1537676528,
+    "wof:lastmodified":1566677426,
     "wof:name":"Vilcas",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

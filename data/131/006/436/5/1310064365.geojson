@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.43643,-14.77804,-69.39643,-14.73804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trapig"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda Trapiche",
-        "Trapiche Hacienda",
-        "Trapiche"
+        "Trapiche Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310064365,
-    "wof:lastmodified":1564165400,
+    "wof:lastmodified":1566676079,
     "wof:name":"Trapiche",
     "wof:parent_id":1108693921,
     "wof:placetype":"locality",

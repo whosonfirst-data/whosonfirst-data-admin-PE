@@ -25,15 +25,18 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.6692,-4.86351,-79.6292,-4.82351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yanta"
     ],
     "name:und_x_variant":[
         "Yanla Hacienda",
-        "Yanla",
-        "Yanta"
+        "Yanla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343226589,
-    "wof:lastmodified":1564161480,
+    "wof:lastmodified":1566674272,
     "wof:name":"Yanta",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

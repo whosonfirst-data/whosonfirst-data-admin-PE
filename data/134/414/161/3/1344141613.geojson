@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.91102,-12.41864,-73.87102,-12.37864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quisto Central"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344141613,
-    "wof:lastmodified":1537676920,
+    "wof:lastmodified":1566674153,
     "wof:name":"Quisto Central",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.71405,-14.20396,-71.67405,-14.16396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Checa Pucar\u00e1",
         "Checcapucara"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310002505,
-    "wof:lastmodified":1537676836,
+    "wof:lastmodified":1566676022,
     "wof:name":"Checcapucara",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

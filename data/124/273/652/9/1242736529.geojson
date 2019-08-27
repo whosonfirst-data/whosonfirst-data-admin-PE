@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.44804,-15.07557,-69.40804,-15.03557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huaniquia"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242736529,
-    "wof:lastmodified":1537676793,
+    "wof:lastmodified":1566676643,
     "wof:name":"Huaniquia",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

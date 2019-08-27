@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.50744,-10.39181,-77.46744,-10.35181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Copa"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326642573,
-    "wof:lastmodified":1564160828,
+    "wof:lastmodified":1566673961,
     "wof:name":"Copa",
     "wof:parent_id":1108694003,
     "wof:placetype":"locality",

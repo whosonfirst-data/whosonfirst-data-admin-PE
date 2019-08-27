@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.46949,-7.92694,-78.42949,-7.88694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tres Rios"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1293171961,
-    "wof:lastmodified":1564162685,
+    "wof:lastmodified":1566674846,
     "wof:name":"Tres Rios",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.20333,-13.53667,-76.16333,-13.49667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Salitral Hacienda",
         "El Salitral"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310082931,
-    "wof:lastmodified":1537676812,
+    "wof:lastmodified":1566676053,
     "wof:name":"El Salitral",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

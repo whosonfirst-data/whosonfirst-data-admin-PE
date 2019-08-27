@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.33361,-13.69444,-75.29361,-13.65444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326825793,
-    "wof:lastmodified":1537055691,
+    "wof:lastmodified":1566673905,
     "wof:name":"Huayllapa",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

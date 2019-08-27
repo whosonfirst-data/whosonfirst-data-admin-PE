@@ -10,8 +10,12 @@
     "geom:latitude":-15.645144,
     "geom:longitude":-71.998306,
     "iso:country":"PE",
+    "lbl:bbox":"-72.018306,-15.665144,-71.978306,-15.625144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":397653,
-        "qs:id":1075955
+        "qs_pg:id":1075955
     },
     "wof:country":"PE",
     "wof:created":1459009490,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186753,
-    "wof:lastmodified":1500022094,
+    "wof:lastmodified":1566676511,
     "wof:name":"Cabanaconde",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

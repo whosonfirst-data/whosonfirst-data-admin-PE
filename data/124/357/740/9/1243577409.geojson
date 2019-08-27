@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.36733,-15.44754,-74.32733,-15.40754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huambimba",
         "Huambrimba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243577409,
-    "wof:lastmodified":1537676796,
+    "wof:lastmodified":1566676793,
     "wof:name":"Huambrimba",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

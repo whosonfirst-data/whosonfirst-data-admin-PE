@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-11.957663,
     "lbl:longitude":-75.156269,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jun\u00edn",
     "meso:gadm_admin":"Huancayo",
     "meso:gadm_hasc2":"PE.JU.HO",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.156269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Wankayu jisk'a suyu"
     ],
@@ -95,9 +98,9 @@
         "\u842c\u5361\u7d04\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"3,558.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Huancayo",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108694037,
-    "wof:lastmodified":1561777653,
+    "wof:lastmodified":1566675948,
     "wof:name":"Huancayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

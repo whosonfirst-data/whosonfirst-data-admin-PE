@@ -10,8 +10,12 @@
     "geom:latitude":-11.02253,
     "geom:longitude":-77.64378,
     "iso:country":"PE",
+    "lbl:bbox":"-77.66378,-11.04253,-77.62378,-11.00253",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3926328,
         "gp:id":419378,
-        "qs:id":251843
+        "qs_pg:id":251843
     },
     "wof:country":"PE",
     "wof:created":1459010209,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421205019,
-    "wof:lastmodified":1560310184,
+    "wof:lastmodified":1566676493,
     "wof:name":"V\u00e9gueta",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

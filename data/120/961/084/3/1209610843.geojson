@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.96703,-12.87825,-74.92703,-12.83825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Arcos"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1209610843,
-    "wof:lastmodified":1564164159,
+    "wof:lastmodified":1566675484,
     "wof:name":"Arcos",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

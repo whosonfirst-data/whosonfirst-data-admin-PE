@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-14.031789,
     "lbl:longitude":-72.958196,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Apur\u00edmac",
     "mps:latitude":-14.031367,
     "mps:longitude":-72.981303,
@@ -213,7 +214,7 @@
         "Apur\u00edmac"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0baa\u0bcd\u0baa\u0bc1\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2a\u0c42\u0c30\u0c3f\u0c2e\u0c3e\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -230,7 +231,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0443\u0440\u0456\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departmento Apur\u00edmac"
     ],
     "name:urd_x_preferred":[
@@ -317,9 +318,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"20,896",
     "statoids:area_mi":"8,068",
     "statoids:as_of_date":"2007-10-21",
@@ -344,7 +345,7 @@
         "gp:id":2346470,
         "hasc:id":"PE.AP",
         "iso:id":"PE-APU",
-        "qs:id":890099,
+        "qs_pg:id":890099,
         "unlc:id":"PE-APU",
         "wd:id":"Q208185",
         "wk:page":"Apur\u00edmac Region"
@@ -367,7 +368,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732273,
+    "wof:lastmodified":1566674480,
     "wof:name":"Apurimac",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

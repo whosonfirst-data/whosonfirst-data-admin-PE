@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.78239,-5.37615,-80.74239,-5.33615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Monte Viejo",
         "Monte Viejo Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309880019,
-    "wof:lastmodified":1537676581,
+    "wof:lastmodified":1566676459,
     "wof:name":"Monte Viejo",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-12.05658,
     "geom:longitude":-77.11814,
     "iso:country":"PE",
+    "lbl:bbox":"-77.13814,-12.07658,-77.09814,-12.03658",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -380,7 +383,7 @@
     "wof:concordances":{
         "gn:id":3946083,
         "gp:id":418441,
-        "qs:id":889988,
+        "qs_pg:id":889988,
         "wd:id":"Q105037",
         "wk:page":"Callao"
     },
@@ -397,7 +400,7 @@
         }
     ],
     "wof:id":421169179,
-    "wof:lastmodified":1563315228,
+    "wof:lastmodified":1566676487,
     "wof:name":"Callao",
     "wof:parent_id":421187933,
     "wof:placetype":"locality",

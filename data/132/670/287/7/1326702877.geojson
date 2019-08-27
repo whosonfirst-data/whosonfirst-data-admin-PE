@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.56806,-11.07377,-77.52806,-11.03377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430\u0440\u0430\u0439"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda Acaray",
-        "Acaray Hacienda",
-        "Acaray"
+        "Acaray Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326702877,
-    "wof:lastmodified":1564160766,
+    "wof:lastmodified":1566673930,
     "wof:name":"Acaray",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

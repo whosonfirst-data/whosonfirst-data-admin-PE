@@ -10,8 +10,12 @@
     "geom:latitude":-13.986626,
     "geom:longitude":-75.771675,
     "iso:country":"PE",
+    "lbl:bbox":"-75.791675,-14.006626,-75.751675,-13.966626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u062f\u0627\u0644\u0648\u0628\u064a"
@@ -149,7 +153,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":403207,
-        "qs:id":1075961
+        "qs_pg:id":1075961
     },
     "wof:country":"PE",
     "wof:created":1459009491,
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":421186769,
-    "wof:lastmodified":1564166338,
+    "wof:lastmodified":1566676515,
     "wof:name":"Guadalupe",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

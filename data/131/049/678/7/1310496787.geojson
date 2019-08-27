@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.02261,-13.72975,-71.98261,-13.68975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Parpay Hacienda",
         "Parpay"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310496787,
-    "wof:lastmodified":1537676733,
+    "wof:lastmodified":1566675985,
     "wof:name":"Parpay",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

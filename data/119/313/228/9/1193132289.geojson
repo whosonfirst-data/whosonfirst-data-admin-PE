@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.60139,-10.26944,-76.56139,-10.22944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Magra"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1193132289,
-    "wof:lastmodified":1564164642,
+    "wof:lastmodified":1566675715,
     "wof:name":"Magra",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

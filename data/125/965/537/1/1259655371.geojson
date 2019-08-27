@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.73722,-4.81833,-73.69722,-4.77833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Casagrandi"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259655371,
-    "wof:lastmodified":1564167406,
+    "wof:lastmodified":1566677022,
     "wof:name":"Casagrande",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

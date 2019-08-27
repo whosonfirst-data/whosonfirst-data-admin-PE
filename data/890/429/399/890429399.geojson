@@ -11,10 +11,14 @@
     "geom:longitude":-70.21627,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":255,
+    "gn:population":255,
     "iso:country":"PE",
+    "lbl:bbox":"-70.23627,-12.62112,-70.19627,-12.58112",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"San Juan Grande",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3959426,
         "gp:id":420478,
-        "qs:id":97046
+        "qs_pg:id":97046
     },
     "wof:country":"PE",
     "wof:created":1469051813,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890429399,
-    "wof:lastmodified":1505343512,
+    "wof:lastmodified":1566676559,
     "wof:name":"San Juan Grande",
     "wof:parent_id":421170665,
     "wof:placetype":"locality",

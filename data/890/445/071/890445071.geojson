@@ -11,10 +11,14 @@
     "geom:longitude":-80.75,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":5916,
+    "gn:population":5916,
     "iso:country":"PE",
+    "lbl:bbox":"-80.77,-5.47,-80.73,-5.43",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bernal"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3699350,
         "gp:id":418673,
-        "qs:id":1046552,
+        "qs_pg:id":1046552,
         "wk:page":"Bernal"
     },
     "wof:country":"PE",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890445071,
-    "wof:lastmodified":1564166387,
+    "wof:lastmodified":1566676563,
     "wof:name":"Bernal",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

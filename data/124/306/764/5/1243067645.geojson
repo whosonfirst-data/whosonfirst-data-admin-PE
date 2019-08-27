@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.17748,-15.51744,-71.13748,-15.47744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243067645,
-    "wof:lastmodified":1536853491,
+    "wof:lastmodified":1566676618,
     "wof:name":"Pucaccacca",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

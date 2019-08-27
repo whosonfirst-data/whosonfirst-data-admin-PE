@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.28667,-13.00333,-73.24667,-12.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vista Alegre"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1193263133,
-    "wof:lastmodified":1564164798,
+    "wof:lastmodified":1566675778,
     "wof:name":"Vista Alegre",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

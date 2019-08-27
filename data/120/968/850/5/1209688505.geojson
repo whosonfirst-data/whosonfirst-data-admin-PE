@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.18702,-11.55679,-77.14702,-11.51679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pampa Uno"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209688505,
-    "wof:lastmodified":1560310362,
+    "wof:lastmodified":1566675478,
     "wof:name":"Pampa Uno",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

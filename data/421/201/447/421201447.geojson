@@ -10,8 +10,12 @@
     "geom:latitude":-11.25061,
     "geom:longitude":-75.86116,
     "iso:country":"PE",
+    "lbl:bbox":"-75.88116,-11.27061,-75.84116,-11.23061",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "San Pedro de Cajas jisk'a t'aqa suyu"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Distrito de San Pedro de Cajas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cajas"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3929335,
         "gp:id":419253,
-        "qs:id":1342467,
+        "qs_pg:id":1342467,
         "wd:id":"Q7415148"
     },
     "wof:country":"PE",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421201447,
-    "wof:lastmodified":1527716432,
+    "wof:lastmodified":1566676531,
     "wof:name":"San Pedro de Cajas",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.54035,-5.55939,-78.50035,-5.51939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327148065,
-    "wof:lastmodified":1537088108,
+    "wof:lastmodified":1566673823,
     "wof:name":"Puche",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

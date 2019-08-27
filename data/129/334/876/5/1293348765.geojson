@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.71392,-6.76042,-76.67392,-6.72042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alianza"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293348765,
-    "wof:lastmodified":1564162463,
+    "wof:lastmodified":1566674744,
     "wof:name":"Alianza",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":-76.983858,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-76.988858,-12.136328,-76.978858,-12.126328",
     "lbl:latitude":-12.131328,
     "lbl:longitude":-76.983858,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.13332,
     "mps:longitude":-76.9804,
     "mz:hierarchy_label":0,
@@ -153,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0435\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Gardenias"
-    ],
     "name:uzb_x_preferred":[
         "Gardeniya"
     ],
@@ -193,7 +192,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":1403,
     "wof:belongsto":[
         1175613121,
@@ -205,7 +204,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723508,
-        "qs:id":1061907,
         "qs_pg:id":1061907,
         "wd:id":"Q740887"
     },
@@ -225,7 +223,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563311162,
+    "wof:lastmodified":1566674470,
     "wof:name":"Gardenias",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

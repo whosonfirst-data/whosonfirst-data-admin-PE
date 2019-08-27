@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.1513,-2.16078,-74.1113,-2.12078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1276403123,
-    "wof:lastmodified":1564163388,
+    "wof:lastmodified":1566675144,
     "wof:name":"San Carlos",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

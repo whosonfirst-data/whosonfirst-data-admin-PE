@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.69801,-11.38976,-75.65801,-11.34976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Florida"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259660289,
-    "wof:lastmodified":1564167705,
+    "wof:lastmodified":1566677164,
     "wof:name":"La Florida",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

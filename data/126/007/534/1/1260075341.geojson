@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.28083,-13.41333,-72.24083,-13.37333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sambor"
     ],
@@ -40,8 +44,7 @@
         "\u0421\u0430\u043c\u0431\u0456\u0440"
     ],
     "name:und_x_variant":[
-        "Sambor Hacienda",
-        "Sambor"
+        "Sambor Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260075341,
-    "wof:lastmodified":1564164887,
+    "wof:lastmodified":1566675816,
     "wof:name":"Sambor",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

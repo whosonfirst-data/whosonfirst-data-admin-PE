@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.98083,-14.40722,-73.94083,-14.36722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Andamarca"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243072115,
-    "wof:lastmodified":1564166406,
+    "wof:lastmodified":1566676578,
     "wof:name":"Andamarca",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

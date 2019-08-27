@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.05832,-13.92875,-72.01832,-13.88875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Casca",
         "Ccasccas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277162005,
-    "wof:lastmodified":1537676847,
+    "wof:lastmodified":1566675269,
     "wof:name":"Ccasccas",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

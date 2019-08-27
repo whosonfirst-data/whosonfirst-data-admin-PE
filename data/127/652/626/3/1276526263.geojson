@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.26694,-8.71189,-76.22694,-8.67189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276526263,
-    "wof:lastmodified":1537016837,
+    "wof:lastmodified":1566675187,
     "wof:name":"Sitully",
     "wof:parent_id":421170671,
     "wof:placetype":"locality",

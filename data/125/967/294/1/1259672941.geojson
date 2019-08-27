@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.03778,-13.15882,-74.99778,-13.11882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Palomo"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259672941,
-    "wof:lastmodified":1564167744,
+    "wof:lastmodified":1566677185,
     "wof:name":"Palomo",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

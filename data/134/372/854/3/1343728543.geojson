@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.10366,-12.2252,-69.06366,-12.1852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kano"
     ],
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":1343728543,
-    "wof:lastmodified":1564161857,
+    "wof:lastmodified":1566674455,
     "wof:name":"Kano",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

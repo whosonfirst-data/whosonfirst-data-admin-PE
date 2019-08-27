@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-5.10655,
     "lbl:longitude":-80.354721,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Piura",
     "mps:latitude":-5.088417,
     "mps:longitude":-80.364909,
@@ -219,7 +220,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041f'\u044e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento Piura"
     ],
     "name:urd_x_preferred":[
@@ -306,9 +307,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"35,891",
     "statoids:area_mi":"13,858",
     "statoids:as_of_date":"2007-10-21",
@@ -333,7 +334,7 @@
         "gp:id":2346487,
         "hasc:id":"PE.PI",
         "iso:id":"PE-PIU",
-        "qs:id":219590,
+        "qs_pg:id":219590,
         "unlc:id":"PE-PIU",
         "wd:id":"Q208183",
         "wk:page":"Piura Region"
@@ -356,7 +357,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732273,
+    "wof:lastmodified":1566674481,
     "wof:name":"Piura",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

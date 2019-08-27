@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.84517,-15.21472,-71.80517,-15.17472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0644\u0627\u06af\u0645\u0627"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327437213,
-    "wof:lastmodified":1564160930,
+    "wof:lastmodified":1566674010,
     "wof:name":"Lagma",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

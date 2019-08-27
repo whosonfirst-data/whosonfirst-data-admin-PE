@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.94366,-4.93604,-79.90366,-4.89604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Liza"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259542567,
-    "wof:lastmodified":1564167380,
+    "wof:lastmodified":1566677009,
     "wof:name":"Liza",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

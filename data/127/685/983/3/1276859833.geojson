@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.93606,-9.88382,-76.89606,-9.84382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276859833,
-    "wof:lastmodified":1537065091,
+    "wof:lastmodified":1566675134,
     "wof:name":"Umajirurin",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

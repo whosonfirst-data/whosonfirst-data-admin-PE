@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.37167,-4.89917,-80.33167,-4.85917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0631\u0627"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1327298393,
-    "wof:lastmodified":1564161011,
+    "wof:lastmodified":1566674052,
     "wof:name":"Colera",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

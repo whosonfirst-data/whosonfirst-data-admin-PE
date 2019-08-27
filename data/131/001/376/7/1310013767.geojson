@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.50389,-9.2325,-78.46389,-9.1925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vesique",
         "Puerto Vesique"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310013767,
-    "wof:lastmodified":1537676529,
+    "wof:lastmodified":1566676066,
     "wof:name":"Puerto Vesique",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

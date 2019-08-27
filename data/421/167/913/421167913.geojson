@@ -10,8 +10,12 @@
     "geom:latitude":-14.5,
     "geom:longitude":-74.9,
     "iso:country":"PE",
+    "lbl:bbox":"-74.92,-14.52,-74.88,-14.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3925652,
         "gp:id":419585,
-        "qs:id":475481
+        "qs_pg:id":475481
     },
     "wof:country":"PE",
     "wof:created":1459008747,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421167913,
-    "wof:lastmodified":1500024353,
+    "wof:lastmodified":1566676486,
     "wof:name":"La Yapana",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

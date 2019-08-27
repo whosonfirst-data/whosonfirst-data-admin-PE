@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.57385,-11.43651,-75.53385,-11.39651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1242850965,
-    "wof:lastmodified":1564167140,
+    "wof:lastmodified":1566676897,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

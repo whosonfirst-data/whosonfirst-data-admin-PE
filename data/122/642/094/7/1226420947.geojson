@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.18058,-10.30797,-76.14058,-10.26797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chaski"
     ],
@@ -64,8 +68,7 @@
         "\u0427\u0430\u0441\u043a\u0456"
     ],
     "name:und_x_variant":[
-        "Fundo Chasqui",
-        "Chasqui"
+        "Fundo Chasqui"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1226420947,
-    "wof:lastmodified":1564168110,
+    "wof:lastmodified":1566677351,
     "wof:name":"Chasqui",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

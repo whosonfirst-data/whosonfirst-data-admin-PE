@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.41972,-11.87222,-76.37972,-11.83222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monterrico"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327117083,
-    "wof:lastmodified":1564160993,
+    "wof:lastmodified":1566674042,
     "wof:name":"Monterrico",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

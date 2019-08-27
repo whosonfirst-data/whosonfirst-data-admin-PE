@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.49504,-5.63007,-79.45504,-5.59007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209875239,
-    "wof:lastmodified":1536369186,
+    "wof:lastmodified":1566675592,
     "wof:name":"Vianaga",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

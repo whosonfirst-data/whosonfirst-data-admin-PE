@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.63481,-11.59477,-76.59481,-11.55477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Escalon"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310377971,
-    "wof:lastmodified":1560310369,
+    "wof:lastmodified":1566676060,
     "wof:name":"Escalon",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

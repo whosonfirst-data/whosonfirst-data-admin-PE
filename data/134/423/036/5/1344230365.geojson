@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.75327,-6.28104,-79.71327,-6.24104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Apurlec"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344230365,
-    "wof:lastmodified":1537676644,
+    "wof:lastmodified":1566674185,
     "wof:name":"Apurle",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

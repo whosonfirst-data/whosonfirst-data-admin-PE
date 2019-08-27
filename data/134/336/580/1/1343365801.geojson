@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.12139,-13.53056,-73.08139,-13.49056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pati"
     ],
@@ -52,8 +56,7 @@
         "Pati"
     ],
     "name:und_x_variant":[
-        "Pati Hacienda",
-        "Pati"
+        "Pati Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343365801,
-    "wof:lastmodified":1564161030,
+    "wof:lastmodified":1566674063,
     "wof:name":"Pati",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

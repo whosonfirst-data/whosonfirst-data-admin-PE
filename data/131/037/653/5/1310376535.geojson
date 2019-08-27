@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.93358,-7.76319,-77.89358,-7.72319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310376535,
-    "wof:lastmodified":1536602513,
+    "wof:lastmodified":1566676064,
     "wof:name":"Gollito",
     "wof:parent_id":421177079,
     "wof:placetype":"locality",

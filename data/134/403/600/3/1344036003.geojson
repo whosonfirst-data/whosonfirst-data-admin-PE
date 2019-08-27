@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.39702,-10.00684,-76.35702,-9.96684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344036003,
-    "wof:lastmodified":1536911356,
+    "wof:lastmodified":1566674391,
     "wof:name":"Chacya",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

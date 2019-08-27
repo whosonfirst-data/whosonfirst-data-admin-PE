@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.29126,-10.72443,-77.25126,-10.68443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Paracas"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293170601,
-    "wof:lastmodified":1564162692,
+    "wof:lastmodified":1566674850,
     "wof:name":"Paracas",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

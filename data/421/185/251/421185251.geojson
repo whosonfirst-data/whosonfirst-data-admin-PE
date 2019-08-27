@@ -10,8 +10,12 @@
     "geom:latitude":-11.82965,
     "geom:longitude":-75.36277,
     "iso:country":"PE",
+    "lbl:bbox":"-75.38277,-11.84965,-75.34277,-11.80965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Miraflores"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":6674673,
         "gp:id":419026,
-        "qs:id":887631
+        "qs_pg:id":887631
     },
     "wof:country":"PE",
     "wof:created":1459009437,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421185251,
-    "wof:lastmodified":1564166373,
+    "wof:lastmodified":1566676550,
     "wof:name":"Miraflores",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

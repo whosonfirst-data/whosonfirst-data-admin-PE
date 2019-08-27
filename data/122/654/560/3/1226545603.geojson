@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.23235,-15.14495,-72.19235,-15.10495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Incapirja"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226545603,
-    "wof:lastmodified":1537676784,
+    "wof:lastmodified":1566677644,
     "wof:name":"Incapirja",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

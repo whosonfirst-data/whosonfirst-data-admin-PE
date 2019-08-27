@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-11.04947,
     "lbl:longitude":-75.137785,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jun\u00edn",
     "meso:gadm_admin":"Chanchamayo",
     "meso:gadm_hasc2":"PE.JU.CM",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.137785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Chanchamayu jisk'a suyu"
@@ -126,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"4,723.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"La Merced",
@@ -150,7 +153,7 @@
         "gn:id":3944390,
         "gp:id":26805818,
         "hasc:id":"PE.JU.CM",
-        "qs:id":1086205,
+        "qs_pg:id":1086205,
         "wd:id":"Q765311"
     },
     "wof:country":"PE",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421187849,
-    "wof:lastmodified":1561777725,
+    "wof:lastmodified":1566676499,
     "wof:name":"Chanchamayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

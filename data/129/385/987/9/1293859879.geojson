@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.33936,-11.62436,-69.29936,-11.58436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pascual"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293859879,
-    "wof:lastmodified":1564162228,
+    "wof:lastmodified":1566674646,
     "wof:name":"Pascual",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

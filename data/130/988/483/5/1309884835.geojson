@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.44518,-7.26745,-79.40518,-7.22745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Sante Fe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309884835,
-    "wof:lastmodified":1537676545,
+    "wof:lastmodified":1566676459,
     "wof:name":"Hacienda Sante Fe",
     "wof:parent_id":421184599,
     "wof:placetype":"locality",

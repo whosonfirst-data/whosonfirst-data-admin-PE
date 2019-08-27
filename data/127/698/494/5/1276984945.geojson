@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.969,-13.80233,-73.929,-13.76233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huaman Marca",
         "Huamanmarca"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276984945,
-    "wof:lastmodified":1537676797,
+    "wof:lastmodified":1566675243,
     "wof:name":"Huamanmarca",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

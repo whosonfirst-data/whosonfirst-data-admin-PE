@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.29165,-6.70098,-76.25165,-6.66098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mechungo",
         "Machungo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343630135,
-    "wof:lastmodified":1537676585,
+    "wof:lastmodified":1566674119,
     "wof:name":"Machungo",
     "wof:parent_id":421175177,
     "wof:placetype":"locality",

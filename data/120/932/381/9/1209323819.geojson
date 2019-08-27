@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.53079,-5.64215,-78.49079,-5.60215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1209323819,
-    "wof:lastmodified":1564164206,
+    "wof:lastmodified":1566675511,
     "wof:name":"El Carmen",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

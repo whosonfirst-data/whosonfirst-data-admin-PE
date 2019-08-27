@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.60766,-12.81494,-74.56766,-12.77494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226641867,
-    "wof:lastmodified":1536863680,
+    "wof:lastmodified":1566677597,
     "wof:name":"Ccaracocha",
     "wof:parent_id":421183855,
     "wof:placetype":"locality",

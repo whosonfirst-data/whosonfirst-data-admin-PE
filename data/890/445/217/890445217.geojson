@@ -11,11 +11,15 @@
     "geom:longitude":-70.8854,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":7831,
+    "gn:population":7831,
     "iso:country":"PE",
+    "lbl:bbox":"-70.9054,-15.84327,-70.8654,-15.80327",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Huancane Hacienda"
     ],
     "qs:name":"Hacienda Huancane",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3939531,
         "gp:id":419520,
-        "qs:id":1047361
+        "qs_pg:id":1047361
     },
     "wof:country":"PE",
     "wof:created":1469052501,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890445217,
-    "wof:lastmodified":1505343603,
+    "wof:lastmodified":1566676563,
     "wof:name":"Hacienda Huancane",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

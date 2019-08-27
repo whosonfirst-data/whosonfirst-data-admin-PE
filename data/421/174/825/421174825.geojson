@@ -10,8 +10,12 @@
     "geom:latitude":-15.03944,
     "geom:longitude":-70.36767,
     "iso:country":"PE",
+    "lbl:bbox":"-70.38767,-15.05944,-70.34767,-15.01944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Pukara jisk'a t'aqa suyu"
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3931659,
         "gp:id":419158,
-        "qs:id":899844,
+        "qs_pg:id":899844,
         "wd:id":"Q3823899",
         "wk:page":"Pucar\u00e1 District, Lampa"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421174825,
-    "wof:lastmodified":1563315245,
+    "wof:lastmodified":1566676494,
     "wof:name":"Pucar\u00e1",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

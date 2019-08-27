@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.93591,-7.37426,-78.89591,-7.33426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Quinua"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293905099,
-    "wof:lastmodified":1564162104,
+    "wof:lastmodified":1566674589,
     "wof:name":"Quinua",
     "wof:parent_id":1108694039,
     "wof:placetype":"locality",

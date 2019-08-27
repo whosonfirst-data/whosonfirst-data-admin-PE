@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.38494,-15.43356,-70.34494,-15.39356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -470,8 +474,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda San Francisco",
-        "San Francisco Hacienda",
-        "San Francisco"
+        "San Francisco Hacienda"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648"
@@ -532,7 +535,7 @@
         }
     ],
     "wof:id":1276397787,
-    "wof:lastmodified":1564163555,
+    "wof:lastmodified":1566675218,
     "wof:name":"San Francisco",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.25515,-3.54943,-80.21515,-3.50943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276179745,
-    "wof:lastmodified":1536984002,
+    "wof:lastmodified":1566674951,
     "wof:name":"Cuchareta Alta",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",

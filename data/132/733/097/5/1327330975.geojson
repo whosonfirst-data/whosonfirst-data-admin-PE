@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.40035,-7.2697,-78.36035,-7.2297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0418\u0435\u0441\u0443\u0430 \u049a\u044c\u044b\u0440\u0441\u0430"
     ],
@@ -686,7 +690,7 @@
         }
     ],
     "wof:id":1327330975,
-    "wof:lastmodified":1564160647,
+    "wof:lastmodified":1566673876,
     "wof:name":"Jesus",
     "wof:parent_id":421172423,
     "wof:placetype":"locality",

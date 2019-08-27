@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.83101,-6.72969,-79.79101,-6.68969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Capote"
     ],
@@ -64,8 +68,7 @@
         "Capote"
     ],
     "name:und_x_variant":[
-        "Capote Hacienda",
-        "Capote"
+        "Capote Hacienda"
     ],
     "name:wln_x_preferred":[
         "Capote"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1209686303,
-    "wof:lastmodified":1564164152,
+    "wof:lastmodified":1566675481,
     "wof:name":"Capote",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

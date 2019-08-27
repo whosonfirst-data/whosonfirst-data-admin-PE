@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.63667,-6.20333,-78.59667,-6.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santo Tomas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1210013823,
-    "wof:lastmodified":1564164541,
+    "wof:lastmodified":1566675671,
     "wof:name":"Santo Tomas",
     "wof:parent_id":1108693977,
     "wof:placetype":"locality",

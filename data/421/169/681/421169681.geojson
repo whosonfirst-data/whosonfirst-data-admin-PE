@@ -10,8 +10,12 @@
     "geom:latitude":-11.55,
     "geom:longitude":-76.49889,
     "iso:country":"PE",
+    "lbl:bbox":"-76.51889,-11.57,-76.47889,-11.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Acobamba"
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3948485,
         "gp:id":418615,
-        "qs:id":228681
+        "qs_pg:id":228681
     },
     "wof:country":"PE",
     "wof:created":1459008820,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421169681,
-    "wof:lastmodified":1564166313,
+    "wof:lastmodified":1566676487,
     "wof:name":"Acobamba",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

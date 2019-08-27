@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.471376,
     "lbl:longitude":-77.570686,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ancash",
     "meso:gadm_admin":"Sihuas",
     "meso:gadm_hasc2":"PE.AN.SH",
@@ -30,6 +32,7 @@
     "mps:longitude":-77.570686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Siwas"
     ],
@@ -64,9 +67,9 @@
         "\u932b\u74e6\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"1,456.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Sihuas",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108694013,
-    "wof:lastmodified":1564165122,
+    "wof:lastmodified":1566675938,
     "wof:name":"Sihuas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

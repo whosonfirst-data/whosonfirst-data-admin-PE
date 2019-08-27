@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.16692,-15.63768,-71.12692,-15.59768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276872023,
-    "wof:lastmodified":1537049596,
+    "wof:lastmodified":1566674989,
     "wof:name":"Talcutana",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

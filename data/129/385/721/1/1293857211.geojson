@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.25188,-5.96714,-80.21188,-5.92714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alto de Roque",
         "Alto Roque"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293857211,
-    "wof:lastmodified":1537676652,
+    "wof:lastmodified":1566674646,
     "wof:name":"Alto Roque",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

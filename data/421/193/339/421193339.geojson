@@ -10,8 +10,11 @@
     "geom:latitude":-12.52655,
     "geom:longitude":-76.57247,
     "iso:country":"PE",
+    "lbl:bbox":"-76.57747,-12.53155,-76.56747,-12.52155",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
@@ -627,7 +630,7 @@
     "wof:concordances":{
         "gn:id":3946515,
         "gp:id":22723503,
-        "qs:id":888238
+        "qs_pg:id":888238
     },
     "wof:country":"PE",
     "wof:created":1459009768,
@@ -643,7 +646,7 @@
         }
     ],
     "wof:id":421193339,
-    "wof:lastmodified":1564166309,
+    "wof:lastmodified":1566676483,
     "wof:name":"Buenos Aires",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

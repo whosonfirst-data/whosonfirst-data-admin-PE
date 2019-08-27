@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.04505,-6.70373,-79.00505,-6.66373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Monte"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1193129193,
-    "wof:lastmodified":1564164633,
+    "wof:lastmodified":1566675711,
     "wof:name":"El Monte",
     "wof:parent_id":1108693983,
     "wof:placetype":"locality",

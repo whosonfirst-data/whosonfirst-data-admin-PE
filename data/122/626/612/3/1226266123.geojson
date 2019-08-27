@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.5332,-15.71219,-72.4932,-15.67219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226266123,
-    "wof:lastmodified":1536904444,
+    "wof:lastmodified":1566677342,
     "wof:name":"Chipcoma",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

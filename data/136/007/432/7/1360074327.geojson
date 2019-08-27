@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.66832,-13.06845,-75.62832,-13.02845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -123,8 +127,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "San Pedro de Huacarpana",
-        "San Pedro"
+        "San Pedro de Huacarpana"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1360074327,
-    "wof:lastmodified":1564165793,
+    "wof:lastmodified":1566676257,
     "wof:name":"San Pedro",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

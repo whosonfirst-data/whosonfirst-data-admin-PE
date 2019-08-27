@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.62114,-13.45574,-73.58114,-13.41574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rocchoc",
         "Rochoc"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259383953,
-    "wof:lastmodified":1537676711,
+    "wof:lastmodified":1566677003,
     "wof:name":"Rochoc",
     "wof:parent_id":421194079,
     "wof:placetype":"locality",

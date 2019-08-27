@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.14366,-15.34006,-71.10366,-15.30006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u043c\u0430"
     ],
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1226575379,
-    "wof:lastmodified":1564168337,
+    "wof:lastmodified":1566677461,
     "wof:name":"Norma",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

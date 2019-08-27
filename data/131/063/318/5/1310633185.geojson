@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.86172,-15.79255,-72.82172,-15.75255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310633185,
-    "wof:lastmodified":1536733016,
+    "wof:lastmodified":1566676044,
     "wof:name":"Hacienda Pilcomyo",
     "wof:parent_id":1108694027,
     "wof:placetype":"locality",

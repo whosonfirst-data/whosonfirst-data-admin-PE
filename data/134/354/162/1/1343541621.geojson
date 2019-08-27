@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.12511,-13.52395,-76.08511,-13.48395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Chamorro"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343541621,
-    "wof:lastmodified":1537676969,
+    "wof:lastmodified":1566674086,
     "wof:name":"Hacienda Chamorro",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.21281,-16.7767,-69.17281,-16.7367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226301373,
-    "wof:lastmodified":1536852526,
+    "wof:lastmodified":1566677610,
     "wof:name":"Maracotutire",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

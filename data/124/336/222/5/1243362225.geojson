@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.69194,-13.95426,-73.65194,-13.91426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huahchos",
         "Huanchos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243362225,
-    "wof:lastmodified":1537676799,
+    "wof:lastmodified":1566676589,
     "wof:name":"Huanchos",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.57349,-15.79002,-73.53349,-15.75002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cachica Hacienda",
         "Cachica"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243195693,
-    "wof:lastmodified":1537676857,
+    "wof:lastmodified":1566676971,
     "wof:name":"Cachica",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

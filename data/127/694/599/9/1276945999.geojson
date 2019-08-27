@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.70271,-18.17498,-70.66271,-18.13498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Boca del R\u00edo",
         "Boca del R\u00edo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276945999,
-    "wof:lastmodified":1537676859,
+    "wof:lastmodified":1566675035,
     "wof:name":"Boca del Rio",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

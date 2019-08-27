@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.82603,-15.27566,-73.78603,-15.23566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Fau\u00f1iache"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326728881,
-    "wof:lastmodified":1537676960,
+    "wof:lastmodified":1566673708,
     "wof:name":"Fauniache",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

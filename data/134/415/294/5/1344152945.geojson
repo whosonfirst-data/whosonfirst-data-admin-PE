@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.23667,-12.55333,-75.19667,-12.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Molinos"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1344152945,
-    "wof:lastmodified":1564161250,
+    "wof:lastmodified":1566674165,
     "wof:name":"Molinos",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

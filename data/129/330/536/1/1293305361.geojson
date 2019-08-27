@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.23667,-9.70333,-77.19667,-9.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Machay",
         "Machacc",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293305361,
-    "wof:lastmodified":1537676588,
+    "wof:lastmodified":1566674550,
     "wof:name":"Machac",
     "wof:parent_id":421187851,
     "wof:placetype":"locality",

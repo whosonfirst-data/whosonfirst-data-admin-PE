@@ -11,10 +11,14 @@
     "geom:longitude":-71.791877,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":4022,
+    "gn:population":4022,
     "iso:country":"PE",
+    "lbl:bbox":"-71.811877,-13.603005,-71.771877,-13.563005",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Oropesa"
@@ -74,11 +78,11 @@
     "wof:concordances":{
         "gn:id":3933956,
         "gp:id":419628,
-        "qs:id":1054368,
+        "qs_pg:id":1054368,
         "wk:page":"Oropesa"
     },
     "wof:concordances_alt":{
-        "qs:id":1047312
+        "qs_pg:id":1047312
     },
     "wof:country":"PE",
     "wof:created":1459009458,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421185925,
-    "wof:lastmodified":1564166373,
+    "wof:lastmodified":1566676550,
     "wof:name":"Oropesa",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

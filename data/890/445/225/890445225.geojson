@@ -11,8 +11,11 @@
     "geom:longitude":-71.535,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":841130,
+    "gn:population":841130,
     "iso:country":"PE",
+    "lbl:bbox":"-71.555,-16.41889,-71.515,-16.37889",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -394,13 +397,13 @@
     "wof:concordances":{
         "gn:id":3947322,
         "gp:id":418014,
-        "qs:id":1047433,
+        "qs_pg:id":1047433,
         "wd:id":"Q159273",
         "wk:page":"Arequipa"
     },
     "wof:concordances_alt":{
         "gp:id":418442,
-        "qs:id":1058082
+        "qs_pg:id":1058082
     },
     "wof:country":"PE",
     "wof:created":1469052501,
@@ -415,7 +418,7 @@
         }
     ],
     "wof:id":890445225,
-    "wof:lastmodified":1563315456,
+    "wof:lastmodified":1566676565,
     "wof:name":"Arequipa",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

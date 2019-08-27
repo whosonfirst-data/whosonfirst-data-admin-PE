@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.47448,-11.41754,-76.43448,-11.37754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326800287,
-    "wof:lastmodified":1560310377,
+    "wof:lastmodified":1566673738,
     "wof:name":"Aniraccra",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

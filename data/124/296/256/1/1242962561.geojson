@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.61889,-12.75187,-74.57889,-12.71187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242962561,
-    "wof:lastmodified":1537005481,
+    "wof:lastmodified":1566676907,
     "wof:name":"Achocana",
     "wof:parent_id":421183855,
     "wof:placetype":"locality",

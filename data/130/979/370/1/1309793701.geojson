@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.08667,-14.85333,-75.04667,-14.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ad\u09c7\u09a8\u099f\u09c1\u09b0\u09cb\u09b8\u09be"
     ],
@@ -77,8 +81,7 @@
         "Venturosa"
     ],
     "name:und_x_variant":[
-        "Venturosa Hacienda",
-        "Venturosa"
+        "Venturosa Hacienda"
     ],
     "name:vie_x_preferred":[
         "Venturosa"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1309793701,
-    "wof:lastmodified":1564166105,
+    "wof:lastmodified":1566676398,
     "wof:name":"Venturosa",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.40078,-4.14616,-73.36078,-4.10616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0434\u0435\u0440\u043e"
     ],
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":1276315091,
-    "wof:lastmodified":1564163639,
+    "wof:lastmodified":1566675260,
     "wof:name":"Varadero",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.03667,-5.98667,-77.99667,-5.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "V\u00e9n\u00e9rable G\u00e9ronimo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310710975,
-    "wof:lastmodified":1564165185,
+    "wof:lastmodified":1566675981,
     "wof:name":"San Geronimo",
     "wof:parent_id":1108694047,
     "wof:placetype":"locality",

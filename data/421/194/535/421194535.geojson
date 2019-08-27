@@ -11,10 +11,14 @@
     "geom:longitude":-70.598387,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":19310,
+    "gn:population":19310,
     "iso:country":"PE",
+    "lbl:bbox":"-70.618387,-14.904703,-70.578387,-14.864703",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u064a\u0627\u0641\u064a\u0631\u064a"
@@ -86,12 +90,12 @@
     "wof:concordances":{
         "gn:id":3946985,
         "gp:id":418478,
-        "qs:id":484488,
+        "qs_pg:id":484488,
         "wd:id":"Q3344141",
         "wk:page":"Ayaviri"
     },
     "wof:concordances_alt":{
-        "qs:id":274567
+        "qs_pg:id":274567
     },
     "wof:country":"PE",
     "wof:created":1459009811,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421194535,
-    "wof:lastmodified":1563315210,
+    "wof:lastmodified":1566676479,
     "wof:name":"Ayaviri",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",

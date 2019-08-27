@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.45333,-4.35333,-80.41333,-4.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vicente"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293354931,
-    "wof:lastmodified":1564162377,
+    "wof:lastmodified":1566674710,
     "wof:name":"Vicente",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

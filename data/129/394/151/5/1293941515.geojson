@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.07929,-17.12507,-70.03929,-17.08507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293941515,
-    "wof:lastmodified":1536628126,
+    "wof:lastmodified":1566674738,
     "wof:name":"Huaquivina",
     "wof:parent_id":1108694033,
     "wof:placetype":"locality",

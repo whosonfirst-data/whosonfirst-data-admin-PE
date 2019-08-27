@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.92766,-6.77169,-77.88766,-6.73169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242586687,
-    "wof:lastmodified":1537048394,
+    "wof:lastmodified":1566676724,
     "wof:name":"Cuensol",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

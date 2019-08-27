@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.60428,-15.12374,-73.56428,-15.08374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Joll Pabamba"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276339289,
-    "wof:lastmodified":1537676958,
+    "wof:lastmodified":1566675016,
     "wof:name":"Joll Pabamba",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

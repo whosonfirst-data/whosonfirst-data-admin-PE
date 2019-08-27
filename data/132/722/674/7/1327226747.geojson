@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.53153,-13.59914,-74.49153,-13.55914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327226747,
-    "wof:lastmodified":1536977205,
+    "wof:lastmodified":1566673808,
     "wof:name":"Huanupampa",
     "wof:parent_id":1108693941,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.23729,-12.21411,-76.19729,-12.17411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palermo"
     ],
@@ -407,7 +411,7 @@
         }
     ],
     "wof:id":1277058903,
-    "wof:lastmodified":1564163270,
+    "wof:lastmodified":1566675099,
     "wof:name":"Palermo",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

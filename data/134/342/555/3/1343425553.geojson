@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.75139,-5.0475,-79.71139,-5.0075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Huaca"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1343425553,
-    "wof:lastmodified":1564161758,
+    "wof:lastmodified":1566674405,
     "wof:name":"Huaca",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

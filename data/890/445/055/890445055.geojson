@@ -11,8 +11,11 @@
     "geom:longitude":-76.24223,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":147959,
+    "gn:population":147959,
     "iso:country":"PE",
+    "lbl:bbox":"-76.26223,-9.95062,-76.22223,-9.91062",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -298,13 +301,13 @@
     "wof:concordances":{
         "gn:id":3696417,
         "gp:id":12523579,
-        "qs:id":1046517,
+        "qs_pg:id":1046517,
         "wd:id":"Q504394",
         "wk:page":"Hu\u00e1nuco"
     },
     "wof:concordances_alt":{
         "gp:id":418455,
-        "qs:id":215691
+        "qs_pg:id":215691
     },
     "wof:country":"PE",
     "wof:created":1469052492,
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":890445055,
-    "wof:lastmodified":1563315448,
+    "wof:lastmodified":1566676563,
     "wof:name":"Hu\u00e1nuco",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

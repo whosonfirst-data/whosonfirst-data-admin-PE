@@ -9,15 +9,17 @@
     "geom:bbox":"-76.99876,-12.07662,-76.99876,-12.07662",
     "geom:latitude":-12.07662,
     "geom:longitude":-76.99876,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":8862,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:population":8862,
     "iso:country":"PE",
+    "lbl:bbox":"-77.00376,-12.08162,-76.99376,-12.07162",
     "lbl:latitude":-12.07662,
     "lbl:longitude":-76.99876,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "San Luis"
@@ -133,7 +135,7 @@
     "qs_pg:qs_id":150982,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         1175613121,
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":1126064759,
-    "wof:lastmodified":1564166401,
+    "wof:lastmodified":1566676576,
     "wof:name":"San Luis",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

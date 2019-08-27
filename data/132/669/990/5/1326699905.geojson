@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.80783,-11.68036,-76.76783,-11.64036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huayupampa"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326699905,
-    "wof:lastmodified":1560310391,
+    "wof:lastmodified":1566673755,
     "wof:name":"Huayupampa",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.0322,-17.37599,-70.9922,-17.33599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rodriquez Piedra",
         "Rodr\u00edguez Piedra"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310666379,
-    "wof:lastmodified":1537676711,
+    "wof:lastmodified":1566676162,
     "wof:name":"Rodriguez Piedra",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

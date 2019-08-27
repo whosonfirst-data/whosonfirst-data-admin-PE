@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.50333,-13.75333,-72.46333,-13.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Florida del C\u00e1rman Hacienda",
         "Florida del Carmen"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293494475,
-    "wof:lastmodified":1537676811,
+    "wof:lastmodified":1566674654,
     "wof:name":"Florida del Carmen",
     "wof:parent_id":421170655,
     "wof:placetype":"locality",

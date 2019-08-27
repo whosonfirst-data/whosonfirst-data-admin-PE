@@ -9,21 +9,21 @@
     "geom:bbox":"-71.56592,-16.4266,-71.56592,-16.4266",
     "geom:latitude":-16.4266,
     "geom:longitude":-71.56592,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.4266,
     "gn:longitude":-71.56592,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-71.57092,-16.4316,-71.56092,-16.4216",
     "lbl:latitude":-16.4266,
     "lbl:longitude":-71.56592,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
-        "Sachaca"
-    ],
-    "name:unk_x_variant":[
         "Sachaca"
     ],
     "qs_pg:aaroncc":"PE",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424919,
     "qs_pg:woe_id":413612,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424919,
     "woe:name_adm0":"Per\u00fa",
     "woe:name_adm1":"Arequipa",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3930110,
         "gp:id":413612,
-        "qs:id":35869,
         "qs_pg:id":35869
     },
     "wof:country":"PE",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126094273,
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1566676576,
     "wof:name":"Sachaca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

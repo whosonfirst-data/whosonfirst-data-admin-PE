@@ -11,10 +11,14 @@
     "geom:longitude":-70.36667,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":4780,
+    "gn:population":4780,
     "iso:country":"PE",
+    "lbl:bbox":"-70.38667,-15.37,-70.34667,-15.33",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aym_x_preferred":[
         "Lampa"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3936996,
         "gp:id":418544,
-        "qs:id":151084,
+        "qs_pg:id":151084,
         "wd:id":"Q2638295",
         "wk:page":"Lampa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890441999,
-    "wof:lastmodified":1563315410,
+    "wof:lastmodified":1566676553,
     "wof:name":"Lampa",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.77305,-14.08445,-75.73305,-14.04445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Joaqu\u00edn",
         "Urbanizaci\u00f3n San Joaqu\u00edn"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259460217,
-    "wof:lastmodified":1537676702,
+    "wof:lastmodified":1566677095,
     "wof:name":"Urbanizacion San Joaquin",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

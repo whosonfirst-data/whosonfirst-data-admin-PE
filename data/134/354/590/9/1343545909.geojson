@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.02587,-13.58673,-71.98587,-13.54673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chuspi Hacienda",
         "Chuspi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343545909,
-    "wof:lastmodified":1537676827,
+    "wof:lastmodified":1566674086,
     "wof:name":"Chuspi",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"PE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Juanjui"
     ],
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":102552499,
-    "wof:lastmodified":1563310342,
+    "wof:lastmodified":1566674059,
     "wof:name":"Juanjui Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

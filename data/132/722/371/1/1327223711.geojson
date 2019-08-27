@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.10269,-13.86672,-72.06269,-13.82672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Acchabamba Hacienda",
         "Acchabamba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327223711,
-    "wof:lastmodified":1537676874,
+    "wof:lastmodified":1566673809,
     "wof:name":"Acchabamba",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

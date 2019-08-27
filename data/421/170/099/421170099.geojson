@@ -10,8 +10,12 @@
     "geom:latitude":-18.01465,
     "geom:longitude":-70.250185,
     "iso:country":"PE",
+    "lbl:bbox":"-70.2701845,-18.03465,-70.2301845,-17.99465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0646\u0627"
@@ -216,7 +220,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":418462,
-        "qs:id":215699,
+        "qs_pg:id":215699,
         "wd:id":"Q272795"
     },
     "wof:country":"PE",
@@ -232,7 +236,7 @@
         }
     ],
     "wof:id":421170099,
-    "wof:lastmodified":1563315352,
+    "wof:lastmodified":1566676536,
     "wof:name":"Tacna",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

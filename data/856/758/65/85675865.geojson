@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-9.36785,
     "lbl:longitude":-77.684668,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ancash",
     "mps:latitude":-9.368797,
     "mps:longitude":-77.672272,
@@ -225,7 +226,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u043a\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento Ancash"
     ],
     "name:urd_x_preferred":[
@@ -312,9 +313,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"35,826",
     "statoids:area_mi":"13,832",
     "statoids:as_of_date":"2007-10-21",
@@ -339,7 +340,7 @@
         "gp:id":2346469,
         "hasc:id":"PE.AN",
         "iso:id":"PE-ANC",
-        "qs:id":890098,
+        "qs_pg:id":890098,
         "unlc:id":"PE-ANC",
         "wd:id":"Q205089",
         "wk:page":"Ancash Region"
@@ -362,7 +363,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732276,
+    "wof:lastmodified":1566674486,
     "wof:name":"Ancash",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

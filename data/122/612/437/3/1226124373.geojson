@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.73523,-3.46266,-72.69523,-3.42266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Concordia"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1226124373,
-    "wof:lastmodified":1564168544,
+    "wof:lastmodified":1566677563,
     "wof:name":"Concordia",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.90543,-13.34194,-73.86543,-13.30194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moyobamba",
         "Mayabamba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292899021,
-    "wof:lastmodified":1537676749,
+    "wof:lastmodified":1566674594,
     "wof:name":"Mayabamba",
     "wof:parent_id":421202681,
     "wof:placetype":"locality",

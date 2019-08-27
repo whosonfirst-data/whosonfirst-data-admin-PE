@@ -10,8 +10,12 @@
     "geom:latitude":-8.829661,
     "geom:longitude":-74.687118,
     "iso:country":"PE",
+    "lbl:bbox":"-74.707118,-8.849661,-74.667118,-8.809661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":403092,
-        "qs:id":1075968
+        "qs_pg:id":1075968
     },
     "wof:country":"PE",
     "wof:created":1459009491,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186775,
-    "wof:lastmodified":1500022988,
+    "wof:lastmodified":1566676517,
     "wof:name":"Ganso Azul",
     "wof:parent_id":421194457,
     "wof:placetype":"locality",

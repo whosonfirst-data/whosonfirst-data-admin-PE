@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.68556,-14.43389,-73.64556,-14.39389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293388531,
-    "wof:lastmodified":1536930433,
+    "wof:lastmodified":1566674514,
     "wof:name":"Ullullo",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

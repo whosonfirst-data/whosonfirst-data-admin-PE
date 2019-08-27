@@ -10,8 +10,11 @@
     "geom:latitude":-16.40917,
     "geom:longitude":-71.56917,
     "iso:country":"PE",
+    "lbl:bbox":"-71.57417,-16.41417,-71.56417,-16.40417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":410581,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675839,
         102191577,
         85632521,
-        421198069,
-        85675839
+        421198069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3933272,
         "gp:id":410581,
-        "qs:id":501499
+        "qs_pg:id":501499
     },
     "wof:country":"PE",
     "wof:created":1459009305,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421181745,
-    "wof:lastmodified":1531858476,
+    "wof:lastmodified":1566676519,
     "wof:name":"Pampa de Camarones",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

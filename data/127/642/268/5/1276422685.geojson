@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.18667,-0.98667,-75.14667,-0.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pantoja"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Cabo Pantoja",
-        "Posto Peruviano",
-        "Pantoja"
+        "Posto Peruviano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1276422685,
-    "wof:lastmodified":1564162959,
+    "wof:lastmodified":1566674968,
     "wof:name":"Pantoja",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

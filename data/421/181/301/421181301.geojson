@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-10.243559,
     "lbl:longitude":-76.707113,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hu\u00e1nuco",
     "meso:gadm_admin":"Lauricocha",
     "meso:gadm_hasc2":"PE.HC.LR",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.707113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Lawriqucha jisk'a suyu"
@@ -117,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"1,880.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Jes\u00fas",
@@ -140,7 +143,7 @@
     "wof:concordances":{
         "gp:id":28358305,
         "hasc:id":"PE.HC.LR",
-        "qs:id":485414,
+        "qs_pg:id":485414,
         "wd:id":"Q188098"
     },
     "wof:country":"PE",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421181301,
-    "wof:lastmodified":1561777730,
+    "wof:lastmodified":1566676518,
     "wof:name":"Lauricocha",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

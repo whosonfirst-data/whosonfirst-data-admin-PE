@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.71585,-13.10516,-73.67585,-13.06516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Totora"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1209307561,
-    "wof:lastmodified":1564163823,
+    "wof:lastmodified":1566675338,
     "wof:name":"Totora",
     "wof:parent_id":421202681,
     "wof:placetype":"locality",

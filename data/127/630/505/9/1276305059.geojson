@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.01444,-10.33861,-76.97444,-10.29861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huatia"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276305059,
-    "wof:lastmodified":1564163536,
+    "wof:lastmodified":1566675209,
     "wof:name":"Huatia",
     "wof:parent_id":1108693949,
     "wof:placetype":"locality",

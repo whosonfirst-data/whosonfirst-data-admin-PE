@@ -10,8 +10,12 @@
     "geom:latitude":-12.9486,
     "geom:longitude":-76.38112,
     "iso:country":"PE",
+    "lbl:bbox":"-76.40112,-12.9686,-76.36112,-12.9286",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Kilmana jisk'a t'aqa suyu"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Distrito de Quilman\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quillmana"
     ],
     "qs:gn_country":"PE",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3930817,
         "gp:id":419191,
-        "qs:id":1063999
+        "qs_pg:id":1063999
     },
     "wof:country":"PE",
     "wof:created":1459009407,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421184317,
-    "wof:lastmodified":1560310303,
+    "wof:lastmodified":1566676534,
     "wof:name":"Quilman\u00e1",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

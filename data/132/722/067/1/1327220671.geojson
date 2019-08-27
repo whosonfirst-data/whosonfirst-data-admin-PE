@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.97259,-11.8364,-75.93259,-11.7964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ramada Worldwide"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1327220671,
-    "wof:lastmodified":1564160511,
+    "wof:lastmodified":1566673812,
     "wof:name":"Ramada",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

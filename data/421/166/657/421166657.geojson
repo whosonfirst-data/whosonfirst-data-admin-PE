@@ -10,8 +10,12 @@
     "geom:latitude":-9.377596,
     "geom:longitude":-77.593002,
     "iso:country":"PE",
+    "lbl:bbox":"-77.613002,-9.397596,-77.573002,-9.357596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Jangas jisk'a t'aqa suyu"
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":406011,
-        "qs:id":268880,
+        "qs_pg:id":268880,
         "wd:id":"Q2697129"
     },
     "wof:country":"PE",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421166657,
-    "wof:lastmodified":1563315201,
+    "wof:lastmodified":1566676475,
     "wof:name":"Jangas",
     "wof:parent_id":421194077,
     "wof:placetype":"locality",

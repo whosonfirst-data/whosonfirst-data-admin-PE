@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.08717,-13.19451,-74.04717,-13.15451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Huancabamba"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1326634583,
-    "wof:lastmodified":1564160856,
+    "wof:lastmodified":1566673973,
     "wof:name":"Huancabamba",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

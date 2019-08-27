@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.90707,-6.47746,-77.86707,-6.43746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0435\u0440\u043e\u0441"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1309812735,
-    "wof:lastmodified":1564166280,
+    "wof:lastmodified":1566676466,
     "wof:name":"Graneros",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

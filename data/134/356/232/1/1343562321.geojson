@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.22778,-14.43583,-73.18778,-14.39583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cotarosi",
         "Cotaruse"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343562321,
-    "wof:lastmodified":1537676819,
+    "wof:lastmodified":1566674317,
     "wof:name":"Cotaruse",
     "wof:parent_id":421175161,
     "wof:placetype":"locality",

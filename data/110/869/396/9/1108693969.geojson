@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-4.585459,
     "lbl:longitude":-80.643354,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Piura",
     "meso:gadm_admin":"Sullana",
     "meso:gadm_hasc2":"PE.PI.SL",
@@ -33,6 +35,7 @@
     "mps:longitude":-80.643354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Sullana jisk'a suyu"
     ],
@@ -89,9 +92,9 @@
         "\u8607\u4e9e\u7d0d\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"5,424.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Sullana",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108693969,
-    "wof:lastmodified":1561777648,
+    "wof:lastmodified":1566675929,
     "wof:name":"Sullana",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

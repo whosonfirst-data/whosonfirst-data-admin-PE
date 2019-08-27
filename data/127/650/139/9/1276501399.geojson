@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.52906,-9.05778,-75.48906,-9.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aguayt\u00eda"
     ],
@@ -49,8 +53,7 @@
         "Aguayt\u00eda"
     ],
     "name:und_x_variant":[
-        "Puente Aguayt\u00eda",
-        "Aguayt\u00eda"
+        "Puente Aguayt\u00eda"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0627\u0626\u06cc\u062a\u06cc\u0627"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1276501399,
-    "wof:lastmodified":1564163204,
+    "wof:lastmodified":1566675075,
     "wof:name":"Aguaytia",
     "wof:parent_id":421201039,
     "wof:placetype":"locality",

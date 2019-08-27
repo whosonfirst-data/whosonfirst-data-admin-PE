@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.60809,-10.55599,-76.56809,-10.51599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293451611,
-    "wof:lastmodified":1536837920,
+    "wof:lastmodified":1566674817,
     "wof:name":"Pumacaca",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

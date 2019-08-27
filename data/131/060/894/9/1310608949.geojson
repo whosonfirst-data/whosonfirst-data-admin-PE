@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.09043,-8.92489,-78.05043,-8.88489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310608949,
-    "wof:lastmodified":1536768079,
+    "wof:lastmodified":1566676221,
     "wof:name":"Recuaybamba",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

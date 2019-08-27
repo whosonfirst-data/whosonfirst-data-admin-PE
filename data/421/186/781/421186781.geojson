@@ -10,8 +10,12 @@
     "geom:latitude":-8.101718,
     "geom:longitude":-79.07481,
     "iso:country":"PE",
+    "lbl:bbox":"-79.09481,-8.121718,-79.05481,-8.081718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Esperanza"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3695886,
         "gp:id":406688,
-        "qs:id":1075977,
+        "qs_pg:id":1075977,
         "wd:id":"Q6462342"
     },
     "wof:country":"PE",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421186781,
-    "wof:lastmodified":1561777730,
+    "wof:lastmodified":1566676517,
     "wof:name":"La Esperanza",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

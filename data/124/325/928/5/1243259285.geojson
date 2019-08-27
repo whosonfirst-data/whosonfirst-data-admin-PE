@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.05556,-13.91306,-72.01556,-13.87306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243259285,
-    "wof:lastmodified":1537072248,
+    "wof:lastmodified":1566676792,
     "wof:name":"Trigonayllina",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

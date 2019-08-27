@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.2792,-11.60775,-69.2392,-11.56775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Calle"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1226405715,
-    "wof:lastmodified":1564168513,
+    "wof:lastmodified":1566677545,
     "wof:name":"Calle",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

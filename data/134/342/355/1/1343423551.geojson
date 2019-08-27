@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.20945,-16.86727,-71.16945,-16.82727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343423551,
-    "wof:lastmodified":1536799731,
+    "wof:lastmodified":1566674403,
     "wof:name":"Jito",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

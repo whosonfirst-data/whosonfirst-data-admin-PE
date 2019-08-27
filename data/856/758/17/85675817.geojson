@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-11.904273,
     "lbl:longitude":-77.119709,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Callao",
     "mps:latitude":-12.049479,
     "mps:longitude":-77.132608,
@@ -80,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u044c\u044f\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Constitucional Callao"
     ],
     "name:zho_x_preferred":[
@@ -158,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"147",
     "statoids:area_mi":"57",
     "statoids:as_of_date":"2007-10-21",
@@ -184,7 +185,7 @@
         "gp:id":2346474,
         "hasc:id":"PE.CL",
         "iso:id":"PE-CAL",
-        "qs:id":219585,
+        "qs_pg:id":219585,
         "wd:id":"Q3199075"
     },
     "wof:country":"PE",
@@ -205,7 +206,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732274,
+    "wof:lastmodified":1566674481,
     "wof:name":"Callao",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

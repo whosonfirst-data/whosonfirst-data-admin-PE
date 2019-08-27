@@ -10,8 +10,12 @@
     "geom:latitude":-7.4289,
     "geom:longitude":-79.50416,
     "iso:country":"PE",
+    "lbl:bbox":"-79.52416,-7.4489,-79.48416,-7.4089",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Pedro de Lloc"
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d \u041f\u0435\u0434\u0440\u043e \u0434\u0435 \u0419\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pedro"
     ],
     "name:war_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3692310,
         "gp:id":418585,
-        "qs:id":194913,
+        "qs_pg:id":194913,
         "wd:id":"Q1014474",
         "wk:page":"San Pedro de Lloc"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421199653,
-    "wof:lastmodified":1561777733,
+    "wof:lastmodified":1566676529,
     "wof:name":"San Pedro de Lloc",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",

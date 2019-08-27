@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.43979,-4.71984,-80.39979,-4.67984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360158999,
-    "wof:lastmodified":1536838107,
+    "wof:lastmodified":1566676236,
     "wof:name":"Suena El Agua",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

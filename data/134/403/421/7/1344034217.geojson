@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.70722,-11.49111,-75.66722,-11.45111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tarmatambo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344034217,
-    "wof:lastmodified":1564161725,
+    "wof:lastmodified":1566674389,
     "wof:name":"Tarmatambo",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

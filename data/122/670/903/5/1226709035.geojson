@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.85911,-5.10507,-79.81911,-5.06507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12ad\u1229\u12dd \u12a0\u12d9\u120d"
     ],
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":1226709035,
-    "wof:lastmodified":1564168585,
+    "wof:lastmodified":1566677580,
     "wof:name":"Cruz Azul",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

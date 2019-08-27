@@ -10,8 +10,12 @@
     "geom:latitude":-11.13333,
     "geom:longitude":-77.1946,
     "iso:country":"PE",
+    "lbl:bbox":"-77.2146,-11.15333,-77.1746,-11.11333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Sayan jisk'a t'aqa suyu"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Distrito de Say\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jeronimo de Sayan"
     ],
     "qs:gn_country":"PE",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3928867,
         "gp:id":419287,
-        "qs:id":1207618
+        "qs_pg:id":1207618
     },
     "wof:country":"PE",
     "wof:created":1459009267,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421180701,
-    "wof:lastmodified":1560310313,
+    "wof:lastmodified":1566676494,
     "wof:name":"Say\u00e1n",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

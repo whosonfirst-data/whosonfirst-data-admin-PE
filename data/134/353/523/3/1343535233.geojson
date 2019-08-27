@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.90257,-15.28295,-69.86257,-15.24295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343535233,
-    "wof:lastmodified":1536637266,
+    "wof:lastmodified":1566674101,
     "wof:name":"Tonicani",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

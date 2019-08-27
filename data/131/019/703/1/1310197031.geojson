@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.85033,-5.6608,-78.81033,-5.6208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Pinars"
     ],
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1310197031,
-    "wof:lastmodified":1564165561,
+    "wof:lastmodified":1566676152,
     "wof:name":"Pinas",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

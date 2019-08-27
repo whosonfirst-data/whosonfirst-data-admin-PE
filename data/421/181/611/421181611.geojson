@@ -10,8 +10,12 @@
     "geom:latitude":-4.64964,
     "geom:longitude":-81.23164,
     "iso:country":"PE",
+    "lbl:bbox":"-81.25164,-4.66964,-81.21164,-4.62964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Lobitos jisk'a t'aqa suyu"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3695250,
         "gp:id":418976,
-        "qs:id":495501,
+        "qs_pg:id":495501,
         "wd:id":"Q6663726"
     },
     "wof:country":"PE",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421181611,
-    "wof:lastmodified":1563315309,
+    "wof:lastmodified":1566676518,
     "wof:name":"Lobitos",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

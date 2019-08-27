@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.73837,-4.93191,-73.69837,-4.89191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243135873,
-    "wof:lastmodified":1536756558,
+    "wof:lastmodified":1566676766,
     "wof:name":"Nuevo Pumacahua",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

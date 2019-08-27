@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.76306,-6.6374,-79.72306,-6.5974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chavarria"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209076613,
-    "wof:lastmodified":1564163703,
+    "wof:lastmodified":1566675292,
     "wof:name":"Chavarria",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

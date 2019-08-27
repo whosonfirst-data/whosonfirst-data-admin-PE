@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.55296,-16.08057,-69.51296,-16.04057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343535215,
-    "wof:lastmodified":1536637294,
+    "wof:lastmodified":1566674096,
     "wof:name":"Chirimaya",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

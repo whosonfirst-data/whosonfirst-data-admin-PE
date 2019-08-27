@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.33732,-11.39667,-69.29732,-11.35667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leandro"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327110625,
-    "wof:lastmodified":1564160997,
+    "wof:lastmodified":1566674044,
     "wof:name":"Leandro",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

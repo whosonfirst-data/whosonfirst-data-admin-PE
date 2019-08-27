@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.42879,-5.29438,-79.38879,-5.25438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pucutay Hacienda",
         "Pucutay"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259542559,
-    "wof:lastmodified":1537676565,
+    "wof:lastmodified":1566677013,
     "wof:name":"Pucutay",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

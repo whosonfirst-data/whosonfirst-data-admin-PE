@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.44168,-15.25316,-71.40168,-15.21316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Characantaya",
         "Charcantaya"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327466321,
-    "wof:lastmodified":1537676838,
+    "wof:lastmodified":1566673856,
     "wof:name":"Charcantaya",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-6.54774,
     "geom:longitude":-79.86372,
     "iso:country":"PE",
+    "lbl:bbox":"-79.88372,-6.56774,-79.84372,-6.52774",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Muchumi jisk'a t'aqa suyu"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Distrito de Mochum\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muchumi"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3694720,
         "gp:id":419029,
-        "qs:id":1046502,
+        "qs_pg:id":1046502,
         "wd:id":"Q6318085"
     },
     "wof:country":"PE",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421176503,
-    "wof:lastmodified":1563315376,
+    "wof:lastmodified":1566676545,
     "wof:name":"Mochum\u00ed",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

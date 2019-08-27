@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.32481,-11.65502,-75.28481,-11.61502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293268795,
-    "wof:lastmodified":1536602226,
+    "wof:lastmodified":1566674869,
     "wof:name":"Ocshamachay",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

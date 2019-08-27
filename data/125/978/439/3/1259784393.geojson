@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.39293,-13.69793,-73.35293,-13.65793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259784393,
-    "wof:lastmodified":1536922529,
+    "wof:lastmodified":1566677102,
     "wof:name":"Cchaccarayoc",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

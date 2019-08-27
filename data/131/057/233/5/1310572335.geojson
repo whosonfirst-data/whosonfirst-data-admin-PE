@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.4056,-7.85413,-78.3656,-7.81413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310572335,
-    "wof:lastmodified":1536819746,
+    "wof:lastmodified":1566676177,
     "wof:name":"Cuyuchugo",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

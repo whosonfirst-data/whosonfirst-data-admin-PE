@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.65211,-4.13811,-70.61211,-4.09811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yaran\u00e1",
         "Yavara"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309777709,
-    "wof:lastmodified":1537676526,
+    "wof:lastmodified":1566676380,
     "wof:name":"Yavara",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

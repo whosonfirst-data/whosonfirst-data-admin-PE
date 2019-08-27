@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.12092,-15.65826,-71.08092,-15.61826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343858039,
-    "wof:lastmodified":1536670079,
+    "wof:lastmodified":1566674244,
     "wof:name":"Mamanahuina",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.4551,-11.78776,-75.4151,-11.74776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310181717,
-    "wof:lastmodified":1536886205,
+    "wof:lastmodified":1566676105,
     "wof:name":"Pachcana",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

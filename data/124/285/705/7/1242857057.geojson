@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.33225,-13.06775,-76.29225,-13.02775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242857057,
-    "wof:lastmodified":1560310337,
+    "wof:lastmodified":1566676900,
     "wof:name":"Melchorita",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

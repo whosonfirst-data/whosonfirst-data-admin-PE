@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.77962,-13.78633,-73.73962,-13.74633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ocopa"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209819849,
-    "wof:lastmodified":1564164508,
+    "wof:lastmodified":1566675654,
     "wof:name":"Ocopa",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

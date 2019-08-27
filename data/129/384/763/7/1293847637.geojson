@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.05798,-2.14684,-76.01798,-2.10684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puesto Colombia",
         "Puesto Cunambo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293847637,
-    "wof:lastmodified":1537676562,
+    "wof:lastmodified":1566674628,
     "wof:name":"Puesto Cunambo",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",

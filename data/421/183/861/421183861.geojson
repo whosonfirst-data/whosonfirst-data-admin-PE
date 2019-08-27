@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-15.088793,
     "lbl:longitude":-69.532104,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puno",
     "meso:gadm_admin":"Huancane",
     "meso:gadm_hasc2":"PE.PU.HN",
@@ -33,6 +35,7 @@
     "mps:longitude":-69.532104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Wankani jisk'a suyu"
@@ -82,9 +85,6 @@
     "name:spa_x_variant":[
         "Provincia de Huancan\u00e9"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Huancan\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Huancane"
     ],
@@ -119,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,806.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Huancane",
@@ -142,7 +142,7 @@
         "gn:id":3939536,
         "gp:id":26805852,
         "hasc:id":"PE.PU.HN",
-        "qs:id":985578,
+        "qs_pg:id":985578,
         "wd:id":"Q1944227",
         "wk:page":"Huancan\u00e9 Province"
     },
@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1563315367,
+    "wof:lastmodified":1566676541,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

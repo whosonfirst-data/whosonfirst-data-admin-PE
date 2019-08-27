@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.7276,-5.53793,-79.6876,-5.49793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hualcas Hacienda",
         "Hualcas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327398465,
-    "wof:lastmodified":1537676606,
+    "wof:lastmodified":1566673676,
     "wof:name":"Hualcas",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

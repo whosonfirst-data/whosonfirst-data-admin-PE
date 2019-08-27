@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.48974,-11.06033,-74.44974,-11.02033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Palomar"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1344143785,
-    "wof:lastmodified":1564161240,
+    "wof:lastmodified":1566674158,
     "wof:name":"Palomar",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

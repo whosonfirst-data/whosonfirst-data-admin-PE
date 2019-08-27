@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.18597,-12.30591,-69.14597,-12.26591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Torrej\u00f3n"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327097815,
-    "wof:lastmodified":1537676989,
+    "wof:lastmodified":1566673691,
     "wof:name":"Torrejon",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

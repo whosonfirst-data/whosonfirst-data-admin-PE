@@ -11,8 +11,11 @@
     "geom:longitude":-81.27194,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":99074,
+    "gn:population":99074,
     "iso:country":"PE",
+    "lbl:bbox":"-81.29194,-4.59722,-81.25194,-4.55722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Talara"
     ],
     "name:vol_x_preferred":[
@@ -211,13 +214,13 @@
     "wof:concordances":{
         "gn:id":3691582,
         "gp:id":12515195,
-        "qs:id":1046454,
+        "qs_pg:id":1046454,
         "wd:id":"Q723584",
         "wk:page":"Talara"
     },
     "wof:concordances_alt":{
         "gp:id":418463,
-        "qs:id":962955
+        "qs_pg:id":962955
     },
     "wof:country":"PE",
     "wof:created":1469052491,
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":890445029,
-    "wof:lastmodified":1563315454,
+    "wof:lastmodified":1566676565,
     "wof:name":"Talara",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

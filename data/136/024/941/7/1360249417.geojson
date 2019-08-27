@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.16267,-5.18382,-80.12267,-5.14382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vicus"
     ],
@@ -76,8 +80,7 @@
         "Vicus"
     ],
     "name:und_x_variant":[
-        "Vic\u00fas Hacienda",
-        "Vicus"
+        "Vic\u00fas Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1360249417,
-    "wof:lastmodified":1564165717,
+    "wof:lastmodified":1566676226,
     "wof:name":"Vicus",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

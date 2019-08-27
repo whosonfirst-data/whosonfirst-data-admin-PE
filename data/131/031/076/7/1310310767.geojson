@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.35211,-16.51057,-71.31211,-16.47057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pastopampa"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310310767,
-    "wof:lastmodified":1537676967,
+    "wof:lastmodified":1566676039,
     "wof:name":"Pastopampa",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

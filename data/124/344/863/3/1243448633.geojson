@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.05747,-13.75267,-75.01747,-13.71267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Molinomachay",
         "Molino Machay"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243448633,
-    "wof:lastmodified":1537676752,
+    "wof:lastmodified":1566676986,
     "wof:name":"Molino Machay",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

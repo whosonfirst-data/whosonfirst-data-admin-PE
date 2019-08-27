@@ -10,8 +10,12 @@
     "geom:latitude":-12.63464,
     "geom:longitude":-76.6452,
     "iso:country":"PE",
+    "lbl:bbox":"-76.6652,-12.65464,-76.6252,-12.61464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Barranco"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Barranco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Barranca"
     ],
     "qs:gn_country":"PE",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3937369,
         "gp:id":397364,
-        "qs:id":235290
+        "qs_pg:id":235290
     },
     "wof:country":"PE",
     "wof:created":1459010164,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421203811,
-    "wof:lastmodified":1564166313,
+    "wof:lastmodified":1566676488,
     "wof:name":"Barranco",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

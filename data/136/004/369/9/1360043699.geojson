@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.30887,-6.66561,-76.26887,-6.62561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bc\u03c0\u03b5\u03c3\u03af\u03bd\u03bf"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360043699,
-    "wof:lastmodified":1564165970,
+    "wof:lastmodified":1566676337,
     "wof:name":"Campesino",
     "wof:parent_id":421175177,
     "wof:placetype":"locality",

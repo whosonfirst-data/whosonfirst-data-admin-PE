@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.35988,-16.03196,-71.31988,-15.99196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u0430\u043a"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343785335,
-    "wof:lastmodified":1537676728,
+    "wof:lastmodified":1566674270,
     "wof:name":"Pisac",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

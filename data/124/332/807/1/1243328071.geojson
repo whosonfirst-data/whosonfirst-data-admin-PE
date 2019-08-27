@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.15902,-5.08345,-80.11902,-5.04345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yapatera Hacienda",
         "Yapatera"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243328071,
-    "wof:lastmodified":1537676526,
+    "wof:lastmodified":1566676812,
     "wof:name":"Yapatera",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

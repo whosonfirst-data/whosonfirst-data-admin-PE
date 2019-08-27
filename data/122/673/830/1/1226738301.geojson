@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.12374,-8.97703,-76.08374,-8.93703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -527,7 +531,7 @@
         }
     ],
     "wof:id":1226738301,
-    "wof:lastmodified":1564168150,
+    "wof:lastmodified":1566677367,
     "wof:name":"San Francisco",
     "wof:parent_id":421187925,
     "wof:placetype":"locality",

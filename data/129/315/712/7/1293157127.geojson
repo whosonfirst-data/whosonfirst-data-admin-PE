@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.73634,-6.68072,-76.69634,-6.64072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Limatambo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293157127,
-    "wof:lastmodified":1537676937,
+    "wof:lastmodified":1566674636,
     "wof:name":"Limatambo",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

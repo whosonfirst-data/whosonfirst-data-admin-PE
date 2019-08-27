@@ -10,8 +10,11 @@
     "geom:latitude":-12.087331,
     "geom:longitude":-76.993249,
     "iso:country":"PE",
+    "lbl:bbox":"-76.998249,-12.092331,-76.988249,-12.082331",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0643\u0631\u0627\u0646\u062f\u0629"
@@ -193,7 +196,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723528,
-        "qs:id":236901,
+        "qs_pg:id":236901,
         "wd:id":"Q311105"
     },
     "wof:country":"PE",
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421203995,
-    "wof:lastmodified":1563315231,
+    "wof:lastmodified":1566676489,
     "wof:name":"Jacaranda",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

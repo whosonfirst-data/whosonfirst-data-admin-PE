@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.78498,-14.76813,-71.74498,-14.72813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huacallullo",
         "Huacallullu"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259864183,
-    "wof:lastmodified":1537676875,
+    "wof:lastmodified":1566677266,
     "wof:name":"Huacallullu",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

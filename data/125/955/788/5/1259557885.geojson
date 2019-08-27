@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-81.05333,-4.87,-81.01333,-4.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Clavillo"
     ],
@@ -86,8 +90,7 @@
         "\u041a\u043b\u0430\u0432\u0456\u0445\u043e"
     ],
     "name:und_x_variant":[
-        "Hacienda Clavijo",
-        "Clavijo"
+        "Hacienda Clavijo"
     ],
     "name:uzb_x_preferred":[
         "Clavijo"
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1259557885,
-    "wof:lastmodified":1564167502,
+    "wof:lastmodified":1566677064,
     "wof:name":"Clavijo",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

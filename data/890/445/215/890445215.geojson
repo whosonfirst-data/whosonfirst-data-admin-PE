@@ -11,8 +11,11 @@
     "geom:longitude":-74.97501,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":41576,
+    "gn:population":41576,
     "iso:country":"PE",
+    "lbl:bbox":"-74.99501,-12.80542,-74.95501,-12.76542",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -229,12 +232,12 @@
     "wof:concordances":{
         "gn:id":3939470,
         "gp:id":418523,
-        "qs:id":1047354,
+        "qs_pg:id":1047354,
         "wd:id":"Q1000333",
         "wk:page":"Huancavelica"
     },
     "wof:concordances_alt":{
-        "qs:id":286440
+        "qs_pg:id":286440
     },
     "wof:country":"PE",
     "wof:created":1469052501,
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":890445215,
-    "wof:lastmodified":1563315453,
+    "wof:lastmodified":1566676565,
     "wof:name":"Huancavelica",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

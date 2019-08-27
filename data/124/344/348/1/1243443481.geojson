@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.40389,-13.70639,-75.36389,-13.66639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243443481,
-    "wof:lastmodified":1536809379,
+    "wof:lastmodified":1566676982,
     "wof:name":"Chuilo Pata",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

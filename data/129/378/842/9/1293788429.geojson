@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.97509,-15.42529,-73.93509,-15.38529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Larcapa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293788429,
-    "wof:lastmodified":1537676771,
+    "wof:lastmodified":1566674667,
     "wof:name":"Hacienda Larcapa",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.50333,-3.58667,-80.46333,-3.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Carmelo"
     ],
@@ -47,8 +51,7 @@
         "Carmelo"
     ],
     "name:und_x_variant":[
-        "Monte Carmelo",
-        "Carmelo"
+        "Monte Carmelo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1226097487,
-    "wof:lastmodified":1564168763,
+    "wof:lastmodified":1566677665,
     "wof:name":"Carmelo",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

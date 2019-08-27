@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.73282,-13.66097,-75.69282,-13.62097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quinga Grande",
         "La Quinga Grande Hacienda",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293081331,
-    "wof:lastmodified":1537676771,
+    "wof:lastmodified":1566674560,
     "wof:name":"La Quinga Grande",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

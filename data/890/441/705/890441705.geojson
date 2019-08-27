@@ -11,10 +11,14 @@
     "geom:longitude":-70.36464,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":1976,
+    "gn:population":1976,
     "iso:country":"PE",
+    "lbl:bbox":"-70.38464,-17.4262,-70.34464,-17.3862",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Totoral",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3927023,
         "gp:id":418819,
-        "qs:id":279911
+        "qs_pg:id":279911
     },
     "wof:country":"PE",
     "wof:created":1469052334,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890441705,
-    "wof:lastmodified":1505343584,
+    "wof:lastmodified":1566676553,
     "wof:name":"Totoral",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

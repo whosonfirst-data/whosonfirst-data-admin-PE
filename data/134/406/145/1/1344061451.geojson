@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.68611,-14.22722,-73.64611,-14.18722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344061451,
-    "wof:lastmodified":1536873110,
+    "wof:lastmodified":1566674195,
     "wof:name":"Huancanicha",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

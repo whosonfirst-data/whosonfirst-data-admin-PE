@@ -11,10 +11,14 @@
     "geom:longitude":-73.92438,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":5032,
+    "gn:population":5032,
     "iso:country":"PE",
+    "lbl:bbox":"-73.94438,-14.81847,-73.90438,-14.77847",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tambo"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3927995,
         "gp:id":419251,
-        "qs:id":1047243,
+        "qs_pg:id":1047243,
         "wk:page":"Tambo"
     },
     "wof:country":"PE",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890445183,
-    "wof:lastmodified":1564166388,
+    "wof:lastmodified":1566676566,
     "wof:name":"Tambo",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

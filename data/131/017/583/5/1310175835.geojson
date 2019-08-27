@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.97819,-6.75101,-79.93819,-6.71101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Palmeras"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310175835,
-    "wof:lastmodified":1537676594,
+    "wof:lastmodified":1566676130,
     "wof:name":"Las Palmeras",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

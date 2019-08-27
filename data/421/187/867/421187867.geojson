@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.13573,
     "lbl:longitude":-77.689861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ancash",
     "meso:gadm_admin":"Yungay",
     "meso:gadm_hasc2":"PE.AN.YN",
@@ -30,6 +32,7 @@
     "mps:longitude":-77.689861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Yungay"
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Yungay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Yungay"
     ],
     "name:vie_x_preferred":[
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"1,361.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Yungay",
@@ -136,7 +139,7 @@
         "gn:id":3690672,
         "gp:id":26805960,
         "hasc:id":"PE.AN.YN",
-        "qs:id":1086214,
+        "qs_pg:id":1086214,
         "wd:id":"Q1798739",
         "wk:page":"Yungay Province"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421187867,
-    "wof:lastmodified":1563315257,
+    "wof:lastmodified":1566676498,
     "wof:name":"Yungay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

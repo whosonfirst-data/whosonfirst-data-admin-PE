@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.17848,-9.09869,-78.13848,-9.05869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huantaspampa",
         "Huataspampa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276993829,
-    "wof:lastmodified":1537676602,
+    "wof:lastmodified":1566675185,
     "wof:name":"Huataspampa",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

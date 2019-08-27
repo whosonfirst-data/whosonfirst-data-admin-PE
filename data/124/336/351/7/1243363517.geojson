@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.12014,-15.3181,-73.08014,-15.2781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pichiulla"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243363517,
-    "wof:lastmodified":1537676965,
+    "wof:lastmodified":1566676587,
     "wof:name":"Pichiulla",
     "wof:parent_id":1108694023,
     "wof:placetype":"locality",

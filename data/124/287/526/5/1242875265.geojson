@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.58717,-13.81565,-73.54717,-13.77565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242875265,
-    "wof:lastmodified":1536633578,
+    "wof:lastmodified":1566676648,
     "wof:name":"Pallasona",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

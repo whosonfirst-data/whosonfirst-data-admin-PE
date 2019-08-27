@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.23779,-14.55829,-75.19779,-14.51829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Molino"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326710667,
-    "wof:lastmodified":1537676752,
+    "wof:lastmodified":1566673918,
     "wof:name":"Molino",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",

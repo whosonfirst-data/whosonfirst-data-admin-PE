@@ -11,10 +11,14 @@
     "geom:longitude":-74.80708,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":8945,
+    "gn:population":8945,
     "iso:country":"PE",
+    "lbl:bbox":"-74.82708,-8.49533,-74.78708,-8.45533",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Campoverde"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3733380,
         "gp:id":419462,
-        "qs:id":150284,
+        "qs_pg:id":150284,
         "wd:id":"Q2486412",
         "wk:page":"Campoverde District"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890435209,
-    "wof:lastmodified":1563315476,
+    "wof:lastmodified":1566676571,
     "wof:name":"Campoverde",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

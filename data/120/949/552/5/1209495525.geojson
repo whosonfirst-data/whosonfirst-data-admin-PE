@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.83212,-14.78191,-74.79212,-14.74191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0427\u0438\u043b\u0438"
     ],
@@ -833,7 +837,7 @@
         }
     ],
     "wof:id":1209495525,
-    "wof:lastmodified":1564164091,
+    "wof:lastmodified":1566675453,
     "wof:name":"Chile",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

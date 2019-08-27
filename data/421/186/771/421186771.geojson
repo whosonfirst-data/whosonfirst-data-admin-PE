@@ -10,8 +10,12 @@
     "geom:latitude":-12.067691,
     "geom:longitude":-75.212488,
     "iso:country":"PE",
+    "lbl:bbox":"-75.232488,-12.087691,-75.192488,-12.047691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Tambo"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "El Tambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Tambor"
     ],
     "qs:gn_country":null,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3941202,
         "gp:id":402639,
-        "qs:id":1075966
+        "qs_pg:id":1075966
     },
     "wof:country":"PE",
     "wof:created":1459009491,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421186771,
-    "wof:lastmodified":1564166337,
+    "wof:lastmodified":1566676514,
     "wof:name":"El Tambo",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

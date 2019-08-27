@@ -10,8 +10,12 @@
     "geom:latitude":-13.619962,
     "geom:longitude":-71.709823,
     "iso:country":"PE",
+    "lbl:bbox":"-71.729823,-13.639962,-71.689823,-13.599962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":420176,
-        "qs:id":1323670
+        "qs_pg:id":1323670
     },
     "wof:country":"PE",
     "wof:created":1459009011,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421173939,
-    "wof:lastmodified":1500022384,
+    "wof:lastmodified":1566676503,
     "wof:name":"Caicai",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.28792,-15.89201,-72.24792,-15.85201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luriahuasi Huerta",
         "Luriahuasi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260080027,
-    "wof:lastmodified":1537676762,
+    "wof:lastmodified":1566675838,
     "wof:name":"Gloriahuasi",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

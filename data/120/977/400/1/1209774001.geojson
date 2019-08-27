@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.61966,-7.03657,-76.57966,-6.99657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Siambal"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209774001,
-    "wof:lastmodified":1537676909,
+    "wof:lastmodified":1566675388,
     "wof:name":"Siambal",
     "wof:parent_id":1108693993,
     "wof:placetype":"locality",

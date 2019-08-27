@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-13.986466,
     "lbl:longitude":-72.230886,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Apur\u00edmac",
     "meso:gadm_admin":"Cotabambas",
     "meso:gadm_hasc2":"PE.AP.CO",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.230886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Cotabambas"
     ],
@@ -37,9 +40,9 @@
         "Cotabambas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,613.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Tambobamba",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108693907,
-    "wof:lastmodified":1553718250,
+    "wof:lastmodified":1566675936,
     "wof:name":"Cotabambas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

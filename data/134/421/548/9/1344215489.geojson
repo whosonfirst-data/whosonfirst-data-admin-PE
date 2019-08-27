@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.36528,-5.73917,-77.32528,-5.69917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u043d\u0430"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1344215489,
-    "wof:lastmodified":1564161665,
+    "wof:lastmodified":1566674362,
     "wof:name":"Primavera",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

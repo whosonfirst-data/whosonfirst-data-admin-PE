@@ -10,8 +10,12 @@
     "geom:latitude":-7.23692,
     "geom:longitude":-79.4279,
     "iso:country":"PE",
+    "lbl:bbox":"-79.4479,-7.25692,-79.4079,-7.21692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
@@ -553,7 +557,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buenos Aires Hacienda"
     ],
     "name:urd_x_preferred":[
@@ -630,7 +634,7 @@
     "wof:concordances":{
         "gn:id":3699218,
         "gp:id":418680,
-        "qs:id":1082787
+        "qs_pg:id":1082787
     },
     "wof:country":"PE",
     "wof:created":1459009512,
@@ -645,7 +649,7 @@
         }
     ],
     "wof:id":421187397,
-    "wof:lastmodified":1564166323,
+    "wof:lastmodified":1566676496,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421184599,
     "wof:placetype":"locality",

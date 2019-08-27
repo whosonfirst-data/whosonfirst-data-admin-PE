@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.14806,-10.28111,-75.10806,-10.24111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343922871,
-    "wof:lastmodified":1537071283,
+    "wof:lastmodified":1566674291,
     "wof:name":"Shiringamazu",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

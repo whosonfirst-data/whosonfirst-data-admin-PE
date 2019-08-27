@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.27205,-11.04731,-76.23205,-11.00731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326706981,
-    "wof:lastmodified":1536732443,
+    "wof:lastmodified":1566673937,
     "wof:name":"Mesa Pata",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

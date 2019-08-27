@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.99834,-12.38265,-74.95834,-12.34265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327123497,
-    "wof:lastmodified":1536627156,
+    "wof:lastmodified":1566673841,
     "wof:name":"Sumabamba",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

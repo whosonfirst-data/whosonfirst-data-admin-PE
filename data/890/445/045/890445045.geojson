@@ -11,10 +11,14 @@
     "geom:longitude":-79.00917,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":22581,
+    "gn:population":22581,
     "iso:country":"PE",
+    "lbl:bbox":"-79.02917,-8.19111,-78.98917,-8.15111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Moche"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3694725,
         "gp:id":419028,
-        "qs:id":1046503,
+        "qs_pg:id":1046503,
         "wd:id":"Q6887544",
         "wk:page":"Moche"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890445045,
-    "wof:lastmodified":1563315451,
+    "wof:lastmodified":1566676564,
     "wof:name":"Moche",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

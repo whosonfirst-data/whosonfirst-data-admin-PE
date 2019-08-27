@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.72,-14.02,-75.68,-13.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -62,8 +66,7 @@
         "La Esperanza"
     ],
     "name:und_x_variant":[
-        "La Esperanza Hacienda",
-        "La Esperanza"
+        "La Esperanza Hacienda"
     ],
     "name:vie_x_preferred":[
         "La Esperanza"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1242961113,
-    "wof:lastmodified":1564167163,
+    "wof:lastmodified":1566676908,
     "wof:name":"La Esperanza",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.12369,-14.84704,-74.08369,-14.80704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Untume",
         "Untume"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276434505,
-    "wof:lastmodified":1537676670,
+    "wof:lastmodified":1566674941,
     "wof:name":"Untume",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

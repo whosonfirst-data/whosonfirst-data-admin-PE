@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.10384,-14.37407,-75.06384,-14.33407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276327013,
-    "wof:lastmodified":1536787590,
+    "wof:lastmodified":1566675045,
     "wof:name":"La Cangana",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

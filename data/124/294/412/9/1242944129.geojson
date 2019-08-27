@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.89053,-7.71652,-77.85053,-7.67652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naiguapata",
         "Naiguapata Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242944129,
-    "wof:lastmodified":1537676580,
+    "wof:lastmodified":1566676704,
     "wof:name":"Nayguapata",
     "wof:parent_id":421177079,
     "wof:placetype":"locality",

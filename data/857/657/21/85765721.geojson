@@ -12,8 +12,10 @@
     "gn:latitude":-11.52606,
     "gn:longitude":-77.25107,
     "iso:country":"PE",
+    "lbl:bbox":"-76.978746,-12.085857,-76.968746,-12.075857",
     "lbl:latitude":-12.080857,
     "lbl:longitude":-76.973746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.070478,
     "mps:longitude":-76.979898,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
         "Hara Los Pacaes",
         "Los Pacaes"
     ],
-    "name:unk_x_variant":[
-        "Los Sauces"
-    ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u7d39\u585e\u65af"
     ],
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -102,7 +101,7 @@
     "wof:concordances":{
         "gn:id":6254804,
         "gp:id":22723524,
-        "qs:id":985482
+        "qs_pg:id":985482
     },
     "wof:country":"PE",
     "wof:geomhash":"4a8e8e8fc68291b937fccd67f1fac77c",
@@ -120,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161893,
+    "wof:lastmodified":1566674472,
     "wof:name":"Los Sauces",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

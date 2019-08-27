@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-12.047435,
     "lbl:longitude":-70.563244,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Madre De Dios",
     "mps:latitude":-12.045089,
     "mps:longitude":-70.590206,
@@ -197,7 +198,7 @@
         "Madre de Dios"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0ba9\u0bcd\u0bb1\u0bc7  \u0b9f\u0bc7  \u0b9f\u0bbf\u0baf\u0bcb\u0bb8\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0ba9\u0bcd\u0bb1\u0bc7 \u0b9f\u0bc7 \u0b9f\u0bbf\u0baf\u0bcb\u0bb8\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c21\u0c4d\u0c30\u0c47 \u0c26 \u0c21\u0c3f\u0c2f\u0c3e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -214,7 +215,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0440\u0435-\u0434\u0435-\u0414\u044c\u0439\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Del Madre de Dios"
     ],
     "name:urd_x_preferred":[
@@ -304,9 +305,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"85,183",
     "statoids:area_mi":"32,889",
     "statoids:as_of_date":"2007-10-21",
@@ -332,7 +333,7 @@
         "gp:id":2346484,
         "hasc:id":"PE.MD",
         "iso:id":"PE-MDD",
-        "qs:id":1222769,
+        "qs_pg:id":1222769,
         "unlc:id":"PE-MDD",
         "wd:id":"Q210896",
         "wk:page":"Madre de Dios Region"
@@ -355,7 +356,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732282,
+    "wof:lastmodified":1566674496,
     "wof:name":"Madre de Dios",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

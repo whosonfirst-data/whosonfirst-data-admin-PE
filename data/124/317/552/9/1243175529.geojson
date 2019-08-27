@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.51013,-6.00362,-78.47013,-5.96362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ortiz Arrieta"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243175529,
-    "wof:lastmodified":1537676925,
+    "wof:lastmodified":1566676968,
     "wof:name":"Ortiz Arrieta",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

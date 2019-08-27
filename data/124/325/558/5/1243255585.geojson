@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.81667,-5.73278,-78.77667,-5.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morro Solar"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243255585,
-    "wof:lastmodified":1564166883,
+    "wof:lastmodified":1566676783,
     "wof:name":"Morro Solar",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

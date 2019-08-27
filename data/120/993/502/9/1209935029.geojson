@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.22043,-14.06387,-75.18043,-14.02387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ticra",
         "Ticcra"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209935029,
-    "wof:lastmodified":1537676680,
+    "wof:lastmodified":1566675514,
     "wof:name":"Ticcra",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

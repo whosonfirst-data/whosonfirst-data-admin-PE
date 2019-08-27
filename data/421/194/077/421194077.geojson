@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.289763,
     "lbl:longitude":-77.588119,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ancash",
     "meso:gadm_admin":"Carhuaz",
     "meso:gadm_hasc2":"PE.AN.CZ",
@@ -30,6 +32,7 @@
     "mps:longitude":-77.588119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Carhuaz"
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Carhuaz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Carhu\u00e1s"
     ],
     "name:vie_x_preferred":[
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"804.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Carhuaz",
@@ -136,7 +139,7 @@
         "gn:id":3698813,
         "gp:id":26805810,
         "hasc:id":"PE.AN.CZ",
-        "qs:id":355674,
+        "qs_pg:id":355674,
         "wd:id":"Q1166126",
         "wk:page":"Carhuaz Province"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421194077,
-    "wof:lastmodified":1563315211,
+    "wof:lastmodified":1566676479,
     "wof:name":"Carhuaz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

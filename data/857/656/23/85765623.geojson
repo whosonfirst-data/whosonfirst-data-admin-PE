@@ -11,8 +11,10 @@
     "geom:longitude":-77.049517,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-77.054517,-12.070347,-77.044517,-12.060347",
     "lbl:latitude":-12.065347,
     "lbl:longitude":-77.049517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.056076,
     "mps:longitude":-77.04992,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Brena"
-    ],
-    "name:unk_x_variant":[
         "Brena"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
         421186805,
-        421202549,
-        1175613121
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723449,
-        "qs:id":1196543,
         "qs_pg:id":1196543
     },
     "wof:country":"PE",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1560310472,
+    "wof:lastmodified":1566674471,
     "wof:name":"Brena",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

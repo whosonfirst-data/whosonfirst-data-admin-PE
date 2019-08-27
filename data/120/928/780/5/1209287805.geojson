@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.72,-7.18667,-79.68,-7.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cherrepe",
         "Caleta de Ch\u00e9rrepe",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209287805,
-    "wof:lastmodified":1537676638,
+    "wof:lastmodified":1566675638,
     "wof:name":"Caleta Cherrepe",
     "wof:parent_id":85632521,
     "wof:placetype":"locality",

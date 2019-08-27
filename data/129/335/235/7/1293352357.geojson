@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.42578,-10.3554,-76.38578,-10.3154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marai",
         "Maral"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293352357,
-    "wof:lastmodified":1537676890,
+    "wof:lastmodified":1566674708,
     "wof:name":"Maral",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

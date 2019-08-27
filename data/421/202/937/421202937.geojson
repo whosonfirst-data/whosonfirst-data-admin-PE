@@ -10,6 +10,9 @@
     "geom:latitude":-5.70908,
     "geom:longitude":-78.80748,
     "iso:country":"PE",
+    "lbl:bbox":"-78.82748,-5.72908,-78.78748,-5.68908",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3696150,
         "gp:id":418531,
-        "qs:id":228676,
+        "qs_pg:id":228676,
         "wd:id":"Q1229885",
         "wk:page":"Ja\u00e9n District"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421202937,
-    "wof:lastmodified":1563315233,
+    "wof:lastmodified":1566676489,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.07422,-12.56171,-69.03422,-12.52171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Albergue Tur\u00edstico Cuzco Amaz\u00f3nico"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327410013,
-    "wof:lastmodified":1537676993,
+    "wof:lastmodified":1566673858,
     "wof:name":"Albergue Turistico Cuzco Amazonico",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

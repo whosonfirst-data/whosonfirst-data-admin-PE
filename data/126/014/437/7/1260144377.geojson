@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.35043,-15.52905,-70.31043,-15.48905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Culillaca",
         "Cullillaca Hacienda",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260144377,
-    "wof:lastmodified":1537676817,
+    "wof:lastmodified":1566675801,
     "wof:name":"Cullillaca",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

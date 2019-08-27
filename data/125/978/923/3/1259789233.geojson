@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.85066,-17.16541,-71.81066,-17.12541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259789233,
-    "wof:lastmodified":1536915324,
+    "wof:lastmodified":1566677103,
     "wof:name":"La Gamero Hacienda",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

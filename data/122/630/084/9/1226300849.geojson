@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.59139,-17.88745,-70.55139,-17.84745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430"
     ],
@@ -115,8 +119,7 @@
         "\u041f\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Para Hacienda",
-        "Para"
+        "Para Hacienda"
     ],
     "name:urd_x_preferred":[
         "Para"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1226300849,
-    "wof:lastmodified":1564168645,
+    "wof:lastmodified":1566677608,
     "wof:name":"Para",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.60333,-15.30333,-70.56333,-15.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d1aqquera",
         "Naquera"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309879587,
-    "wof:lastmodified":1537676748,
+    "wof:lastmodified":1566676442,
     "wof:name":"Naquera",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

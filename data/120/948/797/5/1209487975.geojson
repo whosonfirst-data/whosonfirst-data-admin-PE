@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.83389,-11.17889,-76.79389,-11.13889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0645\u0628\u0627"
     ],
@@ -221,7 +225,7 @@
         }
     ],
     "wof:id":1209487975,
-    "wof:lastmodified":1564163922,
+    "wof:lastmodified":1566675379,
     "wof:name":"Pampas",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

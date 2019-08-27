@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.67305,-9.79122,-76.63305,-9.75122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344235399,
-    "wof:lastmodified":1536621158,
+    "wof:lastmodified":1566674186,
     "wof:name":"Jircacancha",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.79574,-4.45839,-80.75574,-4.41839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angola",
         "Angolo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343832227,
-    "wof:lastmodified":1537676645,
+    "wof:lastmodified":1566674211,
     "wof:name":"Angolo",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

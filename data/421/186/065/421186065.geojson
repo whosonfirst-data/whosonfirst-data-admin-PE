@@ -10,8 +10,12 @@
     "geom:latitude":-7.397365,
     "geom:longitude":-79.565906,
     "iso:country":"PE",
+    "lbl:bbox":"-79.585906,-7.417365,-79.545906,-7.377365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":420483,
-        "qs:id":1058221
+        "qs_pg:id":1058221
     },
     "wof:country":"PE",
     "wof:created":1459009463,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186065,
-    "wof:lastmodified":1500023000,
+    "wof:lastmodified":1566676513,
     "wof:name":"Puerto de Pacasmayo",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",

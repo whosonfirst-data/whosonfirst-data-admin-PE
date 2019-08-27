@@ -11,8 +11,10 @@
     "geom:longitude":-76.994967,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-76.999967,-12.102303,-76.989967,-12.092303",
     "lbl:latitude":-12.097303,
     "lbl:longitude":-76.994967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.098856,
     "mps:longitude":-76.990563,
     "mz:hierarchy_label":0,
@@ -62,9 +64,6 @@
     "name:swe_x_preferred":[
         "San Borja"
     ],
-    "name:unk_x_variant":[
-        "San Borja Norte"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u535a\u723e\u54c8\u5340"
     ],
@@ -96,7 +95,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":2014,
     "wof:belongsto":[
         1175613121,
@@ -108,7 +107,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723510,
-        "qs:id":1061904,
         "qs_pg:id":1061904,
         "wd:id":"Q2566267"
     },
@@ -128,7 +126,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563311162,
+    "wof:lastmodified":1566674470,
     "wof:name":"San Borja Norte",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

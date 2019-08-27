@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.62111,-12.24639,-75.58111,-12.20639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242657051,
-    "wof:lastmodified":1536949712,
+    "wof:lastmodified":1566676916,
     "wof:name":"Cashash",
     "wof:parent_id":421188283,
     "wof:placetype":"locality",

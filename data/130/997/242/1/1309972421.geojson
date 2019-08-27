@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.17936,-12.60061,-69.13936,-12.56061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u062e\u0627\u0646\u062f\u0631\u0648 \u062a\u0648\u0644\u064a\u062f\u0648"
     ],
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":1309972421,
-    "wof:lastmodified":1564166028,
+    "wof:lastmodified":1566676360,
     "wof:name":"Alejandro Toledo",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

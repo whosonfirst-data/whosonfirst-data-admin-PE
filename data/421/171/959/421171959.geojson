@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.297661,
     "lbl:longitude":-70.598507,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Moquegua",
     "meso:gadm_admin":"General S\u00e1nchez Cerro",
     "meso:gadm_hasc2":"PE.MQ.GS",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.598507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "General S\u00e1nchez Cerro jisk'a suyu"
@@ -85,9 +88,6 @@
     "name:spa_x_variant":[
         "Provincia de General S\u00e1nchez Cerro"
     ],
-    "name:unk_x_variant":[
-        "General S\u00e1nchez Cerro"
-    ],
     "name:vie_x_preferred":[
         "Moquegua"
     ],
@@ -122,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"5,682.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Omate",
@@ -146,7 +146,7 @@
         "gn:id":3940771,
         "gp:id":26805843,
         "hasc:id":"PE.MQ.GS",
-        "qs:id":1288007,
+        "qs_pg:id":1288007,
         "wd:id":"Q1947893"
     },
     "wof:country":"PE",
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421171959,
-    "wof:lastmodified":1563315400,
+    "wof:lastmodified":1566676548,
     "wof:name":"Gral. S\u00e1nchez Cerro",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

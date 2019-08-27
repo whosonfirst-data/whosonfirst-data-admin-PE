@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.91996,-14.46626,-69.87996,-14.42626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259944069,
-    "wof:lastmodified":1536692200,
+    "wof:lastmodified":1566677199,
     "wof:name":"Ependera",
     "wof:parent_id":1108693915,
     "wof:placetype":"locality",

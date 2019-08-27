@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.18447,-11.58961,-74.14447,-11.54961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310181727,
-    "wof:lastmodified":1536886191,
+    "wof:lastmodified":1566676101,
     "wof:name":"Sanibeni",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

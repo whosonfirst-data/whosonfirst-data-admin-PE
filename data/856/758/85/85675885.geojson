@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-6.8385,
     "lbl:longitude":-76.692996,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"San Mart\u00edn",
     "mps:latitude":-7.152657,
     "mps:longitude":-76.854937,
@@ -204,7 +205,7 @@
         "San Mart\u00edn"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -217,9 +218,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d"
-    ],
-    "name:unk_x_variant":[
-        "San Martin"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646 \u0639\u0644\u0627\u0642\u06c1"
@@ -305,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"51,253",
     "statoids:area_mi":"19,789",
     "statoids:as_of_date":"2007-10-21",
@@ -333,7 +331,7 @@
         "gp:id":2346489,
         "hasc:id":"PE.SM",
         "iso:id":"PE-SAM",
-        "qs:id":423858,
+        "qs_pg:id":423858,
         "unlc:id":"PE-SAM",
         "wd:id":"Q211793",
         "wk:page":"San Mart\u00edn Region"
@@ -356,7 +354,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732280,
+    "wof:lastmodified":1566674493,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

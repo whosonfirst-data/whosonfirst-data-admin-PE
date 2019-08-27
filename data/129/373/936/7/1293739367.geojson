@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.21297,-3.65013,-80.17297,-3.61013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
     ],
@@ -70,8 +74,7 @@
         "Pueblo Nuevo"
     ],
     "name:und_x_variant":[
-        "La Pe\u00f1ita",
-        "Pueblo Nuevo"
+        "La Pe\u00f1ita"
     ],
     "name:vie_x_preferred":[
         "Pueblo Nuevo"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1293739367,
-    "wof:lastmodified":1564162631,
+    "wof:lastmodified":1566674821,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",

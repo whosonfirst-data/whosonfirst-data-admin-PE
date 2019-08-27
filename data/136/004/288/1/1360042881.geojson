@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.72695,-3.77256,-80.68695,-3.73256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360042881,
-    "wof:lastmodified":1537005961,
+    "wof:lastmodified":1566676334,
     "wof:name":"Faical",
     "wof:parent_id":421175163,
     "wof:placetype":"locality",

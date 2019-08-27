@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.91728,-5.94541,-78.87728,-5.90541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campamento"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360179599,
-    "wof:lastmodified":1564165907,
+    "wof:lastmodified":1566676311,
     "wof:name":"Campamento",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-16.19913,
     "geom:longitude":-73.62622,
     "iso:country":"PE",
+    "lbl:bbox":"-73.64622,-16.21913,-73.60622,-16.17913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Ch'alla"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3944779,
         "gp:id":418718,
-        "qs:id":266538,
+        "qs_pg:id":266538,
         "wd:id":"Q1059406"
     },
     "wof:country":"PE",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421171319,
-    "wof:lastmodified":1563315401,
+    "wof:lastmodified":1566676548,
     "wof:name":"Chala",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-78.44111,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":20382,
+    "gn:population":20382,
     "iso:country":"PE",
+    "lbl:bbox":"-78.46111,-5.77611,-78.42111,-5.73611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aym_x_preferred":[
         "Bagua Grande"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3699484,
         "gp:id":418481,
-        "qs:id":1046556,
+        "qs_pg:id":1046556,
         "wd:id":"Q793765",
         "wk:page":"Bagua Grande"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890436009,
-    "wof:lastmodified":1563315423,
+    "wof:lastmodified":1566676556,
     "wof:name":"Bagua Grande",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

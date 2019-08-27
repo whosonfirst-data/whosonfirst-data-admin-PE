@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.30148,-16.87464,-69.26148,-16.83464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paacollo",
         "Paacollo Tesillo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293250969,
-    "wof:lastmodified":1537676742,
+    "wof:lastmodified":1566674675,
     "wof:name":"Paacollo Tesillo",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.05222,-4.95472,-80.01222,-4.91472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Loma"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1343736555,
-    "wof:lastmodified":1564161792,
+    "wof:lastmodified":1566674422,
     "wof:name":"La Loma",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.77142,-15.96641,-71.73142,-15.92641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nevado Chachani"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1259903337,
-    "wof:lastmodified":1564167467,
+    "wof:lastmodified":1566677049,
     "wof:name":"Chachani",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

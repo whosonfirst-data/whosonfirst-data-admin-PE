@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.62739,-3.79968,-71.58739,-3.75968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":1343733935,
-    "wof:lastmodified":1564161787,
+    "wof:lastmodified":1566674419,
     "wof:name":"San Miguel",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

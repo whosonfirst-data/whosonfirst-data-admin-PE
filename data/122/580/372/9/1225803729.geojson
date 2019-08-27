@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.64196,-17.27788,-69.60196,-17.23788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225803729,
-    "wof:lastmodified":1537071386,
+    "wof:lastmodified":1566677481,
     "wof:name":"Catavecollo",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.48074,-15.08012,-69.44074,-15.04012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Jirune"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327098553,
-    "wof:lastmodified":1537676779,
+    "wof:lastmodified":1566673691,
     "wof:name":"Jirune",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.04889,-8.14694,-79.00889,-8.10694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monserrate"
     ],
@@ -59,8 +63,7 @@
         "Monserrate"
     ],
     "name:und_x_variant":[
-        "Monserrate Hacienda",
-        "Monserrate"
+        "Monserrate Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1259958765,
-    "wof:lastmodified":1564167694,
+    "wof:lastmodified":1566677158,
     "wof:name":"Monserrate",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

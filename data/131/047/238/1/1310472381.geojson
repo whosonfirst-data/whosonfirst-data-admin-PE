@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.85083,-6.39111,-79.81083,-6.35111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310472381,
-    "wof:lastmodified":1536964571,
+    "wof:lastmodified":1566675998,
     "wof:name":"Pampa Lino",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

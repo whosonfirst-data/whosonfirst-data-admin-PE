@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.95839,-14.1595,-69.91839,-14.1195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Solimano"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260240101,
-    "wof:lastmodified":1564164818,
+    "wof:lastmodified":1566675787,
     "wof:name":"Solimano",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

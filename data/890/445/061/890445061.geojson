@@ -11,8 +11,11 @@
     "geom:longitude":-80.1625,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":68835,
+    "gn:population":68835,
     "iso:country":"PE",
+    "lbl:bbox":"-80.1825,-5.1125,-80.1425,-5.0725",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Chulucanas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chulucana"
     ],
     "name:war_x_preferred":[
@@ -174,7 +177,7 @@
     "wof:concordances":{
         "gn:id":3698105,
         "gp:id":418505,
-        "qs:id":1046529,
+        "qs_pg:id":1046529,
         "wd:id":"Q1089449",
         "wk:page":"Chulucanas"
     },
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":890445061,
-    "wof:lastmodified":1563315458,
+    "wof:lastmodified":1566676565,
     "wof:name":"Chulucanas",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

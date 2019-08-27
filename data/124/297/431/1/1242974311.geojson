@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.31474,-6.21718,-78.27474,-6.17718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242974311,
-    "wof:lastmodified":1536988368,
+    "wof:lastmodified":1566676929,
     "wof:name":"Tupac Amaru",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

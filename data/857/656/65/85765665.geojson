@@ -12,8 +12,10 @@
     "gn:latitude":-11.82152,
     "gn:longitude":-77.11703,
     "iso:country":"PE",
+    "lbl:bbox":"-77.027611,-12.133328,-77.017611,-12.123328",
     "lbl:latitude":-12.128328,
     "lbl:longitude":-77.022611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.131386,
     "mps:longitude":-77.01978,
     "mz:hierarchy_label":0,
@@ -269,9 +271,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044f\u0440\u043d\u0435 \u0441\u044f\u0439\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pueblo Nuevo Villa Aurora",
-        "Aurora"
+    "name:und_x_variant":[
+        "Pueblo Nuevo Villa Aurora"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0648\u0627\u0631 \u0642\u0637\u0628\u06cc"
@@ -313,7 +314,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -325,7 +326,7 @@
     "wof:concordances":{
         "gn:id":6254738,
         "gp:id":22723507,
-        "qs:id":1085992
+        "qs_pg:id":1085992
     },
     "wof:country":"PE",
     "wof:geomhash":"c14a9eb02d99508cff412ebf327d902e",
@@ -343,7 +344,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161891,
+    "wof:lastmodified":1566674470,
     "wof:name":"Aurora",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.167226,
     "lbl:longitude":-78.441935,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cajamarca",
     "meso:gadm_admin":"Cajamarca",
     "meso:gadm_hasc2":"PE.CJ.CM",
@@ -30,6 +32,7 @@
     "mps:longitude":-78.441935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u062e\u0627\u0645\u0627\u0631\u0643\u0627"
@@ -76,7 +79,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0445\u0430\u043c\u0430\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Cajamarca"
     ],
     "name:urd_x_preferred":[
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,980.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Cajamarca",
@@ -136,7 +139,7 @@
         "gn:id":3699086,
         "gp:id":26805798,
         "hasc:id":"PE.CJ.CM",
-        "qs:id":1310438,
+        "qs_pg:id":1310438,
         "wd:id":"Q1431135",
         "wk:page":"Cajamarca Province"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421172423,
-    "wof:lastmodified":1563315281,
+    "wof:lastmodified":1566676510,
     "wof:name":"Cajamarca",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

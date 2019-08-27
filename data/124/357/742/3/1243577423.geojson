@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.155,-15.40278,-71.115,-15.36278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243577423,
-    "wof:lastmodified":1536614494,
+    "wof:lastmodified":1566676794,
     "wof:name":"Carocapaso",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

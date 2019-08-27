@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.57,-13.43667,-74.53,-13.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310303415,
-    "wof:lastmodified":1536711260,
+    "wof:lastmodified":1566676048,
     "wof:name":"Ccauccalla",
     "wof:parent_id":1108693941,
     "wof:placetype":"locality",

@@ -9,14 +9,16 @@
     "geom:bbox":"-77.098861,-12.053767,-77.098861,-12.053767",
     "geom:latitude":-12.053767,
     "geom:longitude":-77.098861,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-12.06667,
     "gn:longitude":-77.1,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-77.103861,-12.058767,-77.093861,-12.048767",
     "lbl:latitude":-12.053767,
     "lbl:longitude":-77.098861,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.055437,
     "mps:longitude":-77.096561,
     "mz:hierarchy_label":0,
@@ -57,10 +59,6 @@
     ],
     "name:swe_x_preferred":[
         "Concha"
-    ],
-    "name:unk_x_variant":[
-        "Concha",
-        "Concha Hacienda"
     ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_fcode":"PPLX",
@@ -110,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675817,
         102191577,
@@ -121,7 +119,6 @@
     "wof:concordances":{
         "gn:id":3942544,
         "gp:id":401361,
-        "qs:id":423406,
         "qs_pg:id":423406
     },
     "wof:country":"PE",
@@ -140,7 +137,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161895,
+    "wof:lastmodified":1566674473,
     "wof:name":"Concha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

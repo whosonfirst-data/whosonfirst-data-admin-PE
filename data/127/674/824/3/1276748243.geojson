@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.28453,-13.72046,-72.24453,-13.68046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cutuctay Hacienda",
         "Cutuctay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276748243,
-    "wof:lastmodified":1537676816,
+    "wof:lastmodified":1566674979,
     "wof:name":"Cutucotay",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

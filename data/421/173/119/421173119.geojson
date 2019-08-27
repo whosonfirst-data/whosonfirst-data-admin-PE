@@ -10,8 +10,12 @@
     "geom:latitude":-12.25,
     "geom:longitude":-70.9,
     "iso:country":"PE",
+    "lbl:bbox":"-70.92,-12.27,-70.88,-12.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Man\u00fa"
@@ -49,7 +53,7 @@
     "name:spa_x_variant":[
         "Boca Manu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto del Manu"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3935424,
         "gp:id":418551,
-        "qs:id":489714,
+        "qs_pg:id":489714,
         "wd:id":"Q19822338"
     },
     "wof:country":"PE",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421173119,
-    "wof:lastmodified":1563315272,
+    "wof:lastmodified":1566676504,
     "wof:name":"Man\u00fa",
     "wof:parent_id":421170665,
     "wof:placetype":"locality",

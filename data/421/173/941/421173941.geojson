@@ -10,8 +10,12 @@
     "geom:latitude":-8.946207,
     "geom:longitude":-77.851181,
     "iso:country":"PE",
+    "lbl:bbox":"-77.8711815,-8.966207,-77.8311815,-8.926207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":420613,
-        "qs:id":1323671
+        "qs_pg:id":1323671
     },
     "wof:country":"PE",
     "wof:created":1459009011,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421173941,
-    "wof:lastmodified":1500022656,
+    "wof:lastmodified":1566676504,
     "wof:name":"Villa Sucre",
     "wof:parent_id":421170661,
     "wof:placetype":"locality",

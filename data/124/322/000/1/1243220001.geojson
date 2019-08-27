@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.48701,-6.9907,-76.44701,-6.9507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0647\u200c\u0648\u0631\u062f\u0647"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243220001,
-    "wof:lastmodified":1564166868,
+    "wof:lastmodified":1566676777,
     "wof:name":"Monteverde",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.84366,-6.87654,-79.80366,-6.83654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Rio"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309776527,
-    "wof:lastmodified":1537676950,
+    "wof:lastmodified":1566676382,
     "wof:name":"El Rio",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",
