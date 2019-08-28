@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-4.469461,
     "lbl:longitude":-81.085517,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Piura",
     "meso:gadm_admin":"Talara",
     "meso:gadm_hasc2":"PE.PI.TL",
@@ -33,6 +35,7 @@
     "mps:longitude":-81.085517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Talara jisk'a suyu"
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,799.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Talara",
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gp:id":26805945,
         "hasc:id":"PE.PI.TL",
-        "qs:id":1086777,
+        "qs_pg:id":1086777,
         "wd:id":"Q2287241"
     },
     "wof:country":"PE",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421187177,
-    "wof:lastmodified":1561777726,
+    "wof:lastmodified":1566676502,
     "wof:name":"Talara",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

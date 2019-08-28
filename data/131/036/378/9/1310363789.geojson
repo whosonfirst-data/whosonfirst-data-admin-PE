@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.57398,-6.56329,-76.53398,-6.52329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Tesoro"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310363789,
-    "wof:lastmodified":1537676941,
+    "wof:lastmodified":1566676035,
     "wof:name":"El Tesoro",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",

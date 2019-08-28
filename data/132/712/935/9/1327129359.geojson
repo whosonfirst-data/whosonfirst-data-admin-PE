@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.12287,-14.19352,-71.08287,-14.15352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327129359,
-    "wof:lastmodified":1536618364,
+    "wof:lastmodified":1566673842,
     "wof:name":"Callpa Cucho",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

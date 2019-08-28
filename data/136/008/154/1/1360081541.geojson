@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.59559,-13.34024,-74.55559,-13.30024",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5e15\u5854\u574e\u67e5\u5c71"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360081541,
-    "wof:lastmodified":1564165810,
+    "wof:lastmodified":1566676267,
     "wof:name":"Patacancha",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

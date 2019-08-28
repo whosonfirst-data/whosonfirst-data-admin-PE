@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.13667,-9.43667,-77.09667,-9.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rahuapampa",
         "Huachis"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242886737,
-    "wof:lastmodified":1537676606,
+    "wof:lastmodified":1566676655,
     "wof:name":"Huachis",
     "wof:parent_id":421187851,
     "wof:placetype":"locality",

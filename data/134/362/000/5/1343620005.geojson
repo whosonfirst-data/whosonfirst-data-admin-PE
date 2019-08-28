@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.25002,-7.01159,-76.21002,-6.97159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leoncio Prado"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343620005,
-    "wof:lastmodified":1564161062,
+    "wof:lastmodified":1566674076,
     "wof:name":"Leoncio Prado",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

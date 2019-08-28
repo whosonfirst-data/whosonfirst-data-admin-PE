@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.50111,-8.22194,-77.46111,-8.18194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bella Vista"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1242959303,
-    "wof:lastmodified":1564166668,
+    "wof:lastmodified":1566676693,
     "wof:name":"Bella Vista",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",

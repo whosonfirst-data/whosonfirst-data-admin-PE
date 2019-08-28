@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Rio_Branco",
     "iso:country":"PE",
+    "lbl:bbox":"-69.62985,-10.96929,-69.58985,-10.92929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bellavista"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1310281305,
-    "wof:lastmodified":1564165528,
+    "wof:lastmodified":1566676136,
     "wof:name":"Bellavista",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.17149,-14.17866,-71.13149,-14.13866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243248231,
-    "wof:lastmodified":1537088088,
+    "wof:lastmodified":1566676746,
     "wof:name":"Challachalla",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

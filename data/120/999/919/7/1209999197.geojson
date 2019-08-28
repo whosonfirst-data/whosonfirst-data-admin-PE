@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.7918,-10.97972,-76.7518,-10.93972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
@@ -94,8 +98,7 @@
         "Moyobamba"
     ],
     "name:und_x_variant":[
-        "Mayobamba",
-        "Moyobamba"
+        "Mayobamba"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062c\u0648\u0628\u0627\u0645\u0628\u0627"
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1209999197,
-    "wof:lastmodified":1564163920,
+    "wof:lastmodified":1566675378,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.83382,-11.69645,-75.79382,-11.65645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343238667,
-    "wof:lastmodified":1537063671,
+    "wof:lastmodified":1566674234,
     "wof:name":"Huashapampa",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

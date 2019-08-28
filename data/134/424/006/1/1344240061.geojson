@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.8845,-6.94351,-79.8445,-6.90351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eten Puerto",
         "Puerto de Eten",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344240061,
-    "wof:lastmodified":1537676564,
+    "wof:lastmodified":1566674178,
     "wof:name":"Puerto Eten",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

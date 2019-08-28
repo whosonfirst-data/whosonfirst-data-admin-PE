@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.51017,-3.58416,-80.47017,-3.54416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Canela"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310656197,
-    "wof:lastmodified":1564165230,
+    "wof:lastmodified":1566676001,
     "wof:name":"La Canela",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

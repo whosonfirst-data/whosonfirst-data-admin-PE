@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.78425,-13.79562,-69.74425,-13.75562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Uspia"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226008825,
-    "wof:lastmodified":1537677010,
+    "wof:lastmodified":1566677652,
     "wof:name":"Uspia",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

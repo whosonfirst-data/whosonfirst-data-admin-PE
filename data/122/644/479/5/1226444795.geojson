@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.36345,-9.48949,-78.32345,-9.44949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Diego"
     ],
@@ -343,8 +347,7 @@
         "\u0421\u0430\u043d-\u0414\u0456\u0454\u0433\u043e"
     ],
     "name:und_x_variant":[
-        "San Diego Hacienda",
-        "San Diego"
+        "San Diego Hacienda"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0688\u06cc\u0627\u06af\u0648"
@@ -402,7 +405,7 @@
         }
     ],
     "wof:id":1226444795,
-    "wof:lastmodified":1564168045,
+    "wof:lastmodified":1566677319,
     "wof:name":"San Diego",
     "wof:parent_id":1108694019,
     "wof:placetype":"locality",

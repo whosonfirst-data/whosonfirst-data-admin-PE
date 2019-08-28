@@ -10,8 +10,11 @@
     "geom:latitude":-16.39444,
     "geom:longitude":-71.57569,
     "iso:country":"PE",
+    "lbl:bbox":"-71.58069,-16.39944,-71.57069,-16.38944",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":408592,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675839,
         102191577,
         85632521,
-        421198069,
-        85675839
+        421198069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3935256,
         "gp:id":408592,
-        "qs:id":887623
+        "qs_pg:id":887623
     },
     "wof:country":"PE",
     "wof:created":1459009790,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421194017,
-    "wof:lastmodified":1531858724,
+    "wof:lastmodified":1566676482,
     "wof:name":"Mariscal Castilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

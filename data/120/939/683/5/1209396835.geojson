@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.85944,-7.96722,-74.81944,-7.92722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209396835,
-    "wof:lastmodified":1560314244,
+    "wof:lastmodified":1566675329,
     "wof:name":"Tiruntan",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",

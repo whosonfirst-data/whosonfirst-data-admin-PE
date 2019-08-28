@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-6.285248,
     "lbl:longitude":-79.874497,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lambayeque",
     "mps:latitude":-6.297093,
     "mps:longitude":-79.880712,
@@ -204,7 +205,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0431\u0430\u0454\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento Lambayeque"
     ],
     "name:urd_x_preferred":[
@@ -291,9 +292,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"14,213",
     "statoids:area_mi":"5,488",
     "statoids:as_of_date":"2007-10-21",
@@ -318,7 +319,7 @@
         "gp:id":2346481,
         "hasc:id":"PE.LB",
         "iso:id":"PE-LAM",
-        "qs:id":423855,
+        "qs_pg:id":423855,
         "unlc:id":"PE-LAM",
         "wd:id":"Q210061",
         "wk:page":"Lambayeque Region"
@@ -341,7 +342,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732274,
+    "wof:lastmodified":1566674482,
     "wof:name":"Lambayeque",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

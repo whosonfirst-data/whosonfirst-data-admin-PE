@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.70833,-13.99472,-74.66833,-13.95472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209900137,
-    "wof:lastmodified":1536386809,
+    "wof:lastmodified":1566675361,
     "wof:name":"Punta Puruchuco",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",

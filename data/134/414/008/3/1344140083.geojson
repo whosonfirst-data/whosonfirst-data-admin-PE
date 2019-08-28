@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.80409,-5.90638,-79.76409,-5.86638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344140083,
-    "wof:lastmodified":1536760962,
+    "wof:lastmodified":1566674157,
     "wof:name":"Las Pampas",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

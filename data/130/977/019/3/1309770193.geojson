@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.30593,-16.1215,-70.26593,-16.0815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Antonio de Esquilachi",
         "San Antonio de Esquilache"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309770193,
-    "wof:lastmodified":1537676705,
+    "wof:lastmodified":1566676382,
     "wof:name":"San Antonio de Esquilache",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

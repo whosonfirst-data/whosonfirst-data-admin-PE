@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.66782,-12.93166,-74.62782,-12.89166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225927853,
-    "wof:lastmodified":1536895076,
+    "wof:lastmodified":1566677284,
     "wof:name":"Huasipata",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

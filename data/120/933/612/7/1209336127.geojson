@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.70959,-13.17079,-74.66959,-13.13079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u062f\u06d2 \u062f\u06cc\u0648\u0633"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209336127,
-    "wof:lastmodified":1564164296,
+    "wof:lastmodified":1566675556,
     "wof:name":"San Juan de Dios",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

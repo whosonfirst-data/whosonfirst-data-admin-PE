@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.92425,-15.61359,-70.88425,-15.57359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puyo"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226807697,
-    "wof:lastmodified":1564168115,
+    "wof:lastmodified":1566677352,
     "wof:name":"Puyo",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

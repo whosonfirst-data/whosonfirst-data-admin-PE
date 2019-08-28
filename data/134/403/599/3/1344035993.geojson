@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.726,-9.56525,-76.686,-9.52525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344035993,
-    "wof:lastmodified":1536911371,
+    "wof:lastmodified":1566674389,
     "wof:name":"Ururupayo",
     "wof:parent_id":1108693923,
     "wof:placetype":"locality",

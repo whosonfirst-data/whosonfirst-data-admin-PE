@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.28489,-14.30749,-71.24489,-14.26749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suyo"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276963795,
-    "wof:lastmodified":1564163575,
+    "wof:lastmodified":1566675228,
     "wof:name":"Suyo",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

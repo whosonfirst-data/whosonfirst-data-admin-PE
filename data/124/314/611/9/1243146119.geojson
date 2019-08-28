@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.62809,-15.10577,-69.58809,-15.06577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243146119,
-    "wof:lastmodified":1536741460,
+    "wof:lastmodified":1566676771,
     "wof:name":"Chunucane",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

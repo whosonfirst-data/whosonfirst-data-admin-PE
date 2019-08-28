@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.860111,
     "lbl:longitude":-72.070594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cusco",
     "meso:gadm_admin":"Calca",
     "meso:gadm_hasc2":"PE.CS.CC",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.070594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Calca"
@@ -61,7 +64,7 @@
     "name:que_x_preferred":[
         "Khallka pruwinsya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colca"
     ],
     "name:vie_x_preferred":[
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"4,414.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Calca",
@@ -121,7 +124,7 @@
         "gn:id":3946176,
         "gp:id":26805800,
         "hasc:id":"PE.CS.CC",
-        "qs:id":355653,
+        "qs_pg:id":355653,
         "wd:id":"Q1948019",
         "wk:page":"Calca Province"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421175157,
-    "wof:lastmodified":1563315310,
+    "wof:lastmodified":1566676519,
     "wof:name":"Calca",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

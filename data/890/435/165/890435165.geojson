@@ -11,10 +11,14 @@
     "geom:longitude":-69.95714,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":5495,
+    "gn:population":5495,
     "iso:country":"PE",
+    "lbl:bbox":"-69.97714,-4.28066,-69.93714,-4.24066",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Ram\u00f3n Castilla"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3692953,
         "gp:id":12511337,
-        "qs:id":150189,
+        "qs_pg:id":150189,
         "wd:id":"Q1763351",
         "wk:page":"Ram\u00f3n Castilla"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890435165,
-    "wof:lastmodified":1563315473,
+    "wof:lastmodified":1566676570,
     "wof:name":"Ram\u00f3n Castilla",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

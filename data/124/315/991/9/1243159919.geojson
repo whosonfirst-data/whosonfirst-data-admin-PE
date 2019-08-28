@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.74316,-14.02843,-75.70316,-13.98843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -133,8 +137,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Fundo Santa B\u00e1rbara",
-        "Santa B\u00e1rbara"
+        "Fundo Santa B\u00e1rbara"
     ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1243159919,
-    "wof:lastmodified":1564166806,
+    "wof:lastmodified":1566676754,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.57918,-14.13811,-75.53918,-14.09811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cocharcas"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193005963,
-    "wof:lastmodified":1537676826,
+    "wof:lastmodified":1566675685,
     "wof:name":"Cocharcas",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

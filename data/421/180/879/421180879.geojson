@@ -10,8 +10,12 @@
     "geom:latitude":-13.163527,
     "geom:longitude":-72.545299,
     "iso:country":"PE",
+    "lbl:bbox":"-72.565299,-13.183527,-72.525299,-13.143527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":420368,
-        "qs:id":464065
+        "qs_pg:id":464065
     },
     "wof:country":"PE",
     "wof:created":1459009274,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421180879,
-    "wof:lastmodified":1500022384,
+    "wof:lastmodified":1566676496,
     "wof:name":"Macchupiccho",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

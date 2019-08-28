@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.94111,-13.68694,-71.90111,-13.64694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Llaurisque Pueblo",
         "Yaurisqque",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276141649,
-    "wof:lastmodified":1537676663,
+    "wof:lastmodified":1566675113,
     "wof:name":"Yaurisque",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.3994,-10.31033,-76.3594,-10.27033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gargoyan",
         "Gorgoy\u00e1n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343526371,
-    "wof:lastmodified":1537676885,
+    "wof:lastmodified":1566674108,
     "wof:name":"Gorgoyan",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

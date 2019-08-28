@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.71478,-14.02452,-75.67478,-13.98452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cordero Bajo Hacienda",
         "Cordero Bajo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226727163,
-    "wof:lastmodified":1537676821,
+    "wof:lastmodified":1566677299,
     "wof:name":"Cordero Bajo",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.29944,-4.52472,-80.25944,-4.48472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209379325,
-    "wof:lastmodified":1560310658,
+    "wof:lastmodified":1566675352,
     "wof:name":"El Naranjo",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.22836,-15.27828,-73.18836,-15.23828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Yampura"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260207075,
-    "wof:lastmodified":1537676966,
+    "wof:lastmodified":1566675856,
     "wof:name":"Yampura",
     "wof:parent_id":1108693933,
     "wof:placetype":"locality",

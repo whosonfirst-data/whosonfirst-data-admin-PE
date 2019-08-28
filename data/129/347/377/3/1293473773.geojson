@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.85366,-12.78427,-74.81366,-12.74427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293473773,
-    "wof:lastmodified":1536806645,
+    "wof:lastmodified":1566674661,
     "wof:name":"Taccasana",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

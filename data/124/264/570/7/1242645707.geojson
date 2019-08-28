@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.92417,-17.86972,-69.88417,-17.82972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vilavilane",
         "Vilavilani"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242645707,
-    "wof:lastmodified":1537676667,
+    "wof:lastmodified":1566676927,
     "wof:name":"Vilavilani",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

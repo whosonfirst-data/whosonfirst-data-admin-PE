@@ -11,10 +11,14 @@
     "geom:longitude":-75.64722,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":5146,
+    "gn:population":5146,
     "iso:country":"PE",
+    "lbl:bbox":"-75.66722,-11.28527,-75.62722,-11.24527",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Huasahuasi"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3939123,
         "gp:id":418893,
-        "qs:id":151119,
+        "qs_pg:id":151119,
         "wd:id":"Q6319990",
         "wk:page":"Huasahuasi District"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890435267,
-    "wof:lastmodified":1563315471,
+    "wof:lastmodified":1566676569,
     "wof:name":"Huasahuasi",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

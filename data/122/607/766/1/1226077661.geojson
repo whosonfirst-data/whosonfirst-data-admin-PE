@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.23538,-15.56747,-71.19538,-15.52747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226077661,
-    "wof:lastmodified":1536679242,
+    "wof:lastmodified":1566677656,
     "wof:name":"Huich-Huiri",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.7912,-12.23206,-74.7512,-12.19206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243359115,
-    "wof:lastmodified":1536932258,
+    "wof:lastmodified":1566676820,
     "wof:name":"Jatillos",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

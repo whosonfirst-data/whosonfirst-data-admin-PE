@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.70333,-13.55333,-72.66333,-13.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Calzada"
     ],
@@ -44,8 +48,7 @@
         "Calzada"
     ],
     "name:und_x_variant":[
-        "Calzada Hacienda",
-        "Calzada"
+        "Calzada Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1226443449,
-    "wof:lastmodified":1564168053,
+    "wof:lastmodified":1566677324,
     "wof:name":"Calzada",
     "wof:parent_id":421170655,
     "wof:placetype":"locality",

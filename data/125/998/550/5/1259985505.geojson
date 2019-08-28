@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.56389,-15.35556,-71.52389,-15.31556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Chachakumani"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1259985505,
-    "wof:lastmodified":1564167395,
+    "wof:lastmodified":1566677016,
     "wof:name":"Chachacomani",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

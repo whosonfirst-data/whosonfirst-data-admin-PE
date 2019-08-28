@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.38667,-14.17,-72.34667,-14.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yaz\u0131"
     ],
@@ -71,8 +75,7 @@
         "\u0417\u0430\u043f\u0438\u0441"
     ],
     "name:und_x_variant":[
-        "Record Hacienda",
-        "Record"
+        "Record Hacienda"
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u06a9\u0627\u0631\u0688"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1343262693,
-    "wof:lastmodified":1564161815,
+    "wof:lastmodified":1566674434,
     "wof:name":"Record",
     "wof:parent_id":1108693905,
     "wof:placetype":"locality",

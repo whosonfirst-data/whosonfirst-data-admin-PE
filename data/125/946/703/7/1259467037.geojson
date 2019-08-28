@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.85741,-13.60489,-74.81741,-13.56489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pucru Huasi"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259467037,
-    "wof:lastmodified":1537676723,
+    "wof:lastmodified":1566677094,
     "wof:name":"Pucruhuasi",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

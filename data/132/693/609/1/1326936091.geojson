@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.44544,-16.42109,-71.40544,-16.38109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Agua Salada"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326936091,
-    "wof:lastmodified":1537676967,
+    "wof:lastmodified":1566673778,
     "wof:name":"Agua Salada",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

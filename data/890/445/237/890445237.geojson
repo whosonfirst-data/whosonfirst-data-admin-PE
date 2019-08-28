@@ -11,10 +11,14 @@
     "geom:longitude":-71.1407,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":4046,
+    "gn:population":4046,
     "iso:country":"PE",
+    "lbl:bbox":"-71.1607,-14.20137,-71.1207,-14.16137",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10db\u10de\u10d0\u10d9\u10dd\u10da\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3952849,
         "gp:id":418593,
-        "qs:id":1047464,
+        "qs_pg:id":1047464,
         "wk:page":"Pampacolca District"
     },
     "wof:country":"PE",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890445237,
-    "wof:lastmodified":1564166388,
+    "wof:lastmodified":1566676566,
     "wof:name":"Callanca",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-76.978969,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":44276,
+    "gn:population":44276,
     "iso:country":"PE",
+    "lbl:bbox":"-76.998969,-6.044823,-76.958969,-6.004823",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
@@ -199,12 +203,12 @@
     "wof:concordances":{
         "gn:id":3694564,
         "gp:id":409250,
-        "qs:id":897803,
+        "qs_pg:id":897803,
         "wd:id":"Q285672",
         "wk:page":"Moyobamba"
     },
     "wof:concordances_alt":{
-        "qs:id":1046497
+        "qs_pg:id":1046497
     },
     "wof:country":"PE",
     "wof:created":1459010043,
@@ -219,7 +223,7 @@
         }
     ],
     "wof:id":421200839,
-    "wof:lastmodified":1563315337,
+    "wof:lastmodified":1566676531,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

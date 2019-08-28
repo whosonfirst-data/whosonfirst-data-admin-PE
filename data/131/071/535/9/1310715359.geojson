@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.59256,-5.87795,-78.55256,-5.83795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nuevo Mundo"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310715359,
-    "wof:lastmodified":1564165183,
+    "wof:lastmodified":1566675980,
     "wof:name":"Nuevo Mundo",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.770576,
     "lbl:longitude":-77.641005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ancash",
     "meso:gadm_admin":"Aija",
     "meso:gadm_hasc2":"PE.AN.AJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-77.641005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Aija"
@@ -79,7 +82,7 @@
     "name:spa_x_preferred":[
         "Aija"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Aija"
     ],
     "name:vie_x_preferred":[
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"697.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Aija",
@@ -139,7 +142,7 @@
         "gn:id":3699820,
         "gp:id":26805776,
         "hasc:id":"PE.AN.AJ",
-        "qs:id":1103764,
+        "qs_pg:id":1103764,
         "wd:id":"Q615891",
         "wk:page":"Aija Province"
     },
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421188719,
-    "wof:lastmodified":1563315278,
+    "wof:lastmodified":1566676508,
     "wof:name":"Aija",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

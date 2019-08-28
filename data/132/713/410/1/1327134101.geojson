@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.33264,-15.8402,-73.29264,-15.8002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Huarca",
         "La Huarca Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327134101,
-    "wof:lastmodified":1537676774,
+    "wof:lastmodified":1566673820,
     "wof:name":"La Huarca",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

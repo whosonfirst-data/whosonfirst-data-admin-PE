@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.22779,-16.48852,-69.18779,-16.44852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ancopoto",
         "Jancopoto"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327207891,
-    "wof:lastmodified":1537676782,
+    "wof:lastmodified":1566674058,
     "wof:name":"Jancopoto",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

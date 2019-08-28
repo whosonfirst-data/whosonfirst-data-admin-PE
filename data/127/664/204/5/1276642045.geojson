@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.58039,-7.35032,-79.54039,-7.31032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrizal"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1276642045,
-    "wof:lastmodified":1564163504,
+    "wof:lastmodified":1566675194,
     "wof:name":"Carrizal",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",

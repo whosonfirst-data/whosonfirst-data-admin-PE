@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-11.274033,
     "lbl:longitude":-76.881692,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lima",
     "meso:gadm_admin":"Huaral",
     "meso:gadm_hasc2":"PE.LR.HR",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.881692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Waral jisk'a suyu"
     ],
@@ -95,9 +98,9 @@
         "\u74e6\u62c9\u723e\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"3,656.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Huaral",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108693963,
-    "wof:lastmodified":1561777648,
+    "wof:lastmodified":1566675930,
     "wof:name":"Huaral",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

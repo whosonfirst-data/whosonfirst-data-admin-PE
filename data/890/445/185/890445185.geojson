@@ -11,10 +11,14 @@
     "geom:longitude":-73.42917,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":7381,
+    "gn:population":7381,
     "iso:country":"PE",
+    "lbl:bbox":"-73.44917,-13.67306,-73.40917,-13.63306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Talavera"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3928043,
         "gp:id":418472,
-        "qs:id":1047245,
+        "qs_pg:id":1047245,
         "wk:page":"Talavera"
     },
     "wof:country":"PE",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890445185,
-    "wof:lastmodified":1564166389,
+    "wof:lastmodified":1566676566,
     "wof:name":"Talavera",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.5746,-4.52834,-80.5346,-4.48834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Solanilla"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344231277,
-    "wof:lastmodified":1537676659,
+    "wof:lastmodified":1566674185,
     "wof:name":"Solanilla",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

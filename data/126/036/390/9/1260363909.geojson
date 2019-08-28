@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.71719,-4.68755,-79.67719,-4.64755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03b3\u03ba\u03b1\u03c2"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260363909,
-    "wof:lastmodified":1564164907,
+    "wof:lastmodified":1566675824,
     "wof:name":"Mangas",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.28131,-6.92789,-76.24131,-6.88789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":1243423057,
-    "wof:lastmodified":1564167273,
+    "wof:lastmodified":1566676957,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

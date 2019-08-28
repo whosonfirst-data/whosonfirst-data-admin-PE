@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.87188,-13.35172,-74.83188,-13.31172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276661847,
-    "wof:lastmodified":1536834476,
+    "wof:lastmodified":1566675055,
     "wof:name":"Pacrasnioc",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

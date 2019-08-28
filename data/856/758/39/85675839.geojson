@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-15.811868,
     "lbl:longitude":-72.330295,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Arequipa",
     "mps:latitude":-15.826794,
     "mps:longitude":-72.314515,
@@ -226,7 +227,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u043a\u0456\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento Arequipa"
     ],
     "name:urd_x_preferred":[
@@ -313,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"63,344",
     "statoids:area_mi":"24,457",
     "statoids:as_of_date":"2007-10-21",
@@ -340,7 +341,7 @@
         "gp:id":2346471,
         "hasc:id":"PE.AR",
         "iso:id":"PE-ARE",
-        "qs:id":1168708,
+        "qs_pg:id":1168708,
         "unlc:id":"PE-ARE",
         "wd:id":"Q205068",
         "wk:page":"Arequipa Region"
@@ -363,7 +364,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732277,
+    "wof:lastmodified":1566674488,
     "wof:name":"Arequipa",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

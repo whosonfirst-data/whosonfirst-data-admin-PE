@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.70111,-13.93667,-71.66111,-13.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Aqumayu"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1259473123,
-    "wof:lastmodified":1564167605,
+    "wof:lastmodified":1566677113,
     "wof:name":"Acomayo",
     "wof:parent_id":421192879,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.80361,-14.45222,-73.76361,-14.41222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193141627,
-    "wof:lastmodified":1536365541,
+    "wof:lastmodified":1566675722,
     "wof:name":"Llamllo",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

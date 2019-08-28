@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.35361,-13.60194,-72.31361,-13.56194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Patipata",
         "Pantipata"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310585879,
-    "wof:lastmodified":1537676735,
+    "wof:lastmodified":1566676215,
     "wof:name":"Pantipata",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

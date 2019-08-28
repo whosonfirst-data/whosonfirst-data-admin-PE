@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.43472,-13.72361,-72.39472,-13.68361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anarqui Hacienda",
         "A\u00f1arqui"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293007481,
-    "wof:lastmodified":1537676869,
+    "wof:lastmodified":1566674519,
     "wof:name":"Anarqui",
     "wof:parent_id":1108693907,
     "wof:placetype":"locality",

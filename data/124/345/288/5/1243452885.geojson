@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.21513,-13.00888,-74.17513,-12.96888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u0643\u0648\u0631\u0627"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243452885,
-    "wof:lastmodified":1564167280,
+    "wof:lastmodified":1566676961,
     "wof:name":"Coracora",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

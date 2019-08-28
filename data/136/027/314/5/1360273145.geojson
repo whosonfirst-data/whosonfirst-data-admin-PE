@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.89343,-13.74791,-75.85343,-13.70791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mayo Fundo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360273145,
-    "wof:lastmodified":1537676941,
+    "wof:lastmodified":1566676286,
     "wof:name":"Mayo Fundo",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

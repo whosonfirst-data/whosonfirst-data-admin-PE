@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.63899,-12.07045,-74.59899,-12.03045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259472289,
-    "wof:lastmodified":1536873964,
+    "wof:lastmodified":1566677111,
     "wof:name":"Ichurutuna",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.24397,-6.88978,-78.20397,-6.84978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corredor"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209103333,
-    "wof:lastmodified":1564164486,
+    "wof:lastmodified":1566675643,
     "wof:name":"Corredor",
     "wof:parent_id":421183859,
     "wof:placetype":"locality",

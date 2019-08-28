@@ -10,8 +10,12 @@
     "geom:latitude":-13.21423,
     "geom:longitude":-74.87695,
     "iso:country":"PE",
+    "lbl:bbox":"-74.89695,-13.23423,-74.85695,-13.19423",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u064a\u0627\u0643\u0648\u062a\u0634\u0648"
@@ -213,9 +217,11 @@
     "wof:concordances":{
         "gn:id":3947019,
         "gp:id":418449,
-        "qs:id":266537,
-        "qs_pg:id":1047432,
+        "qs_pg:id":266537,
         "wd:id":"Q504215"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1047432
     },
     "wof:country":"PE",
     "wof:created":1459008690,
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":421166429,
-    "wof:lastmodified":1563315203,
+    "wof:lastmodified":1566676475,
     "wof:name":"Ayacucho",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

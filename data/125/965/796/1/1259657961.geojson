@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.94149,-5.10979,-79.90149,-5.06979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jacanacas Hacienda",
         "Jacanacas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259657961,
-    "wof:lastmodified":1537676601,
+    "wof:lastmodified":1566677019,
     "wof:name":"Jacanacas",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

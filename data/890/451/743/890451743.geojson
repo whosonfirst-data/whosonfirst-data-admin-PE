@@ -11,8 +11,11 @@
     "geom:longitude":-80.82222,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":23020,
+    "gn:population":23020,
     "iso:country":"PE",
+    "lbl:bbox":"-80.84222,-5.57694,-80.80222,-5.53694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -171,7 +174,7 @@
     "wof:concordances":{
         "gn:id":3691954,
         "gp:id":418592,
-        "qs:id":150148,
+        "qs_pg:id":150148,
         "wd:id":"Q3236446",
         "wk:page":"Sechura"
     },
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":890451743,
-    "wof:lastmodified":1563315462,
+    "wof:lastmodified":1566676567,
     "wof:name":"Sechura",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

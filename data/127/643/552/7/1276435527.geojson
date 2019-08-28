@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.5699,-9.88454,-76.5299,-9.84454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276435527,
-    "wof:lastmodified":1536640828,
+    "wof:lastmodified":1566674938,
     "wof:name":"Hayapite",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",

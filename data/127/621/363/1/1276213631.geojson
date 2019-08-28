@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.74784,-11.92079,-75.70784,-11.88079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276213631,
-    "wof:lastmodified":1536940193,
+    "wof:lastmodified":1566674953,
     "wof:name":"Jaracancha",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

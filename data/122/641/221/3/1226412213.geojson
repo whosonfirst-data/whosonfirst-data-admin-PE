@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.10333,-11.88667,-77.06333,-11.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226412213,
-    "wof:lastmodified":1560310223,
+    "wof:lastmodified":1566677571,
     "wof:name":"Pancha Paula",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

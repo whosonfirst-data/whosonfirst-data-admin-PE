@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.41794,-15.04338,-69.37794,-15.00338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Caque\u00f1a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326994219,
-    "wof:lastmodified":1564160810,
+    "wof:lastmodified":1566673951,
     "wof:name":"Caquena",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

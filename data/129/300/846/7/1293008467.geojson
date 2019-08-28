@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.6975,-9.30611,-77.6575,-9.26611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0627"
     ],
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":1293008467,
-    "wof:lastmodified":1564161937,
+    "wof:lastmodified":1566674520,
     "wof:name":"Maya",
     "wof:parent_id":421194077,
     "wof:placetype":"locality",

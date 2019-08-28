@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.77297,-11.98362,-76.73297,-11.94362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Alberto"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259553203,
-    "wof:lastmodified":1564167501,
+    "wof:lastmodified":1566677063,
     "wof:name":"San Alberto",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

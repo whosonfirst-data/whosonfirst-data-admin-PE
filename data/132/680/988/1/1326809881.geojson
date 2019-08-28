@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.65026,-12.24313,-75.61026,-12.20313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chaucha"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326809881,
-    "wof:lastmodified":1564160353,
+    "wof:lastmodified":1566673741,
     "wof:name":"Chaucha",
     "wof:parent_id":421188283,
     "wof:placetype":"locality",

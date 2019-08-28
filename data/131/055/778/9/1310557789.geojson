@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.75571,-7.27881,-76.71571,-7.23881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Antonio",
         "Huayabamba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310557789,
-    "wof:lastmodified":1537676602,
+    "wof:lastmodified":1566676042,
     "wof:name":"Huayabamba",
     "wof:parent_id":1108694041,
     "wof:placetype":"locality",

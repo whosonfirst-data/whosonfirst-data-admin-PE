@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.30197,-6.92469,-79.26197,-6.88469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Minas"
     ],
@@ -39,8 +43,7 @@
         "Las Minas"
     ],
     "name:und_x_variant":[
-        "La Mina",
-        "Las Minas"
+        "La Mina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1309976615,
-    "wof:lastmodified":1564166030,
+    "wof:lastmodified":1566676361,
     "wof:name":"Las Minas",
     "wof:parent_id":1108693985,
     "wof:placetype":"locality",

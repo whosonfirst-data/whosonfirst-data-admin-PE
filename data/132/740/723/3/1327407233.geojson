@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.56721,-6.43329,-79.52721,-6.39329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Mayasc\u00f3n",
         "Mayasc\u00f3n"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327407233,
-    "wof:lastmodified":1537676585,
+    "wof:lastmodified":1566673829,
     "wof:name":"Mayascon",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

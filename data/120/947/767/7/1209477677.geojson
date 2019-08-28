@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.95518,-16.40354,-70.91518,-16.36354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1209477677,
-    "wof:lastmodified":1564164065,
+    "wof:lastmodified":1566675440,
     "wof:name":"Para",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

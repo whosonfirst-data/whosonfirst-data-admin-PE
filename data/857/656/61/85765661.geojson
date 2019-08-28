@@ -11,8 +11,10 @@
     "geom:longitude":-77.001727,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-77.006727,-12.148701,-76.996727,-12.138701",
     "lbl:latitude":-12.143701,
     "lbl:longitude":-77.001727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.152114,
     "mps:longitude":-77.010854,
     "mz:hierarchy_label":0,
@@ -88,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0420\u043e\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "San Roque"
-    ],
     "name:vie_x_preferred":[
         "San Roque"
     ],
@@ -125,7 +124,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -136,7 +135,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723506,
-        "qs:id":1061906,
         "qs_pg:id":1061906
     },
     "wof:country":"PE",
@@ -155,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161888,
+    "wof:lastmodified":1566674469,
     "wof:name":"San Roque",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

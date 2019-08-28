@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.7974,-13.44475,-73.7574,-13.40475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276763271,
-    "wof:lastmodified":1536700005,
+    "wof:lastmodified":1566675127,
     "wof:name":"Nahuimpuquio",
     "wof:parent_id":421194079,
     "wof:placetype":"locality",

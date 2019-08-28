@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.9728,-9.20457,-75.9328,-9.16457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276322153,
-    "wof:lastmodified":1536794010,
+    "wof:lastmodified":1566675050,
     "wof:name":"Pumahusi",
     "wof:parent_id":421187925,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.96029,-12.34183,-73.92029,-12.30183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mantaro"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242774445,
-    "wof:lastmodified":1564167097,
+    "wof:lastmodified":1566676879,
     "wof:name":"Mantaro",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-12.00883,
     "geom:longitude":-76.88892,
     "iso:country":"PE",
+    "lbl:bbox":"-76.90892,-12.02883,-76.86892,-11.98883",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "En vivo: En la c\u00e1rcel de Santa Martha"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3929172,
         "gp:id":22723477,
-        "qs:id":56002
+        "qs_pg:id":56002
     },
     "wof:country":"PE",
     "wof:created":1459009670,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421190839,
-    "wof:lastmodified":1560310341,
+    "wof:lastmodified":1566676527,
     "wof:name":"Santa Martha",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

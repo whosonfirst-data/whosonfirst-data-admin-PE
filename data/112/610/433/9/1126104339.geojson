@@ -9,16 +9,19 @@
     "geom:bbox":"-71.54321,-16.42645,-71.54321,-16.42645",
     "geom:latitude":-16.42645,
     "geom:longitude":-71.54321,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.42645,
     "gn:longitude":-71.54321,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-71.54821,-16.43145,-71.53821,-16.42145",
     "lbl:latitude":-16.42645,
     "lbl:longitude":-71.54321,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cerro Apacheta"
@@ -29,9 +32,8 @@
     "name:swe_x_preferred":[
         "Cerro Apacheta"
     ],
-    "name:unk_x_variant":[
-        "Apacheta",
-        "La Apacheta"
+    "name:und_x_variant":[
+        "Apacheta"
     ],
     "qs_pg:aaroncc":"PE",
     "qs_pg:gn_country":"PE",
@@ -54,7 +56,7 @@
     "qs_pg:woe_adm0":23424919,
     "qs_pg:woe_id":406509,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424919,
     "woe:name_adm0":"Per\u00fa",
     "woe:name_adm1":"Arequipa",
@@ -69,7 +71,6 @@
     "wof:concordances":{
         "gn:id":3937391,
         "gp:id":406509,
-        "qs:id":475430,
         "qs_pg:id":475430
     },
     "wof:country":"PE",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1126104339,
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1566676573,
     "wof:name":"La Apacheta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

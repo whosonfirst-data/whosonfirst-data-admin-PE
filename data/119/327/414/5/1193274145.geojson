@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.96626,-15.44004,-73.92626,-15.40004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Chacras Hacienda",
         "Las Chacras"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193274145,
-    "wof:lastmodified":1537676770,
+    "wof:lastmodified":1566675756,
     "wof:name":"Hacienda Las Chacras",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

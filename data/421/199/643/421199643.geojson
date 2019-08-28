@@ -10,6 +10,9 @@
     "geom:latitude":-16.62375,
     "geom:longitude":-72.71055,
     "iso:country":"PE",
+    "lbl:bbox":"-72.73055,-16.64375,-72.69055,-16.60375",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":3945985,
         "gp:id":418489,
-        "qs:id":194901,
+        "qs_pg:id":194901,
         "wd:id":"Q1028011"
     },
     "wof:country":"PE",
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421199643,
-    "wof:lastmodified":1561777732,
+    "wof:lastmodified":1566676528,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":421175159,
     "wof:placetype":"locality",

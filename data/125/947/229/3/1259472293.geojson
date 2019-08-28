@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.93602,-13.7086,-74.89602,-13.6686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Achcarajay",
         "Ashcarajay"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259472293,
-    "wof:lastmodified":1537676874,
+    "wof:lastmodified":1566677109,
     "wof:name":"Ashcarajay",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.66916,-4.60982,-73.62916,-4.56982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260352823,
-    "wof:lastmodified":1536616910,
+    "wof:lastmodified":1566675913,
     "wof:name":"San Jose de Sarapanga",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",

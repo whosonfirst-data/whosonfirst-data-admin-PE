@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.09843,-5.10484,-80.05843,-5.06484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balcones",
         "Balcones de Talandracas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310476083,
-    "wof:lastmodified":1537676642,
+    "wof:lastmodified":1566675998,
     "wof:name":"Balcones de Talandracas",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

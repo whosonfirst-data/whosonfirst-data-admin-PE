@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.1446,-15.45385,-74.1046,-15.41385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259381319,
-    "wof:lastmodified":1537004683,
+    "wof:lastmodified":1566677003,
     "wof:name":"Cortadera",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

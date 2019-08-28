@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.14342,-12.81616,-74.10342,-12.77616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226650535,
-    "wof:lastmodified":1536851383,
+    "wof:lastmodified":1566677634,
     "wof:name":"Cunya",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

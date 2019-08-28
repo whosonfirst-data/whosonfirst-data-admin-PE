@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.8948,-10.80131,-74.8548,-10.76131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Naciente Cuviriani"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343440597,
-    "wof:lastmodified":1537676888,
+    "wof:lastmodified":1566674459,
     "wof:name":"Naciente Cuviriani",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

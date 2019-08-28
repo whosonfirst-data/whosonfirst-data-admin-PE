@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.04333,-13.65278,-72.00333,-13.61278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243253517,
-    "wof:lastmodified":1537080508,
+    "wof:lastmodified":1566676788,
     "wof:name":"Socomachay",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

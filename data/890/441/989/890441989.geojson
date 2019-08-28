@@ -11,10 +11,14 @@
     "geom:longitude":-75.24528,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":5998,
+    "gn:population":5998,
     "iso:country":"PE",
+    "lbl:bbox":"-75.26528,-12.01219,-75.22528,-11.97219",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "San Agust\u00edn"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "San Agust\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Agust\u00edn de Cajas"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3929888,
         "gp:id":418721,
-        "qs:id":150995,
+        "qs_pg:id":150995,
         "wk:page":"San Agust\u00edn"
     },
     "wof:country":"PE",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890441989,
-    "wof:lastmodified":1564166380,
+    "wof:lastmodified":1566676554,
     "wof:name":"San Agustin",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

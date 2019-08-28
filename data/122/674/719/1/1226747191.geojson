@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.50245,-15.72306,-72.46245,-15.68306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aco"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226747191,
-    "wof:lastmodified":1564168123,
+    "wof:lastmodified":1566677358,
     "wof:name":"Aco",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

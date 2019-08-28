@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.90889,-5.07617,-79.86889,-5.03617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chungayo Ciudad",
         "Chungayo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309970541,
-    "wof:lastmodified":1537676625,
+    "wof:lastmodified":1566676360,
     "wof:name":"Chungayo",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

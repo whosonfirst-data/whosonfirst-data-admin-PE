@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.16472,-8.47111,-77.12472,-8.43111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243334661,
-    "wof:lastmodified":1536966599,
+    "wof:lastmodified":1566676845,
     "wof:name":"Ojo del Agua",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",

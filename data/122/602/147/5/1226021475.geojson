@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.04556,-11.675,-76.00556,-11.635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226021475,
-    "wof:lastmodified":1536760453,
+    "wof:lastmodified":1566677410,
     "wof:name":"Pacush",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

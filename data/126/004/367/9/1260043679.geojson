@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.12,-6.55333,-75.08,-6.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yachamayo",
         "Yanchamayo"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260043679,
-    "wof:lastmodified":1537676527,
+    "wof:lastmodified":1566675908,
     "wof:name":"Yanchamayo",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",

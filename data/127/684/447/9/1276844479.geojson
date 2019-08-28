@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.4819,-4.8379,-80.4419,-4.7979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Somate Alto Trescientas Diesiete",
         "Somate Alto Trescientos Diecisiete"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276844479,
-    "wof:lastmodified":1537676651,
+    "wof:lastmodified":1566675167,
     "wof:name":"Somate Alto Trescientos Diecisiete",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.18022,-5.15477,-80.14022,-5.11477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santa Leticia Hacienda",
         "Santa Leticia"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310079857,
-    "wof:lastmodified":1537676545,
+    "wof:lastmodified":1566676014,
     "wof:name":"Santa Leticia",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

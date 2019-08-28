@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.27945,-10.16842,-76.23945,-10.12842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243548077,
-    "wof:lastmodified":1536659202,
+    "wof:lastmodified":1566676601,
     "wof:name":"Naranja Pampa",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

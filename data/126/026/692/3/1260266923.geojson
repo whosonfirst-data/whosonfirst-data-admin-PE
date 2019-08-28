@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.88547,-13.12314,-74.84547,-13.08314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jalapata"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260266923,
-    "wof:lastmodified":1537676782,
+    "wof:lastmodified":1566675896,
     "wof:name":"Jatapata",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

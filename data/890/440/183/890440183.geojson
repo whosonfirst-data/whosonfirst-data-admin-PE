@@ -11,8 +11,11 @@
     "geom:longitude":-78.58333,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":10134,
+    "gn:population":10134,
     "iso:country":"PE",
+    "lbl:bbox":"-78.60333,-7.92,-78.56333,-7.88",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gn:id":3694212,
         "gp:id":418561,
-        "qs:id":1046480,
+        "qs_pg:id":1046480,
         "wd:id":"Q3056421",
         "wk:page":"Otuzco"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890440183,
-    "wof:lastmodified":1563315407,
+    "wof:lastmodified":1566676552,
     "wof:name":"Otuzco",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

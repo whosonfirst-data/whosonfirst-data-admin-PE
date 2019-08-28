@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.94995,-12.55158,-74.90995,-12.51158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mejorada",
         "Moa C\u00e1ceres",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310289035,
-    "wof:lastmodified":1537676756,
+    "wof:lastmodified":1566676136,
     "wof:name":"Mariscal Caceres",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

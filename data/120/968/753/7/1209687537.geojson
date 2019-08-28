@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.04082,-6.80327,-75.00082,-6.76327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huamantullo",
         "Huamantallo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209687537,
-    "wof:lastmodified":1560314264,
+    "wof:lastmodified":1566675476,
     "wof:name":"Huamantallo",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",

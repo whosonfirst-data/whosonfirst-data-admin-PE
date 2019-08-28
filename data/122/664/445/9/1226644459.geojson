@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.3196,-15.22158,-74.2796,-15.18158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Paragte"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226644459,
-    "wof:lastmodified":1537676932,
+    "wof:lastmodified":1566677600,
     "wof:name":"Paragte",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

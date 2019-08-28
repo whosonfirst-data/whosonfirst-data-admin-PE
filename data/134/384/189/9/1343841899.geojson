@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.1415,-14.07651,-75.1015,-14.03651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0627\u0646"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343841899,
-    "wof:lastmodified":1564161360,
+    "wof:lastmodified":1566674220,
     "wof:name":"Rayan",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",

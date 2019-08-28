@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.60667,-10.21222,-76.56667,-10.17222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326825183,
-    "wof:lastmodified":1537056504,
+    "wof:lastmodified":1566673901,
     "wof:name":"Carhuacoto",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

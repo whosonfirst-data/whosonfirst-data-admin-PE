@@ -10,10 +10,14 @@
     "geom:latitude":-2.902059,
     "geom:longitude":-76.402479,
     "iso:country":"PE",
+    "lbl:bbox":"-76.4224788836,-2.92205930696,-76.3824788836,-2.88205930696",
     "lbl:latitude":-2.902059,
     "lbl:longitude":-76.402479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andoas"
     ],
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1141907063,
-    "wof:lastmodified":1561777869,
+    "wof:lastmodified":1566677691,
     "wof:name":"Andoas",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",

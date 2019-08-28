@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.64275,-12.74557,-76.60275,-12.70557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elida"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243246191,
-    "wof:lastmodified":1564166775,
+    "wof:lastmodified":1566676743,
     "wof:name":"Elida",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

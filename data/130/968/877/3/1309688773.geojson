@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.43728,-11.23499,-76.39728,-11.19499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309688773,
-    "wof:lastmodified":1537096628,
+    "wof:lastmodified":1566676424,
     "wof:name":"Murocharin",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

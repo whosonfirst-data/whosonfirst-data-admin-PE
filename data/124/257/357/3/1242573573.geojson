@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.85598,-13.05949,-74.81598,-13.01949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242573573,
-    "wof:lastmodified":1537066548,
+    "wof:lastmodified":1566676676,
     "wof:name":"Succamarca",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

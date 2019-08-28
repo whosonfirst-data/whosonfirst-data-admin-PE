@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.95938,-5.94731,-76.91938,-5.90731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quilluallpa",
         "Quillualpa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259552147,
-    "wof:lastmodified":1537676559,
+    "wof:lastmodified":1566677063,
     "wof:name":"Quillualpa",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

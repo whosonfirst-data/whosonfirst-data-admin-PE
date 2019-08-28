@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-16.582065,
     "lbl:longitude":-69.297766,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puno",
     "meso:gadm_admin":"Chucu\u00edto",
     "meso:gadm_hasc2":"PE.PU.CC",
@@ -30,6 +32,7 @@
     "mps:longitude":-69.297766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Chukuwitu"
@@ -74,9 +77,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"3,978.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Juli",
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gp:id":26805824,
         "hasc:id":"PE.PU.CC",
-        "qs:id":1063139
+        "qs_pg:id":1063139
     },
     "wof:country":"PE",
     "wof:created":1459009475,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421186269,
-    "wof:lastmodified":1564166337,
+    "wof:lastmodified":1566676513,
     "wof:name":"Chucuito",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

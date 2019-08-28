@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.30717,-7.94362,-79.26717,-7.90362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arc_x_preferred":[
         "\u0722\u0728\u072a\u071d\u0710"
     ],
@@ -73,8 +77,7 @@
         "\u041d\u0430\u0437\u0430\u0440\u0435\u043d\u0443"
     ],
     "name:und_x_variant":[
-        "Hacienda Nazareno",
-        "Nazareno"
+        "Hacienda Nazareno"
     ],
     "name:vie_x_preferred":[
         "Nazareno"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1310473039,
-    "wof:lastmodified":1564165217,
+    "wof:lastmodified":1566675996,
     "wof:name":"Nazareno",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.39269,-13.05957,-74.35269,-13.01957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276864789,
-    "wof:lastmodified":1537058812,
+    "wof:lastmodified":1566674920,
     "wof:name":"Pablopata",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

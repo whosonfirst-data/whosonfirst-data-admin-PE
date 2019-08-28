@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-15.824034,
     "lbl:longitude":-73.637459,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arequipa",
     "meso:gadm_admin":"Caravel\u00ed",
     "meso:gadm_hasc2":"PE.AR.CR",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.637459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Qarawili jisk'a suyu"
@@ -94,9 +97,6 @@
     "name:spa_x_variant":[
         "Provincia de Caravel\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Caravel\u00ed"
-    ],
     "name:vie_x_preferred":[
         "Caravel\u00ed"
     ],
@@ -131,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"13,139.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Caravel\u00ed",
@@ -154,7 +154,7 @@
         "gn:id":3945539,
         "gp:id":26805809,
         "hasc:id":"PE.AR.CR",
-        "qs:id":355673,
+        "qs_pg:id":355673,
         "wd:id":"Q1779727",
         "wk:page":"Caravel\u00ed Province"
     },
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":421194075,
-    "wof:lastmodified":1563315214,
+    "wof:lastmodified":1566676481,
     "wof:name":"Caravel\u00ed",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

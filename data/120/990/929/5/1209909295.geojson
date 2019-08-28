@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.2995,-12.88754,-74.2595,-12.84754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209909295,
-    "wof:lastmodified":1536380512,
+    "wof:lastmodified":1566675366,
     "wof:name":"Ocana",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

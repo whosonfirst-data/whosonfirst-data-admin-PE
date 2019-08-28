@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.05179,-17.03175,-70.01179,-16.99175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343226115,
-    "wof:lastmodified":1537081514,
+    "wof:lastmodified":1566674272,
     "wof:name":"Azancallane",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

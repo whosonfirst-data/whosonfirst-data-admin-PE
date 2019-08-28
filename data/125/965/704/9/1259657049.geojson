@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.49758,-6.1705,-79.45758,-6.1305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Puente"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259657049,
-    "wof:lastmodified":1564167408,
+    "wof:lastmodified":1566677023,
     "wof:name":"Puente",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

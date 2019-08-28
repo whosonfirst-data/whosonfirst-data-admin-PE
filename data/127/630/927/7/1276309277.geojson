@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.30969,-11.07127,-75.26969,-11.03127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quimiri",
         "Quimiri Centro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276309277,
-    "wof:lastmodified":1537676716,
+    "wof:lastmodified":1566675216,
     "wof:name":"Quimiri Centro",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

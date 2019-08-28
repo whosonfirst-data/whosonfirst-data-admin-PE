@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.46702,-7.24838,-79.42702,-7.20838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tambo"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1326716373,
-    "wof:lastmodified":1564160724,
+    "wof:lastmodified":1566673918,
     "wof:name":"Tambo",
     "wof:parent_id":421184599,
     "wof:placetype":"locality",

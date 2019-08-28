@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.51268,-17.41054,-70.47268,-17.37054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344016207,
-    "wof:lastmodified":1536940335,
+    "wof:lastmodified":1566674193,
     "wof:name":"Chejaya",
     "wof:parent_id":1108694029,
     "wof:placetype":"locality",

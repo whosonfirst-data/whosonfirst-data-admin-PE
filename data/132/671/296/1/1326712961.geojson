@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.64722,-11.04417,-77.60722,-11.00417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Perla"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326712961,
-    "wof:lastmodified":1564160739,
+    "wof:lastmodified":1566673918,
     "wof:name":"La Perla",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

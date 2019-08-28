@@ -10,8 +10,12 @@
     "geom:latitude":-16.68398,
     "geom:longitude":-70.98199,
     "iso:country":"PE",
+    "lbl:bbox":"-71.00199,-16.70398,-70.96199,-16.66398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Suqawaya jisk'a t'aqa suyu"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3930143,
         "gp:id":415411,
-        "qs:id":267368,
+        "qs_pg:id":267368,
         "wd:id":"Q2702910"
     },
     "wof:country":"PE",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421166545,
-    "wof:lastmodified":1563315202,
+    "wof:lastmodified":1566676475,
     "wof:name":"Socabaya",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.58365,-11.93473,-76.54365,-11.89473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Carachacra"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276530683,
-    "wof:lastmodified":1560310293,
+    "wof:lastmodified":1566675250,
     "wof:name":"Carachacra",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

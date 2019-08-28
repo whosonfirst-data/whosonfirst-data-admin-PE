@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.78207,-16.00991,-71.74207,-15.96991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pataca"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1242897227,
-    "wof:lastmodified":1564166571,
+    "wof:lastmodified":1566676652,
     "wof:name":"Pataca",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

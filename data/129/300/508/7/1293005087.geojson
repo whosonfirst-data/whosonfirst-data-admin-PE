@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.1447,-12.56854,-74.1047,-12.52854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lat_x_preferred":[
         "Pulperia"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293005087,
-    "wof:lastmodified":1564161934,
+    "wof:lastmodified":1566674519,
     "wof:name":"Pulperia",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

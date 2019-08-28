@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.93158,-7.58457,-77.89158,-7.54457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -380,7 +384,7 @@
         }
     ],
     "wof:id":1309800945,
-    "wof:lastmodified":1564166243,
+    "wof:lastmodified":1566676452,
     "wof:name":"San Antonio",
     "wof:parent_id":1108694045,
     "wof:placetype":"locality",

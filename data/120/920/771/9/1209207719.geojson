@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.97306,-13.67361,-73.93306,-13.63361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Vilcashuaman"
     ],
@@ -55,10 +59,7 @@
         "\u0412\u0456\u043b\u044c\u043a\u0430\u0441\u0443\u0430\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Vitcashum\u00e1n",
-        "Vilcas Huam\u00e1n",
-        "Vilcashuam\u00e1n",
-        "Vilcashuaman"
+        "Vitcashum\u00e1n"
     ],
     "name:war_x_preferred":[
         "Vilcashuam\u00e1n"
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1209207719,
-    "wof:lastmodified":1564164330,
+    "wof:lastmodified":1566675572,
     "wof:name":"Vilcashuaman",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

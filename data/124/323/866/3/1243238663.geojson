@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.39795,-10.48162,-76.35795,-10.44162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chumumajan\u00e1n",
         "Chumumamjanan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243238663,
-    "wof:lastmodified":1537676887,
+    "wof:lastmodified":1566676750,
     "wof:name":"Chumumajanan",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

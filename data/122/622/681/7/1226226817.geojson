@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.10006,-13.56179,-72.06006,-13.52179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cusipata",
         "Cusibamba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226226817,
-    "wof:lastmodified":1537676816,
+    "wof:lastmodified":1566677514,
     "wof:name":"Cusibamba",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.55333,-14.10333,-72.51333,-14.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259389595,
-    "wof:lastmodified":1536992560,
+    "wof:lastmodified":1566677003,
     "wof:name":"Huancaray",
     "wof:parent_id":1108693905,
     "wof:placetype":"locality",

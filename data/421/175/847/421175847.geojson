@@ -10,8 +10,12 @@
     "geom:latitude":-14.01667,
     "geom:longitude":-72.45,
     "iso:country":"PE",
+    "lbl:bbox":"-72.47,-14.03667,-72.43,-13.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Calca"
@@ -19,7 +23,7 @@
     "name:nld_x_preferred":[
         "Calca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palca Hacienda"
     ],
     "qs:gn_country":"PE",
@@ -54,7 +58,9 @@
     "wof:concordances":{
         "gn:id":3946177,
         "gp:id":418488,
-        "qs:id":1033545,
+        "qs_pg:id":1033545
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1047427
     },
     "wof:country":"PE",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421175847,
-    "wof:lastmodified":1564166347,
+    "wof:lastmodified":1566676524,
     "wof:name":"Calca",
     "wof:parent_id":1108693905,
     "wof:placetype":"locality",

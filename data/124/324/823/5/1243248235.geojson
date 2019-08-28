@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.53266,-12.98054,-73.49266,-12.94054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Atini\u00f1aptayiri"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1243248235,
-    "wof:lastmodified":1564166787,
+    "wof:lastmodified":1566676746,
     "wof:name":"Libertadores",
     "wof:parent_id":421202681,
     "wof:placetype":"locality",

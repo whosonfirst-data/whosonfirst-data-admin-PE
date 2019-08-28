@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.54962,-4.63958,-80.50962,-4.59958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sous"
     ],
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":1326689071,
-    "wof:lastmodified":1564160470,
+    "wof:lastmodified":1566673794,
     "wof:name":"Sauce",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

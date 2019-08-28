@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.20407,-13.05853,-74.16407,-13.01853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243459005,
-    "wof:lastmodified":1536787818,
+    "wof:lastmodified":1566676959,
     "wof:name":"Piticha",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

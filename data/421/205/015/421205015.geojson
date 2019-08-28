@@ -10,8 +10,12 @@
     "geom:latitude":-14.90843,
     "geom:longitude":-70.19616,
     "iso:country":"PE",
+    "lbl:bbox":"-70.21616,-14.92843,-70.17616,-14.88843",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Asankaru"
@@ -49,7 +53,7 @@
     "name:spa_x_preferred":[
         "Az\u00e1ngaro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "As\u00e1ngaro"
     ],
     "name:war_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3946937,
         "gp:id":418479,
-        "qs:id":251828,
+        "qs_pg:id":251828,
         "wd:id":"Q2638284",
         "wk:page":"Az\u00e1ngaro"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421205015,
-    "wof:lastmodified":1563315240,
+    "wof:lastmodified":1566676492,
     "wof:name":"Az\u00e1ngaro",
     "wof:parent_id":1108693915,
     "wof:placetype":"locality",

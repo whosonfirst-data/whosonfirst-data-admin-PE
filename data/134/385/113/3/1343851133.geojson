@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.85136,-15.02759,-73.81136,-14.98759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Toma"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1343851133,
-    "wof:lastmodified":1564161418,
+    "wof:lastmodified":1566674251,
     "wof:name":"Toma",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

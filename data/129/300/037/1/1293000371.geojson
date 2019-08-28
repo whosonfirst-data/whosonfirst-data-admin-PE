@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.91545,-15.74328,-72.87545,-15.70328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ocoruro",
         "Hacienda Acoruro",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293000371,
-    "wof:lastmodified":1537676746,
+    "wof:lastmodified":1566674517,
     "wof:name":"Hacienda Ocoruro",
     "wof:parent_id":1108694027,
     "wof:placetype":"locality",

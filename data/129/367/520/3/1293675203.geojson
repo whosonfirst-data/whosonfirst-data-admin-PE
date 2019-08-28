@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.12806,-7.78306,-79.08806,-7.74306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gas\u00f1ape Hacienda",
         "Gas\u00f1ape"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293675203,
-    "wof:lastmodified":1537676610,
+    "wof:lastmodified":1566674734,
     "wof:name":"Gasnape",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.92633,-10.53797,-74.88633,-10.49797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Comunidad Nativa Septimo Unidos"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293279097,
-    "wof:lastmodified":1537676929,
+    "wof:lastmodified":1566674796,
     "wof:name":"Comunidad Nativa Septimo Unidos",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

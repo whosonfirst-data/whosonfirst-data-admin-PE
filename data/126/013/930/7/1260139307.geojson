@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-81.07,-6.17,-81.03,-6.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Garita"
     ],
@@ -37,8 +41,7 @@
         "Garita"
     ],
     "name:und_x_variant":[
-        "La Garita",
-        "Garita"
+        "La Garita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260139307,
-    "wof:lastmodified":1564164848,
+    "wof:lastmodified":1566675798,
     "wof:name":"Garita",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

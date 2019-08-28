@@ -9,16 +9,19 @@
     "geom:bbox":"-77.08678,-12.07067,-77.08678,-12.07067",
     "geom:latitude":-12.07067,
     "geom:longitude":-77.08678,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-12.07067,
     "gn:longitude":-77.08678,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-77.09178,-12.07567,-77.08178,-12.06567",
     "lbl:latitude":-12.07067,
     "lbl:longitude":-77.08678,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "San Miguel"
@@ -117,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "San Miguel"
-    ],
     "name:war_x_preferred":[
         "San Miguel"
     ],
@@ -144,7 +144,7 @@
     "qs_pg:woe_adm0":23424919,
     "qs_pg:woe_id":414311,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424919,
     "woe:name_adm0":"Per\u00fa",
     "woe:name_adm1":"Lima Metropolitan Area",
@@ -160,7 +160,6 @@
     "wof:concordances":{
         "gn:id":3929395,
         "gp:id":414311,
-        "qs:id":300673,
         "qs_pg:id":300673
     },
     "wof:country":"PE",
@@ -177,7 +176,7 @@
         }
     ],
     "wof:id":1126086713,
-    "wof:lastmodified":1564166399,
+    "wof:lastmodified":1566676575,
     "wof:name":"San Miguel",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

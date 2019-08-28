@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.52594,-15.65416,-72.48594,-15.61416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Jalajala"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1209420703,
-    "wof:lastmodified":1564164417,
+    "wof:lastmodified":1566675610,
     "wof:name":"Jalajala",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

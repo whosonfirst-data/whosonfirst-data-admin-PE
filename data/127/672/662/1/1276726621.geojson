@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.93667,-4.88667,-80.89667,-4.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Monte Abierto Hacienda",
         "Monte Abierto"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276726621,
-    "wof:lastmodified":1537676582,
+    "wof:lastmodified":1566674928,
     "wof:name":"Monte Abierto",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

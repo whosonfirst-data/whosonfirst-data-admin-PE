@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.68705,-15.18423,-71.64705,-15.14423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259482921,
-    "wof:lastmodified":1536858354,
+    "wof:lastmodified":1566677066,
     "wof:name":"Cencuyo",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

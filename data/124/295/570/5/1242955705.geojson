@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.60889,-11.12,-77.56889,-11.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tomicaya",
         "Toma y Calla"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242955705,
-    "wof:lastmodified":1560310336,
+    "wof:lastmodified":1566676699,
     "wof:name":"Toma y Calla",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

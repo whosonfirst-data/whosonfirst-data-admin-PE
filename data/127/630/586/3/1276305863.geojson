@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.63856,-6.45252,-79.59856,-6.41252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u062f\u0627\u0644\u064a\u0646\u0627"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1276305863,
-    "wof:lastmodified":1564163545,
+    "wof:lastmodified":1566675213,
     "wof:name":"Magdalena",
     "wof:parent_id":421188727,
     "wof:placetype":"locality",

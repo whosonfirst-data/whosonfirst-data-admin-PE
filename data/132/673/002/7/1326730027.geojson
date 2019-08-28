@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.54758,-16.49025,-71.50758,-16.45025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10d9\u10d0\u10d1\u10d0\u10d8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1326730027,
-    "wof:lastmodified":1564160368,
+    "wof:lastmodified":1566673747,
     "wof:name":"Socabaya",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

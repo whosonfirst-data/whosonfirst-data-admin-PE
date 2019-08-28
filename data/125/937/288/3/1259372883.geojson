@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.03084,-13.33006,-71.99084,-13.29006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arin"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259372883,
-    "wof:lastmodified":1564167437,
+    "wof:lastmodified":1566677035,
     "wof:name":"Arin",
     "wof:parent_id":421175157,
     "wof:placetype":"locality",

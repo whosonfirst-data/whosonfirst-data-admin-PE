@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.83669,-4.82119,-79.79669,-4.78119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yerba Buena"
     ],
@@ -64,8 +68,7 @@
         "Yerba Buena"
     ],
     "name:und_x_variant":[
-        "Yerbabuena Ciudad",
-        "Yerba Buena"
+        "Yerbabuena Ciudad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1276952497,
-    "wof:lastmodified":1564163185,
+    "wof:lastmodified":1566675066,
     "wof:name":"Yerba Buena",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

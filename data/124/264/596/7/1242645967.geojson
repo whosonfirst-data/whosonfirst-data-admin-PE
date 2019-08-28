@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.14897,-8.64579,-76.10897,-8.60579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Consuelo"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1242645967,
-    "wof:lastmodified":1564167204,
+    "wof:lastmodified":1566676924,
     "wof:name":"Consuelo",
     "wof:parent_id":421170671,
     "wof:placetype":"locality",

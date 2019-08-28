@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.28512,-13.65072,-73.24512,-13.61072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0410\u0440\u0438\u043a\u0430"
     ],
@@ -284,7 +288,7 @@
         }
     ],
     "wof:id":1343663039,
-    "wof:lastmodified":1564161536,
+    "wof:lastmodified":1566674301,
     "wof:name":"Arica",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

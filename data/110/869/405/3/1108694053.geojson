@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.884812,
     "lbl:longitude":-76.989756,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Mart\u00edn",
     "meso:gadm_admin":"Moyobamba",
     "meso:gadm_hasc2":"PE.SM.MB",
@@ -30,6 +32,7 @@
     "mps:longitude":-76.989756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
@@ -112,9 +115,9 @@
         "\u83ab\u7d04\u73ed\u5df4"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"3,772.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Moyobamba",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1108694053,
-    "wof:lastmodified":1564165127,
+    "wof:lastmodified":1566675945,
     "wof:name":"Moyobamba",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

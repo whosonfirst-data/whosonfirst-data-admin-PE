@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.32263,-13.08151,-74.28263,-13.04151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santiago",
         "Santiago de Pischa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293291049,
-    "wof:lastmodified":1537676692,
+    "wof:lastmodified":1566674805,
     "wof:name":"Santiago de Pischa",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

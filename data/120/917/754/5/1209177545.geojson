@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.55124,-11.30173,-69.51124,-11.26173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colmena"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209177545,
-    "wof:lastmodified":1560311309,
+    "wof:lastmodified":1566675628,
     "wof:name":"Colmena",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

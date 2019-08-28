@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.45,-11.88833,-76.41,-11.84833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ayas"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1260062741,
-    "wof:lastmodified":1564164959,
+    "wof:lastmodified":1566675847,
     "wof:name":"Ayas",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

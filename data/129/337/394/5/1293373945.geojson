@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.02472,-13.9975,-74.98472,-13.9575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293373945,
-    "wof:lastmodified":1536950975,
+    "wof:lastmodified":1566674554,
     "wof:name":"Ajovilla",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.01297,-10.91298,-74.97297,-10.87298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Kivinaki"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243431033,
-    "wof:lastmodified":1537676923,
+    "wof:lastmodified":1566676987,
     "wof:name":"Kivinaki",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-13.63389,
     "geom:longitude":-72.88139,
     "iso:country":"PE",
+    "lbl:bbox":"-72.90139,-13.65389,-72.86139,-13.61389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u043d\u043a\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abancai"
     ],
     "name:urd_x_preferred":[
@@ -314,7 +317,7 @@
     "wof:concordances":{
         "gn:id":3948642,
         "gp:id":418466,
-        "qs:id":1047447,
+        "qs_pg:id":1047447,
         "wd:id":"Q215238",
         "wk:page":"Abancay"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421176585,
-    "wof:lastmodified":1563315397,
+    "wof:lastmodified":1566676546,
     "wof:name":"Abancay",
     "wof:parent_id":421170655,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.75862,-6.25947,-77.71862,-6.21947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343462137,
-    "wof:lastmodified":1536743428,
+    "wof:lastmodified":1566674203,
     "wof:name":"Cinco Esquinas",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

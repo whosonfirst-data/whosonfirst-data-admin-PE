@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.19566,-13.21106,-75.15566,-13.17106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Madona"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1326919475,
-    "wof:lastmodified":1564160884,
+    "wof:lastmodified":1566673988,
     "wof:name":"Madona",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

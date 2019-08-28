@@ -10,8 +10,12 @@
     "geom:latitude":-5.1868,
     "geom:longitude":-79.97076,
     "iso:country":"PE",
+    "lbl:bbox":"-79.99076,-5.2068,-79.95076,-5.1668",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Morrop\u00f3n District"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3694582,
         "gp:id":419040,
-        "qs:id":1046501,
+        "qs_pg:id":1046501,
         "wd:id":"Q6317810"
     },
     "wof:country":"PE",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421176499,
-    "wof:lastmodified":1563315394,
+    "wof:lastmodified":1566676545,
     "wof:name":"Morrop\u00f3n",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

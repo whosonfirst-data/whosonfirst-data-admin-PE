@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.66528,-11.03167,-77.62528,-10.99167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pacayal Chico",
         "Pacayal Bajo"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327216377,
-    "wof:lastmodified":1560310427,
+    "wof:lastmodified":1566674022,
     "wof:name":"Pacayal Bajo",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

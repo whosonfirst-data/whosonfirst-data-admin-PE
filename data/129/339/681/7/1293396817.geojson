@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.57778,-13.77635,-73.53778,-13.73635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angaypahua",
         "Ancaypahua"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293396817,
-    "wof:lastmodified":1537676868,
+    "wof:lastmodified":1566674572,
     "wof:name":"Ancaypahua",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",

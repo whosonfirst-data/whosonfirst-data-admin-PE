@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.83583,-15.68,-73.79583,-15.64",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293315945,
-    "wof:lastmodified":1537032948,
+    "wof:lastmodified":1566674539,
     "wof:name":"Chiuchine",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

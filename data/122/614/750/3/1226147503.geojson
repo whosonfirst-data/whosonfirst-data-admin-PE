@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.87811,-15.21127,-73.83811,-15.17127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sacsara"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226147503,
-    "wof:lastmodified":1537676708,
+    "wof:lastmodified":1566677501,
     "wof:name":"Sacsara",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

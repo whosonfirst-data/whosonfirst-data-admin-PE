@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.87583,-14.02694,-73.83583,-13.98694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327326643,
-    "wof:lastmodified":1536832544,
+    "wof:lastmodified":1566673887,
     "wof:name":"Jimpalla",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

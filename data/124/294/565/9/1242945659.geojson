@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.03667,-11.87,-76.99667,-11.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Chichicorral",
         "Cuchi Corral"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242945659,
-    "wof:lastmodified":1560310312,
+    "wof:lastmodified":1566676705,
     "wof:name":"Cuchi Corral",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

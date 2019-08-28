@@ -10,8 +10,12 @@
     "geom:latitude":-5.17131,
     "geom:longitude":-80.14621,
     "iso:country":"PE",
+    "lbl:bbox":"-80.16621,-5.19131,-80.12621,-5.15131",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u062a\u0627"
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":3693790,
         "gp:id":418564,
-        "qs:id":475464,
+        "qs_pg:id":475464,
         "wd:id":"Q1026270"
     },
     "wof:country":"PE",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421180009,
-    "wof:lastmodified":1563315248,
+    "wof:lastmodified":1566676495,
     "wof:name":"Paita",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

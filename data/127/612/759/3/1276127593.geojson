@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.82924,-6.67135,-77.78924,-6.63135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Francisco del Yeso",
         "Yeso",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276127593,
-    "wof:lastmodified":1537676553,
+    "wof:lastmodified":1566675156,
     "wof:name":"San Francisco de Yeso",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

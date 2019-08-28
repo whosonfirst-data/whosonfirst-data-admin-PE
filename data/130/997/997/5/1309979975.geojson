@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.83667,-16.33667,-69.79667,-16.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pocoy\u00f3"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1309979975,
-    "wof:lastmodified":1564166025,
+    "wof:lastmodified":1566676358,
     "wof:name":"Pocoyo",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

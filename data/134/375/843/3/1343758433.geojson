@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.14111,-13.80861,-75.10111,-13.76861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343758433,
-    "wof:lastmodified":1536813257,
+    "wof:lastmodified":1566674438,
     "wof:name":"Pina Puquio",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

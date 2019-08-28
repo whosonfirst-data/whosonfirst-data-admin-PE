@@ -10,8 +10,12 @@
     "geom:latitude":-12.39944,
     "geom:longitude":-74.86639,
     "iso:country":"PE",
+    "lbl:bbox":"-74.88639,-12.41944,-74.84639,-12.37944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Pampas"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3933185,
         "gp:id":418566,
-        "qs:id":886559,
+        "qs_pg:id":886559,
         "wd:id":"Q2725364",
         "wk:page":"Pampas, Peru"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421182075,
-    "wof:lastmodified":1563315373,
+    "wof:lastmodified":1566676544,
     "wof:name":"Pampas",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

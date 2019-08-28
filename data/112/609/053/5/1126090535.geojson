@@ -9,16 +9,19 @@
     "geom:bbox":"-77.08333,-12.08333,-77.08333,-12.08333",
     "geom:latitude":-12.08333,
     "geom:longitude":-77.08333,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-12.08333,
     "gn:longitude":-77.08333,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-77.08833,-12.08833,-77.07833,-12.07833",
     "lbl:latitude":-12.08333,
     "lbl:longitude":-77.08333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Cuevas"
@@ -42,9 +45,6 @@
         "Cueva",
         "Cuevas"
     ],
-    "name:unk_x_variant":[
-        "Cueva"
-    ],
     "qs_pg:aaroncc":"PE",
     "qs_pg:gn_country":"PE",
     "qs_pg:gn_fcode":"PPLX",
@@ -66,23 +66,22 @@
     "qs_pg:woe_adm0":23424919,
     "qs_pg:woe_id":401940,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424919,
     "woe:name_adm0":"Per\u00fa",
     "woe:name_adm1":"Lima Metropolitan Area",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
         421186805,
-        421202549,
-        1175613121
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3941796,
         "gp:id":401940,
-        "qs:id":1082776,
         "qs_pg:id":1082776
     },
     "wof:country":"PE",
@@ -99,7 +98,7 @@
         }
     ],
     "wof:id":1126090535,
-    "wof:lastmodified":1560310474,
+    "wof:lastmodified":1566676576,
     "wof:name":"Cueva",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

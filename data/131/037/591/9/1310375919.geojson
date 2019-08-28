@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.55648,-5.9657,-79.51648,-5.9257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310375919,
-    "wof:lastmodified":1536603452,
+    "wof:lastmodified":1566676064,
     "wof:name":"Egron",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

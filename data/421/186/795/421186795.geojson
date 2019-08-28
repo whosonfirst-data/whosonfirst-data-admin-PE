@@ -10,6 +10,9 @@
     "geom:latitude":-14.061322,
     "geom:longitude":-75.74764,
     "iso:country":"PE",
+    "lbl:bbox":"-75.76764,-14.081322,-75.72764,-14.041322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -318,9 +321,11 @@
     "wof:concordances":{
         "gn:id":3938527,
         "gp:id":418444,
-        "qs:id":1075993,
         "qs_pg:id":1047344,
         "wd:id":"Q840712"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075993
     },
     "wof:country":"PE",
     "wof:created":1459009492,
@@ -335,7 +340,7 @@
         }
     ],
     "wof:id":421186795,
-    "wof:lastmodified":1563315296,
+    "wof:lastmodified":1566676515,
     "wof:name":"Ica",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

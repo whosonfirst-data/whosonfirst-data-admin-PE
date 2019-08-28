@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.34595,-11.75591,-75.30595,-11.71591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u99ac\u67f4\u5c71"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243151653,
-    "wof:lastmodified":1564166813,
+    "wof:lastmodified":1566676758,
     "wof:name":"Machay",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

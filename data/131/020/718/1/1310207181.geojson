@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.02784,-10.03315,-77.98784,-9.99315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sonson"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310207181,
-    "wof:lastmodified":1564165428,
+    "wof:lastmodified":1566676092,
     "wof:name":"Sonson",
     "wof:parent_id":421184497,
     "wof:placetype":"locality",

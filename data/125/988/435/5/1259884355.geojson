@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.65327,-14.26814,-74.61327,-14.22814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259884355,
-    "wof:lastmodified":1536778363,
+    "wof:lastmodified":1566677251,
     "wof:name":"Huayllani",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

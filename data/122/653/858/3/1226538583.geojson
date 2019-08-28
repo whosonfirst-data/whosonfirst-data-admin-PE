@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.94563,-13.07757,-73.90563,-13.03757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1226538583,
-    "wof:lastmodified":1564168712,
+    "wof:lastmodified":1566677639,
     "wof:name":"San Pedro",
     "wof:parent_id":421202681,
     "wof:placetype":"locality",

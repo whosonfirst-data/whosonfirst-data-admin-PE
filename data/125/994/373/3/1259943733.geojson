@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.35333,-2.15333,-74.31333,-2.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cafetales",
         "Calz\u00f3n Urco"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259943733,
-    "wof:lastmodified":1537676637,
+    "wof:lastmodified":1566677204,
     "wof:name":"Calzon Urco",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.11944,-13.90861,-73.07944,-13.86861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343663033,
-    "wof:lastmodified":1536951548,
+    "wof:lastmodified":1566674301,
     "wof:name":"Accomocco",
     "wof:parent_id":421175161,
     "wof:placetype":"locality",

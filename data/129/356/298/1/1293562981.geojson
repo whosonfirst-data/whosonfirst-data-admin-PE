@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.21353,-16.5464,-69.17353,-16.5064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293562981,
-    "wof:lastmodified":1536678351,
+    "wof:lastmodified":1566674721,
     "wof:name":"Micollo",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

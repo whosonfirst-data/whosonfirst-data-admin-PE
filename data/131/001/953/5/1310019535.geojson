@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.00396,-6.20231,-77.96396,-6.16231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Colmata"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310019535,
-    "wof:lastmodified":1564165371,
+    "wof:lastmodified":1566676066,
     "wof:name":"Colmata",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.95697,-12.267,-73.91697,-12.227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quipiashiari"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309702209,
-    "wof:lastmodified":1537676920,
+    "wof:lastmodified":1566676387,
     "wof:name":"Quipiashiari",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

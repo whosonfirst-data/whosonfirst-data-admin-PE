@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.82889,-9.19361,-77.78889,-9.15361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243266157,
-    "wof:lastmodified":1537062636,
+    "wof:lastmodified":1566676977,
     "wof:name":"Antircan",
     "wof:parent_id":421170661,
     "wof:placetype":"locality",

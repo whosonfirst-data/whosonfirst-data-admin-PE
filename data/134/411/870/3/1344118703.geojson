@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.20587,-10.50368,-76.16587,-10.46368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Piquillhuanca"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344118703,
-    "wof:lastmodified":1537676887,
+    "wof:lastmodified":1566674364,
     "wof:name":"Piquillhuanca",
     "wof:parent_id":421194849,
     "wof:placetype":"locality",

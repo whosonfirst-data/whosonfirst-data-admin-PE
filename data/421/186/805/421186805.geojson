@@ -11,13 +11,16 @@
     "geom:longitude":-76.904206,
     "gn:country":"PE",
     "gn:fcode":"PPLC",
-    "gn:pop":7737002,
+    "gn:population":7737002,
     "iso:country":"PE",
     "lbl:latitude":-12.049141,
     "lbl:longitude":-77.021217,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u041b\u0438\u043c\u0430"
@@ -560,12 +563,12 @@
     "wof:concordances":{
         "gn:id":3936456,
         "gp:id":418440,
-        "qs:id":1075997,
+        "qs_pg:id":1075997,
         "wd:id":"Q2868",
         "wk:page":"Lima"
     },
     "wof:concordances_alt":{
-        "qs:id":274557
+        "qs_pg:id":274557
     },
     "wof:country":"PE",
     "wof:created":1459009492,
@@ -580,7 +583,7 @@
         }
     ],
     "wof:id":421186805,
-    "wof:lastmodified":1563315294,
+    "wof:lastmodified":1566676514,
     "wof:name":"Lima",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

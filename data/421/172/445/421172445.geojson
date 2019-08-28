@@ -10,8 +10,11 @@
     "geom:latitude":-11.66722,
     "geom:longitude":-76.78833,
     "iso:country":"PE",
+    "lbl:bbox":"-76.79333,-11.67222,-76.78333,-11.66222",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Santa Rosa de Quives jisk'a t'aqa suyu"
@@ -34,7 +37,7 @@
     "name:spa_x_preferred":[
         "Distrito de Santa Rosa de Quives"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quives"
     ],
     "qs:gn_country":"PE",
@@ -58,16 +61,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":80,
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
-        1108693965,
-        1175613121
+        1108693965
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3929067,
         "gp:id":22723523,
-        "qs:id":1311244,
+        "qs_pg:id":1311244,
         "wd:id":"Q2038974"
     },
     "wof:country":"PE",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421172445,
-    "wof:lastmodified":1560310473,
+    "wof:lastmodified":1566676511,
     "wof:name":"Santa Rosa de Quives",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

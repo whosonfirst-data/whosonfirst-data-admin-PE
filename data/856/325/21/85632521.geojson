@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-12.98078,
     "lbl:longitude":-72.876651,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-12.98078,
     "mps:longitude":-72.876651,
     "mz:hierarchy_label":1,
@@ -770,9 +772,6 @@
     "name:und_x_variant":[
         "Republika Peru"
     ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica del Per\u00fa"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u0648"
     ],
@@ -928,7 +927,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"51",
     "statoids:ds":"PE",
@@ -972,7 +971,7 @@
         "mzb:id":"peru",
         "ne:adm0_a3":"PER",
         "nyt:id":"50581724317645537281",
-        "qs:id":893592,
+        "qs_pg:id":893592,
         "uncrt:id":"PE",
         "wd:id":"Q419",
         "wk:page":"Peru",
@@ -996,7 +995,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732269,
+    "wof:lastmodified":1566674474,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

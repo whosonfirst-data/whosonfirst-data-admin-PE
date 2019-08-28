@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10936247.345679,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.515772,-16.430868,-71.515772,-16.430868",
     "geom:latitude":-16.430868,
     "geom:longitude":-71.515772,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.43088,
     "gn:longitude":-71.54596,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-71.520772,-16.435868,-71.510772,-16.425868",
     "lbl:latitude":-16.430868,
     "lbl:longitude":-71.515772,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-16.437247,
     "mps:longitude":-71.51865,
     "mz:hierarchy_label":0,
@@ -34,8 +36,7 @@
     "name:spa_x_preferred":[
         "Urbanizaci\u00f3n Salaverry"
     ],
-    "name:unk_x_variant":[
-        "Urbanizaci\u00f3n Salaverry",
+    "name:und_x_variant":[
         "Salaverry"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -86,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675839,
         102191577,
@@ -97,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3949232,
         "gp:id":417371,
-        "qs:id":966823,
         "qs_pg:id":966823
     },
     "wof:country":"PE",
@@ -116,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1566674473,
     "wof:name":"Urbanizaci\u00f3n Salaverry",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

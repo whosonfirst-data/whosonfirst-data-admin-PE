@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.58445,-13.92603,-69.54445,-13.88603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palpabamba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225918059,
-    "wof:lastmodified":1537677012,
+    "wof:lastmodified":1566677494,
     "wof:name":"Palpabamba",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-13.471793,
     "lbl:longitude":-73.672276,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Apur\u00edmac",
     "meso:gadm_admin":"Chincheros",
     "meso:gadm_hasc2":"PE.AP.CH",
@@ -30,6 +32,7 @@
     "mps:longitude":-73.672276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chincheros"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"1,242.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Chincheros",
@@ -109,7 +112,7 @@
         "gn:id":8349550,
         "gp:id":26805822,
         "hasc:id":"PE.AP.CH",
-        "qs:id":355688
+        "qs_pg:id":355688
     },
     "wof:country":"PE",
     "wof:created":1459009793,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421194079,
-    "wof:lastmodified":1564166302,
+    "wof:lastmodified":1566676479,
     "wof:name":"Chincheros",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.7558,-10.48677,-77.7158,-10.44677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fundo Cutatambo",
         "Cutatambo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243233509,
-    "wof:lastmodified":1560310158,
+    "wof:lastmodified":1566676751,
     "wof:name":"Cutatambo",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

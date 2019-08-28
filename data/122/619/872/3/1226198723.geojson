@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.43917,-7.01222,-76.39917,-6.97222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Puerto Rico"
     ],
@@ -428,8 +432,7 @@
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Esperanza",
-        "Puerto Rico"
+        "Esperanza"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
@@ -490,7 +493,7 @@
         }
     ],
     "wof:id":1226198723,
-    "wof:lastmodified":1564168092,
+    "wof:lastmodified":1566677341,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

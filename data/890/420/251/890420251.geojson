@@ -11,11 +11,14 @@
     "geom:longitude":-77.00615,
     "gn:country":"PE",
     "gn:fcode":"PPLX",
-    "gn:pop":251648,
+    "gn:population":251648,
     "iso:country":"PE",
+    "lbl:bbox":"-77.01115,-12.14452,-77.00115,-12.13452",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Santiago de Surco"
     ],
     "qs:name":"Surco",
@@ -24,17 +27,17 @@
     "qs:pop_sr":"10",
     "src:population":"geonames",
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
         421186805,
-        421202549,
-        1175613121
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3928245,
         "gp:id":22723506,
-        "qs:id":96775
+        "qs_pg:id":96775
     },
     "wof:country":"PE",
     "wof:created":1469051327,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890420251,
-    "wof:lastmodified":1560310473,
+    "wof:lastmodified":1566676559,
     "wof:name":"Surco",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

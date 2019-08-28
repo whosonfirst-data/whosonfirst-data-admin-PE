@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.72892,-16.66556,-72.68892,-16.62556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Dehesa",
         "La Deheza"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259382531,
-    "wof:lastmodified":1537676776,
+    "wof:lastmodified":1566677006,
     "wof:name":"La Deheza",
     "wof:parent_id":421175159,
     "wof:placetype":"locality",

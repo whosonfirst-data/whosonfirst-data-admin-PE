@@ -10,8 +10,12 @@
     "geom:latitude":-15.89127,
     "geom:longitude":-69.88436,
     "iso:country":"PE",
+    "lbl:bbox":"-69.90436,-15.91127,-69.86436,-15.87127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Chukuwitu"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3943365,
         "gp:id":418755,
-        "qs:id":1082788,
+        "qs_pg:id":1082788,
         "wd:id":"Q130144"
     },
     "wof:country":"PE",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421187399,
-    "wof:lastmodified":1561777725,
+    "wof:lastmodified":1566676496,
     "wof:name":"Chucuito",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

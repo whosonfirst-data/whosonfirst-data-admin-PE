@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.45801,-18.31993,-70.41801,-18.27993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palos"
     ],
@@ -44,7 +48,6 @@
     ],
     "name:und_x_variant":[
         "Los Palos Hacienda",
-        "Palos",
         "Los Palos"
     ],
     "src:geom":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276180409,
-    "wof:lastmodified":1564163024,
+    "wof:lastmodified":1566674995,
     "wof:name":"Palos",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.36501,-10.10059,-76.32501,-10.06059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chinche",
         "Chinche Pampa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277155559,
-    "wof:lastmodified":1537676882,
+    "wof:lastmodified":1566675089,
     "wof:name":"Chinche Pampa",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

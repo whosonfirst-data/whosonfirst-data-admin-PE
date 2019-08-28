@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.5565,-5.07916,-79.5165,-5.03916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pampa Grande"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344022495,
-    "wof:lastmodified":1564161707,
+    "wof:lastmodified":1566674383,
     "wof:name":"Pampa Grande",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",

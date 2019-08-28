@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.20702,-5.99327,-78.16702,-5.95327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309812733,
-    "wof:lastmodified":1536921628,
+    "wof:lastmodified":1566676466,
     "wof:name":"Tambolic",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

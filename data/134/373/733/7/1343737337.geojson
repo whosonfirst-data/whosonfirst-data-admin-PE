@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.55333,-10.37,-75.51333,-10.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Huancabamba"
     ],
@@ -41,8 +45,7 @@
         "Huancabamba"
     ],
     "name:und_x_variant":[
-        "Tingo de Huancabamba",
-        "Huancabamba"
+        "Tingo de Huancabamba"
     ],
     "name:war_x_preferred":[
         "Huancabamba"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343737337,
-    "wof:lastmodified":1564161784,
+    "wof:lastmodified":1566674418,
     "wof:name":"Huancabamba",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

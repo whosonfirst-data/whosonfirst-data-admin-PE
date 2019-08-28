@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.74166,-14.07661,-75.70166,-14.03661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pasaje Valle"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309883153,
-    "wof:lastmodified":1537676953,
+    "wof:lastmodified":1566676460,
     "wof:name":"Pasaje Valle",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

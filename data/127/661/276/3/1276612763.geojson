@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.37129,-5.48935,-79.33129,-5.44935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saucepampa Ciudad",
         "Saucapampa Ciudad",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276612763,
-    "wof:lastmodified":1537676542,
+    "wof:lastmodified":1566675060,
     "wof:name":"Saucepampa",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.10583,-11.92319,-69.06583,-11.88319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209277707,
-    "wof:lastmodified":1560311309,
+    "wof:lastmodified":1566675579,
     "wof:name":"Shiringayoc",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

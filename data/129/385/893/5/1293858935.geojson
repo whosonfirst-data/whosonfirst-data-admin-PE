@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.32862,-11.08047,-76.28862,-11.04047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293858935,
-    "wof:lastmodified":1536748594,
+    "wof:lastmodified":1566674642,
     "wof:name":"Angolmichinan",
     "wof:parent_id":421194849,
     "wof:placetype":"locality",

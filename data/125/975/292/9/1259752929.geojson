@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.81389,-11.47972,-76.77389,-11.43972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iraicha",
         "Iriecha"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259752929,
-    "wof:lastmodified":1560310468,
+    "wof:lastmodified":1566677254,
     "wof:name":"Iriecha",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

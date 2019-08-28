@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.76889,-16.62167,-72.72889,-16.58167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urbanizaci\u00f3n Huacapuy",
         "Huacapuy"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242783605,
-    "wof:lastmodified":1537676800,
+    "wof:lastmodified":1566676886,
     "wof:name":"Huacapuy",
     "wof:parent_id":421175159,
     "wof:placetype":"locality",

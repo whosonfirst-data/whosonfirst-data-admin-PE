@@ -10,8 +10,12 @@
     "geom:latitude":-14.04512,
     "geom:longitude":-75.70127,
     "iso:country":"PE",
+    "lbl:bbox":"-75.72127,-14.06512,-75.68127,-14.02512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Parcona"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3932957,
         "gp:id":410850,
-        "qs:id":988327
+        "qs_pg:id":988327
     },
     "wof:country":"PE",
     "wof:created":1459009827,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421194985,
-    "wof:lastmodified":1501269422,
+    "wof:lastmodified":1566676480,
     "wof:name":"Parcona",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-6.805767,
     "lbl:longitude":-78.211811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cajamarca",
     "meso:gadm_admin":"Celend\u00edn",
     "meso:gadm_hasc2":"PE.CJ.CE",
@@ -33,6 +35,7 @@
     "mps:longitude":-78.211811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Celend\u00edn jisk'a suyu"
@@ -92,9 +95,6 @@
     "name:spa_x_variant":[
         "Provincia de Celend\u00edn"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Celend\u00edn"
-    ],
     "name:vie_x_preferred":[
         "Celend\u00edn"
     ],
@@ -129,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,642.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Celend\u00edn",
@@ -152,7 +152,7 @@
         "gn:id":3698607,
         "gp:id":26805816,
         "hasc:id":"PE.CJ.CE",
-        "qs:id":985576,
+        "qs_pg:id":985576,
         "wd:id":"Q1431153",
         "wk:page":"Celend\u00edn Province"
     },
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":421183859,
-    "wof:lastmodified":1561777737,
+    "wof:lastmodified":1566676540,
     "wof:name":"Celend\u00edn",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

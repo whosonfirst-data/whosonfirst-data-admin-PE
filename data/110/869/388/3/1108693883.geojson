@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-8.17933,
     "lbl:longitude":-78.450313,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Libertad",
     "meso:gadm_admin":"Julcan",
     "meso:gadm_hasc2":"PE.LL.JU",
@@ -33,6 +35,7 @@
     "mps:longitude":-78.450313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Hulkan jisk'a suyu"
     ],
@@ -92,9 +95,9 @@
         "\u80e1\u723e\u574e\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"1,101.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Julcan",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108693883,
-    "wof:lastmodified":1561777655,
+    "wof:lastmodified":1566675954,
     "wof:name":"Julc\u00e1n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

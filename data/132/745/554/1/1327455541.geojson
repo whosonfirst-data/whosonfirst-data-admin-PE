@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.96599,-7.14334,-78.92599,-7.10334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Miraflores"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1327455541,
-    "wof:lastmodified":1564160988,
+    "wof:lastmodified":1566674040,
     "wof:name":"Miraflores",
     "wof:parent_id":1108693985,
     "wof:placetype":"locality",

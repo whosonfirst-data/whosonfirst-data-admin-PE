@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.90915,-13.13865,-74.86915,-13.09865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Rique"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276639699,
-    "wof:lastmodified":1537676696,
+    "wof:lastmodified":1566675207,
     "wof:name":"Sanrique",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

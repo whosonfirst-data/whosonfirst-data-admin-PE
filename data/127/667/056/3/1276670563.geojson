@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.0275,-8.97444,-77.9875,-8.93444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276670563,
-    "wof:lastmodified":1536822907,
+    "wof:lastmodified":1566675040,
     "wof:name":"Alizo",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

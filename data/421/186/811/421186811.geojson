@@ -10,8 +10,12 @@
     "geom:latitude":-5.236349,
     "geom:longitude":-79.44746,
     "iso:country":"PE",
+    "lbl:bbox":"-79.46746,-5.256349,-79.42746,-5.216349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Huancabamba"
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":418520,
-        "qs:id":1076002,
+        "qs_pg:id":1076002,
         "wd:id":"Q2307821"
     },
     "wof:country":"PE",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421186811,
-    "wof:lastmodified":1561777728,
+    "wof:lastmodified":1566676512,
     "wof:name":"Huancabamba",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

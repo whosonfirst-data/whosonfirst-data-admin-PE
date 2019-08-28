@@ -11,8 +11,11 @@
     "geom:longitude":-76.25668,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":78910,
+    "gn:population":78910,
     "iso:country":"PE",
+    "lbl:bbox":"-76.27668,-10.68748,-76.23668,-10.64748",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -280,12 +283,12 @@
     "wof:concordances":{
         "gn:id":3944797,
         "gp:id":418451,
-        "qs:id":1047398,
+        "qs_pg:id":1047398,
         "wd:id":"Q674320",
         "wk:page":"Cerro de Pasco"
     },
     "wof:concordances_alt":{
-        "qs:id":1191432
+        "qs_pg:id":1191432
     },
     "wof:country":"PE",
     "wof:created":1469052501,
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890445223,
-    "wof:lastmodified":1563315453,
+    "wof:lastmodified":1566676565,
     "wof:name":"Cerro de Pasco",
     "wof:parent_id":421194849,
     "wof:placetype":"locality",

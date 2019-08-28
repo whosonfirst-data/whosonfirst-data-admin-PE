@@ -10,8 +10,12 @@
     "geom:latitude":-14.788712,
     "geom:longitude":-71.411304,
     "iso:country":"PE",
+    "lbl:bbox":"-71.431304,-14.808712,-71.391304,-14.768712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Yawri"
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":419411,
-        "qs:id":1076101,
+        "qs_pg:id":1076101,
         "wd:id":"Q3345555"
     },
     "wof:country":"PE",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421186855,
-    "wof:lastmodified":1561777729,
+    "wof:lastmodified":1566676517,
     "wof:name":"Yauri",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

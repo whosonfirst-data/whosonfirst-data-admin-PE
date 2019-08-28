@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.14599,-16.3683,-72.10599,-16.3283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tambillio",
         "Tambillo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310111519,
-    "wof:lastmodified":1537676684,
+    "wof:lastmodified":1566676106,
     "wof:name":"Tambillo",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

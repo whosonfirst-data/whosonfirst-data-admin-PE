@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.10193,-14.47053,-72.06193,-14.43053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Santu Tumas"
     ],
@@ -49,9 +53,6 @@
         "\u0421\u0430\u043d\u0442\u043e-\u0422\u043e\u043c\u0430\u0441"
     ],
     "name:spa_x_preferred":[
-        "Santo Tom\u00e1s"
-    ],
-    "name:und_x_variant":[
         "Santo Tom\u00e1s"
     ],
     "name:war_x_preferred":[
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1326620065,
-    "wof:lastmodified":1564160872,
+    "wof:lastmodified":1566673981,
     "wof:name":"Santo Tomas",
     "wof:parent_id":1108693903,
     "wof:placetype":"locality",

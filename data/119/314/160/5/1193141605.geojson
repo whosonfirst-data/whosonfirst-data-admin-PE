@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.18972,-13.0935,-74.14972,-13.0535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193141605,
-    "wof:lastmodified":1536365555,
+    "wof:lastmodified":1566675721,
     "wof:name":"Ccehca",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

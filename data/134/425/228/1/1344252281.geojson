@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.22612,-14.20256,-71.18612,-14.16256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344252281,
-    "wof:lastmodified":1537092829,
+    "wof:lastmodified":1566674141,
     "wof:name":"Antacarana",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

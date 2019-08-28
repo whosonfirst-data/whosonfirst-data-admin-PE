@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.87034,-15.58891,-74.83034,-15.54891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lomas",
         "Puerto Lomas",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276252423,
-    "wof:lastmodified":1537676721,
+    "wof:lastmodified":1566675116,
     "wof:name":"Puerto de Lomas",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

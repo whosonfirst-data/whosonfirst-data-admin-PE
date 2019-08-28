@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.61743,-8.10735,-74.57743,-8.06735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344111935,
-    "wof:lastmodified":1536801498,
+    "wof:lastmodified":1566674363,
     "wof:name":"Bello Horizonte",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

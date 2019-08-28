@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.79513,-5.98794,-78.75513,-5.94794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193039735,
-    "wof:lastmodified":1536377215,
+    "wof:lastmodified":1566675735,
     "wof:name":"San Pedro Alto",
     "wof:parent_id":1108693977,
     "wof:placetype":"locality",

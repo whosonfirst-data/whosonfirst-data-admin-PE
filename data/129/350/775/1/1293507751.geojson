@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.70896,-9.55067,-76.66896,-9.51067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293507751,
-    "wof:lastmodified":1536758029,
+    "wof:lastmodified":1566674696,
     "wof:name":"Millpo",
     "wof:parent_id":1108693923,
     "wof:placetype":"locality",

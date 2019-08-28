@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.87083,-13.59,-74.83083,-13.55",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344140895,
-    "wof:lastmodified":1536759759,
+    "wof:lastmodified":1566674160,
     "wof:name":"Tinaja",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

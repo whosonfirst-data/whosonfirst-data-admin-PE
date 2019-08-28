@@ -11,10 +11,14 @@
     "geom:longitude":-76.5911,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":15231,
+    "gn:population":15231,
     "iso:country":"PE",
+    "lbl:bbox":"-76.6111,-7.07614,-76.5711,-7.03614",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bellavista"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3699364,
         "gp:id":397447,
-        "qs:id":1046553,
+        "qs_pg:id":1046553,
         "wd:id":"Q3344055",
         "wk:page":"Bellavista"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890445073,
-    "wof:lastmodified":1561777745,
+    "wof:lastmodified":1566676565,
     "wof:name":"Bellavista",
     "wof:parent_id":1108693993,
     "wof:placetype":"locality",

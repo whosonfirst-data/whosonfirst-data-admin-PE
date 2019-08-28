@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.9585,-5.24587,-79.9185,-5.20587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maravilla",
         "La Maravilla"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226724227,
-    "wof:lastmodified":1537676586,
+    "wof:lastmodified":1566677294,
     "wof:name":"La Maravilla",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-81.11076,-4.46408,-81.07076,-4.42408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226603975,
-    "wof:lastmodified":1536918494,
+    "wof:lastmodified":1566677427,
     "wof:name":"Vaqueria",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

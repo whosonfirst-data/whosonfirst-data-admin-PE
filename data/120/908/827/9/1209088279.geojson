@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.27402,-7.28838,-75.23402,-7.24838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Shihuanuaco"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209088279,
-    "wof:lastmodified":1560314252,
+    "wof:lastmodified":1566675341,
     "wof:name":"Shihuanuaco",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",

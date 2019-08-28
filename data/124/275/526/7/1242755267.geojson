@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.71242,-14.13675,-75.67242,-14.09675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pongo Chico"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242755267,
-    "wof:lastmodified":1537676726,
+    "wof:lastmodified":1566676667,
     "wof:name":"Pongo Chico",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

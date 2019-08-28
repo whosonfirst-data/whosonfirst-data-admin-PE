@@ -11,8 +11,11 @@
     "geom:longitude":-78.57833,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":316966,
+    "gn:population":316966,
     "iso:country":"PE",
+    "lbl:bbox":"-78.59833,-9.10528,-78.55833,-9.06528",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -283,12 +286,12 @@
     "wof:concordances":{
         "gn:id":3698304,
         "gp:id":418453,
-        "qs:id":1046531,
+        "qs_pg:id":1046531,
         "wd:id":"Q518431",
         "wk:page":"Chimbote"
     },
     "wof:concordances_alt":{
-        "qs:id":1191435
+        "qs_pg:id":1191435
     },
     "wof:country":"PE",
     "wof:created":1469052495,
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":890445065,
-    "wof:lastmodified":1563315446,
+    "wof:lastmodified":1566676563,
     "wof:name":"Chimbote",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

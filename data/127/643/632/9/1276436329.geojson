@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.55058,-13.31798,-75.51058,-13.27798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tocluche"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276436329,
-    "wof:lastmodified":1537676678,
+    "wof:lastmodified":1566674938,
     "wof:name":"Tocluche",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

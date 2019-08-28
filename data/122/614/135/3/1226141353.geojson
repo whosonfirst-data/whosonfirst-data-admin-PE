@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.67711,-14.84865,-73.63711,-14.80865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226141353,
-    "wof:lastmodified":1537080942,
+    "wof:lastmodified":1566677497,
     "wof:name":"Chapi",
     "wof:parent_id":1108693937,
     "wof:placetype":"locality",

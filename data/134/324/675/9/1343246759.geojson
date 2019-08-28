@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.61534,-12.84075,-72.57534,-12.80075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343246759,
-    "wof:lastmodified":1537052520,
+    "wof:lastmodified":1566674225,
     "wof:name":"Lucmapata",
     "wof:parent_id":421194085,
     "wof:placetype":"locality",

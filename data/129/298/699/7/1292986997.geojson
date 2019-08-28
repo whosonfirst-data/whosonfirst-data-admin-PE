@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.45591,-7.39744,-79.41591,-7.35744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1292986997,
-    "wof:lastmodified":1537010870,
+    "wof:lastmodified":1566674754,
     "wof:name":"Santonte",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",

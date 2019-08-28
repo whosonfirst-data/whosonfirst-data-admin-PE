@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.67476,-16.81694,-70.63476,-16.77694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276297519,
-    "wof:lastmodified":1536825885,
+    "wof:lastmodified":1566675008,
     "wof:name":"Pacagua",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

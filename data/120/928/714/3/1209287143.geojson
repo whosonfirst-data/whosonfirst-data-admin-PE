@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.91273,-11.6905,-76.87273,-11.6505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Huarabi Alto y Bajo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209287143,
-    "wof:lastmodified":1560310192,
+    "wof:lastmodified":1566675635,
     "wof:name":"Huarabi Alto y Bajo",
     "wof:parent_id":1108693965,
     "wof:placetype":"locality",

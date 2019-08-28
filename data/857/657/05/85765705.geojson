@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3771651.281374,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.121277,-12.031261,-77.121277,-12.031261",
     "geom:latitude":-12.031261,
     "geom:longitude":-77.121277,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-77.126277,-12.036261,-77.116277,-12.026261",
     "lbl:latitude":-12.031261,
     "lbl:longitude":-77.121277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.031262,
     "mps:longitude":-77.121284,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Castilla"
-    ],
-    "name:unk_x_variant":[
         "Castilla"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -58,18 +57,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":302,
     "wof:belongsto":[
+        85675817,
         102191577,
         85632521,
-        421187933,
-        85675817
+        421187933
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723516,
-        "qs:id":1109742,
         "qs_pg:id":1109742
     },
     "wof:country":"PE",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859038,
+    "wof:lastmodified":1566674471,
     "wof:name":"Castilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

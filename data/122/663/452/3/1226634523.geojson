@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.26319,-10.02771,-76.22319,-9.98771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fundo Andabamba",
         "Andabamba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226634523,
-    "wof:lastmodified":1537676881,
+    "wof:lastmodified":1566677604,
     "wof:name":"Andabamba",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

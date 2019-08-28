@@ -11,26 +11,29 @@
     "geom:longitude":-77.02838,
     "gn:country":"PE",
     "gn:fcode":"PPLX",
-    "gn:pop":1,
+    "gn:population":1,
     "iso:country":"PE",
+    "lbl:bbox":"-77.03338,-12.10066,-77.02338,-12.09066",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Chinchon",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"1",
     "src:population":"geonames",
     "wof:belongsto":[
+        1175613121,
         102191577,
         85632521,
         421186805,
-        421202549,
-        1175613121
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6930745,
-        "qs:id":652931
+        "qs_pg:id":652931
     },
     "wof:country":"PE",
     "wof:created":1469052385,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890442879,
-    "wof:lastmodified":1560310476,
+    "wof:lastmodified":1566676562,
     "wof:name":"Chinchon",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

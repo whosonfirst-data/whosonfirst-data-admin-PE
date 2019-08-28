@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.67073,-5.25921,-79.63073,-5.21921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Papayal Hacienda",
         "Papayal"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343525943,
-    "wof:lastmodified":1537676572,
+    "wof:lastmodified":1566674105,
     "wof:name":"Papayal",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

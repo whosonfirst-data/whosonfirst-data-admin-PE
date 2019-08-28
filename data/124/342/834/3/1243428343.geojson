@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.33248,-14.4219,-69.29248,-14.3819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sillarapi"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243428343,
-    "wof:lastmodified":1537677000,
+    "wof:lastmodified":1566676955,
     "wof:name":"Sillarapi",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

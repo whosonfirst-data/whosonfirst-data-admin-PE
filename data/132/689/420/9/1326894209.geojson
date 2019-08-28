@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.1728,-4.85019,-75.1328,-4.81019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urarinas",
         "Malpuco",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326894209,
-    "wof:lastmodified":1537676587,
+    "wof:lastmodified":1566673729,
     "wof:name":"Maipuco",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",

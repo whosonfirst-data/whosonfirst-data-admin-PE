@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.82133,-7.94051,-78.78133,-7.90051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041e\u043b\u0438\u0432\u0430\u0440"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1327205155,
-    "wof:lastmodified":1564161024,
+    "wof:lastmodified":1566674059,
     "wof:name":"Olivar",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

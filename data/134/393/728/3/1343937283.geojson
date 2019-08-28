@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.48407,-11.20645,-75.44407,-11.16645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343937283,
-    "wof:lastmodified":1537051352,
+    "wof:lastmodified":1566674331,
     "wof:name":"San Jose de Utcuyacu",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.30942,-6.65963,-76.26942,-6.61963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Nuevo Rioja"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293346675,
-    "wof:lastmodified":1537676929,
+    "wof:lastmodified":1566674742,
     "wof:name":"Nuevo Rioja",
     "wof:parent_id":421175177,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-13.420819,
     "geom:longitude":-71.855049,
     "iso:country":"PE",
+    "lbl:bbox":"-71.875049,-13.440819,-71.835049,-13.400819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taray"
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":419330,
-        "qs:id":1076082
+        "qs_pg:id":1076082
     },
     "wof:country":"PE",
     "wof:created":1459009803,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421194373,
-    "wof:lastmodified":1564166305,
+    "wof:lastmodified":1566676483,
     "wof:name":"Taray",
     "wof:parent_id":421175157,
     "wof:placetype":"locality",

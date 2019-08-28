@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.16384,-7.6539,-78.12384,-7.6139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Chuquibamba"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Hacienda Chuquibamba",
-        "Chuquibamba Hacienda",
-        "Chuquibamba"
+        "Chuquibamba Hacienda"
     ],
     "name:war_x_preferred":[
         "Chuquibamba"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1327021841,
-    "wof:lastmodified":1564160627,
+    "wof:lastmodified":1566673871,
     "wof:name":"Chuquibamba",
     "wof:parent_id":1108694045,
     "wof:placetype":"locality",

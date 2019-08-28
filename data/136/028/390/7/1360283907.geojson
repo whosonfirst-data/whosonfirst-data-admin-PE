@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.88779,-13.28271,-73.84779,-13.24271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neccepampa",
         "\u00d1ejepampa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360283907,
-    "wof:lastmodified":1537676748,
+    "wof:lastmodified":1566676315,
     "wof:name":"Nejepampa",
     "wof:parent_id":421202681,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.77375,-6.86298,-77.73375,-6.82298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Chaco"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1360054229,
-    "wof:lastmodified":1564165974,
+    "wof:lastmodified":1566676339,
     "wof:name":"Chaco",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

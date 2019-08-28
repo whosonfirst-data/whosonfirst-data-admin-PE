@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.71065,-16.62231,-69.67065,-16.58231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326603907,
-    "wof:lastmodified":1536880044,
+    "wof:lastmodified":1566673762,
     "wof:name":"Pucopaquita-Ancocaya",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-70.18694,
     "gn:country":"PE",
     "gn:fcode":"PPLA3",
-    "gn:pop":875,
+    "gn:population":875,
     "iso:country":"PE",
+    "lbl:bbox":"-70.20694,-17.96167,-70.16694,-17.92167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Calana"
     ],
@@ -33,7 +37,7 @@
     "name:que_x_preferred":[
         "Qalana distritu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Catana"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3946212,
         "gp:id":420205,
-        "qs:id":585946,
+        "qs_pg:id":585946,
         "wd:id":"Q3824267",
         "wk:page":"Calana District"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890434723,
-    "wof:lastmodified":1563315463,
+    "wof:lastmodified":1566676567,
     "wof:name":"Calana",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

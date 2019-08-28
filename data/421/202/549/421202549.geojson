@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-12.106357,
     "lbl:longitude":-76.875732,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lima",
     "meso:gadm_admin":"Lima",
     "meso:gadm_hasc2":"PE.LP.LI",
@@ -30,6 +32,7 @@
     "mps:longitude":-76.875732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u041b\u0438\u043c\u0430"
@@ -551,9 +554,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"2,665.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Lima",
@@ -574,7 +577,7 @@
     "wof:concordances":{
         "gp:id":26805880,
         "hasc:id":"PE.LP.LI",
-        "qs:id":224312,
+        "qs_pg:id":224312,
         "wd:id":"Q2868"
     },
     "wof:country":"PE",
@@ -589,7 +592,7 @@
         }
     ],
     "wof:id":421202549,
-    "wof:lastmodified":1563315239,
+    "wof:lastmodified":1566676491,
     "wof:name":"Lima",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

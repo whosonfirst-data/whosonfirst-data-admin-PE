@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.32583,-11.16694,-74.28583,-11.12694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerto Ocapa",
         "Puerto Ocopa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327016771,
-    "wof:lastmodified":1537676721,
+    "wof:lastmodified":1566673669,
     "wof:name":"Puerto Ocopa",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

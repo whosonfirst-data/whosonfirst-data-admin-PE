@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.3986,-16.86554,-69.3586,-16.82554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243337425,
-    "wof:lastmodified":1536962670,
+    "wof:lastmodified":1566676846,
     "wof:name":"Chambalaya",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

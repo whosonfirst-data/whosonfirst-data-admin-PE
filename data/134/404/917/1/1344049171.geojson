@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.38629,-6.38054,-79.34629,-6.34054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Angulis",
         "Angulis Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344049171,
-    "wof:lastmodified":1537676644,
+    "wof:lastmodified":1566674400,
     "wof:name":"Angulis",
     "wof:parent_id":1108693987,
     "wof:placetype":"locality",

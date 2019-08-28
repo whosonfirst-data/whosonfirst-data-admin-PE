@@ -12,8 +12,10 @@
     "gn:latitude":-12.66492,
     "gn:longitude":-76.63696,
     "iso:country":"PE",
+    "lbl:bbox":"-77.000712,-12.069972,-76.990712,-12.059972",
     "lbl:latitude":-12.064972,
     "lbl:longitude":-76.995712,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.057175,
     "mps:longitude":-76.994664,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:swe_x_preferred":[
         "El Pino"
     ],
-    "name:unk_x_variant":[
-        "El Pino"
-    ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3936456,
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -92,7 +91,7 @@
     "wof:concordances":{
         "gn:id":6303272,
         "gp:id":22723525,
-        "qs:id":352875
+        "qs_pg:id":352875
     },
     "wof:country":"PE",
     "wof:geomhash":"20a3168f2c6339869a5c5d80cfff86fa",
@@ -110,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161892,
+    "wof:lastmodified":1566674471,
     "wof:name":"El Pino",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

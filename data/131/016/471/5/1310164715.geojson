@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.83667,-4.92,-80.79667,-4.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Prado"
     ],
@@ -41,8 +45,7 @@
         "El Prado"
     ],
     "name:und_x_variant":[
-        "El Prado Hacienda",
-        "El Prado"
+        "El Prado Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310164715,
-    "wof:lastmodified":1564165465,
+    "wof:lastmodified":1566676109,
     "wof:name":"El Prado",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

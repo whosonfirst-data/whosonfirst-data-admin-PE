@@ -10,6 +10,9 @@
     "geom:latitude":-8.18846,
     "geom:longitude":-76.5125,
     "iso:country":"PE",
+    "lbl:bbox":"-76.5325,-8.20846,-76.4925,-8.16846",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -38,7 +41,7 @@
     "name:spa_x_preferred":[
         "Tocache"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan de Tocache"
     ],
     "name:war_x_preferred":[
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":3691324,
         "gp:id":416573,
-        "qs:id":1046453,
+        "qs_pg:id":1046453,
         "wd:id":"Q3344048",
         "wk:page":"Tocache"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421176497,
-    "wof:lastmodified":1561777739,
+    "wof:lastmodified":1566676545,
     "wof:name":"Tocache Nuevo",
     "wof:parent_id":421170671,
     "wof:placetype":"locality",

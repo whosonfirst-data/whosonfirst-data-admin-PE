@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.87045,-14.13801,-69.83045,-14.09801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310169445,
-    "wof:lastmodified":1536904657,
+    "wof:lastmodified":1566676113,
     "wof:name":"Ucanuma",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

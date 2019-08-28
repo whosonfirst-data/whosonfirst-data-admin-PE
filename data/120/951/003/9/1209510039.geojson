@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.40492,-9.91716,-76.36492,-9.87716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209510039,
-    "wof:lastmodified":1560311723,
+    "wof:lastmodified":1566675548,
     "wof:name":"Limapampa",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

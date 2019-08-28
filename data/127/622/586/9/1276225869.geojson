@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.585,-13.74333,-74.545,-13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276225869,
-    "wof:lastmodified":1536923523,
+    "wof:lastmodified":1566675119,
     "wof:name":"Catahuasi",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",

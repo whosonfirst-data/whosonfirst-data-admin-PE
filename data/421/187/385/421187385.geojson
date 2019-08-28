@@ -10,8 +10,12 @@
     "geom:latitude":-8.13846,
     "geom:longitude":-79.04844,
     "iso:country":"PE",
+    "lbl:bbox":"-79.06844,-8.15846,-79.02844,-8.11846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "V\u00edctor Larco Herrera jisk'a t'aqa suyu"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3690927,
         "gp:id":417629,
-        "qs:id":1082782,
+        "qs_pg:id":1082782,
         "wd:id":"Q56835"
     },
     "wof:country":"PE",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421187385,
-    "wof:lastmodified":1563315258,
+    "wof:lastmodified":1566676498,
     "wof:name":"V\u00edctor Larco Herrera",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

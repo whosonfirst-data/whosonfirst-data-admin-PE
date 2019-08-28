@@ -10,10 +10,14 @@
     "geom:latitude":-9.5119,
     "geom:longitude":-77.99637,
     "iso:country":"PE",
+    "lbl:bbox":"-78.01637,-9.5319,-77.97637,-9.4919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuat\u00e1n"
     ],
     "qs:gn_country":"PE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3690735,
         "gp:id":419412,
-        "qs:id":1046447
+        "qs_pg:id":1046447
     },
     "wof:country":"PE",
     "wof:created":1459009872,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421196181,
-    "wof:lastmodified":1501268593,
+    "wof:lastmodified":1566676526,
     "wof:name":"Yaut\u00e1n",
     "wof:parent_id":1108694019,
     "wof:placetype":"locality",

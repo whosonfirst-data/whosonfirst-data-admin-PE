@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.50087,-4.10642,-80.46087,-4.06642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cazaderos Hacienda",
         "Cazaderos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276300217,
-    "wof:lastmodified":1537676633,
+    "wof:lastmodified":1566675215,
     "wof:name":"Hacienda Cazaderos",
     "wof:parent_id":1108573397,
     "wof:placetype":"locality",

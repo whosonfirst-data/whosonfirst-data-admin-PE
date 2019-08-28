@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.36561,-13.04429,-76.32561,-13.00429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1310573801,
-    "wof:lastmodified":1564165626,
+    "wof:lastmodified":1566676182,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

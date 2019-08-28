@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.40522,-14.01199,-69.36522,-13.97199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Yanacocha"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343419627,
-    "wof:lastmodified":1564161329,
+    "wof:lastmodified":1566674204,
     "wof:name":"Yanacocha",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

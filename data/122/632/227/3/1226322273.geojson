@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.57147,-11.34253,-74.53147,-11.30253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226322273,
-    "wof:lastmodified":1536822497,
+    "wof:lastmodified":1566677447,
     "wof:name":"Jose Galvez",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

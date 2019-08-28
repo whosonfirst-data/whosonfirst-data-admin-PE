@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.01571,-15.49681,-69.97571,-15.45681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urcunimuni Hacienda",
         "Urcunimuni"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326988785,
-    "wof:lastmodified":1537676670,
+    "wof:lastmodified":1566673994,
     "wof:name":"Urcunimuni",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

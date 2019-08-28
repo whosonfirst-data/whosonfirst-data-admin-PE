@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.0547,-14.2309,-69.0147,-14.1909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lucine"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344115481,
-    "wof:lastmodified":1537677007,
+    "wof:lastmodified":1566674366,
     "wof:name":"Lucine",
     "wof:parent_id":1108693913,
     "wof:placetype":"locality",

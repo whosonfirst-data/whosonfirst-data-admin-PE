@@ -10,8 +10,12 @@
     "geom:latitude":-14.946277,
     "geom:longitude":-74.995079,
     "iso:country":"PE",
+    "lbl:bbox":"-75.015079,-14.966277,-74.975079,-14.926277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":410913,
-        "qs:id":1075981
+        "qs_pg:id":1075981
     },
     "wof:country":"PE",
     "wof:created":1459009491,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186785,
-    "wof:lastmodified":1500024473,
+    "wof:lastmodified":1566676514,
     "wof:name":"Paroma",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

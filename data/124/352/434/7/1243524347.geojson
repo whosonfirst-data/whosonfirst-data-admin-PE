@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.68728,-12.60015,-76.64728,-12.56015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda San Andres",
         "San Andr\u00e9s Hacienda",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243524347,
-    "wof:lastmodified":1560310362,
+    "wof:lastmodified":1566676629,
     "wof:name":"San Andres",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

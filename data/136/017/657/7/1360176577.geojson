@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.16001,-6.91769,-79.12001,-6.87769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Naranjo"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1360176577,
-    "wof:lastmodified":1564165907,
+    "wof:lastmodified":1566676311,
     "wof:name":"Naranjo",
     "wof:parent_id":1108693985,
     "wof:placetype":"locality",

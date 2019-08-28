@@ -10,10 +10,14 @@
     "geom:latitude":-13.525028,
     "geom:longitude":-71.972155,
     "iso:country":"PE",
+    "lbl:bbox":"-71.9921549903,-13.5450284639,-71.9521549903,-13.5050284639",
     "lbl:latitude":-13.525028,
     "lbl:longitude":-71.972155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cusco"
     ],
@@ -415,7 +419,7 @@
         }
     ],
     "wof:id":1141909347,
-    "wof:lastmodified":1563317754,
+    "wof:lastmodified":1566677692,
     "wof:name":"Cusco",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

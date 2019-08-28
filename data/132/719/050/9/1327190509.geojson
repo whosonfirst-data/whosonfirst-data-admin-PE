@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.74049,-7.08775,-76.70049,-7.04775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Divisoria"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327190509,
-    "wof:lastmodified":1537676911,
+    "wof:lastmodified":1566674018,
     "wof:name":"Divisoria",
     "wof:parent_id":1108693995,
     "wof:placetype":"locality",

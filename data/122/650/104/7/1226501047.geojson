@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.45333,-15.13667,-70.41333,-15.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sujria Hacienda",
         "Sujria"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226501047,
-    "wof:lastmodified":1537676686,
+    "wof:lastmodified":1566677463,
     "wof:name":"Sujria",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

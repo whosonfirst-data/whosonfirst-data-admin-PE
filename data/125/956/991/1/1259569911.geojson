@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.6488,-11.8352,-75.6088,-11.7952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pique"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259569911,
-    "wof:lastmodified":1564167801,
+    "wof:lastmodified":1566677205,
     "wof:name":"Pique",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

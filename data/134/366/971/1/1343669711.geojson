@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.31079,-9.49679,-78.27079,-9.45679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343669711,
-    "wof:lastmodified":1536942234,
+    "wof:lastmodified":1566674301,
     "wof:name":"San Florentino",
     "wof:parent_id":1108694019,
     "wof:placetype":"locality",

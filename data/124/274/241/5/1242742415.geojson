@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.71934,-5.34909,-79.67934,-5.30909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242742415,
-    "wof:lastmodified":1536825528,
+    "wof:lastmodified":1566676640,
     "wof:name":"Los Charanes",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

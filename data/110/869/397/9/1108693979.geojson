@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.710606,
     "lbl:longitude":-78.545996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cajamarca",
     "meso:gadm_admin":"Hualgayoc",
     "meso:gadm_hasc2":"PE.CJ.HG",
@@ -30,6 +32,7 @@
     "mps:longitude":-78.545996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hualgayoc"
     ],
@@ -37,9 +40,9 @@
         "Hualgayoc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"777.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Bambamarca",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108693979,
-    "wof:lastmodified":1553718258,
+    "wof:lastmodified":1566675934,
     "wof:name":"Hualgayoc",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

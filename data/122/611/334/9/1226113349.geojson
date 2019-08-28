@@ -25,15 +25,18 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.02695,-7.75497,-78.98695,-7.71497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sausal"
     ],
     "name:und_x_variant":[
         "Hacienda Sausal",
-        "Sausal Hacienda",
-        "Sausal"
+        "Sausal Hacienda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226113349,
-    "wof:lastmodified":1564168181,
+    "wof:lastmodified":1566677382,
     "wof:name":"Sausal",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

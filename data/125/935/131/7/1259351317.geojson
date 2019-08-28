@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.38528,-17.31001,-70.34528,-17.27001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259351317,
-    "wof:lastmodified":1537046722,
+    "wof:lastmodified":1566677173,
     "wof:name":"Carapampa",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

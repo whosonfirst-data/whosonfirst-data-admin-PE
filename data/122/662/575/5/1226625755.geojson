@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.50027,-11.60555,-75.46027,-11.56555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226625755,
-    "wof:lastmodified":1536887925,
+    "wof:lastmodified":1566677629,
     "wof:name":"Chajlla",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

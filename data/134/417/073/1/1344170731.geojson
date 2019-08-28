@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.01861,-6.13139,-77.97861,-6.09139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344170731,
-    "wof:lastmodified":1536716731,
+    "wof:lastmodified":1566674363,
     "wof:name":"Cashgalon",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",

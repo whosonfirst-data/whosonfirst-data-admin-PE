@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.85471,-10.8766,-76.81471,-10.8366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sin Pescado",
         "Huacho Sin Pescado"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209989107,
-    "wof:lastmodified":1560310211,
+    "wof:lastmodified":1566675307,
     "wof:name":"Huacho Sin Pescado",
     "wof:parent_id":1108693951,
     "wof:placetype":"locality",

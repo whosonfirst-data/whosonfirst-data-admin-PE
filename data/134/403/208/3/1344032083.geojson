@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.30042,-5.0505,-80.26042,-5.0105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Callejones"
     ],
     "name:und_x_variant":[
-        "Callejones de los Chuacas",
-        "Callejones"
+        "Callejones de los Chuacas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1344032083,
-    "wof:lastmodified":1564161727,
+    "wof:lastmodified":1566674390,
     "wof:name":"Callejones",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

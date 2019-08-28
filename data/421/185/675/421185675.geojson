@@ -10,8 +10,12 @@
     "geom:latitude":-14.47788,
     "geom:longitude":-70.63583,
     "iso:country":"PE",
+    "lbl:bbox":"-70.65583,-14.49788,-70.61583,-14.45788",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Nu\u00f1uwa jisk'a t'aqa suyu"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Distrito de Nu\u00f1oa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d1u\u00f1oa"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3934233,
         "gp:id":419060,
-        "qs:id":899845,
+        "qs_pg:id":899845,
         "wd:id":"Q3825557",
         "wk:page":"Nu\u00f1oa District"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421185675,
-    "wof:lastmodified":1563315402,
+    "wof:lastmodified":1566676549,
     "wof:name":"Nu\u00f1oa",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",

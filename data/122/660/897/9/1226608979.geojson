@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.89206,-5.13726,-73.85206,-5.09726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caserio Soledad",
         "Santa Soledad",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226608979,
-    "wof:lastmodified":1537676544,
+    "wof:lastmodified":1566677429,
     "wof:name":"Santa Soledad",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

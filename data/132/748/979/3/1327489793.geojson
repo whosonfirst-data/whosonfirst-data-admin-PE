@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.65942,-7.10355,-76.61942,-7.06355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Cruce"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327489793,
-    "wof:lastmodified":1537676910,
+    "wof:lastmodified":1566673856,
     "wof:name":"El Cruce",
     "wof:parent_id":1108693995,
     "wof:placetype":"locality",

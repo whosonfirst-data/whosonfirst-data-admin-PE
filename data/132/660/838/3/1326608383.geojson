@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.85372,-9.86992,-76.81372,-9.82992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326608383,
-    "wof:lastmodified":1536873331,
+    "wof:lastmodified":1566673768,
     "wof:name":"Huishllac",
     "wof:parent_id":421176081,
     "wof:placetype":"locality",

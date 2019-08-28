@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.709,-6.71979,-76.669,-6.67979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bermudez"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360043697,
-    "wof:lastmodified":1564165970,
+    "wof:lastmodified":1566676337,
     "wof:name":"Bermudez",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

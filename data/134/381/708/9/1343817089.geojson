@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-81.1891,-5.15303,-81.1491,-5.11303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343817089,
-    "wof:lastmodified":1536729727,
+    "wof:lastmodified":1566674442,
     "wof:name":"Yasila",
     "wof:parent_id":1108693973,
     "wof:placetype":"locality",

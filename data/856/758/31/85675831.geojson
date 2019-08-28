@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":-3.874742,
     "lbl:longitude":-80.613935,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tumbes",
     "mps:latitude":-3.841117,
     "mps:longitude":-80.610151,
@@ -194,7 +195,7 @@
         "Tumbes"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c02\u0c2c\u0c46\u0c38\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -208,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Litoral de Tumbes"
     ],
     "name:urd_x_preferred":[
@@ -295,9 +296,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-10-21",
+    "src:population_date":"2007-10-21",
     "statoids:area_km":"4,669",
     "statoids:area_mi":"1,803",
     "statoids:as_of_date":"2007-10-21",
@@ -322,7 +323,7 @@
         "gp:id":2346491,
         "hasc:id":"PE.TU",
         "iso:id":"PE-TUM",
-        "qs:id":1083857,
+        "qs_pg:id":1083857,
         "unlc:id":"PE-TUM",
         "wd:id":"Q209597",
         "wk:page":"Tumbes Region"
@@ -345,7 +346,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565732275,
+    "wof:lastmodified":1566674484,
     "wof:name":"Tumbes",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

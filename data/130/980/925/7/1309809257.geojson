@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-72.15438,-15.12589,-72.11438,-15.08589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Arca"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309809257,
-    "wof:lastmodified":1537676865,
+    "wof:lastmodified":1566676450,
     "wof:name":"Arca",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

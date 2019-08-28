@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.4614,-15.40109,-69.4214,-15.36109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chasquiocco"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277135543,
-    "wof:lastmodified":1537676837,
+    "wof:lastmodified":1566675079,
     "wof:name":"Chasquiocco",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

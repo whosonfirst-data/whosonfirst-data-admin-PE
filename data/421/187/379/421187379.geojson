@@ -10,10 +10,14 @@
     "geom:latitude":-14.98333,
     "geom:longitude":-74.65,
     "iso:country":"PE",
+    "lbl:bbox":"-74.67,-15.00333,-74.63,-14.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huarangullo"
     ],
     "qs:gn_country":"PE",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3939252,
         "gp:id":399612,
-        "qs:id":1082778
+        "qs_pg:id":1082778
     },
     "wof:country":"PE",
     "wof:created":1459009511,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421187379,
-    "wof:lastmodified":1501269448,
+    "wof:lastmodified":1566676498,
     "wof:name":"Changuillo",
     "wof:parent_id":421180077,
     "wof:placetype":"locality",

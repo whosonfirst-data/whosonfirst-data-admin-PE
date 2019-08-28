@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.01465,-11.84213,-75.97465,-11.80213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0627"
     ],
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1242861203,
-    "wof:lastmodified":1564166585,
+    "wof:lastmodified":1566676659,
     "wof:name":"Paca",
     "wof:parent_id":421182239,
     "wof:placetype":"locality",

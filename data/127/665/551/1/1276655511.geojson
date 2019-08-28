@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.91436,-13.65026,-73.87436,-13.61026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276655511,
-    "wof:lastmodified":1536843024,
+    "wof:lastmodified":1566675234,
     "wof:name":"Carcapellana",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

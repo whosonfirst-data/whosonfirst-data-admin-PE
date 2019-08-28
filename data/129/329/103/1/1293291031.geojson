@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.16924,-13.23984,-74.12924,-13.19984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Raimina"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293291031,
-    "wof:lastmodified":1537676805,
+    "wof:lastmodified":1566674806,
     "wof:name":"Raimina",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

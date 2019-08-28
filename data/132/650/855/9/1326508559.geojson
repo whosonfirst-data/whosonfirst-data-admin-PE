@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.86285,-9.19066,-75.82285,-9.15066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Francisco Herrera"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326508559,
-    "wof:lastmodified":1564160496,
+    "wof:lastmodified":1566673804,
     "wof:name":"Francisco Herrera",
     "wof:parent_id":421187925,
     "wof:placetype":"locality",

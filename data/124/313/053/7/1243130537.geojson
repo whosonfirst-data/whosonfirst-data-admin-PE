@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.74161,-7.07061,-76.70161,-7.03061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u062f\u0644\u0641\u064a\u0627"
     ],
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1243130537,
-    "wof:lastmodified":1564166837,
+    "wof:lastmodified":1566676765,
     "wof:name":"Filadelfia",
     "wof:parent_id":1108693995,
     "wof:placetype":"locality",

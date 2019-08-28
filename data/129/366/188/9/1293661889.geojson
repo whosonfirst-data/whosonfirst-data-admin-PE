@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.83757,-12.01067,-76.79757,-11.97067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huascata Hacienda",
         "Huascata"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293661889,
-    "wof:lastmodified":1560310407,
+    "wof:lastmodified":1566674688,
     "wof:name":"Huascata",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

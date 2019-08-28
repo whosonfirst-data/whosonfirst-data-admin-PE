@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.42299,-5.43591,-79.38299,-5.39591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tjek"
     ],
@@ -245,7 +249,7 @@
         }
     ],
     "wof:id":1243237835,
-    "wof:lastmodified":1564166798,
+    "wof:lastmodified":1566676751,
     "wof:name":"Cheque",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

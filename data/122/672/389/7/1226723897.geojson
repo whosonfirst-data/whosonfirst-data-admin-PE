@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.4816,-15.25756,-69.4416,-15.21756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puncocuyo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226723897,
-    "wof:lastmodified":1537676719,
+    "wof:lastmodified":1566677299,
     "wof:name":"Puncocuyo",
     "wof:parent_id":421183861,
     "wof:placetype":"locality",

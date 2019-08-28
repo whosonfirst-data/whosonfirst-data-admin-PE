@@ -10,8 +10,12 @@
     "geom:latitude":-6.616,
     "geom:longitude":-76.69332,
     "iso:country":"PE",
+    "lbl:bbox":"-76.71332,-6.636,-76.67332,-6.596",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "San Jusiya Sisa jisk'a t'aqa suyu"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Distrito de San Jos\u00e9 de Sisa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sisa"
     ],
     "name:war_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3692464,
         "gp:id":414136,
-        "qs:id":251826,
+        "qs_pg:id":251826,
         "wd:id":"Q11034041"
     },
     "wof:country":"PE",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421205011,
-    "wof:lastmodified":1561777724,
+    "wof:lastmodified":1566676493,
     "wof:name":"San Jos\u00e9 de Sisa",
     "wof:parent_id":1108693997,
     "wof:placetype":"locality",

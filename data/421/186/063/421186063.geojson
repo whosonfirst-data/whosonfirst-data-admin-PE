@@ -10,8 +10,12 @@
     "geom:latitude":-13.12462,
     "geom:longitude":-72.51869,
     "iso:country":"PE",
+    "lbl:bbox":"-72.53869,-13.14462,-72.49869,-13.10462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mirador"
@@ -80,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":420388,
-        "qs:id":1058219
+        "qs_pg:id":1058219
     },
     "wof:country":"PE",
     "wof:created":1459009463,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421186063,
-    "wof:lastmodified":1564166336,
+    "wof:lastmodified":1566676513,
     "wof:name":"Mirador",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

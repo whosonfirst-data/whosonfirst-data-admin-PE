@@ -11,10 +11,14 @@
     "geom:longitude":-75.28143,
     "gn:country":"PE",
     "gn:fcode":"PPL",
-    "gn:pop":8772,
+    "gn:population":8772,
     "iso:country":"PE",
+    "lbl:bbox":"-75.30143,-11.96859,-75.26143,-11.92859",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Jer\u00f3nimo"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "San Jer\u00f3nimo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jer\u00f3nimo de Tun\u00e1n"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3929611,
         "gp:id":419188,
-        "qs:id":150989,
+        "qs_pg:id":150989,
         "wk:page":"San Jer\u00f3nimo"
     },
     "wof:country":"PE",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890435251,
-    "wof:lastmodified":1564166390,
+    "wof:lastmodified":1566676570,
     "wof:name":"San Jer\u00f3nimo",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

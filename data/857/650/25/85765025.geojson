@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3296775.287195,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.555126,-16.401938,-71.555126,-16.401938",
     "geom:latitude":-16.401938,
     "geom:longitude":-71.555126,
-    "gn:gn_country":"PE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.39417,
     "gn:longitude":-71.56111,
+    "gn:population":0,
     "iso:country":"PE",
+    "lbl:bbox":"-71.560126,-16.406938,-71.550126,-16.396938",
     "lbl:latitude":-16.401938,
     "lbl:longitude":-71.555126,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-16.400577,
     "mps:longitude":-71.558527,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Pachakuti"
     ],
     "name:spa_x_preferred":[
-        "Pachacutec"
-    ],
-    "name:unk_x_variant":[
         "Pachacutec"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":74,
     "wof:belongsto":[
         85675839,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3933717,
         "gp:id":410068,
-        "qs:id":475431,
         "qs_pg:id":475431
     },
     "wof:country":"PE",
@@ -116,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379397,
+    "wof:lastmodified":1566674473,
     "wof:name":"Pachacutec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

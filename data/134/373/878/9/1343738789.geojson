@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.82647,-11.91007,-74.78647,-11.87007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343738789,
-    "wof:lastmodified":1536841145,
+    "wof:lastmodified":1566674420,
     "wof:name":"Barrioputa",
     "wof:parent_id":1108694037,
     "wof:placetype":"locality",

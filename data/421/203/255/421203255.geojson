@@ -10,8 +10,11 @@
     "geom:latitude":-12.039404,
     "geom:longitude":-77.006864,
     "iso:country":"PE",
+    "lbl:bbox":"-77.011864,-12.044404,-77.001864,-12.034404",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u0646\u0643\u0627\u0634\u0648"
@@ -171,7 +174,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723521,
-        "qs:id":230468
+        "qs_pg:id":230468
     },
     "wof:country":"PE",
     "wof:created":1459010145,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421203255,
-    "wof:lastmodified":1564166315,
+    "wof:lastmodified":1566676489,
     "wof:name":"Huancayo",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

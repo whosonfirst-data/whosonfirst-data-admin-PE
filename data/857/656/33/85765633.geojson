@@ -11,8 +11,10 @@
     "geom:longitude":-77.031407,
     "gn:id":"",
     "iso:country":"PE",
+    "lbl:bbox":"-77.036407,-12.053105,-77.026407,-12.043105",
     "lbl:latitude":-12.048105,
     "lbl:longitude":-77.031407,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.031263,
     "mps:longitude":-77.030884,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Cercado"
     ],
-    "name:unk_x_variant":[
-        "Cercado"
-    ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_id":0,
     "qs:gn_local":3936456,
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1175613121,
         102191577,
@@ -96,7 +95,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723452,
-        "qs:id":1061903,
         "qs_pg:id":1061903
     },
     "wof:country":"PE",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564161889,
+    "wof:lastmodified":1566674470,
     "wof:name":"Cercado",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

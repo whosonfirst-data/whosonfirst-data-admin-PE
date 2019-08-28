@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.58518,-10.98919,-69.54518,-10.94919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Tres Fronteras"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209069669,
-    "wof:lastmodified":1564163810,
+    "wof:lastmodified":1566675332,
     "wof:name":"Tres Fronteras",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

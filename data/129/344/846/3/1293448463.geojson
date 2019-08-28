@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.15268,-15.90824,-70.11268,-15.86824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293448463,
-    "wof:lastmodified":1536842444,
+    "wof:lastmodified":1566674890,
     "wof:name":"Matuyo",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

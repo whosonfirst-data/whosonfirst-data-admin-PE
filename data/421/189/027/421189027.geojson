@@ -10,8 +10,12 @@
     "geom:latitude":-11.947157,
     "geom:longitude":-77.062202,
     "iso:country":"PE",
+    "lbl:bbox":"-77.082202,-11.967157,-77.042202,-11.927157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Mar\u00eda Sabina"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723463,
-        "qs:id":1109741
+        "qs_pg:id":1109741
     },
     "wof:country":"PE",
     "wof:created":1459009602,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421189027,
-    "wof:lastmodified":1560310334,
+    "wof:lastmodified":1566676505,
     "wof:name":"Santa Luzmila",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

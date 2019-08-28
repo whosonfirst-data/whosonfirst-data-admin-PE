@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.24093,-14.46271,-75.20093,-14.42271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360262473,
-    "wof:lastmodified":1536689922,
+    "wof:lastmodified":1566676330,
     "wof:name":"Locari",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.89011,-13.57672,-73.85011,-13.53672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1210009567,
-    "wof:lastmodified":1536369926,
+    "wof:lastmodified":1566675666,
     "wof:name":"Visocc",
     "wof:parent_id":1108693943,
     "wof:placetype":"locality",

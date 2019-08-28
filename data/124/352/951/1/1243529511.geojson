@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.16979,-10.50301,-76.12979,-10.46301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243529511,
-    "wof:lastmodified":1536685865,
+    "wof:lastmodified":1566676627,
     "wof:name":"Ninao",
     "wof:parent_id":421194849,
     "wof:placetype":"locality",

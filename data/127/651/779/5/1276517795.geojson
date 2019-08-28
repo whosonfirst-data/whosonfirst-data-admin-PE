@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.7544,-5.93102,-79.7144,-5.89102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trapig"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276517795,
-    "wof:lastmodified":1564163086,
+    "wof:lastmodified":1566675024,
     "wof:name":"Trapiche",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

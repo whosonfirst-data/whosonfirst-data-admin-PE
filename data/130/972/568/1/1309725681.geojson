@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.55431,-5.65311,-78.51431,-5.61311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aym_x_preferred":[
         "Bagua"
     ],
@@ -74,8 +78,7 @@
         "\u0411\u0430\u0433\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Bagua Chica",
-        "Bagua"
+        "Bagua Chica"
     ],
     "name:war_x_preferred":[
         "Bagua"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1309725681,
-    "wof:lastmodified":1564166284,
+    "wof:lastmodified":1566676468,
     "wof:name":"Bagua",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

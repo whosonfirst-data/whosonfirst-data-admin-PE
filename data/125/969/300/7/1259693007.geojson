@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.4872,-6.00432,-78.4472,-5.96432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Nueva York"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259693007,
-    "wof:lastmodified":1537676925,
+    "wof:lastmodified":1566677213,
     "wof:name":"Nueva York",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-14.269023,
     "lbl:longitude":-75.608961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ica",
     "meso:gadm_admin":"Ica",
     "meso:gadm_hasc2":"PE.IC.IC",
@@ -30,6 +32,7 @@
     "mps:longitude":-75.608961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u064a\u0643\u0627"
@@ -70,7 +73,7 @@
     "name:que_x_preferred":[
         "Ika pruwinsya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Ica"
     ],
     "name:war_x_preferred":[
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-07-11",
+    "src:population_date":"1993-07-11",
     "statoids:area_km":"7,894.0",
     "statoids:as_of_date":"1993-07-11",
     "statoids:capital":"Ica",
@@ -127,7 +130,7 @@
         "gn:id":3925316,
         "gp:id":26805865,
         "hasc:id":"PE.IC.IC",
-        "qs:id":902686,
+        "qs_pg:id":902686,
         "wd:id":"Q2084696",
         "wk:page":"Ica Province"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421182363,
-    "wof:lastmodified":1563315372,
+    "wof:lastmodified":1566676543,
     "wof:name":"Ica",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

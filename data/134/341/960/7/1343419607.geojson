@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.89515,-14.24286,-69.85515,-14.20286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343419607,
-    "wof:lastmodified":1536805208,
+    "wof:lastmodified":1566674206,
     "wof:name":"Tambillo",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

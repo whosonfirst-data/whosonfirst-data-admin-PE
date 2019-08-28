@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.80619,-8.35997,-73.76619,-8.31997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nov\u00e1 Galicie"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1326787445,
-    "wof:lastmodified":1564160749,
+    "wof:lastmodified":1566673922,
     "wof:name":"Nueva Galicia",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.35321,-11.55879,-69.31321,-11.51879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Noa"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293353713,
-    "wof:lastmodified":1564162373,
+    "wof:lastmodified":1566674709,
     "wof:name":"Noa",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",

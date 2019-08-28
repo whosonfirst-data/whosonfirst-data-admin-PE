@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.52809,-14.64037,-71.48809,-14.60037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225928627,
-    "wof:lastmodified":1536893912,
+    "wof:lastmodified":1566677287,
     "wof:name":"Ninahuasi",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

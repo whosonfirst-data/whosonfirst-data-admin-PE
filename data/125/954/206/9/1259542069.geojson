@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.98444,-13.96975,-69.94444,-13.92975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tahuana"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259542069,
-    "wof:lastmodified":1537677008,
+    "wof:lastmodified":1566677012,
     "wof:name":"Tahuana",
     "wof:parent_id":421183857,
     "wof:placetype":"locality",

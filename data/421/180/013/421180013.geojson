@@ -10,8 +10,12 @@
     "geom:latitude":-14.07064,
     "geom:longitude":-75.11603,
     "iso:country":"PE",
+    "lbl:bbox":"-75.13603,-14.09064,-75.09603,-14.05064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Palpa"
@@ -72,7 +76,9 @@
     "wof:concordances":{
         "gn:id":3933345,
         "gp:id":418565,
-        "qs:id":475465,
+        "qs_pg:id":475465
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1047300
     },
     "wof:country":"PE",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421180013,
-    "wof:lastmodified":1564166319,
+    "wof:lastmodified":1566676495,
     "wof:name":"Palpa",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",

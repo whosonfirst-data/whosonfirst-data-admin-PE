@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.21153,-10.2632,-77.17153,-10.2232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326938187,
-    "wof:lastmodified":1536895974,
+    "wof:lastmodified":1566673775,
     "wof:name":"Saucan",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

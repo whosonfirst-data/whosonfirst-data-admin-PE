@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.97154,-5.19649,-79.93154,-5.15649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Luis"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1225903359,
-    "wof:lastmodified":1564168386,
+    "wof:lastmodified":1566677485,
     "wof:name":"San Luis",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

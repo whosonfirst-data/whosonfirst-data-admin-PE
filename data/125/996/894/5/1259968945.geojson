@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.75114,-12.93547,-74.71114,-12.89547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259968945,
-    "wof:lastmodified":1536656162,
+    "wof:lastmodified":1566677026,
     "wof:name":"Cashacancha",
     "wof:parent_id":421188721,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.62889,-12.42139,-75.58889,-12.38139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226215203,
-    "wof:lastmodified":1560310227,
+    "wof:lastmodified":1566677337,
     "wof:name":"Verdec",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",

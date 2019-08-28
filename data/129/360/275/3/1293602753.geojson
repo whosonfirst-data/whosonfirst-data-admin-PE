@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-78.3961,-5.7078,-78.3561,-5.6678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293602753,
-    "wof:lastmodified":1536618750,
+    "wof:lastmodified":1566674741,
     "wof:name":"San Juan de La Libertad",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

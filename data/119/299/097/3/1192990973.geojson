@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.27888,-11.58942,-77.23888,-11.54942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chacarilla Hacienda",
         "Chacarilla"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192990973,
-    "wof:lastmodified":1560310144,
+    "wof:lastmodified":1566675751,
     "wof:name":"Chacarilla",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

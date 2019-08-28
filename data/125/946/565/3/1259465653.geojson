@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.412,-13.03851,-76.372,-12.99851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Mina"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259465653,
-    "wof:lastmodified":1564167565,
+    "wof:lastmodified":1566677095,
     "wof:name":"La Mina",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

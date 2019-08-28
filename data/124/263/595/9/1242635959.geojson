@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.53317,-15.70285,-70.49317,-15.66285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maravillas"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242635959,
-    "wof:lastmodified":1564167221,
+    "wof:lastmodified":1566676933,
     "wof:name":"Maravillas",
     "wof:parent_id":421167831,
     "wof:placetype":"locality",

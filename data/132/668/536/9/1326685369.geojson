@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-80.5236,-3.61186,-80.4836,-3.57186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cabaniellas"
     ],
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":1326685369,
-    "wof:lastmodified":1564160474,
+    "wof:lastmodified":1566673796,
     "wof:name":"Cabanillas",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.67887,-12.07675,-74.63887,-12.03675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343658279,
-    "wof:lastmodified":1536958178,
+    "wof:lastmodified":1566674068,
     "wof:name":"Jatun Pampa",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

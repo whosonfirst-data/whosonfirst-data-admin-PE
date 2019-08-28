@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-71.84759,-13.92791,-71.80759,-13.88791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pampacucho Pueblo",
         "Pampacucho"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326725549,
-    "wof:lastmodified":1537676737,
+    "wof:lastmodified":1566673712,
     "wof:name":"Pampacucho",
     "wof:parent_id":421194639,
     "wof:placetype":"locality",

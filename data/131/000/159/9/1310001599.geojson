@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-75.01415,-12.76347,-74.97415,-12.72347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310001599,
-    "wof:lastmodified":1536648642,
+    "wof:lastmodified":1566676019,
     "wof:name":"Rupacancha",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

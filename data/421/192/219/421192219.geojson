@@ -10,8 +10,12 @@
     "geom:latitude":-11.37278,
     "geom:longitude":-76.79833,
     "iso:country":"PE",
+    "lbl:bbox":"-76.81833,-11.39278,-76.77833,-11.35278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Perla"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "La Perla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perla Alta"
     ],
     "qs:gn_country":"PE",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3936920,
         "gp:id":406896,
-        "qs:id":1165425
+        "qs_pg:id":1165425
     },
     "wof:country":"PE",
     "wof:created":1459009729,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421192219,
-    "wof:lastmodified":1564166297,
+    "wof:lastmodified":1566676476,
     "wof:name":"La Perla",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

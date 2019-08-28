@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.07408,-13.68884,-76.03408,-13.64884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toscania Hacienda",
         "Toscania"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225832829,
-    "wof:lastmodified":1537676676,
+    "wof:lastmodified":1566677689,
     "wof:name":"Toscania",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

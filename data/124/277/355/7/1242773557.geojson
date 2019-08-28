@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.63055,-12.16161,-74.59055,-12.12161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242773557,
-    "wof:lastmodified":1536781950,
+    "wof:lastmodified":1566676875,
     "wof:name":"Sarpopampa",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

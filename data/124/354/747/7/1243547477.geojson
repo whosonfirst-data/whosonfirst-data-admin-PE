@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.62639,-14.12028,-73.58639,-14.08028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243547477,
-    "wof:lastmodified":1536660034,
+    "wof:lastmodified":1566676598,
     "wof:name":"Huasaquilla",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",

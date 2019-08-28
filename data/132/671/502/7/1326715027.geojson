@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.88371,-12.50884,-73.84371,-12.46884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sevita Alta"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326715027,
-    "wof:lastmodified":1537676921,
+    "wof:lastmodified":1566673911,
     "wof:name":"Sevita Alta",
     "wof:parent_id":421194081,
     "wof:placetype":"locality",

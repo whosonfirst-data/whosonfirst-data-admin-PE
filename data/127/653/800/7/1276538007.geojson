@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.66697,-12.46953,-74.62697,-12.42953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276538007,
-    "wof:lastmodified":1537000946,
+    "wof:lastmodified":1566675249,
     "wof:name":"Tacsana",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

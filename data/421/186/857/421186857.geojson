@@ -10,8 +10,12 @@
     "geom:latitude":-9.121631,
     "geom:longitude":-76.978883,
     "iso:country":"PE",
+    "lbl:bbox":"-76.9988835,-9.1416305,-76.9588835,-9.1016305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":419425,
-        "qs:id":1076102
+        "qs_pg:id":1076102
     },
     "wof:country":"PE",
     "wof:created":1459009494,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186857,
-    "wof:lastmodified":1500022656,
+    "wof:lastmodified":1566676513,
     "wof:name":"Aczo",
     "wof:parent_id":1108694017,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-70.24833,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":280098,
+    "gn:population":280098,
     "iso:country":"PE",
+    "lbl:bbox":"-70.26833,-18.02556,-70.22833,-17.98556",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -298,7 +301,7 @@
     "wof:concordances":{
         "gn:id":3928128,
         "gp:id":418462,
-        "qs:id":1047241,
+        "qs_pg:id":1047241,
         "wd:id":"Q272795",
         "wk:page":"Tacna"
     },
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":890445181,
-    "wof:lastmodified":1563315451,
+    "wof:lastmodified":1566676564,
     "wof:name":"Tacna",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-77.77354,-7.63658,-77.73354,-7.59658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Victoria",
         "Llautobamba",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259865541,
-    "wof:lastmodified":1537676649,
+    "wof:lastmodified":1566677264,
     "wof:name":"Hacienda Victoria",
     "wof:parent_id":421177079,
     "wof:placetype":"locality",

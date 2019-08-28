@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-73.65515,-15.7134,-73.61515,-15.6734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226042431,
-    "wof:lastmodified":1536730304,
+    "wof:lastmodified":1566677433,
     "wof:name":"La Encanada",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

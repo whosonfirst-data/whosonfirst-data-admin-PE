@@ -10,8 +10,12 @@
     "geom:latitude":-4.26851,
     "geom:longitude":-81.21719,
     "iso:country":"PE",
+    "lbl:bbox":"-81.23719,-4.28851,-81.19719,-4.24851",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "El Alto"
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":3697441,
         "gp:id":418831,
-        "qs:id":150209
+        "qs_pg:id":150209
     },
     "wof:country":"PE",
     "wof:created":1459008743,
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":421167797,
-    "wof:lastmodified":1564166312,
+    "wof:lastmodified":1566676486,
     "wof:name":"El Alto",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

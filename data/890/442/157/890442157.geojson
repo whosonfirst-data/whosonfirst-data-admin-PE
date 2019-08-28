@@ -11,8 +11,11 @@
     "geom:longitude":-74.55387,
     "gn:country":"PE",
     "gn:fcode":"PPLA",
-    "gn:pop":310750,
+    "gn:population":310750,
     "iso:country":"PE",
+    "lbl:bbox":"-74.57387,-8.39915,-74.53387,-8.35915",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -169,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043a\u0430\u043b\u044c\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Callaria"
     ],
     "name:urd_x_preferred":[
@@ -302,7 +305,7 @@
     "wof:concordances":{
         "gn:id":3693345,
         "gp:id":12515216,
-        "qs:id":274509,
+        "qs_pg:id":274509,
         "wd:id":"Q217071",
         "wk:page":"Pucallpa"
     },
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":890442157,
-    "wof:lastmodified":1563315434,
+    "wof:lastmodified":1566676560,
     "wof:name":"Pucallpa",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-70.27394,-17.34389,-70.23394,-17.30389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1260035927,
-    "wof:lastmodified":1564165064,
+    "wof:lastmodified":1566675901,
     "wof:name":"San Isidro",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

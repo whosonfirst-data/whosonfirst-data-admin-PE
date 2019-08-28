@@ -10,8 +10,12 @@
     "geom:latitude":-4.9,
     "geom:longitude":-80.68333,
     "iso:country":"PE",
+    "lbl:bbox":"-80.70333,-4.92,-80.66333,-4.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bellavista"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3699368,
         "gp:id":397449,
-        "qs:id":908659
+        "qs_pg:id":908659
     },
     "wof:country":"PE",
     "wof:created":1459009463,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421186055,
-    "wof:lastmodified":1564166336,
+    "wof:lastmodified":1566676513,
     "wof:name":"Bellavista",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

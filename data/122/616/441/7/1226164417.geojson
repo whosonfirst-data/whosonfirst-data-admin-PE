@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.25435,-7.27205,-79.21435,-7.23205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pay Pay"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226164417,
-    "wof:lastmodified":1537676571,
+    "wof:lastmodified":1566677375,
     "wof:name":"Pay Pay",
     "wof:parent_id":1108694039,
     "wof:placetype":"locality",

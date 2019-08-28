@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-79.08683,-6.24246,-79.04683,-6.20246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Nule"
     ],
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":1259780749,
-    "wof:lastmodified":1564167588,
+    "wof:lastmodified":1566677104,
     "wof:name":"Nule",
     "wof:parent_id":1108693977,
     "wof:placetype":"locality",

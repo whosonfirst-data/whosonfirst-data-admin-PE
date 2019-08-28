@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-69.12678,-12.537,-69.08678,-12.497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Tormenta"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209791797,
-    "wof:lastmodified":1564163997,
+    "wof:lastmodified":1566675408,
     "wof:name":"Tormenta",
     "wof:parent_id":1108693891,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-74.63835,-13.91125,-74.59835,-13.87125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Sora"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1293593659,
-    "wof:lastmodified":1564162307,
+    "wof:lastmodified":1566674680,
     "wof:name":"Sora",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",

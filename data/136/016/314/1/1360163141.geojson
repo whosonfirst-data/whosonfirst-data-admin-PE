@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Lima",
     "iso:country":"PE",
+    "lbl:bbox":"-76.66198,-9.8337,-76.62198,-9.7937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u041e\u0449\u0445\u044b"
     ],
@@ -506,7 +510,7 @@
         }
     ],
     "wof:id":1360163141,
-    "wof:lastmodified":1564165876,
+    "wof:lastmodified":1566676298,
     "wof:name":"Rain",
     "wof:parent_id":421194939,
     "wof:placetype":"locality",
