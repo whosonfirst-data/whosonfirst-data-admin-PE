@@ -253,6 +253,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009528,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0507c4c91140fa3c11a4c1f568903d27",
     "wof:hierarchy":[
         {
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":421187933,
-    "wof:lastmodified":1566676499,
+    "wof:lastmodified":1582343537,
     "wof:name":"Callao",
     "wof:parent_id":85675817,
     "wof:placetype":"county",

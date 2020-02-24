@@ -134,6 +134,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8205edc5a69cd15648f219469132f55d",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421175159,
-    "wof:lastmodified":1566676519,
+    "wof:lastmodified":1582343541,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

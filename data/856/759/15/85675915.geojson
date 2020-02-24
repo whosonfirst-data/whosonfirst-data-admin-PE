@@ -341,6 +341,9 @@
         "wk:page":"Ica Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49e18ee12f66c59318efcdf1f39f6be1",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674499,
+    "wof:lastmodified":1582343496,
     "wof:name":"Ica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

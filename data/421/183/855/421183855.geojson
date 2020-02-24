@@ -130,6 +130,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ab5d9599e49a5cf5a86d1e28ab46a6c",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421183855,
-    "wof:lastmodified":1566676542,
+    "wof:lastmodified":1582343550,
     "wof:name":"Acobamba",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

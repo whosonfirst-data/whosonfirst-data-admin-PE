@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009793,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9a36911a5676b215da70e13afd4a066",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421194077,
-    "wof:lastmodified":1566676479,
+    "wof:lastmodified":1582343530,
     "wof:name":"Carhuaz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

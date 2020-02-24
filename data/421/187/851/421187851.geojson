@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2081bae5f4b8a73ed7836322bb4b38a2",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421187851,
-    "wof:lastmodified":1566676497,
+    "wof:lastmodified":1582343536,
     "wof:name":"Huari",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

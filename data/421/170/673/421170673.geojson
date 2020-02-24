@@ -143,6 +143,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008863,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3be76224c3a473b0636e8f37efd82c7",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421170673,
-    "wof:lastmodified":1566676535,
+    "wof:lastmodified":1582343547,
     "wof:name":"Tayacaja",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

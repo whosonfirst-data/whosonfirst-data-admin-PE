@@ -143,6 +143,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6666d18565657ff2db7427a6544fbb44",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421188721,
-    "wof:lastmodified":1566676508,
+    "wof:lastmodified":1582343539,
     "wof:name":"Angaraes",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

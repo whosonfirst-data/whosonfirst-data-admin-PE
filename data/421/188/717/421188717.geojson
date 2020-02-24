@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26bf45935ce106ab93a5b8c02268431d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421188717,
-    "wof:lastmodified":1566676509,
+    "wof:lastmodified":1582343539,
     "wof:name":"Otuzco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

@@ -81,6 +81,10 @@
         "qs_pg:id":896284
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85066f2078cd062b031886be46fc1b71",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674469,
+    "wof:lastmodified":1582343475,
     "wof:name":"La Encantada",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009525,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcb066d7d1c0bcb2d9d8a6900e3f0f9d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421187839,
-    "wof:lastmodified":1566676501,
+    "wof:lastmodified":1582343537,
     "wof:name":"Canas",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

@@ -225,6 +225,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008690,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ef61cea4525c4eaae77aaa5ff3cab94",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421166429,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1582343529,
     "wof:name":"Ayacucho",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

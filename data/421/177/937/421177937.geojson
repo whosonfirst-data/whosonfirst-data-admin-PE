@@ -149,6 +149,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009165,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b27c1ec6f346e2f6e654e5ac3321b13b",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421177937,
-    "wof:lastmodified":1566676539,
+    "wof:lastmodified":1582343549,
     "wof:name":"Huaytar\u00e1",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

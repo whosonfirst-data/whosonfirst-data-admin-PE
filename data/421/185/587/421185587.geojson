@@ -115,6 +115,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009448,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4f0b683a1869852622155c12bd279f3",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421185587,
-    "wof:lastmodified":1566676550,
+    "wof:lastmodified":1582343554,
     "wof:name":"Ilo",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

@@ -337,6 +337,9 @@
         "wk:page":"San Mart\u00edn Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce47d69eed0b59a4a6f4532ce30acb02",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674493,
+    "wof:lastmodified":1582343492,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

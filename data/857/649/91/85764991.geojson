@@ -76,6 +76,9 @@
         "qs:id":1082772
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"952b3c4d87d55f8e47baab3787d845fb",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343477,
     "wof:name":"Carmen Pampa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

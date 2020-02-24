@@ -325,6 +325,9 @@
         "wk:page":"Lambayeque Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f25b3f173ab2900e772328cee845f260",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674482,
+    "wof:lastmodified":1582343484,
     "wof:name":"Lambayeque",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -84,6 +84,9 @@
         "qs_pg:id":1082775
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57f0cbc7d31cee0ee016acc64a24236d",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674473,
+    "wof:lastmodified":1582343477,
     "wof:name":"Chucuito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

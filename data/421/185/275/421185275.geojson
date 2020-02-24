@@ -163,6 +163,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009437,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c25878fce945d2682f4ee9282b101d2b",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421185275,
-    "wof:lastmodified":1566676549,
+    "wof:lastmodified":1582343554,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

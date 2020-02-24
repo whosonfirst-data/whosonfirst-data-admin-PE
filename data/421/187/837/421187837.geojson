@@ -133,6 +133,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009525,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a56affabc9a571989be88f1404a6f5a7",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421187837,
-    "wof:lastmodified":1566676501,
+    "wof:lastmodified":1582343537,
     "wof:name":"Anta",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

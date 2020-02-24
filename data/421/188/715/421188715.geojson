@@ -143,6 +143,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01b389398ceafd4710a2e08d48f763f7",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421188715,
-    "wof:lastmodified":1566676507,
+    "wof:lastmodified":1582343539,
     "wof:name":"Jauja",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

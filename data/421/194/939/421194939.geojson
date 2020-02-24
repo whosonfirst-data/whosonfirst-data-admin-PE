@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a6c2f0a0f4a11aa81fab2b9d70568e8",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421194939,
-    "wof:lastmodified":1566676479,
+    "wof:lastmodified":1582343530,
     "wof:name":"Yarowilca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

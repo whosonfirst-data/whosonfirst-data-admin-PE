@@ -136,6 +136,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009769,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"730eb7af513e9d8f225e04263bc31db6",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421193379,
-    "wof:lastmodified":1566676483,
+    "wof:lastmodified":1582343532,
     "wof:name":"Caylloma",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

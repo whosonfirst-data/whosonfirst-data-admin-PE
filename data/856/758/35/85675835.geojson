@@ -351,6 +351,9 @@
         "wk:page":"Apur\u00edmac Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e56aa2b087d9bbbe994e420bdefd058c",
     "wof:hierarchy":[
         {
@@ -368,7 +371,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674480,
+    "wof:lastmodified":1582343483,
     "wof:name":"Apurimac",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -158,6 +158,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c223dc25c878dfe6e6384868cfa2a9b",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421183859,
-    "wof:lastmodified":1566676540,
+    "wof:lastmodified":1582343550,
     "wof:name":"Celend\u00edn",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

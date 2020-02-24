@@ -329,6 +329,9 @@
         "wk:page":"Tumbes Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba98f2037512480da293accfc3bdf5f9",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674484,
+    "wof:lastmodified":1582343485,
     "wof:name":"Tumbes",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

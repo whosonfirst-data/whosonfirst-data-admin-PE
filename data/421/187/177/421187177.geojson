@@ -138,6 +138,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009504,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"376ba3b818743c6a8678c25020a4deeb",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421187177,
-    "wof:lastmodified":1566676502,
+    "wof:lastmodified":1582343538,
     "wof:name":"Talara",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

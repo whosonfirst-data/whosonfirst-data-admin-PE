@@ -149,6 +149,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009525,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdcbd8b5adbda0e7984c1a9b3f7d1ed4",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421187843,
-    "wof:lastmodified":1566676496,
+    "wof:lastmodified":1582343536,
     "wof:name":"Canchis",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

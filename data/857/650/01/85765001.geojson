@@ -94,6 +94,9 @@
         "qs:id":1082776
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5753b5f15dee666afa857286822fd148",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"Cueva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

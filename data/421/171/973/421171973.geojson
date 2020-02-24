@@ -174,6 +174,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5a80db0bd378aa5d2264d4b9b6d4f0a",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421171973,
-    "wof:lastmodified":1566676548,
+    "wof:lastmodified":1582343553,
     "wof:name":"Mariscal Luzuriaga",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

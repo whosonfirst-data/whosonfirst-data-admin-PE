@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008862,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6dbd4682d59387fa9fbc7592aa527c01",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421170663,
-    "wof:lastmodified":1566676538,
+    "wof:lastmodified":1582343548,
     "wof:name":"Luya",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

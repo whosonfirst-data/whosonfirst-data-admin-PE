@@ -138,6 +138,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009095,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"587fd0b83df5c61e767d0305311c8f12",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421176081,
-    "wof:lastmodified":1566676546,
+    "wof:lastmodified":1582343552,
     "wof:name":"Dos De Mayo",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

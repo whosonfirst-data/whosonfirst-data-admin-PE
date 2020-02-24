@@ -341,6 +341,9 @@
         "wk:page":"Loreto Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cce04429f3abe4d93f9686beadab6dd",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674489,
+    "wof:lastmodified":1582343488,
     "wof:name":"Loreto",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

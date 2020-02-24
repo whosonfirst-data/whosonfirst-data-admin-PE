@@ -329,6 +329,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009492,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56af8cd77970184f6adbff95e99b3e83",
     "wof:hierarchy":[
         {
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":421186795,
-    "wof:lastmodified":1566676515,
+    "wof:lastmodified":1582343541,
     "wof:name":"Ica",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

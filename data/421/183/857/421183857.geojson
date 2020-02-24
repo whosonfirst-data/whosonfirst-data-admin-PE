@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a1aa472332785b07034b526254bbd47",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421183857,
-    "wof:lastmodified":1566676541,
+    "wof:lastmodified":1582343550,
     "wof:name":"Carabaya",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

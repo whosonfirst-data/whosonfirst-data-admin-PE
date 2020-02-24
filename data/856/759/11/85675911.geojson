@@ -345,6 +345,9 @@
         "wk:page":"Huancavelica Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b47da10b056cd0f50a5ee0fa0fa34b88",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674498,
+    "wof:lastmodified":1582343494,
     "wof:name":"Huancavelica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

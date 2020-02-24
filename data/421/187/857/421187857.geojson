@@ -130,6 +130,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebb2515ba88a1e4afaae7c36c334ee67",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421187857,
-    "wof:lastmodified":1566676497,
+    "wof:lastmodified":1582343536,
     "wof:name":"Lampa",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

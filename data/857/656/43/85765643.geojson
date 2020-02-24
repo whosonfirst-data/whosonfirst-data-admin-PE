@@ -71,6 +71,10 @@
         "qs_pg:id":237725
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8cd45b4a0cf432abb6b48b5510f0ff82",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"27 de April",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

@@ -136,6 +136,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d91c93e400392c054eaef8a0affffc37",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421187855,
-    "wof:lastmodified":1566676501,
+    "wof:lastmodified":1582343537,
     "wof:name":"Lambayeque",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

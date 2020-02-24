@@ -100,6 +100,10 @@
         "qs_pg:id":236902
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b874aa9bfc714a8fd213c2b6a7e7f342",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674471,
+    "wof:lastmodified":1582343476,
     "wof:name":"Tupac Amaru",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

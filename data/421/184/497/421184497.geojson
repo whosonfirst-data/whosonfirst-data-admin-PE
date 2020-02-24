@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009412,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ccd489022ba953bc43f94ddbd292bd88",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421184497,
-    "wof:lastmodified":1566676533,
+    "wof:lastmodified":1582343546,
     "wof:name":"Huarmey",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

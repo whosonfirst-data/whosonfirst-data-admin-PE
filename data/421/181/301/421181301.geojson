@@ -148,6 +148,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009292,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"008dbce658c3659cd25e2b29749a7ff3",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421181301,
-    "wof:lastmodified":1566676518,
+    "wof:lastmodified":1582343541,
     "wof:name":"Lauricocha",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

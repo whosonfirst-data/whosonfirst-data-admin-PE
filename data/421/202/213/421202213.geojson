@@ -92,6 +92,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010109,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f42a4a00660833ccccae9dd793d615d",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421202213,
-    "wof:lastmodified":1566676490,
+    "wof:lastmodified":1582343534,
     "wof:name":"Santa",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

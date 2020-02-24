@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010109,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d50dff99351d1eba70ad6f8ad09141f6",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421202209,
-    "wof:lastmodified":1566676491,
+    "wof:lastmodified":1582343534,
     "wof:name":"Quispicanchi",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

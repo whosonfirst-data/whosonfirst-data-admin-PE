@@ -77,6 +77,9 @@
         "wk:page":"Miraflores District, Arequipa"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"784e1210432d0b753b70dd2f9f567a33",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"Miraflores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

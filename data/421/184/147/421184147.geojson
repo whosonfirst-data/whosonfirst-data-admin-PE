@@ -157,6 +157,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b4c24bfb62098961021161fd8bb9ff1",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421184147,
-    "wof:lastmodified":1566676534,
+    "wof:lastmodified":1582343547,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

@@ -315,6 +315,9 @@
         "wk:page":"Moquegua Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08be9c5a3403a2732ab1c8605e04040b",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674480,
+    "wof:lastmodified":1582343482,
     "wof:name":"Moquegua",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

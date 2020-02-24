@@ -339,6 +339,9 @@
         "wk:page":"Madre de Dios Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"83d2c14c69c56c588ee334b5e8f399ef",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674496,
+    "wof:lastmodified":1582343493,
     "wof:name":"Madre de Dios",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

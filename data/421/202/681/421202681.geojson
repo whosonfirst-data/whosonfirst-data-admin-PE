@@ -152,6 +152,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010126,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71c980680daa7c9bdfee5723cce0a5a5",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421202681,
-    "wof:lastmodified":1566676490,
+    "wof:lastmodified":1582343534,
     "wof:name":"La Mar",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

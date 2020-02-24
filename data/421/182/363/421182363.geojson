@@ -136,6 +136,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009327,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d1c48d64e6218ecb3aa62a30b500f0d",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421182363,
-    "wof:lastmodified":1566676543,
+    "wof:lastmodified":1582343551,
     "wof:name":"Ica",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

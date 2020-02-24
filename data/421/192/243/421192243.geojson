@@ -93,6 +93,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009730,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ac643ca2816a68079b6f98c255aaffd",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421192243,
-    "wof:lastmodified":1566676476,
+    "wof:lastmodified":1582343530,
     "wof:name":"San Bartolo",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008745,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"215a75cb4c2f31a4cd2891432746f4f4",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421167831,
-    "wof:lastmodified":1566676487,
+    "wof:lastmodified":1582343533,
     "wof:name":"San Rom\u00e1n",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

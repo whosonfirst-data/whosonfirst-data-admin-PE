@@ -127,6 +127,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"241daf58fe6d78e77798363541abac4b",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421187863,
-    "wof:lastmodified":1566676502,
+    "wof:lastmodified":1582343538,
     "wof:name":"Tumbes",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

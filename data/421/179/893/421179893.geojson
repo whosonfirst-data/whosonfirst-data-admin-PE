@@ -197,6 +197,7 @@
     "qs:woe_id":418529,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
@@ -215,6 +216,10 @@
     },
     "wof:country":"PE",
     "wof:created":1459009237,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0be643c169778d57406c8850e9ed14eb",
     "wof:hierarchy":[
         {
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":421179893,
-    "wof:lastmodified":1561777738,
+    "wof:lastmodified":1582343550,
     "wof:name":"Ilo",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",

@@ -75,6 +75,9 @@
         "qs:id":35869
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22ddbfff45e226c902ac390ebb3f9839",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"Sachaca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

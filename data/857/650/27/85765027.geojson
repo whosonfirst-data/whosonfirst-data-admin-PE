@@ -110,6 +110,9 @@
         "qs:id":889986
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"88c4778774f32100f53f94aa56a98967",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"Pando",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

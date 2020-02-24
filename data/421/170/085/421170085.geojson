@@ -294,6 +294,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008836,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"8130096d75c4390b01328cfda80cf577",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421170085,
-    "wof:lastmodified":1566676535,
+    "wof:lastmodified":1582343547,
     "wof:name":"Tarapoto",
     "wof:parent_id":421175177,
     "wof:placetype":"locality",

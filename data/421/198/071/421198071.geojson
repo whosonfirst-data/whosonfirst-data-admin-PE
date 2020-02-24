@@ -226,6 +226,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009935,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f3be9912b7cad81995c0939869e018e",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421198071,
-    "wof:lastmodified":1566676525,
+    "wof:lastmodified":1582343544,
     "wof:name":"Pisco",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

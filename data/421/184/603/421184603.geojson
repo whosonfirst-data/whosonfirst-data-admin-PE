@@ -135,6 +135,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009416,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbec2d64ac6e2e927777982db734fe38",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421184603,
-    "wof:lastmodified":1566676533,
+    "wof:lastmodified":1582343547,
     "wof:name":"Churcampa",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

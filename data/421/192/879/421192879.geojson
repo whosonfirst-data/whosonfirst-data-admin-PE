@@ -133,6 +133,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93441f26274df3a8ce8005677cbd0ddf",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421192879,
-    "wof:lastmodified":1566676477,
+    "wof:lastmodified":1582343530,
     "wof:name":"Acomayo",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

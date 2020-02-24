@@ -151,6 +151,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008913,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7346f4c240aafd5781fa8aa0f97dd6e",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421171959,
-    "wof:lastmodified":1566676548,
+    "wof:lastmodified":1582343553,
     "wof:name":"Gral. S\u00e1nchez Cerro",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

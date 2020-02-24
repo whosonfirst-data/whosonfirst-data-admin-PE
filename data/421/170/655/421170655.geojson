@@ -148,6 +148,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008862,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d76015337d81cdb2d61af53307c82596",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421170655,
-    "wof:lastmodified":1566676538,
+    "wof:lastmodified":1582343548,
     "wof:name":"Abancay",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

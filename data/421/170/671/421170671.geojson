@@ -107,6 +107,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008862,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18fbcd64d1e2219e52764249d3d3b75b",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421170671,
-    "wof:lastmodified":1566676537,
+    "wof:lastmodified":1582343548,
     "wof:name":"Tocache",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

@@ -89,6 +89,10 @@
         "qs_pg:id":1061902
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c862c9e771dde21344664d7910fc503",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"Valle Hermoso",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

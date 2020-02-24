@@ -80,6 +80,9 @@
         "qs:id":300673
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22ad7417d48732e3e082868d2e933faa",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"San Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

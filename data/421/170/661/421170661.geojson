@@ -148,6 +148,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008862,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6009cd22d11505fe15fd280006f3b09",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421170661,
-    "wof:lastmodified":1566676536,
+    "wof:lastmodified":1582343547,
     "wof:name":"Huaylas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

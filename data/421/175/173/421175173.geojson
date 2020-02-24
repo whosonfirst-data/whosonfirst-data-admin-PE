@@ -136,6 +136,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009058,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9f14280ead67c551ba66a22ccb113b9",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421175173,
-    "wof:lastmodified":1566676522,
+    "wof:lastmodified":1582343543,
     "wof:name":"Loreto",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

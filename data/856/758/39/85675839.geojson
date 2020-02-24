@@ -347,6 +347,9 @@
         "wk:page":"Arequipa Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17d17149cadb40e2ea1852bed11f74fa",
     "wof:hierarchy":[
         {
@@ -364,7 +367,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674488,
+    "wof:lastmodified":1582343487,
     "wof:name":"Arequipa",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

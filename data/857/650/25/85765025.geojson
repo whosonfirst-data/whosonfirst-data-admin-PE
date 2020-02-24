@@ -99,6 +99,9 @@
         "qs_pg:id":475431
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"565b0e578ac0179d7c37fb0c808619e0",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674473,
+    "wof:lastmodified":1582343476,
     "wof:name":"Pachacutec",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

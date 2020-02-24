@@ -138,6 +138,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009918,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"615c30667cfa480d6027969fd6d87202",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421197577,
-    "wof:lastmodified":1566676528,
+    "wof:lastmodified":1582343545,
     "wof:name":"Pachitea",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

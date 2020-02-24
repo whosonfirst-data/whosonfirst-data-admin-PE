@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010109,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17a639a80e71442243d9ac2fdf563ee4",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421202211,
-    "wof:lastmodified":1566676489,
+    "wof:lastmodified":1582343534,
     "wof:name":"Recuay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

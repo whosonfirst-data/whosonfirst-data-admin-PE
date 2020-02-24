@@ -71,6 +71,10 @@
         "qs_pg:id":1196540
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"93dc61bd9112dae3b47a07e0bb07e4d6",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"Jesus Maria",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

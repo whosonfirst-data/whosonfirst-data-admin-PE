@@ -75,6 +75,9 @@
         "qs:id":1165424
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5adae86298b9b53f3d2b5ceaffd230c6",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"La Pampilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

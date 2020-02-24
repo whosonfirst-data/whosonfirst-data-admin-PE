@@ -139,6 +139,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009327,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa1d89da43eaf000d916d3a95d076253",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421182365,
-    "wof:lastmodified":1566676543,
+    "wof:lastmodified":1582343551,
     "wof:name":"Islay",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

@@ -350,6 +350,9 @@
         "wk:page":"Ayacucho Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"452cba6c1777ecc274fd836e61c67219",
     "wof:hierarchy":[
         {
@@ -367,7 +370,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674497,
+    "wof:lastmodified":1582343494,
     "wof:name":"Ayacucho",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -100,6 +100,10 @@
         "wd:id":"Q2404480"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9836a2cb3fefc8dbab746944d1bfdd9f",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"Carmen de la Legua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

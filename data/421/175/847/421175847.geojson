@@ -65,6 +65,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009081,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f465f5410558d1adc197a3c53c5b22a",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421175847,
-    "wof:lastmodified":1566676524,
+    "wof:lastmodified":1582343544,
     "wof:name":"Calca",
     "wof:parent_id":1108693905,
     "wof:placetype":"locality",

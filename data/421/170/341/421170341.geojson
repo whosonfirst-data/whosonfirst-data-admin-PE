@@ -135,6 +135,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008849,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7771b86c61c4be44b7f0137872cbd5a",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421170341,
-    "wof:lastmodified":1566676536,
+    "wof:lastmodified":1582343548,
     "wof:name":"Sechura",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

@@ -103,6 +103,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009806,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"808fcf6138c88eb5955becdb4676381f",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421194455,
-    "wof:lastmodified":1566676480,
+    "wof:lastmodified":1582343531,
     "wof:name":"Pacasmayo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1760e95620418fd9308bd4455cb8df6d",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421187867,
-    "wof:lastmodified":1566676498,
+    "wof:lastmodified":1582343536,
     "wof:name":"Yungay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

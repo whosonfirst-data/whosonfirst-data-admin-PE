@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008940,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b1546f2b75b6f3f8701a2d1fb8905d2",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421172423,
-    "wof:lastmodified":1566676510,
+    "wof:lastmodified":1582343540,
     "wof:name":"Cajamarca",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

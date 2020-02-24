@@ -130,6 +130,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010143,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0bf6b9f79440aa9c0b6ce2ab3034694",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421203205,
-    "wof:lastmodified":1566676488,
+    "wof:lastmodified":1582343534,
     "wof:name":"Espinar",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

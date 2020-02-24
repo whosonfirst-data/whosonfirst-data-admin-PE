@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008849,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a768a80c7deb8065e37c7b3252af40a",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421170339,
-    "wof:lastmodified":1566676535,
+    "wof:lastmodified":1582343547,
     "wof:name":"Andahuaylas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",
