@@ -193,6 +193,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009492,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"30cd9e815f69ca12f60d16f4cc67667d",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421186819,
-    "wof:lastmodified":1566676512,
+    "wof:lastmodified":1582343540,
     "wof:name":"Nauta",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",

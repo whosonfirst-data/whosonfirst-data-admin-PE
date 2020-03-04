@@ -144,6 +144,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009494,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4f4d67eef4a04d9adb3a79c5476b6e92",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421186849,
-    "wof:lastmodified":1566676515,
+    "wof:lastmodified":1582343541,
     "wof:name":"Tournavista",
     "wof:parent_id":421194457,
     "wof:placetype":"locality",

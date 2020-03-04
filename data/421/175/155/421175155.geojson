@@ -159,6 +159,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53438b23b14f96e8cd2f0edc26b208b9",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421175155,
-    "wof:lastmodified":1566676523,
+    "wof:lastmodified":1582343543,
     "wof:name":"Atalaya",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

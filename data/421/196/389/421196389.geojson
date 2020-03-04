@@ -59,6 +59,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009880,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"826425824cf376af1ade07e0efe2c052",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421196389,
-    "wof:lastmodified":1566676527,
+    "wof:lastmodified":1582343545,
     "wof:name":"Puerto Chicama Malabrigo",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

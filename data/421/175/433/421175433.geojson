@@ -481,6 +481,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009067,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"828649c4a9a1053b1be21742db234806",
     "wof:hierarchy":[
         {
@@ -491,7 +494,7 @@
         }
     ],
     "wof:id":421175433,
-    "wof:lastmodified":1566676524,
+    "wof:lastmodified":1582343544,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

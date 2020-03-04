@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b60404fa9aa75b7bec1278ebf2cd71a",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421202523,
-    "wof:lastmodified":1566676492,
+    "wof:lastmodified":1582343535,
     "wof:name":"Castilla",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

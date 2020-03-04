@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7017ea3537dacbd9e868893036f5802",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421175163,
-    "wof:lastmodified":1566676523,
+    "wof:lastmodified":1582343543,
     "wof:name":"Contralmirante Villar",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

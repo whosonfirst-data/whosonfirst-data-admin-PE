@@ -338,6 +338,9 @@
         "wk:page":"Ucayali Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dfcebb4c018abd7e302ea85689560fe3",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674485,
+    "wof:lastmodified":1582343486,
     "wof:name":"Ucayali",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

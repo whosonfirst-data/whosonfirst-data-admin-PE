@@ -340,6 +340,9 @@
         "wk:page":"Piura Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce243051f2d04c6325098c2b1b038b8f",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674481,
+    "wof:lastmodified":1582343483,
     "wof:name":"Piura",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

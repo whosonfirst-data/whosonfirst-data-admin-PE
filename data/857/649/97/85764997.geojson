@@ -122,6 +122,9 @@
         "qs_pg:id":423406
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5a7fc69a2551e68bedcb573fb9a8aec",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674473,
+    "wof:lastmodified":1582343477,
     "wof:name":"Concha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

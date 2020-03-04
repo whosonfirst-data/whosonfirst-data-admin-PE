@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009793,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37e4bae124209eb9bc1116d79da18c15",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421194081,
-    "wof:lastmodified":1566676481,
+    "wof:lastmodified":1582343531,
     "wof:name":"Huanta",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

@@ -71,6 +71,10 @@
         "qs_pg:id":219398
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"25071867f5401fd923d06b6c1a1de60f",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674471,
+    "wof:lastmodified":1582343476,
     "wof:name":"Corpac",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

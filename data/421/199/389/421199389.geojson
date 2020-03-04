@@ -56,6 +56,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009987,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9057b4e629a6ded2f56d33a101225d6a",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421199389,
-    "wof:lastmodified":1566676529,
+    "wof:lastmodified":1582343546,
     "wof:name":"Hualmay",
     "wof:parent_id":1108693949,
     "wof:placetype":"locality",

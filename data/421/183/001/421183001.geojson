@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7376dd39f42a5390f083e51d79192ff9",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421183001,
-    "wof:lastmodified":1566676542,
+    "wof:lastmodified":1582343550,
     "wof:name":"Urubamba",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

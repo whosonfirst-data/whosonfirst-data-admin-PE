@@ -161,6 +161,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e0e675c688e6aea1f694d2bd46279fe",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421185313,
-    "wof:lastmodified":1566676550,
+    "wof:lastmodified":1582343554,
     "wof:name":"Hu\u00e1nuco",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

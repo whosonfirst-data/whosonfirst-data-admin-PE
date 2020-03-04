@@ -148,6 +148,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e675a8c0c7b8fae579686c46c4538a21",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1566676541,
+    "wof:lastmodified":1582343550,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

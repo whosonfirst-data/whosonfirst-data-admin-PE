@@ -160,6 +160,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8fd76784fa0e1c4f44c7b5d033d35c05",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421188725,
-    "wof:lastmodified":1566676506,
+    "wof:lastmodified":1582343539,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

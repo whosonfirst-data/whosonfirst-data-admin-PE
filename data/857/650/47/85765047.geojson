@@ -79,6 +79,9 @@
         "qs:id":266536
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5220491515ac6a2cd546eba54caef908",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"Zamacola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

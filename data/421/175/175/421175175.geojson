@@ -133,6 +133,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009058,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c841179aa91820628a14dc2565d24a8a",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421175175,
-    "wof:lastmodified":1566676522,
+    "wof:lastmodified":1582343543,
     "wof:name":"Oxapampa",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

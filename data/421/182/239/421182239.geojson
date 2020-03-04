@@ -103,6 +103,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009323,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ebd3bc70028d291a24eab4cb2ca17f4",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421182239,
-    "wof:lastmodified":1566676545,
+    "wof:lastmodified":1582343552,
     "wof:name":"Yauli",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

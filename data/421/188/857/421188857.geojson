@@ -115,6 +115,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009586,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0a687bf201db4dd49a368e520383e39",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421188857,
-    "wof:lastmodified":1566676506,
+    "wof:lastmodified":1582343539,
     "wof:name":"Morrop\u00f3n",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

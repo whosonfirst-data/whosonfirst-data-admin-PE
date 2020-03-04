@@ -83,6 +83,9 @@
         "qs:id":475430
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b832414a88b6a9773cb46ca9be82403f",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"La Apacheta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

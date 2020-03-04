@@ -158,6 +158,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91dc716923b04e57e8bc97a9d5db3c2e",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421187849,
-    "wof:lastmodified":1566676499,
+    "wof:lastmodified":1582343537,
     "wof:name":"Chanchamayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

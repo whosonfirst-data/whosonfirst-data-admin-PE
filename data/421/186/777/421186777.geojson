@@ -98,6 +98,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009491,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa809eaf1f93e8f55183ec6387589765",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421186777,
-    "wof:lastmodified":1566676514,
+    "wof:lastmodified":1582343541,
     "wof:name":"Independencia",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

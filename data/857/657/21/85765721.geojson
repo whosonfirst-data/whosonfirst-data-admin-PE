@@ -104,6 +104,9 @@
         "qs_pg:id":985482
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a8e8e8fc68291b937fccd67f1fac77c",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674472,
+    "wof:lastmodified":1582343476,
     "wof:name":"Los Sauces",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

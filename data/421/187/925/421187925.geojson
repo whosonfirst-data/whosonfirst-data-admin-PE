@@ -97,6 +97,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009528,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"111067e20d13baef5ad2e1a91983a583",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421187925,
-    "wof:lastmodified":1566676498,
+    "wof:lastmodified":1582343536,
     "wof:name":"Leoncio Prado",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

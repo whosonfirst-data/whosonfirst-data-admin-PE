@@ -154,6 +154,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009058,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b9ea26a5d13b9c5115e8d4cc0e8b58f",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421175177,
-    "wof:lastmodified":1566676524,
+    "wof:lastmodified":1582343544,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

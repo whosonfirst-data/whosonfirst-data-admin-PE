@@ -158,6 +158,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008913,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a040fe70e5201e9843ff1b5aca15fec4",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421171957,
-    "wof:lastmodified":1566676547,
+    "wof:lastmodified":1582343553,
     "wof:name":"Coronel Portillo",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

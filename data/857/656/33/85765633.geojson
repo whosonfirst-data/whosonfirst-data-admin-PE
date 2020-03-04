@@ -98,6 +98,10 @@
         "qs_pg:id":1061903
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"796b5020e8b8859e1c62e7697bcd3b13",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"Cercado",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

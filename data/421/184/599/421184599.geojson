@@ -147,6 +147,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009416,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3970583eac604c3359429c2bbe46c66",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421184599,
-    "wof:lastmodified":1566676534,
+    "wof:lastmodified":1582343547,
     "wof:name":"Chep\u00e9n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

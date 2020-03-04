@@ -374,6 +374,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009495,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"362708da3a58cfab393bea1fd3443c0e",
     "wof:hierarchy":[
         {
@@ -385,7 +388,7 @@
         }
     ],
     "wof:id":421186885,
-    "wof:lastmodified":1566676516,
+    "wof:lastmodified":1582343541,
     "wof:name":"Cuzco",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

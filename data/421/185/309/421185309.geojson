@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009438,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5396d300a668d6c7b4319488a60ff99d",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421185309,
-    "wof:lastmodified":1566676549,
+    "wof:lastmodified":1582343553,
     "wof:name":"Chiclayo",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

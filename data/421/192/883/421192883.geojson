@@ -149,6 +149,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"406e5b0c7f80c8803e6b4adc34f53f47",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421192883,
-    "wof:lastmodified":1566676477,
+    "wof:lastmodified":1582343530,
     "wof:name":"Huancabamba",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

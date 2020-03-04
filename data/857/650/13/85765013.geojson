@@ -73,6 +73,9 @@
         "wk:page":"La Punta District"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b06a3c95aed09c91441379d1ccc11780",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1582343476,
     "wof:name":"La Punta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

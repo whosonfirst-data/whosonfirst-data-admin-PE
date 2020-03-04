@@ -133,6 +133,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008898,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b6049749404c28490fcf17425ae15221",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421171561,
-    "wof:lastmodified":1566676546,
+    "wof:lastmodified":1582343552,
     "wof:name":"Ayabaca",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

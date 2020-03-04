@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009806,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03f4af6eaa6ce486d07c41531ef0cf09",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421194457,
-    "wof:lastmodified":1566676483,
+    "wof:lastmodified":1582343532,
     "wof:name":"Puerto Inca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

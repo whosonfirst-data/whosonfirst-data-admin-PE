@@ -329,6 +329,9 @@
         "qs_pg:id":1085992
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c14a9eb02d99508cff412ebf327d902e",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674470,
+    "wof:lastmodified":1582343476,
     "wof:name":"Aurora",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

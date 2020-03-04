@@ -154,6 +154,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009132,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"358e193f5809f06348df1c66ec57885e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421177079,
-    "wof:lastmodified":1566676539,
+    "wof:lastmodified":1582343549,
     "wof:name":"S\u00e1nchez Carri\u00f3n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

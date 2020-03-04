@@ -212,6 +212,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d39a76c894ae9e625b83b7da7426017",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421171961,
-    "wof:lastmodified":1566676548,
+    "wof:lastmodified":1582343553,
     "wof:name":"Tacna",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

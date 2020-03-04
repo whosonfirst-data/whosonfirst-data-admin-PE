@@ -164,6 +164,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008958,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4604e7a919d5cc996aecede504fbde89",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421172895,
-    "wof:lastmodified":1566676510,
+    "wof:lastmodified":1582343540,
     "wof:name":"Utcubamba",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

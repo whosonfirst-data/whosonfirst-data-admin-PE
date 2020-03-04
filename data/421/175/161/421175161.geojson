@@ -149,6 +149,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c320f9c9f7e95eb69b72a2decc5a744",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421175161,
-    "wof:lastmodified":1566676520,
+    "wof:lastmodified":1582343542,
     "wof:name":"Aymaraes",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

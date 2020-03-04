@@ -341,6 +341,9 @@
         "wd:id":"Q215221"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad1e0d2464f0cd085114a969efcf1787",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674482,
+    "wof:lastmodified":1582343484,
     "wof:name":"Huanuco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

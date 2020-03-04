@@ -182,6 +182,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009729,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"8306b4c25770d507f89036577fb635c0",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421192221,
-    "wof:lastmodified":1566676476,
+    "wof:lastmodified":1582343530,
     "wof:name":"Casma",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

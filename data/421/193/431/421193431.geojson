@@ -156,6 +156,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009770,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3fb67d3f08291217328192aecaf840f4",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421193431,
-    "wof:lastmodified":1566676483,
+    "wof:lastmodified":1582343532,
     "wof:name":"Mariscal Nieto",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

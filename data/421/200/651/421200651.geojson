@@ -127,6 +127,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010034,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"332ea62782334e97508a5b65ac06dd3c",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421200651,
-    "wof:lastmodified":1566676530,
+    "wof:lastmodified":1582343546,
     "wof:name":"Puno",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -128,6 +128,9 @@
         "qs_pg:id":223950
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78c427a14fc912ce6bf2531baedcbb6e",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674472,
+    "wof:lastmodified":1582343476,
     "wof:name":"Santa Catalina",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

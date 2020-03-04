@@ -99,6 +99,9 @@
         "qs_pg:id":959456
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"800af31a4815c427705633ecac20a164",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674473,
+    "wof:lastmodified":1582343476,
     "wof:name":"Santa Luisa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -328,6 +328,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89f5696591e80c0bba11f98298eacae5",
     "wof:hierarchy":[
         {
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":421187861,
-    "wof:lastmodified":1566676497,
+    "wof:lastmodified":1582343536,
     "wof:name":"Melgar",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

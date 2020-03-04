@@ -157,6 +157,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7d60f43f90eeabd3386f4a27ab00fa5",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421188085,
-    "wof:lastmodified":1566676506,
+    "wof:lastmodified":1582343538,
     "wof:name":"Alto Amazonas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

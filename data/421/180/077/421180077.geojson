@@ -167,6 +167,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009243,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0cd4bfc0e401a12cc5bdd74cb8cae8df",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421180077,
-    "wof:lastmodified":1566676494,
+    "wof:lastmodified":1582343535,
     "wof:name":"Nazca",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

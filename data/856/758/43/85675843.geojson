@@ -329,6 +329,9 @@
         "wk:page":"Cusco Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b3e75bf3d70e59621493d0bf7dbeafa",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674483,
+    "wof:lastmodified":1582343485,
     "wof:name":"Cusco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

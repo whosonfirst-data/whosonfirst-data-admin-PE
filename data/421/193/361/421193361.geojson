@@ -166,6 +166,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009768,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47a0bf8a8ac1f104607558cfa860ffe5",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421193361,
-    "wof:lastmodified":1566676485,
+    "wof:lastmodified":1582343533,
     "wof:name":"Ascope",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

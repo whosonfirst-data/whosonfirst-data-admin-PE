@@ -94,6 +94,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a3627acaa724e6e56dae5accdfddeb6",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421203221,
-    "wof:lastmodified":1566676488,
+    "wof:lastmodified":1582343534,
     "wof:name":"Satipo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

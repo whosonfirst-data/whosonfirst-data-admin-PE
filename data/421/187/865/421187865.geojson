@@ -157,6 +157,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009526,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"63716fc9ab1b077efbee36ea66651b0b",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421187865,
-    "wof:lastmodified":1566676500,
+    "wof:lastmodified":1582343537,
     "wof:name":"Ucayali",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

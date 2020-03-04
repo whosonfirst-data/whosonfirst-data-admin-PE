@@ -136,6 +136,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010109,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bec9f358f3e74254a64e4945faea67c8",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421202207,
-    "wof:lastmodified":1566676491,
+    "wof:lastmodified":1582343535,
     "wof:name":"Paucartambo",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

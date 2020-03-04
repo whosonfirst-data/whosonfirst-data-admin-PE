@@ -349,6 +349,9 @@
         "wk:page":"La Libertad Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec5a3fb5fa3085e60dd1ede646f469b7",
     "wof:hierarchy":[
         {
@@ -366,7 +369,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674492,
+    "wof:lastmodified":1582343490,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

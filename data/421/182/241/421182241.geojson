@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009323,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56b0f9163e8ddd0ed81fdab36e6e2d06",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421182241,
-    "wof:lastmodified":1566676544,
+    "wof:lastmodified":1582343551,
     "wof:name":"Maynas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

@@ -331,6 +331,9 @@
         "wk:page":"Tacna Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d44405da32a9a3d362a67fb6ae16172",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674478,
+    "wof:lastmodified":1582343482,
     "wof:name":"Tacna",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -160,6 +160,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009793,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb048fd402dd6a0f6b8d61a50f619214",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421194075,
-    "wof:lastmodified":1566676481,
+    "wof:lastmodified":1582343531,
     "wof:name":"Caravel\u00ed",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

@@ -128,6 +128,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab5c052806eb12ef4c5435c0500be706",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421171963,
-    "wof:lastmodified":1566676547,
+    "wof:lastmodified":1582343552,
     "wof:name":"Moho",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

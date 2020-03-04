@@ -146,6 +146,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009822,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"848ce363a2c8f66d433ac9a25b8813f4",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421194849,
-    "wof:lastmodified":1566676482,
+    "wof:lastmodified":1582343531,
     "wof:name":"Pasco",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

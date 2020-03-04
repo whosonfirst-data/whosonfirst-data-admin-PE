@@ -155,6 +155,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"676ca27cb42bcd8e8aca24a81534e55b",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421188727,
-    "wof:lastmodified":1566676509,
+    "wof:lastmodified":1582343540,
     "wof:name":"Ferre\u00f1afe",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

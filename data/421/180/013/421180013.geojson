@@ -83,6 +83,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009241,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2be8e5009e8e91e1adbf88bb58235605",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421180013,
-    "wof:lastmodified":1566676495,
+    "wof:lastmodified":1582343535,
     "wof:name":"Palpa",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",

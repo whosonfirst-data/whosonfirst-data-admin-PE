@@ -313,6 +313,9 @@
     },
     "wof:country":"PE",
     "wof:created":1469052492,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69bf2539fa5d31d208a998d2e22dac2d",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
         }
     ],
     "wof:id":890445053,
-    "wof:lastmodified":1566676563,
+    "wof:lastmodified":1582343555,
     "wof:name":"Huaraz",
     "wof:parent_id":421187921,
     "wof:placetype":"locality",

@@ -347,6 +347,9 @@
         "wk:page":"Jun\u00edn Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c82e48049c63e23c78de25f47be2a31",
     "wof:hierarchy":[
         {
@@ -364,7 +367,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674498,
+    "wof:lastmodified":1582343495,
     "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

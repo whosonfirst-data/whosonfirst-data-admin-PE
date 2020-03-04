@@ -164,6 +164,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009793,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c435b7048127228a623bae9cbbcefd1",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421194085,
-    "wof:lastmodified":1566676479,
+    "wof:lastmodified":1582343530,
     "wof:name":"La Convenci\u00f3n",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

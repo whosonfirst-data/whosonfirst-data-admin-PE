@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009770,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db91456e56df7a5dc78ac6e3e1edcdb3",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421193433,
-    "wof:lastmodified":1566676486,
+    "wof:lastmodified":1582343533,
     "wof:name":"Lucanas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

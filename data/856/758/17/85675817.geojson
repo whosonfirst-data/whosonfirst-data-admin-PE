@@ -189,6 +189,9 @@
         "wd:id":"Q3199075"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0507c4c91140fa3c11a4c1f568903d27",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674481,
+    "wof:lastmodified":1582343484,
     "wof:name":"Callao",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

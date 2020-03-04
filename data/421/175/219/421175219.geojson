@@ -115,6 +115,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009060,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e303c7ccfcb387716a42785db0002952",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421175219,
-    "wof:lastmodified":1566676521,
+    "wof:lastmodified":1582343542,
     "wof:name":"Mariscal Ram\u00f3n Castilla",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

@@ -162,6 +162,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009540,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"871f6af6704bffc8b0380059bb5e80a6",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421188283,
-    "wof:lastmodified":1566676508,
+    "wof:lastmodified":1582343539,
     "wof:name":"Chupaca",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

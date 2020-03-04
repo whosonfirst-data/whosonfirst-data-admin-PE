@@ -152,6 +152,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009438,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fbc947ba62e209b0e269089c3570d22",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421185311,
-    "wof:lastmodified":1566676551,
+    "wof:lastmodified":1582343554,
     "wof:name":"Huamanga",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

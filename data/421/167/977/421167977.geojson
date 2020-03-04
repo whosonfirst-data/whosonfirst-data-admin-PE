@@ -80,6 +80,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008750,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5c1ac3be5d811d1adfa83e223c1baa9",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421167977,
-    "wof:lastmodified":1566676486,
+    "wof:lastmodified":1582343533,
     "wof:name":"San Miguel de Cauri",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

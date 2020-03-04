@@ -116,6 +116,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009793,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f94e6b641b99a081ebb162d070feb114",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194079,
-    "wof:lastmodified":1566676479,
+    "wof:lastmodified":1582343530,
     "wof:name":"Chincheros",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

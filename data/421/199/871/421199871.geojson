@@ -126,6 +126,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459010003,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76cc1ee9f482960ec44646220a6eb5b8",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421199871,
-    "wof:lastmodified":1566676529,
+    "wof:lastmodified":1582343545,
     "wof:name":"Zarumilla",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

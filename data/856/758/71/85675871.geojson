@@ -327,6 +327,9 @@
         "wk:page":"Cajamarca Region"
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab9ff8c269a9721b6573daf99bd51606",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566674495,
+    "wof:lastmodified":1582343493,
     "wof:name":"Cajamarca",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

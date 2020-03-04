@@ -145,6 +145,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009057,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be3966615db161b578ac5970d2e85940",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421175167,
-    "wof:lastmodified":1566676520,
+    "wof:lastmodified":1582343542,
     "wof:name":"Huancavelica",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

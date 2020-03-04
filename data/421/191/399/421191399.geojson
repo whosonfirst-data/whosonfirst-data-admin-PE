@@ -157,6 +157,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d1b6c5506ece3ed0b5da9d6f879c0b1",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421191399,
-    "wof:lastmodified":1566676527,
+    "wof:lastmodified":1582343545,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

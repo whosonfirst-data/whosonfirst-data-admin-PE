@@ -349,6 +349,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459008863,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"830f8c57b828d812400cf4c4e1c0d337",
     "wof:hierarchy":[
         {
@@ -359,7 +362,7 @@
         }
     ],
     "wof:id":421170677,
-    "wof:lastmodified":1566676537,
+    "wof:lastmodified":1582343548,
     "wof:name":"Trujillo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

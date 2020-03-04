@@ -71,6 +71,10 @@
         "qs_pg:id":1109742
     },
     "wof:country":"PE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24fa5a35ff9dead4c19f9d11d3b4a17a",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566674471,
+    "wof:lastmodified":1582343476,
     "wof:name":"Castilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

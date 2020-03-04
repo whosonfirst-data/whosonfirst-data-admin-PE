@@ -142,6 +142,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009935,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2eef7528e59ea4eb7e93884730c0d3b4",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421198069,
-    "wof:lastmodified":1566676526,
+    "wof:lastmodified":1582343545,
     "wof:name":"Arequipa",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

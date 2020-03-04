@@ -119,6 +119,9 @@
     },
     "wof:country":"PE",
     "wof:created":1459009935,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3657b96e51644549e0fa3309b52c5bcf",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421198073,
-    "wof:lastmodified":1566676525,
+    "wof:lastmodified":1582343544,
     "wof:name":"Yunguyo",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",
