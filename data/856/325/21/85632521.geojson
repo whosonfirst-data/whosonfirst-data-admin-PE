@@ -925,7 +925,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1001,7 +1000,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1582343478,
+    "wof:lastmodified":1583222478,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
