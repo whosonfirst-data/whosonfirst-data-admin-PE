@@ -956,9 +956,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Peru",
-        "digitalenvoy:country_code":[
-            604
-        ],
+        "digitalenvoy:country_code":604,
         "fb:id":"en.peru",
         "fifa:id":"PER",
         "fips:code":"PE",
@@ -1003,7 +1001,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1583529204,
+    "wof:lastmodified":1583797412,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
