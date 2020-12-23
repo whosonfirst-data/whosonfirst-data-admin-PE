@@ -390,13 +390,14 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        85675839,
-        421198069
+        421198069,
+        85675839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3947322,
         "gp:id":418014,
+        "ne:id":1159149417,
         "qs_pg:id":1047433,
         "wd:id":"Q159273",
         "wk:page":"Arequipa"
@@ -418,7 +419,8 @@
         }
     ],
     "wof:id":890445225,
-    "wof:lastmodified":1566676565,
+    "wof:lastmodified":1608688170,
+    "wof:megacity":1,
     "wof:name":"Arequipa",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",
