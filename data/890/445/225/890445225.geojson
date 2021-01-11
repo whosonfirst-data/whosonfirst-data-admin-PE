@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":841130,
     "iso:country":"PE",
-    "lbl:bbox":"-71.555,-16.41889,-71.515,-16.37889",
     "lbl:latitude":-16.405748,
     "lbl:longitude":-71.540056,
     "lbl:max_zoom":13.0,
@@ -431,7 +430,7 @@
         }
     ],
     "wof:id":890445225,
-    "wof:lastmodified":1608689808,
+    "wof:lastmodified":1610152791,
     "wof:megacity":1,
     "wof:name":"Arequipa",
     "wof:parent_id":421198069,
