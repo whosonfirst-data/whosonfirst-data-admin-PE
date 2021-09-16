@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.72916667,-7.16972222,-76.72916667,-7.16972222",
+    "geom:bbox":"-76.729167,-7.169722,-76.729167,-7.169722",
     "geom:latitude":-7.169722,
     "geom:longitude":-76.729167,
     "iso:country":"PE",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Juanju\u00ed Airport"
+    ],
+    "name:eng_x_variant":[
+        "JJI",
+        "SPJI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0627\u0646\u062e\u0648\u06cc"
@@ -66,7 +70,7 @@
         "wd:id":"Q6301610"
     },
     "wof:country":"PE",
-    "wof:geomhash":"0fd40a139e91fa174edc532750272b88",
+    "wof:geomhash":"5dc3d6a8fcb804e34b12832b0b37a7f5",
     "wof:hierarchy":[
         {
             "campus_id":102552499,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102552499,
-    "wof:lastmodified":1566674059,
+    "wof:lastmodified":1631749650,
     "wof:name":"Juanjui Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    -76.72916667,
-    -7.16972222,
-    -76.72916667,
-    -7.16972222
+    -76.729167,
+    -7.169722,
+    -76.729167,
+    -7.169722
 ],
-  "geometry": {"coordinates":[-76.72916667,-7.16972222],"type":"Point"}
+  "geometry": {"coordinates":[-76.729167,-7.169722],"type":"Point"}
 }
