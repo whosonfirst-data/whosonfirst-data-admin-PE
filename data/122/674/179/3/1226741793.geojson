@@ -43,8 +43,14 @@
     "name:fra_x_preferred":[
         "Chaman"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05de\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u092e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Chaman"
     ],
     "name:ita_x_preferred":[
         "Chaman"
@@ -109,7 +115,7 @@
         "gn:id":3698502
     },
     "wof:country":"PE",
-    "wof:geomhash":"bb42948bcd9b33b4f0b96b884da21a30",
+    "wof:geomhash":"c29d2d515d41b4e59689f7fa87d1eab4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1226741793,
-    "wof:lastmodified":1566677359,
+    "wof:lastmodified":1636500368,
     "wof:name":"Chaman",
     "wof:parent_id":1108693985,
     "wof:placetype":"locality",
@@ -130,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.26666999999998,
+    -79.26667,
     -7.11667,
-    -79.26666999999998,
+    -79.26667,
     -7.11667
 ],
-  "geometry": {"coordinates":[-79.26666999999998,-7.11667],"type":"Point"}
+  "geometry": {"coordinates":[-79.26667,-7.11667],"type":"Point"}
 }

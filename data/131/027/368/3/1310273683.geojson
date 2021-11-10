@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Milagro"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05dc\u05d2\u05e8\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Milagro"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1310273683,
-    "wof:lastmodified":1566676093,
+    "wof:lastmodified":1636500237,
     "wof:name":"Milagro",
     "wof:parent_id":1108693999,
     "wof:placetype":"locality",

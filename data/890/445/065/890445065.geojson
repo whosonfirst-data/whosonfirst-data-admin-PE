@@ -70,6 +70,9 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0aae\u0acd\u0aac\u0acb\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05de\u05d1\u05d5\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093f\u0902\u092c\u094b\u091f"
     ],
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":890445065,
-    "wof:lastmodified":1566676563,
+    "wof:lastmodified":1636500291,
     "wof:name":"Chimbote",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

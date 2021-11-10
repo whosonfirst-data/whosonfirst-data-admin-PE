@@ -47,6 +47,9 @@
         "Matara"
     ],
     "name:por_x_preferred":[
+        "Matara"
+    ],
+    "name:por_x_variant":[
         "Matar\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -70,7 +73,7 @@
         "gn:id":3968302
     },
     "wof:country":"PE",
-    "wof:geomhash":"8a212fe3f82144e96e63669d6f63079d",
+    "wof:geomhash":"60e6ecbcff3a7b03e4a4cc08ca65df60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1276520115,
-    "wof:lastmodified":1566675190,
+    "wof:lastmodified":1636500156,
     "wof:name":"Matara",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",
@@ -91,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.94221999999998,
+    -76.94222,
     -11.30222,
-    -76.94221999999998,
+    -76.94222,
     -11.30222
 ],
-  "geometry": {"coordinates":[-76.94221999999998,-11.30222],"type":"Point"}
+  "geometry": {"coordinates":[-76.94222000000001,-11.30222],"type":"Point"}
 }

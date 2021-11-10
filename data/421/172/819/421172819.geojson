@@ -27,7 +27,16 @@
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u0443\u0442\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0679\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Putina"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":421172819,
-    "wof:lastmodified":1566676509,
+    "wof:lastmodified":1636500278,
     "wof:name":"Putina",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

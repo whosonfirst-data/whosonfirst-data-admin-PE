@@ -56,7 +56,13 @@
         "Santa Rosa"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05d6\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0930\u094b\u091c\u093c\u093e"
     ],
     "name:hun_x_preferred":[
         "Santa Rosa"
@@ -118,6 +124,12 @@
     "name:swe_x_preferred":[
         "Santa Rosa"
     ],
+    "name:tur_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0627 \u0631\u0648\u0633\u0627"
+    ],
     "name:vol_x_preferred":[
         "Santa Rosa"
     ],
@@ -136,7 +148,7 @@
         "gn:id":3929109
     },
     "wof:country":"PE",
-    "wof:geomhash":"8e27485c9200a102f80024c0258c5d91",
+    "wof:geomhash":"d62085e9fcf3183baf6a752ed6b6d329",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1276369503,
-    "wof:lastmodified":1566675264,
+    "wof:lastmodified":1636500160,
     "wof:name":"Santa Rosa",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
@@ -157,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.88235999999998,
+    -71.88236,
     -15.03326,
-    -71.88235999999998,
+    -71.88236,
     -15.03326
 ],
-  "geometry": {"coordinates":[-71.88235999999998,-15.03326],"type":"Point"}
+  "geometry": {"coordinates":[-71.88236000000001,-15.03326],"type":"Point"}
 }

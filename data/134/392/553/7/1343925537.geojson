@@ -85,6 +85,9 @@
     "name:glg_x_preferred":[
         "Pontevedra"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d5\u05d5\u05d3\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Pontevedra"
     ],
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":1343925537,
-    "wof:lastmodified":1566674294,
+    "wof:lastmodified":1636500074,
     "wof:name":"Pontevedra",
     "wof:parent_id":421175155,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
     "name:hrv_x_preferred":[
         "Batanes"
     ],
+    "name:hun_x_preferred":[
+        "Batanes"
+    ],
     "name:ilo_x_preferred":[
         "Batanes"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1343626161,
-    "wof:lastmodified":1566674076,
+    "wof:lastmodified":1636500054,
     "wof:name":"Batanes",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

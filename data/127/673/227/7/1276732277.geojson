@@ -134,7 +134,16 @@
         "Santa Maria"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Santa Maria"
     ],
     "name:vol_x_preferred":[
         "Santa Maria"
@@ -157,7 +166,7 @@
         "gn:id":6667481
     },
     "wof:country":"PE",
-    "wof:geomhash":"b05b013d0454a2dcf002340e820f3864",
+    "wof:geomhash":"4fcc9b4d4698feebf82dbf016d7f59c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":1276732277,
-    "wof:lastmodified":1566674980,
+    "wof:lastmodified":1636500135,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",
@@ -178,10 +187,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.41563000000002,
+    -76.41563,
     -13.1007,
-    -76.41563000000002,
+    -76.41563,
     -13.1007
 ],
-  "geometry": {"coordinates":[-76.41563000000002,-13.1007],"type":"Point"}
+  "geometry": {"coordinates":[-76.41562999999999,-13.1007],"type":"Point"}
 }

@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Cordill\u00e8re"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d3\u05d9\u05dc\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Kordiller\u00e1k"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1193096143,
-    "wof:lastmodified":1566675689,
+    "wof:lastmodified":1636500196,
     "wof:name":"Cordillera",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

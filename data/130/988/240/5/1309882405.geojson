@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Mito"
     ],
+    "name:hun_x_preferred":[
+        "Mito"
+    ],
     "name:ita_x_preferred":[
         "Mito"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1309882405,
-    "wof:lastmodified":1566676463,
+    "wof:lastmodified":1636500270,
     "wof:name":"Mito",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

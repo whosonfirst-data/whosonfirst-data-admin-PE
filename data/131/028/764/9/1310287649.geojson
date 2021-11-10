@@ -47,6 +47,9 @@
         "Laetitia"
     ],
     "name:hun_x_preferred":[
+        "Leticia"
+    ],
+    "name:hun_x_variant":[
         "Let\u00edcia"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1310287649,
-    "wof:lastmodified":1566676131,
+    "wof:lastmodified":1636500240,
     "wof:name":"Leticia",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.4799676938,-6.50995278028,-76.4799676938,-6.50995278028",
+    "geom:bbox":"-76.479968,-6.509953,-76.479968,-6.509953",
     "geom:latitude":-6.509953,
     "geom:longitude":-76.479968,
     "iso:country":"PE",
@@ -59,6 +59,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ab0\u0abe\u0aaa\u0acb\u0a9f\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e4\u05d5\u05d8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0924\u0947\u0930\u093e\u092a\u094b\u091f\u094b"
@@ -267,7 +270,7 @@
     },
     "wof:country":"PE",
     "wof:created":1499130918,
-    "wof:geomhash":"5884785f62ca44b22b99f46882caada7",
+    "wof:geomhash":"0eec2e88a7c3906e28a6e446bcb6be4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":1141908509,
-    "wof:lastmodified":1566677692,
+    "wof:lastmodified":1636500400,
     "wof:name":"Tarapoto",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",
@@ -288,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.47996769377784,
-    -6.50995278028307,
-    -76.47996769377784,
-    -6.50995278028307
+    -76.479968,
+    -6.509953,
+    -76.479968,
+    -6.509953
 ],
-  "geometry": {"coordinates":[-76.47996769377784,-6.50995278028307],"type":"Point"}
+  "geometry": {"coordinates":[-76.479968,-6.509953],"type":"Point"}
 }

@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05df \u05d8\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Tan Tan"
+    ],
     "name:jpn_x_preferred":[
         "\u30bf\u30f3\u30bf\u30f3"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1360058053,
-    "wof:lastmodified":1566676341,
+    "wof:lastmodified":1636500258,
     "wof:name":"Tan Tan",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
     "name:hak_x_preferred":[
         "Canoas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d5\u05d0\u05d4"
+    ],
     "name:ido_x_preferred":[
         "Canoas"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1259641019,
-    "wof:lastmodified":1566677054,
+    "wof:lastmodified":1636500344,
     "wof:name":"Canoas",
     "wof:parent_id":421175163,
     "wof:placetype":"locality",

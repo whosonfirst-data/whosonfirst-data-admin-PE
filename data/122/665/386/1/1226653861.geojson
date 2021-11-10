@@ -37,7 +37,19 @@
     "name:deu_x_preferred":[
         "Mio"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03bf"
+    ],
     "name:fra_x_preferred":[
+        "Mio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05de\u05d9\u05e7\u05dc\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u092f\u0913"
+    ],
+    "name:ind_x_preferred":[
         "Mio"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +57,15 @@
     ],
     "name:swe_x_preferred":[
         "Mio"
+    ],
+    "name:tur_x_preferred":[
+        "Mio"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         "gn:id":6380165
     },
     "wof:country":"PE",
-    "wof:geomhash":"8584b460eab036633e6a19a14945339c",
+    "wof:geomhash":"fa2353434512a17123287e037c248d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1226653861,
-    "wof:lastmodified":1566677637,
+    "wof:lastmodified":1636500394,
     "wof:name":"Mio",
     "wof:parent_id":421187867,
     "wof:placetype":"locality",
@@ -79,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.71833000000002,
+    -77.71833,
     -9.08667,
-    -77.71833000000002,
+    -77.71833,
     -9.08667
 ],
-  "geometry": {"coordinates":[-77.71833000000002,-9.08667],"type":"Point"}
+  "geometry": {"coordinates":[-77.71832999999999,-9.08667],"type":"Point"}
 }

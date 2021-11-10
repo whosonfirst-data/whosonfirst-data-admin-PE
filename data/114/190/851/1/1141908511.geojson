@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.2199506039,-13.175023988,-74.2199506039,-13.175023988",
+    "geom:bbox":"-74.219951,-13.175024,-74.219951,-13.175024",
     "geom:latitude":-13.175024,
     "geom:longitude":-74.219951,
     "iso:country":"PE",
@@ -77,6 +77,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aaf\u0abe\u0a95\u0ac1\u0a9a\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e7\u05d5\u05e7\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0905\u092f\u093e\u0915\u0941\u091a\u094b"
@@ -294,7 +297,7 @@
     },
     "wof:country":"PE",
     "wof:created":1499130919,
-    "wof:geomhash":"ef211f162bc4bf9694c4124edc04bf26",
+    "wof:geomhash":"a607b144cb33af6068da79c429829a13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":1141908511,
-    "wof:lastmodified":1566677692,
+    "wof:lastmodified":1636500400,
     "wof:name":"Ayacucho",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",
@@ -315,10 +318,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.21995060392504,
-    -13.17502398799206,
-    -74.21995060392504,
-    -13.17502398799206
+    -74.219951,
+    -13.175024,
+    -74.219951,
+    -13.175024
 ],
-  "geometry": {"coordinates":[-74.21995060392504,-13.17502398799206],"type":"Point"}
+  "geometry": {"coordinates":[-74.21995099999999,-13.175024],"type":"Point"}
 }

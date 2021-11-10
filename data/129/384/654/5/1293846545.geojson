@@ -41,7 +41,16 @@
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u0443\u0442\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0679\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Putina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         "gn:id":3931136
     },
     "wof:country":"PE",
-    "wof:geomhash":"235b2ebacc264c7ee8ed1516e3f9e763",
+    "wof:geomhash":"0be0806cda93fdb71cf67c5e3c4a27eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1293846545,
-    "wof:lastmodified":1566674633,
+    "wof:lastmodified":1636500107,
     "wof:name":"Putina",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",
@@ -76,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.58093000000002,
+    -70.58093,
     -16.33206,
-    -70.58093000000002,
+    -70.58093,
     -16.33206
 ],
-  "geometry": {"coordinates":[-70.58093000000002,-16.33206],"type":"Point"}
+  "geometry": {"coordinates":[-70.58093,-16.33206],"type":"Point"}
 }

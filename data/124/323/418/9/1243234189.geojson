@@ -83,6 +83,9 @@
         "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub8e8\uc774\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub8e8\uc774\uc2a4"
     ],
     "name:lit_x_preferred":[
@@ -124,11 +127,20 @@
     "name:tgl_x_preferred":[
         "San Luis"
     ],
+    "name:tur_x_preferred":[
+        "San Luis"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
     ],
     "name:und_x_variant":[
         "Seccion San Luis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis"
     ],
     "name:vol_x_preferred":[
         "San Luis"
@@ -148,7 +160,7 @@
         "gn:id":3691957
     },
     "wof:country":"PE",
-    "wof:geomhash":"cd45327084744dec004c8b48f4b6d95b",
+    "wof:geomhash":"bab546680de3f5dba05c04c3a6a4dec3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1243234189,
-    "wof:lastmodified":1566676753,
+    "wof:lastmodified":1636500314,
     "wof:name":"San Luis",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",
@@ -169,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.81293000000002,
+    -79.81293,
     -6.82143,
-    -79.81293000000002,
+    -79.81293,
     -6.82143
 ],
-  "geometry": {"coordinates":[-79.81293000000002,-6.82143],"type":"Point"}
+  "geometry": {"coordinates":[-79.81292999999999,-6.82143],"type":"Point"}
 }

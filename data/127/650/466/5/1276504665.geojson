@@ -31,6 +31,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u09b0\u09be"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0942\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Sura"
+    ],
+    "name:swe_x_preferred":[
+        "Sura"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Sura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -43,7 +64,7 @@
         "gn:id":3928264
     },
     "wof:country":"PE",
-    "wof:geomhash":"935a895b778d51e03366d0d508502df0",
+    "wof:geomhash":"3c69ebe377c86147e01b623f3eedf5d3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276504665,
-    "wof:lastmodified":1566675076,
+    "wof:lastmodified":1636500144,
     "wof:name":"Sura",
     "wof:parent_id":1108694033,
     "wof:placetype":"locality",
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.65453000000001,
+    -69.65453,
     -17.32814,
-    -69.65453000000001,
+    -69.65453,
     -17.32814
 ],
-  "geometry": {"coordinates":[-69.65453000000001,-17.32814],"type":"Point"}
+  "geometry": {"coordinates":[-69.65452999999999,-17.32814],"type":"Point"}
 }

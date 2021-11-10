@@ -76,6 +76,9 @@
     "name:hak_x_preferred":[
         "Canoas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d5\u05d0\u05d4"
+    ],
     "name:ido_x_preferred":[
         "Canoas"
     ],
@@ -154,7 +157,7 @@
         "gn:id":3698918
     },
     "wof:country":"PE",
-    "wof:geomhash":"0d2f0c189d6b40a25d98e330ee6444c9",
+    "wof:geomhash":"d71d8a147d7ba669d517bebc30576385",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1276300223,
-    "wof:lastmodified":1566675211,
+    "wof:lastmodified":1636500157,
     "wof:name":"Canoas",
     "wof:parent_id":421175163,
     "wof:placetype":"locality",
@@ -175,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.89433000000002,
+    -80.89433,
     -3.91933,
-    -80.89433000000002,
+    -80.89433,
     -3.91933
 ],
-  "geometry": {"coordinates":[-80.89433000000002,-3.91933],"type":"Point"}
+  "geometry": {"coordinates":[-80.89433,-3.91933],"type":"Point"}
 }

@@ -37,8 +37,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0627\u0634\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cb\u0995\u09be\u099a\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Tocache"
+    ],
+    "name:deu_x_preferred":[
+        "Tocache"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03ac\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Tocache"
@@ -46,13 +55,55 @@
     "name:eng_x_variant":[
         "Tocache"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06a9\u0627\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Tocache"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d0\u05e6'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094b\u0915\u093e\u0915\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Tocache"
+    ],
+    "name:ind_x_preferred":[
+        "Tocache"
+    ],
+    "name:ita_x_preferred":[
+        "Tocache"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\uce90\uc2dc"
+    ],
+    "name:pol_x_preferred":[
         "Tocache"
     ],
     "name:que_x_preferred":[
         "Tukachi"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0430\u0447\u0435"
+    ],
     "name:spa_x_preferred":[
+        "Tocache"
+    ],
+    "name:swe_x_preferred":[
+        "Tocache"
+    ],
+    "name:tur_x_preferred":[
+        "Tocache"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043a\u0430\u0447\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u06a9\u0627\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Tocache"
     ],
     "name:war_x_preferred":[
@@ -123,7 +174,7 @@
         }
     ],
     "wof:id":421170671,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1636500285,
     "wof:name":"Tocache",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

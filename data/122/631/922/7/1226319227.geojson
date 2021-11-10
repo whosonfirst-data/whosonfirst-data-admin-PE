@@ -34,11 +34,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0645\u0627\u062a\u0634\u0648\u0643\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c1\u09ae\u09be\u099b\u09c1\u0995\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Huamachuco"
     ],
     "name:deu_x_preferred":[
         "Huamachuco"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03bc\u03b1\u03bd\u03c4\u03c3\u03bf\u03cd\u03ba\u03bf"
     ],
     "name:epo_x_preferred":[
         "Huama\u0109uko"
@@ -49,13 +55,46 @@
     "name:fra_x_preferred":[
         "Huamachuco"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05e0\u05de\u05e6'\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0906\u092e\u093e\u091a\u0941\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Huamachuco"
+    ],
+    "name:ind_x_preferred":[
+        "Huamachuco"
+    ],
     "name:ita_x_preferred":[
+        "Huamachuco"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\uc544\ub9c8\ucd94\ucf54"
+    ],
+    "name:pol_x_preferred":[
         "Huamachuco"
     ],
     "name:que_x_preferred":[
         "Wamachuku"
     ],
     "name:spa_x_preferred":[
+        "Huamachuco"
+    ],
+    "name:swe_x_preferred":[
+        "Huamachuco"
+    ],
+    "name:tur_x_preferred":[
+        "Huamachuco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u043c\u0430\u0447\u0443\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0627\u0645\u0627\u0686\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Huamachuco"
     ],
     "name:war_x_preferred":[
@@ -76,7 +115,7 @@
         "gn:id":3939750
     },
     "wof:country":"PE",
-    "wof:geomhash":"1ed04920ed7f2fb7df75651bcefd2077",
+    "wof:geomhash":"b4cf94c09e143afae66aa4ae7c30f41f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +126,7 @@
         }
     ],
     "wof:id":1226319227,
-    "wof:lastmodified":1566677660,
+    "wof:lastmodified":1636500396,
     "wof:name":"Huamachuco",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",
@@ -97,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.58778000000002,
+    -75.58778,
     -12.055,
-    -75.58778000000002,
+    -75.58778,
     -12.055
 ],
-  "geometry": {"coordinates":[-75.58778000000002,-12.055],"type":"Point"}
+  "geometry": {"coordinates":[-75.58778,-12.055],"type":"Point"}
 }

@@ -47,6 +47,9 @@
         "Matara"
     ],
     "name:por_x_preferred":[
+        "Matara"
+    ],
+    "name:por_x_variant":[
         "Matar\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1259389603,
-    "wof:lastmodified":1566677004,
+    "wof:lastmodified":1636500340,
     "wof:name":"Matara",
     "wof:parent_id":1108693909,
     "wof:placetype":"locality",

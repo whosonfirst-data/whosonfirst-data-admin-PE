@@ -31,6 +31,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09cd\u09b2\u09be\u09b0\u09bf\u0995\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bb\u03b1\u03c1\u03af\u03ba\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05dc\u05e8\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u093e\u0930\u093f\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Villarica"
+    ],
+    "name:ind_x_preferred":[
+        "Villarica"
+    ],
+    "name:tur_x_preferred":[
+        "Villarica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u043b\u0430\u0440\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0644\u0627\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Villarica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -43,7 +73,7 @@
         "gn:id":6389287
     },
     "wof:country":"PE",
-    "wof:geomhash":"dc7ee88aadd7da12f520e1136d101475",
+    "wof:geomhash":"480c30cae41c359af2a0810c7505b565",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293248771,
-    "wof:lastmodified":1566674633,
+    "wof:lastmodified":1636500108,
     "wof:name":"Villarica",
     "wof:parent_id":421194089,
     "wof:placetype":"locality",
@@ -64,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.48028000000002,
+    -77.48028,
     -5.78361,
-    -77.48028000000002,
+    -77.48028,
     -5.78361
 ],
-  "geometry": {"coordinates":[-77.48028000000002,-5.78361],"type":"Point"}
+  "geometry": {"coordinates":[-77.48027999999999,-5.78361],"type":"Point"}
 }

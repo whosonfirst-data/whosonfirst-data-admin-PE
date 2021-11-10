@@ -44,6 +44,9 @@
     "name:glg_x_preferred":[
         "Coronel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d5\u05e0\u05dc"
+    ],
     "name:ita_x_preferred":[
         "Coronel"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1209487965,
-    "wof:lastmodified":1566675380,
+    "wof:lastmodified":1636500171,
     "wof:name":"Coronel",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

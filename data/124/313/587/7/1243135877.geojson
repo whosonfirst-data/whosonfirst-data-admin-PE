@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Tarapoto"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e4\u05d5\u05d8\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Tarapoto"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1243135877,
-    "wof:lastmodified":1566676766,
+    "wof:lastmodified":1636500316,
     "wof:name":"Tarapoto",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",

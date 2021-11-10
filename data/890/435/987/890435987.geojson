@@ -64,6 +64,9 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a9a\u0abe\u0aaa\u0acb\u0aaf\u0abe\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e6'\u05e4\u05d5\u05d9\u05d0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u091a\u093e\u092a\u094b\u092f\u0938"
     ],
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":890435987,
-    "wof:lastmodified":1566676571,
+    "wof:lastmodified":1636500294,
     "wof:name":"Chachapoyas",
     "wof:parent_id":1108693895,
     "wof:placetype":"locality",

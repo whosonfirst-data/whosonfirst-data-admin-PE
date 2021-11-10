@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Mito"
     ],
+    "name:hun_x_preferred":[
+        "Mito"
+    ],
     "name:ita_x_preferred":[
         "Mito"
     ],
@@ -76,7 +79,7 @@
         "gn:id":3694735
     },
     "wof:country":"PE",
-    "wof:geomhash":"cd7f19e52b63d1946f2d9c8a7d203641",
+    "wof:geomhash":"0845e518b0339c541d14da3536d4dc53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1276967739,
-    "wof:lastmodified":1566675234,
+    "wof:lastmodified":1636500159,
     "wof:name":"Mito",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",
@@ -97,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.43328000000002,
+    -76.43328,
     -9.89767,
-    -76.43328000000002,
+    -76.43328,
     -9.89767
 ],
-  "geometry": {"coordinates":[-76.43328000000002,-9.89767],"type":"Point"}
+  "geometry": {"coordinates":[-76.43328,-9.89767],"type":"Point"}
 }

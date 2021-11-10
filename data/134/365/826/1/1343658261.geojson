@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Manta"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Manta"
     ],
@@ -121,7 +124,7 @@
         "gn:id":3935431
     },
     "wof:country":"PE",
-    "wof:geomhash":"53b180ed40e56a213aa1fd9515c3c22e",
+    "wof:geomhash":"ff26b0f0e773d31f31a6412b0a91cda2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1343658261,
-    "wof:lastmodified":1566674069,
+    "wof:lastmodified":1636500053,
     "wof:name":"Manta",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",
@@ -142,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.23333000000002,
+    -75.23333,
     -12.63333,
-    -75.23333000000002,
+    -75.23333,
     -12.63333
 ],
-  "geometry": {"coordinates":[-75.23333000000002,-12.63333],"type":"Point"}
+  "geometry": {"coordinates":[-75.23333,-12.63333],"type":"Point"}
 }

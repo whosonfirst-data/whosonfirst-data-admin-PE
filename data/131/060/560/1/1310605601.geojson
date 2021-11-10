@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Nagua"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nagua"
+    ],
     "name:ita_x_preferred":[
         "Nagua"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1310605601,
-    "wof:lastmodified":1566676219,
+    "wof:lastmodified":1636500246,
     "wof:name":"Nagua",
     "wof:parent_id":1108693933,
     "wof:placetype":"locality",

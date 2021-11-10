@@ -47,10 +47,16 @@
         "San Pablo"
     ],
     "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u0627\u0628\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0627\u0646 \u067e\u0627\u0628\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "San Pablo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05d1\u05dc\u05d5"
     ],
     "name:ilo_x_preferred":[
         "San Pablo"
@@ -115,7 +121,7 @@
         "gn:id":3812520
     },
     "wof:country":"PE",
-    "wof:geomhash":"798d7ba5de8f4ca7a56d1f9f89a36ec1",
+    "wof:geomhash":"bf6b34a0377dd193140d7023e9fb7ced",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1293560225,
-    "wof:lastmodified":1566674718,
+    "wof:lastmodified":1636500115,
     "wof:name":"San Pablo",
     "wof:parent_id":421194455,
     "wof:placetype":"locality",
@@ -136,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.52393000000002,
+    -79.52393,
     -7.42153,
-    -79.52393000000002,
+    -79.52393,
     -7.42153
 ],
-  "geometry": {"coordinates":[-79.52393000000002,-7.42153],"type":"Point"}
+  "geometry": {"coordinates":[-79.52392999999999,-7.42153],"type":"Point"}
 }

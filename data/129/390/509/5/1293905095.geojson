@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "La Vega"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d5\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "La Vega"
+    ],
     "name:ita_x_preferred":[
         "La Vega"
     ],
@@ -83,7 +89,7 @@
         "gn:id":3695453
     },
     "wof:country":"PE",
-    "wof:geomhash":"5ae528bfcd511884a0f7f73488fc7017",
+    "wof:geomhash":"6062887f03f575f6ea7376855038cfb6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1293905095,
-    "wof:lastmodified":1566674590,
+    "wof:lastmodified":1636500104,
     "wof:name":"La Vega",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",
@@ -104,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.76666999999998,
+    -78.76667,
     -5.4,
-    -78.76666999999998,
+    -78.76667,
     -5.4
 ],
-  "geometry": {"coordinates":[-78.76666999999998,-5.4],"type":"Point"}
+  "geometry": {"coordinates":[-78.76667,-5.4],"type":"Point"}
 }

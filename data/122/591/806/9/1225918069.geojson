@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Orellana"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05dc\u05e0\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ec\u30ea\u30e3\u30ca"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1225918069,
-    "wof:lastmodified":1566677496,
+    "wof:lastmodified":1636500382,
     "wof:name":"Orellana",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

@@ -41,10 +41,19 @@
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Ba\u00f1os Termales"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0679\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Putina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         "gn:id":3931135
     },
     "wof:country":"PE",
-    "wof:geomhash":"7e1f51143821573c9eea38660f6e3e45",
+    "wof:geomhash":"85ee01fcf33aebc5f397209e114b3291",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1276297521,
-    "wof:lastmodified":1566675005,
+    "wof:lastmodified":1636500138,
     "wof:name":"Putina",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",
@@ -79,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.68330999999998,
+    -70.68331,
     -16.73464,
-    -70.68330999999998,
+    -70.68331,
     -16.73464
 ],
-  "geometry": {"coordinates":[-70.68330999999998,-16.73464],"type":"Point"}
+  "geometry": {"coordinates":[-70.68331000000001,-16.73464],"type":"Point"}
 }

@@ -37,6 +37,12 @@
     "name:deu_x_preferred":[
         "Paro"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Paro"
+    ],
     "name:ita_x_preferred":[
         "Paro"
     ],
@@ -55,6 +61,9 @@
     "name:swe_x_preferred":[
         "Paro"
     ],
+    "name:vie_x_preferred":[
+        "Paro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -67,7 +76,7 @@
         "gn:id":3967190
     },
     "wof:country":"PE",
-    "wof:geomhash":"2df60b58b087ed98896b8484649f94cd",
+    "wof:geomhash":"6257f5ffc3ba491d6020b373645da33a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1310274695,
-    "wof:lastmodified":1566676095,
+    "wof:lastmodified":1636500237,
     "wof:name":"Paro",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",
@@ -88,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.97055999999998,
+    -76.97056,
     -11.14667,
-    -76.97055999999998,
+    -76.97056,
     -11.14667
 ],
-  "geometry": {"coordinates":[-76.97055999999998,-11.14667],"type":"Point"}
+  "geometry": {"coordinates":[-76.97056000000001,-11.14667],"type":"Point"}
 }

@@ -150,13 +150,25 @@
         "\u041f\u0456\u0441\u043a\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u067e\u0633\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u067e\u06cc\u0633\u06a9\u0648"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Pisco"
+    ],
+    "name:vie_x_variant":[
         "Pisco"
     ],
     "name:war_x_preferred":[
         "Pisco"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u76ae\u65af\u79d1\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76ae\u65af\u79d1\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u65af\u79d1"
@@ -211,7 +223,7 @@
         }
     ],
     "wof:id":421201909,
-    "wof:lastmodified":1566676531,
+    "wof:lastmodified":1636500283,
     "wof:name":"Pisco",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

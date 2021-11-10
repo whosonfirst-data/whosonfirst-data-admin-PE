@@ -49,6 +49,12 @@
     "name:glg_x_preferred":[
         "Salas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Salas"
+    ],
     "name:ind_x_preferred":[
         "Salas"
     ],
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1327321499,
-    "wof:lastmodified":1566673889,
+    "wof:lastmodified":1636500035,
     "wof:name":"Salas",
     "wof:parent_id":1108694021,
     "wof:placetype":"locality",

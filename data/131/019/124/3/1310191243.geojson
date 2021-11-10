@@ -31,15 +31,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09ae\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Roma"
+    ],
+    "name:ind_x_preferred":[
+        "Roma"
+    ],
     "name:ita_x_preferred":[
         "Roma"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub9c8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430"
     ],
     "name:spa_x_preferred":[
         "Roma"
     ],
+    "name:tur_x_preferred":[
+        "Roma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Hacienda Roma",
         "Roma Hacienda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Roma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         "wk:page":"Roma%2C_Peru"
     },
     "wof:country":"PE",
-    "wof:geomhash":"74dcb4c68a732accdd24f25973269b4a",
+    "wof:geomhash":"f669b8d71d9c3f12f0bed831e3871288",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -65,7 +101,7 @@
         }
     ],
     "wof:id":1310191243,
-    "wof:lastmodified":1566676154,
+    "wof:lastmodified":1636500241,
     "wof:name":"Roma",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",
@@ -75,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.14719000000002,
+    -79.14719,
     -7.76591,
-    -79.14719000000002,
+    -79.14719,
     -7.76591
 ],
-  "geometry": {"coordinates":[-79.14719000000002,-7.76591],"type":"Point"}
+  "geometry": {"coordinates":[-79.14718999999999,-7.76591],"type":"Point"}
 }

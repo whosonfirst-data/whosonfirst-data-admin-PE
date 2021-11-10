@@ -219,6 +219,9 @@
         "Kaldera"
     ],
     "name:vie_x_preferred":[
+        "Caldera"
+    ],
+    "name:vie_x_variant":[
         "H\u00f5m ch\u1ea3o"
     ],
     "name:xmf_x_preferred":[
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":1293462443,
-    "wof:lastmodified":1566674607,
+    "wof:lastmodified":1636500106,
     "wof:name":"Caldera",
     "wof:parent_id":1108693961,
     "wof:placetype":"locality",

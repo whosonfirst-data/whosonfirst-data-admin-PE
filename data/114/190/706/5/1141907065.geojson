@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.7666003842,-2.51613971061,-75.7666003842,-2.51613971061",
+    "geom:bbox":"-75.7666,-2.51614,-75.7666,-2.51614",
     "geom:latitude":-2.51614,
     "geom:longitude":-75.7666,
     "iso:country":"PE",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u062f\u0627\u062f\u0648 \u0628\u0627\u0631\u062a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b2\u09a6\u09be\u09a6\u09cb \u09ac\u09be\u09b0\u09a4\u09cd\u09b0\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03b4\u03ac\u03b4\u03bf \u039c\u03c0\u03ac\u03c1\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u062f\u0627\u062f\u0648 \u0628\u0627\u0631\u062a\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d3\u05d8\u05d5 \u05d1\u05e8\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0932\u0926\u093e\u0926\u094b \u092c\u0930\u094d\u0924\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:ind_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:ita_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30eb\u30c0\u30fc\u30c9\u30d0\u30eb\u30c8\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub2e4\ub3c4 \ubc14\ub974\ud2b8\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:pol_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:por_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u044c\u0434\u0430\u0434\u0443-\u0411\u0430\u0440\u0442\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:swe_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:tur_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0434\u0430\u0434\u043e-\u0411\u0430\u0440\u0442\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0644\u0688\u0627\u062f\u0648 \u0628\u0627\u0631\u0679\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Soldado Bartra"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u5c14\u8fbe\u591a\u5df4\u7279\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u723e\u9054\u591a\u00b7\u5df4\u7279\u62c9"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
     "ne:ADM0_A3":"PER",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"PE",
     "wof:created":1499130677,
-    "wof:geomhash":"c8c87254a6f9cc0b68cfd5a324ec8739",
+    "wof:geomhash":"ef6f363b7e37ab31ed45d936857e37c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907065,
-    "wof:lastmodified":1566677691,
+    "wof:lastmodified":1636500400,
     "wof:name":"Soldado Bartra",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.76660038420471,
-    -2.51613971060561,
-    -75.76660038420471,
-    -2.51613971060561
+    -75.7666,
+    -2.51614,
+    -75.7666,
+    -2.51614
 ],
-  "geometry": {"coordinates":[-75.76660038420471,-2.51613971060561],"type":"Point"}
+  "geometry": {"coordinates":[-75.7666,-2.51614],"type":"Point"}
 }

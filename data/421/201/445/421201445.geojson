@@ -29,6 +29,9 @@
     "name:dan_x_preferred":[
         "Mollendo"
     ],
+    "name:deu_x_preferred":[
+        "Mollendo"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bb\u03ad\u03bd\u03c4\u03bf"
     ],
@@ -44,8 +47,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05e0\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094c\u0932\u0947\u0902\u0921\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Mollendo"
     ],
     "name:ind_x_preferred":[
         "Mollendo"
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":421201445,
-    "wof:lastmodified":1566676533,
+    "wof:lastmodified":1636500283,
     "wof:name":"Mollendo",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

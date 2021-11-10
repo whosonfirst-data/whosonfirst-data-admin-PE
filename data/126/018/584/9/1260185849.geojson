@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Pucallpa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05d0\u05dc\u05e4\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Pucallpa"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1260185849,
-    "wof:lastmodified":1566675869,
+    "wof:lastmodified":1636500213,
     "wof:name":"Pucallpa",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "La Pampa"
     ],
+    "name:hun_x_preferred":[
+        "La Pampa"
+    ],
     "name:por_x_preferred":[
         "La Pampa"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209294797,
-    "wof:lastmodified":1566675562,
+    "wof:lastmodified":1636500186,
     "wof:name":"La Pampa",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

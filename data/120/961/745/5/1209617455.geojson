@@ -40,7 +40,16 @@
     "name:deu_x_preferred":[
         "Shulan"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0644\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Shulan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05dc\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
         "Shulan"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1209617455,
-    "wof:lastmodified":1566675492,
+    "wof:lastmodified":1636500181,
     "wof:name":"Shulan",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

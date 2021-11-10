@@ -71,6 +71,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aaf\u0acb\u0aac\u0abe\u0aae\u0acd\u0aac\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05d5\u05d1\u05de\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u092f\u094b\u092c\u093e\u092e\u094d\u092c\u093e"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421200839,
-    "wof:lastmodified":1566676531,
+    "wof:lastmodified":1636500282,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

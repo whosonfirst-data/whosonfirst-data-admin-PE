@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Palma Soriano"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05de\u05d4 \u05e1\u05d5\u05e8\u05d9\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Palma Soriano"
+    ],
     "name:ita_x_preferred":[
         "Palma Soriano"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1193240221,
-    "wof:lastmodified":1566675697,
+    "wof:lastmodified":1636500197,
     "wof:name":"Palma Soriano",
     "wof:parent_id":421175175,
     "wof:placetype":"locality",

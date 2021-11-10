@@ -41,10 +41,19 @@
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Putina Hacienda"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0679\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Putina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1259541521,
-    "wof:lastmodified":1566677011,
+    "wof:lastmodified":1636500341,
     "wof:name":"Putina",
     "wof:parent_id":1108694033,
     "wof:placetype":"locality",

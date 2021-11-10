@@ -68,6 +68,9 @@
         "\u30e1\u30f3\u30c9\u30fc\u30b5"
     ],
     "name:kor_x_preferred":[
+        "\uba58\ub3c4\uc790"
+    ],
+    "name:kor_x_variant":[
         "\uba58\ub3c4\uc0ac"
     ],
     "name:lit_x_preferred":[
@@ -106,7 +109,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0434\u043e\u0441\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0688\u0648\u0632\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Mendoza"
+    ],
+    "name:vie_x_variant":[
         "Mendoza"
     ],
     "src:geom":"geonames",
@@ -121,7 +130,7 @@
         "gn:id":6310332
     },
     "wof:country":"PE",
-    "wof:geomhash":"63964a0989964b707135cef47a90280b",
+    "wof:geomhash":"88fb5704c80f55e68f3eebb2edffa1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":1293663083,
-    "wof:lastmodified":1566674686,
+    "wof:lastmodified":1636500112,
     "wof:name":"Mendoza",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",
@@ -142,10 +151,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.32021999999999,
+    -69.32022,
     -16.75572,
-    -69.32021999999999,
+    -69.32022,
     -16.75572
 ],
-  "geometry": {"coordinates":[-69.32021999999999,-16.75572],"type":"Point"}
+  "geometry": {"coordinates":[-69.32022000000001,-16.75572],"type":"Point"}
 }

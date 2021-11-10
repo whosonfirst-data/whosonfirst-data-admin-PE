@@ -62,6 +62,9 @@
         "Moray"
     ],
     "name:tur_x_preferred":[
+        "Moray"
+    ],
+    "name:tur_x_variant":[
         "Moray laboratuvar\u0131"
     ],
     "name:ukr_x_preferred":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1259372877,
-    "wof:lastmodified":1566677035,
+    "wof:lastmodified":1636500343,
     "wof:name":"Moray",
     "wof:parent_id":421183001,
     "wof:placetype":"locality",

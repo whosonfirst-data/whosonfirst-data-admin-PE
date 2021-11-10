@@ -58,6 +58,12 @@
     "name:grn_x_preferred":[
         "Filadelfia"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05d3\u05dc\u05e4\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Filadelfia"
+    ],
     "name:ita_x_preferred":[
         "Filadelfia"
     ],
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1243130537,
-    "wof:lastmodified":1566676765,
+    "wof:lastmodified":1636500315,
     "wof:name":"Filadelfia",
     "wof:parent_id":1108693995,
     "wof:placetype":"locality",

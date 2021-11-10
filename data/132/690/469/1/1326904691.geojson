@@ -248,6 +248,9 @@
         "Mango"
     ],
     "name:vie_x_preferred":[
+        "Mango"
+    ],
+    "name:vie_x_variant":[
         "Xo\u00e0i"
     ],
     "name:war_x_preferred":[
@@ -268,7 +271,7 @@
         "gn:id":3694984
     },
     "wof:country":"PE",
-    "wof:geomhash":"b5efd916634a6b1be3bbdf02bc6deded",
+    "wof:geomhash":"dd64ec313cb5b55b9d5fea8d72d2e45c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":1326904691,
-    "wof:lastmodified":1566673969,
+    "wof:lastmodified":1636500043,
     "wof:name":"Mango",
     "wof:parent_id":421171561,
     "wof:placetype":"locality",
@@ -289,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.92933000000002,
+    -79.92933,
     -4.55249,
-    -79.92933000000002,
+    -79.92933,
     -4.55249
 ],
-  "geometry": {"coordinates":[-79.92933000000002,-4.55249],"type":"Point"}
+  "geometry": {"coordinates":[-79.92932999999999,-4.55249],"type":"Point"}
 }

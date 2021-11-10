@@ -173,6 +173,9 @@
         "\u0415\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0688\u0648\u0631\u06cc\u0688\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u06cc\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
     "name:vie_x_preferred":[
@@ -193,7 +196,7 @@
         "gn:id":6389362
     },
     "wof:country":"PE",
-    "wof:geomhash":"225bbf997f0bc71baaf2c3cf84018786",
+    "wof:geomhash":"3479ba34565234fa3dde0ee3e1134cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1343826553,
-    "wof:lastmodified":1566674265,
+    "wof:lastmodified":1636500072,
     "wof:name":"El Dorado",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",
@@ -214,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.31166999999998,
+    -77.31167,
     -5.75472,
-    -77.31166999999998,
+    -77.31167,
     -5.75472
 ],
-  "geometry": {"coordinates":[-77.31166999999998,-5.75472],"type":"Point"}
+  "geometry": {"coordinates":[-77.31167000000001,-5.75472],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.3400230323,-17.6400227673,-71.3400230323,-17.6400227673",
+    "geom:bbox":"-71.340023,-17.640023,-71.340023,-17.640023",
     "geom:latitude":-17.640023,
     "geom:longitude":-71.340023,
     "iso:country":"PE",
@@ -23,6 +23,9 @@
     ],
     "name:aym_x_preferred":[
         "Ilu"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b2\u09cb"
     ],
     "name:cat_x_preferred":[
         "Ilo"
@@ -45,6 +48,18 @@
     "name:fra_x_preferred":[
         "Ilo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Ilo"
+    ],
+    "name:ind_x_preferred":[
+        "Ilo"
+    ],
     "name:ita_x_preferred":[
         "Ilo"
     ],
@@ -53,6 +68,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10da\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub85c"
     ],
     "name:lit_x_preferred":[
         "Ilas"
@@ -81,11 +99,20 @@
     "name:swe_x_preferred":[
         "Ilo"
     ],
+    "name:tur_x_preferred":[
+        "Ilo"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043e"
     ],
     "name:und_x_variant":[
         "Pacocha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Ilo"
     ],
     "name:war_x_preferred":[
         "Ilo"
@@ -207,7 +234,7 @@
     },
     "wof:country":"PE",
     "wof:created":1499130981,
-    "wof:geomhash":"e40e7650cf7261f6f582aeff31aa6373",
+    "wof:geomhash":"94b3dbde3db7aa4d4ba5ae1520d45675",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -218,7 +245,7 @@
         }
     ],
     "wof:id":1141908825,
-    "wof:lastmodified":1566677693,
+    "wof:lastmodified":1636500401,
     "wof:name":"Ilo",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",
@@ -230,10 +257,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.34002303229897,
-    -17.64002276730679,
-    -71.34002303229897,
-    -17.64002276730679
+    -71.340023,
+    -17.640023,
+    -71.340023,
+    -17.640023
 ],
-  "geometry": {"coordinates":[-71.34002303229897,-17.64002276730679],"type":"Point"}
+  "geometry": {"coordinates":[-71.340023,-17.640023],"type":"Point"}
 }

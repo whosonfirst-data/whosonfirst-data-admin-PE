@@ -173,6 +173,9 @@
         "\u0411\u0440\u0438\u0441\u0442\u043e\u043b\u044c"
     ],
     "name:kor_x_preferred":[
+        "\ube0c\ub9ac\uc2a4\ud1a8"
+    ],
+    "name:kor_x_variant":[
         "\ube0c\ub9ac\uc2a4\ud2c0"
     ],
     "name:lat_x_preferred":[
@@ -343,7 +346,7 @@
         "gn:id":3699241
     },
     "wof:country":"PE",
-    "wof:geomhash":"5cee5041ac96911625f567737518f50e",
+    "wof:geomhash":"b0e63110e632076b5333836901268d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":1343543095,
-    "wof:lastmodified":1566674083,
+    "wof:lastmodified":1636500055,
     "wof:name":"Bristol",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",
@@ -364,10 +367,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.54739000000002,
+    -76.54739,
     -4.84738,
-    -76.54739000000002,
+    -76.54739,
     -4.84738
 ],
-  "geometry": {"coordinates":[-76.54739000000002,-4.84738],"type":"Point"}
+  "geometry": {"coordinates":[-76.54738999999999,-4.84738],"type":"Point"}
 }

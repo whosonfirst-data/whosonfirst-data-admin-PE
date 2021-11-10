@@ -64,6 +64,12 @@
     "name:fra_x_preferred":[
         "Suihua"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d0\u05d9\u05d7\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Suihua"
+    ],
     "name:ita_x_preferred":[
         "Suihua"
     ],
@@ -139,7 +145,7 @@
         "gn:id":6669780
     },
     "wof:country":"PE",
-    "wof:geomhash":"3ffeab3441cbdeeb6a372d0360e19027",
+    "wof:geomhash":"6cd8a6097d61a995cdc565da04ac2992",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1293079407,
-    "wof:lastmodified":1566674504,
+    "wof:lastmodified":1636500098,
     "wof:name":"Suihua",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",
@@ -160,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.38873000000002,
+    -76.38873,
     -9.82335,
-    -76.38873000000002,
+    -76.38873,
     -9.82335
 ],
-  "geometry": {"coordinates":[-76.38873000000002,-9.82335],"type":"Point"}
+  "geometry": {"coordinates":[-76.38873,-9.82335],"type":"Point"}
 }

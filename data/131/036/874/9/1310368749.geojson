@@ -42,6 +42,9 @@
     "name:glg_x_preferred":[
         "Coronel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d5\u05e0\u05dc"
+    ],
     "name:ita_x_preferred":[
         "Coronel"
     ],
@@ -81,7 +84,7 @@
         "gn:id":11511688
     },
     "wof:country":"PE",
-    "wof:geomhash":"346f3516b2f3d8c21cbc2b7f586434bd",
+    "wof:geomhash":"9ad8cedefbc0fe237b498312f4ed8912",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1310368749,
-    "wof:lastmodified":1566676034,
+    "wof:lastmodified":1636500232,
     "wof:name":"Coronel",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",
@@ -102,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.42090999999999,
+    -69.42091,
     -11.31212,
-    -69.42090999999999,
+    -69.42091,
     -11.31212
 ],
-  "geometry": {"coordinates":[-69.42090999999999,-11.31212],"type":"Point"}
+  "geometry": {"coordinates":[-69.42091000000001,-11.31212],"type":"Point"}
 }

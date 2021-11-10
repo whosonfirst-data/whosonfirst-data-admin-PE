@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.0800037045,-14.4600101534,-72.0800037045,-14.4600101534",
+    "geom:bbox":"-72.080004,-14.46001,-72.080004,-14.46001",
     "geom:latitude":-14.46001,
     "geom:longitude":-72.080004,
     "iso:country":"PE",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u062a\u0648\u0645\u0627\u0633"
+    ],
     "name:aym_x_preferred":[
         "Santu Tumas"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09cb \u099f\u09ae\u09be\u09b8"
     ],
     "name:cat_x_preferred":[
         "Santo Tom\u00e1s"
@@ -30,11 +36,35 @@
     "name:deu_x_preferred":[
         "Santo Tom\u00e1s"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03cc\u03bc\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Santo Tom\u00e1s"
     ],
     "name:fra_x_preferred":[
         "Santo Tom\u00e1s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5 \u05ea\u05d5\u05de\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u094b \u091f\u0949\u092e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Santo Tomas"
+    ],
+    "name:ind_x_preferred":[
+        "Santo Tomas"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30c8\u30fc\u30de\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud1a0 \ud1a0\ub9c8\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Santo Tom\u00e1s"
@@ -53,6 +83,21 @@
     ],
     "name:spa_x_preferred":[
         "Santo Tom\u00e1s"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Tomas"
+    ],
+    "name:tur_x_preferred":[
+        "Santo Tomas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043e-\u0422\u043e\u043c\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u0679\u0648 \u0679\u0648\u0645\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Santo Tomas"
     ],
     "name:war_x_preferred":[
         "Santo Tom\u00e1s"
@@ -168,7 +213,7 @@
     },
     "wof:country":"PE",
     "wof:created":1499130579,
-    "wof:geomhash":"7bf7adc2bd4c32e3e02aa9c38c6c8fec",
+    "wof:geomhash":"9f85fbf584b86d0b24e0608db4612db5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +224,7 @@
         }
     ],
     "wof:id":1141906381,
-    "wof:lastmodified":1566677693,
+    "wof:lastmodified":1636500402,
     "wof:name":"Santo Tomas",
     "wof:parent_id":1108693903,
     "wof:placetype":"locality",
@@ -189,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.08000370450242,
-    -14.46001015336174,
-    -72.08000370450242,
-    -14.46001015336174
+    -72.080004,
+    -14.46001,
+    -72.080004,
+    -14.46001
 ],
-  "geometry": {"coordinates":[-72.08000370450242,-14.46001015336174],"type":"Point"}
+  "geometry": {"coordinates":[-72.080004,-14.46001],"type":"Point"}
 }

@@ -43,6 +43,9 @@
     "name:epo_x_preferred":[
         "Progreso"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06af\u0631\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Progreso"
     ],
@@ -91,7 +94,7 @@
         "gn:id":3931796
     },
     "wof:country":"PE",
-    "wof:geomhash":"2cb13f963ef56adebc1800da28d90d7f",
+    "wof:geomhash":"76994d5c23968e076c617bc552805e03",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1343963859,
-    "wof:lastmodified":1566674081,
+    "wof:lastmodified":1636500055,
     "wof:name":"Progreso",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",
@@ -112,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.12416999999998,
+    -71.12417,
     -16.40795,
-    -71.12416999999998,
+    -71.12417,
     -16.40795
 ],
-  "geometry": {"coordinates":[-71.12416999999998,-16.40795],"type":"Point"}
+  "geometry": {"coordinates":[-71.12417000000001,-16.40795],"type":"Point"}
 }

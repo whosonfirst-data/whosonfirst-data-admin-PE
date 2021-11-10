@@ -57,6 +57,9 @@
     "name:fra_x_preferred":[
         "Moyobamba"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05d5\u05d1\u05de\u05d1\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Moyobamba"
     ],
@@ -117,7 +120,7 @@
         "gn:id":11512559
     },
     "wof:country":"PE",
-    "wof:geomhash":"b27ff9d47ffbe2f2606ca072e8fc609d",
+    "wof:geomhash":"cce8b59f4461ac1f5f23a0274b3b7b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1310071909,
-    "wof:lastmodified":1566676015,
+    "wof:lastmodified":1636500230,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",
@@ -138,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.40250999999999,
+    -69.40251,
     -11.42504,
-    -69.40250999999999,
+    -69.40251,
     -11.42504
 ],
-  "geometry": {"coordinates":[-69.40250999999999,-11.42504],"type":"Point"}
+  "geometry": {"coordinates":[-69.40251000000001,-11.42504],"type":"Point"}
 }

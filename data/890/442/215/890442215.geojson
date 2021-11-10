@@ -22,23 +22,86 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u062a\u0634\u0648\u0633\u064a\u0643\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09b8\u09bf\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Chosica"
+    ],
+    "name:deu_x_preferred":[
+        "Chosica"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c3\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Chosica"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0633\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Chosica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e1\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0938\u093f\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Chosica"
+    ],
+    "name:ind_x_preferred":[
+        "Chosica"
+    ],
+    "name:ita_x_preferred":[
+        "Chosica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30b7\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08\uc2dc\uce74"
+    ],
+    "name:nld_x_preferred":[
+        "Chosica"
+    ],
+    "name:pol_x_preferred":[
         "Chosica"
     ],
     "name:por_x_preferred":[
         "Chosica"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0441\u0438\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
         "Chosica"
     ],
+    "name:swe_x_preferred":[
+        "Chosica"
+    ],
+    "name:tur_x_preferred":[
+        "Chosica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0441\u0456\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Nueva Chosica"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0633\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Chosica"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e54\u897f\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u897f\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -166,7 +229,7 @@
         }
     ],
     "wof:id":890442215,
-    "wof:lastmodified":1566676562,
+    "wof:lastmodified":1636500290,
     "wof:name":"Chosica",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

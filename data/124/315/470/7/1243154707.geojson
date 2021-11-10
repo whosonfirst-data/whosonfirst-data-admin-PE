@@ -40,6 +40,9 @@
     "name:bar_x_preferred":[
         "Roma"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u0430"
     ],
@@ -61,6 +64,9 @@
     "name:deu_x_preferred":[
         "Roma"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0645\u0627"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05de\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "Roma"
@@ -161,6 +170,12 @@
         "Pueblo Nuevo Roma",
         "Roma Hacienda"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Roma"
+    ],
     "name:vol_x_preferred":[
         "Roma"
     ],
@@ -179,7 +194,7 @@
         "gn:id":3930289
     },
     "wof:country":"PE",
-    "wof:geomhash":"d532e555ba312d7906c6689fd5bcb310",
+    "wof:geomhash":"4cc77d41c287f524e8e4a48c88fd5051",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +205,7 @@
         }
     ],
     "wof:id":1243154707,
-    "wof:lastmodified":1566676756,
+    "wof:lastmodified":1636500314,
     "wof:name":"Roma",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",
@@ -200,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.35283000000003,
+    -76.35283,
     -13.02033,
-    -76.35283000000003,
+    -76.35283,
     -13.02033
 ],
-  "geometry": {"coordinates":[-76.35283000000003,-13.02033],"type":"Point"}
+  "geometry": {"coordinates":[-76.35283,-13.02033],"type":"Point"}
 }

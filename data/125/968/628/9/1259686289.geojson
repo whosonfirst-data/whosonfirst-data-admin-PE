@@ -61,6 +61,9 @@
     "name:hau_x_preferred":[
         "Uyo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Uyo"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1259686289,
-    "wof:lastmodified":1566677144,
+    "wof:lastmodified":1636500351,
     "wof:name":"Uyo",
     "wof:parent_id":1108694009,
     "wof:placetype":"locality",

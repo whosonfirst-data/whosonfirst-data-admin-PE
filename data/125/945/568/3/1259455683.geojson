@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Pucallpa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05d0\u05dc\u05e4\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Pucallpa"
     ],
@@ -160,7 +163,7 @@
         "gn:id":3961495
     },
     "wof:country":"PE",
-    "wof:geomhash":"8dae10cc3f789ab0ee0daa1a03f260e8",
+    "wof:geomhash":"d125bbbe78e9b3a26be5dbec1d6a8e78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1259455683,
-    "wof:lastmodified":1566677236,
+    "wof:lastmodified":1636500358,
     "wof:name":"Pucallpa",
     "wof:parent_id":1108693951,
     "wof:placetype":"locality",
@@ -181,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.77096999999998,
+    -76.77097,
     -10.53627,
-    -76.77096999999998,
+    -76.77097,
     -10.53627
 ],
-  "geometry": {"coordinates":[-76.77096999999998,-10.53627],"type":"Point"}
+  "geometry": {"coordinates":[-76.77097000000001,-10.53627],"type":"Point"}
 }

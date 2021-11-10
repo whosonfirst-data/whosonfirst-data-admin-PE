@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Madona"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05e8\u05d9\u05d6"
+    ],
     "name:hsb_x_preferred":[
         "Madona"
     ],
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1326919475,
-    "wof:lastmodified":1566673988,
+    "wof:lastmodified":1636500044,
     "wof:name":"Madona",
     "wof:parent_id":1108693931,
     "wof:placetype":"locality",

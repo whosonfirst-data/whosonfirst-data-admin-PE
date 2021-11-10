@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Moyobamba"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d9\u05d5\u05d1\u05de\u05d1\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Moyobamba"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1293492149,
-    "wof:lastmodified":1566674657,
+    "wof:lastmodified":1636500110,
     "wof:name":"Moyobamba",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

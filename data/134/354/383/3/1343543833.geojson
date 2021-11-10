@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Puyo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Puyo"
+    ],
     "name:nld_x_preferred":[
         "Puyo"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1343543833,
-    "wof:lastmodified":1566674084,
+    "wof:lastmodified":1636500055,
     "wof:name":"Puyo",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",

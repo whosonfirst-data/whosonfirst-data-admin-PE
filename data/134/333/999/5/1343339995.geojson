@@ -37,14 +37,41 @@
     "name:aym_x_preferred":[
         "Pukyu"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u0995\u09c1\u0987\u09df\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Puquio"
+    ],
+    "name:deu_x_preferred":[
+        "Puquio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ba\u03bf\u03cd\u03b9\u03bf"
     ],
     "name:fra_x_preferred":[
         "Puquio"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0915\u093f\u092f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Puquio"
+    ],
+    "name:ind_x_preferred":[
+        "Puquio"
+    ],
     "name:ita_x_preferred":[
         "Puquio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ad\u30aa"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ud0a4\uc624"
     ],
     "name:lit_x_preferred":[
         "Pukijas"
@@ -55,7 +82,25 @@
     "name:que_x_preferred":[
         "Pukyu llaqta"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0438\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Puquio"
+    ],
+    "name:swe_x_preferred":[
+        "Puquio"
+    ],
+    "name:tur_x_preferred":[
+        "Puquio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043a\u0456\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0642\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Puquio"
     ],
     "name:war_x_preferred":[
@@ -76,7 +121,7 @@
         "gn:id":3931227
     },
     "wof:country":"PE",
-    "wof:geomhash":"88f247684748dbcec17d6da51fd9abf6",
+    "wof:geomhash":"86ee1fcc5909e82baca52c1d30433ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +132,7 @@
         }
     ],
     "wof:id":1343339995,
-    "wof:lastmodified":1566674349,
+    "wof:lastmodified":1636500079,
     "wof:name":"Puquio",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",
@@ -97,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.61549000000002,
+    -76.61549,
     -10.24045,
-    -76.61549000000002,
+    -76.61549,
     -10.24045
 ],
-  "geometry": {"coordinates":[-76.61549000000002,-10.24045],"type":"Point"}
+  "geometry": {"coordinates":[-76.61548999999999,-10.24045],"type":"Point"}
 }

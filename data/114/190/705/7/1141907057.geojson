@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.5006453875,-5.23525022494,-78.5006453875,-5.23525022494",
+    "geom:bbox":"-78.500645,-5.23525,-78.500645,-5.23525",
     "geom:latitude":-5.23525,
     "geom:longitude":-78.500645,
     "iso:country":"PE",
@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0634\u0648\u0631\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u099a\u09c1\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Sechura"
     ],
     "name:ces_x_preferred":[
         "Sechura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c4\u03c3\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:epo_x_preferred":[
         "Se\u0109uro"
@@ -36,13 +42,49 @@
     "name:fra_x_preferred":[
         "Sechura"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u091a\u0941\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sechura"
+    ],
+    "name:ind_x_preferred":[
+        "Sechura"
+    ],
     "name:ita_x_preferred":[
+        "Sechura"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ucd94\ub77c"
+    ],
+    "name:pol_x_preferred":[
         "Sechura"
     ],
     "name:que_x_preferred":[
         "Sichura"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0447\u0443\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Sechura"
+    ],
+    "name:swe_x_preferred":[
+        "Sechura"
+    ],
+    "name:tur_x_preferred":[
+        "Sechura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0447\u0443\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0634\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Sechura"
     ],
     "name:war_x_preferred":[
@@ -157,7 +199,7 @@
     "wof:concordances":{},
     "wof:country":"PE",
     "wof:created":1499130675,
-    "wof:geomhash":"bddb7fe067f00f0d7fa3e0f0c15986f9",
+    "wof:geomhash":"a19af1f94ebcc5e2a00908059512fbec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +210,7 @@
         }
     ],
     "wof:id":1141907057,
-    "wof:lastmodified":1566677692,
+    "wof:lastmodified":1636500400,
     "wof:name":"Sechura",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",
@@ -178,10 +220,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.50064538747085,
-    -5.23525022493931,
-    -78.50064538747085,
-    -5.23525022493931
+    -78.500645,
+    -5.23525,
+    -78.500645,
+    -5.23525
 ],
-  "geometry": {"coordinates":[-78.50064538747085,-5.23525022493931],"type":"Point"}
+  "geometry": {"coordinates":[-78.50064500000001,-5.23525],"type":"Point"}
 }

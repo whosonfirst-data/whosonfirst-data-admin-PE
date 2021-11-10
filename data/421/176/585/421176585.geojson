@@ -71,6 +71,9 @@
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0ac7\u0aa8\u0acd\u0a95\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d0\u05e0\u05e7\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u092c\u0928\u0915\u0947"
     ],
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":421176585,
-    "wof:lastmodified":1566676546,
+    "wof:lastmodified":1636500287,
     "wof:name":"Abancay",
     "wof:parent_id":421170655,
     "wof:placetype":"locality",

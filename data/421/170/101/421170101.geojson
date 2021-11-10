@@ -81,9 +81,15 @@
         "\u0aaa\u0ac1\u0aa8\u0acb"
     ],
     "name:hin_x_preferred":[
+        "\u092a\u0941\u0928\u094b"
+    ],
+    "name:hin_x_variant":[
         "\u092a\u0942\u0928\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Puno"
+    ],
+    "name:hun_x_preferred":[
         "Puno"
     ],
     "name:hye_x_preferred":[
@@ -251,7 +257,7 @@
         }
     ],
     "wof:id":421170101,
-    "wof:lastmodified":1566676536,
+    "wof:lastmodified":1636500284,
     "wof:name":"Puno",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

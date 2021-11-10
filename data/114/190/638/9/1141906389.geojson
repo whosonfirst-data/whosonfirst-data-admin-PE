@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.7800291358,-4.57001951205,-73.7800291358,-4.57001951205",
+    "geom:bbox":"-73.780029,-4.57002,-73.780029,-4.57002",
     "geom:latitude":-4.57002,
     "geom:longitude":-73.780029,
     "iso:country":"PE",
@@ -24,22 +24,52 @@
     "name:aym_x_preferred":[
         "Nawta"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u0989\u099f\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bf\u03cd\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nauta"
     ],
     "name:epo_x_preferred":[
         "Nauta"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0626\u0648\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Nauta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d5\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094c\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Nauta"
+    ],
+    "name:ind_x_preferred":[
+        "Nauta"
+    ],
+    "name:ita_x_preferred":[
         "Nauta"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30a6\u30bf"
     ],
+    "name:kor_x_preferred":[
+        "\ub098\uc6b0\ud0c0"
+    ],
     "name:nld_x_preferred":[
         "Nauta"
     ],
     "name:nob_x_preferred":[
+        "Nauta"
+    ],
+    "name:pol_x_preferred":[
         "Nauta"
     ],
     "name:por_x_preferred":[
@@ -52,6 +82,21 @@
         "\u041d\u0430\u0443\u0442\u0430"
     ],
     "name:spa_x_preferred":[
+        "Nauta"
+    ],
+    "name:swe_x_preferred":[
+        "Nauta"
+    ],
+    "name:tur_x_preferred":[
+        "Nauta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0443\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0624\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Nauta"
     ],
     "name:war_x_preferred":[
@@ -168,7 +213,7 @@
     },
     "wof:country":"PE",
     "wof:created":1499130580,
-    "wof:geomhash":"0ba8f015439dcf5205e5944471029fd8",
+    "wof:geomhash":"32dcc7f906308b8fae64a52fa9615da9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +224,7 @@
         }
     ],
     "wof:id":1141906389,
-    "wof:lastmodified":1566677693,
+    "wof:lastmodified":1636500401,
     "wof:name":"Nauta",
     "wof:parent_id":421175173,
     "wof:placetype":"locality",
@@ -189,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.7800291358244,
-    -4.57001951204609,
-    -73.7800291358244,
-    -4.57001951204609
+    -73.780029,
+    -4.57002,
+    -73.780029,
+    -4.57002
 ],
-  "geometry": {"coordinates":[-73.78002913582441,-4.57001951204609],"type":"Point"}
+  "geometry": {"coordinates":[-73.780029,-4.57002],"type":"Point"}
 }

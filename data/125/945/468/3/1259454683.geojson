@@ -31,8 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0643\u064a\u0646\u0627"
+    ],
     "name:aym_x_preferred":[
         "Rikina"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u0995\u09c1\u09df\u09c7\u09a8\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03b3\u03bf\u03c5\u03ad\u03bd\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06a9\u0648\u0646\u0646\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e7\u05d5\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0915\u0947\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Requena"
+    ],
+    "name:ind_x_preferred":[
+        "Requena"
+    ],
+    "name:ita_x_preferred":[
+        "Requena"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ud018\ub098"
+    ],
+    "name:pol_x_preferred":[
+        "Requena"
     ],
     "name:por_x_preferred":[
         "Requena"
@@ -40,7 +73,25 @@
     "name:que_x_preferred":[
         "Rikina"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043a\u0435\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Requena"
+    ],
+    "name:swe_x_preferred":[
+        "Requena"
+    ],
+    "name:tur_x_preferred":[
+        "Requena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043a\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u06a9\u0648\u0626\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Requena"
     ],
     "name:war_x_preferred":[
@@ -62,7 +113,7 @@
         "wk:page":"Requena,_Loreto"
     },
     "wof:country":"PE",
-    "wof:geomhash":"fcfca6ee92caa5523c35f741f89df2cd",
+    "wof:geomhash":"62c64e6162738cd367124c75340dc305",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +124,7 @@
         }
     ],
     "wof:id":1259454683,
-    "wof:lastmodified":1566677240,
+    "wof:lastmodified":1636500358,
     "wof:name":"Requena",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",
@@ -83,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.05490999999998,
+    -75.05491,
     -6.74797,
-    -75.05490999999998,
+    -75.05491,
     -6.74797
 ],
-  "geometry": {"coordinates":[-75.05490999999998,-6.74797],"type":"Point"}
+  "geometry": {"coordinates":[-75.05491000000001,-6.74797],"type":"Point"}
 }

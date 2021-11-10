@@ -71,13 +71,28 @@
         "Tumbes"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0443\u043c\u0431\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Tumbes"
     ],
+    "name:tur_x_preferred":[
+        "Tumbes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0435\u0441"
+    ],
     "name:und_x_variant":[
         "Provincia de Tumbes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0645\u0628\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Tumbes"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
@@ -143,7 +158,7 @@
         }
     ],
     "wof:id":421187863,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1636500276,
     "wof:name":"Tumbes",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

@@ -49,6 +49,12 @@
     "name:glg_x_preferred":[
         "Salas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Salas"
+    ],
     "name:ind_x_preferred":[
         "Salas"
     ],
@@ -94,7 +100,7 @@
         "gn:id":9873203
     },
     "wof:country":"PE",
-    "wof:geomhash":"908392d238ec9a5205b4b0146d8c5324",
+    "wof:geomhash":"32c60dadc82a3d7e36c30b872083bc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1293173517,
-    "wof:lastmodified":1566674847,
+    "wof:lastmodified":1636500126,
     "wof:name":"Salas",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",
@@ -115,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.18744000000002,
+    -77.18744,
     -11.56738,
-    -77.18744000000002,
+    -77.18744,
     -11.56738
 ],
-  "geometry": {"coordinates":[-77.18744000000002,-11.56738],"type":"Point"}
+  "geometry": {"coordinates":[-77.18744,-11.56738],"type":"Point"}
 }

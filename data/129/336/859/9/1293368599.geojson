@@ -34,11 +34,38 @@
     "name:aym_x_preferred":[
         "Illawi"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cd\u09b2\u09be\u09ad\u09c7"
+    ],
     "name:ceb_x_preferred":[
+        "Ilave"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03b2\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u0627\u0648\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u093e\u0935\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Ilave"
+    ],
+    "name:ind_x_preferred":[
         "Ilave"
     ],
     "name:ita_x_preferred":[
         "Ilave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30e9\u30d9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub77c\ubca0"
     ],
     "name:pol_x_preferred":[
         "Ilave"
@@ -46,11 +73,26 @@
     "name:que_x_preferred":[
         "Jilawi"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430\u0432\u0435"
+    ],
     "name:spa_x_preferred":[
         "Ilave"
     ],
+    "name:tur_x_preferred":[
+        "Ilave"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0430\u0432\u0435"
+    ],
     "name:und_x_variant":[
         "Hacienda Ilave"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Ilave"
     ],
     "name:war_x_preferred":[
         "Ilave"
@@ -81,7 +123,7 @@
         }
     ],
     "wof:id":1293368599,
-    "wof:lastmodified":1566674523,
+    "wof:lastmodified":1636500099,
     "wof:name":"Ilave",
     "wof:parent_id":421185313,
     "wof:placetype":"locality",

@@ -70,6 +70,12 @@
     "name:fra_x_preferred":[
         "Sanya"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sanya"
+    ],
     "name:ind_x_preferred":[
         "Sanya"
     ],
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":1343565651,
-    "wof:lastmodified":1566674319,
+    "wof:lastmodified":1636500076,
     "wof:name":"Sanya",
     "wof:parent_id":421185311,
     "wof:placetype":"locality",

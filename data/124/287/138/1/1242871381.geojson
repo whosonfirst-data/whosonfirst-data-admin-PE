@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Timon"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Timon"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:glg_x_preferred":[
         "Tim\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05de\u05d5\u05df"
     ],
     "name:hye_x_preferred":[
         "\u054f\u056b\u0574\u0578\u0576"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1242871381,
-    "wof:lastmodified":1566676649,
+    "wof:lastmodified":1636500302,
     "wof:name":"Timon",
     "wof:parent_id":1108693987,
     "wof:placetype":"locality",

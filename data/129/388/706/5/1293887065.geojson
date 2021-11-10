@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Valera"
     ],
+    "name:hun_x_preferred":[
+        "Valera"
+    ],
     "name:ita_x_preferred":[
         "Valera"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1293887065,
-    "wof:lastmodified":1566674892,
+    "wof:lastmodified":1636500129,
     "wof:name":"Valera",
     "wof:parent_id":1108694047,
     "wof:placetype":"locality",

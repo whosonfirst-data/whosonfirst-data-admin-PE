@@ -50,6 +50,9 @@
         "Tambo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e"
     ],
     "name:spa_x_preferred":[
@@ -57,6 +60,12 @@
     ],
     "name:swe_x_preferred":[
         "Tambo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +79,7 @@
         "gn:id":3927990
     },
     "wof:country":"PE",
-    "wof:geomhash":"f56a7c9ca10ec39fd69c400e44b5fdac",
+    "wof:geomhash":"cc7fd950f9184e56f7c61ff0ca1fbc2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1293783807,
-    "wof:lastmodified":1566674671,
+    "wof:lastmodified":1636500111,
     "wof:name":"Tambo",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
@@ -91,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.75421999999998,
+    -71.75422,
     -15.98102,
-    -71.75421999999998,
+    -71.75422,
     -15.98102
 ],
-  "geometry": {"coordinates":[-71.75421999999998,-15.98102],"type":"Point"}
+  "geometry": {"coordinates":[-71.75422,-15.98102],"type":"Point"}
 }

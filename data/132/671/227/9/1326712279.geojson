@@ -176,10 +176,22 @@
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan"
     ],
     "name:war_x_preferred":[
         "San Juan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u80e1\u5b89\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u80e1\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u5723\u80e1\u5b89"
@@ -196,7 +208,7 @@
         "gn:id":6395526
     },
     "wof:country":"PE",
-    "wof:geomhash":"54baf0ea25bc9ecaa4ed67288bca4bed",
+    "wof:geomhash":"923b858b5b56dd396d80762113ee6fee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":1326712279,
-    "wof:lastmodified":1566673912,
+    "wof:lastmodified":1636500037,
     "wof:name":"San Juan",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
@@ -217,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.56721999999998,
+    -73.56722,
     -3.885,
-    -73.56721999999998,
+    -73.56722,
     -3.885
 ],
-  "geometry": {"coordinates":[-73.56721999999998,-3.885],"type":"Point"}
+  "geometry": {"coordinates":[-73.56722000000001,-3.885],"type":"Point"}
 }

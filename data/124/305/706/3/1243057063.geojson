@@ -40,6 +40,12 @@
     "name:epo_x_preferred":[
         "Ambato"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d1\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Ambato"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0574\u0562\u0561\u057f\u0578"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1243057063,
-    "wof:lastmodified":1566676846,
+    "wof:lastmodified":1636500325,
     "wof:name":"Ambato",
     "wof:parent_id":421175167,
     "wof:placetype":"locality",

@@ -254,6 +254,9 @@
         "\u041f\u0430\u043c\u043f\u043b\u043e\u043d\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u067e\u06cc\u0645\u067e\u0644\u0648\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u067e\u0627\u0645\u067e\u0644\u0648\u0646\u0627"
     ],
     "name:vec_x_preferred":[
@@ -283,7 +286,7 @@
         "gn:id":3933164
     },
     "wof:country":"PE",
-    "wof:geomhash":"8b694df4b10a054b273c8ac8a1dbd2ca",
+    "wof:geomhash":"bb25328f4ac606994674e34432cc795d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":1343930503,
-    "wof:lastmodified":1566674330,
+    "wof:lastmodified":1636500077,
     "wof:name":"Pamplona",
     "wof:parent_id":1108693949,
     "wof:placetype":"locality",
@@ -304,10 +307,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.26666999999998,
+    -77.26667,
     -10.61667,
-    -77.26666999999998,
+    -77.26667,
     -10.61667
 ],
-  "geometry": {"coordinates":[-77.26666999999998,-10.61667],"type":"Point"}
+  "geometry": {"coordinates":[-77.26667,-10.61667],"type":"Point"}
 }

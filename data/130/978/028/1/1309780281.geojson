@@ -34,6 +34,12 @@
     "name:ceb_x_preferred":[
         "Yumbe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Yumbe"
+    ],
     "name:ita_x_preferred":[
         "Yumbe"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1309780281,
-    "wof:lastmodified":1566676406,
+    "wof:lastmodified":1636500264,
     "wof:name":"Yumbe",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

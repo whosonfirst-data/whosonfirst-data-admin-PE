@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Sullana"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05e0\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Sullana"
     ],
@@ -118,7 +121,7 @@
         "gn:id":3762619
     },
     "wof:country":"PE",
-    "wof:geomhash":"1022770ef11468b30b104ab0aa21f66c",
+    "wof:geomhash":"37e2bd6c010f19b910487fac55cd48a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1360179607,
-    "wof:lastmodified":1566676312,
+    "wof:lastmodified":1636500255,
     "wof:name":"Sullana",
     "wof:parent_id":421185275,
     "wof:placetype":"locality",
@@ -139,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.88495999999998,
+    -78.88496,
     -5.9568,
-    -78.88495999999998,
+    -78.88496,
     -5.9568
 ],
-  "geometry": {"coordinates":[-78.88495999999998,-5.9568],"type":"Point"}
+  "geometry": {"coordinates":[-78.88496000000001,-5.9568],"type":"Point"}
 }

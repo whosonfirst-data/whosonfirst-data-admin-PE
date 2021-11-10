@@ -122,6 +122,9 @@
         "Oran"
     ],
     "name:hun_x_preferred":[
+        "Oran"
+    ],
+    "name:hun_x_variant":[
         "Or\u00e1n"
     ],
     "name:ind_x_preferred":[
@@ -271,7 +274,7 @@
         "gn:id":3694245
     },
     "wof:country":"PE",
-    "wof:geomhash":"47fd92b983c15257483b008b3b309aeb",
+    "wof:geomhash":"c3d34e11c2962ec75c9b38a4a2bf7502",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":1259951605,
-    "wof:lastmodified":1566677153,
+    "wof:lastmodified":1636500352,
     "wof:name":"Oran",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
@@ -292,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.51666999999998,
+    -72.51667,
     -3.35,
-    -72.51666999999998,
+    -72.51667,
     -3.35
 ],
-  "geometry": {"coordinates":[-72.51666999999998,-3.35],"type":"Point"}
+  "geometry": {"coordinates":[-72.51667,-3.35],"type":"Point"}
 }
