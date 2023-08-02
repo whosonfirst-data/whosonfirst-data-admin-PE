@@ -83,6 +83,9 @@
     "name:eng_x_preferred":[
         "La Libertad"
     ],
+    "name:eng_x_variant":[
+        "La Libertad department"
+    ],
     "name:epo_x_preferred":[
         "La Libertad"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:hun_x_preferred":[
         "La Libertad megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053c\u056b\u0562\u0565\u0580\u057f\u0561\u0564"
     ],
     "name:ind_x_preferred":[
         "Region La Libertad"
@@ -240,6 +246,9 @@
     "name:war_x_preferred":[
         "La Libertad"
     ],
+    "name:wuu_x_preferred":[
+        "\u62c9\u5229\u4f2f\u5854\u5fb7\u5927\u533a"
+    ],
     "name:zho_min_nan_x_preferred":[
         "La Libertad Khu"
     ],
@@ -372,7 +381,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500095,
+    "wof:lastmodified":1690850392,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

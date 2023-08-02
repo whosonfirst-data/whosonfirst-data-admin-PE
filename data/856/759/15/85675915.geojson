@@ -236,6 +236,9 @@
     "name:war_x_preferred":[
         "Ica"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u5361\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u5361\u5927\u533a"
     ],
@@ -364,7 +367,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500097,
+    "wof:lastmodified":1690850396,
     "wof:name":"Ica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

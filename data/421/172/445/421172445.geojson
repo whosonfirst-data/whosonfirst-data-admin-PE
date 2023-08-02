@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Santa Rosa de Quives jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Rosa De Quives"
+    ],
     "name:deu_x_preferred":[
         "Santa Rosa de Quives"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421172445,
-    "wof:lastmodified":1566676511,
+    "wof:lastmodified":1690850449,
     "wof:name":"Santa Rosa de Quives",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

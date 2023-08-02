@@ -32,6 +32,15 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0631\u062f\u064a\u0646\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0631\u062f\u064a\u0646\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Gardenia"
+    ],
+    "name:arz_x_preferred":[
+        "\u063a\u0627\u0631\u062f\u064a\u0646\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Gardenia"
     ],
@@ -41,11 +50,20 @@
     "name:aze_x_preferred":[
         "Qardeniya"
     ],
+    "name:bar_x_preferred":[
+        "Gardenia"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0434\u044d\u043d\u0456\u044f"
     ],
+    "name:bre_x_preferred":[
+        "Gardenia"
+    ],
     "name:bul_x_preferred":[
         "Gardenia"
+    ],
+    "name:bul_x_variant":[
+        "\u0433\u0430\u0440\u0434\u0435\u043d\u0438\u044f"
     ],
     "name:cat_x_preferred":[
         "gard\u00e8nia"
@@ -56,6 +74,15 @@
     "name:ces_x_preferred":[
         "gard\u00e9nie"
     ],
+    "name:cos_x_preferred":[
+        "Gardenia"
+    ],
+    "name:cym_x_preferred":[
+        "Gardenia"
+    ],
+    "name:dan_x_preferred":[
+        "Gardenia"
+    ],
     "name:deu_x_preferred":[
         "Gardenien"
     ],
@@ -65,10 +92,16 @@
     "name:eng_x_preferred":[
         "Gardenia"
     ],
+    "name:epo_x_preferred":[
+        "Gardenia"
+    ],
     "name:est_x_preferred":[
         "Gardeenia"
     ],
     "name:eus_x_preferred":[
+        "Gardenia"
+    ],
+    "name:ext_x_preferred":[
         "Gardenia"
     ],
     "name:fas_x_preferred":[
@@ -77,16 +110,49 @@
     "name:fin_x_preferred":[
         "Keikarinkukat"
     ],
+    "name:fin_x_variant":[
+        "gardeniat"
+    ],
     "name:fra_x_preferred":[
         "Gard\u00e9nia"
     ],
+    "name:frp_x_preferred":[
+        "Gardenia"
+    ],
+    "name:fur_x_preferred":[
+        "Gardenia"
+    ],
+    "name:gla_x_preferred":[
+        "Gardenia"
+    ],
+    "name:gle_x_preferred":[
+        "Gardenia"
+    ],
     "name:glg_x_preferred":[
+        "Gardenia"
+    ],
+    "name:gsw_x_preferred":[
+        "Gardenia"
+    ],
+    "name:hrv_x_preferred":[
+        "Gardenia"
+    ],
+    "name:hun_x_preferred":[
         "Gardenia"
     ],
     "name:ido_x_preferred":[
         "Gardenio"
     ],
+    "name:ile_x_preferred":[
+        "Gardenia"
+    ],
+    "name:ina_x_preferred":[
+        "Gardenia"
+    ],
     "name:ind_x_preferred":[
+        "Gardenia"
+    ],
+    "name:isl_x_preferred":[
         "Gardenia"
     ],
     "name:ita_x_preferred":[
@@ -107,7 +173,19 @@
     "name:kom_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0435\u043d\u0438\u044f"
     ],
+    "name:kon_x_preferred":[
+        "Gardenia"
+    ],
     "name:lat_x_preferred":[
+        "Gardenia"
+    ],
+    "name:lij_x_preferred":[
+        "Gardenia"
+    ],
+    "name:lim_x_preferred":[
+        "Gardenia"
+    ],
+    "name:ltz_x_preferred":[
         "Gardenia"
     ],
     "name:mal_x_preferred":[
@@ -116,10 +194,52 @@
     "name:mar_x_preferred":[
         "\u0905\u0928\u0902\u0924"
     ],
+    "name:min_x_preferred":[
+        "Gardenia"
+    ],
+    "name:mlg_x_preferred":[
+        "Gardenia"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabd5\uabe3\uabdb\uabc2\uabe9"
+    ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0435\u043d\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Gardenia"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u1004\u103a\u1001\u1010\u103a\u1015\u1004\u103a"
+    ],
+    "name:nap_x_preferred":[
+        "Gardenia"
+    ],
+    "name:nds_x_preferred":[
+        "Gardenia"
+    ],
     "name:nld_x_preferred":[
+        "Gardenia"
+    ],
+    "name:nno_x_preferred":[
+        "Gardenia"
+    ],
+    "name:nob_x_preferred":[
+        "Gardenia"
+    ],
+    "name:nrm_x_preferred":[
+        "Gardenia"
+    ],
+    "name:nys_x_preferred":[
+        "Gardenia"
+    ],
+    "name:oci_x_preferred":[
+        "Gardenia"
+    ],
+    "name:pcd_x_preferred":[
+        "Gardenia"
+    ],
+    "name:pms_x_preferred":[
         "Gardenia"
     ],
     "name:pol_x_preferred":[
@@ -128,11 +248,26 @@
     "name:por_x_preferred":[
         "Gardenia"
     ],
+    "name:roh_x_preferred":[
+        "Gardenia"
+    ],
     "name:ron_x_preferred":[
         "Gardenia"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0435\u043d\u0438\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Gardenia"
+    ],
+    "name:sco_x_preferred":[
+        "Gardenia"
+    ],
+    "name:slk_x_preferred":[
+        "Gardenia"
+    ],
+    "name:slv_x_preferred":[
+        "Gardenia"
     ],
     "name:spa_x_preferred":[
         "Gardenias"
@@ -140,8 +275,20 @@
     "name:spa_x_variant":[
         "Gardenia"
     ],
+    "name:sqi_x_preferred":[
+        "Gardenia"
+    ],
+    "name:srd_x_preferred":[
+        "Gardenia"
+    ],
+    "name:swa_x_preferred":[
+        "Gardenia"
+    ],
     "name:swe_x_preferred":[
         "Gardeniasl\u00e4ktet"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c85\u0ca8\u0c82\u0ca4 \u0caa\u0cc1\u0cb7\u0ccd\u0caa"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e01\u0e38\u0e25\u0e1e\u0e38\u0e14"
@@ -158,11 +305,29 @@
     "name:uzb_x_preferred":[
         "Gardeniya"
     ],
+    "name:vec_x_preferred":[
+        "Gardenia"
+    ],
+    "name:vls_x_preferred":[
+        "Gardenia"
+    ],
+    "name:vol_x_preferred":[
+        "Gardenia"
+    ],
     "name:war_x_preferred":[
+        "Gardenia"
+    ],
+    "name:wln_x_preferred":[
+        "Gardenia"
+    ],
+    "name:wol_x_preferred":[
         "Gardenia"
     ],
     "name:zho_x_preferred":[
         "\u6800\u5b50\u5c5e"
+    ],
+    "name:zul_x_preferred":[
+        "Gardenia"
     ],
     "qs:gn_adm0_cc":"PE",
     "qs:gn_id":0,
@@ -227,7 +392,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582343476,
+    "wof:lastmodified":1690850381,
     "wof:name":"Gardenias",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

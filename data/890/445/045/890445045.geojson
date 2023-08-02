@@ -19,7 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:aka_x_preferred":[
+        "Moche"
+    ],
+    "name:ast_x_preferred":[
+        "Moche"
+    ],
+    "name:cat_x_preferred":[
+        "Moche"
+    ],
     "name:ceb_x_preferred":[
+        "Moche"
+    ],
+    "name:dan_x_preferred":[
+        "Moche"
+    ],
+    "name:deu_x_preferred":[
         "Moche"
     ],
     "name:eng_x_preferred":[
@@ -32,6 +47,9 @@
         "Moche"
     ],
     "name:spa_x_preferred":[
+        "Moche"
+    ],
+    "name:swe_x_preferred":[
         "Moche"
     ],
     "qs:name":"Moche",
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":890445045,
-    "wof:lastmodified":1566676564,
+    "wof:lastmodified":1690850503,
     "wof:name":"Moche",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

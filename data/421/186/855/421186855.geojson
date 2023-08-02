@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yauri"
+    ],
     "name:aym_x_preferred":[
         "Yawri"
     ],
     "name:cat_x_preferred":[
+        "Yauri"
+    ],
+    "name:deu_x_preferred":[
         "Yauri"
     ],
     "name:eng_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421186855,
-    "wof:lastmodified":1566676517,
+    "wof:lastmodified":1690850456,
     "wof:name":"Yauri",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",

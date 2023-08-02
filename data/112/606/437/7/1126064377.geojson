@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "La Punta"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt La Punta"
+    ],
     "name:eng_x_preferred":[
         "La Punta"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1126064377,
-    "wof:lastmodified":1566676575,
+    "wof:lastmodified":1690850517,
     "wof:name":"La Punta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

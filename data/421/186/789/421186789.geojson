@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Surquillo"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Surquillo"
+    ],
     "name:eng_x_preferred":[
         "Surquillo"
     ],
@@ -51,6 +54,9 @@
         "Distrito de Surquillo"
     ],
     "name:spa_x_variant":[
+        "Surquillo"
+    ],
+    "name:swe_x_preferred":[
         "Surquillo"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421186789,
-    "wof:lastmodified":1566676518,
+    "wof:lastmodified":1690850456,
     "wof:name":"Surquillo",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

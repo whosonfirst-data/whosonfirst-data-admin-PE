@@ -26,6 +26,15 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0633\u0643\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0633\u0643\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Pisco"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0441\u043a\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b8\u0995\u09cb"
     ],
@@ -50,10 +59,16 @@
     "name:eng_x_preferred":[
         "Pisco"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Pisco"
     ],
     "name:fra_x_preferred":[
+        "Pisco"
+    ],
+    "name:gle_x_preferred":[
         "Pisco"
     ],
     "name:guj_x_preferred":[
@@ -88,6 +103,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u093f\u0938\u094d\u0915\u094b"
+    ],
+    "name:mlt_x_preferred":[
+        "Pisco"
     ],
     "name:msa_x_preferred":[
         "Pisco"
@@ -154,6 +172,9 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Pisco"
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Pisco"
@@ -223,7 +244,7 @@
         }
     ],
     "wof:id":421201909,
-    "wof:lastmodified":1636500283,
+    "wof:lastmodified":1690850467,
     "wof:name":"Pisco",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

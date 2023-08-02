@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u062e\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u064a\u062e\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Paij\u00e1n"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421201867,
-    "wof:lastmodified":1566676532,
+    "wof:lastmodified":1690850468,
     "wof:name":"Paij\u00e1n",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

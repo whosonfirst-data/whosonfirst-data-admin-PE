@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Huasahuasi"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Huasahuasi"
+    ],
     "name:eng_x_preferred":[
         "Huasahuasi District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890435267,
-    "wof:lastmodified":1566676569,
+    "wof:lastmodified":1690850511,
     "wof:name":"Huasahuasi",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

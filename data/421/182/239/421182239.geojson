@@ -34,10 +34,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_preferred":[
+    "name:ceb_x_preferred":[
         "Yauli"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Yauli"
+    ],
+    "name:eng_x_preferred":[
         "Yauli"
     ],
     "name:fra_x_preferred":[
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421182239,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1690850481,
     "wof:name":"Yauli",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

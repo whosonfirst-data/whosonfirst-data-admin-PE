@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Yauca Del Rosario"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Yauca del Rosario"
+    ],
     "name:eng_x_preferred":[
         "Yauca del Rosario District"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890434715,
-    "wof:lastmodified":1566676567,
+    "wof:lastmodified":1690850508,
     "wof:name":"Rosario de Yauca",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

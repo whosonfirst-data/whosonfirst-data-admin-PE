@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Mosoc Llacta"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Mosoc Llacta"
+    ],
     "name:eng_x_preferred":[
         "Mosoc Llacta District"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890437969,
-    "wof:lastmodified":1566676555,
+    "wof:lastmodified":1690850491,
     "wof:name":"Mosoc Llacta",
     "wof:parent_id":421192879,
     "wof:placetype":"locality",

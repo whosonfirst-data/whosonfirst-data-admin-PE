@@ -98,6 +98,9 @@
     "name:zho_x_preferred":[
         "\u4e39\u5c3c\u723e\u963f\u723e\u897f\u5fb7\u65af\u5361\u91cc\u7fc1\u7701"
     ],
+    "name:zho_x_variant":[
+        "\u4e39\u5c3c\u723e\u00b7\u963f\u723e\u897f\u5fb7\u65af\u00b7\u5361\u91cc\u7fc1\u7701"
+    ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":3932833,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421194849,
-    "wof:lastmodified":1636500273,
+    "wof:lastmodified":1690850428,
     "wof:name":"Pasco",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

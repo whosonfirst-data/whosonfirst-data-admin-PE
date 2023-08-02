@@ -113,6 +113,9 @@
     "name:hun_x_preferred":[
         "Loreto megye"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0580\u0565\u057f\u0578"
+    ],
     "name:ind_x_preferred":[
         "Region Loreto"
     ],
@@ -235,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "Loreto"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d1b\u96f7\u6258\u5927\u533a"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u96f7\u6258\u5927\u533a"
@@ -364,7 +370,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500093,
+    "wof:lastmodified":1690850391,
     "wof:name":"Loreto",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

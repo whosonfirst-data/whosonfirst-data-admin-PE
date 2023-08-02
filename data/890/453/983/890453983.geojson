@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Picsi"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Picsi"
+    ],
     "name:eng_x_preferred":[
         "Picsi District"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890453983,
-    "wof:lastmodified":1566676559,
+    "wof:lastmodified":1690850496,
     "wof:name":"Picsi",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

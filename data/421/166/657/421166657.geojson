@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Jangas jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Jangas"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Jangas"
+    ],
     "name:eng_x_preferred":[
         "Jangas District"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421166657,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1690850422,
     "wof:name":"Jangas",
     "wof:parent_id":421194077,
     "wof:placetype":"locality",

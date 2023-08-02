@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Chucuito"
     ],
+    "name:fra_x_preferred":[
+        "Chucuito"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e7\u05d9\u05d8\u05d5"
+    ],
     "name:nld_x_preferred":[
         "Chucuito"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421187399,
-    "wof:lastmodified":1566676496,
+    "wof:lastmodified":1690850439,
     "wof:name":"Chucuito",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

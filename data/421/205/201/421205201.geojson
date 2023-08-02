@@ -53,6 +53,9 @@
     "name:pol_x_preferred":[
         "Juli"
     ],
+    "name:por_x_preferred":[
+        "Juli"
+    ],
     "name:que_x_preferred":[
         "Chulli llaqta"
     ],
@@ -60,6 +63,9 @@
         "\u0425\u0443\u043b\u0438"
     ],
     "name:spa_x_preferred":[
+        "Juli"
+    ],
+    "name:swa_x_preferred":[
         "Juli"
     ],
     "name:swe_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421205201,
-    "wof:lastmodified":1566676493,
+    "wof:lastmodified":1690850437,
     "wof:name":"Juli",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

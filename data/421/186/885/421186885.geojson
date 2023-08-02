@@ -32,8 +32,14 @@
     "name:arg_x_preferred":[
         "Cuzco"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0633\u0643\u0648"
+    ],
     "name:ast_x_preferred":[
         "Cusco"
+    ],
+    "name:ast_x_variant":[
+        "Cuzco"
     ],
     "name:aym_x_preferred":[
         "Qusqu"
@@ -61,6 +67,9 @@
     ],
     "name:ces_x_preferred":[
         "Cuzco"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0443\u0441\u043a\u043e"
     ],
     "name:cos_x_preferred":[
         "Cuscu"
@@ -109,6 +118,9 @@
     ],
     "name:fra_x_preferred":[
         "Cuzco"
+    ],
+    "name:gla_x_preferred":[
+        "Qusqu"
     ],
     "name:gle_x_preferred":[
         "Cusco"
@@ -203,8 +215,14 @@
     "name:mkd_x_preferred":[
         "\u041a\u0443\u0441\u043a\u043e"
     ],
+    "name:mlt_x_preferred":[
+        "Cusco"
+    ],
     "name:msa_x_preferred":[
         "Cusco"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u1030\u1007\u1000\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Cuzco"
@@ -233,11 +251,17 @@
     "name:pih_x_preferred":[
         "Cusco"
     ],
+    "name:pms_x_preferred":[
+        "Cusco"
+    ],
     "name:pol_x_preferred":[
         "Cuzco"
     ],
     "name:por_x_preferred":[
         "Cusco"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0633\u06a9\u0648"
     ],
     "name:que_x_preferred":[
         "Qusqu"
@@ -291,6 +315,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c38\u0c4d\u0c15\u0c4b"
     ],
+    "name:tgl_x_preferred":[
+        "Cusco"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e38\u0e2a\u0e42\u0e01"
     ],
@@ -305,6 +332,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kusko"
+    ],
+    "name:vec_x_preferred":[
+        "Cusco"
     ],
     "name:vie_x_preferred":[
         "Cuzco"
@@ -388,7 +418,7 @@
         }
     ],
     "wof:id":421186885,
-    "wof:lastmodified":1582343541,
+    "wof:lastmodified":1690850454,
     "wof:name":"Cuzco",
     "wof:parent_id":421172425,
     "wof:placetype":"locality",

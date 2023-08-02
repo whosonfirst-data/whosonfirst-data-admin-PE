@@ -45,6 +45,9 @@
     "name:aym_x_variant":[
         "San Martin Jach\u2019a Suyu"
     ],
+    "name:bar_x_preferred":[
+        "Region San Mart\u00edn"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u044d\u0433\u0456\u0451\u043d \u0421\u0430\u043d-\u041c\u0430\u0440\u0446\u0456\u043d"
     ],
@@ -234,6 +237,9 @@
     "name:war_x_preferred":[
         "San Mart\u00edn"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u9a6c\u4e01\u5927\u533a"
+    ],
     "name:zho_cn_x_preferred":[
         "\u5723\u9a6c\u4e01\u6cb3"
     ],
@@ -369,7 +375,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500095,
+    "wof:lastmodified":1690850393,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pampas"
+    ],
     "name:bre_x_preferred":[
         "Pampas"
     ],
@@ -24,6 +27,9 @@
         "Pampas"
     ],
     "name:ceb_x_preferred":[
+        "Pampas"
+    ],
+    "name:deu_x_preferred":[
         "Pampas"
     ],
     "name:eng_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Pampas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30d1\u30b9"
     ],
     "name:lit_x_preferred":[
         "Pampasas"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421182075,
-    "wof:lastmodified":1566676544,
+    "wof:lastmodified":1690850481,
     "wof:name":"Pampas",
     "wof:parent_id":421170673,
     "wof:placetype":"locality",

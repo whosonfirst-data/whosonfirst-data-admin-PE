@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chivay"
+    ],
     "name:cat_x_preferred":[
         "Chivay"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_preferred":[
         "Chivay"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Chivay"
     ],
@@ -45,6 +51,9 @@
         "\u010civajus"
     ],
     "name:nld_x_preferred":[
+        "Chivay"
+    ],
+    "name:nno_x_preferred":[
         "Chivay"
     ],
     "name:pol_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":421186809,
-    "wof:lastmodified":1566676516,
+    "wof:lastmodified":1690850455,
     "wof:name":"Chivay",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

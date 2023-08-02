@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Zorritos"
+    ],
     "name:ceb_x_preferred":[
         "Zorritos"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421173849,
-    "wof:lastmodified":1566676505,
+    "wof:lastmodified":1690850445,
     "wof:name":"Zorritos",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

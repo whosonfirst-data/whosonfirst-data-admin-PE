@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0627\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0644\u0627\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Ilave"
+    ],
     "name:aym_x_preferred":[
         "Illawi"
     ],
@@ -32,6 +38,9 @@
         "\u09b2\u09cd\u09b2\u09be\u09ad\u09c7"
     ],
     "name:ceb_x_preferred":[
+        "Ilave"
+    ],
+    "name:deu_x_preferred":[
         "Ilave"
     ],
     "name:ell_x_preferred":[
@@ -83,6 +92,9 @@
         "\u0418\u043b\u0430\u0432\u0435"
     ],
     "name:spa_x_preferred":[
+        "Ilave"
+    ],
+    "name:swe_x_preferred":[
         "Ilave"
     ],
     "name:tur_x_preferred":[
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1125942303,
-    "wof:lastmodified":1636500294,
+    "wof:lastmodified":1690850516,
     "wof:name":"Ilave",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
     "name:vie_x_preferred":[
         "Salaverry"
     ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u7dad\u91cc"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
     "ne:ADM0_A3":"PER",
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890451745,
-    "wof:lastmodified":1636500293,
+    "wof:lastmodified":1690850508,
     "wof:name":"Salaverry",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

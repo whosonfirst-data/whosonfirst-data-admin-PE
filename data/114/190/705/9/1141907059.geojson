@@ -21,13 +21,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0627\u0644\u0648\u0643\u0648\u062a\u0634\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Caballococha"
+    ],
     "name:aym_x_preferred":[
         "Kawalluqucha"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u043b\u044c\u044f\u043a\u043e\u0447\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09cd\u09af\u09be\u09b2\u09cd\u09b2\u09cb\u0995\u09cb\u099a\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Caballococha"
+    ],
+    "name:deu_x_preferred":[
         "Caballococha"
     ],
     "name:ell_x_preferred":[
@@ -221,7 +230,7 @@
         }
     ],
     "wof:id":1141907059,
-    "wof:lastmodified":1636500400,
+    "wof:lastmodified":1690850525,
     "wof:name":"Caballococha",
     "wof:parent_id":421175219,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Ascope"
+    ],
     "name:ceb_x_preferred":[
         "Ascope"
     ],
@@ -31,10 +34,16 @@
     "name:fra_x_preferred":[
         "Ascope"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30b3\u30da"
+    ],
     "name:nld_x_preferred":[
         "Ascope"
     ],
     "name:pol_x_preferred":[
+        "Ascope"
+    ],
+    "name:por_x_preferred":[
         "Ascope"
     ],
     "name:que_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890436013,
-    "wof:lastmodified":1566676556,
+    "wof:lastmodified":1690850493,
     "wof:name":"Ascope",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

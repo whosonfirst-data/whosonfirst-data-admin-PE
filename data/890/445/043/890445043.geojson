@@ -25,6 +25,12 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u099f\u09c1\u09aa\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Motupe"
+    ],
+    "name:deu_x_preferred":[
+        "Motupe"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c4\u03bf\u03cd\u03bc\u03b5"
     ],
@@ -207,7 +213,7 @@
         }
     ],
     "wof:id":890445043,
-    "wof:lastmodified":1636500292,
+    "wof:lastmodified":1690850504,
     "wof:name":"Motupe",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

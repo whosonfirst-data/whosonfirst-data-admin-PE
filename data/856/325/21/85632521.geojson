@@ -49,8 +49,14 @@
     "name:amh_x_preferred":[
         "\u1354\u1229"
     ],
+    "name:ami_x_preferred":[
+        "Peru"
+    ],
     "name:ang_x_preferred":[
         "Peru"
+    ],
+    "name:anp_x_preferred":[
+        "\u092a\u0947\u0930\u0941"
     ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648"
@@ -64,8 +70,17 @@
     "name:arz_x_preferred":[
         "\u0628\u064a\u0631\u0648"
     ],
+    "name:asm_x_preferred":[
+        "\u09aa\u09c7\u09f0\u09c1"
+    ],
     "name:ast_x_preferred":[
         "Per\u00fa"
+    ],
+    "name:avk_x_preferred":[
+        "Perua"
+    ],
+    "name:awa_x_preferred":[
+        "\u092a\u0947\u0930\u0942"
     ],
     "name:aym_x_preferred":[
         "Piruw"
@@ -81,6 +96,9 @@
     ],
     "name:bam_x_preferred":[
         "Peru"
+    ],
+    "name:ban_x_preferred":[
+        "P\u00e9ru"
     ],
     "name:bar_x_preferred":[
         "Peru"
@@ -148,6 +166,9 @@
     "name:chv_x_preferred":[
         "\u041f\u0435\u0440\u0443"
     ],
+    "name:chy_x_preferred":[
+        "Peru"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u06ce\u0631\u0648\u0648"
     ],
@@ -165,6 +186,9 @@
     ],
     "name:cym_x_variant":[
         "Perw"
+    ],
+    "name:dag_x_preferred":[
+        "Peru"
     ],
     "name:dan_x_preferred":[
         "Peru"
@@ -262,6 +286,9 @@
     "name:ful_x_preferred":[
         "Peru"
     ],
+    "name:fur_x_preferred":[
+        "Per\u00f9"
+    ],
     "name:gag_x_preferred":[
         "Peru"
     ],
@@ -289,11 +316,17 @@
     "name:got_x_preferred":[
         "\ud800\udf40\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf3f"
     ],
+    "name:gpe_x_preferred":[
+        "Peru"
+    ],
     "name:grn_x_preferred":[
         "Per\u0169"
     ],
     "name:gsw_x_preferred":[
         "Peru"
+    ],
+    "name:guc_x_preferred":[
+        "Peruu"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab0\u0ac1 (\u0aa6\u0ac7\u0ab6)"
@@ -370,6 +403,9 @@
     "name:jav_x_preferred":[
         "Peru"
     ],
+    "name:jav_x_variant":[
+        "P\u00e8ru"
+    ],
     "name:jbo_x_preferred":[
         "perus"
     ],
@@ -384,6 +420,9 @@
     ],
     "name:kaa_x_preferred":[
         "Peru"
+    ],
+    "name:kab_x_preferred":[
+        "Piru"
     ],
     "name:kal_x_preferred":[
         "Peru"
@@ -469,6 +508,9 @@
     "name:lit_x_preferred":[
         "Peru"
     ],
+    "name:lld_x_preferred":[
+        "Peru"
+    ],
     "name:lmo_x_preferred":[
         "Per\u00f9"
     ],
@@ -493,14 +535,23 @@
     "name:lzh_x_preferred":[
         "\u7955\u9b6f"
     ],
+    "name:mad_x_preferred":[
+        "Peru"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d31\u0d41"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0930\u0942"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u044d\u0440\u0443"
+    ],
     "name:mhr_x_preferred":[
         "\u041f\u0435\u0440\u0443"
+    ],
+    "name:min_x_preferred":[
+        "Peru"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0440\u0443"
@@ -516,6 +567,9 @@
     ],
     "name:mlt_x_variant":[
         "Peru"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc4\uabe6\uabd4\uabe8"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0435\u0440\u0443"
@@ -619,6 +673,9 @@
     "name:pap_x_preferred":[
         "Peru"
     ],
+    "name:pcd_x_preferred":[
+        "P\u00e9rou"
+    ],
     "name:pih_x_preferred":[
         "Peruu"
     ],
@@ -676,6 +733,9 @@
     "name:san_x_preferred":[
         "\u092a\u0947\u0930\u0941"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c6e\u1c68\u1c69"
+    ],
     "name:scn_x_preferred":[
         "Per\u00f9"
     ],
@@ -684,6 +744,9 @@
     ],
     "name:sgs_x_preferred":[
         "Per\u016b"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1031\u1087\u101b\u1030\u1089"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dda\u0dbb\u0dd6"
@@ -704,6 +767,9 @@
         "Peru"
     ],
     "name:smo_x_preferred":[
+        "Peru"
+    ],
+    "name:sms_x_preferred":[
         "Peru"
     ],
     "name:sna_x_preferred":[
@@ -784,16 +850,28 @@
     "name:tir_x_preferred":[
         "\u1354\u1229"
     ],
+    "name:tok_x_preferred":[
+        "ma Pelu"
+    ],
     "name:ton_x_preferred":[
         "Pel\u016b"
     ],
     "name:tpi_x_preferred":[
         "Peru"
     ],
+    "name:trv_x_preferred":[
+        "Peru"
+    ],
     "name:tuk_x_preferred":[
         "Peru"
     ],
+    "name:tum_x_preferred":[
+        "Peru"
+    ],
     "name:tur_x_preferred":[
+        "Peru"
+    ],
+    "name:twi_x_preferred":[
         "Peru"
     ],
     "name:udm_x_preferred":[
@@ -825,6 +903,9 @@
     ],
     "name:vie_x_variant":[
         "P\u00ea-ru"
+    ],
+    "name:vls_x_preferred":[
+        "Peru"
     ],
     "name:vol_x_preferred":[
         "Peruv\u00e4n"
@@ -1104,7 +1185,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1617827477,
+    "wof:lastmodified":1690850382,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

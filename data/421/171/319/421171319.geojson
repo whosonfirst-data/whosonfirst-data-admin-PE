@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Chala"
     ],
+    "name:fra_x_preferred":[
+        "Chala"
+    ],
     "name:lit_x_preferred":[
         "\u010cala"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421171319,
-    "wof:lastmodified":1566676548,
+    "wof:lastmodified":1690850485,
     "wof:name":"Chala",
     "wof:parent_id":421194075,
     "wof:placetype":"locality",

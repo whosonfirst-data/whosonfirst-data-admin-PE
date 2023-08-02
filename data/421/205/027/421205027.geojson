@@ -23,10 +23,16 @@
     "name:dan_x_preferred":[
         "Za\u0146as pagasts"
     ],
+    "name:deu_x_preferred":[
+        "Za\u00f1a"
+    ],
     "name:eng_x_preferred":[
         "Za\u00f1a"
     ],
     "name:fra_x_preferred":[
+        "Za\u00f1a"
+    ],
+    "name:ita_x_preferred":[
         "Za\u00f1a"
     ],
     "name:lav_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421205027,
-    "wof:lastmodified":1566676493,
+    "wof:lastmodified":1690850436,
     "wof:name":"Za\u00f1a",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

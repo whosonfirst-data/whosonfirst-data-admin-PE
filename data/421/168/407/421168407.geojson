@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Vir\u00fa"
+    ],
     "name:ceb_x_preferred":[
         "Vir\u00fa"
     ],
@@ -27,6 +30,9 @@
         "Vir\u00fa"
     ],
     "name:nld_x_preferred":[
+        "Vir\u00fa"
+    ],
+    "name:por_x_preferred":[
         "Vir\u00fa"
     ],
     "name:que_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421168407,
-    "wof:lastmodified":1566676474,
+    "wof:lastmodified":1690850420,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":421191399,
     "wof:placetype":"locality",

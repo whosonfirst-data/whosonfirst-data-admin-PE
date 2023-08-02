@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Marcavelica"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Marcavelica"
+    ],
     "name:eng_x_preferred":[
         "Marcavelica District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890445047,
-    "wof:lastmodified":1566676563,
+    "wof:lastmodified":1690850501,
     "wof:name":"Marcavelica",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

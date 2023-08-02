@@ -37,6 +37,12 @@
     "name:cat_x_preferred":[
         "Abancay"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Abancay"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Abancay"
+    ],
     "name:eng_x_preferred":[
         "Abancay"
     ],
@@ -90,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Apur\u00edmac"
+    ],
+    "name:vie_x_variant":[
+        "Abancay"
     ],
     "name:war_x_preferred":[
         "Abancay"
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":421170655,
-    "wof:lastmodified":1636500285,
+    "wof:lastmodified":1690850474,
     "wof:name":"Abancay",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

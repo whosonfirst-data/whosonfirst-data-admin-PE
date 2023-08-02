@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Suqawaya jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Socabaya"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Socabaya"
+    ],
     "name:eng_x_preferred":[
         "Socabaya District"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421166545,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1690850422,
     "wof:name":"Socabaya",
     "wof:parent_id":421171959,
     "wof:placetype":"locality",

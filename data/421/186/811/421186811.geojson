@@ -17,19 +17,37 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:ceb_x_preferred":[
+        "Huancabamba"
+    ],
     "name:ces_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:deu_x_preferred":[
         "Huancabamba"
     ],
     "name:eng_x_preferred":[
         "Huancabamba"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u0627\u0646\u06a9\u0627\u0628\u0627\u0645\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Huancabamba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e0\u05e7\u05d0\u05d1\u05de\u05d1\u05d4"
     ],
     "name:ita_x_preferred":[
         "Huancabamba"
     ],
     "name:nld_x_preferred":[
+        "Huancabamba"
+    ],
+    "name:por_x_preferred":[
         "Huancabamba"
     ],
     "name:que_x_preferred":[
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":421186811,
-    "wof:lastmodified":1566676512,
+    "wof:lastmodified":1690850450,
     "wof:name":"Huancabamba",
     "wof:parent_id":421192883,
     "wof:placetype":"locality",

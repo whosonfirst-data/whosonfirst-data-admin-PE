@@ -38,8 +38,14 @@
     "name:ita_x_preferred":[
         "Desaguadero"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30b5\u30b0\u30a1\u30c7\u30ed\u5ddd"
+    ],
     "name:lit_x_preferred":[
         "Desaguaderas"
+    ],
+    "name:nds_x_preferred":[
+        "Desaguadero"
     ],
     "name:nld_x_preferred":[
         "Desaguadero"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421186047,
-    "wof:lastmodified":1636500278,
+    "wof:lastmodified":1690850451,
     "wof:name":"Desaguadero",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

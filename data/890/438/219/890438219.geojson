@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Distrikt Torata"
+    ],
     "name:eng_x_preferred":[
         "Torata District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890438219,
-    "wof:lastmodified":1566676558,
+    "wof:lastmodified":1690850495,
     "wof:name":"Torata",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

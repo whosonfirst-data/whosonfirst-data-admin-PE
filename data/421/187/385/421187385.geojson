@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Victor Larco Herrera"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt V\u00edctor Larco Herrera"
+    ],
     "name:eng_x_preferred":[
         "V\u00edctor Larco Herrera District"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421187385,
-    "wof:lastmodified":1566676498,
+    "wof:lastmodified":1690850441,
     "wof:name":"V\u00edctor Larco Herrera",
     "wof:parent_id":421170677,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Lobitos"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Lobitos"
+    ],
     "name:eng_x_preferred":[
         "Lobitos District"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421181611,
-    "wof:lastmodified":1566676518,
+    "wof:lastmodified":1690850457,
     "wof:name":"Lobitos",
     "wof:parent_id":421187177,
     "wof:placetype":"locality",

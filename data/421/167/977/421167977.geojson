@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Kawri jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "San Miguel De Cauri"
+    ],
     "name:ita_x_preferred":[
         "Distretto di San Miguel de Cauri"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421167977,
-    "wof:lastmodified":1582343533,
+    "wof:lastmodified":1690850431,
     "wof:name":"San Miguel de Cauri",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",

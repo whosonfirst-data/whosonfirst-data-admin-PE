@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0643\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Requena"
+    ],
     "name:aym_x_preferred":[
         "Rikina"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09c7\u0995\u09c1\u09df\u09c7\u09a8\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Requena"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03b5\u03b3\u03bf\u03c5\u03ad\u03bd\u03b1"
@@ -218,7 +224,7 @@
         }
     ],
     "wof:id":1141907071,
-    "wof:lastmodified":1636500400,
+    "wof:lastmodified":1690850524,
     "wof:name":"Requena",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

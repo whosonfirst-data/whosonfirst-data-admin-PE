@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Tati jisk'a t'aqa suyu"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Tate"
+    ],
     "name:eng_x_preferred":[
         "Tate District"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890422607,
-    "wof:lastmodified":1566676552,
+    "wof:lastmodified":1690850488,
     "wof:name":"Tate de La Capilla",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -26,8 +26,17 @@
     "name:aym_x_preferred":[
         "Miraflores"
     ],
+    "name:ceb_x_preferred":[
+        "Miraflores"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Miraflores"
+    ],
     "name:eng_x_preferred":[
         "Miraflores"
+    ],
+    "name:eng_x_variant":[
+        "Miraflores District"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e0\u10d0\u10e4\u10da\u10dd\u10e0\u10d4\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1126072409,
-    "wof:lastmodified":1566676576,
+    "wof:lastmodified":1690850517,
     "wof:name":"Miraflores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

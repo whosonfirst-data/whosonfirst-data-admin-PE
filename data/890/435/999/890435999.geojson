@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Tambogrande"
+    ],
+    "name:ceb_x_preferred":[
+        "Tambo Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Tambogrande"
+    ],
     "name:eng_x_preferred":[
         "Tambogrande"
     ],
@@ -27,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Tambo Grande"
+    ],
+    "name:spa_x_variant":[
+        "Tambogrande"
     ],
     "qs:name":"Tambo Grande",
     "qs:photos_9r":0,
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":890435999,
-    "wof:lastmodified":1566676569,
+    "wof:lastmodified":1690850510,
     "wof:name":"Tambo Grande",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",

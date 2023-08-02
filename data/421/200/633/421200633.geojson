@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0643\u0627\u062a\u0634\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0627\u0643\u0627\u062a\u0634\u064a\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Huacachina"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0578\u0582\u056f\u0561\u0579\u056b\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Huacachina"
     ],
     "name:ita_x_preferred":[
         "Huacachina"
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421200633,
-    "wof:lastmodified":1566676530,
+    "wof:lastmodified":1690850466,
     "wof:name":"Huacachina",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

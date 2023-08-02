@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Punta de Bomb\u00f3n jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Punta De Bombon"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Punta de Bomb\u00f3n"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421176579,
-    "wof:lastmodified":1566676546,
+    "wof:lastmodified":1690850483,
     "wof:name":"Punta de Bomb\u00f3n",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",

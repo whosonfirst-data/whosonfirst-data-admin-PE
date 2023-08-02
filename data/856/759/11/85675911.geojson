@@ -213,7 +213,8 @@
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e35\u0e01\u0e32"
     ],
     "name:tha_x_variant":[
-        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e34\u0e01\u0e32"
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e27\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e34\u0e01\u0e32",
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e27\u0e31\u0e07\u0e01\u0e32\u0e40\u0e1a\u0e25\u0e34\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Huancavelica B\u00f6lgesi"
@@ -235,6 +236,9 @@
     ],
     "name:war_x_preferred":[
         "Huancavelica"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e07\u5361\u97e6\u5229\u5361\u5927\u533a"
     ],
     "name:zho_min_nan_x_preferred":[
         "Huancavelica Khu"
@@ -368,7 +372,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500097,
+    "wof:lastmodified":1690850395,
     "wof:name":"Huancavelica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

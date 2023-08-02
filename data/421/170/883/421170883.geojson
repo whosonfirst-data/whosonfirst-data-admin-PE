@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.575815,-10.9463315,-69.575815,-10.9463315",
+    "geom:bbox":"-69.575815,-10.946331,-69.575815,-10.946331",
     "geom:latitude":-10.946331,
     "geom:longitude":-69.575815,
     "iso:country":"PE",
@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "I\u00f1apari"
+    ],
+    "name:cat_x_preferred":[
+        "I\u00f1apari"
+    ],
     "name:deu_x_preferred":[
         "I\u00f1apari"
     ],
@@ -98,7 +104,7 @@
     },
     "wof:country":"PE",
     "wof:created":1459008872,
-    "wof:geomhash":"c8c0e83b7a01e0548a7b6e915ebc9b39",
+    "wof:geomhash":"92fc80e2b72299b8b51bbb3d4e3e38ac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421170883,
-    "wof:lastmodified":1566676536,
+    "wof:lastmodified":1690850474,
     "wof:name":"I\u00f1apari",
     "wof:parent_id":1108693889,
     "wof:placetype":"locality",
@@ -120,9 +126,9 @@
 },
   "bbox": [
     -69.575815,
-    -10.9463315,
+    -10.946331,
     -69.575815,
-    -10.9463315
+    -10.946331
 ],
-  "geometry": {"coordinates":[-69.57581500000001,-10.9463315],"type":"Point"}
+  "geometry": {"coordinates":[-69.57581500000001,-10.946331],"type":"Point"}
 }

@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0631\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0627\u0631\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Huaraz"
+    ],
     "name:aym_x_preferred":[
         "Waras"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0443\u0430\u0440\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u0430\u0440\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09b0\u09be\u099c"
@@ -39,6 +48,9 @@
     ],
     "name:ces_x_preferred":[
         "Huaraz"
+    ],
+    "name:chv_x_preferred":[
+        "\u0423\u0430\u0440\u0430\u0441"
     ],
     "name:dan_x_preferred":[
         "Huaraz"
@@ -62,6 +74,9 @@
         "Huaraz"
     ],
     "name:fra_x_preferred":[
+        "Huaraz"
+    ],
+    "name:gle_x_preferred":[
         "Huaraz"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +114,9 @@
     ],
     "name:lat_x_preferred":[
         "Varas"
+    ],
+    "name:lat_x_variant":[
+        "Huaraz"
     ],
     "name:lav_x_preferred":[
         "Uarasa"
@@ -151,6 +169,9 @@
     "name:swe_x_preferred":[
         "Huaraz"
     ],
+    "name:szl_x_preferred":[
+        "Huaraz"
+    ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bc1\u0bb5\u0bbe\u0bb0\u0bbe\u0bb8\u0bcd"
     ],
@@ -164,7 +185,8 @@
         "\u0e2e\u0e31\u0e27\u0e23\u0e31\u0e2a"
     ],
     "name:tha_x_variant":[
-        "\u0e2d\u0e31\u0e27\u0e23\u0e31\u0e0b"
+        "\u0e2d\u0e31\u0e27\u0e23\u0e31\u0e0b",
+        "\u0e27\u0e32\u0e23\u0e31\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Huaraz"
@@ -178,6 +200,9 @@
     "name:urd_x_preferred":[
         "\u0648\u0627\u0631\u0627\u0633"
     ],
+    "name:vec_x_preferred":[
+        "Huaraz"
+    ],
     "name:vie_x_preferred":[
         "Huaraz"
     ],
@@ -186,6 +211,9 @@
     ],
     "name:war_x_preferred":[
         "Huaraz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u74e6\u62c9\u65af"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u62c9\u65af"
@@ -327,7 +355,7 @@
         }
     ],
     "wof:id":890445053,
-    "wof:lastmodified":1582343555,
+    "wof:lastmodified":1690850502,
     "wof:name":"Huaraz",
     "wof:parent_id":421187921,
     "wof:placetype":"locality",

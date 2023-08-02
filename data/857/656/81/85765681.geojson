@@ -29,11 +29,17 @@
     "name:aym_x_preferred":[
         "San Borja jisk'a t'aqa suyu"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u043e\u0440\u0445\u0430"
+    ],
     "name:cat_x_preferred":[
         "San Borja"
     ],
     "name:ceb_x_preferred":[
         "San Borja"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt San Borja"
     ],
     "name:eng_x_preferred":[
         "San Borja"
@@ -52,6 +58,9 @@
     ],
     "name:que_x_preferred":[
         "San Borja distritu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u043e\u0440\u0445\u0430"
     ],
     "name:spa_x_preferred":[
         "San Borja Norte"
@@ -130,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582343476,
+    "wof:lastmodified":1690850381,
     "wof:name":"San Borja Norte",
     "wof:parent_id":421186805,
     "wof:placetype":"neighbourhood",

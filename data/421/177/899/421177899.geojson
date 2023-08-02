@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Oy\u00f3n"
+    ],
     "name:ceb_x_preferred":[
+        "Oy\u00f3n"
+    ],
+    "name:deu_x_preferred":[
         "Oy\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421177899,
-    "wof:lastmodified":1566676540,
+    "wof:lastmodified":1690850477,
     "wof:name":"Oy\u00f3n",
     "wof:parent_id":1108693951,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0631\u0645\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Huarmey"
+    ],
     "name:aym_x_preferred":[
         "Warmiy"
     ],
@@ -31,11 +34,17 @@
     "name:ceb_x_preferred":[
         "Huarmey"
     ],
+    "name:deu_x_preferred":[
+        "Huarmey"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03c5\u03b1\u03c1\u03bc\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Huarmey"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u0627\u0631\u0645\u06cc"
     ],
     "name:fra_x_preferred":[
         "Huarmey"
@@ -233,7 +242,7 @@
         }
     ],
     "wof:id":890442209,
-    "wof:lastmodified":1636500291,
+    "wof:lastmodified":1690850500,
     "wof:name":"Huarmey",
     "wof:parent_id":421184497,
     "wof:placetype":"locality",

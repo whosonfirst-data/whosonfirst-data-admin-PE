@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Limatampu jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Limatambo"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Limatambo"
+    ],
     "name:eng_x_preferred":[
         "Limatambo District"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421166805,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1690850422,
     "wof:name":"Limatambo",
     "wof:parent_id":421187837,
     "wof:placetype":"locality",

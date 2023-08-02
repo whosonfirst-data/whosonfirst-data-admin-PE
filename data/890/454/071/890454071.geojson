@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "Jepelacio"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Jepelacio"
+    ],
     "name:eng_x_preferred":[
         "Jepelacio District"
+    ],
+    "name:eng_x_variant":[
+        "Jepelacio Distritct"
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d4\u10de\u10d4\u10da\u10d0\u10e1\u10d8\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890454071,
-    "wof:lastmodified":1566676558,
+    "wof:lastmodified":1690850496,
     "wof:name":"Jepelacio",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

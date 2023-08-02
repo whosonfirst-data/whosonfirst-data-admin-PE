@@ -39,6 +39,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u0646\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Puno"
+    ],
     "name:aym_x_preferred":[
         "Puno Jach\u2019a Suyu"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Puno"
+    ],
+    "name:cat_x_variant":[
+        "Puno"
     ],
     "name:ceb_x_preferred":[
         "Puno"
@@ -93,6 +99,9 @@
     ],
     "name:hun_x_variant":[
         "Puno megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Region Puno"
@@ -199,6 +208,9 @@
     "name:war_x_preferred":[
         "Puno"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u8bfa\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u8bfa\u5927\u533a"
     ],
@@ -248,7 +260,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500218,
+    "wof:lastmodified":1690850404,
     "wof:name":"Puno",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Chilca"
+    ],
     "name:aym_x_preferred":[
         "Chillka"
     ],
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09b2\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Chilca"
     ],
     "name:deu_x_preferred":[
         "Chilca"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":890442219,
-    "wof:lastmodified":1636500289,
+    "wof:lastmodified":1690850498,
     "wof:name":"Chilca",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

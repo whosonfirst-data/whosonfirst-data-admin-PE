@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Districte de San Pedro de Cajas"
     ],
+    "name:ceb_x_preferred":[
+        "San Pedro De Cajas"
+    ],
     "name:ita_x_preferred":[
         "Distretto di San Pedro de Cajas"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421201447,
-    "wof:lastmodified":1566676531,
+    "wof:lastmodified":1690850468,
     "wof:name":"San Pedro de Cajas",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Checca"
+    ],
     "name:eng_x_preferred":[
         "Checca"
     ],
     "name:nld_x_preferred":[
         "Checca"
+    ],
+    "name:que_x_preferred":[
+        "Chiqa"
     ],
     "name:spa_x_preferred":[
         "Checca"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1125964731,
-    "wof:lastmodified":1566676574,
+    "wof:lastmodified":1690850517,
     "wof:name":"Checca",
     "wof:parent_id":421187839,
     "wof:placetype":"locality",

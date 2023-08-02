@@ -26,6 +26,9 @@
     "name:spa_x_preferred":[
         "Santiago de Cao"
     ],
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5-\u5fb7\u8003"
+    ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3692073,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421179571,
-    "wof:lastmodified":1566676543,
+    "wof:lastmodified":1690850479,
     "wof:name":"Santiago de Cao",
     "wof:parent_id":421193361,
     "wof:placetype":"locality",

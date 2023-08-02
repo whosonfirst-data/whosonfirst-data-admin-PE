@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Pukara jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Pucara"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Pucar\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Pucar\u00e1 District"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421174825,
-    "wof:lastmodified":1566676494,
+    "wof:lastmodified":1690850438,
     "wof:name":"Pucar\u00e1",
     "wof:parent_id":421187857,
     "wof:placetype":"locality",

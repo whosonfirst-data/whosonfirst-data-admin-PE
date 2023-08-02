@@ -20,20 +20,38 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Tumbes"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0628\u064a\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0645\u0628\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Tumbes"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0443\u043c\u0431\u0435\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0443\u043c\u0431\u0435\u0441"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Tumbes"
     ],
     "name:ceb_x_preferred":[
         "Tumbes"
     ],
     "name:ces_x_preferred":[
         "Tumbes"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0435\u0441"
     ],
     "name:deu_x_preferred":[
         "Tumbes"
@@ -53,8 +71,14 @@
     "name:fra_x_preferred":[
         "Tumbes"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05de\u05d1\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Tumbes"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0574\u0562\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Tumbes"
@@ -88,6 +112,12 @@
     ],
     "name:nno_x_preferred":[
         "Tumbes"
+    ],
+    "name:nob_x_preferred":[
+        "Tumbes"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0648\u0645\u0628\u06cc\u0633"
     ],
     "name:pol_x_preferred":[
         "Tumbes"
@@ -140,6 +170,9 @@
     ],
     "name:war_x_preferred":[
         "Tumbes"
+    ],
+    "name:wuu_x_preferred":[
+        "\u901a\u8d1d\u65af"
     ],
     "name:zho_x_preferred":[
         "\u901a\u8d1d\u65af"
@@ -194,7 +227,7 @@
         }
     ],
     "wof:id":421170087,
-    "wof:lastmodified":1636500285,
+    "wof:lastmodified":1690850473,
     "wof:name":"Tumbes",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09be\u09b8\u09ae\u09c7\u09df\u09cb"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Pacasmayo"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03ba\u03b1\u03c3\u03bc\u03ac\u03b3\u03b9\u03bf"
     ],
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421194455,
-    "wof:lastmodified":1636500272,
+    "wof:lastmodified":1690850426,
     "wof:name":"Pacasmayo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

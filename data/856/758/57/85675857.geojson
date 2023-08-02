@@ -69,6 +69,12 @@
     "name:eng_x_preferred":[
         "Moquegua"
     ],
+    "name:eng_x_variant":[
+        "Moquegua Department"
+    ],
+    "name:epo_x_preferred":[
+        "Departemento Moquegua"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0645\u0648\u06a9\u06af\u0648\u0627"
     ],
@@ -86,6 +92,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d0\u05d1\u05e6'\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05d5\u05e7\u05d2\u05d5\u05d0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0915\u0947\u0917\u0941\u0906 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -209,6 +218,9 @@
     ],
     "name:war_x_preferred":[
         "Moquegua"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u514b\u74dc\u5927\u533a"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u514b\u74dc\u5927\u533a"
@@ -338,7 +350,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500090,
+    "wof:lastmodified":1690850384,
     "wof:name":"Moquegua",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

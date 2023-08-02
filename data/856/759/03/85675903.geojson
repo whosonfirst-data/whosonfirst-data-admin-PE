@@ -243,6 +243,9 @@
     "name:war_x_preferred":[
         "Ayacucho"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u4e9a\u5e93\u4e54\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u4e9a\u5e93\u4e54\u5927\u533a"
     ],
@@ -371,7 +374,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500096,
+    "wof:lastmodified":1690850395,
     "wof:name":"Ayacucho",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

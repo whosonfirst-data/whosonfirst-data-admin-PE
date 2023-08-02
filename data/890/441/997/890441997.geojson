@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Langui"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Langui"
+    ],
     "name:eng_x_preferred":[
         "Langui District"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890441997,
-    "wof:lastmodified":1566676553,
+    "wof:lastmodified":1690850488,
     "wof:name":"Langui",
     "wof:parent_id":421187839,
     "wof:placetype":"locality",

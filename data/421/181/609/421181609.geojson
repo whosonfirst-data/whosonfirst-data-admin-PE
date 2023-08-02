@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Llipata jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Llipata"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Llipata"
+    ],
     "name:eng_x_preferred":[
         "Llipata District"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421181609,
-    "wof:lastmodified":1566676519,
+    "wof:lastmodified":1690850457,
     "wof:name":"Llipata",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",

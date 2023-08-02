@@ -82,6 +82,9 @@
     "name:eng_x_preferred":[
         "Piura"
     ],
+    "name:eng_x_variant":[
+        "Piura department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Piura"
     ],
@@ -235,6 +238,9 @@
     "name:war_x_preferred":[
         "Piura"
     ],
+    "name:wuu_x_preferred":[
+        "\u76ae\u4e4c\u62c9\u5730\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u76ae\u4e4c\u62c9\u5730\u533a"
     ],
@@ -363,7 +369,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500091,
+    "wof:lastmodified":1690850385,
     "wof:name":"Piura",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

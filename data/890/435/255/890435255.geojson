@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Quilahuani"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Quilahuani"
+    ],
     "name:eng_x_preferred":[
         "Quilahuani"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890435255,
-    "wof:lastmodified":1566676571,
+    "wof:lastmodified":1690850515,
     "wof:name":"Quilahuani",
     "wof:parent_id":1108694031,
     "wof:placetype":"locality",

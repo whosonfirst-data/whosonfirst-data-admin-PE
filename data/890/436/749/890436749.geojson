@@ -25,8 +25,17 @@
     "name:bel_x_preferred":[
         "\u043f\u0430\u0440\u043e\u043a"
     ],
+    "name:bos_x_preferred":[
+        "porok"
+    ],
+    "name:bul_x_preferred":[
+        "\u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u044a\u0446\u0438"
+    ],
     "name:cat_x_preferred":[
         "vici"
+    ],
+    "name:ces_x_preferred":[
+        "ne\u0159est"
     ],
     "name:dan_x_preferred":[
         "afh\u00e6ngighed"
@@ -43,6 +52,9 @@
     "name:est_x_preferred":[
         "Pahe"
     ],
+    "name:est_x_variant":[
+        "pahe"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0630\u06cc\u0644\u062a"
     ],
@@ -52,14 +64,38 @@
     "name:fra_x_preferred":[
         "vice"
     ],
+    "name:gle_x_preferred":[
+        "locht"
+    ],
     "name:glg_x_preferred":[
         "Vicio"
+    ],
+    "name:glg_x_variant":[
+        "vicio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d3\u05d4 \u05e8\u05e2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094b\u0937"
     ],
     "name:hrv_x_preferred":[
         "Porok"
     ],
+    "name:hrv_x_variant":[
+        "porok"
+    ],
+    "name:hun_x_preferred":[
+        "gyarl\u00f3s\u00e1g"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0561\u057f"
+    ],
+    "name:hye_x_variant":[
+        "\u0561\u0580\u0561\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "kecelaan"
     ],
     "name:ita_x_preferred":[
         "vizio"
@@ -70,11 +106,20 @@
     "name:lat_x_preferred":[
         "Vitium"
     ],
+    "name:lav_x_preferred":[
+        "netikums"
+    ],
     "name:lit_x_preferred":[
         "Yda"
     ],
+    "name:lit_x_variant":[
+        "yda"
+    ],
     "name:mkd_x_preferred":[
         "\u043f\u043e\u0440\u043e\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "zwakte"
     ],
     "name:pol_x_preferred":[
         "wada"
@@ -85,11 +130,17 @@
     "name:ron_x_preferred":[
         "Viciu"
     ],
+    "name:ron_x_variant":[
+        "viciu"
+    ],
     "name:rus_x_preferred":[
         "\u043f\u043e\u0440\u043e\u043a"
     ],
     "name:slk_x_preferred":[
         "neres\u0165"
+    ],
+    "name:slv_x_preferred":[
+        "pregreha"
     ],
     "name:spa_x_preferred":[
         "vicio"
@@ -97,8 +148,14 @@
     "name:srp_x_preferred":[
         "\u043f\u043e\u0440\u043e\u043a"
     ],
+    "name:swa_x_preferred":[
+        "kilema"
+    ],
     "name:swe_x_preferred":[
         "last"
+    ],
+    "name:tat_x_preferred":[
+        "\u043a\u0438\u043c\u0447\u0435\u043b\u0435\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e1a\u0e32\u0e22\u0e21\u0e38\u0e02"
@@ -142,7 +199,7 @@
         }
     ],
     "wof:id":890436749,
-    "wof:lastmodified":1566676556,
+    "wof:lastmodified":1690850494,
     "wof:name":"Vice",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

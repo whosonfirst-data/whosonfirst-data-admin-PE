@@ -26,11 +26,17 @@
     "name:ceb_x_preferred":[
         "Chaclacayo"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Chaclacayo"
+    ],
     "name:eng_x_preferred":[
         "Chaclacayo"
     ],
     "name:fra_x_preferred":[
         "Chaclacayo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0584\u056c\u0561\u056f\u0561\u0575\u0578"
     ],
     "name:ita_x_preferred":[
         "Distretto di Chaclacayo"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421186053,
-    "wof:lastmodified":1566676513,
+    "wof:lastmodified":1690850452,
     "wof:name":"Chaclacayo",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_variant":[
         "\u0633\u0648\u0644\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0644\u0627\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Sullana"
+    ],
     "name:aym_x_preferred":[
         "Sullana"
     ],
@@ -32,6 +38,9 @@
         "\u09b8\u09cb\u09b2\u09be\u09a8\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Sullana"
+    ],
+    "name:ces_x_preferred":[
         "Sullana"
     ],
     "name:dan_x_preferred":[
@@ -59,6 +68,9 @@
         "Sullana"
     ],
     "name:fra_x_preferred":[
+        "Sullana"
+    ],
+    "name:gle_x_preferred":[
         "Sullana"
     ],
     "name:guj_x_preferred":[
@@ -156,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0644\u0627\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Sullana"
     ],
     "name:vie_x_preferred":[
         "Sullana"
@@ -296,7 +311,7 @@
         }
     ],
     "wof:id":890435985,
-    "wof:lastmodified":1636500293,
+    "wof:lastmodified":1690850512,
     "wof:name":"Sullana",
     "wof:parent_id":1108693969,
     "wof:placetype":"locality",

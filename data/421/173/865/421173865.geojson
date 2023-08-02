@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "name:ceb_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421173865,
-    "wof:lastmodified":1566676505,
+    "wof:lastmodified":1690850445,
     "wof:name":"San Roman",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

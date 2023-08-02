@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Yanahuanca"
+    ],
     "name:aym_x_preferred":[
         "Yanawanka"
     ],
@@ -27,6 +30,9 @@
         "Yanahuanca"
     ],
     "name:nld_x_preferred":[
+        "Yanahuanca"
+    ],
+    "name:por_x_preferred":[
         "Yanahuanca"
     ],
     "name:que_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421193143,
-    "wof:lastmodified":1566676485,
+    "wof:lastmodified":1690850430,
     "wof:name":"Yanahuanca",
     "wof:parent_id":1108693911,
     "wof:placetype":"locality",

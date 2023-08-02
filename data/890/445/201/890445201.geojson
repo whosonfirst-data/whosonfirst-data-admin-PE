@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Orcotuna"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Orcotuna"
+    ],
     "name:eng_x_preferred":[
         "Orcotuna District"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890445201,
-    "wof:lastmodified":1566676566,
+    "wof:lastmodified":1690850507,
     "wof:name":"Orcotuna",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",

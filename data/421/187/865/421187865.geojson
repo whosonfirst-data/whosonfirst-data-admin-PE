@@ -46,6 +46,12 @@
     "name:cat_x_preferred":[
         "Ucayali"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Ucayali"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Ucayali"
+    ],
     "name:eng_x_preferred":[
         "Ucayali"
     ],
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":421187865,
-    "wof:lastmodified":1636500276,
+    "wof:lastmodified":1690850442,
     "wof:name":"Ucayali",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

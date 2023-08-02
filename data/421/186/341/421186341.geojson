@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Miraflores"
     ],
+    "name:ceb_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ces_x_preferred":[
+        "Miraflores"
+    ],
     "name:deu_x_preferred":[
         "Miraflores"
     ],
@@ -41,6 +47,9 @@
     "name:fra_x_variant":[
         "Miraflores"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05d9\u05e8\u05d0\u05e4\u05dc\u05d5\u05e8\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Miraflores"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:ita_x_variant":[
         "Miraflores"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30d5\u30ed\u30fc\u30ec\u30b9"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0438\u0440\u0430\u0444\u043b\u043e\u0440\u0435\u0441"
@@ -67,6 +79,12 @@
     ],
     "name:que_x_preferred":[
         "Miraflores distritu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0444\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Miraflores"
     ],
     "name:spa_x_preferred":[
         "Distrito de Miraflores"
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":421186341,
-    "wof:lastmodified":1566676514,
+    "wof:lastmodified":1690850453,
     "wof:name":"Miraflores",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

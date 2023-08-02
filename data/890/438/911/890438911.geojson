@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "Ilabaya"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Ilabaya"
+    ],
     "name:eng_x_preferred":[
         "Ilabaya District"
+    ],
+    "name:fra_x_preferred":[
+        "District d'Ilabaya"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30e9\u30d0\u30b8\u30e3"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890438911,
-    "wof:lastmodified":1566676558,
+    "wof:lastmodified":1690850496,
     "wof:name":"Ilabaya",
     "wof:parent_id":1108694029,
     "wof:placetype":"locality",

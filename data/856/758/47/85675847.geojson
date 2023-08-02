@@ -230,6 +230,9 @@
     "name:war_x_preferred":[
         "Madre de Dios"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5fb7\u96f7\u5fb7\u8fea\u5965\u65af\u5927\u533a"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Madre de Dios Khu"
     ],
@@ -362,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500096,
+    "wof:lastmodified":1690850394,
     "wof:name":"Madre de Dios",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

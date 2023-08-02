@@ -40,6 +40,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Tumbes"
+    ],
     "name:ceb_x_preferred":[
         "Tumbes"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:hun_x_preferred":[
         "Tumbes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30f3\u30d9\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10db\u10d1\u10d4\u10e1\u10d8"
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421187863,
-    "wof:lastmodified":1636500276,
+    "wof:lastmodified":1690850443,
     "wof:name":"Tumbes",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

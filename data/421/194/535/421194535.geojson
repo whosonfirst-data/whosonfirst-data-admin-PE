@@ -26,10 +26,19 @@
     "name:ara_x_variant":[
         "\u0623\u064a\u0627\u0641\u064a\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:aym_x_preferred":[
+        "Ayawiri"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09df\u09be\u09ad\u09bf\u09b0\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Ayaviri"
+    ],
+    "name:deu_x_preferred":[
         "Ayaviri"
     ],
     "name:ell_x_preferred":[
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":421194535,
-    "wof:lastmodified":1636500272,
+    "wof:lastmodified":1690850425,
     "wof:name":"Ayaviri",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",
