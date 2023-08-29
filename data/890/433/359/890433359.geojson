@@ -58,6 +58,9 @@
     "name:spa_x_preferred":[
         "Paracas"
     ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u5361\u65af"
+    ],
     "qs:name":"Paracas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890433359,
-    "wof:lastmodified":1566676568,
+    "wof:lastmodified":1690850509,
     "wof:name":"Paracas",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

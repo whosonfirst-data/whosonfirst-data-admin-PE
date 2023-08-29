@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0447\u0430 \u041a\u0430\u043c\u0430\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Pachacamac"
+    ],
     "name:deu_x_preferred":[
         "Pachac\u00e1mac"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Pachacamac"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e6'\u05d0\u05e7\u05de\u05e7"
     ],
     "name:ind_x_preferred":[
         "Pachacamac"
@@ -89,6 +95,9 @@
     "name:spa_x_preferred":[
         "Pachac\u00e1mac"
     ],
+    "name:spa_x_variant":[
+        "Pachacamac"
+    ],
     "name:srp_x_preferred":[
         "Pa\u010dakamak"
     ],
@@ -97,6 +106,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0447\u0430\u043a\u0430\u043c\u0430\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u67e5\u5361\u99ac\u514b"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":421196271,
-    "wof:lastmodified":1566676526,
+    "wof:lastmodified":1690850462,
     "wof:name":"Pachacamac",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

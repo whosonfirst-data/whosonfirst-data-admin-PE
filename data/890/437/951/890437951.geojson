@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "La Peca"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt La Peca"
+    ],
     "name:eng_x_preferred":[
         "La Peca District"
+    ],
+    "name:eng_x_variant":[
+        "La Peca"
     ],
     "name:nld_x_preferred":[
         "La Peca"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890437951,
-    "wof:lastmodified":1566676555,
+    "wof:lastmodified":1690850491,
     "wof:name":"La Peca",
     "wof:parent_id":1108693901,
     "wof:placetype":"locality",

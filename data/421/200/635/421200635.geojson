@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Pueblo Libre"
     ],
+    "name:ceb_x_preferred":[
+        "Pueblo Libre"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Pueblo Libre"
+    ],
     "name:eng_x_preferred":[
         "Pueblo Libre"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421200635,
-    "wof:lastmodified":1566676530,
+    "wof:lastmodified":1690850466,
     "wof:name":"Pueblo Libre",
     "wof:parent_id":1108693963,
     "wof:placetype":"locality",

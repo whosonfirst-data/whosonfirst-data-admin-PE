@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b2"
     ],
+    "name:deu_x_preferred":[
+        "Pimentel"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b9\u03bc\u03b5\u03bd\u03c4\u03ad\u03bb"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "Pimentel"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u95e8\u7279\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Peru",
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":890445035,
-    "wof:lastmodified":1636500293,
+    "wof:lastmodified":1690850506,
     "wof:name":"Pimentel",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Combapata"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Combapata"
+    ],
     "name:eng_x_preferred":[
         "Combapata District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890445219,
-    "wof:lastmodified":1566676563,
+    "wof:lastmodified":1690850501,
     "wof:name":"Combapata",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",

@@ -19,14 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Pomabamba"
+    ],
     "name:aym_x_preferred":[
         "Pumapampa"
     ],
     "name:ceb_x_preferred":[
         "Pomabamba"
     ],
+    "name:deu_x_preferred":[
+        "Pomabamba"
+    ],
     "name:eng_x_preferred":[
         "Pomabamba"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0645\u0627\u0628\u0627\u0645\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Pomabamba"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":890422107,
-    "wof:lastmodified":1566676552,
+    "wof:lastmodified":1690850488,
     "wof:name":"Pomabamba",
     "wof:parent_id":1108694015,
     "wof:placetype":"locality",

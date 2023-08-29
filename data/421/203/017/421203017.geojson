@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Huaytar\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Huaytar\u00e1"
     ],
@@ -24,6 +27,9 @@
         "Huaytar\u00e1"
     ],
     "name:nld_x_preferred":[
+        "Huaytar\u00e1"
+    ],
+    "name:por_x_preferred":[
         "Huaytar\u00e1"
     ],
     "name:que_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421203017,
-    "wof:lastmodified":1566676489,
+    "wof:lastmodified":1690850433,
     "wof:name":"Huaytar\u00e1",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",

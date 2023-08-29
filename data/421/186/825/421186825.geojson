@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Urcos"
+    ],
     "name:aym_x_preferred":[
         "Urqus"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421186825,
-    "wof:lastmodified":1566676516,
+    "wof:lastmodified":1690850454,
     "wof:name":"Urcos",
     "wof:parent_id":421202209,
     "wof:placetype":"locality",

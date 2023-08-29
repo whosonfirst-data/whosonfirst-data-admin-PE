@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Mazamari"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Mazamari"
+    ],
     "name:eng_x_preferred":[
         "Mazamari"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890445207,
-    "wof:lastmodified":1566676565,
+    "wof:lastmodified":1690850506,
     "wof:name":"Mazamari",
     "wof:parent_id":421203221,
     "wof:placetype":"locality",

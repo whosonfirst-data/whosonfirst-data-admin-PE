@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
     "name:aym_x_preferred":[
         "Asankaru"
     ],
     "name:ceb_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0441\u0430\u043d\u0433\u0430\u0440\u043e"
+    ],
+    "name:deu_x_preferred":[
         "Az\u00e1ngaro"
     ],
     "name:eng_x_preferred":[
@@ -39,6 +48,9 @@
         "Az\u00e1ngaro"
     ],
     "name:pol_x_preferred":[
+        "Az\u00e1ngaro"
+    ],
+    "name:por_x_preferred":[
         "Az\u00e1ngaro"
     ],
     "name:que_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421205015,
-    "wof:lastmodified":1566676492,
+    "wof:lastmodified":1690850436,
     "wof:name":"Az\u00e1ngaro",
     "wof:parent_id":1108693915,
     "wof:placetype":"locality",

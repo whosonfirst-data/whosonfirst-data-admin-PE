@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Cajaruro"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Cajaruro"
+    ],
     "name:eng_x_preferred":[
         "Cajaruro District"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890435203,
-    "wof:lastmodified":1566676569,
+    "wof:lastmodified":1690850511,
     "wof:name":"Cajaruro",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",

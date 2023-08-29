@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Moho"
+    ],
     "name:aym_x_preferred":[
         "Muju"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421166791,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1690850421,
     "wof:name":"Moho",
     "wof:parent_id":421171963,
     "wof:placetype":"locality",

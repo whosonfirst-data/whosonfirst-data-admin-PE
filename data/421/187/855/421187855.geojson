@@ -40,6 +40,12 @@
     "name:cat_x_preferred":[
         "Lambayeque"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Lambayeque"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Lambayeque"
+    ],
     "name:eng_x_preferred":[
         "Lambayeque"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Lambajeko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627\u0645\u0628\u0627\u06cc\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
         "Lambayeque"
@@ -75,6 +84,9 @@
     ],
     "name:que_x_preferred":[
         "Lampalliqi pruwinsya"
+    ],
+    "name:spa_x_preferred":[
+        "Lambayeque"
     ],
     "name:und_x_variant":[
         "Provincia de Lambayeque"
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":421187855,
-    "wof:lastmodified":1636500276,
+    "wof:lastmodified":1690850443,
     "wof:name":"Lambayeque",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

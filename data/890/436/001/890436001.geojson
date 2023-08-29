@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Tabalosos"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Tabalosos"
+    ],
     "name:eng_x_preferred":[
         "Tabalosos District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890436001,
-    "wof:lastmodified":1566676556,
+    "wof:lastmodified":1690850493,
     "wof:name":"Tabalosos",
     "wof:parent_id":1108694057,
     "wof:placetype":"locality",

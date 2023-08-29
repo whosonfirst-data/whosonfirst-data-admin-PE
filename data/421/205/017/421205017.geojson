@@ -20,10 +20,22 @@
     "name:arq_x_preferred":[
         "Juanju\u00ed"
     ],
+    "name:ast_x_preferred":[
+        "Juanju\u00ed"
+    ],
     "name:aym_x_preferred":[
         "Juanju\u00ed"
     ],
     "name:ceb_x_preferred":[
+        "Juanju\u00ed"
+    ],
+    "name:ces_x_preferred":[
+        "Juanju\u00ed"
+    ],
+    "name:chv_x_preferred":[
+        "\u0425\u0443\u0430\u043d\u0445\u0443\u0438"
+    ],
+    "name:deu_x_preferred":[
         "Juanju\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -44,7 +56,13 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a2\u30f3\u30d5\u30a4"
     ],
+    "name:lit_x_preferred":[
+        "Chuanchui"
+    ],
     "name:nld_x_preferred":[
+        "Juanju\u00ed"
+    ],
+    "name:por_x_preferred":[
         "Juanju\u00ed"
     ],
     "name:que_x_preferred":[
@@ -205,7 +223,7 @@
         }
     ],
     "wof:id":421205017,
-    "wof:lastmodified":1566676493,
+    "wof:lastmodified":1690850437,
     "wof:name":"Juanju\u00ed",
     "wof:parent_id":1108694041,
     "wof:placetype":"locality",

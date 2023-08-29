@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Supe"
+    ],
     "name:ceb_x_preferred":[
         "Puerto Supe"
+    ],
+    "name:deu_x_preferred":[
+        "Supe"
     ],
     "name:eng_x_preferred":[
         "Supe"
@@ -31,6 +37,9 @@
     ],
     "name:spa_x_preferred":[
         "Supe"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u4f69\u6e2f"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":421174823,
-    "wof:lastmodified":1566676493,
+    "wof:lastmodified":1690850438,
     "wof:name":"Puerto Supe",
     "wof:parent_id":1108693959,
     "wof:placetype":"locality",

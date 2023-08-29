@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Subtanjalla"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Subtanjalla"
+    ],
     "name:eng_x_preferred":[
         "Subtanjalla District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890438907,
-    "wof:lastmodified":1566676557,
+    "wof:lastmodified":1690850495,
     "wof:name":"Subtanjalla",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

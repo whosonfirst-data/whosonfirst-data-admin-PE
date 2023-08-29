@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Coishco"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Coishco"
+    ],
     "name:eng_x_preferred":[
         "Coishco District"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890430937,
-    "wof:lastmodified":1566676554,
+    "wof:lastmodified":1690850490,
     "wof:name":"Coishco",
     "wof:parent_id":421202213,
     "wof:placetype":"locality",

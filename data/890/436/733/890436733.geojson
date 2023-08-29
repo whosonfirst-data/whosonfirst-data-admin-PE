@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Soritor"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Soritor"
+    ],
     "name:eng_x_preferred":[
         "Soritor District"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:que_x_preferred":[
         "Soritor distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Soritor"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u91cc\u6258\u723e\u5340"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890436733,
-    "wof:lastmodified":1566676556,
+    "wof:lastmodified":1690850494,
     "wof:name":"Soritor",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

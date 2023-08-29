@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Santa Cruz de Flores jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Cruz De Flores"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Santa Cruz de Flores"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421192247,
-    "wof:lastmodified":1566676478,
+    "wof:lastmodified":1690850424,
     "wof:name":"Santa Cruz de Flores",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

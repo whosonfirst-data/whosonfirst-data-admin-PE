@@ -49,6 +49,12 @@
     "name:cat_x_preferred":[
         "Huancavelica"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Huancavelica"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Huancavelica"
+    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03b1\u03bd\u03ba\u03b1\u03b2\u03ad\u03bb\u03b9\u03ba\u03b1"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:eng_x_variant":[
         "Huancavelica Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0626\u0627\u0646\u06a9\u0627\u0648\u0644\u06cc\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Huancavelica"
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":421175167,
-    "wof:lastmodified":1636500280,
+    "wof:lastmodified":1690850458,
     "wof:name":"Huancavelica",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

@@ -76,6 +76,9 @@
     "name:eng_x_preferred":[
         "Lambayeque"
     ],
+    "name:eng_x_variant":[
+        "Lambayeque department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Lambayeque"
     ],
@@ -220,6 +223,9 @@
     "name:war_x_preferred":[
         "Lambayeque"
     ],
+    "name:wuu_x_preferred":[
+        "\u5170\u5df4\u8036\u514b\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5170\u5df4\u8036\u514b\u5927\u533a"
     ],
@@ -348,7 +354,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500091,
+    "wof:lastmodified":1690850386,
     "wof:name":"Lambayeque",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

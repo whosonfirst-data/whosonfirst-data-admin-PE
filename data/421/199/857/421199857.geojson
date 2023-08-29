@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Monsef\u00fa"
     ],
+    "name:deu_x_preferred":[
+        "Monsef\u00fa"
+    ],
     "name:eng_x_preferred":[
         "Monsef\u00fa"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421199857,
-    "wof:lastmodified":1566676529,
+    "wof:lastmodified":1690850465,
     "wof:name":"Monsef\u00fa",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

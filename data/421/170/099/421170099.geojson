@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.2501845,-18.01465,-70.2501845,-18.01465",
+    "geom:bbox":"-70.250185,-18.01465,-70.250185,-18.01465",
     "geom:latitude":-18.01465,
     "geom:longitude":-70.250185,
     "iso:country":"PE",
@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Tacna"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0646\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0643\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tacna"
     ],
     "name:aym_x_preferred":[
         "Taqna"
@@ -41,6 +50,9 @@
     "name:ces_x_preferred":[
         "Tacna"
     ],
+    "name:chv_x_preferred":[
+        "\u0422\u0430\u043a\u043d\u0430"
+    ],
     "name:dan_x_preferred":[
         "Tacna"
     ],
@@ -59,6 +71,9 @@
     "name:est_x_preferred":[
         "Tacna"
     ],
+    "name:eus_x_preferred":[
+        "Tacna"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u0646\u0627"
     ],
@@ -66,6 +81,9 @@
         "Tacna"
     ],
     "name:fra_x_preferred":[
+        "Tacna"
+    ],
+    "name:gle_x_preferred":[
         "Tacna"
     ],
     "name:guj_x_preferred":[
@@ -77,8 +95,14 @@
     "name:hin_x_preferred":[
         "\u091f\u0948\u0915\u0928\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Tacna"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u056f\u0576\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0561\u0584\u0576\u0561"
     ],
     "name:ido_x_preferred":[
         "Tacna"
@@ -152,14 +176,23 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd0\u0d9a\u0dca\u0db1\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Tacna"
+    ],
     "name:spa_x_preferred":[
         "Tacna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043a\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Tacna"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0b95\u0bcd\u0ba9\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043a\u043d\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c15\u0c4d\u0c28"
@@ -176,6 +209,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u06a9\u0646\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Tacna"
+    ],
     "name:vie_x_preferred":[
         "Tacna"
     ],
@@ -184,6 +220,9 @@
     ],
     "name:war_x_preferred":[
         "Tacna"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u514b\u7eb3"
     ],
     "name:zho_x_preferred":[
         "\u5854\u514b\u7eb3"
@@ -225,7 +264,7 @@
     },
     "wof:country":"PE",
     "wof:created":1459008836,
-    "wof:geomhash":"298c545565c007d5dd5824185515b431",
+    "wof:geomhash":"ea95bef7bc1047a7d76dd14477afc7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -236,7 +275,7 @@
         }
     ],
     "wof:id":421170099,
-    "wof:lastmodified":1566676536,
+    "wof:lastmodified":1690850472,
     "wof:name":"Tacna",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",
@@ -246,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.2501845,
+    -70.250185,
     -18.01465,
-    -70.2501845,
+    -70.250185,
     -18.01465
 ],
-  "geometry": {"coordinates":[-70.2501845,-18.01465],"type":"Point"}
+  "geometry": {"coordinates":[-70.250185,-18.01465],"type":"Point"}
 }

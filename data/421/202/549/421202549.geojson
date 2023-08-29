@@ -49,16 +49,28 @@
     "name:amh_x_preferred":[
         "\u120a\u121b"
     ],
+    "name:ang_x_preferred":[
+        "Lima"
+    ],
+    "name:anp_x_preferred":[
+        "\u0932\u0940\u092e\u093e"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0627"
     ],
     "name:arg_x_preferred":[
         "Lima"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u064a\u0645\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0644\u064a\u0645\u0627"
     ],
     "name:ast_x_preferred":[
+        "Lima"
+    ],
+    "name:avk_x_preferred":[
         "Lima"
     ],
     "name:aym_x_preferred":[
@@ -70,7 +82,13 @@
     "name:aze_x_preferred":[
         "Lima"
     ],
+    "name:ban_x_preferred":[
+        "Lima"
+    ],
     "name:bar_x_preferred":[
+        "Lima"
+    ],
+    "name:bcl_x_preferred":[
         "Lima"
     ],
     "name:bel_x_preferred":[
@@ -111,6 +129,9 @@
     ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u043c\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0644\u06cc\u0645\u0627"
     ],
     "name:crh_x_preferred":[
         "Lima"
@@ -165,6 +186,9 @@
     ],
     "name:frp_x_preferred":[
         "Lima"
+    ],
+    "name:frr_x_preferred":[
+        "Liima"
     ],
     "name:fry_x_preferred":[
         "Lima"
@@ -319,6 +343,9 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
+    ],
     "name:mhr_x_preferred":[
         "\u041b\u0438\u043c\u0430"
     ],
@@ -326,6 +353,9 @@
         "\u041b\u0438\u043c\u0430"
     ],
     "name:mlg_x_preferred":[
+        "Lima"
+    ],
+    "name:mlt_x_preferred":[
         "Lima"
     ],
     "name:mon_x_preferred":[
@@ -339,6 +369,12 @@
     ],
     "name:mwl_x_preferred":[
         "Lima"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u102e\u1019\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u06cc\u0645\u0627"
     ],
     "name:nah_x_preferred":[
         "Lima"
@@ -397,6 +433,9 @@
     "name:que_x_preferred":[
         "Lima"
     ],
+    "name:qug_x_preferred":[
+        "Lima"
+    ],
     "name:rmy_x_preferred":[
         "Lima"
     ],
@@ -408,6 +447,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c64\u1c62\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Lima"
@@ -425,6 +467,15 @@
         "Lima"
     ],
     "name:slv_x_preferred":[
+        "Lima"
+    ],
+    "name:sme_x_preferred":[
+        "Lima"
+    ],
+    "name:smn_x_preferred":[
+        "Lima"
+    ],
+    "name:sms_x_preferred":[
         "Lima"
     ],
     "name:sna_x_preferred":[
@@ -471,6 +522,9 @@
     ],
     "name:tet_x_preferred":[
         "Lima"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0438\u043c\u0430"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e21\u0e32"
@@ -528,6 +582,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5229\u99ac"
+    ],
+    "name:zea_x_preferred":[
+        "Lima"
     ],
     "name:zho_x_preferred":[
         "\u5229\u99ac"
@@ -598,7 +655,7 @@
         }
     ],
     "wof:id":421202549,
-    "wof:lastmodified":1608054674,
+    "wof:lastmodified":1690850435,
     "wof:name":"Lima",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

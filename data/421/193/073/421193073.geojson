@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u043e\u0440\u0445\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ac\u09cb\u09b0\u099c\u09be"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ceb_x_preferred":[
         "San Borja"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt San Borja"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039c\u03c0\u03cc\u03c1\u03c7\u03b1"
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421193073,
-    "wof:lastmodified":1636500273,
+    "wof:lastmodified":1690850430,
     "wof:name":"San Borja",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Comas"
     ],
+    "name:ceb_x_preferred":[
+        "Comas"
+    ],
     "name:deu_x_preferred":[
         "Comas"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421200637,
-    "wof:lastmodified":1566676531,
+    "wof:lastmodified":1690850467,
     "wof:name":"Comas",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

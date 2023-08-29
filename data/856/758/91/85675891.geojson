@@ -85,6 +85,12 @@
     "name:eng_x_preferred":[
         "Ucayali"
     ],
+    "name:eng_x_variant":[
+        "Ucayali Department"
+    ],
+    "name:epo_x_preferred":[
+        "Departemento Ucayali"
+    ],
     "name:est_x_preferred":[
         "Ucayali piirkond"
     ],
@@ -233,6 +239,9 @@
     "name:war_x_preferred":[
         "Ucayali"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u5361\u4e9a\u5229\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u5361\u4e9a\u5229\u5927\u533a"
     ],
@@ -361,7 +370,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636500092,
+    "wof:lastmodified":1690850388,
     "wof:name":"Ucayali",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

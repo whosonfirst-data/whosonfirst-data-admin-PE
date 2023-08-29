@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Carhuamayo"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Carhuamayo"
+    ],
     "name:eng_x_preferred":[
         "Carhuamayo District"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":890435271,
-    "wof:lastmodified":1566676570,
+    "wof:lastmodified":1690850513,
     "wof:name":"Carhuamayo",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0648\u0632\u0643\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Otuzco"
+    ],
     "name:aym_x_preferred":[
         "Utusku jisk'a t'aqa suyu"
     ],
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":890440183,
-    "wof:lastmodified":1636500288,
+    "wof:lastmodified":1690850487,
     "wof:name":"Otuzco",
     "wof:parent_id":421188717,
     "wof:placetype":"locality",

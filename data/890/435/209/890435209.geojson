@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Campoverde"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Campoverde"
+    ],
     "name:eng_x_preferred":[
         "Campoverde"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890435209,
-    "wof:lastmodified":1566676571,
+    "wof:lastmodified":1690850513,
     "wof:name":"Campoverde",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",

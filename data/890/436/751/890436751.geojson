@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Lambayeque"
+    ],
+    "name:cat_x_preferred":[
+        "Lambayeque"
+    ],
     "name:ceb_x_preferred":[
+        "Lambayeque"
+    ],
+    "name:ces_x_preferred":[
         "Lambayeque"
     ],
     "name:dan_x_preferred":[
@@ -52,6 +61,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30d0\u30a4\u30a7\u30b1"
     ],
+    "name:kor_x_preferred":[
+        "\ub78c\ubc14\uc608\ud06c"
+    ],
     "name:nah_x_preferred":[
         "Lambayeque"
     ],
@@ -75,6 +87,9 @@
     ],
     "name:rus_x_variant":[
         "\u041b\u0430\u043c\u0431\u0430\u0435\u043a\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Lambayeque"
     ],
     "name:spa_x_preferred":[
         "Lambayeque"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":890436751,
-    "wof:lastmodified":1636500288,
+    "wof:lastmodified":1690850494,
     "wof:name":"Lambayeque",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

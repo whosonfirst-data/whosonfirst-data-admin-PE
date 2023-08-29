@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0643\u0627\u0631\u062f\u0648 \u0628\u0627\u0644\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u0643\u0627\u0631\u062f\u0648 \u0628\u0627\u0644\u0645\u0627"
+    ],
     "name:ast_x_preferred":[
         "Ricardo Palma"
     ],
@@ -30,6 +33,12 @@
         "\u0631\u06cc\u06a9\u0627\u0631\u062f\u0648 \u067e\u0627\u0644\u0645\u0627"
     ],
     "name:bre_x_preferred":[
+        "Ricardo Palma"
+    ],
+    "name:cat_x_preferred":[
+        "Ricardo Palma"
+    ],
+    "name:ces_x_preferred":[
         "Ricardo Palma"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +62,20 @@
     "name:fra_x_preferred":[
         "Ricardo Palma"
     ],
+    "name:gle_x_preferred":[
+        "Ricardo Palma"
+    ],
+    "name:hun_x_preferred":[
+        "Ricardo Palma"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u056f\u0561\u0580\u0564\u0578 \u054a\u0561\u056c\u0574\u0561"
+    ],
     "name:ita_x_preferred":[
         "Ricardo Palma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30ab\u30eb\u30c9\u30fb\u30d1\u30eb\u30de"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10d9\u10d0\u10e0\u10d3\u10dd \u10de\u10d0\u10da\u10db\u10d0"
@@ -71,11 +92,17 @@
     "name:pol_x_preferred":[
         "Ricardo Palma"
     ],
+    "name:por_x_preferred":[
+        "Ricardo Palma"
+    ],
     "name:que_x_preferred":[
         "Ricardo Palma Soriano"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u043a\u0430\u0440\u0434\u043e \u041f\u0430\u043b\u044c\u043c\u0430"
     ],
     "name:slv_x_preferred":[
         "Ricardo Palma"
@@ -83,11 +110,17 @@
     "name:spa_x_preferred":[
         "Ricardo Palma"
     ],
+    "name:sqi_x_preferred":[
+        "Ricardo Palma"
+    ],
     "name:swe_x_preferred":[
         "Ricardo Palma"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043a\u0430\u0440\u0434\u043e \u041f\u0430\u043b\u044c\u043c\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5361\u591a\u00b7\u5e15\u5c14\u9a6c"
     ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
@@ -136,7 +169,7 @@
         }
     ],
     "wof:id":421168521,
-    "wof:lastmodified":1566676474,
+    "wof:lastmodified":1690850421,
     "wof:name":"Ricardo Palma",
     "wof:parent_id":1108693967,
     "wof:placetype":"locality",

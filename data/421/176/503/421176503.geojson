@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Muchumi jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Mochumi"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Mochum\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Mochumi District"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421176503,
-    "wof:lastmodified":1566676545,
+    "wof:lastmodified":1690850482,
     "wof:name":"Mochum\u00ed",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

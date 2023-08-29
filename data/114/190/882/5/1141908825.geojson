@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0625\u064a\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Ilo"
+    ],
     "name:aym_x_preferred":[
         "Ilu"
     ],
@@ -33,6 +39,9 @@
     "name:ceb_x_preferred":[
         "Ilo"
     ],
+    "name:ces_x_preferred":[
+        "Ilo"
+    ],
     "name:deu_x_preferred":[
         "Ilo"
     ],
@@ -41,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Ilo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Ilo"
@@ -92,6 +104,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Ilo"
     ],
     "name:spa_x_preferred":[
         "Ilo"
@@ -245,7 +260,7 @@
         }
     ],
     "wof:id":1141908825,
-    "wof:lastmodified":1636500401,
+    "wof:lastmodified":1690850526,
     "wof:name":"Ilo",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",

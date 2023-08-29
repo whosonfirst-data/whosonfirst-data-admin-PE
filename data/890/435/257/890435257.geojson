@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "P\u00edsac"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e1\u05e7"
+    ],
     "name:hrv_x_preferred":[
         "P\u00edsac"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890435257,
-    "wof:lastmodified":1566676569,
+    "wof:lastmodified":1690850510,
     "wof:name":"Pisac",
     "wof:parent_id":421175157,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0646\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Puno"
+    ],
     "name:aym_x_preferred":[
         "Punu"
     ],
@@ -53,6 +59,9 @@
     "name:ces_x_preferred":[
         "Puno"
     ],
+    "name:chv_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
+    ],
     "name:dan_x_preferred":[
         "Puno"
     ],
@@ -75,6 +84,12 @@
         "Puno"
     ],
     "name:fra_x_preferred":[
+        "Puno"
+    ],
+    "name:gle_x_preferred":[
+        "Puno"
+    ],
+    "name:glg_x_preferred":[
         "Puno"
     ],
     "name:guj_x_preferred":[
@@ -164,6 +179,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dd6\u0db1\u0ddd"
     ],
+    "name:sme_x_preferred":[
+        "Punu"
+    ],
     "name:spa_x_preferred":[
         "Puno"
     ],
@@ -175,6 +193,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0ba9\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u043d\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c28\u0c4b"
@@ -190,6 +211,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0646\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Puno"
     ],
     "name:vie_x_preferred":[
         "Puno"
@@ -257,7 +281,7 @@
         }
     ],
     "wof:id":421170101,
-    "wof:lastmodified":1636500284,
+    "wof:lastmodified":1690850473,
     "wof:name":"Puno",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

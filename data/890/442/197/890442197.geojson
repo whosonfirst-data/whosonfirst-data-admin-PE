@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u064a\u063a\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0643\u064a\u062c\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Moquegua"
+    ],
     "name:aym_x_preferred":[
         "Mukiwa"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u0995\u09c7\u0997\u09cb\u09af\u09bc\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Moquegua"
     ],
     "name:ceb_x_preferred":[
         "Moquegua"
@@ -72,6 +81,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d0\u05d1\u05e6'\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05e7\u05d2\u05d5\u05d5\u05d0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0915\u0947\u0917\u0941\u0906"
@@ -174,6 +186,9 @@
     ],
     "name:war_x_preferred":[
         "Moquegua"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u514b\u74dc"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u514b\u74dc"
@@ -309,7 +324,7 @@
         }
     ],
     "wof:id":890442197,
-    "wof:lastmodified":1636500290,
+    "wof:lastmodified":1690850499,
     "wof:name":"Moquegua",
     "wof:parent_id":421193431,
     "wof:placetype":"locality",

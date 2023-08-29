@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "T\u00facume"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5\u05de\u05d4"
+    ],
     "name:hun_x_preferred":[
         "T\u00facume"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421176495,
-    "wof:lastmodified":1566676546,
+    "wof:lastmodified":1690850483,
     "wof:name":"T\u00facume",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",

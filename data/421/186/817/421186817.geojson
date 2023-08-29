@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Merced"
+    ],
     "name:deu_x_preferred":[
         "La Merced"
     ],
@@ -33,6 +36,9 @@
         "La Mersedas"
     ],
     "name:nld_x_preferred":[
+        "La Merced"
+    ],
+    "name:por_x_preferred":[
         "La Merced"
     ],
     "name:que_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421186817,
-    "wof:lastmodified":1566676512,
+    "wof:lastmodified":1690850451,
     "wof:name":"La Merced",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",

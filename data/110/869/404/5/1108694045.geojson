@@ -42,18 +42,29 @@
     "name:cat_x_preferred":[
         "Cajabamba"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Cajabamba"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Cajabamba"
+    ],
     "name:eng_x_preferred":[
         "Cajabamba"
     ],
     "name:eng_x_variant":[
-        "Cajabamba",
         "Cajabamba Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u062e\u0627\u0628\u0627\u0645\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Cajabamba"
     ],
     "name:fre_x_variant":[
         "province de Cajabamba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05e0\u05e6\u05d9\u05d9\u05ea \u05e7\u05d7\u05d0\u05d1\u05de\u05d1\u05d4"
     ],
     "name:ind_x_preferred":[
         "Provinsi Cajabamba"
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1108694045,
-    "wof:lastmodified":1636500223,
+    "wof:lastmodified":1690850415,
     "wof:name":"Cajabamba",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Calana"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Calana"
+    ],
     "name:eng_x_preferred":[
         "Calana"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890434723,
-    "wof:lastmodified":1566676567,
+    "wof:lastmodified":1690850508,
     "wof:name":"Calana",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",

@@ -40,6 +40,12 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09a8\u09cb"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Puno"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Puno"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03cd\u03bd\u03bf"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:eng_x_variant":[
         "Puno Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Puno"
@@ -78,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Puno"
     ],
     "name:und_x_variant":[
         "Provincia de Puno"
@@ -155,7 +167,7 @@
         }
     ],
     "wof:id":421200651,
-    "wof:lastmodified":1636500282,
+    "wof:lastmodified":1690850466,
     "wof:name":"Puno",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

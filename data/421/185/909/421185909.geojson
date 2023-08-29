@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.4709465,-13.9970225,-71.4709465,-13.9970225",
+    "geom:bbox":"-71.470946,-13.997022,-71.470946,-13.997022",
     "geom:latitude":-13.997022,
     "geom:longitude":-71.470946,
     "gn:country":"PE",
@@ -22,6 +22,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Checacupe"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Checacupe"
     ],
     "name:eng_x_preferred":[
         "Checacupe District"
@@ -84,7 +87,7 @@
     },
     "wof:country":"PE",
     "wof:created":1459009458,
-    "wof:geomhash":"7b4653ad03aeceb3deeba733ac8be28f",
+    "wof:geomhash":"b5a72b3e60382c2c4ba8a5fbc69c934a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421185909,
-    "wof:lastmodified":1566676549,
+    "wof:lastmodified":1690850485,
     "wof:name":"Checacupe",
     "wof:parent_id":421187843,
     "wof:placetype":"locality",
@@ -109,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.4709465,
-    -13.9970225,
-    -71.4709465,
-    -13.9970225
+    -71.470946,
+    -13.997022,
+    -71.470946,
+    -13.997022
 ],
-  "geometry": {"coordinates":[-71.4709465,-13.9970225],"type":"Point"}
+  "geometry": {"coordinates":[-71.470946,-13.997022],"type":"Point"}
 }

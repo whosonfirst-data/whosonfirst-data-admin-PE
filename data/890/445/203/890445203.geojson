@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Orcopampa"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Orcopampa"
+    ],
     "name:eng_x_preferred":[
         "Orcopampa District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890445203,
-    "wof:lastmodified":1566676563,
+    "wof:lastmodified":1690850502,
     "wof:name":"Orcopampa",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",

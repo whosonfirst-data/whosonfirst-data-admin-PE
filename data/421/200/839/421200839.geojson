@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Moyobamba"
+    ],
     "name:aym_x_preferred":[
         "Muyupampa"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:ces_x_preferred":[
         "Moyobamba"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u0439\u043e\u0431\u0430\u043c\u0431\u0430"
     ],
     "name:dan_x_preferred":[
         "Moyobamba"
@@ -77,6 +86,9 @@
     "name:hin_x_preferred":[
         "\u092e\u094b\u092f\u094b\u092c\u093e\u092e\u094d\u092c\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Moyobamba"
+    ],
     "name:ind_x_preferred":[
         "Moyobamba"
     ],
@@ -107,6 +119,9 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u092f\u094b\u092c\u092e\u094d\u092c\u093e"
     ],
+    "name:mlt_x_preferred":[
+        "Moyobamba"
+    ],
     "name:msa_x_preferred":[
         "Moyobamba"
     ],
@@ -114,6 +129,9 @@
         "Moyobamba"
     ],
     "name:nld_x_preferred":[
+        "Moyobamba"
+    ],
+    "name:nno_x_preferred":[
         "Moyobamba"
     ],
     "name:nob_x_preferred":[
@@ -169,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Moyobamba"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u7ea6\u73ed\u5df4"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7d04\u73ed\u5df4"
@@ -226,7 +247,7 @@
         }
     ],
     "wof:id":421200839,
-    "wof:lastmodified":1636500282,
+    "wof:lastmodified":1690850467,
     "wof:name":"Moyobamba",
     "wof:parent_id":1108694053,
     "wof:placetype":"locality",

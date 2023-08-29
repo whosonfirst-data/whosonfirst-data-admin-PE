@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Mala"
+    ],
+    "name:deu_x_preferred":[
+        "Mala"
+    ],
     "name:eng_x_preferred":[
         "Mala"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890441995,
-    "wof:lastmodified":1566676554,
+    "wof:lastmodified":1690850489,
     "wof:name":"Mala",
     "wof:parent_id":1108693957,
     "wof:placetype":"locality",

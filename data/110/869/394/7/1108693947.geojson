@@ -42,12 +42,20 @@
     "name:cat_x_preferred":[
         "Sucre"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Sucre"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Sucre"
+    ],
     "name:eng_x_preferred":[
         "Sucre"
     ],
     "name:eng_x_variant":[
-        "Sucre",
         "Sucre Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u06a9\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "Sucre"
@@ -66,6 +74,9 @@
     ],
     "name:lit_x_preferred":[
         "Sukr\u0117s provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Sucre S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sucre"
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1108693947,
-    "wof:lastmodified":1636500222,
+    "wof:lastmodified":1690850411,
     "wof:name":"Sucre",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

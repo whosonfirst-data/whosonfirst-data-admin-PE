@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Morropon"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Morrop\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "Morrop\u00f3n District"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421176499,
-    "wof:lastmodified":1566676545,
+    "wof:lastmodified":1690850482,
     "wof:name":"Morrop\u00f3n",
     "wof:parent_id":421188857,
     "wof:placetype":"locality",

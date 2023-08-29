@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Los Aquijes"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Los Aquijes"
+    ],
     "name:eng_x_preferred":[
         "Los Aquijes District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890435263,
-    "wof:lastmodified":1566676571,
+    "wof:lastmodified":1690850515,
     "wof:name":"Los Aquijes",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "El Agustino"
     ],
+    "name:ceb_x_preferred":[
+        "El Agustino"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt El Agustino"
+    ],
     "name:eng_x_preferred":[
         "El Agustino"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421166427,
-    "wof:lastmodified":1566676475,
+    "wof:lastmodified":1690850423,
     "wof:name":"El Agustino",
     "wof:parent_id":421202549,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0625\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ica"
+    ],
     "name:aym_x_preferred":[
         "Ika"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:ces_x_preferred":[
         "Ica"
+    ],
+    "name:chv_x_preferred":[
+        "\u0418\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "Ica"
@@ -75,6 +84,9 @@
         "Ica"
     ],
     "name:fra_x_preferred":[
+        "Ica"
+    ],
+    "name:gle_x_preferred":[
         "Ica"
     ],
     "name:guj_x_preferred":[
@@ -184,6 +196,9 @@
     ],
     "name:urd_x_variant":[
         "\u0627\u06a9\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Ica"
     ],
     "name:vie_x_preferred":[
         "Ica"
@@ -343,7 +358,7 @@
         }
     ],
     "wof:id":421186795,
-    "wof:lastmodified":1582343541,
+    "wof:lastmodified":1690850453,
     "wof:name":"Ica",
     "wof:parent_id":421182363,
     "wof:placetype":"locality",

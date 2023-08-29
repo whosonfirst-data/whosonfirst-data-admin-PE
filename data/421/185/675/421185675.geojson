@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Nu\u00f1uwa jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Nu\u00f1oa"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Nu\u00f1oa"
+    ],
     "name:eng_x_preferred":[
         "Nu\u00f1oa District"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421185675,
-    "wof:lastmodified":1566676549,
+    "wof:lastmodified":1690850486,
     "wof:name":"Nu\u00f1oa",
     "wof:parent_id":421187861,
     "wof:placetype":"locality",

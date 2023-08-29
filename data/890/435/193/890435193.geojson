@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Reque"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Reque"
+    ],
     "name:eng_x_preferred":[
         "Reque District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890435193,
-    "wof:lastmodified":1566676569,
+    "wof:lastmodified":1690850510,
     "wof:name":"Reque",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

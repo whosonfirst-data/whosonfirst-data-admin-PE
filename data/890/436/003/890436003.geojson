@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Chongoyape"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Chongoyape"
+    ],
     "name:eng_x_preferred":[
         "Chongoyape District"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890436003,
-    "wof:lastmodified":1566676557,
+    "wof:lastmodified":1690850494,
     "wof:name":"Chongoyape",
     "wof:parent_id":421185309,
     "wof:placetype":"locality",

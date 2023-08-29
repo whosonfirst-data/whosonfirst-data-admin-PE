@@ -20,6 +20,12 @@
     "name:aym_x_preferred":[
         "Runtukan jisk'a t'aqa suyu"
     ],
+    "name:ceb_x_preferred":[
+        "Rondocan"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Rondocan"
+    ],
     "name:eng_x_preferred":[
         "Rondocan District"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421166549,
-    "wof:lastmodified":1566676476,
+    "wof:lastmodified":1690850423,
     "wof:name":"Rondoc\u00e1n",
     "wof:parent_id":421192879,
     "wof:placetype":"locality",

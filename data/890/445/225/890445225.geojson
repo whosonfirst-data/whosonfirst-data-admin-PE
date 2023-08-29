@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u0643\u064a\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u064a\u0643\u064a\u0628\u0627"
+    ],
     "name:ast_x_preferred":[
         "Arequipa"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:ces_x_preferred":[
         "Arequipa"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0440\u0435\u043a\u0438\u043f\u0430"
     ],
     "name:cym_x_preferred":[
         "Arequipa"
@@ -181,8 +187,14 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u0947\u0915\u093f\u092a\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0440\u044d\u043a\u0438\u043f\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0440\u0435\u043a\u0438\u043f\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Arequipa"
     ],
     "name:mri_x_preferred":[
         "Arequipa"
@@ -250,6 +262,9 @@
     "name:swe_x_preferred":[
         "Arequipa"
     ],
+    "name:szl_x_preferred":[
+        "Arequipa"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb0\u0bc7\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd\u0baa\u0bbe"
     ],
@@ -277,6 +292,9 @@
     "name:uzb_x_preferred":[
         "Arekipa"
     ],
+    "name:vec_x_preferred":[
+        "Arequipa"
+    ],
     "name:vep_x_preferred":[
         "Arekip"
     ],
@@ -288,6 +306,12 @@
     ],
     "name:war_x_preferred":[
         "Arequipa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u96f7\u57fa\u5e15"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u96f7\u57fa\u5e15"
     ],
     "name:zho_x_preferred":[
         "\u963f\u96f7\u57fa\u5e15"
@@ -398,8 +422,8 @@
     "wof:belongsto":[
         102191577,
         85632521,
-        421198069,
-        85675839
+        85675839,
+        421198069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -430,7 +454,7 @@
         }
     ],
     "wof:id":890445225,
-    "wof:lastmodified":1610152791,
+    "wof:lastmodified":1690850505,
     "wof:megacity":1,
     "wof:name":"Arequipa",
     "wof:parent_id":421198069,

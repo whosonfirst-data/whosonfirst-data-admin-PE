@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Atuncolla"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Atuncolla"
+    ],
     "name:eng_x_preferred":[
         "Atuncolla District"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890445227,
-    "wof:lastmodified":1566676562,
+    "wof:lastmodified":1690850501,
     "wof:name":"Atuncolla",
     "wof:parent_id":421200651,
     "wof:placetype":"locality",

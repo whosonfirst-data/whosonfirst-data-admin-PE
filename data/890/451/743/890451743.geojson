@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0634\u0648\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062a\u0634\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Sechura"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u099a\u09c1\u09b0\u09be"
     ],
@@ -29,6 +35,9 @@
         "Sechura"
     ],
     "name:ces_x_preferred":[
+        "Sechura"
+    ],
+    "name:deu_x_preferred":[
         "Sechura"
     ],
     "name:ell_x_preferred":[
@@ -233,7 +242,7 @@
         }
     ],
     "wof:id":890451743,
-    "wof:lastmodified":1636500293,
+    "wof:lastmodified":1690850507,
     "wof:name":"Sechura",
     "wof:parent_id":421170341,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Yauya"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Yauya"
+    ],
     "name:eng_x_preferred":[
         "Yauya District"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890437945,
-    "wof:lastmodified":1566676555,
+    "wof:lastmodified":1690850492,
     "wof:name":"Yauya",
     "wof:parent_id":1108694005,
     "wof:placetype":"locality",

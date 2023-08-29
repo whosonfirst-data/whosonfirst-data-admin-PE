@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Saquena"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Saquena"
+    ],
     "name:eng_x_preferred":[
         "Saquena District"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890441957,
-    "wof:lastmodified":1566676554,
+    "wof:lastmodified":1690850489,
     "wof:name":"Saquena",
     "wof:parent_id":1108694055,
     "wof:placetype":"locality",

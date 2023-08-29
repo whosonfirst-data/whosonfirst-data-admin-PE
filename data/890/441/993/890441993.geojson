@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Pucar\u00e1"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05e8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Pucar\u00e1"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890441993,
-    "wof:lastmodified":1566676554,
+    "wof:lastmodified":1690850490,
     "wof:name":"Pucara",
     "wof:parent_id":421198069,
     "wof:placetype":"locality",

@@ -79,6 +79,12 @@
     "name:eng_x_preferred":[
         "Tacna"
     ],
+    "name:eng_x_variant":[
+        "Tacna department"
+    ],
+    "name:epo_x_preferred":[
+        "Departemento Tacna"
+    ],
     "name:est_x_preferred":[
         "Tacna piirkond"
     ],
@@ -226,6 +232,9 @@
     "name:war_x_preferred":[
         "Tacna"
     ],
+    "name:wuu_x_preferred":[
+        "\u5854\u514b\u7eb3\u5927\u533a"
+    ],
     "name:zho_x_preferred":[
         "\u5854\u514b\u7eb3\u5927\u533a"
     ],
@@ -354,7 +363,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1642551799,
+    "wof:lastmodified":1690850383,
     "wof:name":"Tacna",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

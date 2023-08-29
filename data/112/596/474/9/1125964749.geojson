@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ambo"
+    ],
     "name:cat_x_preferred":[
         "Ambo"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Ambo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30dc"
     ],
     "name:nld_x_preferred":[
         "Ambo"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125964749,
-    "wof:lastmodified":1566676574,
+    "wof:lastmodified":1690850517,
     "wof:name":"Ambo",
     "wof:parent_id":1108693929,
     "wof:placetype":"locality",

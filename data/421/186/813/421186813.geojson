@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0648\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Jauja"
+    ],
     "name:aym_x_preferred":[
         "Xauxa"
     ],
@@ -30,6 +36,9 @@
         "\u099c\u09be\u0989\u099c\u09be"
     ],
     "name:ceb_x_preferred":[
+        "Jauja"
+    ],
+    "name:dan_x_preferred":[
         "Jauja"
     ],
     "name:deu_x_preferred":[
@@ -176,7 +185,7 @@
         }
     ],
     "wof:id":421186813,
-    "wof:lastmodified":1636500279,
+    "wof:lastmodified":1690850454,
     "wof:name":"Jauja",
     "wof:parent_id":421188715,
     "wof:placetype":"locality",

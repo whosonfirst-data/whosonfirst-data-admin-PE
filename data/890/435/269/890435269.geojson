@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Chupaca"
+    ],
     "name:ceb_x_preferred":[
         "Chupaca"
     ],
@@ -41,6 +44,9 @@
         "Chupaca"
     ],
     "name:pol_x_preferred":[
+        "Chupaca"
+    ],
+    "name:por_x_preferred":[
         "Chupaca"
     ],
     "name:que_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890435269,
-    "wof:lastmodified":1566676570,
+    "wof:lastmodified":1690850512,
     "wof:name":"Chupaca",
     "wof:parent_id":421188283,
     "wof:placetype":"locality",

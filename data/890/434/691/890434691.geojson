@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Lluta"
     ],
+    "name:deu_x_preferred":[
+        "Distrikt Lluta"
+    ],
     "name:eng_x_preferred":[
         "Lluta District"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890434691,
-    "wof:lastmodified":1566676568,
+    "wof:lastmodified":1690850509,
     "wof:name":"Lluta",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",

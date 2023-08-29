@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Paracas"
     ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u5361\u65af"
+    ],
     "qs:gn_country":"PE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3933059,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421184759,
-    "wof:lastmodified":1566676534,
+    "wof:lastmodified":1690850470,
     "wof:name":"Paracas",
     "wof:parent_id":421198071,
     "wof:placetype":"locality",

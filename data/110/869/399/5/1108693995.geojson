@@ -48,15 +48,23 @@
     "name:cat_x_preferred":[
         "Huallaga"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Huallaga"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Huallaga"
+    ],
     "name:eng_x_preferred":[
         "Huallaga"
     ],
     "name:eng_x_variant":[
-        "Huallaga",
         "Huallaga Province"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0622\u0644\u0627\u06af\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0626\u0627\u06cc\u0627\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Huallaga"
@@ -160,7 +168,7 @@
         }
     ],
     "wof:id":1108693995,
-    "wof:lastmodified":1636500221,
+    "wof:lastmodified":1690850407,
     "wof:name":"Huallaga",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

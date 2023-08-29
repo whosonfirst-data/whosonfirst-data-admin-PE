@@ -20,17 +20,35 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0645\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0645\u0627\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Caman\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Caman\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Caman\u00e1"
     ],
     "name:eng_x_preferred":[
         "Caman\u00e1"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u0627\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Caman\u00e1"
+    ],
+    "name:hun_x_preferred":[
         "Caman\u00e1"
     ],
     "name:ita_x_preferred":[
         "Caman\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e1\u30ca"
     ],
     "name:lit_x_preferred":[
         "Kamana"
@@ -207,7 +225,7 @@
         }
     ],
     "wof:id":421199643,
-    "wof:lastmodified":1566676528,
+    "wof:lastmodified":1690850464,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":421175159,
     "wof:placetype":"locality",
