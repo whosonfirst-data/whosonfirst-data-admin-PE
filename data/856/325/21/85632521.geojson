@@ -1114,7 +1114,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"51",
     "statoids:ds":"PE",
     "statoids:fifa":"PER",
@@ -1189,7 +1189,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1694492070,
+    "wof:lastmodified":1694639524,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
