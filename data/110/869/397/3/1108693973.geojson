@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142332,
-    "geom:area_square_m":1753090750.786836,
+    "geom:area_square_m":1753090939.010425,
     "geom:bbox":"-81.210555,-5.388461,-80.824818,-4.771793",
     "geom:latitude":-5.061769,
     "geom:longitude":-81.005301,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"PE.PI.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415351,
-    "wof:geomhash":"fe4bcb7aa29e4614eb86be911ac6b111",
+    "wof:geomhash":"cea2978f996fe7785177d287b19a46b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108693973,
-    "wof:lastmodified":1636500221,
+    "wof:lastmodified":1695886745,
     "wof:name":"Paita",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125817,
-    "geom:area_square_m":1529660770.758065,
+    "geom:area_square_m":1529660720.350564,
     "geom:bbox":"-76.730492,-10.747715,-76.236916,-10.285992",
     "geom:latitude":-10.508668,
     "geom:longitude":-76.482386,
@@ -126,9 +126,10 @@
         "hasc:id":"PE.PA.DA",
         "wd:id":"Q1944288"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415272,
-    "wof:geomhash":"c9de781954ec1d27a1958c9a29bef9f3",
+    "wof:geomhash":"eae85ecc3546079bc86749412ea8a5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108693911,
-    "wof:lastmodified":1690850406,
+    "wof:lastmodified":1695886594,
     "wof:name":"Daniel Alcides Carri\u00f3n",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075794,
-    "geom:area_square_m":926372699.430744,
+    "geom:area_square_m":926372699.431036,
     "geom:bbox":"-77.6081855469,-8.9237890625,-77.2467871094,-8.507703125",
     "geom:latitude":-8.720775,
     "geom:longitude":-77.435841,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.PB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415398,
-    "wof:geomhash":"8513c3c5d2aef29edf9eaf9e9d799124",
+    "wof:geomhash":"2596195b968f77666ca795a2b240c148",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108694015,
-    "wof:lastmodified":1566675938,
+    "wof:lastmodified":1695886597,
     "wof:name":"Pomabamba",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217131,
-    "geom:area_square_m":2665979056.016019,
+    "geom:area_square_m":2665979115.064548,
     "geom:bbox":"-78.454322,-7.153174,-77.950936,-6.388402",
     "geom:latitude":-6.798982,
     "geom:longitude":-78.208055,
@@ -167,12 +167,13 @@
         "wd:id":"Q1431153",
         "wk:page":"Celend\u00edn Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfa32eac66a1f9b3d7a5d1ab82141096",
+    "wof:geomhash":"b815c3ea0344c1d5af5c114ba72b8c44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421183859,
-    "wof:lastmodified":1690850478,
+    "wof:lastmodified":1695886754,
     "wof:name":"Celend\u00edn",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

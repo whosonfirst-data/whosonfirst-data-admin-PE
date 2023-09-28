@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186826,
-    "geom:area_square_m":2278551559.430544,
+    "geom:area_square_m":2278551891.103606,
     "geom:bbox":"-78.433729,-9.794614,-77.900994,-9.201258",
     "geom:latitude":-9.484968,
     "geom:longitude":-78.186245,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415403,
-    "wof:geomhash":"e1e676044ee8205488d4a8a14bbfb332",
+    "wof:geomhash":"308b7d2e53007eabc7b93d0cdedab035",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108694019,
-    "wof:lastmodified":1636500222,
+    "wof:lastmodified":1695886746,
     "wof:name":"Casma",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

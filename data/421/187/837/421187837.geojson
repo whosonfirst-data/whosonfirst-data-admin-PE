@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1621,
-    "geom:area_square_m":1949096568.774389,
+    "geom:area_square_m":1949096780.527339,
     "geom:bbox":"-72.772766,-13.713797,-72.000115,-13.285025",
     "geom:latitude":-13.489196,
     "geom:longitude":-72.36903,
@@ -143,12 +143,13 @@
         "wd:id":"Q1920482",
         "wk:page":"Anta Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009525,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ecd74709373a2be6f604f89504eb9fc",
+    "wof:geomhash":"482dfdba6e89c59a441b9555326527b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":421187837,
-    "wof:lastmodified":1690850442,
+    "wof:lastmodified":1695886748,
     "wof:name":"Anta",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

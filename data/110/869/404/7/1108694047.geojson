@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231079,
-    "geom:area_square_m":2843286511.883935,
+    "geom:area_square_m":2843286613.166806,
     "geom:bbox":"-78.135033,-6.13024,-77.651963,-5.133043",
     "geom:latitude":-5.683797,
     "geom:longitude":-77.873104,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.AM.BN",
         "wd:id":"Q1342814"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415446,
-    "wof:geomhash":"88f33d79d48e16528e7c07165be1bf76",
+    "wof:geomhash":"d66fd4276ae8c6cc325e2996f385774b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108694047,
-    "wof:lastmodified":1690850415,
+    "wof:lastmodified":1695886602,
     "wof:name":"Bongar\u00e1",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102184,
-    "geom:area_square_m":1223983398.337265,
+    "geom:area_square_m":1223983398.337297,
     "geom:bbox":"-75.3636855469,-14.6772753906,-75.0314257812,-14.0329570312",
     "geom:latitude":-14.370752,
     "geom:longitude":-75.174304,
@@ -112,12 +112,13 @@
         "qs_pg:id":1288739,
         "wd:id":"Q446812"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009900,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de094e4b991a18bceb104820ed3c4605",
+    "wof:geomhash":"655d0c70ef4f9fba649858884898ffbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421197033,
-    "wof:lastmodified":1582343545,
+    "wof:lastmodified":1695886752,
     "wof:name":"Palpa",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

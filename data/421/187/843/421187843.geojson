@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330577,
-    "geom:area_square_m":3964769348.520086,
+    "geom:area_square_m":3964769558.901124,
     "geom:bbox":"-71.517723,-14.473256,-70.789818,-13.725713",
     "geom:latitude":-14.083084,
     "geom:longitude":-71.126541,
@@ -155,12 +155,13 @@
         "wd:id":"Q951287",
         "wk:page":"Canchis Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009525,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1338630a91b524ab622e4d9c51a3b16",
+    "wof:geomhash":"1da3e1b44c469bcf1d918b3cfc90e88f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421187843,
-    "wof:lastmodified":1690850439,
+    "wof:lastmodified":1695886748,
     "wof:name":"Canchis",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

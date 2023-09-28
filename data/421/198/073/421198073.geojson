@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024881,
-    "geom:area_square_m":295299084.3996,
+    "geom:area_square_m":295298733.027822,
     "geom:bbox":"-69.204551,-16.420753,-68.956694,-16.189125",
     "geom:latitude":-16.294465,
     "geom:longitude":-69.081487,
@@ -120,12 +120,13 @@
         "hasc:id":"PE.PU.YU",
         "qs_pg:id":355838
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009935,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d98a1a973ea950edf8366b9fb7a15f06",
+    "wof:geomhash":"cc3c7a3bf21b091154dface854438fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421198073,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1695886137,
     "wof:name":"Yunguyo",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.587738,
-    "geom:area_square_m":19233878131.720383,
+    "geom:area_square_m":19233878125.504574,
     "geom:bbox":"-75.051338,-12.387293,-73.355408,-10.733975",
     "geom:latitude":-11.562358,
     "geom:longitude":-74.100878,
@@ -134,12 +134,13 @@
         "hasc:id":"PE.JU.SO",
         "qs_pg:id":230276
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"adc567abca7d0927269237104db4fd97",
+    "wof:geomhash":"c01d607248896a7738352202c7af5bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421203221,
-    "wof:lastmodified":1636500273,
+    "wof:lastmodified":1695886748,
     "wof:name":"Satipo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

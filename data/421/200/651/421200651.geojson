@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.546084,
-    "geom:area_square_m":6487986305.468414,
+    "geom:area_square_m":6487986093.774473,
     "geom:bbox":"-70.563033,-16.654613,-69.60907,-15.478591",
     "geom:latitude":-16.086393,
     "geom:longitude":-70.082298,
@@ -152,12 +152,13 @@
         "wd:id":"Q2084681",
         "wk:page":"Puno Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010034,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6e624722fe6d10024f4fe850ed5cf330",
+    "wof:geomhash":"e2f168e2148cd67bfd158912c4fbf324",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421200651,
-    "wof:lastmodified":1690850466,
+    "wof:lastmodified":1695886751,
     "wof:name":"Puno",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

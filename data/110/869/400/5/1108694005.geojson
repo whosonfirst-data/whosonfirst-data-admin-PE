@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051551,
-    "geom:area_square_m":629506734.808733,
+    "geom:area_square_m":629506741.290832,
     "geom:bbox":"-77.366516,-9.208582,-77.10302,-8.8959",
     "geom:latitude":-9.044349,
     "geom:longitude":-77.242469,
@@ -138,9 +138,10 @@
         "hasc:id":"PE.AN.CF",
         "wd:id":"Q633478"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415389,
-    "wof:geomhash":"cc879ddd2a7fb253bb8062148579d79a",
+    "wof:geomhash":"35aa7690786dbaffa21ff88124d240b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108694005,
-    "wof:lastmodified":1690850408,
+    "wof:lastmodified":1695886598,
     "wof:name":"Carlos F. Fitzcarrald",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

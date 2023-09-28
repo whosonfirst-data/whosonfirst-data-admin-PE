@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407141,
-    "geom:area_square_m":4941293394.940744,
+    "geom:area_square_m":4941293749.330337,
     "geom:bbox":"-77.700099,-11.447192,-76.564957,-10.606994",
     "geom:latitude":-11.03354,
     "geom:longitude":-77.237753,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415340,
-    "wof:geomhash":"f3110e5184cceb50b673ef786f9339a2",
+    "wof:geomhash":"2fd3fb3ade302c946e4104a2f03fa8c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108693961,
-    "wof:lastmodified":1636500220,
+    "wof:lastmodified":1695886744,
     "wof:name":"Huaura",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

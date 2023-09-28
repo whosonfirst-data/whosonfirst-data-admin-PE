@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.757334,
-    "geom:area_square_m":9254294093.213646,
+    "geom:area_square_m":9254293936.648289,
     "geom:bbox":"-75.945748,-9.400172,-74.962273,-8.215248",
     "geom:latitude":-8.79775,
     "geom:longitude":-75.440448,
@@ -90,12 +90,13 @@
         "hasc:id":"PE.UC.PA",
         "qs_pg:id":909732
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010049,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8ba5595e8a272d4bad37064b045654f",
+    "wof:geomhash":"b3f0e16e18ef1f10117d14f437fbe8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421201039,
-    "wof:lastmodified":1627522496,
+    "wof:lastmodified":1695886134,
     "wof:name":"Padre Abad",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

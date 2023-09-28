@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326805,
-    "geom:area_square_m":4020514685.504601,
+    "geom:area_square_m":4020514297.166745,
     "geom:bbox":"-78.709168,-6.18865,-77.930352,-5.343592",
     "geom:latitude":-5.769329,
     "geom:longitude":-78.329042,
@@ -173,12 +173,13 @@
         "wd:id":"Q941183",
         "wk:page":"Utcubamba Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008958,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae579967d7cf9f5bc4048715a808936c",
+    "wof:geomhash":"161db171c99381d69322a084e323b550",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421172895,
-    "wof:lastmodified":1690850449,
+    "wof:lastmodified":1695886750,
     "wof:name":"Utcubamba",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

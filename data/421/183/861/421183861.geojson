@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237608,
-    "geom:area_square_m":2836334234.033811,
+    "geom:area_square_m":2836333686.159026,
     "geom:bbox":"-70.031143,-15.536365,-69.119623,-14.763004",
     "geom:latitude":-15.121081,
     "geom:longitude":-69.607648,
@@ -155,12 +155,13 @@
         "wd:id":"Q1944227",
         "wk:page":"Huancan\u00e9 Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27760e58d19108ea21b9ea3e22fff917",
+    "wof:geomhash":"c2e325e2cade2531227c659bc1f992b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421183861,
-    "wof:lastmodified":1690850478,
+    "wof:lastmodified":1695886754,
     "wof:name":"Huancan\u00e9",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125888,
-    "geom:area_square_m":1513810737.882457,
+    "geom:area_square_m":1513810975.806118,
     "geom:bbox":"-73.847748,-13.736404,-73.449187,-13.169617",
     "geom:latitude":-13.469999,
     "geom:longitude":-73.672275,
@@ -117,12 +117,13 @@
         "hasc:id":"PE.AP.CH",
         "qs_pg:id":355688
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"785c514651e742ba8090b95d99f69b0b",
+    "wof:geomhash":"ee3907e699583edaf834f9297cff886d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421194079,
-    "wof:lastmodified":1627522494,
+    "wof:lastmodified":1695886131,
     "wof:name":"Chincheros",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

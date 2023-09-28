@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376152,
-    "geom:area_square_m":4535661675.121808,
+    "geom:area_square_m":4535662205.030663,
     "geom:bbox":"-76.790855,-13.323489,-75.940674,-12.275729",
     "geom:latitude":-12.794451,
     "geom:longitude":-76.362363,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.LR.CT",
         "wd:id":"Q1431156"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415336,
-    "wof:geomhash":"b88d2354b17bda73958fb2e37a02f72f",
+    "wof:geomhash":"f20f72540f4b3816ff873838166a22fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693957,
-    "wof:lastmodified":1690850408,
+    "wof:lastmodified":1695886597,
     "wof:name":"Ca\u00f1ete",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

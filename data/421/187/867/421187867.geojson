@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112111,
-    "geom:area_square_m":1368426883.110695,
+    "geom:area_square_m":1368427158.000235,
     "geom:bbox":"-78.061896,-9.446889,-77.357871,-8.901373",
     "geom:latitude":-9.201438,
     "geom:longitude":-77.742954,
@@ -158,12 +158,13 @@
         "wd:id":"Q1798739",
         "wk:page":"Yungay Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a1b85764d41682f6b86741780136ee2",
+    "wof:geomhash":"3762ea544a5fa34206d4f91506dec6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421187867,
-    "wof:lastmodified":1690850441,
+    "wof:lastmodified":1695886748,
     "wof:name":"Yungay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211158,
-    "geom:area_square_m":2594863925.962112,
+    "geom:area_square_m":2594863834.316854,
     "geom:bbox":"-77.753082,-6.725277,-77.132844,-6.000168",
     "geom:latitude":-6.372973,
     "geom:longitude":-77.454828,
@@ -127,9 +127,10 @@
         "hasc:id":"PE.AM.RM",
         "wd:id":"Q1366038"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415250,
-    "wof:geomhash":"cb3f3bd7d2c54170eaab5d1eb6518420",
+    "wof:geomhash":"17ae16542b43e35990815653a1c3688f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108693897,
-    "wof:lastmodified":1690850416,
+    "wof:lastmodified":1695886603,
     "wof:name":"Rodriguez De Mendoza",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

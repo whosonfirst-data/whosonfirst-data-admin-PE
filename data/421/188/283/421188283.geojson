@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096693,
-    "geom:area_square_m":1168594671.390131,
+    "geom:area_square_m":1168594470.915732,
     "geom:bbox":"-75.665475,-12.411273,-75.231162,-12.010516",
     "geom:latitude":-12.207769,
     "geom:longitude":-75.432889,
@@ -170,12 +170,13 @@
         "qs_pg:id":15534,
         "wd:id":"Q1777631"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009540,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9f92f411db22d5776595ef0650a13ca",
+    "wof:geomhash":"6adaa9141c0e08a8c25b08516f8ac42c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421188283,
-    "wof:lastmodified":1690850447,
+    "wof:lastmodified":1695886749,
     "wof:name":"Chupaca",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

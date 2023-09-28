@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.447791,
-    "geom:area_square_m":5361479523.643185,
+    "geom:area_square_m":5361479615.89269,
     "geom:bbox":"-72.503922,-14.887891,-71.514609,-13.934609",
     "geom:latitude":-14.464412,
     "geom:longitude":-72.011361,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.CS.CI",
         "wd:id":"Q584864"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415261,
-    "wof:geomhash":"0871f866c4cf0fc5a73a9dfd11387a43",
+    "wof:geomhash":"4cb013c5bb90ac635cd0c456cbd55ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108693903,
-    "wof:lastmodified":1690850407,
+    "wof:lastmodified":1695886596,
     "wof:name":"Chumbivilcas",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

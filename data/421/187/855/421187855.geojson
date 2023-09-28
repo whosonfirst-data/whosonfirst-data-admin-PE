@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.763658,
-    "geom:area_square_m":9387676926.362698,
+    "geom:area_square_m":9387677048.525099,
     "geom:bbox":"-80.62777,-6.820898,-79.402305,-5.480387",
     "geom:latitude":-6.188007,
     "geom:longitude":-79.971445,
@@ -149,12 +149,13 @@
         "wd:id":"Q632826",
         "wk:page":"Lambayeque Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4060033de06d0156436c59c6b3dfc75",
+    "wof:geomhash":"d7f6dc2b04dfa5d7ad5373b920894ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421187855,
-    "wof:lastmodified":1690850443,
+    "wof:lastmodified":1695886749,
     "wof:name":"Lambayeque",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

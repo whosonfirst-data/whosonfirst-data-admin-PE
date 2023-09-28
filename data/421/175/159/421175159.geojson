@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.338469,
-    "geom:area_square_m":4014865673.690747,
+    "geom:area_square_m":4014865673.690343,
     "geom:bbox":"-73.2915892459,-16.9270188904,-72.1277382812,-15.8763417969",
     "geom:latitude":-16.403134,
     "geom:longitude":-72.804252,
@@ -132,12 +132,13 @@
         "hasc:id":"PE.AR.CM",
         "qs_pg:id":355654
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8205edc5a69cd15648f219469132f55d",
+    "wof:geomhash":"8396b1e867b84843b8ce715ebe10e506",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421175159,
-    "wof:lastmodified":1582343541,
+    "wof:lastmodified":1695886750,
     "wof:name":"Caman\u00e1",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

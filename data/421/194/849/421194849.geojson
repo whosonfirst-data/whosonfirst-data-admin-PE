@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392943,
-    "geom:area_square_m":4773541208.394595,
+    "geom:area_square_m":4773540393.282971,
     "geom:bbox":"-76.670859,-11.155084,-75.567687,-10.369859",
     "geom:latitude":-10.748988,
     "geom:longitude":-76.149925,
@@ -150,12 +150,13 @@
         "wd:id":"Q1944288",
         "wk:page":"Pasco Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009822,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"947571db840fdfbbbd381c041fe0a60b",
+    "wof:geomhash":"e64d59d0b172aba13cd6eadb2d311941",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421194849,
-    "wof:lastmodified":1690850428,
+    "wof:lastmodified":1695886748,
     "wof:name":"Pasco",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

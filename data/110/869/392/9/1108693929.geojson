@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130282,
-    "geom:area_square_m":1585359733.822877,
+    "geom:area_square_m":1585359733.822846,
     "geom:bbox":"-76.5244746094,-10.4659160156,-76.0254824219,-9.982546875",
     "geom:latitude":-10.228577,
     "geom:longitude":-76.233534,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.HC.AO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415308,
-    "wof:geomhash":"4fc1e6ffd266dd6e3bdd8e6b5da49871",
+    "wof:geomhash":"49e89c9842162cd5c051541aca0cd918",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693929,
-    "wof:lastmodified":1566675940,
+    "wof:lastmodified":1695886598,
     "wof:name":"Ambo",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

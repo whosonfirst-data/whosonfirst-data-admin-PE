@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267607,
-    "geom:area_square_m":3257574435.674525,
+    "geom:area_square_m":3257574435.674741,
     "geom:bbox":"-77.6998671875,-10.4825390625,-76.807046875,-9.70266796875",
     "geom:latitude":-10.114713,
     "geom:longitude":-77.157976,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415393,
-    "wof:geomhash":"dc70b268bc63e309cf1eeea5e3981962",
+    "wof:geomhash":"acf56ca07f512ff76548605ed8c7cf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694009,
-    "wof:lastmodified":1566675938,
+    "wof:lastmodified":1695886597,
     "wof:name":"Bolognesi",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47675,
-    "geom:area_square_m":5645489569.978541,
+    "geom:area_square_m":5645489895.749379,
     "geom:bbox":"-70.147461,-17.295395,-69.422222,-15.913072",
     "geom:latitude":-16.73003,
     "geom:longitude":-69.756161,
@@ -126,9 +126,10 @@
         "hasc:id":"PE.PU.EC",
         "wd:id":"Q2088833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415282,
-    "wof:geomhash":"2e6d4d647198d2f73918ac1adbf1e633",
+    "wof:geomhash":"c00fcd92bf98e4e6c0aaead69b1f12bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108693919,
-    "wof:lastmodified":1690850405,
+    "wof:lastmodified":1695886594,
     "wof:name":"El Collao",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

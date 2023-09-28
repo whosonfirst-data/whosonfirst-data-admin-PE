@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293998,
-    "geom:area_square_m":3542360677.034436,
+    "geom:area_square_m":3542360184.976211,
     "geom:bbox":"-72.369941,-13.575111,-71.71875,-12.506617",
     "geom:latitude":-12.984528,
     "geom:longitude":-72.03876,
@@ -140,12 +140,13 @@
         "wd:id":"Q1948019",
         "wk:page":"Calca Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e41224dcab5b5a0c7f8e35fc3e8550e7",
+    "wof:geomhash":"a44d97630a1934ce7a98708f6405aca3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421175157,
-    "wof:lastmodified":1690850458,
+    "wof:lastmodified":1695886750,
     "wof:name":"Calca",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.22363,
-    "geom:area_square_m":39205691393.564438,
+    "geom:area_square_m":39205692336.124146,
     "geom:bbox":"-74.573014,-11.448199,-72.12017,-9.411747",
     "geom:latitude":-10.389865,
     "geom:longitude":-73.21982,
@@ -166,12 +166,13 @@
         "qs_pg:id":355636,
         "wd:id":"Q1920509"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9747373ddcc63486c47f39aa250a47a0",
+    "wof:geomhash":"308b92715cb3bc2551e948c4573ef9ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421175155,
-    "wof:lastmodified":1690850460,
+    "wof:lastmodified":1695886751,
     "wof:name":"Atalaya",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

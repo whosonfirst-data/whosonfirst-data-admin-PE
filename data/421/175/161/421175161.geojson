@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345901,
-    "geom:area_square_m":4143803164.055354,
+    "geom:area_square_m":4143803020.738182,
     "geom:bbox":"-73.577064,-14.84283,-72.978943,-13.799859",
     "geom:latitude":-14.341193,
     "geom:longitude":-73.247678,
@@ -158,12 +158,13 @@
         "wd:id":"Q1814234",
         "wk:page":"Aymaraes Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"debab54fb3b1a874850086636369149b",
+    "wof:geomhash":"613b614030e3d50d1b03a05fa4970baf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421175161,
-    "wof:lastmodified":1690850458,
+    "wof:lastmodified":1695886751,
     "wof:name":"Aymaraes",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

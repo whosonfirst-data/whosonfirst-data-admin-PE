@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057451,
-    "geom:area_square_m":700056019.318814,
+    "geom:area_square_m":700055751.092803,
     "geom:bbox":"-77.961402,-9.913664,-77.478828,-9.620816",
     "geom:latitude":-9.784412,
     "geom:longitude":-77.677441,
@@ -149,12 +149,13 @@
         "wd:id":"Q615891",
         "wk:page":"Aija Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009576,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10c289e7ce71619bdae8f4cc8f0235d7",
+    "wof:geomhash":"48ec50af8e68bc8953ec159280b4ed56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421188719,
-    "wof:lastmodified":1690850447,
+    "wof:lastmodified":1695886749,
     "wof:name":"Aija",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

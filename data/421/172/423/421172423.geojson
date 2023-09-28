@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243288,
-    "geom:area_square_m":2984589109.842362,
+    "geom:area_square_m":2984588520.889509,
     "geom:bbox":"-78.746551,-7.556424,-78.184937,-6.79941",
     "geom:latitude":-7.197702,
     "geom:longitude":-78.469531,
@@ -152,12 +152,13 @@
         "wd:id":"Q1431135",
         "wk:page":"Cajamarca Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008940,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cf38c4d2f76bd3b3bc80a776f882a4b",
+    "wof:geomhash":"3d63ede69010a279e9c930c4de31501c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421172423,
-    "wof:lastmodified":1690850449,
+    "wof:lastmodified":1695886749,
     "wof:name":"Cajamarca",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

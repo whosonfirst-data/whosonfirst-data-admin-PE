@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.734768,
-    "geom:area_square_m":8687921400.794216,
+    "geom:area_square_m":8687921150.892014,
     "geom:bbox":"-71.442246,-17.64742,-69.994758,-16.461283",
     "geom:latitude":-17.011502,
     "geom:longitude":-70.784554,
@@ -165,12 +165,13 @@
         "wd:id":"Q1944431",
         "wk:page":"Mariscal Nieto Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009770,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e1134904af00e5d08155a931b03cd2c",
+    "wof:geomhash":"62e6c343907e9443cbaf460f854dc735",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421193431,
-    "wof:lastmodified":1690850429,
+    "wof:lastmodified":1695886746,
     "wof:name":"Mariscal Nieto",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

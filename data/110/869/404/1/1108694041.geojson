@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.167145,
-    "geom:area_square_m":14315515268.233778,
+    "geom:area_square_m":14315515476.488876,
     "geom:bbox":"-77.765205,-8.064725,-76.551643,-6.381514",
     "geom:latitude":-7.273809,
     "geom:longitude":-77.182611,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.SM.MC",
         "wd:id":"Q1947944"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415443,
-    "wof:geomhash":"59441d62800f3b1e06e569dfe11a107a",
+    "wof:geomhash":"bdaf869e2290297c0e00606f86cef838",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108694041,
-    "wof:lastmodified":1690850415,
+    "wof:lastmodified":1695886602,
     "wof:name":"Mariscal C\u00e1ceres",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

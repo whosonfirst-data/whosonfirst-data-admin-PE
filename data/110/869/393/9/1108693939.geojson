@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237368,
-    "geom:area_square_m":2848598334.099598,
+    "geom:area_square_m":2848598891.000016,
     "geom:bbox":"-74.792617,-14.167062,-74.099229,-13.69582",
     "geom:latitude":-13.944458,
     "geom:longitude":-74.460071,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.AY.HS",
         "wd:id":"Q1808513"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415321,
-    "wof:geomhash":"5c4f4bd2828a378cf8550cac03b1b95b",
+    "wof:geomhash":"64dc92faa8c52f0845e7f3198feb6934",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693939,
-    "wof:lastmodified":1690850410,
+    "wof:lastmodified":1695886599,
     "wof:name":"Huanca Sancos",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

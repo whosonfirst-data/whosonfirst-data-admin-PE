@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43928,
-    "geom:area_square_m":5251084765.791853,
+    "geom:area_square_m":5251085016.018863,
     "geom:bbox":"-70.468178,-15.402818,-69.836227,-14.2679",
     "geom:latitude":-14.81786,
     "geom:longitude":-70.143292,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"PE.PU.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415279,
-    "wof:geomhash":"4833f2283722f9f0af8a67f29cde4a42",
+    "wof:geomhash":"9de2e2d817e6d4926e7759a41cb02837",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108693915,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886129,
     "wof:name":"Az\u00e1ngaro",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

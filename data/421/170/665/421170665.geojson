@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.386816,
-    "geom:area_square_m":28837311643.910709,
+    "geom:area_square_m":28837311601.690384,
     "geom:bbox":"-72.428848,-13.273475,-70.038201,-11.315869",
     "geom:latitude":-12.279946,
     "geom:longitude":-71.285274,
@@ -152,12 +152,13 @@
         "wd:id":"Q2320717",
         "wk:page":"Man\u00fa Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008862,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62ca91f858fcc2dea343a89ec20809a9",
+    "wof:geomhash":"04493b995da83442df96b44adb4f6f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421170665,
-    "wof:lastmodified":1690850475,
+    "wof:lastmodified":1695886753,
     "wof:name":"Manu",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

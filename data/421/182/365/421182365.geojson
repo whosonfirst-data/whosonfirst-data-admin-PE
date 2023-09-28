@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32561,
-    "geom:area_square_m":3851099199.656461,
+    "geom:area_square_m":3851099935.398127,
     "geom:bbox":"-72.221008,-17.284939,-71.304908,-16.676762",
     "geom:latitude":-16.960874,
     "geom:longitude":-71.720858,
@@ -149,12 +149,13 @@
         "wd:id":"Q1779688",
         "wk:page":"Islay Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009327,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3648e07c881cdd0bc9e93b8f56146ec9",
+    "wof:geomhash":"6313923f4f03e31632f4b32d712bf827",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421182365,
-    "wof:lastmodified":1690850480,
+    "wof:lastmodified":1695886755,
     "wof:name":"Islay",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

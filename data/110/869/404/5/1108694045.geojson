@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146246,
-    "geom:area_square_m":1792718964.990481,
+    "geom:area_square_m":1792719109.980517,
     "geom:bbox":"-78.383281,-7.762836,-77.741707,-7.343857",
     "geom:latitude":-7.540054,
     "geom:longitude":-78.099229,
@@ -141,9 +141,10 @@
         "hasc:id":"PE.CJ.CJ",
         "wd:id":"Q751373"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415445,
-    "wof:geomhash":"6598efcb8118889425c077aaaada9c1a",
+    "wof:geomhash":"736a191bc98ad148a180df21094fa17a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108694045,
-    "wof:lastmodified":1690850415,
+    "wof:lastmodified":1695886746,
     "wof:name":"Cajabamba",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

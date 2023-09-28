@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156347,
-    "geom:area_square_m":1879849348.818516,
+    "geom:area_square_m":1879849324.501195,
     "geom:bbox":"-74.90525,-13.68516,-74.035439,-13.324471",
     "geom:latitude":-13.49962,
     "geom:longitude":-74.486921,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AY.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415325,
-    "wof:geomhash":"f8336ef000aa4ee27ad3a2a52ec4c092",
+    "wof:geomhash":"fbb8294a5b19d5fcd3e0b9509d271482",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693941,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886129,
     "wof:name":"Cangallo",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501233,
-    "geom:area_square_m":6172118489.665494,
+    "geom:area_square_m":6172118489.663754,
     "geom:bbox":"-80.9702304687,-5.81105664062,-79.9685390625,-4.58510742187",
     "geom:latitude":-5.213994,
     "geom:longitude":-80.402982,
@@ -194,9 +194,10 @@
     "wof:concordances":{
         "hasc:id":"PE.PI.PR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415357,
-    "wof:geomhash":"6bffae548c3f166ae10cbed5013c91e9",
+    "wof:geomhash":"9043d8ae35c41fa7cc6d2c563069c963",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1108693975,
-    "wof:lastmodified":1566675935,
+    "wof:lastmodified":1695886595,
     "wof:name":"Piura",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

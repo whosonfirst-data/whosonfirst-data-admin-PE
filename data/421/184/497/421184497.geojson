@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323025,
-    "geom:area_square_m":3932421277.718281,
+    "geom:area_square_m":3932421107.916513,
     "geom:bbox":"-78.243785,-10.611639,-77.550254,-9.688881",
     "geom:latitude":-10.093903,
     "geom:longitude":-77.926775,
@@ -167,12 +167,13 @@
         "wd:id":"Q1779624",
         "wk:page":"Huarmey Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009412,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9fd4dbabd9070a41b305eeb3164734b9",
+    "wof:geomhash":"443685b51b451bde07017244c33a71de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421184497,
-    "wof:lastmodified":1690850469,
+    "wof:lastmodified":1695886751,
     "wof:name":"Huarmey",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

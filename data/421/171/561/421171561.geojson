@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423709,
-    "geom:area_square_m":5221484987.060744,
+    "geom:area_square_m":5221485163.517741,
     "geom:bbox":"-80.293453,-5.111062,-79.388503,-4.285578",
     "geom:latitude":-4.714318,
     "geom:longitude":-79.813518,
@@ -137,12 +137,13 @@
         "wd:id":"Q1367672",
         "wk:page":"Ayabaca Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008898,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7d935f0351f5ca5b8943089e1075a4f",
+    "wof:geomhash":"95f1a8388befd4e19efe80427c0264ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421171561,
-    "wof:lastmodified":1690850484,
+    "wof:lastmodified":1695886756,
     "wof:name":"Ayabaca",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

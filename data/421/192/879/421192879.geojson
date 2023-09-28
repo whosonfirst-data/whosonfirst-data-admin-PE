@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077698,
-    "geom:area_square_m":932408844.089568,
+    "geom:area_square_m":932408730.653219,
     "geom:bbox":"-71.836715,-14.154182,-71.439498,-13.696398",
     "geom:latitude":-13.952441,
     "geom:longitude":-71.654506,
@@ -137,12 +137,13 @@
         "wd:id":"Q1920602",
         "wk:page":"Acomayo Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f3dd917dc5c6800ed3469dbb45e250a1",
+    "wof:geomhash":"6695cc572d61efc9a711adcd760bc4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421192879,
-    "wof:lastmodified":1690850423,
+    "wof:lastmodified":1695886743,
     "wof:name":"Acomayo",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

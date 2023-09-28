@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05443,
-    "geom:area_square_m":667906407.804294,
+    "geom:area_square_m":667906602.323415,
     "geom:bbox":"-78.918984,-7.228129,-78.598068,-6.852053",
     "geom:latitude":-7.074808,
     "geom:longitude":-78.749318,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"PE.CJ.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415363,
-    "wof:geomhash":"14b1c5deddecdb97b505f1d44ac85691",
+    "wof:geomhash":"a38f077cb69331185a4b5c11d1e42191",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108693981,
-    "wof:lastmodified":1636500220,
+    "wof:lastmodified":1695886744,
     "wof:name":"San Pablo",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

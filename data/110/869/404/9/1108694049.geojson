@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.445847,
-    "geom:area_square_m":17830196911.047329,
+    "geom:area_square_m":17830196102.692444,
     "geom:bbox":"-78.652535,-5.413854,-77.537499,-2.987278",
     "geom:latitude":-4.165664,
     "geom:longitude":-78.035827,
@@ -135,9 +135,10 @@
         "hasc:id":"PE.AM.CQ",
         "wd:id":"Q1288434"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415449,
-    "wof:geomhash":"64753a33190c12fa02d909f321a910ea",
+    "wof:geomhash":"e47f214f49928bbb3b7795ce7dd247db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108694049,
-    "wof:lastmodified":1690850414,
+    "wof:lastmodified":1695886601,
     "wof:name":"Condorcanqui",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

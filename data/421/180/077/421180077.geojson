@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.436128,
-    "geom:area_square_m":5210475807.046856,
+    "geom:area_square_m":5210476277.798488,
     "geom:bbox":"-75.5045,-15.442959,-74.647004,-14.544951",
     "geom:latitude":-14.940144,
     "geom:longitude":-75.078849,
@@ -170,12 +170,13 @@
         "wd:id":"Q938322",
         "wk:page":"Nazca Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009243,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"046934b16fdf028a51035c99b4577d50",
+    "wof:geomhash":"85eb8cb8de6573876cbab08c4f43cca4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421180077,
-    "wof:lastmodified":1690850439,
+    "wof:lastmodified":1695886747,
     "wof:name":"Nazca",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

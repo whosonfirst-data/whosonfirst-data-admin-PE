@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.500365,
-    "geom:area_square_m":5975330090.894513,
+    "geom:area_square_m":5975330828.372789,
     "geom:bbox":"-74.2574,-15.629709,-72.846824,-14.506963",
     "geom:latitude":-15.032051,
     "geom:longitude":-73.634985,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.AY.PH",
         "wd:id":"Q549969"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415319,
-    "wof:geomhash":"2266e1c1c8a35743e77c7f34a8ba4042",
+    "wof:geomhash":"90b83bb7b316a5bbba5aebcfbb83dd58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693937,
-    "wof:lastmodified":1690850410,
+    "wof:lastmodified":1695886599,
     "wof:name":"Parinacochas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

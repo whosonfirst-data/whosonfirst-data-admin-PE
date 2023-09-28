@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30717,
-    "geom:area_square_m":3774275524.385858,
+    "geom:area_square_m":3774275711.409679,
     "geom:bbox":"-79.458443,-6.680779,-78.278793,-6.086248",
     "geom:latitude":-6.436206,
     "geom:longitude":-78.872804,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"PE.CJ.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415372,
-    "wof:geomhash":"187d6682899601eed4abb5687fa7e08c",
+    "wof:geomhash":"169c6b03b5cea8247b0f614fc6a19417",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108693987,
-    "wof:lastmodified":1636500220,
+    "wof:lastmodified":1695886744,
     "wof:name":"Chota",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

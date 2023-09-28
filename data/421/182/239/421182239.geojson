@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301405,
-    "geom:area_square_m":3652129820.199249,
+    "geom:area_square_m":3652129932.967041,
     "geom:bbox":"-76.519227,-11.939682,-75.700652,-11.070422",
     "geom:latitude":-11.497288,
     "geom:longitude":-76.122582,
@@ -107,12 +107,13 @@
         "qs_pg:id":896555,
         "wd:id":"Q1182544"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009323,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e85481df074dc5c9eeb6c9ab6f45f201",
+    "wof:geomhash":"429b6be699bf545cef670161c3809fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421182239,
-    "wof:lastmodified":1690850481,
+    "wof:lastmodified":1695886137,
     "wof:name":"Yauli",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

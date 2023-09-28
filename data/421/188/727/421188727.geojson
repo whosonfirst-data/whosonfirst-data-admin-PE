@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128519,
-    "geom:area_square_m":1579359425.71452,
+    "geom:area_square_m":1579359204.79543,
     "geom:bbox":"-79.850887,-6.715187,-79.175494,-5.976193",
     "geom:latitude":-6.365562,
     "geom:longitude":-79.522209,
@@ -164,12 +164,13 @@
         "wd:id":"Q1948067",
         "wk:page":"Ferre\u00f1afe Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009576,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ac1f424ca977e57ca8853c37fc52064",
+    "wof:geomhash":"21d6f33410c29142c7f301661966742a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421188727,
-    "wof:lastmodified":1690850448,
+    "wof:lastmodified":1695886750,
     "wof:name":"Ferre\u00f1afe",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

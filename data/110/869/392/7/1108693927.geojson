@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407239,
-    "geom:area_square_m":4977341313.736217,
+    "geom:area_square_m":4977341319.587146,
     "geom:bbox":"-77.316818,-9.051496,-76.190934,-8.410598",
     "geom:latitude":-8.72193,
     "geom:longitude":-76.691551,
@@ -123,9 +123,10 @@
         "hasc:id":"PE.HC.MA",
         "wd:id":"Q764487"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415307,
-    "wof:geomhash":"e4674fb48e2a78d7d557dacca7f80dfc",
+    "wof:geomhash":"2c6d1cc352fde2369d92260640d9e4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108693927,
-    "wof:lastmodified":1690850409,
+    "wof:lastmodified":1695886599,
     "wof:name":"Mara\u00f1\u00f3n",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

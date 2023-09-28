@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186422,
-    "geom:area_square_m":2256705044.432604,
+    "geom:area_square_m":2256705044.433107,
     "geom:bbox":"-75.6943046875,-12.1939726562,-74.7191933594,-11.4270488281",
     "geom:latitude":-11.765539,
     "geom:longitude":-75.129926,
@@ -188,9 +188,10 @@
     "wof:concordances":{
         "hasc:id":"PE.JU.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415434,
-    "wof:geomhash":"6da40e418ca0cad71f359054d85a36a3",
+    "wof:geomhash":"bc05a45b1687ecbfc14fd11e551add39",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1108694035,
-    "wof:lastmodified":1566675948,
+    "wof:lastmodified":1695886601,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

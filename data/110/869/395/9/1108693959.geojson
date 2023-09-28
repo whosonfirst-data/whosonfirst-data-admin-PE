@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113714,
-    "geom:area_square_m":1381793327.456518,
+    "geom:area_square_m":1381793327.456539,
     "geom:bbox":"-77.8863114417,-10.9321171875,-77.3656542969,-10.3209023437",
     "geom:latitude":-10.666259,
     "geom:longitude":-77.657015,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415337,
-    "wof:geomhash":"1c86c37efd99023626b05e130ee391cd",
+    "wof:geomhash":"5f0d13f826d39b4ae98625a5bd2caba0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693959,
-    "wof:lastmodified":1566675939,
+    "wof:lastmodified":1695886597,
     "wof:name":"Barranca",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337551,
-    "geom:area_square_m":4052875707.59658,
+    "geom:area_square_m":4052876112.837743,
     "geom:bbox":"-73.748352,-14.544309,-72.944152,-13.41158",
     "geom:latitude":-13.828168,
     "geom:longitude":-73.392918,
@@ -149,12 +149,13 @@
         "wd:id":"Q1798747",
         "wk:page":"Andahuaylas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008849,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40d4f8d3f0880f4656c9d5201d3b876b",
+    "wof:geomhash":"afbadf9b877c3727c87c34e4908acf07",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421170339,
-    "wof:lastmodified":1690850471,
+    "wof:lastmodified":1695886752,
     "wof:name":"Andahuaylas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

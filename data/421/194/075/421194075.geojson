@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.096965,
-    "geom:area_square_m":13058691055.963326,
+    "geom:area_square_m":13058690994.343416,
     "geom:bbox":"-75.075086,-16.405461,-73.194809,-15.099062",
     "geom:latitude":-15.688842,
     "geom:longitude":-73.963457,
@@ -167,12 +167,13 @@
         "wd:id":"Q1779727",
         "wk:page":"Caravel\u00ed Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"545598623103874253b2c87b7795126d",
+    "wof:geomhash":"a7d7a22966fcdfaceda761ab7f7bade6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421194075,
-    "wof:lastmodified":1690850427,
+    "wof:lastmodified":1695886744,
     "wof:name":"Caravel\u00ed",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

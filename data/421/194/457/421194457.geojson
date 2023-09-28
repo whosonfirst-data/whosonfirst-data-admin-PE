@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.817468,
-    "geom:area_square_m":9972912000.027374,
+    "geom:area_square_m":9972911370.695642,
     "geom:bbox":"-75.76258,-9.998475,-74.510865,-8.62102",
     "geom:latitude":-9.37718,
     "geom:longitude":-75.094354,
@@ -153,12 +153,13 @@
         "qs_pg:id":424722,
         "wd:id":"Q1944276"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009806,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dcb761c1b19f5d384e17ec6a3348d440",
+    "wof:geomhash":"4d83739c9d48fc2e4727dc92c970f1ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421194457,
-    "wof:lastmodified":1690850428,
+    "wof:lastmodified":1695886746,
     "wof:name":"Puerto Inca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.58303,
-    "geom:area_square_m":6943396790.685581,
+    "geom:area_square_m":6943396416.088297,
     "geom:bbox":"-72.723092,-16.430539,-71.901246,-14.837326",
     "geom:latitude":-15.604359,
     "geom:longitude":-72.323413,
@@ -164,12 +164,13 @@
         "wd:id":"Q614628",
         "wk:page":"Castilla Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010120,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4ec7c24f7759b5e414d0f9220935721",
+    "wof:geomhash":"e4bfd30032dd5e841fc734a4dfe60167",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421202523,
-    "wof:lastmodified":1690850436,
+    "wof:lastmodified":1695886747,
     "wof:name":"Castilla",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

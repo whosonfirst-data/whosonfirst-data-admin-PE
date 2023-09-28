@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.613022,
-    "geom:area_square_m":7369941416.420741,
+    "geom:area_square_m":7369941371.980756,
     "geom:bbox":"-71.843635,-13.966748,-70.345047,-13.066934",
     "geom:latitude":-13.522891,
     "geom:longitude":-71.030271,
@@ -155,12 +155,13 @@
         "wd:id":"Q1920520",
         "wk:page":"Quispicanchi Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010109,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb9b48a21ad6a5b9df45d1bbf5d6ce3e",
+    "wof:geomhash":"3c59bf385d91ae3eafebb04cfdb22a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421202209,
-    "wof:lastmodified":1690850435,
+    "wof:lastmodified":1695886747,
     "wof:name":"Quispicanchi",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

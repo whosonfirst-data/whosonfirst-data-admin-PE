@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.446153,
-    "geom:area_square_m":29999522496.405087,
+    "geom:area_square_m":29999523812.710052,
     "geom:bbox":"-76.215881,-8.716139,-74.495346,-5.865937",
     "geom:latitude":-7.310787,
     "geom:longitude":-75.365736,
@@ -164,12 +164,13 @@
         "wd:id":"Q2013418",
         "wk:page":"Ucayali Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a30696d2c7b535211b559ebcd83b5c47",
+    "wof:geomhash":"620bc10b9100200e6d6b0a9a04319c30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421187865,
-    "wof:lastmodified":1690850442,
+    "wof:lastmodified":1695886749,
     "wof:name":"Ucayali",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

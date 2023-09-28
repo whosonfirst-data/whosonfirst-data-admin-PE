@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272009,
-    "geom:area_square_m":3339740962.563411,
+    "geom:area_square_m":3339741658.415683,
     "geom:bbox":"-79.942464,-7.177658,-79.12175,-6.481246",
     "geom:latitude":-6.80566,
     "geom:longitude":-79.550413,
@@ -162,12 +162,13 @@
         "wd:id":"Q546559",
         "wk:page":"Chiclayo Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009438,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a18f2c4eedc38032402f494c0ac331b0",
+    "wof:geomhash":"afbaa266ab8994b26b42079e69b6314e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421185309,
-    "wof:lastmodified":1690850486,
+    "wof:lastmodified":1695886757,
     "wof:name":"Chiclayo",
     "wof:parent_id":85675821,
     "wof:placetype":"county",

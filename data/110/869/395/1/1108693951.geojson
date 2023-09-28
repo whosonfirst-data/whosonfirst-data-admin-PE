@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154651,
-    "geom:area_square_m":1878675225.669549,
+    "geom:area_square_m":1878674661.197656,
     "geom:bbox":"-77.196229,-11.016459,-76.588195,-10.419127",
     "geom:latitude":-10.758847,
     "geom:longitude":-76.876549,
@@ -133,9 +133,10 @@
         "hasc:id":"PE.LR.OY",
         "wd:id":"Q1422624"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415333,
-    "wof:geomhash":"1e1659d9e4bce24cd71f63c843e05b98",
+    "wof:geomhash":"6dda9e76e25b7ed7eba784c5db191297",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108693951,
-    "wof:lastmodified":1690850409,
+    "wof:lastmodified":1695886598,
     "wof:name":"Oy\u00f3n",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

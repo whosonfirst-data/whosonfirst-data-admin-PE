@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119487,
-    "geom:area_square_m":1461308490.528302,
+    "geom:area_square_m":1461308490.52826,
     "geom:bbox":"-77.798859375,-8.75769140625,-77.3660507812,-8.2365390625",
     "geom:latitude":-8.484534,
     "geom:longitude":-77.585434,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415396,
-    "wof:geomhash":"05e015f3b2326d1004eb057b79897b0f",
+    "wof:geomhash":"cac74cff74c482e851b5e7267ffea77f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108694013,
-    "wof:lastmodified":1566675938,
+    "wof:lastmodified":1695886597,
     "wof:name":"Sihuas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

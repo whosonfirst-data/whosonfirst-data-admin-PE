@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.697787,
-    "geom:area_square_m":8210896818.008162,
+    "geom:area_square_m":8210896818.009192,
     "geom:bbox":"-70.8900919612,-18.3509285287,-69.4681565042,-17.3941347656",
     "geom:latitude":-17.892395,
     "geom:longitude":-70.222877,
@@ -210,12 +210,13 @@
         "hasc:id":"PE.TA.TC",
         "qs_pg:id":1288024
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008914,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d39a76c894ae9e625b83b7da7426017",
+    "wof:geomhash":"204da912a43fc7f722e5822454ffc706",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":421171961,
-    "wof:lastmodified":1582343553,
+    "wof:lastmodified":1695886757,
     "wof:name":"Tacna",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

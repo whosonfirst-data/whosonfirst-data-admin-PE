@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173826,
-    "geom:area_square_m":2133817793.406317,
+    "geom:area_square_m":2133817795.566136,
     "geom:bbox":"-76.549668,-7.204984,-76.005059,-6.676705",
     "geom:latitude":-6.901117,
     "geom:longitude":-76.255475,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"PE.SM.PC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415382,
-    "wof:geomhash":"e7727eb47f7562fcaaebeade15f5d516",
+    "wof:geomhash":"ebe6cc9d279f6bc755d79043a2a150f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108693999,
-    "wof:lastmodified":1627522496,
+    "wof:lastmodified":1695886135,
     "wof:name":"Picota",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

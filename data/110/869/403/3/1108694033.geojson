@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234786,
-    "geom:area_square_m":2770105060.86269,
+    "geom:area_square_m":2770105283.642543,
     "geom:bbox":"-70.345787,-17.778303,-69.468533,-17.035559",
     "geom:latitude":-17.413945,
     "geom:longitude":-69.971584,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"PE.TA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415427,
-    "wof:geomhash":"67b20a47856b781ee560826530feb734",
+    "wof:geomhash":"80e8d722feda8cc11fa28f67f42b5f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694033,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1695886138,
     "wof:name":"Tarata",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

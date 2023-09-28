@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.484548,
-    "geom:area_square_m":5745964695.333641,
+    "geom:area_square_m":5745964752.590304,
     "geom:bbox":"-71.466264,-16.979844,-70.30584,-15.974455",
     "geom:latitude":-16.458818,
     "geom:longitude":-70.831346,
@@ -158,12 +158,13 @@
         "qs_pg:id":1288007,
         "wd:id":"Q1947893"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008913,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6b31a1c992fcecd7cf401029acc95f1",
+    "wof:geomhash":"3b3c472fd9541009a6625dcac4262c97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421171959,
-    "wof:lastmodified":1690850485,
+    "wof:lastmodified":1695886756,
     "wof:name":"Gral. S\u00e1nchez Cerro",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

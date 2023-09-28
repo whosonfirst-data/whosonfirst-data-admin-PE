@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525149,
-    "geom:area_square_m":6459460316.612313,
+    "geom:area_square_m":6459459374.798621,
     "geom:bbox":"-81.149557,-6.371807,-80.052939,-5.310076",
     "geom:latitude":-5.870557,
     "geom:longitude":-80.671605,
@@ -184,12 +184,13 @@
         "qs_pg:id":483636,
         "wd:id":"Q3236446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008849,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c260a0768bda16b553cbeb09a7242df",
+    "wof:geomhash":"0772202b18bd247b73d04194f9fed6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":421170341,
-    "wof:lastmodified":1690850473,
+    "wof:lastmodified":1695886751,
     "wof:name":"Sechura",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

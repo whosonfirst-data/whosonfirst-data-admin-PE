@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259992,
-    "geom:area_square_m":3171824217.911322,
+    "geom:area_square_m":3171824007.345185,
     "geom:bbox":"-77.048523,-9.760256,-76.057045,-9.053592",
     "geom:latitude":-9.384167,
     "geom:longitude":-76.60214,
@@ -126,9 +126,10 @@
         "hasc:id":"PE.HC.HE",
         "wd:id":"Q1819840"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415301,
-    "wof:geomhash":"757ad73797ebc5e3ba3454f98eaa251b",
+    "wof:geomhash":"5b68808db84ef5383cf21f048efb17c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108693923,
-    "wof:lastmodified":1690850410,
+    "wof:lastmodified":1695886598,
     "wof:name":"Huamal\u00edes",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

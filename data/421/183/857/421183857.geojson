@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.979288,
-    "geom:area_square_m":11759794753.225237,
+    "geom:area_square_m":11759794796.931883,
     "geom:bbox":"-70.881637,-14.518025,-69.633477,-13.114535",
     "geom:latitude":-13.791711,
     "geom:longitude":-70.179795,
@@ -155,12 +155,13 @@
         "wd:id":"Q1944216",
         "wk:page":"Carabaya Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b42cef906b95d15452719152847681cb",
+    "wof:geomhash":"25e69e78c2c2e8f53269e7c757fcd5be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421183857,
-    "wof:lastmodified":1690850478,
+    "wof:lastmodified":1695886754,
     "wof:name":"Carabaya",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

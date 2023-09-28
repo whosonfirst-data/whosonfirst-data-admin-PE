@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216167,
-    "geom:area_square_m":2648691919.249873,
+    "geom:area_square_m":2648691594.429155,
     "geom:bbox":"-79.465707,-7.998842,-78.793758,-7.38843",
     "geom:latitude":-7.724037,
     "geom:longitude":-79.151756,
@@ -173,12 +173,13 @@
         "qs_pg:id":891426,
         "wd:id":"Q927324"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b293b2b0d52a0b7978c4eafce6ca682",
+    "wof:geomhash":"9025ecd2c907dc0c465b9f9f40e22212",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421193361,
-    "wof:lastmodified":1690850430,
+    "wof:lastmodified":1695886746,
     "wof:name":"Ascope",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

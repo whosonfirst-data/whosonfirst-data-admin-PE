@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481312,
-    "geom:area_square_m":5738154532.281803,
+    "geom:area_square_m":5738155451.239679,
     "geom:bbox":"-71.038971,-15.85115,-70.148086,-14.912066",
     "geom:latitude":-15.387116,
     "geom:longitude":-70.639869,
@@ -137,12 +137,13 @@
         "wd:id":"Q1944347",
         "wk:page":"Lampa Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46fc1d479b4185056da0238f9c579c5a",
+    "wof:geomhash":"b3a811e799897fd4018db38fc438afa6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421187857,
-    "wof:lastmodified":1690850440,
+    "wof:lastmodified":1695886748,
     "wof:name":"Lampa",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

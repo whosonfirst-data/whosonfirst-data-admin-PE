@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218475,
-    "geom:area_square_m":2651526150.391564,
+    "geom:area_square_m":2651526814.787052,
     "geom:bbox":"-76.278984,-11.386857,-75.459152,-10.727215",
     "geom:latitude":-11.034886,
     "geom:longitude":-75.928789,
@@ -164,12 +164,13 @@
         "wd:id":"Q644721",
         "wk:page":"Jun\u00edn Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009402,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52b65af6a59e0189ab5b6e9f1daad2b8",
+    "wof:geomhash":"a8a31e742ec3b8da036e16efd33b3c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421184147,
-    "wof:lastmodified":1690850470,
+    "wof:lastmodified":1695886753,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

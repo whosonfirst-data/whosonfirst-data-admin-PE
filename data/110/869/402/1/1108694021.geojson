@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242194,
-    "geom:area_square_m":2914230356.52951,
+    "geom:area_square_m":2914230523.302143,
     "geom:bbox":"-76.244803,-13.631816,-75.60324,-12.964889",
     "geom:latitude":-13.317888,
     "geom:longitude":-75.939423,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"PE.IC.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415406,
-    "wof:geomhash":"a67901b5544b77af453a9410211a1923",
+    "wof:geomhash":"4066636a2c3ddec7d3253064d9e28060",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108694021,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886130,
     "wof:name":"Chincha",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

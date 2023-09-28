@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348505,
-    "geom:area_square_m":4289851690.605933,
+    "geom:area_square_m":4289851282.843793,
     "geom:bbox":"-79.839311,-5.970297,-79.210834,-4.83271",
     "geom:latitude":-5.442589,
     "geom:longitude":-79.514771,
@@ -155,12 +155,13 @@
         "wd:id":"Q1422619",
         "wk:page":"Huancabamba Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f218777ca4127f42f4c5fcbadd79dce0",
+    "wof:geomhash":"fa8fecc7561da0346dd2e2a1c6ecaffa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421192883,
-    "wof:lastmodified":1690850424,
+    "wof:lastmodified":1695886743,
     "wof:name":"Huancabamba",
     "wof:parent_id":85675827,
     "wof:placetype":"county",

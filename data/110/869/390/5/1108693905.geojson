@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178185,
-    "geom:area_square_m":2137264605.831353,
+    "geom:area_square_m":2137264856.788278,
     "geom:bbox":"-72.902344,-14.362021,-72.34941,-13.73026",
     "geom:latitude":-14.061156,
     "geom:longitude":-72.622472,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.AP.GR",
         "wd:id":"Q1814172"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415264,
-    "wof:geomhash":"c251cb33074cbf9665ec10305f721cab",
+    "wof:geomhash":"47fb7e627e6abdc708628587a8afea52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693905,
-    "wof:lastmodified":1690850408,
+    "wof:lastmodified":1695886596,
     "wof:name":"Grau",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

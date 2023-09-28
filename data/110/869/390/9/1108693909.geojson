@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269953,
-    "geom:area_square_m":3232600281.421615,
+    "geom:area_square_m":3232600157.289634,
     "geom:bbox":"-73.082711,-14.759877,-72.338227,-14.107387",
     "geom:latitude":-14.437287,
     "geom:longitude":-72.736612,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AP.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415271,
-    "wof:geomhash":"35566894b2fcc1ebbc03d7f5df5d5aea",
+    "wof:geomhash":"9f9c8e591b8bf86750b0ea631db9e1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693909,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886129,
     "wof:name":"Antabamba",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

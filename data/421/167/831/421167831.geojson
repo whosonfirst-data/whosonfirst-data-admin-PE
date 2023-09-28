@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191718,
-    "geom:area_square_m":2282122550.684854,
+    "geom:area_square_m":2282122175.53495,
     "geom:bbox":"-70.896561,-16.034252,-69.961937,-15.313426",
     "geom:latitude":-15.704292,
     "geom:longitude":-70.425414,
@@ -153,12 +153,13 @@
         "qs_pg:id":424725,
         "wd:id":"Q1944337"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008745,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d4996dcd57ee6a06bad940ea7b64b3f",
+    "wof:geomhash":"116b422ab6e1f054f287e45a30c2a445",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421167831,
-    "wof:lastmodified":1690850431,
+    "wof:lastmodified":1695886746,
     "wof:name":"San Rom\u00e1n",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

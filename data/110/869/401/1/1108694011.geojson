@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083473,
-    "geom:area_square_m":1020639862.90747,
+    "geom:area_square_m":1020639862.90719,
     "geom:bbox":"-78.1310488281,-8.74728515625,-77.6903984375,-8.37865820312",
     "geom:latitude":-8.567785,
     "geom:longitude":-77.882135,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415395,
-    "wof:geomhash":"34c1b9543ddc4b87262d0de9aa7f0851",
+    "wof:geomhash":"3f561353022425bec8b3fbd87ccb19ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108694011,
-    "wof:lastmodified":1566675938,
+    "wof:lastmodified":1695886597,
     "wof:name":"Corongo",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

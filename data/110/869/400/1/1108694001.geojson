@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169472,
-    "geom:area_square_m":2073504864.976186,
+    "geom:area_square_m":2073504816.075199,
     "geom:bbox":"-78.236076,-8.695773,-77.557945,-8.051141",
     "geom:latitude":-8.317476,
     "geom:longitude":-77.901919,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415383,
-    "wof:geomhash":"aa130b92e405e31ae2f511be66a63cda",
+    "wof:geomhash":"563fd8b58e4fbb6e75cef370232841c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694001,
-    "wof:lastmodified":1627522496,
+    "wof:lastmodified":1695886135,
     "wof:name":"Pallasca",
     "wof:parent_id":85675865,
     "wof:placetype":"county",
