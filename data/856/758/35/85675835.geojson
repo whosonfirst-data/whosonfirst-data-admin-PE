@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.765703,
-    "geom:area_square_m":21181732715.762581,
+    "geom:area_square_m":21181732716.24155,
     "geom:bbox":"-73.847748,-14.84283,-72.050994,-13.169617",
     "geom:latitude":-14.027893,
     "geom:longitude":-72.975402,
@@ -350,17 +350,19 @@
         "gn:id":3947421,
         "gp:id":2346470,
         "hasc:id":"PE.AP",
+        "iso:code":"PE-APU",
         "iso:id":"PE-APU",
         "qs_pg:id":890099,
         "unlc:id":"PE-APU",
         "wd:id":"Q208185",
         "wk:page":"Apur\u00edmac Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48ad83025966425352a50eb89252019a",
+    "wof:geomhash":"d0af0473c76b8cc22b7d8f4b1f9936c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -377,7 +379,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850385,
+    "wof:lastmodified":1695884358,
     "wof:name":"Apurimac",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

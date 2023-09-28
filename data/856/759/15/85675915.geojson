@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.766435,
-    "geom:area_square_m":21170650730.389198,
+    "geom:area_square_m":21170652199.300667,
     "geom:bbox":"-76.398364,-15.442959,-74.647004,-12.964889",
     "geom:latitude":-14.234473,
     "geom:longitude":-75.573544,
@@ -340,17 +340,19 @@
         "gn:id":3938526,
         "gp:id":2346478,
         "hasc:id":"PE.IC",
+        "iso:code":"PE-ICA",
         "iso:id":"PE-ICA",
         "qs_pg:id":1168710,
         "unlc:id":"PE-ICA",
         "wd:id":"Q208186",
         "wk:page":"Ica Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37b20dfc4b130464280224c18da657f3",
+    "wof:geomhash":"ed4bf40ba0314a5c7528c8fe2b1cd46a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -367,7 +369,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850396,
+    "wof:lastmodified":1695884864,
     "wof:name":"Ica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

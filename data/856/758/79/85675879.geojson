@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.068399,
-    "geom:area_square_m":25331466278.631588,
+    "geom:area_square_m":25331466844.089996,
     "geom:bbox":"-79.690151,-8.969465,-76.90184,-6.940957",
     "geom:latitude":-7.921637,
     "geom:longitude":-78.368161,
@@ -354,17 +354,19 @@
         "gn:id":3695781,
         "gp:id":2346480,
         "hasc:id":"PE.LL",
+        "iso:code":"PE-LAL",
         "iso:id":"PE-LAL",
         "qs_pg:id":423854,
         "unlc:id":"PE-LAL",
         "wd:id":"Q205126",
         "wk:page":"La Libertad Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4f8f962350c088f3ab3f3529e7c8598",
+    "wof:geomhash":"22877eae3d756ec667822186ff1f3c60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +383,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850392,
+    "wof:lastmodified":1695884861,
     "wof:name":"La Libertad",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

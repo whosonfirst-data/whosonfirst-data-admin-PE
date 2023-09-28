@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.023317,
-    "geom:area_square_m":84947016119.03511,
+    "geom:area_square_m":84947009764.555969,
     "geom:bbox":"-72.428848,-13.341852,-68.652288,-9.906908",
     "geom:latitude":-11.981025,
     "geom:longitude":-70.534897,
@@ -338,17 +338,19 @@
         "gn:id":3935619,
         "gp:id":2346484,
         "hasc:id":"PE.MD",
+        "iso:code":"PE-MDD",
         "iso:id":"PE-MDD",
         "qs_pg:id":1222769,
         "unlc:id":"PE-MDD",
         "wd:id":"Q210896",
         "wk:page":"Madre de Dios Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c4064e6b89292736dfce084bb07d7fc",
+    "wof:geomhash":"ebef95ffd92372373a316e14bb24810d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -365,7 +367,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850394,
+    "wof:lastmodified":1695884863,
     "wof:name":"Madre de Dios",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

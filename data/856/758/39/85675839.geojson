@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.334985,
-    "geom:area_square_m":63459199405.2892,
+    "geom:area_square_m":63459199323.586952,
     "geom:bbox":"-75.075086,-17.284939,-70.804084,-14.632807",
     "geom:latitude":-15.843414,
     "geom:longitude":-72.475096,
@@ -355,17 +355,19 @@
         "gn:id":3947319,
         "gp:id":2346471,
         "hasc:id":"PE.AR",
+        "iso:code":"PE-ARE",
         "iso:id":"PE-ARE",
         "qs_pg:id":1168708,
         "unlc:id":"PE-ARE",
         "wd:id":"Q205068",
         "wk:page":"Arequipa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5855570c82f1e44958bd30d8c5fe1032",
+    "wof:geomhash":"f6916b88e9b877ab94b85a3dbba2af44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -382,7 +384,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850390,
+    "wof:lastmodified":1695884860,
     "wof:name":"Arequipa",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

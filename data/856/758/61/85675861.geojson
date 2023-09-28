@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.35996,
-    "geom:area_square_m":16024765790.165619,
+    "geom:area_square_m":16024765078.478163,
     "geom:bbox":"-71.139086,-18.350929,-69.468157,-16.77041",
     "geom:latitude":-17.644465,
     "geom:longitude":-70.277526,
@@ -336,17 +336,19 @@
         "gn:id":3928127,
         "gp:id":2346490,
         "hasc:id":"PE.TA",
+        "iso:code":"PE-TAC",
         "iso:id":"PE-TAC",
         "qs_pg:id":423859,
         "unlc:id":"PE-TAC",
         "wd:id":"Q207413",
         "wk:page":"Tacna Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa5ae38b9194bc97aef4136b4bb3cad3",
+    "wof:geomhash":"9a9fa20b1a7dd95fc38edecfa6b44933",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -363,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850383,
+    "wof:lastmodified":1695885133,
     "wof:name":"Tacna",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

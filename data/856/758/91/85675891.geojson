@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.673487,
-    "geom:area_square_m":105725182484.819748,
+    "geom:area_square_m":105725181445.593079,
     "geom:bbox":"-75.945748,-11.448199,-70.493962,-7.294762",
     "geom:latitude":-9.621314,
     "geom:longitude":-73.434628,
@@ -343,17 +343,19 @@
         "gn:id":3691099,
         "gp:id":2346492,
         "hasc:id":"PE.UC",
+        "iso:code":"PE-UCA",
         "iso:id":"PE-UCA",
         "qs_pg:id":423860,
         "unlc:id":"PE-UCA",
         "wd:id":"Q207424",
         "wk:page":"Ucayali Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9b290ab7e091f352a47de31c55df3a4",
+    "wof:geomhash":"776ae155e696200a801fa8d78196fa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -370,7 +372,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850388,
+    "wof:lastmodified":1695884859,
     "wof:name":"Ucayali",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

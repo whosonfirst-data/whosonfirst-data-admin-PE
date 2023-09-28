@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.164187,
-    "geom:area_square_m":14306777304.92452,
+    "geom:area_square_m":14306777911.735855,
     "geom:bbox":"-80.62777,-7.177658,-79.12175,-5.480387",
     "geom:latitude":-6.351921,
     "geom:longitude":-79.823479,
@@ -327,17 +327,19 @@
         "gn:id":3695753,
         "gp:id":2346481,
         "hasc:id":"PE.LB",
+        "iso:code":"PE-LAM",
         "iso:id":"PE-LAM",
         "qs_pg:id":423855,
         "unlc:id":"PE-LAM",
         "wd:id":"Q210061",
         "wk:page":"Lambayeque Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ec3e6160ea7ba45aeea29d1996b1d6e",
+    "wof:geomhash":"70da3d7a331640702b950da9ee93a221",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -354,7 +356,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850386,
+    "wof:lastmodified":1695884858,
     "wof:name":"Lambayeque",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

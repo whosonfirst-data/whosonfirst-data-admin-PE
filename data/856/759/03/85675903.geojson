@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.649328,
-    "geom:area_square_m":43762244355.148781,
+    "geom:area_square_m":43762243941.946373,
     "geom:bbox":"-75.138611,-15.629709,-72.846824,-12.167912",
     "geom:latitude":-14.090694,
     "geom:longitude":-74.083042,
@@ -347,17 +347,19 @@
         "gn:id":3947018,
         "gp:id":2346472,
         "hasc:id":"PE.AY",
+        "iso:code":"PE-AYA",
         "iso:id":"PE-AYA",
         "qs_pg:id":890100,
         "unlc:id":"PE-AYA",
         "wd:id":"Q205112",
         "wk:page":"Ayacucho Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a069eff224677c077a72520fe96bc8c8",
+    "wof:geomhash":"93b5571cb69eaf1b7c204371232488bb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -374,7 +376,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850395,
+    "wof:lastmodified":1695884863,
     "wof:name":"Ayacucho",
     "wof:parent_id":85632521,
     "wof:placetype":"region",
