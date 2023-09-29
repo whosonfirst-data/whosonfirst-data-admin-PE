@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.213766,
-    "geom:area_square_m":14522521485.940493,
+    "geom:area_square_m":14522520810.87924,
     "geom:bbox":"-75.138611,-15.481781,-73.533088,-14.018811",
     "geom:latitude":-14.616317,
     "geom:longitude":-74.34606,
@@ -149,12 +149,13 @@
         "wd:id":"Q1814203",
         "wk:page":"Lucanas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009770,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"238622c2c6e8b3981b6b1ef3444f3b9c",
+    "wof:geomhash":"9a867b91d77b69aba20cf2f45e45b2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421193433,
-    "wof:lastmodified":1690850431,
+    "wof:lastmodified":1695886746,
     "wof:name":"Lucanas",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

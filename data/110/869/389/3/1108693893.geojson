@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.520438,
-    "geom:area_square_m":18492905074.834877,
+    "geom:area_square_m":18492903445.311676,
     "geom:bbox":"-72.484771,-11.012986,-70.493962,-9.423746",
     "geom:latitude":-10.373108,
     "geom:longitude":-71.58239,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.UC.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415246,
-    "wof:geomhash":"810d4c9e52d547f1b39e55957f751ca1",
+    "wof:geomhash":"40c19ae2b892b48d43c9ad3049cd8cad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108693893,
-    "wof:lastmodified":1627522496,
+    "wof:lastmodified":1695886134,
     "wof:name":"Pur\u00fas",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

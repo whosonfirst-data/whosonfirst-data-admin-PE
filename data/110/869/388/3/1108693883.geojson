@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090897,
-    "geom:area_square_m":1112550245.829565,
+    "geom:area_square_m":1112550344.3506,
     "geom:bbox":"-78.682748,-8.387604,-78.288967,-7.989814",
     "geom:latitude":-8.172107,
     "geom:longitude":-78.463691,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.LL.JU",
         "wd:id":"Q1920491"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415216,
-    "wof:geomhash":"1282fc6d6064b90fe5c4abc45ab6ff14",
+    "wof:geomhash":"5855d88873b14cb66edc94c7bbeb8692",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108693883,
-    "wof:lastmodified":1690850417,
+    "wof:lastmodified":1695886603,
     "wof:name":"Julc\u00e1n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

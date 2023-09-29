@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219313,
-    "geom:area_square_m":2631068021.10186,
+    "geom:area_square_m":2631067636.195096,
     "geom:bbox":"-72.48124,-14.440949,-72.050994,-13.642152",
     "geom:latitude":-14.018631,
     "geom:longitude":-72.269809,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AP.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415267,
-    "wof:geomhash":"08be94bd56fa6fa1e60aefa17ad584be",
+    "wof:geomhash":"5bfccda240240dbcc0928e8fff38c72f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108693907,
-    "wof:lastmodified":1627522496,
+    "wof:lastmodified":1695886135,
     "wof:name":"Cotabambas",
     "wof:parent_id":85675835,
     "wof:placetype":"county",

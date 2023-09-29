@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.332764,
-    "geom:area_square_m":3943064223.232286,
+    "geom:area_square_m":3943064161.146131,
     "geom:bbox":"-69.686408,-17.175411,-69.01258,-16.174723",
     "geom:latitude":-16.605292,
     "geom:longitude":-69.358675,
@@ -104,12 +104,13 @@
         "hasc:id":"PE.PU.CC",
         "qs_pg:id":1063139
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009475,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b28dbc8543a96f34ad43b33455ff56e",
+    "wof:geomhash":"64815cc60594311ab3d5a42a7dbbb704",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":421186269,
-    "wof:lastmodified":1627522494,
+    "wof:lastmodified":1695886130,
     "wof:name":"Chucuito",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

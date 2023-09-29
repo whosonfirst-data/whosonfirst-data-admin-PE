@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358651,
-    "geom:area_square_m":4320296266.011045,
+    "geom:area_square_m":4320295882.998963,
     "geom:bbox":"-74.148971,-13.475971,-73.210266,-12.530535",
     "geom:latitude":-13.046099,
     "geom:longitude":-73.721772,
@@ -158,12 +158,13 @@
         "wd:id":"Q514494",
         "wk:page":"La Mar Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010126,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9560276544840685004b3cdb8d515ec9",
+    "wof:geomhash":"34c4e7be42a9a6af68328257343b5bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421202681,
-    "wof:lastmodified":1690850434,
+    "wof:lastmodified":1695886747,
     "wof:name":"La Mar",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

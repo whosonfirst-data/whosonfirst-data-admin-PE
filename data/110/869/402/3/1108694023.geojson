@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411364,
-    "geom:area_square_m":4911726766.193972,
+    "geom:area_square_m":4911727316.399093,
     "geom:bbox":"-73.293977,-15.572365,-72.301934,-14.644061",
     "geom:latitude":-15.065511,
     "geom:longitude":-72.804108,
@@ -138,9 +138,10 @@
         "hasc:id":"PE.AR.LU",
         "wd:id":"Q1779698"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415410,
-    "wof:geomhash":"594c69dc43bb34f3a4bef3a9a7f8dbff",
+    "wof:geomhash":"fc71e97c7a5d51142bb3a2c9c3440b29",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108694023,
-    "wof:lastmodified":1690850413,
+    "wof:lastmodified":1695886600,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

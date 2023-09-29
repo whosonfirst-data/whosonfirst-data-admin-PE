@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33402,
-    "geom:area_square_m":4070353249.607587,
+    "geom:area_square_m":4070352905.915888,
     "geom:bbox":"-76.606391,-10.233115,-75.721963,-9.391178",
     "geom:latitude":-9.765851,
     "geom:longitude":-76.18305,
@@ -168,12 +168,13 @@
         "wd:id":"Q2100624",
         "wk:page":"Hu\u00e1nuco Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fd83bde760f29b58951069ef4ef0352",
+    "wof:geomhash":"65dc1fd1c83699bf79e28679aa9472e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421185313,
-    "wof:lastmodified":1690850487,
+    "wof:lastmodified":1695886758,
     "wof:name":"Hu\u00e1nuco",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215872,
-    "geom:area_square_m":2655322043.393569,
+    "geom:area_square_m":2655322505.723701,
     "geom:bbox":"-77.77568,-6.233889,-77.120193,-5.410686",
     "geom:latitude":-5.864624,
     "geom:longitude":-77.46619,
@@ -137,12 +137,13 @@
         "wd:id":"Q2084648",
         "wk:page":"Rioja Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4534aac3d955c04a5fffe5b47d2dfd9",
+    "wof:geomhash":"5b6e0f7e0417653a81d655a9ed67bd9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421194089,
-    "wof:lastmodified":1690850427,
+    "wof:lastmodified":1695886745,
     "wof:name":"Rioja",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

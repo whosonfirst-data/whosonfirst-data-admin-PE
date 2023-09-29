@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411206,
-    "geom:area_square_m":5059385638.40514,
+    "geom:area_square_m":5059385681.940894,
     "geom:bbox":"-79.420434,-6.133926,-78.51207,-5.326244",
     "geom:latitude":-5.710993,
     "geom:longitude":-79.004665,
@@ -170,12 +170,13 @@
         "wd:id":"Q683949",
         "wk:page":"Ja\u00e9n Province, Peru"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009437,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"802d21778ed1fadafc886fcf3fb1790b",
+    "wof:geomhash":"5927365ebedb814cfba5598688788db3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421185275,
-    "wof:lastmodified":1690850486,
+    "wof:lastmodified":1695886757,
     "wof:name":"Ja\u00e9n",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164424,
-    "geom:area_square_m":1973716898.652946,
+    "geom:area_square_m":1973716886.505377,
     "geom:bbox":"-72.233391,-14.278854,-71.6736,-13.593629",
     "geom:latitude":-13.884525,
     "geom:longitude":-71.9161,
@@ -140,12 +140,13 @@
         "wd:id":"Q1920613",
         "wk:page":"Paruro Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009814,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0ed059e9d2cfa2ba6eb41f60c2d2093",
+    "wof:geomhash":"9e40083efd35c4d3b04c985c1d5f1799",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421194639,
-    "wof:lastmodified":1690850428,
+    "wof:lastmodified":1695886746,
     "wof:name":"Paruro",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

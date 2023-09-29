@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.846851,
-    "geom:area_square_m":47438696839.694489,
+    "geom:area_square_m":47438696945.97406,
     "geom:bbox":"-77.825742,-5.746232,-75.746805,-2.512339",
     "geom:latitude":-4.130357,
     "geom:longitude":-76.985832,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.LO.AA",
         "wd:id":"Q1920572"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415453,
-    "wof:geomhash":"9c66fd58ecf76b2111de56fc3b444725",
+    "wof:geomhash":"5532bccc835752a19e4bc4e4cf65e9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108694051,
-    "wof:lastmodified":1690850412,
+    "wof:lastmodified":1695886600,
     "wof:name":"Datem Del Mara\u00f1\u00f3n",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

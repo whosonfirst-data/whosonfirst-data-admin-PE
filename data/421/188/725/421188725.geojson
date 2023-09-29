@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14188,
-    "geom:area_square_m":1740224264.233098,
+    "geom:area_square_m":1740224332.47488,
     "geom:bbox":"-78.003135,-7.674285,-77.486184,-6.940957",
     "geom:latitude":-7.279962,
     "geom:longitude":-77.73944,
@@ -167,12 +167,13 @@
         "wd:id":"Q951816",
         "wk:page":"Bol\u00edvar Province, Peru"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009576,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"984929759451f583e6c7e56230f84a31",
+    "wof:geomhash":"2986220449b61e92fd02b34c37f46e50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421188725,
-    "wof:lastmodified":1690850446,
+    "wof:lastmodified":1695886749,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

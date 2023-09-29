@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14033,
-    "geom:area_square_m":1700123168.869085,
+    "geom:area_square_m":1700123230.28824,
     "geom:bbox":"-77.035332,-11.756705,-76.37185,-11.312379",
     "geom:latitude":-11.540932,
     "geom:longitude":-76.710008,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415344,
-    "wof:geomhash":"0ceebe3cb70067b8b1ec53a18a5e53fb",
+    "wof:geomhash":"69912cdab9ce52fb1bda80a11b4a574b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108693965,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886130,
     "wof:name":"Canta",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

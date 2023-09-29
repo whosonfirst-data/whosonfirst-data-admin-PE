@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115872,
-    "geom:area_square_m":1365886538.799234,
+    "geom:area_square_m":1365886818.951956,
     "geom:bbox":"-71.490983,-17.821566,-70.907182,-17.250941",
     "geom:latitude":-17.57615,
     "geom:longitude":-71.210881,
@@ -140,12 +140,13 @@
         "hasc:id":"PE.MQ.IL",
         "qs_pg:id":1030738
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009448,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"533eccd229eb4845aa7cc8fb46f23b0d",
+    "wof:geomhash":"e02f6fb2997a8e102ba6d821cd9c9441",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421185587,
-    "wof:lastmodified":1636500287,
+    "wof:lastmodified":1695886753,
     "wof:name":"Ilo",
     "wof:parent_id":85675857,
     "wof:placetype":"county",

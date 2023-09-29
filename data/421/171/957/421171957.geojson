@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.172085,
-    "geom:area_square_m":38772291923.188293,
+    "geom:area_square_m":38772291727.505928,
     "geom:bbox":"-75.449098,-10.093854,-72.939448,-7.294762",
     "geom:latitude":-8.676551,
     "geom:longitude":-74.061849,
@@ -161,12 +161,13 @@
         "qs_pg:id":1288005,
         "wd:id":"Q579906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008913,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25795c6ca296a2f05663ab081d14560e",
+    "wof:geomhash":"ca28978ccad9ac5e2a47e4089a168ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421171957,
-    "wof:lastmodified":1690850484,
+    "wof:lastmodified":1695886756,
     "wof:name":"Coronel Portillo",
     "wof:parent_id":85675891,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10132,
-    "geom:area_square_m":1222606206.397071,
+    "geom:area_square_m":1222606172.116899,
     "geom:bbox":"-74.709244,-12.839389,-74.285049,-12.360262",
     "geom:latitude":-12.612705,
     "geom:longitude":-74.489429,
@@ -141,12 +141,13 @@
         "qs_pg:id":1002210,
         "wd:id":"Q639598"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"59bf790a3ae81e63fc6fbc0bb3eff6fa",
+    "wof:geomhash":"fcb03afd740ded6d996f87997a9f8d52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421184603,
-    "wof:lastmodified":1690850470,
+    "wof:lastmodified":1695886753,
     "wof:name":"Churcampa",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

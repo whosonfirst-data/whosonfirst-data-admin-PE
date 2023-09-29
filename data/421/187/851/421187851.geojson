@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229452,
-    "geom:area_square_m":2798830937.937475,
+    "geom:area_square_m":2798831424.114912,
     "geom:bbox":"-77.335334,-9.841219,-76.726387,-9.070922",
     "geom:latitude":-9.43382,
     "geom:longitude":-77.082247,
@@ -152,12 +152,13 @@
         "wd:id":"Q1779705",
         "wk:page":"Huari Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4a24dd7d4b1bbbd70f40d2a56e7247e",
+    "wof:geomhash":"58f50287582237c48c678765c50a1d70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421187851,
-    "wof:lastmodified":1690850440,
+    "wof:lastmodified":1695886748,
     "wof:name":"Huari",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

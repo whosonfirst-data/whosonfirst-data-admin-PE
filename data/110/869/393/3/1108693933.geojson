@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175041,
-    "geom:area_square_m":2089453747.490896,
+    "geom:area_square_m":2089453240.691375,
     "geom:bbox":"-73.555375,-15.40492,-72.982742,-14.825529",
     "geom:latitude":-15.122872,
     "geom:longitude":-73.261909,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.AY.PS",
         "wd:id":"Q1806437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415318,
-    "wof:geomhash":"9915d186f206607daac882aa40fad6f1",
+    "wof:geomhash":"7a181b8652eb2745144152107371be43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108693933,
-    "wof:lastmodified":1690850411,
+    "wof:lastmodified":1695886600,
     "wof:name":"Paucar Del Sara Sara",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

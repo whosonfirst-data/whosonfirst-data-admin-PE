@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.839767,
-    "geom:area_square_m":22162938849.283382,
+    "geom:area_square_m":22162938849.282928,
     "geom:bbox":"-75.810516,-14.130258,-74.270713,-11.984594",
     "geom:latitude":-13.024188,
     "geom:longitude":-75.002937,
@@ -345,17 +345,19 @@
         "gn:id":3939467,
         "gp:id":2346476,
         "hasc:id":"PE.HV",
+        "iso:code":"PE-HUV",
         "iso:id":"PE-HUV",
         "qs_pg:id":219586,
         "unlc:id":"PE-HUV",
         "wd:id":"Q505220",
         "wk:page":"Huancavelica Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d295eea96ef2617c9886257f016859df",
+    "wof:geomhash":"4dac1e1ad2e7699226754ed688286060",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -372,7 +374,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850395,
+    "wof:lastmodified":1695884863,
     "wof:name":"Huancavelica",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

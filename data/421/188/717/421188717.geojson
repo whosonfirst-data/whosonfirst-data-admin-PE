@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170448,
-    "geom:area_square_m":2087913488.701799,
+    "geom:area_square_m":2087913034.674354,
     "geom:bbox":"-78.914268,-8.098738,-78.251728,-7.622699",
     "geom:latitude":-7.840145,
     "geom:longitude":-78.556568,
@@ -200,12 +200,13 @@
         "wd:id":"Q583300",
         "wk:page":"Otuzco Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009576,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81ee4e774bcb7404078f4c3a52bb2804",
+    "wof:geomhash":"8a1855f74f99e298ff0a7e75260e0caa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":421188717,
-    "wof:lastmodified":1690850447,
+    "wof:lastmodified":1695886749,
     "wof:name":"Otuzco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310622,
-    "geom:area_square_m":3755617310.528525,
+    "geom:area_square_m":3755617697.602808,
     "geom:bbox":"-75.582932,-12.683607,-74.486695,-11.657311",
     "geom:latitude":-12.093988,
     "geom:longitude":-75.065022,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.JU.HO",
         "wd:id":"Q1777621"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415436,
-    "wof:geomhash":"317e10cec3f4670d22d2051e2ee51a59",
+    "wof:geomhash":"34de64b2ba758d76a961bf9d0cf47c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108694037,
-    "wof:lastmodified":1690850414,
+    "wof:lastmodified":1695886601,
     "wof:name":"Huancayo",
     "wof:parent_id":85675919,
     "wof:placetype":"county",

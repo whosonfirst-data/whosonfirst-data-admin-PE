@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090951,
-    "geom:area_square_m":1115191750.386388,
+    "geom:area_square_m":1115192666.265525,
     "geom:bbox":"-79.599773,-7.638045,-79.187129,-7.221434",
     "geom:latitude":-7.427562,
     "geom:longitude":-79.425292,
@@ -146,12 +146,13 @@
         "wd:id":"Q6319125",
         "wk:page":"Pacasmayo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009806,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"528ff16eeefb495c10919bc07f3fa766",
+    "wof:geomhash":"461bb211a70d8277a08e9a7a24cdf64a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421194455,
-    "wof:lastmodified":1690850426,
+    "wof:lastmodified":1695886747,
     "wof:name":"Pacasmayo",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

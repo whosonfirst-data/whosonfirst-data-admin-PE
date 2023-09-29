@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162034,
-    "geom:area_square_m":1951860105.647676,
+    "geom:area_square_m":1951860211.821011,
     "geom:bbox":"-74.920525,-13.292434,-74.270713,-12.823246",
     "geom:latitude":-13.046557,
     "geom:longitude":-74.626516,
@@ -152,12 +152,13 @@
         "wd:id":"Q2084862",
         "wk:page":"Angaraes Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009576,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d14897460fd33d5f87b0d1b1c0cf1b2",
+    "wof:geomhash":"66d4f6479e572746a519e7de1d74a00c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421188721,
-    "wof:lastmodified":1690850447,
+    "wof:lastmodified":1695886749,
     "wof:name":"Angaraes",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

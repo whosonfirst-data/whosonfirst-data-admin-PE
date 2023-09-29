@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.472161,
-    "geom:area_square_m":17910274014.111809,
+    "geom:area_square_m":17910273774.205685,
     "geom:bbox":"-75.986207,-10.912568,-74.131943,-9.428311",
     "geom:latitude":-10.294292,
     "geom:longitude":-74.97368,
@@ -137,12 +137,13 @@
         "wd:id":"Q960169",
         "wk:page":"Oxapampa Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009058,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ae8263db6ebdc4d77541ba2d48a640f",
+    "wof:geomhash":"60464b291866013c9ee8d1676d04a784",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421175175,
-    "wof:lastmodified":1690850459,
+    "wof:lastmodified":1695886751,
     "wof:name":"Oxapampa",
     "wof:parent_id":85675883,
     "wof:placetype":"county",

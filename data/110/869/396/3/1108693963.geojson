@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302831,
-    "geom:area_square_m":3671673636.4026,
+    "geom:area_square_m":3671673502.507954,
     "geom:bbox":"-77.382654,-11.678322,-76.457023,-11.013484",
     "geom:latitude":-11.32268,
     "geom:longitude":-76.913097,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.LR.HR",
         "wd:id":"Q1422606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415341,
-    "wof:geomhash":"378344b206161b094582bc1489b031fc",
+    "wof:geomhash":"3b2a9a3d02f5732e5f26cd2b3ccae231",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108693963,
-    "wof:lastmodified":1690850406,
+    "wof:lastmodified":1695886594,
     "wof:name":"Huaral",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

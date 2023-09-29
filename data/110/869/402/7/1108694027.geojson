@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.576913,
-    "geom:area_square_m":6870765386.47348,
+    "geom:area_square_m":6870765756.103325,
     "geom:bbox":"-73.261535,-16.461076,-71.893891,-14.632807",
     "geom:latitude":-15.598116,
     "geom:longitude":-72.731342,
@@ -135,9 +135,10 @@
         "hasc:id":"PE.AR.CS",
         "wd:id":"Q1814253"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415420,
-    "wof:geomhash":"bbb34c215950d8b26f45ed55ee761885",
+    "wof:geomhash":"2961cfa11e0ac3bf2b4a87f62d87398a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108694027,
-    "wof:lastmodified":1690850413,
+    "wof:lastmodified":1695886600,
     "wof:name":"Condesuyos",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

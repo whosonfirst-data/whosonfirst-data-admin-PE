@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23173,
-    "geom:area_square_m":2731563864.101895,
+    "geom:area_square_m":2731563504.509092,
     "geom:bbox":"-71.139086,-17.976615,-70.344131,-17.195268",
     "geom:latitude":-17.579178,
     "geom:longitude":-70.731113,
@@ -138,9 +138,10 @@
         "hasc:id":"PE.TA.JB",
         "wd:id":"Q589047"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415423,
-    "wof:geomhash":"04fdec4debb93c4c01f394e655818fef",
+    "wof:geomhash":"7ec812f0f052f465e276b398f694930f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108694029,
-    "wof:lastmodified":1690850413,
+    "wof:lastmodified":1695886601,
     "wof:name":"Jorge Basadre",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

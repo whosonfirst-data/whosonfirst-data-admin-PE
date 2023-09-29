@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.581352,
-    "geom:area_square_m":7017655355.620608,
+    "geom:area_square_m":7017655808.512787,
     "geom:bbox":"-76.367156,-13.06043,-75.508172,-11.983426",
     "geom:latitude":-12.515146,
     "geom:longitude":-75.902364,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.YY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415334,
-    "wof:geomhash":"766b161251e3b537e3c6e5474ad519f1",
+    "wof:geomhash":"31a12744ebeeefe6ff8a0760b8f0775c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108693955,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1695886138,
     "wof:name":"Yauyos",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

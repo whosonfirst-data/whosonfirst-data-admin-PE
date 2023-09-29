@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108953,
-    "geom:area_square_m":1338408463.733526,
+    "geom:area_square_m":1338408260.390215,
     "geom:bbox":"-76.970504,-6.810279,-76.523072,-6.264254",
     "geom:latitude":-6.558576,
     "geom:longitude":-76.741386,
@@ -147,9 +147,10 @@
         "hasc:id":"PE.SM.ED",
         "wd:id":"Q2084675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415380,
-    "wof:geomhash":"bb9750d9a23fac926213ba2049d5d9c2",
+    "wof:geomhash":"ed914afd232cd6eb56d6069e17b564e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108693997,
-    "wof:lastmodified":1690850407,
+    "wof:lastmodified":1695886745,
     "wof:name":"El Dorado",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

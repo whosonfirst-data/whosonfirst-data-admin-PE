@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046076,
-    "geom:area_square_m":562519152.159599,
+    "geom:area_square_m":562518999.795782,
     "geom:bbox":"-77.174697,-9.300727,-76.941414,-8.972129",
     "geom:latitude":-9.132294,
     "geom:longitude":-77.053466,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AN.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415399,
-    "wof:geomhash":"476538fece425b1b18b890b866c5d3af",
+    "wof:geomhash":"33a278fc7dde5d3f271a548e450cfee3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108694017,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886130,
     "wof:name":"Antonio Raymondi",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

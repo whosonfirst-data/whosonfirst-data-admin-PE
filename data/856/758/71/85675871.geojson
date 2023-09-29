@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.69286,
-    "geom:area_square_m":33085289624.913651,
+    "geom:area_square_m":33085290145.724113,
     "geom:bbox":"-79.458443,-7.762836,-77.741707,-4.623749",
     "geom:latitude":-6.42861,
     "geom:longitude":-78.745823,
@@ -326,17 +326,19 @@
         "gn:id":3699087,
         "gp:id":2346473,
         "hasc:id":"PE.CJ",
+        "iso:code":"PE-CAJ",
         "iso:id":"PE-CAJ",
         "qs_pg:id":219584,
         "unlc:id":"PE-CAJ",
         "wd:id":"Q205078",
         "wk:page":"Cajamarca Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05495b4da0f4757fec1e228bf4793f1f",
+    "wof:geomhash":"bc08551a45d13b6931939f2bf0ce03f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -353,7 +355,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850394,
+    "wof:lastmodified":1695884360,
     "wof:name":"Cajamarca",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

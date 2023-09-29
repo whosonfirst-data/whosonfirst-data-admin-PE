@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247794,
-    "geom:area_square_m":3046240298.300465,
+    "geom:area_square_m":3046240298.300172,
     "geom:bbox":"-79.2748574219,-6.54984960937,-78.5074394531,-5.77752734375",
     "geom:latitude":-6.173696,
     "geom:longitude":-78.839208,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"PE.CJ.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415359,
-    "wof:geomhash":"628a61a2fd7c11fd49c150ad11174c22",
+    "wof:geomhash":"1d3e68f2596093b7d0aad0c13aa4db03",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108693977,
-    "wof:lastmodified":1566675935,
+    "wof:lastmodified":1695886595,
     "wof:name":"Cutervo",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

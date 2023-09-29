@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086538,
-    "geom:area_square_m":1031955486.821655,
+    "geom:area_square_m":1031955793.708292,
     "geom:bbox":"-69.669199,-15.537979,-69.172639,-15.162787",
     "geom:latitude":-15.335348,
     "geom:longitude":-69.379982,
@@ -129,12 +129,13 @@
         "hasc:id":"PE.PU.MH",
         "qs_pg:id":1288025
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008914,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a445a25cfadb250b722f35594aeb344e",
+    "wof:geomhash":"44bd33c0f3a323ed9e018815d1b6748f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421171963,
-    "wof:lastmodified":1627522495,
+    "wof:lastmodified":1695886131,
     "wof:name":"Moho",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.548765,
-    "geom:area_square_m":6566502601.094304,
+    "geom:area_square_m":6566502601.095149,
     "geom:bbox":"-71.118171875,-15.1945664062,-70.2661894531,-14.0747207031",
     "geom:latitude":-14.596689,
     "geom:longitude":-70.686258,
@@ -326,12 +326,13 @@
         "qs_pg:id":1086211,
         "wd:id":"Q439017"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89f5696591e80c0bba11f98298eacae5",
+    "wof:geomhash":"8a1596ea802253b4899baa74eac71765",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -341,7 +342,7 @@
         }
     ],
     "wof:id":421187861,
-    "wof:lastmodified":1582343536,
+    "wof:lastmodified":1695886748,
     "wof:name":"Melgar",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

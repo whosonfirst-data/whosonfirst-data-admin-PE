@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198041,
-    "geom:area_square_m":2431786948.605226,
+    "geom:area_square_m":2431786721.958453,
     "geom:bbox":"-77.28707,-7.175266,-76.626678,-6.326592",
     "geom:latitude":-6.757703,
     "geom:longitude":-76.900955,
@@ -156,9 +156,10 @@
         "hasc:id":"PE.SM.HL",
         "wd:id":"Q731515"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415378,
-    "wof:geomhash":"ade048f167b608c5b5cd49222d447512",
+    "wof:geomhash":"33e6852137398abfa6faba079aceed4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1108693995,
-    "wof:lastmodified":1690850407,
+    "wof:lastmodified":1695886745,
     "wof:name":"Huallaga",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

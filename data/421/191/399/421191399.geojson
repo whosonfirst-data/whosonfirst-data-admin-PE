@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261599,
-    "geom:area_square_m":3198990921.396165,
+    "geom:area_square_m":3198990846.875809,
     "geom:bbox":"-78.935521,-8.969465,-78.236045,-8.140701",
     "geom:latitude":-8.521801,
     "geom:longitude":-78.603652,
@@ -167,12 +167,13 @@
         "qs_pg:id":64641,
         "wd:id":"Q1948051"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cd59be87bbfc61a5adf44b876386deae",
+    "wof:geomhash":"b8e50228daab7b958939363e0a447f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421191399,
-    "wof:lastmodified":1690850462,
+    "wof:lastmodified":1695886752,
     "wof:name":"Vir\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

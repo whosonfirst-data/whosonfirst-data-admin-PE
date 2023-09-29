@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.575966,
-    "geom:area_square_m":68783350116.289886,
+    "geom:area_square_m":68783353091.061615,
     "geom:bbox":"-76.535454,-5.739953,-73.378715,-1.794015",
     "geom:latitude":-3.849129,
     "geom:longitude":-75.230277,
@@ -164,12 +164,13 @@
         "wd:id":"Q1995145",
         "wk:page":"Loreto Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009058,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f53ad6d56fd824a225e15eb72976bb4",
+    "wof:geomhash":"e0fe26506a77fe5025c671e83d13db0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421175173,
-    "wof:lastmodified":1690850459,
+    "wof:lastmodified":1695886750,
     "wof:name":"Loreto",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

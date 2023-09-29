@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178967,
-    "geom:area_square_m":2143055693.449755,
+    "geom:area_square_m":2143055939.663907,
     "geom:bbox":"-71.65232,-14.659344,-70.962311,-14.083873",
     "geom:latitude":-14.439584,
     "geom:longitude":-71.343649,
@@ -155,12 +155,13 @@
         "wd:id":"Q1920500",
         "wk:page":"Canas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009525,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a468ac9bd23481d197bbf90f00f0d09e",
+    "wof:geomhash":"8c5f9d4fb824f50b063416d13b140436",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421187839,
-    "wof:lastmodified":1690850442,
+    "wof:lastmodified":1695886748,
     "wof:name":"Canas",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

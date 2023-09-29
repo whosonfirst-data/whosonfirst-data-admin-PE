@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.482835,
-    "geom:area_square_m":5813629963.134226,
+    "geom:area_square_m":5813630236.408281,
     "geom:bbox":"-71.920807,-13.638943,-71.062348,-12.70034",
     "geom:latitude":-13.155247,
     "geom:longitude":-71.526003,
@@ -143,12 +143,13 @@
         "wd:id":"Q746434",
         "wk:page":"Paucartambo Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010109,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c1e5aba14633ec820b8b9b2f6dc0eb0",
+    "wof:geomhash":"e2adf2fee08129b10d59db894002b86d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":421202207,
-    "wof:lastmodified":1690850435,
+    "wof:lastmodified":1695886747,
     "wof:name":"Paucartambo",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

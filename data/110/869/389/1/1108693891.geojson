@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.988628,
-    "geom:area_square_m":36118574710.711143,
+    "geom:area_square_m":36118572952.919571,
     "geom:bbox":"-72.217666,-13.341852,-68.652288,-11.033732",
     "geom:latitude":-12.199731,
     "geom:longitude":-70.049496,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"PE.MD.TP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415239,
-    "wof:geomhash":"4fa129d068d1cfb86be63c2eef292134",
+    "wof:geomhash":"1821841f27f6b1e12f4fc5a3911195a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108693891,
-    "wof:lastmodified":1627522497,
+    "wof:lastmodified":1695886136,
     "wof:name":"Tambopata",
     "wof:parent_id":85675847,
     "wof:placetype":"county",

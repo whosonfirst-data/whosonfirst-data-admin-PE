@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126134,
-    "geom:area_square_m":1533480036.097014,
+    "geom:area_square_m":1533480089.906499,
     "geom:bbox":"-77.344834,-10.698109,-76.799896,-10.27009",
     "geom:latitude":-10.5155,
     "geom:longitude":-77.032547,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.CJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415331,
-    "wof:geomhash":"800f335524156b803c4a5676cbe6fc82",
+    "wof:geomhash":"0f9787d97db78f43c90c6a238c66a427",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108693949,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886130,
     "wof:name":"Cajatambo",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

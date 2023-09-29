@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.845321,
-    "geom:area_square_m":71823606395.335129,
+    "geom:area_square_m":71823604913.393784,
     "geom:bbox":"-78.652535,-8.795639,-75.486701,-2.987278",
     "geom:latitude":-6.273143,
     "geom:longitude":-77.087981,
@@ -348,17 +348,19 @@
         "gn:id":3692385,
         "gp:id":2346489,
         "hasc:id":"PE.SM",
+        "iso:code":"PE-SAM",
         "iso:id":"PE-SAM",
         "qs_pg:id":423858,
         "unlc:id":"PE-SAM",
         "wd:id":"Q211793",
         "wk:page":"San Mart\u00edn Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"321420b5036ddf3d059e606d4f5ee8ee",
+    "wof:geomhash":"2baf1b38b73711e15990db5871a6cd80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -375,7 +377,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850393,
+    "wof:lastmodified":1695884862,
     "wof:name":"San Martin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

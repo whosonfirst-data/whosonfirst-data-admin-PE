@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318007,
-    "geom:area_square_m":3911333314.241258,
+    "geom:area_square_m":3911333282.103819,
     "geom:bbox":"-77.746643,-6.41393,-76.745201,-5.406285",
     "geom:latitude":-5.902243,
     "geom:longitude":-77.122317,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"PE.SM.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415454,
-    "wof:geomhash":"dd6450e3b2f098b5d4bc9015f0f5f09b",
+    "wof:geomhash":"7880f2f9adf731038f41d7019134f171",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108694053,
-    "wof:lastmodified":1636500223,
+    "wof:lastmodified":1695886746,
     "wof:name":"Moyobamba",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

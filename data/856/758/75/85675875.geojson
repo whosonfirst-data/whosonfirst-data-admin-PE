@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.054759,
-    "geom:area_square_m":37261945154.558105,
+    "geom:area_square_m":37261944645.995796,
     "geom:bbox":"-77.316818,-10.489615,-74.510865,-8.314332",
     "geom:latitude":-9.41971,
     "geom:longitude":-76.038841,
@@ -342,16 +342,18 @@
         "gn:id":3696416,
         "gp:id":2346477,
         "hasc:id":"PE.HC",
+        "iso:code":"PE-HUC",
         "iso:id":"PE-HUC",
         "qs_pg:id":1135212,
         "unlc:id":"PE-HUC",
         "wd:id":"Q215221"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b7e3e2737535ef7f5a12814f8c3f02e",
+    "wof:geomhash":"14ef4ebf2514e29463dfe0e819c0e535",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -368,7 +370,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850387,
+    "wof:lastmodified":1695884358,
     "wof:name":"Huanuco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

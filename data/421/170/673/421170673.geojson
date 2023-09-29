@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279932,
-    "geom:area_square_m":3382686875.110578,
+    "geom:area_square_m":3382686683.374109,
     "geom:bbox":"-75.139687,-12.534428,-74.343482,-11.984594",
     "geom:latitude":-12.242928,
     "geom:longitude":-74.769131,
@@ -152,12 +152,13 @@
         "wd:id":"Q1948195",
         "wk:page":"Tayacaja Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008863,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01cde2d2c4093203a67697c1f917d461",
+    "wof:geomhash":"5f32fbc70755f366762b0a3c4cf01cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421170673,
-    "wof:lastmodified":1690850472,
+    "wof:lastmodified":1695886753,
     "wof:name":"Tayacaja",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

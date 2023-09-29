@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064174,
-    "geom:area_square_m":788094038.144182,
+    "geom:area_square_m":788094199.374187,
     "geom:bbox":"-78.77024,-6.867627,-78.385094,-6.560479",
     "geom:latitude":-6.709628,
     "geom:longitude":-78.545982,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.CJ.HG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415361,
-    "wof:geomhash":"86215e71ce7358203a794f53d549adb8",
+    "wof:geomhash":"eb00f863c29d60418ca83411eab382c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108693979,
-    "wof:lastmodified":1627522494,
+    "wof:lastmodified":1695886131,
     "wof:name":"Hualgayoc",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

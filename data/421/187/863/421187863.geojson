@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144095,
-    "geom:area_square_m":1777829977.048629,
+    "geom:area_square_m":1777829441.449909,
     "geom:bbox":"-80.665906,-4.231936,-80.179351,-3.484952",
     "geom:latitude":-3.806797,
     "geom:longitude":-80.431571,
@@ -149,12 +149,13 @@
         "qs_pg:id":1086212,
         "wd:id":"Q1178003"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009526,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23bcb091e503cf7dcd6415457df450ae",
+    "wof:geomhash":"172fdf94c23e82286133e63794925914",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421187863,
-    "wof:lastmodified":1690850443,
+    "wof:lastmodified":1695886749,
     "wof:name":"Tumbes",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

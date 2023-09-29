@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264714,
-    "geom:area_square_m":3253359561.36324,
+    "geom:area_square_m":3253359600.245744,
     "geom:bbox":"-78.419961,-6.74582,-77.802498,-5.902344",
     "geom:latitude":-6.314812,
     "geom:longitude":-78.083136,
@@ -158,12 +158,13 @@
         "wd:id":"Q268277",
         "wk:page":"Luya Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008862,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d9bea3fb05b0e7996589dc6be4aab03",
+    "wof:geomhash":"9075c0a6f1ae365b9f04e736a161734a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421170663,
-    "wof:lastmodified":1690850475,
+    "wof:lastmodified":1695886753,
     "wof:name":"Luya",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

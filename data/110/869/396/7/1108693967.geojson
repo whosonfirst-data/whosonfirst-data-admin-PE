@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.476131,
-    "geom:area_square_m":5760043311.297932,
+    "geom:area_square_m":5760042647.64372,
     "geom:bbox":"-76.942275,-12.409795,-75.993805,-11.457805",
     "geom:latitude":-11.939806,
     "geom:longitude":-76.425589,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.LR.HH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415345,
-    "wof:geomhash":"a1facdb3a807dbf67dbbe6f64a8a7282",
+    "wof:geomhash":"494272d48ca37f20102347b388f4ac53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108693967,
-    "wof:lastmodified":1627522494,
+    "wof:lastmodified":1695886131,
     "wof:name":"Huarochir\u00ed",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

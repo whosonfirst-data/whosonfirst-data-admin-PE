@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.655541,
-    "geom:area_square_m":7854659962.901884,
+    "geom:area_square_m":7854659932.2582,
     "geom:bbox":"-76.071754,-14.929574,-75.210305,-13.742186",
     "geom:latitude":-14.299664,
     "geom:longitude":-75.643786,
@@ -149,12 +149,13 @@
         "wd:id":"Q2084696",
         "wk:page":"Ica Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009327,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"668cdfa5a76b2dd11149b45e110ff9bd",
+    "wof:geomhash":"aa6a8b3b944a6502ec1f0f9e75dfce9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421182363,
-    "wof:lastmodified":1690850480,
+    "wof:lastmodified":1695886753,
     "wof:name":"Ica",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

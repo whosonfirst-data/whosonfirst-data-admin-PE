@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.119818,
-    "geom:area_square_m":50659848487.71624,
+    "geom:area_square_m":50659847585.452675,
     "geom:bbox":"-75.569549,-7.534526,-72.855127,-4.44623",
     "geom:latitude":-5.999285,
     "geom:longitude":-74.048753,
@@ -147,9 +147,10 @@
         "hasc:id":"PE.LO.RQ",
         "wd:id":"Q1944325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415456,
-    "wof:geomhash":"4f7d7115fcc294696e71fea8fe8c8eed",
+    "wof:geomhash":"b0a3170ef497ac2a03f148673046cec9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108694055,
-    "wof:lastmodified":1690850412,
+    "wof:lastmodified":1695886747,
     "wof:name":"Requena",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

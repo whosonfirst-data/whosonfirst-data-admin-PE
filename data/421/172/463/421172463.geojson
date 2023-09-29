@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327936,
-    "geom:area_square_m":4014090460.812344,
+    "geom:area_square_m":4014090454.751496,
     "geom:bbox":"-77.701676,-8.533326,-76.90184,-7.593502",
     "geom:latitude":-8.142388,
     "geom:longitude":-77.323824,
@@ -155,12 +155,13 @@
         "wd:id":"Q1948180",
         "wk:page":"Pataz Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008943,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e5298e9e4c18d593b9c8983b6e1272f",
+    "wof:geomhash":"c9b31513c8123137d13eb3ed97dfa669",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421172463,
-    "wof:lastmodified":1690850449,
+    "wof:lastmodified":1695886750,
     "wof:name":"Pataz",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

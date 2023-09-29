@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.667802,
-    "geom:area_square_m":67706641224.006874,
+    "geom:area_square_m":67706641485.968994,
     "geom:bbox":"-71.118172,-17.295395,-68.826675,-13.003803",
     "geom:latitude":-14.926866,
     "geom:longitude":-69.953208,
@@ -238,12 +238,14 @@
     "wof:concordances":{
         "fips:code":"PE21",
         "hasc:id":"PE.PU",
+        "iso:code":"PE-PUN",
         "iso:id":"PE-PUN",
         "wd:id":"Q205104"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:created":1485547419,
-    "wof:geomhash":"69a21f9cd278bf73f14dc81002527cee",
+    "wof:geomhash":"9aca9fb0c306f8d78a7785b3fdc9f52b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -260,7 +262,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850404,
+    "wof:lastmodified":1695884864,
     "wof:name":"Puno",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

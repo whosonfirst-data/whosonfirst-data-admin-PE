@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205985,
-    "geom:area_square_m":2511655667.748049,
+    "geom:area_square_m":2511655122.72302,
     "geom:bbox":"-78.041695,-9.800457,-77.267098,-9.346609",
     "geom:latitude":-9.56129,
     "geom:longitude":-77.646309,
@@ -287,12 +287,13 @@
         "qs_pg:id":1086764,
         "wd:id":"Q793809"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53fc30d00c3201978076e00fd702092a",
+    "wof:geomhash":"de4dc32d685252fce9212fd713dff4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -302,7 +303,7 @@
         }
     ],
     "wof:id":421187921,
-    "wof:lastmodified":1690850444,
+    "wof:lastmodified":1695886749,
     "wof:name":"Huaraz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

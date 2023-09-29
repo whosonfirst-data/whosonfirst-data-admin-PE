@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243299,
-    "geom:area_square_m":2989398653.29491,
+    "geom:area_square_m":2989398423.837512,
     "geom:bbox":"-78.038154,-6.98658,-77.469535,-5.942559",
     "geom:latitude":-6.442966,
     "geom:longitude":-77.77541,
@@ -138,9 +138,10 @@
         "hasc:id":"PE.AM.CP",
         "wd:id":"Q997406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415247,
-    "wof:geomhash":"126b59e77d474b9314e8dfc98b9cd50d",
+    "wof:geomhash":"5ede214d70b886cfec4f1ba389f2f58e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108693895,
-    "wof:lastmodified":1690850416,
+    "wof:lastmodified":1695886747,
     "wof:name":"Chachapoyas",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

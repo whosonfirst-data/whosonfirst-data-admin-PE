@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149582,
-    "geom:area_square_m":1793679423.851735,
+    "geom:area_square_m":1793679619.379021,
     "geom:bbox":"-73.989234,-14.416523,-73.51143,-13.763477",
     "geom:latitude":-14.124866,
     "geom:longitude":-73.732032,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.AY.SU",
         "wd:id":"Q1814180"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415330,
-    "wof:geomhash":"638e2902e2e4e9723e152270d78a5373",
+    "wof:geomhash":"0c398cb6e05a77ee11c9b8dea96a5e97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108693947,
-    "wof:lastmodified":1690850411,
+    "wof:lastmodified":1695886746,
     "wof:name":"Sucre",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

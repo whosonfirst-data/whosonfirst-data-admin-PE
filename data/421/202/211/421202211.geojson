@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191134,
-    "geom:area_square_m":2327846725.834869,
+    "geom:area_square_m":2327846924.36058,
     "geom:bbox":"-77.775627,-10.251184,-77.173691,-9.646799",
     "geom:latitude":-9.950972,
     "geom:longitude":-77.426223,
@@ -149,12 +149,13 @@
         "wd:id":"Q1779720",
         "wk:page":"Recuay Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010109,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f92ba5ed9666f1402a6da9a79059236",
+    "wof:geomhash":"fa5efbd6090ab1885ca95b50fb342f62",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421202211,
-    "wof:lastmodified":1690850434,
+    "wof:lastmodified":1695886747,
     "wof:name":"Recuay",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

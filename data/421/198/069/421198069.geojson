@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.817121,
-    "geom:area_square_m":9695390856.1751,
+    "geom:area_square_m":9695390127.11545,
     "geom:bbox":"-72.28373,-16.799346,-70.804084,-15.921979",
     "geom:latitude":-16.346078,
     "geom:longitude":-71.554958,
@@ -164,12 +164,13 @@
         "wd:id":"Q601118",
         "wk:page":"Arequipa Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009935,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf3aeef3b5929c694218fbbe11478a40",
+    "wof:geomhash":"996e56709199662706dadc165757a8c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421198069,
-    "wof:lastmodified":1690850461,
+    "wof:lastmodified":1695886750,
     "wof:name":"Arequipa",
     "wof:parent_id":85675839,
     "wof:placetype":"county",

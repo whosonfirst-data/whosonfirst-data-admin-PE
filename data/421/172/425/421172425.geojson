@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044215,
-    "geom:area_square_m":531504943.737077,
+    "geom:area_square_m":531504746.473655,
     "geom:bbox":"-72.168586,-13.649062,-71.804627,-13.429496",
     "geom:latitude":-13.551424,
     "geom:longitude":-71.981656,
@@ -161,12 +161,13 @@
         "wd:id":"Q1132101",
         "wk:page":"Cusco Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008940,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e70b214036f750b060f6a511ab5390b3",
+    "wof:geomhash":"5bd95c76edd01336fc96c8c98cb3c550",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421172425,
-    "wof:lastmodified":1690850448,
+    "wof:lastmodified":1695886749,
     "wof:name":"Cusco",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

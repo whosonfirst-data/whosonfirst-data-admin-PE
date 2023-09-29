@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.246884,
-    "geom:area_square_m":2971234359.537777,
+    "geom:area_square_m":2971234325.181072,
     "geom:bbox":"-74.687393,-13.539152,-73.8275,-12.980586",
     "geom:latitude":-13.271229,
     "geom:longitude":-74.230146,
@@ -164,12 +164,13 @@
         "wd:id":"Q1784857",
         "wk:page":"Huamanga Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009438,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68a8d7adeebf8776ad4b0f2e67d6f1d5",
+    "wof:geomhash":"b24fd19b28ea79bf6026e686bc03858c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421185311,
-    "wof:lastmodified":1690850487,
+    "wof:lastmodified":1695886757,
     "wof:name":"Huamanga",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067176,
-    "geom:area_square_m":819747710.777722,
+    "geom:area_square_m":819747788.647499,
     "geom:bbox":"-77.777123,-9.453719,-77.318656,-9.08243",
     "geom:latitude":-9.29068,
     "geom:longitude":-77.569036,
@@ -149,12 +149,13 @@
         "wd:id":"Q1166126",
         "wk:page":"Carhuaz Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5d8a240bcc1b65cfbcb5c61d5e58129",
+    "wof:geomhash":"1e944496c4e20f8ddfea8865c3c8259e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421194077,
-    "wof:lastmodified":1690850426,
+    "wof:lastmodified":1695886744,
     "wof:name":"Carhuaz",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

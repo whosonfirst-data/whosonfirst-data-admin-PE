@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09362,
-    "geom:area_square_m":1148637532.227779,
+    "geom:area_square_m":1148637524.066081,
     "geom:bbox":"-79.690151,-7.325254,-79.251297,-6.946238",
     "geom:latitude":-7.14364,
     "geom:longitude":-79.456994,
@@ -159,12 +159,13 @@
         "qs_pg:id":1002209,
         "wd:id":"Q1920599"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c03ab761525725ece45c7425c0c31623",
+    "wof:geomhash":"2139db53a6d126bd25924704d22b2022",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421184599,
-    "wof:lastmodified":1690850470,
+    "wof:lastmodified":1695886753,
     "wof:name":"Chep\u00e9n",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

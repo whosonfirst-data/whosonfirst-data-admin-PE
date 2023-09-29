@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061179,
-    "geom:area_square_m":754952383.496913,
+    "geom:area_square_m":754952797.94629,
     "geom:bbox":"-80.394976,-3.92599,-80.126784,-3.397425",
     "geom:latitude":-3.652925,
     "geom:longitude":-80.256582,
@@ -133,12 +133,13 @@
         "qs_pg:id":504903,
         "wd:id":"Q2877763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459010003,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d74479211d9c73c75ba5301a1569524c",
+    "wof:geomhash":"e3a4ac39d36740358de0e84a20c455f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421199871,
-    "wof:lastmodified":1690850465,
+    "wof:lastmodified":1695886752,
     "wof:name":"Zarumilla",
     "wof:parent_id":85675831,
     "wof:placetype":"county",

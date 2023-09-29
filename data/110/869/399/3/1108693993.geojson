@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.661205,
-    "geom:area_square_m":8103175635.801196,
+    "geom:area_square_m":8103175635.798168,
     "geom:bbox":"-76.7362070312,-8.37993945312,-75.8302695312,-6.725671875",
     "geom:latitude":-7.638825,
     "geom:longitude":-76.319202,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"PE.SM.BV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415375,
-    "wof:geomhash":"1462de9cc1cc42bb2653471f9d43e7be",
+    "wof:geomhash":"1bdcd9ed7a1be8a940de0eeeed40c0b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108693993,
-    "wof:lastmodified":1566675933,
+    "wof:lastmodified":1695886595,
     "wof:name":"Bellavista",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

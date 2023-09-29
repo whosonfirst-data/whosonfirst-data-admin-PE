@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120407,
-    "geom:area_square_m":1449172146.121911,
+    "geom:area_square_m":1449172437.627762,
     "geom:bbox":"-72.60067,-13.4535,-71.969062,-13.083662",
     "geom:latitude":-13.257138,
     "geom:longitude":-72.289787,
@@ -185,12 +185,13 @@
         "wd:id":"Q1771879",
         "wk:page":"Urubamba Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"350274684069e13872209668db7a0895",
+    "wof:geomhash":"fcbc204bf00631b3d70605ba1297ac7b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421183001,
-    "wof:lastmodified":1690850479,
+    "wof:lastmodified":1695886752,
     "wof:name":"Urubamba",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

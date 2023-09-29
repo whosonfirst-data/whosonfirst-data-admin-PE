@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169566,
-    "geom:area_square_m":2079453017.750448,
+    "geom:area_square_m":2079453213.244814,
     "geom:bbox":"-79.367812,-7.660812,-78.60907,-7.178822",
     "geom:latitude":-7.356124,
     "geom:longitude":-78.979469,
@@ -132,9 +132,10 @@
         "hasc:id":"PE.CJ.CO",
         "wd:id":"Q1948003"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415442,
-    "wof:geomhash":"292657b9c584c1fccc526cd301e58727",
+    "wof:geomhash":"07442cee7d5d3c3b540bf7fd85c42893",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108694039,
-    "wof:lastmodified":1690850414,
+    "wof:lastmodified":1695886601,
     "wof:name":"Contumaz\u00e1",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

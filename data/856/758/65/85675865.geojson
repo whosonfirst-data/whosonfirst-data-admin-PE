@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.954447,
-    "geom:area_square_m":36038839094.35273,
+    "geom:area_square_m":36038838804.84243,
     "geom:bbox":"-78.658481,-10.788775,-76.726387,-8.051141",
     "geom:latitude":-9.407851,
     "geom:longitude":-77.670199,
@@ -346,17 +346,19 @@
         "gn:id":3699674,
         "gp:id":2346469,
         "hasc:id":"PE.AN",
+        "iso:code":"PE-ANC",
         "iso:id":"PE-ANC",
         "qs_pg:id":890098,
         "unlc:id":"PE-ANC",
         "wd:id":"Q205089",
         "wk:page":"Ancash Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28b44340681fcec423ada59188bfe053",
+    "wof:geomhash":"aea1aec53143b8fa2456c229094e27a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -373,7 +375,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850389,
+    "wof:lastmodified":1695884359,
     "wof:name":"Ancash",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

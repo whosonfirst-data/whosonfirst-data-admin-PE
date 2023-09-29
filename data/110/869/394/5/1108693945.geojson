@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18936,
-    "geom:area_square_m":2274001767.41952,
+    "geom:area_square_m":2274001767.420005,
     "geom:bbox":"-74.7831269531,-14.1868378906,-73.8639140625,-13.5558320312",
     "geom:latitude":-13.787525,
     "geom:longitude":-74.248938,
@@ -118,9 +118,10 @@
         "hasc:id":"PE.AY.VF",
         "wd:id":"Q1947116"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415328,
-    "wof:geomhash":"069c81540337e8bf8ac98e160fc8d61c",
+    "wof:geomhash":"a2c277e4e61beed80f9006f7d58902ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108693945,
-    "wof:lastmodified":1566675944,
+    "wof:lastmodified":1695886600,
     "wof:name":"Fajardo",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

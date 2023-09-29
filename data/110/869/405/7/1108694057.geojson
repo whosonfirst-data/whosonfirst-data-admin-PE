@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379006,
-    "geom:area_square_m":4658384372.489836,
+    "geom:area_square_m":4658384466.498883,
     "geom:bbox":"-76.883812,-6.693941,-75.900406,-5.951768",
     "geom:latitude":-6.275692,
     "geom:longitude":-76.417985,
@@ -113,9 +113,10 @@
     "wof:concordances":{
         "hasc:id":"PE.SM.LS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415459,
-    "wof:geomhash":"8af73991aba7320265a06ee8b3246d33",
+    "wof:geomhash":"f8626a49e0c32a2d777bb4d56f7a603f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108694057,
-    "wof:lastmodified":1636500222,
+    "wof:lastmodified":1695886746,
     "wof:name":"Lamas",
     "wof:parent_id":85675885,
     "wof:placetype":"county",

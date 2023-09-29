@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105528,
-    "geom:area_square_m":1293475237.48422,
+    "geom:area_square_m":1293475442.001718,
     "geom:bbox":"-78.944496,-7.797174,-78.323098,-7.394855",
     "geom:latitude":-7.579728,
     "geom:longitude":-78.647636,
@@ -133,9 +133,10 @@
         "hasc:id":"PE.LL.GC",
         "wd:id":"Q1920564"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415225,
-    "wof:geomhash":"916e93fd2029bb7a5532b2a4af6161cd",
+    "wof:geomhash":"209e0ebbbc3d32b4101d831b25ccb534",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108693887,
-    "wof:lastmodified":1690850417,
+    "wof:lastmodified":1695886603,
     "wof:name":"Gran Chim\u00fa",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

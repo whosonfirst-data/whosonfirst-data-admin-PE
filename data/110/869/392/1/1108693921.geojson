@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262771,
-    "geom:area_square_m":3142678966.135388,
+    "geom:area_square_m":3142679637.284323,
     "geom:bbox":"-70.011826,-15.111375,-69.11329,-14.305566",
     "geom:latitude":-14.711963,
     "geom:longitude":-69.615718,
@@ -124,9 +124,10 @@
         "hasc:id":"PE.PU.SA",
         "wd:id":"Q1935565"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415289,
-    "wof:geomhash":"d9e35dd82c0ef3fbd0a09f2ae4389bd8",
+    "wof:geomhash":"685dd301a35e72ae205936217acb5bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108693921,
-    "wof:lastmodified":1690850409,
+    "wof:lastmodified":1695886598,
     "wof:name":"San Antonio De Putina",
     "wof:parent_id":1108805617,
     "wof:placetype":"county",

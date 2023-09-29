@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100737,
-    "geom:area_square_m":1210424430.403708,
+    "geom:area_square_m":1210424171.697397,
     "geom:bbox":"-74.080346,-13.938437,-73.670021,-13.412496",
     "geom:latitude":-13.654365,
     "geom:longitude":-73.89901,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AY.VH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415327,
-    "wof:geomhash":"8d47b4895a76718a4050b2e5b61ce236",
+    "wof:geomhash":"e690528932e66d9bc44e36ed55a72f53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108693943,
-    "wof:lastmodified":1627522498,
+    "wof:lastmodified":1695886137,
     "wof:name":"Vilcas Huam\u00e1n",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.349056,
-    "geom:area_square_m":4210216301.51231,
+    "geom:area_square_m":4210216326.653068,
     "geom:bbox":"-75.579734,-13.185861,-74.68451,-12.360742",
     "geom:latitude":-12.718756,
     "geom:longitude":-75.087145,
@@ -176,12 +176,13 @@
         "wd:id":"Q2088859",
         "wk:page":"Huancavelica Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009057,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad836b66e71e6cc590f167b7afa1774b",
+    "wof:geomhash":"50ee1a3f2b12a5f2d8ff6afc46b988a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421175167,
-    "wof:lastmodified":1690850458,
+    "wof:lastmodified":1695886750,
     "wof:name":"Huancavelica",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

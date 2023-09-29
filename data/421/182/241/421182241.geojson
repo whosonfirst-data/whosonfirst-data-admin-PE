@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.896095,
-    "geom:area_square_m":122225513416.324615,
+    "geom:area_square_m":122225513271.50325,
     "geom:bbox":"-75.781578,-4.709053,-70.059015,-0.038777",
     "geom:latitude":-2.571534,
     "geom:longitude":-73.481772,
@@ -164,12 +164,13 @@
         "wd:id":"Q1779677",
         "wk:page":"Maynas Province, Peru"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009323,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ca489fb8e44dcaa3e8bd94f856a6afe",
+    "wof:geomhash":"ed373dda06da9f750c0d47434ebe4620",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421182241,
-    "wof:lastmodified":1690850480,
+    "wof:lastmodified":1695886755,
     "wof:name":"Maynas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

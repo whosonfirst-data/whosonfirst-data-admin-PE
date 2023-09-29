@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.517805,
-    "geom:area_square_m":18669418334.356953,
+    "geom:area_square_m":18669417875.369602,
     "geom:bbox":"-78.71067,-6.98658,-77.132844,-4.50077",
     "geom:latitude":-5.84173,
     "geom:longitude":-78.098058,
@@ -357,17 +357,19 @@
         "gn:id":3699699,
         "gp:id":2346468,
         "hasc:id":"PE.AM",
+        "iso:code":"PE-AMA",
         "iso:id":"PE-AMA",
         "qs_pg:id":890097,
         "unlc:id":"PE-AMA",
         "wd:id":"Q201162",
         "wk:page":"Amazonas Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e18f644baae044e8c9975ad98ae33ca1",
+    "wof:geomhash":"9e73bbf58f36246c0cc50e0f547ca338",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -384,7 +386,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850384,
+    "wof:lastmodified":1695884858,
     "wof:name":"Amazonas",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.003937,
-    "geom:area_square_m":72271407409.457657,
+    "geom:area_square_m":72271407378.022217,
     "geom:bbox":"-73.980361,-15.45866,-70.345047,-11.192943",
     "geom:latitude":-13.188923,
     "geom:longitude":-72.168904,
@@ -328,17 +328,19 @@
         "gn:id":3941583,
         "gp:id":2346475,
         "hasc:id":"PE.CS",
+        "iso:code":"PE-CUS",
         "iso:id":"PE-CUS",
         "qs_pg:id":913819,
         "unlc:id":"PE-CUS",
         "wd:id":"Q205057",
         "wk:page":"Cusco Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a51840adb83b1a800a6112e1d54a5a60",
+    "wof:geomhash":"31dd122acf16c5ac8e188a237869b7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -355,7 +357,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850387,
+    "wof:lastmodified":1695884359,
     "wof:name":"Cusco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

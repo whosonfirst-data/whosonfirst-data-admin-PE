@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187792,
-    "geom:area_square_m":2293838092.289009,
+    "geom:area_square_m":2293837754.578539,
     "geom:bbox":"-78.07315,-9.261451,-77.574463,-8.655328",
     "geom:latitude":-8.943659,
     "geom:longitude":-77.828432,
@@ -155,12 +155,13 @@
         "wd:id":"Q1779670",
         "wk:page":"Huaylas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008862,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28efea64c27943b39f303f89d9a8d923",
+    "wof:geomhash":"78a86536698e0d3171d29aa702bc269a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421170661,
-    "wof:lastmodified":1690850473,
+    "wof:lastmodified":1695886753,
     "wof:name":"Huaylas",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

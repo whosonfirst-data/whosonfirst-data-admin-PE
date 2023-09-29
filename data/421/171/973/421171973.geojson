@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060215,
-    "geom:area_square_m":735664283.344546,
+    "geom:area_square_m":735664225.833102,
     "geom:bbox":"-77.56208,-9.006863,-77.16076,-8.703049",
     "geom:latitude":-8.870217,
     "geom:longitude":-77.340456,
@@ -181,12 +181,13 @@
         "qs_pg:id":1288732,
         "wd:id":"Q1779663"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459008914,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4af11ee6b02af7add0d16bb04034a327",
+    "wof:geomhash":"bf62652b1eb9ca90e370fdb154534ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421171973,
-    "wof:lastmodified":1690850485,
+    "wof:lastmodified":1695886757,
     "wof:name":"Mariscal Luzuriaga",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

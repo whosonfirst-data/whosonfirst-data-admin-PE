@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.990921,
-    "geom:area_square_m":24213475993.265049,
+    "geom:area_square_m":24213474887.838421,
     "geom:bbox":"-76.730492,-11.155084,-74.131943,-9.428311",
     "geom:latitude":-10.397582,
     "geom:longitude":-75.301176,
@@ -336,17 +336,19 @@
         "gn:id":3932834,
         "gp:id":2346486,
         "hasc:id":"PE.PA",
+        "iso:code":"PE-PAS",
         "iso:id":"PE-PAS",
         "qs_pg:id":219589,
         "unlc:id":"PE-PAS",
         "wd:id":"Q211208",
         "wk:page":"Pasco Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0da4ddd911f6d1a55bf6cdc271879a47",
+    "wof:geomhash":"f357006a6b86daa9dd564d79cfd5ce47",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -363,7 +365,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850392,
+    "wof:lastmodified":1695884862,
     "wof:name":"Pasco",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

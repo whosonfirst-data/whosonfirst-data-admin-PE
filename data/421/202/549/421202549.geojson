@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223743,
-    "geom:area_square_m":2705973231.283401,
+    "geom:area_square_m":2705973231.283716,
     "geom:bbox":"-77.198996,-12.519679,-76.621551,-11.57301",
     "geom:latitude":-12.017922,
     "geom:longitude":-76.904206,
@@ -637,6 +637,7 @@
         "qs_pg:id":224312,
         "wd:id":"Q2868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421186805
     ],
@@ -645,7 +646,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e902e8a7dd726bade22f01c2a689211d",
+    "wof:geomhash":"a4caf454c16031793e247d02ae27b3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -655,7 +656,7 @@
         }
     ],
     "wof:id":421202549,
-    "wof:lastmodified":1690850435,
+    "wof:lastmodified":1695886457,
     "wof:name":"Lima",
     "wof:parent_id":1175613121,
     "wof:placetype":"county",

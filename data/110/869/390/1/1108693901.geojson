@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.471829,
-    "geom:area_square_m":5811281508.224758,
+    "geom:area_square_m":5811281508.226628,
     "geom:bbox":"-78.7106699219,-5.72444726562,-78.057,-4.50077027246",
     "geom:latitude":-5.078686,
     "geom:longitude":-78.400681,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"PE.AM.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415252,
-    "wof:geomhash":"0464618e415bfd92e00f0edecd7bc17b",
+    "wof:geomhash":"cb20ff7fc7c18907427a5419a4801d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108693901,
-    "wof:lastmodified":1566675936,
+    "wof:lastmodified":1695886596,
     "wof:name":"Bagua",
     "wof:parent_id":85675895,
     "wof:placetype":"county",

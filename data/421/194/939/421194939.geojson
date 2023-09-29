@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063402,
-    "geom:area_square_m":772533542.435724,
+    "geom:area_square_m":772533661.655215,
     "geom:bbox":"-76.758367,-9.960766,-76.442338,-9.665279",
     "geom:latitude":-9.803162,
     "geom:longitude":-76.595535,
@@ -156,12 +156,13 @@
         "qs_pg:id":61403,
         "wd:id":"Q2088849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66b21b50bf5af35a8161c60dba4d8512",
+    "wof:geomhash":"d64ac8d35b55138b572c83419bd15533",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421194939,
-    "wof:lastmodified":1690850425,
+    "wof:lastmodified":1695886744,
     "wof:name":"Yarowilca",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

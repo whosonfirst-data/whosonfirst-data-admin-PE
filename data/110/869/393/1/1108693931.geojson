@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330074,
-    "geom:area_square_m":3974473383.92352,
+    "geom:area_square_m":3974473238.373069,
     "geom:bbox":"-75.810516,-13.525926,-74.989494,-12.774109",
     "geom:latitude":-13.145122,
     "geom:longitude":-75.406235,
@@ -129,9 +129,10 @@
         "hasc:id":"PE.HV.CV",
         "wd:id":"Q1944312"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415314,
-    "wof:geomhash":"99a1297c2e8de530a9a371e2729cfeab",
+    "wof:geomhash":"d77d84139d539d1966461b992951e7e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693931,
-    "wof:lastmodified":1690850411,
+    "wof:lastmodified":1695886599,
     "wof:name":"Castrovirreyna",
     "wof:parent_id":85675911,
     "wof:placetype":"county",

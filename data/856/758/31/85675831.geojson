@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378393,
-    "geom:area_square_m":4668282721.808786,
+    "geom:area_square_m":4668282697.365142,
     "geom:bbox":"-81.041155,-4.231936,-80.126784,-3.397425",
     "geom:latitude":-3.856485,
     "geom:longitude":-80.544759,
@@ -332,17 +332,19 @@
         "gn:id":3691146,
         "gp:id":2346491,
         "hasc:id":"PE.TU",
+        "iso:code":"PE-TUM",
         "iso:id":"PE-TUM",
         "qs_pg:id":1083857,
         "unlc:id":"PE-TUM",
         "wd:id":"Q209597",
         "wk:page":"Tumbes Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79d668ae73592bb808851ffe815b8fca",
+    "wof:geomhash":"bbf4cb423a199efa3e2502c9a3fe7410",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -359,7 +361,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850388,
+    "wof:lastmodified":1695884859,
     "wof:name":"Tumbes",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

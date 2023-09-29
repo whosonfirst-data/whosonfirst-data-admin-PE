@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043181,
-    "geom:area_square_m":527090706.610999,
+    "geom:area_square_m":527090706.611371,
     "geom:bbox":"-77.5325703125,-9.32448828125,-77.2628105469,-9.05648828125",
     "geom:latitude":-9.189951,
     "geom:longitude":-77.39885,
@@ -479,12 +479,13 @@
         "hasc:id":"PE.AN.AI",
         "qs_pg:id":962610
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009067,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"828649c4a9a1053b1be21742db234806",
+    "wof:geomhash":"924f295446f26f783d771d28a3870d55",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -494,7 +495,7 @@
         }
     ],
     "wof:id":421175433,
-    "wof:lastmodified":1582343544,
+    "wof:lastmodified":1695886752,
     "wof:name":"Asunci\u00f3n",
     "wof:parent_id":85675865,
     "wof:placetype":"county",

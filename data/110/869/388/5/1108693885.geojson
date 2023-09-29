@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21911,
-    "geom:area_square_m":2681788041.922769,
+    "geom:area_square_m":2681788455.375751,
     "geom:bbox":"-78.43001,-8.652947,-77.641113,-7.880643",
     "geom:latitude":-8.175933,
     "geom:longitude":-78.139315,
@@ -118,9 +118,10 @@
         "hasc:id":"PE.LL.SD",
         "wd:id":"Q1944238"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415221,
-    "wof:geomhash":"3373060bd2ec3ef7c3f174765cc26a45",
+    "wof:geomhash":"51bebcfba9170bdca7775e2b8ae16bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108693885,
-    "wof:lastmodified":1690850417,
+    "wof:lastmodified":1695886603,
     "wof:name":"Santiago De Chuco",
     "wof:parent_id":85675879,
     "wof:placetype":"county",

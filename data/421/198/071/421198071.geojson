@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330388,
-    "geom:area_square_m":3967301205.570179,
+    "geom:area_square_m":3967301798.306716,
     "geom:bbox":"-76.398364,-14.426694,-75.465615,-13.352926",
     "geom:latitude":-13.803371,
     "geom:longitude":-75.942459,
@@ -263,12 +263,13 @@
         "qs_pg:id":355796,
         "wd:id":"Q388502"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009935,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6814dea70a319017261451178a4004e6",
+    "wof:geomhash":"225b1c82871ee609222089c978f57634",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -278,7 +279,7 @@
         }
     ],
     "wof:id":421198071,
-    "wof:lastmodified":1690850461,
+    "wof:lastmodified":1695886750,
     "wof:name":"Pisco",
     "wof:parent_id":85675915,
     "wof:placetype":"county",

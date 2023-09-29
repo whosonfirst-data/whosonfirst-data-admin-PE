@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195657,
-    "geom:area_square_m":2312200047.191811,
+    "geom:area_square_m":2312200289.791427,
     "geom:bbox":"-70.570412,-17.46074,-70.070686,-16.77041",
     "geom:latitude":-17.114197,
     "geom:longitude":-70.302336,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"PE.TA.CD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1474415425,
-    "wof:geomhash":"2cb3e33559eaf78817bd006a6a083474",
+    "wof:geomhash":"8643d8097f8f878bd6a70d223e884e66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108694031,
-    "wof:lastmodified":1627522493,
+    "wof:lastmodified":1695886130,
     "wof:name":"Candarave",
     "wof:parent_id":85675861,
     "wof:placetype":"county",

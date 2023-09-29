@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.670939,
-    "geom:area_square_m":44473625221.670052,
+    "geom:area_square_m":44473625820.971542,
     "geom:bbox":"-76.519227,-12.683607,-73.355408,-10.653096",
     "geom:latitude":-11.536981,
     "geom:longitude":-74.884936,
@@ -349,17 +349,19 @@
         "gn:id":3937485,
         "gp:id":2346479,
         "hasc:id":"PE.JU",
+        "iso:code":"PE-JUN",
         "iso:id":"PE-JUN",
         "qs_pg:id":219587,
         "unlc:id":"PE-JUN",
         "wd:id":"Q207973",
         "wk:page":"Jun\u00edn Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4ee0bdf0d90e6a302de048d3451dd15",
+    "wof:geomhash":"ddf119f0c22f2659090f1a54b336602f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -376,7 +378,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850396,
+    "wof:lastmodified":1695884360,
     "wof:name":"Junin",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

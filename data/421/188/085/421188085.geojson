@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.607939,
-    "geom:area_square_m":19796261807.332626,
+    "geom:area_square_m":19796261347.252384,
     "geom:bbox":"-76.894537,-6.178035,-75.416611,-3.669764",
     "geom:latitude":-5.307404,
     "geom:longitude":-76.109434,
@@ -164,12 +164,13 @@
         "wd:id":"Q1920572",
         "wk:page":"Alto Amazonas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009533,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3714dea8b9a2626f34366efa83bb5f0",
+    "wof:geomhash":"b27a573966694753271bf58342e28a33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421188085,
-    "wof:lastmodified":1690850446,
+    "wof:lastmodified":1695886749,
     "wof:name":"Alto Amazonas",
     "wof:parent_id":85675899,
     "wof:placetype":"county",

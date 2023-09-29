@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158696,
-    "geom:area_square_m":1931283637.938568,
+    "geom:area_square_m":1931283631.394173,
     "geom:bbox":"-76.916291,-10.485111,-76.472633,-9.868693",
     "geom:latitude":-10.200651,
     "geom:longitude":-76.703776,
@@ -157,12 +157,13 @@
         "qs_pg:id":485414,
         "wd:id":"Q188098"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009292,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"769397bc1927fe55456030153967591a",
+    "wof:geomhash":"2bbdba460988cbd85398590efe3528ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421181301,
-    "wof:lastmodified":1690850457,
+    "wof:lastmodified":1695886751,
     "wof:name":"Lauricocha",
     "wof:parent_id":85675875,
     "wof:placetype":"county",

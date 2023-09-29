@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.648088,
-    "geom:area_square_m":31984868819.767815,
+    "geom:area_square_m":31984868238.327595,
     "geom:bbox":"-73.980361,-13.457748,-71.945701,-11.192943",
     "geom:latitude":-12.350533,
     "geom:longitude":-72.923812,
@@ -171,12 +171,13 @@
         "wd:id":"Q1343276",
         "wk:page":"La Convenci\u00f3n Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e3350342c764bb8daf55e5c7b105b72",
+    "wof:geomhash":"9326cfbed108be93119b54e21d33ec10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421194085,
-    "wof:lastmodified":1690850426,
+    "wof:lastmodified":1695886744,
     "wof:name":"La Convenci\u00f3n",
     "wof:parent_id":85675843,
     "wof:placetype":"county",

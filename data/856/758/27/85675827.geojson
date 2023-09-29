@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.918197,
-    "geom:area_square_m":35937940098.922142,
+    "geom:area_square_m":35937939491.58503,
     "geom:bbox":"-81.328231,-6.371807,-79.210834,-4.081778",
     "geom:latitude":-5.132001,
     "geom:longitude":-80.334577,
@@ -342,17 +342,19 @@
         "gn:id":3693525,
         "gp:id":2346487,
         "hasc:id":"PE.PI",
+        "iso:code":"PE-PIU",
         "iso:id":"PE-PIU",
         "qs_pg:id":219590,
         "unlc:id":"PE-PIU",
         "wd:id":"Q208183",
         "wk:page":"Piura Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bffe333468cf51b029b8a389c624c2c",
+    "wof:geomhash":"ac652820e5ffe8addde91ca358a01242",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -369,7 +371,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690850385,
+    "wof:lastmodified":1695884858,
     "wof:name":"Piura",
     "wof:parent_id":85632521,
     "wof:placetype":"region",

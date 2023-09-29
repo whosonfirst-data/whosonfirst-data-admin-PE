@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321228,
-    "geom:area_square_m":3876855100.684206,
+    "geom:area_square_m":3876855042.896869,
     "geom:bbox":"-74.581596,-13.067748,-73.830467,-12.167912",
     "geom:latitude":-12.567337,
     "geom:longitude":-74.173078,
@@ -170,12 +170,13 @@
         "wd:id":"Q930214",
         "wk:page":"Huanta Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009793,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"442a50b4f8e139a462d4c0eb92a27e0e",
+    "wof:geomhash":"ecefa8e1036e65b68658e68edf19d8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421194081,
-    "wof:lastmodified":1690850427,
+    "wof:lastmodified":1695886747,
     "wof:name":"Huanta",
     "wof:parent_id":85675903,
     "wof:placetype":"county",

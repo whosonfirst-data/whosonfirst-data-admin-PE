@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.400454,
-    "geom:area_square_m":4931864755.917158,
+    "geom:area_square_m":4931864851.486294,
     "geom:bbox":"-79.378418,-5.512791,-78.589508,-4.623749",
     "geom:latitude":-5.125029,
     "geom:longitude":-78.944936,
@@ -163,12 +163,13 @@
         "qs_pg:id":484382,
         "wd:id":"Q1814197"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PE",
     "wof:created":1459009131,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78b1195c6629ec1a12b327d1fed8eaa4",
+    "wof:geomhash":"2fdc39ee651ca452ae297d0e119aebf2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421177057,
-    "wof:lastmodified":1690850477,
+    "wof:lastmodified":1695886752,
     "wof:name":"San Ignacio",
     "wof:parent_id":85675871,
     "wof:placetype":"county",

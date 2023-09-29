@@ -1152,6 +1152,7 @@
         "hasc:id":"PE",
         "icao:code":"OB",
         "ioc:id":"PER",
+        "iso:code":"PE",
         "itu:id":"PRU",
         "m49:code":"604",
         "marc:id":"pe",
@@ -1165,6 +1166,7 @@
         "wk:page":"Peru",
         "wmo:id":"PR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PE",
     "wof:country_alpha3":"PER",
     "wof:geom_alt":[
@@ -1189,7 +1191,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1694639524,
+    "wof:lastmodified":1695881179,
     "wof:name":"Peru",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
