@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3955855
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3928436
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"0b49db1e322229c4c23ac574d17b8fe3",
+    "wof:geomhash":"b678e371d7018a5152d7d9fffb6aecec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1276553399,
-    "wof:lastmodified":1566675181,
+    "wof:lastmodified":1706240574,
     "wof:name":"Sonjo",
     "wof:parent_id":1108694023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344156767
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -73.00083000000002,
+    -73.00083,
     -15.31556,
-    -73.00083000000002,
+    -73.00083,
     -15.31556
 ],
-  "geometry": {"coordinates":[-73.00083000000002,-15.31556],"type":"Point"}
+  "geometry": {"coordinates":[-73.00082999999999,-15.31556],"type":"Point"}
 }

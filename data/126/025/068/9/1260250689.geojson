@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":6394027
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3949120
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"3291b5c74b245f118a8ca15a8b561649",
+    "wof:geomhash":"edc95fa14f22e68c67bce0713d5ca124",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1260250689,
-    "wof:lastmodified":1566675809,
+    "wof:lastmodified":1706240573,
     "wof:name":"Tulapina",
     "wof:parent_id":421171961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276948123
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -69.71694000000001,
+    -69.71694,
     -17.58306,
-    -69.71694000000001,
+    -69.71694,
     -17.58306
 ],
-  "geometry": {"coordinates":[-69.71694000000001,-17.58306],"type":"Point"}
+  "geometry": {"coordinates":[-69.71693999999999,-17.58306],"type":"Point"}
 }

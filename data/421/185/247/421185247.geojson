@@ -9,6 +9,21 @@
     "geom:bbox":"-75.34406,-11.89235,-75.34406,-11.89235",
     "geom:latitude":-11.89235,
     "geom:longitude":-75.34406,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120210.0",
+    "gn:asciiname":"Matahuasi",
+    "gn:country_code":"PE",
+    "gn:dem":3289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":6674615,
+    "gn:latitude":-11.89161,
+    "gn:longitude":-75.3435,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Matahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
     "iso:country":"PE",
     "lbl:bbox":"-75.36406,-11.91235,-75.32406,-11.87235",
     "lbl:max_zoom":18.0,
@@ -48,6 +63,11 @@
         "gp:id":419018,
         "qs_pg:id":887630
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6674615
+        ]
+    },
     "wof:country":"PE",
     "wof:created":1459009437,
     "wof:geomhash":"84179f6852e936505796a57c98aff0a7",
@@ -61,13 +81,15 @@
         }
     ],
     "wof:id":421185247,
-    "wof:lastmodified":1566676551,
+    "wof:lastmodified":1706240567,
     "wof:name":"Matahuasi",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327220663
+    ],
     "wof:tags":[]
 },
   "bbox": [

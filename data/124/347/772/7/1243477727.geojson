@@ -45,8 +45,13 @@
     "wof:concordances":{
         "gn:id":3938534
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3948676
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"eff6b692e3a8b70d1e3f40c32f45f955",
+    "wof:geomhash":"14af493b25a5459194b445eeef84c525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1243477727,
-    "wof:lastmodified":1566676763,
+    "wof:lastmodified":1706240572,
     "wof:name":"Jallmine",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360009031
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -72.03204000000002,
+    -72.03204,
     -15.49551,
-    -72.03204000000002,
+    -72.03204,
     -15.49551
 ],
-  "geometry": {"coordinates":[-72.03204000000002,-15.49551],"type":"Point"}
+  "geometry": {"coordinates":[-72.03203999999999,-15.49551],"type":"Point"}
 }

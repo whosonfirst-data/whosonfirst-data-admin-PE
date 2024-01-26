@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":3697496
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6278911
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"65e78f5003e331955526abd66ccf5833",
+    "wof:geomhash":"3700fb9ef01e09e5675eb5d1319287d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1276304005,
-    "wof:lastmodified":1566675212,
+    "wof:lastmodified":1706240574,
     "wof:name":"Diamante Azul",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310286929
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -73.98416999999998,
+    -73.98417,
     -2.41413,
-    -73.98416999999998,
+    -73.98417,
     -2.41413
 ],
-  "geometry": {"coordinates":[-73.98416999999998,-2.41413],"type":"Point"}
+  "geometry": {"coordinates":[-73.98417000000001,-2.41413],"type":"Point"}
 }

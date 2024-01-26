@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3697316
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818327
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"821c3af4eda2f314f87177d18abc670c",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1277145131,
-    "wof:lastmodified":1566675084,
+    "wof:lastmodified":1706240574,
     "wof:name":"El Huasimo",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344214639
+    ],
     "wof:tags":[]
 },
   "bbox": [

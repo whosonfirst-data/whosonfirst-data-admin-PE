@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3693090
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3812026
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"17ec593bdc8fd068bcfd05656a651994",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193279069,
-    "wof:lastmodified":1566675756,
+    "wof:lastmodified":1706240568,
     "wof:name":"Pururco",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343362543
+    ],
     "wof:tags":[]
 },
   "bbox": [

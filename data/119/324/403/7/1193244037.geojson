@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3933921
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3952669
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"2c79dd26d97ebe6f3046f4befffc4fad",
+    "wof:geomhash":"d826e230cfc1af288d545fe1bfc745e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1193244037,
-    "wof:lastmodified":1566675700,
+    "wof:lastmodified":1706240568,
     "wof:name":"Osmore Chico",
     "wof:parent_id":421185587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226104701
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -71.15543000000002,
+    -71.15543,
     -17.50751,
-    -71.15543000000002,
+    -71.15543,
     -17.50751
 ],
-  "geometry": {"coordinates":[-71.15543000000002,-17.50751],"type":"Point"}
+  "geometry": {"coordinates":[-71.15543,-17.50751],"type":"Point"}
 }

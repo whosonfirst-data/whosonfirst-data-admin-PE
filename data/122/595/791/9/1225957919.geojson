@@ -201,6 +201,11 @@
     "wof:concordances":{
         "gn:id":3696486
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6383665
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"3869a4f47458c986b89651d1ac9ebc99",
     "wof:hierarchy":[
@@ -213,13 +218,15 @@
         }
     ],
     "wof:id":1225957919,
-    "wof:lastmodified":1566677288,
+    "wof:lastmodified":1706240570,
     "wof:name":"Huambo",
     "wof:parent_id":1108693897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276666807
+    ],
     "wof:tags":[]
 },
   "bbox": [

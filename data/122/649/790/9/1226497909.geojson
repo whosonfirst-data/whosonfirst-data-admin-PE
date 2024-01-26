@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3818436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818420
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"353842b4d8b2512767d9a1d835704a38",
+    "wof:geomhash":"5bcc3cf3fd2d002131f1c7fef42f1e38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1226497909,
-    "wof:lastmodified":1566677531,
+    "wof:lastmodified":1706240570,
     "wof:name":"Cruz Blanca",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310556871
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -80.42416999999998,
+    -80.42417,
     -3.66611,
-    -80.42416999999998,
+    -80.42417,
     -3.66611
 ],
-  "geometry": {"coordinates":[-80.42416999999998,-3.66611],"type":"Point"}
+  "geometry": {"coordinates":[-80.42417,-3.66611],"type":"Point"}
 }

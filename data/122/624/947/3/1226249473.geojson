@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3958232
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3941926
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"ff2ae32636b187e300801aafac777f4f",
+    "wof:geomhash":"47800963e81c48f5efc28cf9abb948dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1226249473,
-    "wof:lastmodified":1566677555,
+    "wof:lastmodified":1706240570,
     "wof:name":"Cruz Pata",
     "wof:parent_id":421170339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276443357
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -73.55471999999997,
+    -73.55472,
     -14.015,
-    -73.55471999999997,
+    -73.55472,
     -14.015
 ],
-  "geometry": {"coordinates":[-73.55471999999997,-14.015],"type":"Point"}
+  "geometry": {"coordinates":[-73.55472,-14.015],"type":"Point"}
 }

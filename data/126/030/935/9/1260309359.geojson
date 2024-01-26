@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3929953
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3950242
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"0b6b31b36da8ddb23b6a2a8e05e285f4",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1260309359,
-    "wof:lastmodified":1566675833,
+    "wof:lastmodified":1706240573,
     "wof:name":"Sallalli",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326462665
+    ],
     "wof:tags":[]
 },
   "bbox": [

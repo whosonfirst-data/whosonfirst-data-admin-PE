@@ -159,6 +159,11 @@
     "wof:concordances":{
         "gn:id":3692559
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6307815
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"e6adaf4b06fbd3820589711b5050414e",
     "wof:hierarchy":[
@@ -171,13 +176,15 @@
         }
     ],
     "wof:id":1293652977,
-    "wof:lastmodified":1636500101,
+    "wof:lastmodified":1706240575,
     "wof:name":"San Fernando",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327197755
+    ],
     "wof:tags":[]
 },
   "bbox": [

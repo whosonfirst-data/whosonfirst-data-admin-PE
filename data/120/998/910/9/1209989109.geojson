@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3939604
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3961139
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"cae6889771bd58486bd7fc52da75cda4",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209989109,
-    "wof:lastmodified":1566675307,
+    "wof:lastmodified":1706240569,
     "wof:name":"Huananta",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343244711
+    ],
     "wof:tags":[]
 },
   "bbox": [

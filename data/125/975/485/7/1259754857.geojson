@@ -34,6 +34,10 @@
     "name:fra_x_preferred":[
         "Santa Clotilde"
     ],
+    "name:und_x_variant":[
+        "Santa Clotildo",
+        "Santa Clotilda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -44,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6278912
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3692225
+        ]
     },
     "wof:country":"PE",
     "wof:geomhash":"f7a176687beb33a24f3855f1d48b66e7",
@@ -57,13 +66,15 @@
         }
     ],
     "wof:id":1259754857,
-    "wof:lastmodified":1566677254,
+    "wof:lastmodified":1706240573,
     "wof:name":"Santa Clotilde",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276315093
+    ],
     "wof:tags":[]
 },
   "bbox": [

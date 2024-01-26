@@ -144,8 +144,13 @@
     "wof:concordances":{
         "gn:id":3934962
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3953435
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"1f40a02a57e2f1021c185564ab67f52e",
+    "wof:geomhash":"148b0c1e446ea48d0839a76a73bf769f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,20 +161,22 @@
         }
     ],
     "wof:id":1276682065,
-    "wof:lastmodified":1566675071,
+    "wof:lastmodified":1706240574,
     "wof:name":"Mina",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293493337
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -72.13953000000002,
+    -72.13953,
     -15.50306,
-    -72.13953000000002,
+    -72.13953,
     -15.50306
 ],
-  "geometry": {"coordinates":[-72.13953000000002,-15.50306],"type":"Point"}
+  "geometry": {"coordinates":[-72.13952999999999,-15.50306],"type":"Point"}
 }

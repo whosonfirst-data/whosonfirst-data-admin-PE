@@ -13,6 +13,7 @@
     "gn:admin2_code":"1104.0",
     "gn:admin3_code":"110401.0",
     "gn:asciiname":"Hacienda La Capilla",
+    "gn:cc2":"PE",
     "gn:country_code":"PE",
     "gn:dem":558,
     "gn:feature_class":"P",
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3937306
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3957494
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"a63fd635cf5ed19656f20dcddcdab2bd",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1193114553,
-    "wof:lastmodified":1566675762,
+    "wof:lastmodified":1706240568,
     "wof:name":"Hacienda La Capilla",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344134191
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":3932998
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3932997
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"3427a022e5c5b41d3008d21fe65dfa33",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1243165111,
-    "wof:lastmodified":1566676947,
+    "wof:lastmodified":1706240571,
     "wof:name":"Paras",
     "wof:parent_id":1108693941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243447399
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-76.62288,-10.13818,-76.62288,-10.13818",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -44,7 +46,7 @@
         "gn:id":3929389
     },
     "wof:country":"PE",
-    "wof:geomhash":"c7c81a534bb87a6cb0aae5389cc4a557",
+    "wof:geomhash":"d5c1ac3be5d811d1adfa83e223c1baa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,22 +57,24 @@
         }
     ],
     "wof:id":1343936249,
-    "wof:lastmodified":1566674329,
+    "wof:lastmodified":1706240567,
     "wof:name":"San Miguel de Cauri",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",
     "wof:population":5326,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421167977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -76.62288000000002,
+    -76.62288,
     -10.13818,
-    -76.62288000000002,
+    -76.62288,
     -10.13818
 ],
-  "geometry": {"coordinates":[-76.62288000000002,-10.13818],"type":"Point"}
+  "geometry": {"coordinates":[-76.62287999999999,-10.13818],"type":"Point"}
 }

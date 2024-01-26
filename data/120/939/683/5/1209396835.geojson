@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3735090
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3691331
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"55c79a864888367ddf6535bc0104d2e4",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209396835,
-    "wof:lastmodified":1566675329,
+    "wof:lastmodified":1706240569,
     "wof:name":"Tiruntan",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259951599
+    ],
     "wof:tags":[]
 },
   "bbox": [

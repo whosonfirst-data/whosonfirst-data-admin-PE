@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3945864
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3955826
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"096720fa5e5957458e584f3e5ae174a0",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1327356991,
-    "wof:lastmodified":1566673890,
+    "wof:lastmodified":1706240576,
     "wof:name":"Cancahue",
     "wof:parent_id":1108694023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343560875
+    ],
     "wof:tags":[]
 },
   "bbox": [

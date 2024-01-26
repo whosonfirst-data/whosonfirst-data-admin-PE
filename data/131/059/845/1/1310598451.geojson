@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3698815
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3742599
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"005b9ef159ea697bcb30ff6fa033021c",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1310598451,
-    "wof:lastmodified":1566676165,
+    "wof:lastmodified":1706240575,
     "wof:name":"Carhuaquero",
     "wof:parent_id":1108693987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344254375
+    ],
     "wof:tags":[]
 },
   "bbox": [

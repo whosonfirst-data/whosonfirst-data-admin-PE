@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3697389
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818499
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"9a16955b9cdf0c829d1703112890ea21",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276179743,
-    "wof:lastmodified":1566674951,
+    "wof:lastmodified":1706240573,
     "wof:name":"El Caucho",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343317463
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -31,6 +31,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Vinuncura",
+        "Vinoncuro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -41,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3736686
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3690889
+        ]
     },
     "wof:country":"PE",
     "wof:geomhash":"a7d66f558ae8120c4131bd575472b45a",
@@ -54,13 +63,15 @@
         }
     ],
     "wof:id":1243522087,
-    "wof:lastmodified":1566676630,
+    "wof:lastmodified":1706240572,
     "wof:name":"Vinoncuro",
     "wof:parent_id":421171957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327388991
+    ],
     "wof:tags":[]
 },
   "bbox": [

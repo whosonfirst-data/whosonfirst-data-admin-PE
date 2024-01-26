@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3959575
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3944632
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"19d1f7117f281106bfe9066955dd83b6",
+    "wof:geomhash":"e64ffd138a3299c6e272d0bc6ba4f4dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1209110549,
-    "wof:lastmodified":1566675557,
+    "wof:lastmodified":1706240569,
     "wof:name":"Chacralla",
     "wof:parent_id":421193433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293691327
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -73.99278000000002,
+    -73.99278,
     -14.20722,
-    -73.99278000000002,
+    -73.99278,
     -14.20722
 ],
-  "geometry": {"coordinates":[-73.99278000000002,-14.20722],"type":"Point"}
+  "geometry": {"coordinates":[-73.99278,-14.20722],"type":"Point"}
 }

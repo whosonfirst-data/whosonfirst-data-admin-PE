@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3936530
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6392855
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"0d76bd400d8331fd9a56cbd6a9f04d6c",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1277039013,
-    "wof:lastmodified":1566675100,
+    "wof:lastmodified":1706240574,
     "wof:name":"Lecanani",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292964855
+    ],
     "wof:tags":[]
 },
   "bbox": [

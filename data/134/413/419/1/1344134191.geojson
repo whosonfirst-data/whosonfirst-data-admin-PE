@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.12194,-14.50417,-75.12194,-14.50417",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Capilla",
@@ -48,7 +50,7 @@
         "gn:id":3957494
     },
     "wof:country":"PE",
-    "wof:geomhash":"b0f61a0c43b8a72a2fec9d7b99dfea3b",
+    "wof:geomhash":"5ff373441414548b50baeb38f7a8a9cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1344134191,
-    "wof:lastmodified":1566674149,
+    "wof:lastmodified":1706240568,
     "wof:name":"Hacienda La Capilla",
     "wof:parent_id":421197033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193114553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.12194000000002,
+    -75.12194,
     -14.50417,
-    -75.12194000000002,
+    -75.12194,
     -14.50417
 ],
-  "geometry": {"coordinates":[-75.12194000000002,-14.50417],"type":"Point"}
+  "geometry": {"coordinates":[-75.12194,-14.50417],"type":"Point"}
 }

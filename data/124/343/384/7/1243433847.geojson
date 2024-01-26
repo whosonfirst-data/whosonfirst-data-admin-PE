@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3930282
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6564053
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"2a043a6e7350ffc513fcdbfd6ab4b3a7",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243433847,
-    "wof:lastmodified":1566676989,
+    "wof:lastmodified":1706240572,
     "wof:name":"La Romilda",
     "wof:parent_id":421187849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326817261
+    ],
     "wof:tags":[]
 },
   "bbox": [

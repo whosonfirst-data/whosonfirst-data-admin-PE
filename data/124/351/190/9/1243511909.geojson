@@ -60,6 +60,11 @@
     "wof:concordances":{
         "gn:id":3818516
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818399
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"07917a526ac7811af00d68dae252a076",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         }
     ],
     "wof:id":1243511909,
-    "wof:lastmodified":1566676828,
+    "wof:lastmodified":1706240572,
     "wof:name":"Pocitos",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293158269
+    ],
     "wof:tags":[]
 },
   "bbox": [

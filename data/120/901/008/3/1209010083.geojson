@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":3942071
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3957243
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"2e44a4a2fc244a95fefca1fc7f36a4bf",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1209010083,
-    "wof:lastmodified":1566675322,
+    "wof:lastmodified":1706240568,
     "wof:name":"Cotana",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276448285
+    ],
     "wof:tags":[]
 },
   "bbox": [

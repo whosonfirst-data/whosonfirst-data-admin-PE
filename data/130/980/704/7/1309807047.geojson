@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3697991
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6378077
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"7a5956849c3940bdff1ef6d6b7c86154",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1309807047,
-    "wof:lastmodified":1566676451,
+    "wof:lastmodified":1706240575,
     "wof:name":"Cohechan",
     "wof:parent_id":421170663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309914989
+    ],
     "wof:tags":[]
 },
   "bbox": [

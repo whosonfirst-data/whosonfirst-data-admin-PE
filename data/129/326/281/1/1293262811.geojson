@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":3694854
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3820096
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"3918105d28feedf885a651d7867f1c0f",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293262811,
-    "wof:lastmodified":1566674866,
+    "wof:lastmodified":1706240575,
     "wof:name":"Media Luna",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344031189
+    ],
     "wof:tags":[]
 },
   "bbox": [

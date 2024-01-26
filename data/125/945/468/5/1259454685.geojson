@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3734966
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3692849
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"d4c2aa55256dc32fafb148110eadecda",
+    "wof:geomhash":"a3e6a06f2c2827e9feb757654fa411c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1259454685,
-    "wof:lastmodified":1566677240,
+    "wof:lastmodified":1706240572,
     "wof:name":"Roaboya",
     "wof:parent_id":421187865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310062661
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -74.90444000000002,
+    -74.90444,
     -7.79361,
-    -74.90444000000002,
+    -74.90444,
     -7.79361
 ],
-  "geometry": {"coordinates":[-74.90444000000002,-7.79361],"type":"Point"}
+  "geometry": {"coordinates":[-74.90443999999999,-7.79361],"type":"Point"}
 }

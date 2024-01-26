@@ -13,6 +13,7 @@
     "gn:admin2_code":"2001.0",
     "gn:admin3_code":"200114.0",
     "gn:asciiname":"Pedregal",
+    "gn:cc2":"PE",
     "gn:country_code":"PE",
     "gn:dem":72,
     "gn:feature_class":"P",
@@ -70,6 +71,11 @@
     "wof:concordances":{
         "gn:id":3693772
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3693773
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"6835c08e970634257e14fb3441a1dec1",
     "wof:hierarchy":[
@@ -82,13 +88,15 @@
         }
     ],
     "wof:id":1209981009,
-    "wof:lastmodified":1566675304,
+    "wof:lastmodified":1706240569,
     "wof:name":"Pedregal",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226307451
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.79028,-12.91306,-75.79028,-12.91306",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,7 +45,7 @@
         "gn:id":3959176
     },
     "wof:country":"PE",
-    "wof:geomhash":"92aa73f6164a613a47b761a47681d477",
+    "wof:geomhash":"dbb16c3f8a423ac94bfad06e8da99ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1293856543,
-    "wof:lastmodified":1566674645,
+    "wof:lastmodified":1706240574,
     "wof:name":"Huaylluran",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276839789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.79028000000002,
+    -75.79028,
     -12.91306,
-    -75.79028000000002,
+    -75.79028,
     -12.91306
 ],
-  "geometry": {"coordinates":[-75.79028000000002,-12.91306],"type":"Point"}
+  "geometry": {"coordinates":[-75.79028,-12.91306],"type":"Point"}
 }

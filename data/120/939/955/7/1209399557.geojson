@@ -72,6 +72,11 @@
     "wof:concordances":{
         "gn:id":3956678
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3956931
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"d057117b2dc942e9517f170bd3ad2f40",
     "wof:hierarchy":[
@@ -84,13 +89,15 @@
         }
     ],
     "wof:id":1209399557,
-    "wof:lastmodified":1566675325,
+    "wof:lastmodified":1706240569,
     "wof:name":"Totora",
     "wof:parent_id":421203205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310189905
+    ],
     "wof:tags":[]
 },
   "bbox": [

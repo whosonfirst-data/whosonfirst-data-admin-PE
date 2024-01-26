@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3818474
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3692884
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"43499953ab1cb6c9fa54dcd564af0db2",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1293169013,
-    "wof:lastmodified":1566674811,
+    "wof:lastmodified":1706240575,
     "wof:name":"Rica Playa",
     "wof:parent_id":421187863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344026211
+    ],
     "wof:tags":[]
 },
   "bbox": [

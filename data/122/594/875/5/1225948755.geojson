@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":6365727
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6382042
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"3556de64dc33185dc8c8b2af98936f7b",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1225948755,
-    "wof:lastmodified":1566677269,
+    "wof:lastmodified":1706240570,
     "wof:name":"Rayn",
     "wof:parent_id":1108693939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309799005
+    ],
     "wof:tags":[]
 },
   "bbox": [
