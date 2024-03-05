@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3693359
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3817202
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"38cae299623acb527a164a3cb281b78f",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1243146499,
-    "wof:lastmodified":1566676774,
+    "wof:lastmodified":1706240571,
     "wof:name":"Progreso Bajo",
     "wof:parent_id":1108693975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260256871
+    ],
     "wof:tags":[]
 },
   "bbox": [

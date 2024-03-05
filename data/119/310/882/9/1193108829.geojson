@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3699676
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3752736
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"f76ad16522e8f73a86671c50c4c576c2",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1193108829,
-    "wof:lastmodified":1566675773,
+    "wof:lastmodified":1706240568,
     "wof:name":"Anatico",
     "wof:parent_id":1108694051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276841747
+    ],
     "wof:tags":[]
 },
   "bbox": [

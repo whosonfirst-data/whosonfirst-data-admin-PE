@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3943221
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3961694
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"1450bc6345cebd98b69c467c510e873c",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1293659031,
-    "wof:lastmodified":1566674542,
+    "wof:lastmodified":1706240575,
     "wof:name":"Chunguy",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310078219
+    ],
     "wof:tags":[]
 },
   "bbox": [

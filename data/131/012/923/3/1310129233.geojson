@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-71.41472,-15.5,-71.41472,-15.5",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,7 +45,7 @@
         "gn:id":3957318
     },
     "wof:country":"PE",
-    "wof:geomhash":"c35d0ba6c134c9aaa7a421381fe2ace7",
+    "wof:geomhash":"6c25944e54b1daeaa2f7292fe813c80b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1310129233,
-    "wof:lastmodified":1566675956,
+    "wof:lastmodified":1706240574,
     "wof:name":"Ccena",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276369485
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -71.41471999999997,
+    -71.41472,
     -15.5,
-    -71.41471999999997,
+    -71.41472,
     -15.5
 ],
-  "geometry": {"coordinates":[-71.41471999999997,-15.5],"type":"Point"}
+  "geometry": {"coordinates":[-71.41472,-15.5],"type":"Point"}
 }

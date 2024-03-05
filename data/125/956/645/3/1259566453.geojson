@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3696247
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3696248
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"28a398beb91fba2f35f93b06dca874cd",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1259566453,
-    "wof:lastmodified":1566677208,
+    "wof:lastmodified":1706240573,
     "wof:name":"Humedades",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310388553
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3944657
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6369075
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"401d4b3aeaee2a94b8b72aedc2ec9741",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1293573247,
-    "wof:lastmodified":1566674704,
+    "wof:lastmodified":1706240575,
     "wof:name":"Chocllanca",
     "wof:parent_id":421177937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326825789
+    ],
     "wof:tags":[]
 },
   "bbox": [

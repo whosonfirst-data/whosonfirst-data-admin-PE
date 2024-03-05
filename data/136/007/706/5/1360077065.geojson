@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3752037
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3752630
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"e3b49e26048e4cd6ac93f1c86fd06392",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1360077065,
-    "wof:lastmodified":1566676253,
+    "wof:lastmodified":1706240576,
     "wof:name":"La Quinua",
     "wof:parent_id":1108693979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360277419
+    ],
     "wof:tags":[]
 },
   "bbox": [

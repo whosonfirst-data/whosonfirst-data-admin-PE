@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3697362
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3818504
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"26f93dba8baf0ba99cb25551f95f3c65",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1226013005,
-    "wof:lastmodified":1566677618,
+    "wof:lastmodified":1706240570,
     "wof:name":"El Corral",
     "wof:parent_id":421199871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242842647
+    ],
     "wof:tags":[]
 },
   "bbox": [

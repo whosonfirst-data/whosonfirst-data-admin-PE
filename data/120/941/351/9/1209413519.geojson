@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3958664
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3958136
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"d7038c76cf62ff774df42157a9b97038",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209413519,
-    "wof:lastmodified":1566675416,
+    "wof:lastmodified":1706240569,
     "wof:name":"Tantarnioc",
     "wof:parent_id":1108693947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277072957
+    ],
     "wof:tags":[]
 },
   "bbox": [

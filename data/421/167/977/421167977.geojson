@@ -9,6 +9,21 @@
     "geom:bbox":"-76.62288,-10.13818,-76.62288,-10.13818",
     "geom:latitude":-10.13818,
     "geom:longitude":-76.62288,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"1010.0",
+    "gn:admin3_code":"101007.0",
+    "gn:asciiname":"San Miguel de Cauri",
+    "gn:country_code":"PE",
+    "gn:dem":3586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3929389,
+    "gn:latitude":-10.13818,
+    "gn:longitude":-76.62288,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"San Miguel de Cauri",
+    "gn:population":5326,
+    "gn:timezone":"America/Lima",
     "iso:country":"PE",
     "lbl:bbox":"-76.64288,-10.15818,-76.60288,-10.11818",
     "lbl:max_zoom":15.0,
@@ -79,7 +94,12 @@
         "wd:id":"Q2761311"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1207613
+        "gn:id":[
+            3929389
+        ],
+        "qs_pg:id":[
+            1207613
+        ]
     },
     "wof:country":"PE",
     "wof:created":1459008750,
@@ -97,7 +117,7 @@
         }
     ],
     "wof:id":421167977,
-    "wof:lastmodified":1690850431,
+    "wof:lastmodified":1706240567,
     "wof:name":"San Miguel de Cauri",
     "wof:parent_id":421181301,
     "wof:placetype":"locality",
@@ -105,7 +125,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343936249
+    ],
     "wof:tags":[]
 },
   "bbox": [

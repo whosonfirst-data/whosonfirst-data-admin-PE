@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":6394070
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3899703
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"c4f04e7d084b6212f2dc2d07203328ff",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1193093135,
-    "wof:lastmodified":1566675689,
+    "wof:lastmodified":1706240568,
     "wof:name":"Ancomarca",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293362957
+    ],
     "wof:tags":[]
 },
   "bbox": [

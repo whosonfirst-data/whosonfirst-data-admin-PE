@@ -75,6 +75,11 @@
     "wof:concordances":{
         "gn:id":3964262
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3937165
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"b7991a01b425bf76a9988fdc6e35023e",
     "wof:hierarchy":[
@@ -87,13 +92,15 @@
         }
     ],
     "wof:id":1243139831,
-    "wof:lastmodified":1566676766,
+    "wof:lastmodified":1706240571,
     "wof:name":"Lagarto",
     "wof:parent_id":421175155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344111937
+    ],
     "wof:tags":[]
 },
   "bbox": [

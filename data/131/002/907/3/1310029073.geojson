@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-71.25849,-15.44153,-71.25849,-15.44153",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yuraccancha"
@@ -46,7 +48,7 @@
         "gn:id":3957079
     },
     "wof:country":"PE",
-    "wof:geomhash":"95a4b317577e22d3da956c48ca43266a",
+    "wof:geomhash":"45b57959e53cd650250ca8978ec78bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1310029073,
-    "wof:lastmodified":1566676191,
+    "wof:lastmodified":1706240570,
     "wof:name":"Yurac Ccacca",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226242389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -71.25849000000002,
+    -71.25849,
     -15.44153,
-    -71.25849000000002,
+    -71.25849,
     -15.44153
 ],
-  "geometry": {"coordinates":[-71.25849000000002,-15.44153],"type":"Point"}
+  "geometry": {"coordinates":[-71.25848999999999,-15.44153],"type":"Point"}
 }

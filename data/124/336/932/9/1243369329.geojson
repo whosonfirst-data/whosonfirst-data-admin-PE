@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3953436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3944670
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"9adf282c30e18aefa8780a5e78efb7a1",
+    "wof:geomhash":"27aaa14f6026b9f865ecebefb23bfbef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1243369329,
-    "wof:lastmodified":1566676586,
+    "wof:lastmodified":1706240571,
     "wof:name":"Chachas",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259979437
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -72.26916999999997,
+    -72.26917,
     -15.50139,
-    -72.26916999999997,
+    -72.26917,
     -15.50139
 ],
-  "geometry": {"coordinates":[-72.26916999999997,-15.50139],"type":"Point"}
+  "geometry": {"coordinates":[-72.26917,-15.50139],"type":"Point"}
 }

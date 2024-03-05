@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":6384830
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3693876
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"d7ba70331728f148ff7446d37b3a8fdc",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1192989485,
-    "wof:lastmodified":1566675743,
+    "wof:lastmodified":1706240568,
     "wof:name":"Parcoy",
     "wof:parent_id":421172463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310191239
+    ],
     "wof:tags":[]
 },
   "bbox": [

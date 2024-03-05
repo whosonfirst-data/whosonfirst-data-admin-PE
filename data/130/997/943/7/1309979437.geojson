@@ -111,6 +111,11 @@
     "wof:concordances":{
         "gn:id":3819936
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3692201
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"5273eeb1dabe744430e2aa23f7e6937f",
     "wof:hierarchy":[
@@ -123,13 +128,15 @@
         }
     ],
     "wof:id":1309979437,
-    "wof:lastmodified":1636500261,
+    "wof:lastmodified":1706240575,
     "wof:name":"Santa Elena",
     "wof:parent_id":421187855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343931221
+    ],
     "wof:tags":[]
 },
   "bbox": [

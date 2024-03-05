@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3812019
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3693075
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"23072d0534d64534c34f9ec14131f38d",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1242974319,
-    "wof:lastmodified":1566676929,
+    "wof:lastmodified":1706240571,
     "wof:name":"Quebrada Honda",
     "wof:parent_id":421172895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343871955
+    ],
     "wof:tags":[]
 },
   "bbox": [

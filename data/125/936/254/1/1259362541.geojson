@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3939186
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6671377
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"cf2ac44538f7d2716f11bb397a3f88a3",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1259362541,
-    "wof:lastmodified":1566676999,
+    "wof:lastmodified":1706240572,
     "wof:name":"Huaricolca",
     "wof:parent_id":421170675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259670647
+    ],
     "wof:tags":[]
 },
   "bbox": [

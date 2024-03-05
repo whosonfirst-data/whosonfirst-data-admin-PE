@@ -9,9 +9,23 @@
     "geom:bbox":"-75.3078,-11.96886,-75.3078,-11.96886",
     "geom:latitude":-11.96886,
     "geom:longitude":-75.3078,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1202.0",
+    "gn:admin3_code":"120213.0",
+    "gn:asciiname":"Orcotuna",
     "gn:country":"PE",
+    "gn:country_code":"PE",
+    "gn:dem":3245,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6674618,
+    "gn:latitude":-11.96758,
+    "gn:longitude":-75.30917,
+    "gn:modification_date":"2012-07-19",
+    "gn:name":"Orcotuna",
     "gn:population":4199,
+    "gn:timezone":"America/Lima",
     "iso:country":"PE",
     "lbl:bbox":"-75.3278,-11.98886,-75.2878,-11.94886",
     "lbl:max_zoom":15.0,
@@ -60,6 +74,11 @@
         "wd:id":"Q6320018",
         "wk:page":"Orcotuna District"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6674618
+        ]
+    },
     "wof:country":"PE",
     "wof:created":1469052501,
     "wof:geomhash":"0e72aa777c5e34e723b8bf6751ea2b54",
@@ -73,7 +92,7 @@
         }
     ],
     "wof:id":890445201,
-    "wof:lastmodified":1690850507,
+    "wof:lastmodified":1706240567,
     "wof:name":"Orcotuna",
     "wof:parent_id":1108694035,
     "wof:placetype":"locality",
@@ -81,7 +100,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309892565
+    ],
     "wof:tags":[]
 },
   "bbox": [

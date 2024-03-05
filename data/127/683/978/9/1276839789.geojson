@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3938876
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3959176
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"4f23fc690831b9a2db4750e79ee0ca33",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276839789,
-    "wof:lastmodified":1566675177,
+    "wof:lastmodified":1706240574,
     "wof:name":"Huaylluran",
     "wof:parent_id":1108693955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293856543
+    ],
     "wof:tags":[]
 },
   "bbox": [

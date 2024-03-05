@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3959029
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3959060
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"b35b33bcaae990aebdacebe8cc4497c7",
+    "wof:geomhash":"f4acb1fa2b6400b60967719132ab32e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1259762723,
-    "wof:lastmodified":1566677129,
+    "wof:lastmodified":1706240573,
     "wof:name":"Uncha",
     "wof:parent_id":421184147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343548069
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -75.91148000000003,
+    -75.91148,
     -11.1546,
-    -75.91148000000003,
+    -75.91148,
     -11.1546
 ],
-  "geometry": {"coordinates":[-75.91148000000003,-11.1546],"type":"Point"}
+  "geometry": {"coordinates":[-75.91148,-11.1546],"type":"Point"}
 }

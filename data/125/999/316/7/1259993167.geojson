@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":3698009
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6383661
+        ]
+    },
     "wof:country":"PE",
-    "wof:geomhash":"f3c197731e5367088aaf6267cbacccce",
+    "wof:geomhash":"4ac263e31a2129dd3c6b3f9d00a9f2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1259993167,
-    "wof:lastmodified":1566677057,
+    "wof:lastmodified":1706240573,
     "wof:name":"Cochamal",
     "wof:parent_id":1108693897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276882325
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -77.58570999999998,
+    -77.58571,
     -6.40717,
-    -77.58570999999998,
+    -77.58571,
     -6.40717
 ],
-  "geometry": {"coordinates":[-77.58570999999998,-6.40717],"type":"Point"}
+  "geometry": {"coordinates":[-77.58571000000001,-6.40717],"type":"Point"}
 }

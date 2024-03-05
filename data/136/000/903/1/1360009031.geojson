@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-72.03167,-15.495,-72.03167,-15.495",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -43,7 +45,7 @@
         "gn:id":3948676
     },
     "wof:country":"PE",
-    "wof:geomhash":"7f80dfdf48c9402a9942fa7feefcf963",
+    "wof:geomhash":"e6131bd343a5dcc3a4c07aa5d8c6ae8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1360009031,
-    "wof:lastmodified":1566676258,
+    "wof:lastmodified":1706240572,
     "wof:name":"Jallmine",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243477727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -72.03166999999998,
+    -72.03167,
     -15.495,
-    -72.03166999999998,
+    -72.03167,
     -15.495
 ],
-  "geometry": {"coordinates":[-72.03166999999998,-15.495],"type":"Point"}
+  "geometry": {"coordinates":[-72.03167000000001,-15.495],"type":"Point"}
 }

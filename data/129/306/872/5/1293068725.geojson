@@ -34,13 +34,31 @@
     "name:ara_x_preferred":[
         "\u0627\u0637\u0644\u0627\u064a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Atalaya"
+    ],
+    "name:ceb_x_preferred":[
+        "Atalaya"
+    ],
+    "name:deu_x_preferred":[
+        "Atalaya"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u062a\u0627\u0644\u0627\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Atalaya"
     ],
     "name:ita_x_preferred":[
         "Atalaya"
     ],
+    "name:nld_x_preferred":[
+        "Atalaya"
+    ],
     "name:nor_x_preferred":[
+        "Atalaya"
+    ],
+    "name:pol_x_preferred":[
         "Atalaya"
     ],
     "name:por_x_preferred":[
@@ -50,6 +68,9 @@
         "Atalaya"
     ],
     "name:spa_x_preferred":[
+        "Atalaya"
+    ],
+    "name:swe_x_preferred":[
         "Atalaya"
     ],
     "name:und_x_variant":[
@@ -73,6 +94,11 @@
         "gn:id":3947173,
         "wk:page":"Atalaya%2C_Ucayali"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3964227
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"c0e936f3c838c307409c19b12f1225db",
     "wof:hierarchy":[
@@ -85,13 +111,15 @@
         }
     ],
     "wof:id":1293068725,
-    "wof:lastmodified":1566674569,
+    "wof:lastmodified":1706240575,
     "wof:name":"Atalaya",
     "wof:parent_id":421175155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344243885
+    ],
     "wof:tags":[]
 },
   "bbox": [

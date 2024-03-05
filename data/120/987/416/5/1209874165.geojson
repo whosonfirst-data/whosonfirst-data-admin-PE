@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3943704
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3952529
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"35abf45485ec9f47cedbc45ecd7f35b2",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209874165,
-    "wof:lastmodified":1566675591,
+    "wof:lastmodified":1706240569,
     "wof:name":"Chipe",
     "wof:parent_id":1108694029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310457981
+    ],
     "wof:tags":[]
 },
   "bbox": [

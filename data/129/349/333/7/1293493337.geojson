@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-72.13833,-15.50222,-72.13833,-15.50222",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627"
@@ -145,7 +147,7 @@
         "gn:id":3953435
     },
     "wof:country":"PE",
-    "wof:geomhash":"cccb99e06204b74bea3aa5c0ec324c99",
+    "wof:geomhash":"f49cd72ae331fae9e3c7cd2af71a98b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,20 +158,22 @@
         }
     ],
     "wof:id":1293493337,
-    "wof:lastmodified":1566674655,
+    "wof:lastmodified":1706240574,
     "wof:name":"Mina",
     "wof:parent_id":421202523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276682065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -72.13833000000002,
+    -72.13833,
     -15.50222,
-    -72.13833000000002,
+    -72.13833,
     -15.50222
 ],
-  "geometry": {"coordinates":[-72.13833000000002,-15.50222],"type":"Point"}
+  "geometry": {"coordinates":[-72.13833,-15.50222],"type":"Point"}
 }

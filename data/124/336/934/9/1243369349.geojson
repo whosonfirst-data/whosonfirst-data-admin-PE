@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3938871
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3952655
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"56212a1a2c1c2e4cf35458b90d9b146f",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1243369349,
-    "wof:lastmodified":1566676587,
+    "wof:lastmodified":1706240572,
     "wof:name":"Huaynalen",
     "wof:parent_id":421182365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310633165
+    ],
     "wof:tags":[]
 },
   "bbox": [

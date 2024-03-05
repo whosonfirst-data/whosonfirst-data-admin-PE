@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":3698360
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3814574
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"914664c2062a3eb29a2401d6fde2070e",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1276181977,
-    "wof:lastmodified":1566674996,
+    "wof:lastmodified":1706240573,
     "wof:name":"Chicama",
     "wof:parent_id":421175163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360042891
+    ],
     "wof:tags":[]
 },
   "bbox": [

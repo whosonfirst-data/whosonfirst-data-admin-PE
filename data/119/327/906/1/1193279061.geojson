@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3694925
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6383646
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"1c87c970ce8d09d03b2b08684a3b15db",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1193279061,
-    "wof:lastmodified":1566675756,
+    "wof:lastmodified":1706240568,
     "wof:name":"Mariscal Benavides",
     "wof:parent_id":1108693897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309715555
+    ],
     "wof:tags":[]
 },
   "bbox": [

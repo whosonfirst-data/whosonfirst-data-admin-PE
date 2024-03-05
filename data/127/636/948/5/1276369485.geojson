@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3944994
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3957318
+        ]
+    },
     "wof:country":"PE",
     "wof:geomhash":"bb03146f06b06270fa5ddb4327760d8a",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276369485,
-    "wof:lastmodified":1566675263,
+    "wof:lastmodified":1706240574,
     "wof:name":"Ccena",
     "wof:parent_id":421193379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pe",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310129233
+    ],
     "wof:tags":[]
 },
   "bbox": [
